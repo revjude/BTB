@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΟΥΑΥ</p>
 
 And \[the\] lawlessness of \[the\] daughter of my people was magnified over \[the\] lawlessness of Sodom, the \[place\] being eradicated as \[with\] promptness, and they did not toil in her hands. 
-<small><sub>**KJV:**</sub></small>
-For the punishment of the iniquity of the daughter of my people is greater than the punishment of the sin of Sodom, that was overthrown as in a moment, and no hands stayed on her.
-<small><sub>**BSB:**</sub></small>
-The punishment of the daughter of my people is greater than that of Sodom, which was overthrown in an instant without a hand turned to help her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.5|<< Lamentations 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.7|Lamentations 4:7 >>]]</td></tr></table>
 
 | Translation | Greek |

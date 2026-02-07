@@ -1,12 +1,12 @@
-**Matthew 23:4
-**<small><sub>**KJV:**</sub></small>
+**Matthew 23:4**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For they bind heavy burdens and grievous to be borne, and lay [them] on men’s shoulders; but they [themselves] will not move them with one of their fingers.
 <small><sub>**BSB:**</sub></small>
 They tie up heavy, burdensome loads and lay them on men’s shoulders, but they themselves are not willing to lift a finger to move them.
 <small><sub>**Literal:**</sub></small>
 They tie up now burdens heavy and hard to bear and lay [them] on the shoulders <the> of men; themselves however with the finger of them not are they willing to move them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.3|<< Matthew 23:3]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.5|Matthew 23:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They tie up |**<big>[[G1195\|δεσμεύουσιν]]</big>**  |desmeuousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now [^1] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

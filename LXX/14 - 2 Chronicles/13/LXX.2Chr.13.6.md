@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 13:6** 
 <small><sub>**LXX:**</sub></small>
 And Jeroboam \[son of\] Nebat rose up, the servant of Solomon son of David, and revolted from  his master. 
-<small><sub>**KJV:**</sub></small>
-Yet Jeroboam the son of Nebat, the servant of Solomon the son of David, is risen up, and hath rebelled against his lord.
-<small><sub>**BSB:**</sub></small>
-Yet Jeroboam son of Nebat, a servant of Solomon son of David, rose up and rebelled against his master.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.13.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.5|<< 2 Chronicles 13:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.13.7|2 Chronicles 13:7 >>]]</td></tr></table>
 
 | Translation | Greek |

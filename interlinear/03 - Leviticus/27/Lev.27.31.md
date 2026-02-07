@@ -1,4 +1,4 @@
-**Leviticus 27:31** 
+**Leviticus 27:31**<big><big>[[Lev.27.30 Instruction on Tithes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if a man will at all redeem [ought] of his tithes, he shall add thereto the fifth [part] thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If a man wishes to redeem part of his tithe, he must add a fifth to its value.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.30|<< Leviticus 27:30]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.32|Leviticus 27:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<if>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly [if] \<to redeem>  |**<big>&#8207;[[H1350A\|גָּאֹ֥ל]]&#8207; </big>**| ga.'Ol<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

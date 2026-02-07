@@ -1,4 +1,4 @@
-**Joshua 19:8** 
+**Joshua 19:8**<big><big>[[Josh.19.1 Simeon’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the villages that [were] round about these cities to Baalathbeer, Ramath of the south. This [is] the inheritance of the tribe of the children of Simeon according to their families.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and all the villages surrounding these cities as far as Baalath-beer (Ramah of t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.7|<< Joshua 19:7]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.9|Joshua 19:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the villages  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H2691B\|חֲצֵרִ֗ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> cha.tze.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 1:20** 
 <small><sub>**LXX:**</sub></small>
 Where ever the cloud was there the spirit  \[was\] to go; the living creatures went, and the wheels also lifted away with them; because spirit of life \[was\] in the wheels. 
-<small><sub>**KJV:**</sub></small>
-Whithersoever the spirit was to go, they went, thither [was their] spirit to go; and the wheels were lifted up over against them: for the spirit of the living creature [was] in the wheels.
-<small><sub>**BSB:**</sub></small>
-Wherever the spirit would go, they would go, and the wheels would rise alongside them, because the spirit of the living creatures was in the wheels.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.1.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.19|<< Ezekiel 1:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.21|Ezekiel 1:21 >>]]</td></tr></table>
 
 | Translation | Greek |

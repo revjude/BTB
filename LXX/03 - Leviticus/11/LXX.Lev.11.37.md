@@ -1,10 +1,7 @@
 **LXX Leviticus 11:37** 
 <small><sub>**LXX:**</sub></small>
 And if \[anything\] should fall from  their decaying flesh upon any seed fit for sowing, which shall be sown, it shall be clean. 
-<small><sub>**KJV:**</sub></small>
-And if [any part] of their carcase fall upon any sowing seed which is to be sown, it [shall be] clean.
-<small><sub>**BSB:**</sub></small>
-If a carcass falls on any seed for sowing, the seed is clean;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.11.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.36|<< Leviticus 11:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.38|Leviticus 11:38 >>]]</td></tr></table>
 
 | Translation | Greek |

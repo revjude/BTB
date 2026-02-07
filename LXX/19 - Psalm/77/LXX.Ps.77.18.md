@@ -1,10 +1,7 @@
 **LXX Psalm 77:18** 
 <small><sub>**LXX:**</sub></small>
 \[The\] sound  of your thunder in the wheel; your lightnings appeared to the inhabitable world; the earth was shaken and trembling took place. 
-<small><sub>**KJV:**</sub></small>
-The voice of thy thunder [was] in the heaven: the lightnings lightened the world: the earth trembled and shook.
-<small><sub>**BSB:**</sub></small>
-Your thunder resounded in the whirlwind; the lightning lit up the world; the earth trembled and quaked.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.77.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.77.17|<< Psalm 77:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.77.19|Psalm 77:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 33:15** 
 <small><sub>**LXX:**</sub></small>
 \[He is\] the one shaping their hearts alone; the one perceiving in all  their works. 
-<small><sub>**KJV:**</sub></small>
-He fashioneth their hearts alike; he considereth all their works.
-<small><sub>**BSB:**</sub></small>
-He shapes the hearts of each; He considers all their works.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.33.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.33.14|<< Psalm 33:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.33.16|Psalm 33:16 >>]]</td></tr></table>
 
 | Translation | Greek |

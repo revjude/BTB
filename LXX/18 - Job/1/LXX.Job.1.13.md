@@ -1,10 +1,7 @@
 **LXX Job 1:13** 
 <small><sub>**LXX:**</sub></small>
 And it was on  this day the sons of Job and  his daughters were drinking wine in the house  of their elder brother. 
-<small><sub>**KJV:**</sub></small>
-And there was a day when his sons and his daughters [were] eating and drinking wine in their eldest brother’s house:
-<small><sub>**BSB:**</sub></small>
-One day, while Job’s sons and daughters were eating and drinking wine in their oldest brother’s house,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.12|<< Job 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.14|Job 1:14 >>]]</td></tr></table>
 
 | Translation | Greek |

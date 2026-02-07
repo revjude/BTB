@@ -1,4 +1,4 @@
-**Ruth 4:6** 
+**Ruth 4:6**<big><big>[[Ruth.4.1 Boaz Redeems Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the kinsman said, I cannot redeem [it] for myself, lest I mar mine own inheritance: redeem thou my right to thyself; for I cannot redeem [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The kinsman-redeemer replied, “I cannot redeem it myself, or I would jeopardiz
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.5|<< Ruth 4:5]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.7|Ruth 4:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the kinsman-redeemer  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1350A\|גֹּאֵ֗ל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> go.'El<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Chronicles 12:34** (12:35)
+**1 Chronicles 12:34**<big><big>[[1Chr.12.23 David’s Army Grows at Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of Naphtali a thousand captains, and with them with shield and spear thirty and seven thousand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From Naphtali: 1,000 commanders, accompanied by 37,000 men with shield and spear
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.12.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.33|<< 1 Chronicles 12:33]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.35|1 Chronicles 12:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and of Naphtali  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H5321G\|נַּפְתָּלִ֖י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> naf.ta.Li<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | commanders  |**<big>&#8207;[[H8269\|שָׂרִ֣ים]]&#8207; </big>**| sa.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

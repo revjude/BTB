@@ -1,4 +1,4 @@
-**1 Samuel 12:9** 
+**1 Samuel 12:9**<big><big>[[1Sam.12.1 Samuel’s Farewell Address|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they forgat the LORD their God, he sold them into the hand of Sisera, captain of the host of Hazor, and into the hand of the Philistines, and into the hand of the king of Moab, and they fought against them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But they forgot the LORD their God, and He sold them into the hand of Sisera the
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.12.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.12.8|<< 1 Samuel 12:8]]</td><td align="center" style="border:none;">[[1Sam.12|1 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.12.10|1 Samuel 12:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they forgot  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H7911\|יִּשְׁכְּח֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.ke.Chu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

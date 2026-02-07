@@ -1,4 +1,4 @@
-**Lamentations 3:56** 
+**Lamentations 3:56**<big><big>[[Lam.3.37 God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast heard my voice: hide not thine ear at my breathing, at my cry.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You heard my plea: “Do not ignore my cry for relief.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.56|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.55|<< Lamentations 3:55]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.57|Lamentations 3:57 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | voice my  |**<big>&#8207;[[H6963A\|קוֹלִ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ko.L<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you heard  |**<big>&#8207;[[H8085G\|שָׁמָ֑עְתָּ]]&#8207; </big>**| sha.Ma.'e.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

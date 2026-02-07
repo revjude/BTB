@@ -1,4 +1,4 @@
-**Ezekiel 23:12** 
+**Ezekiel 23:12**<big><big>[[Ezek.23.1 The Two Adulterous Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She doted upon the Assyrians [her] neighbours, captains and rulers clothed most gorgeously, horsemen riding upon horses, all of them desirable young men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She too lusted after the Assyrians—governors and commanders, warriors dressed 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.11|<< Ezekiel 23:11]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.13|Ezekiel 23:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] sons of  |**<big>&#8207;[[H1121G\|בְּנֵי֩]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

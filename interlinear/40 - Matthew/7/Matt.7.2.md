@@ -1,12 +1,12 @@
-**Matthew 7:2
-**<small><sub>**KJV:**</sub></small>
+**Matthew 7:2**<big><big>[[Matt.7.1 Judging Others|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again.
 <small><sub>**BSB:**</sub></small>
 For with the same judgment you pronounce, you will be judged, and with the measure you use, it will be measured to you.
 <small><sub>**Literal:**</sub></small>
 With whatever for verdict you judge, you will be judged; and with whatever measure you measure, it will be measured  to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.1|<< Matthew 7:1]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.3|Matthew 7:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | With |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | whatever |**<big>[[G3739\|ᾧ]]</big>**  |hō <small><sup>[[R-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

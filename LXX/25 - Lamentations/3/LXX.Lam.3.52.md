@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΣΑΔΗ</p>
 
 In hunting my enemies hunted me as a sparrow freely. 
-<small><sub>**KJV:**</sub></small>
-Mine enemies chased me sore, like a bird, without cause.
-<small><sub>**BSB:**</sub></small>
-Without cause my enemies hunted me like a bird.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.51|<< Lamentations 3:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.53|Lamentations 3:53 >>]]</td></tr></table>
 
 | Translation | Greek |

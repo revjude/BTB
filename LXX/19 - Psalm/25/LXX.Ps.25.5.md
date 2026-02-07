@@ -1,10 +1,7 @@
 **LXX Psalm 25:5** 
 <small><sub>**LXX:**</sub></small>
 Guide me with  your truth! and teach me that you are  God  my deliverer! and I waited on you all the day. 
-<small><sub>**KJV:**</sub></small>
-Lead me in thy truth, and teach me: for thou [art] the God of my salvation; on thee do I wait all the day.
-<small><sub>**BSB:**</sub></small>
-Guide me in Your truth and teach me, for You are the God of my salvation; all day long I wait for You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.25.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.25.4|<< Psalm 25:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.25.6|Psalm 25:6 >>]]</td></tr></table>
 
 | Translation | Greek |

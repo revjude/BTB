@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the seventh month arrived, and the sons of Israel \[were\] in their cities. And all the people gathered together as one man into the wide \[place\]  in front of the water gate. And they told  Ezra the scribe to bring the scroll of \[the\] law of Moses, which \[the\] <span class="smallcaps">lord</span> gave charge to \[\] Israel. 
-<small><sub>**KJV:**</sub></small>
-And all the people gathered themselves together as one man into the street that [was] before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which the LORD had commanded to Israel.
-<small><sub>**BSB:**</sub></small>
-At that time all the people gathered together in the square before the Water Gate, and they asked Ezra the scribe to bring out the Book of the Law of Moses, which the LORD had commanded for Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.8.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.73|<< Nehemiah 7:73]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.8.2|Nehemiah 8:2 >>]]</td></tr></table>
 
 | Translation | Greek |

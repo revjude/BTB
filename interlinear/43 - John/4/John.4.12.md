@@ -1,12 +1,12 @@
-**John 4:12
-**<small><sub>**KJV:**</sub></small>
+**John 4:12**<big><big>[[John.4.1 Jesus and the Samaritan Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Art thou greater than our father Jacob, which gave us the well, and drank thereof himself, and his children, and his cattle?
 <small><sub>**BSB:**</sub></small>
 Are You greater than our father Jacob, who gave us this well and drank from it himself, as did his sons and his livestock?”
 <small><sub>**Literal:**</sub></small>
 Not You yourself greater are [than] the father of us Jacob, who gave us the well, and himself of it drank and the sons of him and the livestock of him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.11|<< John 4:11]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.13|John 4:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | You yourself |**<big>[[G4771\|σὺ]]</big>**  |su <small><sup>[[P-2NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

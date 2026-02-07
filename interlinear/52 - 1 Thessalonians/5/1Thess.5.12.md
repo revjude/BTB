@@ -1,12 +1,12 @@
-**1 Thessalonians 5:12
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 5:12**<big><big>[[1Thess.5.12 Christian Living|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And we beseech you, brethren, to know them which labour among you, and are over you in the Lord, and admonish you;
 <small><sub>**BSB:**</sub></small>
 But we ask you, brothers, to acknowledge those who work diligently among you, who care for you in the Lord and who admonish you.
 <small><sub>**Literal:**</sub></small>
 We implore however you, brothers, to know those toiling among you and taking the lead over you in [the] Lord and admonishing you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.11|<< 1 Thessalonians 5:11]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.13|1 Thessalonians 5:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We implore |**<big>[[G2065\|Ἐρωτῶμεν]]</big>**  |Erōtōmen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

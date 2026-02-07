@@ -1,10 +1,7 @@
 **LXX Jeremiah 21:13** 
 <small><sub>**LXX:**</sub></small>
 Behold, I \[am\] against you, O one dwelling the valley of Sor; the plain \[country\] of the ones saying, Who shall terrify us? Or who shall enter to  our home? 
-<small><sub>**KJV:**</sub></small>
-Behold, I [am] against thee, O inhabitant of the valley, [and] rock of the plain, saith the LORD; which say, Who shall come down against us? or who shall enter into our habitations?
-<small><sub>**BSB:**</sub></small>
-Behold, I am against you who dwell above the valley, atop the rocky plateau—declares the LORD—you who say, “Who can come against us? Who can enter our dwellings?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.21.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.21.12|<< Jeremiah 21:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.21.14|Jeremiah 21:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 13:27** 
 <small><sub>**LXX:**</sub></small>
 Your adultery, and  your snorting, and the alienation  of your harlotry upon the hills, and in the fields I have seen --  your abominations. Woe to you, O Jerusalem, for you were not cleansed \[to follow\] after me. For how long yet? 
-<small><sub>**KJV:**</sub></small>
-I have seen thine adulteries, and thy neighings, the lewdness of thy whoredom, [and] thine abominations on the hills in the fields. Woe unto thee, O Jerusalem! wilt thou not be made clean? when [shall it] once [be]?
-<small><sub>**BSB:**</sub></small>
-Your adulteries and lustful neighings, your shameless prostitution on the hills and in the fields—I have seen your detestable acts. Woe to you, O Jerusalem! How long will you remain unclean?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.13.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.26|<< Jeremiah 13:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.1|Jeremiah 14:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Proverbs 27:8** 
+**Proverbs 27:8**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As a bird that wandereth from her nest, so [is] a man that wandereth from his place.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like a bird that strays from its nest is a man who wanders from his home.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.7|<< Proverbs 27:7]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.9|Proverbs 27:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like a bird  |**<big>&#8207;[[H9004\|כְּ֭]]&#8207;&#8207;[[H6833\|צִפּוֹר]]&#8207; </big>**| Ke.<small><sup>[[HR]]</sup></small> tzi.por<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [which] wanders  |**<big>&#8207;[[H5074\|נוֹדֶ֣דֶת]]&#8207; </big>**| no.De.det<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

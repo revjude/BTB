@@ -1,10 +1,7 @@
 **LXX 1 Samuel 10:11** 
 <small><sub>**LXX:**</sub></small>
 And came to pass all the \[things\] being made known to him yesterday and \[the\] third \[day before\]. And behold, he \[was\] in \[the\] midst of the prophets prophesying. And the people each said to  his neighbor, What is this, the \[thing\] having happened to the son of Kish? Or \[is\] also Saul among \[the\] prophets? 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when all that knew him beforetime saw that, behold, he prophesied among the prophets, then the people said one to another, What [is] this [that] is come unto the son of Kish? [Is] Saul also among the prophets?
-<small><sub>**BSB:**</sub></small>
-When all those who had formerly known Saul saw him prophesying with the prophets, they asked one another, “What has happened to the son of Kish? Is Saul also among the prophets?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.10.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.10|<< 1 Samuel 10:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.12|1 Samuel 10:12 >>]]</td></tr></table>
 
 | Translation | Greek |

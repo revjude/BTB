@@ -1,4 +1,4 @@
-**Deuteronomy 28:9** 
+**Deuteronomy 28:9**<big><big>[[Deut.28.1 The Blessings of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD shall establish thee an holy people unto himself, as he hath sworn unto thee, if thou shalt keep the commandments of the LORD thy God, and walk in his ways.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD will establish you as His holy people, just as He has sworn to you, if 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.8|<< Deuteronomy 28:8]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.10|Deuteronomy 28:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he will establish you  |**<big>&#8207;[[H6965I\|יְקִֽימְ]]&#8207;&#8207;[[H9031\|ךָ֨]]&#8207; </big>**[^1] | ye.ki.me.<small><sup>[[HVhi3ms]]</sup></small> Cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad Biblia (allepo benchayim)">LB(ah)</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

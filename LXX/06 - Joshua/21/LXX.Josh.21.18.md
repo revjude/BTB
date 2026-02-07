@@ -1,10 +1,7 @@
 **LXX Joshua 21:18** 
 <small><sub>**LXX:**</sub></small>
 and Anathoth and the \[parts\] being separated  with it, and  Almon and the \[parts\] being separated  with it; four cities. 
-<small><sub>**KJV:**</sub></small>
-Anathoth with her suburbs, and Almon with her suburbs; four cities.
-<small><sub>**BSB:**</sub></small>
-Anathoth, and Almon—four cities, together with their pasturelands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.21.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.17|<< Joshua 21:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.19|Joshua 21:19 >>]]</td></tr></table>
 
 | Translation | Greek |

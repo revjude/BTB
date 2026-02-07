@@ -1,10 +1,7 @@
 **LXX Proverbs 4:17** 
 <small><sub>**LXX:**</sub></small>
 For thus they feed well on grain of impiety; and by wine of a lawbreaker they are intoxicated. 
-<small><sub>**KJV:**</sub></small>
-For they eat the bread of wickedness, and drink the wine of violence.
-<small><sub>**BSB:**</sub></small>
-For they eat the bread of wickedness and drink the wine of violence.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.4.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.16|<< Proverbs 4:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.18|Proverbs 4:18 >>]]</td></tr></table>
 
 | Translation | Greek |

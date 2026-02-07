@@ -1,4 +1,4 @@
-**Psalms 104:16** 
+**Psalms 104:16**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The trees of the LORD are full [of sap]; the cedars of Lebanon, which he hath planted;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The trees of the LORD have their fill, the cedars of Lebanon that He planted,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.15|<< Psalms 104:15]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.17|Psalms 104:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they are satisfied  |**<big>&#8207;[[H7646\|יִ֭שְׂבְּעוּ]]&#8207; </big>**| Yis.be.'u<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] trees of  |**<big>&#8207;[[H6086H\|עֲצֵ֣י]]&#8207; </big>**| 'a.Tzei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

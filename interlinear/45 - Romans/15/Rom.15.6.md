@@ -1,12 +1,12 @@
-**Romans 15:6
-**<small><sub>**KJV:**</sub></small>
+**Romans 15:6**<big><big>[[Rom.15.1 Accept One Another|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That ye may with one mind [and] one mouth glorify God, even the Father of our Lord Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 so that with one mind and one voice you may glorify the God and Father of our Lord Jesus Christ.
 <small><sub>**Literal:**</sub></small>
 so that with one accord with one mouth you may glorify the God and Father of the Lord of us Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.5|<< Romans 15:5]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.7|Romans 15:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | with one accord |**<big>[[G3661\|ὁμοθυμαδὸν]]</big>**  |homothumadon <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

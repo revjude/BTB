@@ -1,4 +1,4 @@
-**Ezra 8:17** 
+**Ezra 8:17**<big><big>[[Ezra.8.15 Ezra Sends for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I sent them with commandment unto Iddo the chief at the place Casiphia, and I told them what they should say unto Iddo, [and] to his brethren the Nethinims, at the place Casiphia, that they should bring unto us ministers for the house of our God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I sent them to Iddo, the leader at Casiphia, with a message for him and his 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.16|<< Ezra 8:16]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.18|Ezra 8:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I commanded  [^2]|**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H6680\|אֲצַוֶּ֤ה]]&#8207; </big>**[^3] | va.<small><sup>[[Hc]]</sup></small> 'o.tzi.'ah<small><sup>[[HVpw1cs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | \<obj.> them  |**<big>&#8207;[[H0853\|אוֹתָ]]&#8207;&#8207;[[H9038\|ם֙]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

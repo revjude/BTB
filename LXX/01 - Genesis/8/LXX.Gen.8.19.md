@@ -1,10 +1,7 @@
 **LXX Genesis 8:19** 
 <small><sub>**LXX:**</sub></small>
 And all the wild beasts, and all the cattle, and every winged creature, and every reptile moving upon the earth, according to their type, came forth from the ark. 
-<small><sub>**KJV:**</sub></small>
-Every beast, every creeping thing, and every fowl, [and] whatsoever creepeth upon the earth, after their kinds, went forth out of the ark.
-<small><sub>**BSB:**</sub></small>
-Every living creature, every creeping thing, and every bird—everything that moves upon the earth—came out of the ark, kind by kind.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.8.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.8.18|<< Genesis 8:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.8.20|Genesis 8:20 >>]]</td></tr></table>
 
 | Translation | Greek |

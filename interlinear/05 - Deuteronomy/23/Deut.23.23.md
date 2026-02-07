@@ -1,4 +1,4 @@
-**Deuteronomy 23:23** (23:24)
+**Deuteronomy 23:23**<big><big>[[Deut.23.15 Miscellaneous Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That which is gone out of thy lips thou shalt keep and perform; [even] a freewill offering, according as thou hast vowed unto the LORD thy God, which thou hast promised with thy mouth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Be careful to follow through on what comes from your lips, because you have free
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.23.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.22|<< Deuteronomy 23:22]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.24|Deuteronomy 23:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] utterance of  |**<big>&#8207;[[H4161\|מוֹצָ֥א]]&#8207; </big>**| mo.Tza'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | lips your  |**<big>&#8207;[[H8193G\|שְׂפָתֶ֖י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| se.fa.Tei.<small><sup>[[HNcfdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

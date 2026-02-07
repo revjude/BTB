@@ -1,12 +1,12 @@
-**Hebrews 9:24
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 9:24**<big><big>[[Heb.9.11 Redemption through His Blood|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For Christ is not entered into the holy places made with hands, [which are] the figures of the true; but into heaven itself, now to appear in the presence of God for us:
 <small><sub>**BSB:**</sub></small>
 For Christ did not enter a man-made copy of the true sanctuary, but He entered heaven itself, now to appear on our behalf in the presence of God.
 <small><sub>**Literal:**</sub></small>
 Not for into made by hands has entered Holy [Places] <the> Christ, copies of the true [ones], but into itself <the> heaven, now to appear in the presence <the> of God for us;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.23|<< Hebrews 9:23]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.25|Hebrews 9:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

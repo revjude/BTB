@@ -1,10 +1,7 @@
 **LXX Numbers 1:49** 
 <small><sub>**LXX:**</sub></small>
 Know \[that\]! you shall not consider the tribe of Levi, and  their number you shall not take in \[the\] midst of \[the\] sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-Only thou shalt not number the tribe of Levi, neither take the sum of them among the children of Israel:
-<small><sub>**BSB:**</sub></small>
-“Do not number the tribe of Levi in the census with the other Israelites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.1.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.48|<< Numbers 1:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.50|Numbers 1:50 >>]]</td></tr></table>
 
 | Translation | Greek |

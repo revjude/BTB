@@ -1,10 +1,7 @@
 **LXX Joshua 22:16** 
 <small><sub>**LXX:**</sub></small>
 Thus says all the congregation of \[the\] <span class="smallcaps">lord</span>, What  \[is\] this trespass which you trespass before the God of Israel, to turn away today from behind \[the\] <span class="smallcaps">lord</span> by building for yourselves a shrine, \[for\] you to become defectors today from \[the\] <span class="smallcaps">lord</span>? 
-<small><sub>**KJV:**</sub></small>
-Thus saith the whole congregation of the LORD, What trespass [is] this that ye have committed against the God of Israel, to turn away this day from following the LORD, in that ye have builded you an altar, that ye might rebel this day against the LORD?
-<small><sub>**BSB:**</sub></small>
-“This is what the whole congregation of the LORD says: ‘What is this breach of faith you have committed today against the God of Israel by turning away from the LORD and building for yourselves an altar, that you might rebel against the LORD this day?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.22.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.15|<< Joshua 22:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.17|Joshua 22:17 >>]]</td></tr></table>
 
 | Translation | Greek |

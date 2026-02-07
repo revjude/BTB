@@ -1,4 +1,4 @@
-**Jeremiah 29:26** 
+**Jeremiah 29:26**<big><big>[[Jer.29.24 The Message to Shemaiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD hath made thee priest in the stead of Jehoiada the priest, that ye should be officers in the house of the LORD, for every man [that is] mad, and maketh himself a prophet, that thou shouldest put him in prison, and in the stocks.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD hath made thee priest in the stead of Jehoiada the priest, that ye shou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.25|<< Jeremiah 29:25]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.27|Jeremiah 29:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֞ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has made you  |**<big>&#8207;[[H5414I\|נְתָנְ]]&#8207;&#8207;[[H9031\|ךָ֣]]&#8207; </big>**| ne.ta.ne.<small><sup>[[HVqp3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

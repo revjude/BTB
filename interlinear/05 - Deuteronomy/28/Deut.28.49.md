@@ -1,4 +1,4 @@
-**Deuteronomy 28:49** 
+**Deuteronomy 28:49**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD shall bring a nation against thee from far, from the end of the earth, [as swift] as the eagle flieth; a nation whose tongue thou shalt not understand;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD will bring a nation from afar, from the ends of the earth, to swoop dow
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.48|<< Deuteronomy 28:48]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.50|Deuteronomy 28:50 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he will raise up  |**<big>&#8207;[[H5375H\|יִשָּׂ֣א]]&#8207; </big>**| yi.Sa'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֩]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

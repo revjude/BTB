@@ -1,10 +1,7 @@
 **LXX Psalm 140:8** 
 <small><sub>**LXX:**</sub></small>
 You should not deliver me, O <span class="smallcaps">lord</span>, from  my desire unto \[the\] sinner. They argue against me. You should not abandon me, lest at any time they should be raised up high. PAUSE. 
-<small><sub>**KJV:**</sub></small>
-Grant not, O LORD, the desires of the wicked: further not his wicked device; [lest] they exalt themselves. Selah.
-<small><sub>**BSB:**</sub></small>
-Grant not, O LORD, the desires of the wicked; do not promote their evil plans, lest they be exalted. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.140.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.140.7|<< Psalm 140:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.140.9|Psalm 140:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 6:14** 
 <small><sub>**LXX:**</sub></small>
 And he said, O <span class="smallcaps">lord</span>  God  of Israel, there is no God likened to you in heaven, nor upon the earth, keeping the covenant, and  \[showing\] mercy \[to\] your children, to the ones going before you with all their heart, 
-<small><sub>**KJV:**</sub></small>
-And said, O LORD God of Israel, [there is] no God like thee in the heaven, nor in the earth; which keepest covenant, and [shewest] mercy unto thy servants, that walk before thee with all their hearts:
-<small><sub>**BSB:**</sub></small>
-and said: “O LORD, God of Israel, there is no God like You in heaven or on earth, keeping Your covenant of loving devotion with Your servants who walk before You with all their hearts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.13|<< 2 Chronicles 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.15|2 Chronicles 6:15 >>]]</td></tr></table>
 
 | Translation | Greek |

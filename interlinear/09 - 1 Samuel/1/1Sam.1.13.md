@@ -1,4 +1,4 @@
-**1 Samuel 1:13** 
+**1 Samuel 1:13**<big><big>[[1Sam.1.9 Hannah Prays for a Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Hannah, she spake in her heart; only her lips moved, but her voice was not heard: therefore Eli thought she had been drunken.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hannah was praying in her heart, and though her lips were moving, her voice coul
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.12|<< 1 Samuel 1:12]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.14|1 Samuel 1:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Hannah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2584\|חַנָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> cha.Nah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | she  |**<big>&#8207;[[H1931\|הִ֚יא]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 13:13** 
 <small><sub>**LXX:**</sub></small>
 And Samuel said to Saul, It is folly to you that you kept not  my commandment which \[the\] <span class="smallcaps">lord</span> gave charge to you. As \[the\] <span class="smallcaps">lord</span> prepared  your kingdom over Israel unto \[the\] eon. 
-<small><sub>**KJV:**</sub></small>
-And Samuel said to Saul, Thou hast done foolishly: thou hast not kept the commandment of the LORD thy God, which he commanded thee: for now would the LORD have established thy kingdom upon Israel for ever.
-<small><sub>**BSB:**</sub></small>
-“You have acted foolishly,” Samuel declared. “You have not kept the command that the LORD your God gave you; if you had, the LORD would have established your kingdom over Israel for all time.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.13.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.12|<< 1 Samuel 13:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.14|1 Samuel 13:14 >>]]</td></tr></table>
 
 | Translation | Greek |

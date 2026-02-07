@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 22:4** 
 <small><sub>**LXX:**</sub></small>
 And he did the wicked \[thing\] in \[the\] eyes of \[the\] <span class="smallcaps">lord</span>, as \[the\] house of Ahab; for they were to him counselors after the dying  of his father  to utterly destroy him. 
-<small><sub>**KJV:**</sub></small>
-Wherefore he did evil in the sight of the LORD like the house of Ahab: for they were his counsellers after the death of his father to his destruction.
-<small><sub>**BSB:**</sub></small>
-And he did evil in the sight of the LORD, as the house of Ahab had done, for to his destruction they were his counselors after the death of his father.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.22.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.22.3|<< 2 Chronicles 22:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.22.5|2 Chronicles 22:5 >>]]</td></tr></table>
 
 | Translation | Greek |

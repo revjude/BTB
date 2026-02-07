@@ -1,12 +1,12 @@
-**1 Corinthians 14:8
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 14:8**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For if the trumpet give an uncertain sound, who shall prepare himself to the battle?
 <small><sub>**BSB:**</sub></small>
 Again, if the trumpet sounds a muffled call, who will prepare for battle?
 <small><sub>**Literal:**</sub></small>
 Also for if indistinct [the] trumpet sound shall give, who will prepare himself for battle?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.7|<< 1 Corinthians 14:7]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.9|1 Corinthians 14:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

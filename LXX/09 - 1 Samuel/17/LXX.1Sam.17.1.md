@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the Philistines gathered together  their camps for war, and they gathered together at Shochoh  of Judea, and they camped in between Shochoh and between Azekah in Ephes-dammin. 
-<small><sub>**KJV:**</sub></small>
-Now the Philistines gathered together their armies to battle, and were gathered together at Shochoh, which [belongeth] to Judah, and pitched between Shochoh and Azekah, in Ephesdammim.
-<small><sub>**BSB:**</sub></small>
-Now the Philistines gathered their forces for war at Socoh in Judah, and they camped between Socoh and Azekah in Ephes-dammim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.16.23|<< 1 Samuel 16:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.2|1 Samuel 17:2 >>]]</td></tr></table>
 
 | Translation | Greek |

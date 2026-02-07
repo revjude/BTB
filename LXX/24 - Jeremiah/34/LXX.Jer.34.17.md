@@ -1,10 +1,7 @@
 **LXX Jeremiah 34:17** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus said \[the\] <span class="smallcaps">lord</span>, You hearkened not to me  to call a release -- each for  his brother, and each for  his neighbor. Behold, I call a release to you -- to \[the\] sword, and to the plague, and to the famine; and I will give you for dispersion unto all the kingdoms of the earth. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the LORD; Ye have not hearkened unto me, in proclaiming liberty, every one to his brother, and every man to his neighbour: behold, I proclaim a liberty for you, saith the LORD, to the sword, to the pestilence, and to the famine; and I will make you to be removed into all the kingdoms of the earth.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the LORD says: You have not obeyed Me; you have not proclaimed freedom, each man for his brother and for his neighbor. So now I proclaim freedom for you, declares the LORD—freedom to fall by sword, by plague, and by famine! I will make you a horror to all the kingdoms of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.34.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.16|<< Jeremiah 34:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.18|Jeremiah 34:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 22:1
-**<small><sub>**KJV:**</sub></small>
+**Acts 22:1**<big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Men, brethren, and fathers, hear ye my defence [which I make] now unto you.
 <small><sub>**BSB:**</sub></small>
 “Brothers and fathers, listen now to my defense before you.”
 <small><sub>**Literal:**</sub></small>
 Men brothers and fathers, do hear of me the to you now defense.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.40|<< Acts 21:40]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.2|Acts 22:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Men |**<big>[[G0435G\|Ἄνδρες]]</big>**  |Andres <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | brothers |**<big>[[G0080\|ἀδελφοὶ]]</big>**  |adelphoi <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

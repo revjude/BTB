@@ -1,10 +1,7 @@
 **LXX Jeremiah 32:41** 
 <small><sub>**LXX:**</sub></small>
 And I will visit them  to do good to them. And I will plant them in  this land in trust, even with all my heart, and with all my soul. 
-<small><sub>**KJV:**</sub></small>
-Yea, I will rejoice over them to do them good, and I will plant them in this land assuredly with my whole heart and with my whole soul.
-<small><sub>**BSB:**</sub></small>
-Yes, I will rejoice in doing them good, and I will faithfully plant them in this land with all My heart and with all My soul.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.40|<< Jeremiah 32:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.42|Jeremiah 32:42 >>]]</td></tr></table>
 
 | Translation | Greek |

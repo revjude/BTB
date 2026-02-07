@@ -1,10 +1,7 @@
 **LXX Daniel 2:13** 
 <small><sub>**LXX:**</sub></small>
 And the decree went forth, that the wise men be killed; and they sought Daniel and  his friends to do away with. 
-<small><sub>**KJV:**</sub></small>
-And the decree went forth that the wise [men] should be slain; and they sought Daniel and his fellows to be slain.
-<small><sub>**BSB:**</sub></small>
-So the decree went out that the wise men were to be executed, and men went to look for Daniel and his friends to execute them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.12|<< Daniel 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.14|Daniel 2:14 >>]]</td></tr></table>
 
 | Translation | Greek |

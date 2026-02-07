@@ -1,4 +1,4 @@
-**Jeremiah 26:15** 
+**Jeremiah 26:15**<big><big>[[Jer.26.7 Jeremiah Threatened with Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But know ye for certain, that if ye put me to death, ye shall surely bring innocent blood upon yourselves, and upon this city, and upon the inhabitants thereof: for of a truth the LORD hath sent me unto you to speak all these words in your ears.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But know for certain that if you put me to death, you will bring innocent blood 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.26.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.14|<< Jeremiah 26:14]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.16|Jeremiah 26:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only  |**<big>&#8207;[[H0389\|אַ֣ךְ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly \<to know>  |**<big>&#8207;[[H3045\|יָדֹ֣עַ]]&#8207; </big>**| ya.Do.a'<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

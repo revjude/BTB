@@ -1,4 +1,4 @@
-**Job 30:20** 
+**Job 30:20**<big><big>[[Job.30.15 Job’s Prosperity Becomes Calamity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I cry unto thee, and thou dost not hear me: I stand up, and thou regardest me [not].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I cry out to You for help, but You do not answer; when I stand up, You merely lo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.19|<< Job 30:19]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.21|Job 30:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I cry for help  |**<big>&#8207;[[H7768\|אֲשַׁוַּ֣ע]]&#8207; </big>**| 'a.sha.Va'<small><sup>[[HVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to you  |**<big>&#8207;[[H0413\|אֵ֭לֶי]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| 'E.lei.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

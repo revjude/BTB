@@ -1,10 +1,7 @@
 **LXX Joshua 4:3** 
 <small><sub>**LXX:**</sub></small>
 give orders to them! saying, Take up to yourselves from here from \[the\] midst of the Jordan, from \[the\] station of \[the\] feet of the priests, twelve prepared stones! And these, them across together with you, put them in  your military encampment! where ever you should camp there the night. 
-<small><sub>**KJV:**</sub></small>
-And command ye them, saying, Take you hence out of the midst of Jordan, out of the place where the priests’ feet stood firm, twelve stones, and ye shall carry them over with you, and leave them in the lodging place, where ye shall lodge this night.
-<small><sub>**BSB:**</sub></small>
-and command them: ‘Take up for yourselves twelve stones from the middle of the Jordan where the priests were standing, carry them with you, and set them down in the place where you spend the night.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.2|<< Joshua 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.4|Joshua 4:4 >>]]</td></tr></table>
 
 | Translation | Greek |

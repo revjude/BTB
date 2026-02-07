@@ -1,10 +1,7 @@
 **LXX Numbers 22:9** 
 <small><sub>**LXX:**</sub></small>
 And God came to Balaam, and he said to him, What do  these men \[want\] with you? 
-<small><sub>**KJV:**</sub></small>
-And God came unto Balaam, and said, What men [are] these with thee?
-<small><sub>**BSB:**</sub></small>
-Then God came to Balaam and asked, “Who are these men with you?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.8|<< Numbers 22:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.10|Numbers 22:10 >>]]</td></tr></table>
 
 | Translation | Greek |

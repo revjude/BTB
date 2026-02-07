@@ -1,4 +1,4 @@
-**Ezekiel 1:4** 
+**Ezekiel 1:4**<big><big>[[Ezek.1.4 The Four Living Creatures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I looked, and, behold, a whirlwind came out of the north, a great cloud, and a fire infolding itself, and a brightness [was] about it, and out of the midst thereof as the colour of amber, out of the midst of the fire.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I looked and saw a whirlwind coming from the north, a great cloud with fire flas
 > $\quad$ referenced by: [[Rev.4.5|Rev 4:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I saw  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7200G\|אֵ֡רֶא]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'E.re'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּה֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

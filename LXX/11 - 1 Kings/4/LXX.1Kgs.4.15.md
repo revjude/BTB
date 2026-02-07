@@ -1,10 +1,7 @@
 **LXX 1 Kings 4:15** 
 <small><sub>**LXX:**</sub></small>
 Ahimaaz \[was\] in Naphtali, and he took  Basmath daughter of Solomon for a wife. 
-<small><sub>**KJV:**</sub></small>
-Ahimaaz [was] in Naphtali; he also took Basmath the daughter of Solomon to wife:
-<small><sub>**BSB:**</sub></small>
-Ahimaaz in Naphtali (he had married Basemath, a daughter of Solomon);<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.4.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.14|<< 1 Kings 4:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.16|1 Kings 4:16 >>]]</td></tr></table>
 
 | Translation | Greek |

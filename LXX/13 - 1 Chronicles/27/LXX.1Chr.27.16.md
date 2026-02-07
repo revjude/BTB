@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 27:16** 
 <small><sub>**LXX:**</sub></small>
 And over the tribes of Israel -- \[to\] Reuben leading \[was\] Eliezer son of Zichri; \[to\] Simeon \[was\] Shephatiah the \[son of\] Maachah; 
-<small><sub>**KJV:**</sub></small>
-Furthermore over the tribes of Israel: the ruler of the Reubenites [was] Eliezer the son of Zichri: of the Simeonites, Shephatiah the son of Maachah:
-<small><sub>**BSB:**</sub></small>
-These officers were in charge of the tribes of Israel: Over the Reubenites was Eliezer son of Zichri; over the Simeonites was Shephatiah son of Maacah;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.27.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.15|<< 1 Chronicles 27:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.17|1 Chronicles 27:17 >>]]</td></tr></table>
 
 | Translation | Greek |

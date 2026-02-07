@@ -1,10 +1,7 @@
 **LXX 2 Samuel 6:16** 
 <small><sub>**LXX:**</sub></small>
 And it happened of the ark coming unto the city of David, that Michal daughter of Saul looked through the window, and she saw  king David dancing and playing music before \[the\] <span class="smallcaps">lord</span>; and she treated him with contempt in  her heart. 
-<small><sub>**KJV:**</sub></small>
-And as the ark of the LORD came into the city of David, Michal Saul’s daughter looked through a window, and saw king David leaping and dancing before the LORD; and she despised him in her heart.
-<small><sub>**BSB:**</sub></small>
-As the ark of the LORD was entering the City of David, Saul’s daughter Michal looked down from a window and saw King David leaping and dancing before the LORD, and she despised him in her heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.6.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.6.15|<< 2 Samuel 6:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.6.17|2 Samuel 6:17 >>]]</td></tr></table>
 
 | Translation | Greek |

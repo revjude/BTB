@@ -1,12 +1,12 @@
-**Matthew 12:41
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:41**<big><big>[[Matt.12.38 The Sign of Jonah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The men of Nineveh shall rise in judgment with this generation, and shall condemn it: because they repented at the preaching of Jonas; and, behold, a greater than Jonas [is] here.
 <small><sub>**BSB:**</sub></small>
 The men of Nineveh will stand at the judgment with this generation and condemn it; for they repented at the preaching of Jonah, and now One greater than Jonah is here.
 <small><sub>**Literal:**</sub></small>
 [The] men of Nineveh will stand up in the judgment with <the> generation this and will condemn it, for they repented at the preaching of Jonah; and behold greater than Jonah here.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.40|<< Matthew 12:40]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.42|Matthew 12:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [The] men |**<big>[[G0435G\|Ἄνδρες]]</big>**  |Andres <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of Nineveh |**<big>[[G3536\|Νινευῖται]]</big>**  [^1] |Nineuitai <small><sup>[[N-NPM-LG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

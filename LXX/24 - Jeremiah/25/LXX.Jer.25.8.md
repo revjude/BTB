@@ -1,10 +1,7 @@
 **LXX Jeremiah 25:8** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says \[the\] <span class="smallcaps">lord</span>, Since you trusted not  my words, 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the LORD of hosts; Because ye have not heard my words,
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the LORD of Hosts says: ‘Because you have not obeyed My words,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.25.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.7|<< Jeremiah 25:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.9|Jeremiah 25:9 >>]]</td></tr></table>
 
 | Translation | Greek |

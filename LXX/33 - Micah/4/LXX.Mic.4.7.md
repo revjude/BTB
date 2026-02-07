@@ -1,10 +1,7 @@
 **LXX Micah 4:7** 
 <small><sub>**LXX:**</sub></small>
 And I will make \[her\] being broken into a vestige, and \[her\] being thrust away into a mighty nation. And \[the\] <span class="smallcaps">lord</span> shall reign over them on mount Zion, from the present and unto the eon. 
-<small><sub>**KJV:**</sub></small>
-And I will make her that halted a remnant, and her that was cast far off a strong nation: and the LORD shall reign over them in mount Zion from henceforth, even for ever.
-<small><sub>**BSB:**</sub></small>
-And I will make the lame into a remnant, the outcast into a strong nation. Then the LORD will rule over them in Mount Zion from that day and forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.4.6|<< Micah 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.8|Micah 4:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Micah 4:7** is...
