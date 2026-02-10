@@ -90,6 +90,7 @@ The **right sidebar** is where you will access page properties, tags, and outlin
 Chapters are in paragraph format and from the King James Bible (KJV). The KJV was written in Early Modern English and can be difficult for modern readers to comprehend. While many modern translations like the ESV, NIV, or the scholarly NRSVue are more accessible, the KJV serves a unique purpose here: **its archaic language actually helps the translation process because you are less likely to plagiarize Early Modern English.** Instead, you are forced to create a new, personal, and hopefully meaningful, translation using your own words.
 
 The shortest chapter in the Bible:
+
 ![ChapterView.png](lexicon/views/userguide/ChapterView.png)
 
 If you get stuck on the traditional KJV verse, you can hover your cursor over the verse number to reference the Berean Standard Bible (BSB) translation of the same verse, which is in modern English and represents the latest, critical texts and the last 100 years of Bible scholarship— resources that are usually very expensive and not available in the public domain.
@@ -115,6 +116,7 @@ Click on any verse number—either from the chapter view described above, or fro
 #### Verses
 
 The shortest verse in the Bible:
+
 ![VerseView.png](/lexicon/views/userguide/VerseView.png)
 
 In every verse view you see 3 different English translations of that verse: one from the KJV representing a traditional translation of the majority text, another from the BSB which represents a modern English translation of the critical text, and a literal, word-for-word translation from the original language into English.
@@ -172,9 +174,13 @@ In order to create a structured approach to studying this Bible, all of the vers
 
 There are three ways to find a peircope:
 1. Use the arrows ⥃ next to the section headings in the chapter views
+
    ![PericopeFromChapter.png](/lexicon/views/userguide/PericopeFromChapter.png)
+
 2. Use the arrows ⥂ next to the verse number on any verse view
+
    ![PericopeFromVerse.png](/lexicon/views/userguide/PericopeFromVerse.png)
+
 3. Search for a pericope in the [My Translations base](/My%20Translations.base).  See the [My Translations](#My%20Translations) section below.
 
 #### Structure
@@ -199,14 +205,17 @@ By updating the properties of the pericopes, you can easily manage your work and
 - **needs_review** - A checkbox flag to mark passages that need additional review.
 
 Access the right sidebar to view and update properties:
+
 ![Properties.png](/lexicon/views/userguide/Properties.png)
 
 #### My Translations
 
 In the main BTB folder there is a file called [My Translations.base](/My%20Translations.base) that is an [Obsidian Bases](https://help.obsidian.md/bases) file that effectively is a spreadsheet of all of the pericopes:
+
 ![MyTranslations.png](/lexicon/views/userguide/MyTranslations.png)
 
 Using the properties in the pericopes as described above enables you to manage your translation work in the Bases interface:
+
 ![FilterMyTranslations.png](/lexicon/views/userguide/FilterMyTranslations.png)
 
 ---
