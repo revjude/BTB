@@ -1,28 +1,29 @@
 ## Bruhman Translator's Bible (BTB)
 
-A Bible compiled in Markdown for the [Obsidian](https://obsidian.md) platform. The BTB provides English-speaking users access to study the Bible in the original Greek and Hebrew, and offers a framework for developing new translations from the source manuscripts through an intuitive interface that puts interpretation and translation resources right at your fingertips. Applications range from personal study and small Bible study groups to academic classroom environments.
-
+A Bible compiled in Markdown for the [Obsidian](https://obsidian.md) platform. This Bible provides English-speaking users access to study the scriptures in their original Greek and Hebrew.
 ### Overview
 
-Leaning into the wiki-style linking features of the Obsidian platform, The BTB transforms Bible study into an active, hands-on experience. Rather than passively reading a finished translation, users work through the text like a translator—comparing the original Greek and Hebrew manuscripts with traditional translations, consulting lexicons and many thousands of references, and crafting their own renderings of each passage. Think of it as a workbook that guides you through the process of translation: the KJV provides a familiar starting point rooted in the Majority Text, while the Berean Standard Bible offers a modern critical text for comparison. Whether you're a Sunday school teacher preparing lessons, an individual seeking deeper understanding of Scripture, or a student in an academic setting, the BTB gives you the tools to engage directly with the biblical languages and discover meaning for yourself.
+Every verse is broken down by the Greek or Hebrew in an interlinear format. Every word links to its comprehensive lexical entry to help you study, analyze, and understand the meaning of each original language word.  Use this Bible to develop your own translations of the original scripture by tapping into Obsidian's note-taking interface to note, track, and manage your studies.
+
+This Bible can be studied individually or in a group setting.
 
 This work builds on the efforts of many scholars, theologians, and scribes whose painstaking digitization, analysis, and correction of ancient publications began years before modern tools made such tasks easier. The groups and individuals listed in the [Acknowledgments](#acknowledgments) section below generously made their work freely available and provided the foundation for this project.
 
-**Important:** Initial setup requires patience. After cloning the repository or downloading the archive of over 130,000 individual notes, Obsidian's first indexing takes approximately one hour. Once complete, navigation is quick.
+**Important:** Initial setup requires patience. After cloning the repository or downloading the archive of almost 150,000 individual "notes", it takes Obsidian up to an hour to build a database and index all the connections. Once complete, navigation is quick.  In spite of the wait, it's still faster than same-day Prime, and it's free.
 
-#### Chapters with Extensive Footnotes
-
-![Chapter View](/lexicon/views/ChapterView.png)
-
-#### Red Letters & Cross-References
-
-![Chapter View](/lexicon/views/RedLetters.PNG)
-
-#### Verses with Translation Notes
+#### Interlinear Verses with Translation Notes
 
 ![Verse View](/lexicon/views/TranslatorsNotes.PNG)
 
-#### Hebrew/Aramaic & Greek Lexicons
+#### Study By Translating the Original Scripture
+
+![Chapter View](/lexicon/views/Pericopes.PNG)
+
+#### Easily Manage Translations and Notes via Obsidian Bases
+
+![Chapter View](/lexicon/views/Bases.PNG)
+
+#### Comprehensive Hebrew/Aramaic & Greek Lexicons
 
 ![Chapter View](/lexicon/views/Lexicon.PNG)
 
@@ -40,9 +41,18 @@ Search over 20,000 topics and sub-topics
 More than 100,000 cross-references
 ![Chapter View](/lexicon/views/Concordance2.PNG)
 
+#### Chapters with Extensive Footnotes
+
+![Chapter View](/lexicon/views/ChapterView.png)
+
+#### Red Letters and Cross-References
+
+![Chapter View](/lexicon/views/RedLetters.PNG)
+
 ## Features
 
 - **Chapter View**: Full chapters from the majority text with Jesus' words in red letters, pericope headings with cross-references, and over 500,000 footnotes
+- **Section Headings**: link to their pericope (sounds like calliope, not like periscope), Greek for "a cutting out", which is a page for every section where you develop your own translations and keep notes.
 - **Multiple Translations**: Individual verses include a traditional translation from the majority text, a modern translation from the critical text, and a literal word-for-word translation from the original Greek, Hebrew, or Aramaic
 - **Septuagint Integration**: Interlinear NT Greek and OT Hebrew verses, plus all OT Greek verses from the Septuagint with word-for-word translations. The Septuagint (LXX) was the Bible known to the NT author's and so represents the scripture often quoted or referenced in the NT.  This edition of the LXX is derived from the [Apostolic Bible Polyglot](https://en.wikipedia.org/wiki/Apostolic_Bible_Polyglot) and cross-referenced with the Masoretic text
 - **Lexicon Links**: Each word links to its BTB lexicon entry, compiled from multiple sources and disambiguated (e.g., clicking "Mary" shows the entry for that specific person, not just the general name)
