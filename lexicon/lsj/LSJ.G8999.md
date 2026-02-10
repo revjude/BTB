@@ -7,4 +7,4 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>beacon</b> or <b>signal-fire</b> (= <i>Attic dialect</i> <span class='asgreek'>φρυκτός</span>), [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.183, 9.3, 4th c.BC: Aeneas Tacticus 6.7, 2nd c.BC: Polybius Historicus 10.44.10, etc.: \_metaphorically\_, πυρσὸν ὣς Ἕλλᾱσι φαίνων 5th c.BC: Bacchylides Lyricus 12.82. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>plural</i> <span class='asgreek'>πυρσά</span>, <b>watchfires</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Rhesus” 97, compare 43 (Lyric poetry). ">Refs 5th c.BC+</a>] 
-$\quad$ ****<b>\_\_B</b><b> <span class='asgreek'>==πυρσός==</span></b> (B), <span class='asgreek'>ή</span>, <span class='asgreek'>όν</span>, see at {<span class='asgreek'>πυρρός</span>}.
+$\quad$ <b>\_\_B</b><b> <span class='asgreek'>==πυρσός==</span></b> (B), <span class='asgreek'>ή</span>, <span class='asgreek'>όν</span>, see at {<span class='asgreek'>πυρρός</span>}.

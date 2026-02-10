@@ -9,6 +9,11 @@ This guide will help you get oriented and start exploring.
 
 ## Start Here!
 
+### Start Reading
+- Start at the beginning: [Genesis 1:1](/KJV/01%20-%20Genesis/Gen.1)
+- A familiar passage: [Psalm 23](/KJV/19%20-%20Psalm/Ps.23)
+- Or the Gospel of John: [John 1:1](/KJV/43%20-%20John/John.1)
+
 ### Installation
 
 - Either clone this repository or download the latest release and un-zip it on your computer.
