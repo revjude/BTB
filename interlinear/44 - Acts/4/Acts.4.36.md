@@ -8,7 +8,7 @@ Joseph now who having been called Barnabas by the apostles which is being transl
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Joseph [^1] [^2] |**<big>[[G2501O\|Ἰωσὴφ]]</big>**  |Iōsēph <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
+| Joseph [^1] [^2] |**<big>[[G2501\|Ἰωσὴφ]]</big>**  |Iōsēph <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | who |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having been called |**<big>[[G1941\|ἐπικληθεὶς]]</big>**  |epiklētheis <small><sup>[[V-APP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

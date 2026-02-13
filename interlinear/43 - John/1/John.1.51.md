@@ -21,7 +21,7 @@ And He says to him; Amen Amen I say to all of you from now you will behold the h
 | to all of you |**<big>[[G4771\|ὑμῖν]]</big>**  |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | from |**<big>[[G0575\|ἀπ᾽]]</big>**  |ap᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
 | now [^1] |**<big>[[G0737\|ἄρτι,]]</big>**  |arti <small><sup>[[ADV]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| you will behold |**<big>[[G3700G\|ὄψεσθε]]</big>**  |opsesthe <small><sup>[[V-FDI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you will behold |**<big>[[G3700\|ὄψεσθε]]</big>**  |opsesthe <small><sup>[[V-FDI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | heaven |**<big>[[G3772\|οὐρανὸν]]</big>**  |ouranon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having opened |**<big>[[G0455\|ἀνεῳγότα]]</big>**  |aneōgota <small><sup>[[V-2RAP-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

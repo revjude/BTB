@@ -7,7 +7,7 @@ The people I formed for Myself will declare My praise.
 [[LXX.Isa.43.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.20|<< Isaiah 43:20]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.22|Isaiah 43:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 43:21** is...
-> $\quad$ referenced by: [[1Pet.2.9c|1Pet 2:9c]]
+> $\quad$ referenced by: [[1Pet.2.9|1Pet 2:9c]]
 
 
 | Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |

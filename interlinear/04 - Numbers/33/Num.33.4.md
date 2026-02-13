@@ -17,7 +17,7 @@ who were burying all their firstborn, whom the LORD had struck down among them; 
 | among \<the> them  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H9038\|הֶ֖ם]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | firstborn  |**<big>&#8207;[[H1060\|בְּכ֑וֹר]]&#8207; </big>**| be.Khor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and on gods their  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בֵ]]&#8207;&#8207;[[H0430J\|אלֹ֣הֵי]]&#8207;&#8207;[[H9028\|הֶ֔ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Lo.hei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and on gods their  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בֵ]]&#8207;&#8207;[[H0430\|אלֹ֣הֵי]]&#8207;&#8207;[[H9028\|הֶ֔ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Lo.hei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he had done  |**<big>&#8207;[[H6213A\|עָשָׂ֥ה]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | acts of judgment  |**<big>&#8207;[[H8201\|שְׁפָטִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| she.fa.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

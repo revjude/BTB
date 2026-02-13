@@ -22,7 +22,7 @@ Arioch hastily brought Daniel before the king and said to him, “I have found a
 | I have found  |**<big>&#8207;[[H7912\|הַשְׁכַּ֤חַת]]&#8207; </big>**| hash.Ka.chat<small><sup>[[AVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a man  |**<big>&#8207;[[H1400\|גְּבַר֙]]&#8207; </big>**| ge.Var<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from  |**<big>&#8207;[[H4481\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sons of  |**<big>&#8207;[[H1247I\|בְּנֵ֤י]]&#8207; </big>**| be.Nei<small><sup>[[ANcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sons of  |**<big>&#8207;[[H1247\|בְּנֵ֤י]]&#8207; </big>**| be.Nei<small><sup>[[ANcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | exile the  |**<big>&#8207;[[H1547\|גָֽלוּתָ]]&#8207;&#8207;[[H9010\|א֙]]&#8207; </big>**| ga.lu.Ta<small><sup>[[ANcfsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of  |**<big>&#8207;[[H1768\|דִּ֣י]]&#8207; </big>**| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Judah  |**<big>&#8207;[[H3061\|יְה֔וּד]]&#8207; </big>**| ye.Hud<small><sup>[[ANpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

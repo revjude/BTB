@@ -18,7 +18,7 @@ Having considered [it] also he came to the house <the> of Mary the mother of Joh
 | of Mary |**<big>[[G3137L\|Μαρίας]]</big>**  |Marias <small><sup>[[N-GSF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τῆς]]</big>**  |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | mother |**<big>[[G3384\|μητρὸς]]</big>**  |mētros <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of John |**<big>[[G2491J\|Ἰωάννου]]</big>**  [^1] |Iōannou <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of John |**<big>[[G2491\|Ἰωάννου]]</big>**  [^1] |Iōannou <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | who |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is called |**<big>[[G1941\|ἐπικαλουμένου]]</big>**  |epikaloumenou <small><sup>[[V-PPP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Mark, |**<big>[[G3138\|Μάρκου,]]</big>**  |Markou <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

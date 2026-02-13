@@ -25,7 +25,7 @@ The LORD will bring you and the king you appoint to a nation neither you nor you
 | and ancestors your  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0001G\|אֲבֹתֶ֑י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.vo.Tei.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will serve  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5647H\|עָבַ֥דְתָּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Vad.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there  |**<big>&#8207;[[H8033G\|שָּׁ֛ם]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֥ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֥ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִ֖ים]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wood  |**<big>&#8207;[[H6086G\|עֵ֥ץ]]&#8207; </big>**| 'etz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and stone  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H0068G\|אָֽבֶן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'A.ven<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

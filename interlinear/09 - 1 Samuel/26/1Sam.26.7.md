@@ -32,7 +32,7 @@ That night David and Abishai came to the troops, and Saul was lying there asleep
 [^1]: ==K==: [the] place of head his  | **<big>[[H9023|וֹ]]</big><big>[[H4763|מְרַאֲשֹׁת]]</big> ** | me.ra.'a.sho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
 [^2]: ==K==: [the] place of head his  | **<big>[[H9023|וֹ]]</big><big>[[H4763|מְרַאֲשֹׁת]]</big> ** | me.ra.'a.sho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
 [^3]: ==L== spelled: **<span class="ashebrew"><big>מְרַאֲשֹׁתָ֑ו</big></span>**
-[^4]: ==K==: around him  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H9033|וֹ]]</big><big>[[H5439G|סְבִיבֹת]]</big> ** | se.vi.vo.to<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> 
-[^5]: ==K==: around him  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H9033|וֹ]]</big><big>[[H5439G|סְבִיבֹת]]</big> ** | se.vi.vo.to<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> 
+[^4]: ==K==: around him  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H9033|וֹ]]</big><big>[[H5439G|סְבִיבֹת]]</big> ** | se.vi.vo.to<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[Sp3bs]]</sup></small> 
+[^5]: ==K==: around him  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H9033|וֹ]]</big><big>[[H5439G|סְבִיבֹת]]</big> ** | se.vi.vo.to<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[Sp3bs]]</sup></small> 
 [^6]: ==L== spelled: **<span class="ashebrew"><big>סְבִיבֹתָֽו\׃\ \ס</big></span>**
 

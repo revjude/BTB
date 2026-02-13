@@ -18,7 +18,7 @@ He will demolish the sacred pillars of the temple of the sun in the land of Egyp
 | Egypt  |**<big>&#8207;[[H4714G\|מִצְרָ֑יִם]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] houses of  |**<big>&#8207;[[H1004Q\|בָּתֵּ֥י]]&#8207; </big>**| ba.Tei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] gods of  |**<big>&#8207;[[H0430J\|אֱלֹהֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.lo.hei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] gods of  |**<big>&#8207;[[H0430\|אֱלֹהֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.lo.hei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Egypt  |**<big>&#8207;[[H4714G\|מִצְרַ֖יִם]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will burn  |**<big>&#8207;[[H8313\|יִשְׂרֹ֥ף]]&#8207; </big>**| yis.Rof<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with \<the> fire  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0784\|אֵֽשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

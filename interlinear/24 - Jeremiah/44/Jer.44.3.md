@@ -16,7 +16,7 @@ because of the evil they have done. They provoked Me to anger by continuing to b
 | by going  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H1980G\|לֶ֣כֶת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Le.khet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to make smoke  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6999H\|קַטֵּ֔ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ka.Ter<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to serve  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5647H\|עֲבֹ֖ד]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.Vod<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> gods  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0430J\|אלֹהִ֣ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> gods  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0430\|אלֹהִ֣ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִ֑ים]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁר֙]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

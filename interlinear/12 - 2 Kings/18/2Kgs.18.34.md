@@ -9,11 +9,11 @@ Where are the gods of Hamath and Arpad? Where are the gods of Sepharvaim, Hena, 
 | Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | where?  |**<big>&#8207;[[H0346\|אַיֵּה֩]]&#8207; </big>**| 'ai.Yeh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] [the] gods of  |**<big>&#8207;[[H0430J\|אֱלֹהֵ֨י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] [the] gods of  |**<big>&#8207;[[H0430\|אֱלֹהֵ֨י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hamath  |**<big>&#8207;[[H2574G\|חֲמָ֜ת]]&#8207; </big>**| cha.Mat<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Arpad  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0774\|אַרְפָּ֗ד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ar.Pad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | where?  |**<big>&#8207;[[H0346\|אַיֵּ֛ה]]&#8207; </big>**| 'ai.Yeh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] [the] gods of  |**<big>&#8207;[[H0430J\|אֱלֹהֵ֥י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] [the] gods of  |**<big>&#8207;[[H0430\|אֱלֹהֵ֥י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Sepharvaim  |**<big>&#8207;[[H5617\|סְפַרְוַ֖יִם]]&#8207; </big>**| se.far.Va.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hena  |**<big>&#8207;[[H2012\|הֵנַ֣ע]]&#8207; </big>**| he.Na'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Ivvah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5755\|עִוָּ֑ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'i.Vah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

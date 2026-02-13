@@ -20,7 +20,7 @@ Barnabas then and Saul returned to Jerusalem having fulfilled the mission, havin
 | mission, |**<big>[[G1248\|διακονίαν,]]</big>**  |diakonian <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having taken with [them] |**<big>[[G4838\|συμπαραλαβόντες]]</big>**  [^4] |sumparalabontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
-| John |**<big>[[G2491J\|Ἰωάννην]]</big>**  [^5] |Iōannēn <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| John |**<big>[[G2491\|Ἰωάννην]]</big>**  [^5] |Iōannēn <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the [one] |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having been called |**<big>[[G1941\|ἐπικληθέντα]]</big>**  |epiklēthenta <small><sup>[[V-APP-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Mark. |**<big>[[G3138\|Μᾶρκον.¶]]</big>**  |Markon <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -13,7 +13,7 @@ The sailors were afraid, and each cried out to his own god. And they threw the s
 | and they cried for help  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H2199\|יִּזְעֲקוּ֮]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiz.'a.Ku<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | everyone  |**<big>&#8207;[[H0376I\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods his  |**<big>&#8207;[[H0430J\|אֱלֹהָי]]&#8207;&#8207;[[H9023\|ו֒]]&#8207; </big>**| 'e.lo.Ha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods his  |**<big>&#8207;[[H0430\|אֱלֹהָי]]&#8207;&#8207;[[H9023\|ו֒]]&#8207; </big>**| 'e.lo.Ha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they threw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2904\|יָּטִ֨לוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ti.lu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the vessels  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3627\|כֵּלִ֜ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ke.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

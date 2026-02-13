@@ -9,13 +9,13 @@ He sacrificed to the gods of Damascus, who had defeated him, and he said, “Bec
 | Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sacrificed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2076\|יִּזְבַּ֗ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiz.Bach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to [the] gods of  |**<big>&#8207;[[H9005\|לֵֽ]]&#8207;&#8207;[[H0430J\|אלֹהֵ֣י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to [the] gods of  |**<big>&#8207;[[H9005\|לֵֽ]]&#8207;&#8207;[[H0430\|אלֹהֵ֣י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Damascus  |**<big>&#8207;[[H1834\|דַרְמֶשֶׂק֮]]&#8207; </big>**| dar.me.Sek<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which had defeated  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5221\|מַּכִּ֣ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.Kim<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<in> him  |**<big>&#8207;[[H9003\|בּ]]&#8207;&#8207;[[H9033\|וֹ֒]]&#8207; </big>**| b<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֗אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּ֠י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] gods of  |**<big>&#8207;[[H0430J\|אֱלֹהֵ֤י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] gods of  |**<big>&#8207;[[H0430\|אֱלֹהֵ֤י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] kings of  |**<big>&#8207;[[H4428G\|מַלְכֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mal.khei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Aram  |**<big>&#8207;[[H0758I\|אֲרָם֙]]&#8207; </big>**| 'a.Ram<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they  |**<big>&#8207;[[H1992\|הֵ֚ם]]&#8207; </big>**| hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

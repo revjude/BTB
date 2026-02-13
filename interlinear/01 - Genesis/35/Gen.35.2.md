@@ -18,7 +18,7 @@ So Jacob told his household and all who were with him, “Get rid of the foreign
 | [were] with him  |**<big>&#8207;[[H5973A\|עִמּ֑]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| i.M<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | remove  |**<big>&#8207;[[H5493G\|הָסִ֜רוּ]]&#8207; </big>**| ha.Si.ru<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] gods of  |**<big>&#8207;[[H0430J\|אֱלֹהֵ֤י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] gods of  |**<big>&#8207;[[H0430\|אֱלֹהֵ֤י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> foreignness  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5236\|נֵּכָר֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ne.Khar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in midst of you  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8432\|תֹכְ]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> to.khe.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

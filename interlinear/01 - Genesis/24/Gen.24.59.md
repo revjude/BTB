@@ -13,7 +13,7 @@ So they sent their sister Rebekah on her way, along with her nurse and Abraham�
 | Rebekah  |**<big>&#8207;[[H7259\|רִבְקָ֥ה]]&#8207; </big>**| riv.Kah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sister their  |**<big>&#8207;[[H0269\|אֲחֹתָ֖]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| 'a.cho.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| suckling-nurse her  |**<big>&#8207;[[H3243I\|מֵנִקְתָּ֑]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| me.nik.Ta<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| suckling-nurse her  |**<big>&#8207;[[H3243\|מֵנִקְתָּ֑]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| me.nik.Ta<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] servant of  |**<big>&#8207;[[H5650\|עֶ֥בֶד]]&#8207; </big>**| 'E.ved<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abraham  |**<big>&#8207;[[H0085\|אַבְרָהָ֖ם]]&#8207; </big>**| 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

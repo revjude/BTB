@@ -11,10 +11,10 @@ Then Zerubbabel son of Shealtiel and Jeshua son of Jozadak rose up and began to 
 | \<in> then  |**<big>&#8207;[[H9003\|בֵּ]]&#8207;&#8207;[[H0116\|אדַ֡יִן]]&#8207; </big>**| be.<small><sup>[[AR]]</sup></small> Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they arose  |**<big>&#8207;[[H6966G\|קָ֠מוּ]]&#8207; </big>**| Ka.mu<small><sup>[[AVqp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Zerubbabel  |**<big>&#8207;[[H2217\|זְרֻבָּבֶ֤ל]]&#8207; </big>**| ze.ru.ba.Vel<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  |**<big>&#8207;[[H1247J\|בַּר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bar-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1247\|בַּר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bar-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Shealtiel  |**<big>&#8207;[[H7598\|שְׁאַלְתִּיאֵל֙]]&#8207; </big>**| she.'al.ti.'El<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Jeshua  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3443\|יֵשׁ֣וּעַ]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> ye.Shu.a'<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  |**<big>&#8207;[[H1247J\|בַּר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bar-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1247\|בַּר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bar-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jozadak  |**<big>&#8207;[[H3136B\|יֽוֹצָדָ֔ק]]&#8207; </big>**| yo.tza.Dak<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they began  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8271\|שָׁרִ֣יו]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> sha.Riv<small><sup>[[AVpp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to build  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1124\|מִבְנֵ֔א]]&#8207; </big>**| le.<small><sup>[[AR]]</sup></small> miv.Ne'<small><sup>[[AVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

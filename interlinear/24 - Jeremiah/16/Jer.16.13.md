@@ -23,7 +23,7 @@ So I will cast you out of this land into a land that neither you nor your father
 | and you will serve  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5647H\|עֲבַדְתֶּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.vad.tem-<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there  |**<big>&#8207;[[H8033G\|שָׁ֞ם]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֤ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֤ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִים֙]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by day  |**<big>&#8207;[[H3119\|יוֹמָ֣ם]]&#8207; </big>**| yo.Mam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and night  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H3915\|לַ֔יְלָה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Lay.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

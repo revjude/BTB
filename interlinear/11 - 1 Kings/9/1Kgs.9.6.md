@@ -23,7 +23,7 @@ But if indeed you or your sons turn away from following Me and do not keep the c
 | \<to> before you  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵי]]&#8207;&#8207;[[H9026\|כֶ֑ם]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.nei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will walk  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|הֲלַכְתֶּ֗ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.lakh.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will serve  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5647H\|עֲבַדְתֶּם֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.vad.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִ֔ים]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will bow down  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7812\|הִשְׁתַּחֲוִיתֶ֖ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hish.ta.cha.vi.Tem<small><sup>[[HVvq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

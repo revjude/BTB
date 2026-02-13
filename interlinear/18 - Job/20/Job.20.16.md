@@ -10,7 +10,7 @@ He will suck the poison of cobras; the fangs of a viper will kill him.
 | - | - | - | - |
 | [the] poison of  |**<big>&#8207;[[H7219\|רֹאשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| rosh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cobras  |**<big>&#8207;[[H6620\|פְּתָנִ֥ים]]&#8207; </big>**| pe.ta.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he sucks  |**<big>&#8207;[[H3243G\|יִינָ֑ק]]&#8207; </big>**| yi.Nak<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he sucks  |**<big>&#8207;[[H3243\|יִינָ֑ק]]&#8207; </big>**| yi.Nak<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it slays him  |**<big>&#8207;[[H2026\|תַּֽ֝הַרְגֵ֗]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| ta.har.Ge.<small><sup>[[HVqi3fs]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] tongue of  |**<big>&#8207;[[H3956G\|לְשׁ֣וֹן]]&#8207; </big>**| le.Shon<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a viper  |**<big>&#8207;[[H0660\|אֶפְעֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'ef.'Eh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

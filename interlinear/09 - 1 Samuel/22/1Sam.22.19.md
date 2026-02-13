@@ -20,7 +20,7 @@ He also put to the sword Nob, the city of the priests, with its men and women, c
 | woman  |**<big>&#8207;[[H0802G\|אִשָּׁ֔ה]]&#8207; </big>**| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from child  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5768\|עוֹלֵ֖ל]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'o.Lel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and unto  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| suckling-child  |**<big>&#8207;[[H3243J\|יוֹנֵ֑ק]]&#8207; </big>**| yo.Nek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| suckling-child  |**<big>&#8207;[[H3243\|יוֹנֵ֑ק]]&#8207; </big>**| yo.Nek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and ox[en]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7794\|שׁ֧וֹר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Shor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and donkey[s]  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2543\|חֲמ֛וֹר]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.Mor<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and sheep  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H7716\|שֶׂ֖ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Seh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

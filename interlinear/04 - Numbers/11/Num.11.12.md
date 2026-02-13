@@ -26,7 +26,7 @@ Did I conceive all these people? Did I give them birth, so that You should tell 
 | he carries  |**<big>&#8207;[[H5375H\|יִשָּׂ֤א]]&#8207; </big>**| yi.Sa'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> foster-father  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0539\|אֹמֵן֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.Men<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the suckling-child  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3243J\|יֹּנֵ֔ק]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> yo.Nek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the suckling-child  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3243\|יֹּנֵ֔ק]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> yo.Nek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַ֚ל]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the land  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0127G\|אֲדָמָ֔ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.da.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

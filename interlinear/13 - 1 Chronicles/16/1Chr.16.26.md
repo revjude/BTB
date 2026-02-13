@@ -10,7 +10,7 @@ For all the gods of the nations are idols, but it is the LORD who made the heave
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֠י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] gods of  |**<big>&#8207;[[H0430J\|אֱלֹהֵ֤י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] gods of  |**<big>&#8207;[[H0430\|אֱלֹהֵ֤י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the peoples  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עַמִּים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] worthless idols  |**<big>&#8207;[[H0457\|אֱלִילִ֔ים]]&#8207; </big>**| 'e.li.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Yahweh  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H3068G\|יהוָ֖ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

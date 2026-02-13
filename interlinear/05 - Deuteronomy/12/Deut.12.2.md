@@ -22,7 +22,7 @@ Destroy completely all the places where the nations you are dispossessing have s
 | [are] about to dispossess  |**<big>&#8207;[[H3423H\|יֹרְשִׁ֥ים]]&#8207; </big>**| yo.re.Shim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> them  |**<big>&#8207;[[H0853\|אֹתָ֖]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods their  |**<big>&#8207;[[H0430J\|אֱלֹהֵי]]&#8207;&#8207;[[H9028\|הֶ֑ם]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods their  |**<big>&#8207;[[H0430\|אֱלֹהֵי]]&#8207;&#8207;[[H9028\|הֶ֑ם]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the mountains  |**<big>&#8207;[[H9009\|הֶ]]&#8207;&#8207;[[H2022G\|הָרִ֤ים]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> high  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H7311A\|רָמִים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ra.Mim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

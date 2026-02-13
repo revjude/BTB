@@ -9,7 +9,7 @@ He was driven away from mankind, and his mind was like that of a beast. He lived
 | Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and away from  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4481\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> min-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sons of  |**<big>&#8207;[[H1247I\|בְּנֵי֩]]&#8207; </big>**| be.Nei<small><sup>[[ANcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sons of  |**<big>&#8207;[[H1247\|בְּנֵי֩]]&#8207; </big>**| be.Nei<small><sup>[[ANcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> humankind  |**<big>&#8207;[[H0606\|אֲנָשָׁ֨]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| 'a.na.Sha<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he was chased  |**<big>&#8207;[[H2957\|טְרִ֜יד]]&#8207; </big>**| te.Rid<small><sup>[[AVQp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and heart his  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3825\|לִבְבֵ֣]]&#8207;&#8207;[[H9023\|הּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> li.Ve<small><sup>[[ANcbsc]]</sup></small> h<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

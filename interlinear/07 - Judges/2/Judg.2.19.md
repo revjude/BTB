@@ -16,7 +16,7 @@ But when the judge died, the Israelites became even more corrupt than their fath
 | more than fathers their  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H0001G\|אֲבוֹתָ֔]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.vo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by walking  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H1980N\|לֶ֗כֶת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Le.khet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | after  |**<big>&#8207;[[H0310A\|אַֽחֲרֵי֙]]&#8207; </big>**| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִ֔ים]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to serve them  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5647H\|עָבְדָ֖]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.ve.Da<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and to bow down  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7812\|הִשְׁתַּחֲוֹ֣ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> hish.ta.cha.Vot<small><sup>[[HVvcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

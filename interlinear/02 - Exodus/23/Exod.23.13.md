@@ -14,7 +14,7 @@ Pay close attention to everything I have said to you. You must not invoke the na
 | to you  |**<big>&#8207;[[H0413\|אֲלֵי]]&#8207;&#8207;[[H9036\|כֶ֖ם]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will take heed  |**<big>&#8207;[[H8104J\|תִּשָּׁמֵ֑רוּ]]&#8207; </big>**| ti.sha.Me.ru<small><sup>[[HVNi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [the] name of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8034\|שֵׁ֨ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֤ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֤ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִים֙]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will bring to remembrance  |**<big>&#8207;[[H2142\|תַזְכִּ֔ירוּ]]&#8207; </big>**| taz.Ki.ru<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

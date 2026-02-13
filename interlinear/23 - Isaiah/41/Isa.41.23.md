@@ -13,7 +13,7 @@ Tell us the things that are to come, so that we may know that you are gods. Yes,
 | to afterwards  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0268\|אָח֔וֹר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.Chor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | so let us know  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3045\|נֵ֣דְעָ֔ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ne.de.'Ah<small><sup>[[HVqc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֖ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֖ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you  |**<big>&#8207;[[H0859D\|אַתֶּ֑ם]]&#8207; </big>**| 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | also  |**<big>&#8207;[[H0637\|אַף]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'af-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will do good  |**<big>&#8207;[[H3190\|תֵּיטִ֣יבוּ]]&#8207; </big>**| tei.Ti.vu<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

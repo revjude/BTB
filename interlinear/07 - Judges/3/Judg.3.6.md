@@ -19,7 +19,7 @@ And they took the daughters of these people in marriage, gave their own daughter
 | to sons their  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1121A\|בְנֵי]]&#8207;&#8207;[[H9028\|הֶ֑ם]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> v.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they served  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5647H\|יַּעַבְד֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'av.Du<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods their  |**<big>&#8207;[[H0430J\|אֱלֹהֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods their  |**<big>&#8207;[[H0430\|אֱלֹהֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.3.5|<< Judges 3:5]]</td><td align="center" style="border:none;">[[Judg.3|Judges 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.7|Judges 3:7 >>]]</td></tr></table>
 
 

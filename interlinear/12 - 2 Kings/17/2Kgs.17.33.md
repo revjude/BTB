@@ -13,7 +13,7 @@ They worshiped the LORD, but they also served their own gods according to the cu
 | they were  |**<big>&#8207;[[H1961\|הָי֣וּ]]&#8207; </big>**| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fearing  |**<big>&#8207;[[H3373\|יְרֵאִ֑ים]]&#8207; </big>**| ye.re.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| own gods their  |**<big>&#8207;[[H0430J\|אֱלֹֽהֵי]]&#8207;&#8207;[[H9028\|הֶם֙]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| own gods their  |**<big>&#8207;[[H0430\|אֱלֹֽהֵי]]&#8207;&#8207;[[H9028\|הֶם֙]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they were  |**<big>&#8207;[[H1961\|הָי֣וּ]]&#8207; </big>**| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | serving  |**<big>&#8207;[[H5647H\|עֹֽבְדִ֔ים]]&#8207; </big>**| 'oe.Dim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | according to [the] custom of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H4941J\|מִשְׁפַּט֙]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> mish.Pat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

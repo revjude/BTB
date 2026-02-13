@@ -15,7 +15,7 @@ In every city of Judah he built high places to offer incense to other gods, and 
 | he made  |**<big>&#8207;[[H6213H\|עָשָׂ֣ה]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | high places  |**<big>&#8207;[[H1116\|בָמ֔וֹת]]&#8207; </big>**| va.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to make smoke  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6999H\|קַטֵּ֖ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ka.Ter<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to gods  |**<big>&#8207;[[H9005\|לֵֽ]]&#8207;&#8207;[[H0430J\|אלֹהִ֣ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to gods  |**<big>&#8207;[[H9005\|לֵֽ]]&#8207;&#8207;[[H0430\|אלֹהִ֣ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִ֑ים]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he provoked  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3707\|יַּכְעֵ֕ס]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yakh.'Es<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

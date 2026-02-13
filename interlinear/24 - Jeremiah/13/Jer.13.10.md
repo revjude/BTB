@@ -20,7 +20,7 @@ These evil people, who refuse to listen to My words, who follow the stubbornness
 | own heart their  |**<big>&#8207;[[H3820A\|לִבָּ֔]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| li.Ba<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they have walked  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּלְכ֗וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.le.Khu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | after  |**<big>&#8207;[[H0310A\|אַֽחֲרֵי֙]]&#8207; </big>**| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִ֔ים]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to serve them  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5647H\|עָבְדָ֖]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.ve.Da<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and to bow down  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7812\|הִשְׁתַּחֲוֹ֣ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> hish.ta.cha.Vot<small><sup>[[HVvcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

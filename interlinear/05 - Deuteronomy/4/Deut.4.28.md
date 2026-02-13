@@ -10,7 +10,7 @@ And there you will serve man-made gods of wood and stone, which cannot see or he
 | - | - | - | - |
 | and you will serve  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5647H\|עֲבַדְתֶּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.vad.tem-<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there  |**<big>&#8207;[[H8033G\|שָׁ֣ם]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֔ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֔ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] work of  |**<big>&#8207;[[H4639G\|מַעֲשֵׂ֖ה]]&#8207; </big>**| ma.'a.Seh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] hands of  |**<big>&#8207;[[H3027G\|יְדֵ֣י]]&#8207; </big>**| ye.Dei<small><sup>[[HNcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a human  |**<big>&#8207;[[H0120G\|אָדָ֑ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

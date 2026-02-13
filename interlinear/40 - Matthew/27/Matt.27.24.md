@@ -37,7 +37,7 @@ Having seen now <the> Pilate that no [thing] it availed but rather a riot is ari
 | righteous [one] [^3] |**<big>[[G1342\|δικαίου]]</big>**  |dikaiou <small><sup>[[A-GSM]]</sup></small> | <abbr title="Tyn+Treg+TR+Byz">KO</abbr> | |
 | of this; |**<big>[[G3778\|τούτου·]]</big>**  |toutou <small><sup>[[D-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | For yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| you will behold. |**<big>[[G3700G\|ὄψεσθε.¶]]</big>**  |opsesthe <small><sup>[[V-FDI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| you will behold. |**<big>[[G3700\|ὄψεσθε.¶]]</big>**  |opsesthe <small><sup>[[V-FDI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.23|<< Matthew 27:23]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.25|Matthew 27:25 >>]]</td></tr></table>
 
 [^1]: ==Tyn+WH== spelled: **<big><span class='asgreek'>Πειλᾶτος</span></big>**

@@ -17,7 +17,7 @@ You have done more evil than all who came before you. You have proceeded to make
 | and you have gone  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|תֵּ֡לֶךְ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.lekh<small><sup>[[HVqw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you have made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|תַּעֲשֶׂה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.'a.seh-<small><sup>[[HVqw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for yourself  |**<big>&#8207;[[H9005\|לְּ]]&#8207;&#8207;[[H9031\|ךָ֩]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֨ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֨ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִ֤ים]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and molten images  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4541A\|מַסֵּכוֹת֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.se.khOt<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to provoke to anger me  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3707\|הַכְעִיסֵ֔]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> hakh.'i.Se.<small><sup>[[HVhcc]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

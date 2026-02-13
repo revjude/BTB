@@ -21,7 +21,7 @@ King Cyrus also brought out the articles belonging to the house of the LORD that
 | from Jerusalem  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3389\|יר֣וּשָׁלִַ֔ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he had put them  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5414H\|יִּתְּנֵ֖]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.te.Ne<small><sup>[[HVqw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] house of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1004Q\|בֵ֥ית]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Veit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods his  |**<big>&#8207;[[H0430J\|אֱלֹהָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.lo.Ha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods his  |**<big>&#8207;[[H0430\|אֱלֹהָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.lo.Ha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.1.6|<< Ezra 1:6]]</td><td align="center" style="border:none;">[[Ezra.1|Ezra 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.1.8|Ezra 1:8 >>]]</td></tr></table>
 
 

@@ -9,7 +9,7 @@ Those having appeared in glory were speaking of the going out of Him which He wa
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Those |**<big>[[G3739\|οἳ]]</big>**  |hoi <small><sup>[[R-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having appeared |**<big>[[G3700H\|ὀφθέντες]]</big>**  |ophthentes <small><sup>[[V-APP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having appeared |**<big>[[G3700\|ὀφθέντες]]</big>**  |ophthentes <small><sup>[[V-APP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | glory |**<big>[[G1391\|δόξῃ]]</big>**  |doxē <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | were speaking of |**<big>[[G3004G\|ἔλεγον]]</big>**  |elegon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

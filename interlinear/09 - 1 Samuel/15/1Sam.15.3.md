@@ -27,7 +27,7 @@ Now go and attack the Amalekites and devote to destruction all that belongs to t
 | a woman  |**<big>&#8207;[[H0802G\|אִשָּׁ֗ה]]&#8207; </big>**| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from a child  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H5768\|עֹלֵל֙]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'o.Lel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and unto  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a suckling-child  |**<big>&#8207;[[H3243J\|יוֹנֵ֔ק]]&#8207; </big>**| yo.Nek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a suckling-child  |**<big>&#8207;[[H3243\|יוֹנֵ֔ק]]&#8207; </big>**| yo.Nek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from an ox  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7794\|שּׁ֣וֹר]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Shor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and unto  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a sheep  |**<big>&#8207;[[H7716\|שֶׂ֔ה]]&#8207; </big>**| Seh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

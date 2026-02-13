@@ -32,7 +32,7 @@ Make sure there is no man or woman, clan or tribe among you today whose heart tu
 | to go  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H1980G\|לֶ֣כֶת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Le.khet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to serve  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5647H\|עֲבֹ֔ד]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.Vod<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] gods of  |**<big>&#8207;[[H0430J\|אֱלֹהֵ֖י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] gods of  |**<big>&#8207;[[H0430\|אֱלֹהֵ֖י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the nations  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1471A\|גּוֹיִ֣ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> those  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H1992\|הֵ֑ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | lest  |**<big>&#8207;[[H6435\|פֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pen-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

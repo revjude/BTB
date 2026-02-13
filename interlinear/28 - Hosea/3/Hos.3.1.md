@@ -26,7 +26,7 @@ Then the LORD said to me, “Go show love to your wife again, though she is love
 | and they  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1992\|הֵ֗ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] turning  |**<big>&#8207;[[H6437G\|פֹּנִים֙]]&#8207; </big>**| po.Nim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִ֔ים]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [are] loving  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0157G\|אֹהֲבֵ֖י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'o.ha.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<of> cakes of  |**<big>&#8207;[[H0809\|אֲשִׁישֵׁ֥י]]&#8207; </big>**| 'a.shi.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -28,7 +28,7 @@ The houses of Jerusalem and the houses of the kings of Judah will be defiled lik
 | the heavens  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8064\|שָּׁמַ֔יִם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they poured out  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5258A\|הַסֵּ֥ךְ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.Sekh<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | drink offerings  |**<big>&#8207;[[H5262\|נְסָכִ֖ים]]&#8207; </big>**| ne.sa.Khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to gods  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0430J\|אלֹהִ֥ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to gods  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0430\|אלֹהִ֥ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.19.12|<< Jeremiah 19:12]]</td><td align="center" style="border:none;">[[Jer.19|Jeremiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.19.14|Jeremiah 19:14 >>]]</td></tr></table>
 

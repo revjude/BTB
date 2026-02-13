@@ -20,7 +20,7 @@ You have taken along Sakkuth your king and Kaiwan your star god, the idols you m
 | Kiyyun  |**<big>&#8207;[[H3594\|כִּיּ֣וּן]]&#8207; </big>**| ki.Yun<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | images your  |**<big>&#8207;[[H6754\|צַלְמֵי]]&#8207;&#8207;[[H9026\|כֶ֑ם]]&#8207; </big>**| tzal.mei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] star of  |**<big>&#8207;[[H3556\|כּוֹכַב֙]]&#8207; </big>**| ko.Khav<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods your  |**<big>&#8207;[[H0430J\|אֱלֹ֣הֵי]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| 'e.Lo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods your  |**<big>&#8207;[[H0430\|אֱלֹ֣הֵי]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| 'e.Lo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you made  |**<big>&#8207;[[H6213H\|עֲשִׂיתֶ֖ם]]&#8207; </big>**| 'a.si.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for yourselves  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -12,7 +12,7 @@ Kings will be your foster fathers, and their queens your nursing mothers. They w
 | kings  |**<big>&#8207;[[H4428G\|מְלָכִ֜ים]]&#8207; </big>**| me.la.Khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | foster-fathers your  |**<big>&#8207;[[H0539\|אֹֽמְנַ֗יִ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| 'o.me.Na.yi<small><sup>[[HVqrmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and princesses their  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8282\|שָׂרֽוֹתֵי]]&#8207;&#8207;[[H9028\|הֶם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sa.ro.tei.<small><sup>[[HNcfpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| suckling-nurses your  |**<big>&#8207;[[H3243I\|מֵינִ֣יקֹתַ֔יִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| mei.Ni.ko.Ta.yi<small><sup>[[HNcfpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| suckling-nurses your  |**<big>&#8207;[[H3243\|מֵינִ֣יקֹתַ֔יִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| mei.Ni.ko.Ta.yi<small><sup>[[HNcfpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | faces  |**<big>&#8207;[[H0639I\|אַפַּ֗יִם]]&#8207; </big>**| 'a.Pa.yim<small><sup>[[HNcmda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ground  |**<big>&#8207;[[H0776H\|אֶ֚רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will bow down  |**<big>&#8207;[[H7812\|יִשְׁתַּ֣חֲווּ]]&#8207; </big>**| yish.Ta.cha.vu<small><sup>[[HVti3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

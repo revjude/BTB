@@ -21,7 +21,7 @@ Just as they have done from the day I brought them up out of Egypt until this da
 | \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּ֔ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they have forsaken me  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5800A\|יַּ֣עַזְבֻ֔]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'az.Vu.<small><sup>[[HVqw3mp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they have served  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5647G\|יַּעַבְד֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'av.Du<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִ֑ים]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | so  |**<big>&#8207;[[H3651C\|כֵּ֛ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they  |**<big>&#8207;[[H1992\|הֵ֥מָּה]]&#8207; </big>**| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

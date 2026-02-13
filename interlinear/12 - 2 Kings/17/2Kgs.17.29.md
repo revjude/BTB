@@ -12,7 +12,7 @@ Nevertheless, the people of each nation continued to make their own gods in the 
 | making  |**<big>&#8207;[[H6213H\|עֹשִׂ֔ים]]&#8207; </big>**| 'o.Sim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | nation  |**<big>&#8207;[[H1471A\|גּ֥וֹי]]&#8207; </big>**| Goy<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | nation  |**<big>&#8207;[[H1471A\|גּ֖וֹי]]&#8207; </big>**| Goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| own gods its  |**<big>&#8207;[[H0430J\|אֱלֹהָ֑י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'e.lo.Ha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| own gods its  |**<big>&#8207;[[H0430\|אֱלֹהָ֑י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'e.lo.Ha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they placed [them]  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5117\|יַּנִּ֣יחוּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ni.chu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] house of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1004B\|בֵ֣ית]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Veit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the high places  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1116\|בָּמ֗וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ba.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

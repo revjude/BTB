@@ -25,7 +25,7 @@ And Naaman said, Shall there not then, I pray thee, be given to thy servant two 
 | servant your  |**<big>&#8207;[[H5650\|עַבְדְּ]]&#8207;&#8207;[[H9021\|ךָ֜]]&#8207; </big>**| 'av.de.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | burnt offering  |**<big>&#8207;[[H5930A\|עֹלָ֤ה]]&#8207; </big>**| 'o.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and sacrifice  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H2077\|זֶ֙בַח֙]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Ze.vach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to gods  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0430J\|אלֹהִ֣ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to gods  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0430\|אלֹהִ֣ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִ֔ים]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588B\|כִּ֖י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | except  |**<big>&#8207;[[H0518B\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

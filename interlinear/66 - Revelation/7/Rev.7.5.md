@@ -10,7 +10,7 @@ Out of [the] tribe of Judah twelve thousand sealed; out of [the] tribe of Reuben
 | - | - | - | - |
 | Out of |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] tribe |**<big>[[G5443\|φυλῆς]]</big>**  |phulēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Judah |**<big>[[G2455N\|Ἰούδα]]</big>**  |Iouda <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Judah |**<big>[[G2455\|Ἰούδα]]</big>**  |Iouda <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | twelve [^1] |**<big>[[G1427\|δώδεκα]]</big>**  |dōdeka <small><sup>[[A-NUI]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
 | thousand |**<big>[[G5505\|χιλιάδες]]</big>**  |chiliades <small><sup>[[N-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | sealed; [^2] |**<big>[[G4972\|ἐσφραγισμένοι·]]</big>**  |esphragismenoi <small><sup>[[V-RPP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NK(o)</abbr> | |

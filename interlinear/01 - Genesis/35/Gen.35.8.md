@@ -10,7 +10,7 @@ Now Deborah, Rebekah’s nurse, died and was buried under the oak below Bethel. 
 | - | - | - | - |
 | and she died  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|תָּ֤מָת]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.mot<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Deborah  |**<big>&#8207;[[H1683G\|דְּבֹרָה֙]]&#8207; </big>**| de.vo.Rah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] suckling-nurse of  |**<big>&#8207;[[H3243I\|מֵינֶ֣קֶת]]&#8207; </big>**| mei.Ne.ket<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] suckling-nurse of  |**<big>&#8207;[[H3243\|מֵינֶ֣קֶת]]&#8207; </big>**| mei.Ne.ket<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Rebekah  |**<big>&#8207;[[H7259\|רִבְקָ֔ה]]&#8207; </big>**| riv.Kah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and she was buried  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6912\|תִּקָּבֵ֛ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.ka.Ver<small><sup>[[HVNw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from under  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8478G\|תַּ֥חַת]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -15,7 +15,7 @@ He made him ride on the heights of the land and fed him the produce of the field
 | and it ate  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0398\|יֹּאכַ֖ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Khal<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fruits of  |**<big>&#8207;[[H8570\|תְּנוּבֹ֣ת]]&#8207; </big>**| te.nu.Vot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] field  |**<big>&#8207;[[H7704M\|שָׂדָ֑י]]&#8207; </big>**| sa.Dai<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he suckled him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3243H\|יֵּנִקֵ֤]]&#8207;&#8207;[[H9033\|הֽוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.ni.Ke.<small><sup>[[HVhw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he suckled him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3243\|יֵּנִקֵ֤]]&#8207;&#8207;[[H9033\|הֽוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.ni.Ke.<small><sup>[[HVhw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | honey  |**<big>&#8207;[[H1706\|דְבַשׁ֙]]&#8207; </big>**| de.Vash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from a rock  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H5553H\|סֶּ֔לַע]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Se.la'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and oil  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8081\|שֶׁ֖מֶן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> She.men<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

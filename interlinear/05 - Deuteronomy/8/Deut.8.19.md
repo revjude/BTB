@@ -17,7 +17,7 @@ If you ever forget the LORD your God and go after other gods to worship and bow 
 | God your  |**<big>&#8207;[[H0430G\|אֱלֹהֶ֔י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will walk  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1980N\|הָֽלַכְתָּ֗]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.lakh.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | after  |**<big>&#8207;[[H0310A\|אַחֲרֵי֙]]&#8207; </big>**| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִ֔ים]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will serve them  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5647H\|עֲבַדְתָּ֖]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.vad.Ta<small><sup>[[HVqq2ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will bow down  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7812\|הִשְׁתַּחֲוִ֣יתָ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hish.ta.cha.Vi.ta<small><sup>[[HVvq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

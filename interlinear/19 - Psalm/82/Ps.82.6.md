@@ -14,7 +14,7 @@ I have said, ‘You are gods; you are all sons of the Most High.’
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0589\|אֲֽנִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ani-<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I said  |**<big>&#8207;[[H0559\|אָ֭מַרְתִּי]]&#8207; </big>**| 'A.mar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you  |**<big>&#8207;[[H0859D\|אַתֶּ֑ם]]&#8207; </big>**| 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [are] [the] children of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121G\|בְנֵ֖י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Most High  |**<big>&#8207;[[H5945B\|עֶלְי֣וֹן]]&#8207; </big>**| el.Yon<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

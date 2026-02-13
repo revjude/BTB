@@ -19,7 +19,7 @@ do show Me a denarius; Of whom has it [the] image and inscription? Those And the
 | Those [^2] [^3] |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH">N(K)O</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they said; |**<big>[[G2036\|εἶπαν·]]</big>**  [^4] |eipan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Caesar’s. |**<big>[[G2541J\|Καίσαρος.]]</big>**  |Kaisaros <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Caesar’s. |**<big>[[G2541\|Καίσαρος.]]</big>**  |Kaisaros <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.23|<< Luke 20:23]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.25|Luke 20:25 >>]]</td></tr></table>
 
 [^1]: ==TR+Byz==: do show | **<big>[[G1925|Ἐπιδείξατέ]]</big>** | Epideixate<small><sup>[[V-AAM-2P]]</sup></small>

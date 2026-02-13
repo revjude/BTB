@@ -11,7 +11,7 @@ Go and cry out to the gods you have chosen. Let them save you in your time of tr
 | go  |**<big>&#8207;[[H1980G\|לְכ֗וּ]]&#8207; </big>**| le.Khu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and cry out  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2199\|זַֽעֲקוּ֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> za.'a.Ku<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the gods  |**<big>&#8207;[[H9009\|הָ֣]]&#8207;&#8207;[[H0430J\|אֱלֹהִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the gods  |**<big>&#8207;[[H9009\|הָ֣]]&#8207;&#8207;[[H0430\|אֱלֹהִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have chosen  |**<big>&#8207;[[H0977\|בְּחַרְתֶּ֖ם]]&#8207; </big>**| be.char.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<in> \<the> them  |**<big>&#8207;[[H9003\|בָּ֑]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| Ba<small><sup>[[HRd]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

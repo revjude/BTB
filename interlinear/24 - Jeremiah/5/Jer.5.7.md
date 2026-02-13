@@ -16,7 +16,7 @@ How shall I pardon thee for this? thy children have forsaken me, and sworn by [t
 | they have forsaken me  |**<big>&#8207;[[H5800A\|עֲזָב֔וּ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| 'a.za.Vu.<small><sup>[[HVqp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they have sworn  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7650\|יִּשָּׁבְע֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.sha.ve.'U<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by not  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֑ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֑ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I satisfied  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7646\|אַשְׂבִּ֤עַ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'as.Bi.a'<small><sup>[[HVhw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> them  |**<big>&#8207;[[H0853\|אוֹתָ]]&#8207;&#8207;[[H9038\|ם֙]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they committed adultery  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5003\|יִּנְאָ֔פוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yin.'A.fu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

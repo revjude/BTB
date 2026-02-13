@@ -35,7 +35,7 @@ So now, do not let Hezekiah deceive you, and do not let him mislead you like thi
 | fathers my  |**<big>&#8207;[[H0001G\|אֲבוֹתָ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.vo.Ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | indeed?  |**<big>&#8207;[[H0637\|אַ֚ף]]&#8207; </big>**| 'af<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods your  |**<big>&#8207;[[H0430J\|אֱֽלֹהֵי]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| 'elo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods your  |**<big>&#8207;[[H0430\|אֱֽלֹהֵי]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| 'elo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will deliver  |**<big>&#8207;[[H5337\|יַצִּ֥ילוּ]]&#8207; </big>**| ya.Tzi.lu<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> you  |**<big>&#8207;[[H0853\|אֶתְ]]&#8207;&#8207;[[H9036\|כֶ֖ם]]&#8207; </big>**| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

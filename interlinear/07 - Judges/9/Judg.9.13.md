@@ -15,7 +15,7 @@ But the grapevine replied, ‘Should I stop giving my wine that cheers both God 
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | new wine my  |**<big>&#8207;[[H8492\|תִּ֣ירוֹשִׁ֔]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ti.ro.Sh<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which makes glad  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H8055\|מְשַׂמֵּ֥חַ]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> m.sa.Me.ach<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֖ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֖ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and men  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0582\|אֲנָשִׁ֑ים]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and will I go  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1980G\|הָ֣לַכְתִּ֔י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Ha.lakh.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to sway  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H5128\|נ֖וּעַ]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Nu.a'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

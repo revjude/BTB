@@ -27,7 +27,7 @@ Again and again I have sent you all My servants the prophets, proclaiming: ‘Tu
 | and may not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you walk  |**<big>&#8207;[[H1980N\|תֵּ֨לְכ֜וּ]]&#8207; </big>**| te.le.Khu<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | after  |**<big>&#8207;[[H0310A\|אַחֲרֵ֨י]]&#8207; </big>**| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֤ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֤ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִים֙]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to serve them  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5647H\|עָבְדָ֔]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.ve.Da<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and dwell  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3427\|שְׁבוּ֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.Vu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -13,7 +13,7 @@ Yet I am the LORD your God ever since the land of Egypt; you know no God but Me,
 | God your  |**<big>&#8207;[[H0430G\|אֱלֹהֶ֖י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] land of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0776G\|אֶ֣רֶץ]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Egypt  |**<big>&#8207;[[H4714G\|מִצְרָ֑יִם]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and gods  |**<big>&#8207;[[H9002\|וֵ]]&#8207;&#8207;[[H0430J\|אלֹהִ֤ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and gods  |**<big>&#8207;[[H9002\|וֵ]]&#8207;&#8207;[[H0430\|אלֹהִ֤ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | besides me  |**<big>&#8207;[[H2108\|זֽוּלָתִ]]&#8207;&#8207;[[H9030\|י֙]]&#8207; </big>**| zu.la.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must know  |**<big>&#8207;[[H3045\|תֵדָ֔ע]]&#8207; </big>**| te.Da'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

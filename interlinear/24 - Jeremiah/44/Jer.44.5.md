@@ -18,7 +18,7 @@ But they did not listen or incline their ears; they did not turn from their wick
 | from wickedness their  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7451I\|רָֽעָתָ֑]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> ra.'a.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to not  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1115\|בִלְתִּ֥י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> vil.Ti<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to make smoke  |**<big>&#8207;[[H6999H\|קַטֵּ֖ר]]&#8207; </big>**| ka.Ter<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to gods  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0430J\|אלֹהִ֥ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to gods  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0430\|אלֹהִ֥ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.4|<< Jeremiah 44:4]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.6|Jeremiah 44:6 >>]]</td></tr></table>
 

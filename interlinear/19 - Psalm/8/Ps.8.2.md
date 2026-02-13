@@ -14,7 +14,7 @@ From the mouths of children and infants You have ordained praise on account of Y
 | - | - | - | - |
 | from [the] mouth of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6310G\|פִּ֤י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Pi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | children  |**<big>&#8207;[[H5768\|עֽוֹלְלִ֨ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'o.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and suckling-children  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H3243J\|יֹנְקִים֮]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.ne.Kim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and suckling-children  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H3243\|יֹנְקִים֮]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.ne.Kim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have established  |**<big>&#8207;[[H3245\|יִסַּ֪דְתָּ֫]]&#8207; </big>**| yi.Sad.ta<small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | strength  |**<big>&#8207;[[H5797\|עֹ֥ז]]&#8207; </big>**| 'oz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on account of  |**<big>&#8207;[[H4616\|לְמַ֥עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

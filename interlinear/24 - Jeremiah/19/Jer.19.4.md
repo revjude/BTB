@@ -17,7 +17,7 @@ because they have abandoned Me and made this a foreign place. They have burned i
 | \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּה֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they have made smoke  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6999H\|יְקַטְּרוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.ka.te.ru-<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in \<the> it  |**<big>&#8207;[[H9003\|ב]]&#8207;&#8207;[[H9033\|וֹ֙]]&#8207; </big>**| v<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to gods  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0430J\|אלֹהִ֣ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to gods  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0430\|אלֹהִ֣ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִ֔ים]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֧ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

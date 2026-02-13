@@ -26,7 +26,7 @@ Whatever is commanded by the God of heaven must be done diligently for His house
 | on  |**<big>&#8207;[[H5922\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] kingdom of  |**<big>&#8207;[[H4437\|מַלְכ֥וּת]]&#8207; </big>**| mal.Khut<small><sup>[[ANcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | king the  |**<big>&#8207;[[H4430\|מַלְכָּ֖]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and sons his  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1247J\|בְנֽוֹ]]&#8207;&#8207;[[H9023\|הִי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> ve.No.<small><sup>[[ANcmpc]]</sup></small> hi<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and sons his  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1247\|בְנֽוֹ]]&#8207;&#8207;[[H9023\|הִי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> ve.No.<small><sup>[[ANcmpc]]</sup></small> hi<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.22|<< Ezra 7:22]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.24|Ezra 7:24 >>]]</td></tr></table>
 
 

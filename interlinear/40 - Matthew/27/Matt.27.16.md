@@ -14,7 +14,7 @@ They were holding now at that time a prisoner notable  being named Jesus Barabba
 | a prisoner |**<big>[[G1198\|δέσμιον]]</big>**  |desmion <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | notable |**<big>[[G1978\|ἐπίσημον]]</big>**  |episēmon <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 |  being named |**<big>[[G3004H\|λεγόμενον]]</big>**  |legomenon <small><sup>[[V-PPP-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Jesus [^1] |**<big>[[G2424H\|Ἰησοῦν]]</big>**  |Iēsoun <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+SBL">NO</abbr> | |
+| Jesus [^1] |**<big>[[G2424\|Ἰησοῦν]]</big>**  |Iēsoun <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+SBL">NO</abbr> | |
 | Barabbas. |**<big>[[G0912\|Βαραββᾶν.]]</big>**  |Barabban <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.15|<< Matthew 27:15]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.17|Matthew 27:17 >>]]</td></tr></table>
 

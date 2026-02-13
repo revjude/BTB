@@ -17,7 +17,7 @@ whom has received Jason; And these all contrary to the decrees of Caesar do king
 | contrary to |**<big>[[G0561\|ἀπέναντι]]</big>**  |apenanti <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τῶν]]</big>**  |tōn <small><sup>[[T-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | decrees |**<big>[[G1378\|δογμάτων]]</big>**  |dogmatōn <small><sup>[[N-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Caesar |**<big>[[G2541H\|Καίσαρος]]</big>**  |Kaisaros <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Caesar |**<big>[[G2541\|Καίσαρος]]</big>**  |Kaisaros <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do |**<big>[[G4238\|πράσσουσιν]]</big>**  [^1] |prassousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | king |**<big>[[G0935\|βασιλέα]]</big>**  |basilea <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | another |**<big>[[G2087\|ἕτερον]]</big>**  |heteron <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1">NKO</abbr> | |

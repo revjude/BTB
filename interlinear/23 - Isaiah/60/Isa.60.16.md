@@ -8,12 +8,12 @@ You will drink the milk of nations and nurse at the breasts of royalty; you will
 
 | Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| and you will suck  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3243G\|יָנַקְתְּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.nakT<small><sup>[[HVqq2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will suck  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3243\|יָנַקְתְּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.nakT<small><sup>[[HVqq2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] milk of  |**<big>&#8207;[[H2461\|חֲלֵ֣ב]]&#8207; </big>**| cha.Lev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | nations  |**<big>&#8207;[[H1471A\|גּוֹיִ֔ם]]&#8207; </big>**| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [the] breast of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7699B\|שֹׁ֥ד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Shod<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | kings  |**<big>&#8207;[[H4428G\|מְלָכִ֖ים]]&#8207; </big>**| me.la.Khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will suck  |**<big>&#8207;[[H3243G\|תִּינָ֑קִי]]&#8207; </big>**| ti.Na.ki<small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will suck  |**<big>&#8207;[[H3243\|תִּינָ֑קִי]]&#8207; </big>**| ti.Na.ki<small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will know  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3045\|יָדַ֗עַתְּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.Da.'at<small><sup>[[HVqq2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֤י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -16,7 +16,7 @@ Having sent then Joseph he called for Jacob the father of him and all the kindre
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Joseph |**<big>[[G2501N\|Ἰωσὴφ]]</big>**  |Iōsēph <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he called for |**<big>[[G3333\|μετεκαλέσατο]]</big>**  |metekalesato <small><sup>[[V-AMI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Jacob |**<big>[[G2384H\|Ἰακὼβ]]</big>**  |Iakōb <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»3+Byz»3">NKO</abbr> | |
+| Jacob |**<big>[[G2384G\|Ἰακὼβ]]</big>**  |Iakōb <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»3+Byz»3">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | father |**<big>[[G3962\|πατέρα]]</big>**  |patera <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of him |**<big>[[G0846\|αὐτοῦ]]</big>**  |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

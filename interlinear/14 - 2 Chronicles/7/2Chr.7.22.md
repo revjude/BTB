@@ -21,7 +21,7 @@ And others will answer, ‘Because they have forsaken the LORD, the God of their
 | from [the] land of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0776G\|אֶ֣רֶץ]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Egypt  |**<big>&#8207;[[H4714G\|מִצְרַיִם֒]]&#8207; </big>**| mitz.ra.Yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they took hold  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H2388H\|יַּחֲזִ֙יקוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.cha.Zi.ku<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| on gods  |**<big>&#8207;[[H9003\|בֵּ]]&#8207;&#8207;[[H0430J\|אלֹהִ֣ים]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| on gods  |**<big>&#8207;[[H9003\|בֵּ]]&#8207;&#8207;[[H0430\|אלֹהִ֣ים]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִ֔ים]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they bowed down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7812\|יִּשְׁתַּחֲו֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.ta.cha.Vu<small><sup>[[HVvw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֖ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

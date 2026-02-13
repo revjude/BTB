@@ -12,7 +12,7 @@ Why are you provoking Me to anger by the work of your hands by burning incense t
 | by [the] deeds of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4639K\|מַעֲשֵׂ֣י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ma.'a.Sei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hands your  |**<big>&#8207;[[H3027G\|יְדֵי]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| ye.dei.<small><sup>[[HNcbdc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by making smoke  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6999H\|קַטֵּ֞ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ka.Ter<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to gods  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0430J\|אלֹהִ֤ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to gods  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0430\|אלֹהִ֤ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִים֙]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] land of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0776G\|אֶ֣רֶץ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Egypt  |**<big>&#8207;[[H4714G\|מִצְרַ֔יִם]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

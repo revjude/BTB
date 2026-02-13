@@ -25,7 +25,7 @@ The sons of your oppressors will come and bow down to you; all who reviled you w
 | [those who] despised you  |**<big>&#8207;[[H5006\|מְנַֽאֲצָ֑יִ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| me.na.'a.Tza.yi<small><sup>[[HVprmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they will call  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7121H\|קָ֤רְאוּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Ka.re.'u<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9032\|ךְ֙]]&#8207; </big>**| lo<small><sup>[[HR]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] city of  |**<big>&#8207;[[H5892I\|עִ֣יר]]&#8207; </big>**| 'ir<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] city of  |**<big>&#8207;[[H5892H\|עִ֣יר]]&#8207; </big>**| 'ir<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068I\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Zion  |**<big>&#8207;[[H6726\|צִיּ֖וֹן]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of [the] holy [one] of  |**<big>&#8207;[[H6918G\|קְד֥וֹשׁ]]&#8207; </big>**| ke.Do.osh<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

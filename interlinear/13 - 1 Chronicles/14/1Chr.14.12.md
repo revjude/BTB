@@ -11,7 +11,7 @@ There the Philistines abandoned their gods, and David ordered that they be burne
 | and they abandoned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5800A\|יַּעַזְבוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'az.vu-<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there  |**<big>&#8207;[[H8033G\|שָׁ֖ם]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods their  |**<big>&#8207;[[H0430J\|אֱלֹֽהֵי]]&#8207;&#8207;[[H9028\|הֶ֑ם]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods their  |**<big>&#8207;[[H0430\|אֱלֹֽהֵי]]&#8207;&#8207;[[H9028\|הֶ֑ם]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he spoke  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֔יד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they were burned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8313\|יִּשָּׂרְפ֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.sa.re.Fu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

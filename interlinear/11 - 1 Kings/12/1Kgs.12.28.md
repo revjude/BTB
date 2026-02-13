@@ -21,7 +21,7 @@ After seeking advice, the king made two golden calves and said to the people, �
 | for going up  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5927G\|עֲל֣וֹת]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.Lot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִַ֔ם]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֤ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods your  |**<big>&#8207;[[H0430J\|אֱלֹהֶ֙י]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods your  |**<big>&#8207;[[H0430\|אֱלֹהֶ֙י]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֔ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they brought up you  |**<big>&#8207;[[H5927H\|הֶעֱל֖וּ]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| he.'e.Lu.<small><sup>[[HVhp3cp]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

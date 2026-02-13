@@ -19,7 +19,7 @@ Then you are to answer them: ‘It is because your fathers have forsaken Me, dec
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they walked  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980N\|יֵּלְכ֗וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.le.Khu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | after  |**<big>&#8207;[[H0310A\|אַֽחֲרֵי֙]]&#8207; </big>**| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִ֔ים]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they served them  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5647H\|יַּעַבְד֖וּ]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'av.Du<small><sup>[[HVqw3mp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they bowed down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7812\|יִּשְׁתַּחֲו֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.ta.cha.Vu<small><sup>[[HVvw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

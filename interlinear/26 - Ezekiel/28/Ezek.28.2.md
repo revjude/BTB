@@ -28,7 +28,7 @@ Son of man, say unto the prince of Tyrus, Thus saith the Lord GOD; Because thine
 | [am] a god  |**<big>&#8207;[[H0410K\|אֵ֣ל]]&#8207; </big>**| 'el<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אָ֔נִי]]&#8207; </big>**| 'A.ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] seat of  |**<big>&#8207;[[H4186\|מוֹשַׁ֧ב]]&#8207; </big>**| mo.Shav<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֛ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֛ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I sit  |**<big>&#8207;[[H3427\|יָשַׁ֖בְתִּי]]&#8207; </big>**| ya.Shav.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] heart of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3820A\|לֵ֣ב]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Lev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] seas  |**<big>&#8207;[[H3220G\|יַמִּ֑ים]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

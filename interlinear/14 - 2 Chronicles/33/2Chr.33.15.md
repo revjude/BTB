@@ -10,7 +10,7 @@ He removed the foreign gods and the idol from the house of the LORD, along with 
 | - | - | - | - |
 | and he removed  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H5493G\|יָּסַר]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.ya.sar<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] gods of  |**<big>&#8207;[[H0430J\|אֱלֹהֵ֨י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] gods of  |**<big>&#8207;[[H0430\|אֱלֹהֵ֨י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> foreignness  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5236\|נֵּכָ֤ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ne.Khar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the image  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5566\|סֶּ֙מֶל֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Se.mel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

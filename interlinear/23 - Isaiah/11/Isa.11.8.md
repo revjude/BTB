@@ -9,7 +9,7 @@ The infant will play by the cobra’s den, and the toddler will reach into the v
 | Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will play  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8173B\|שִֽׁעֲשַׁ֥ע]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> shi.'a.Sha'<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a suckling-child  |**<big>&#8207;[[H3243J\|יוֹנֵ֖ק]]&#8207; </big>**| yo.Nek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a suckling-child  |**<big>&#8207;[[H3243\|יוֹנֵ֖ק]]&#8207; </big>**| yo.Nek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] hole of  |**<big>&#8207;[[H2352\|חֻ֣ר]]&#8207; </big>**| chur<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a cobra  |**<big>&#8207;[[H6620\|פָּ֑תֶן]]&#8207; </big>**| Pa.ten<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

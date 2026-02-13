@@ -19,7 +19,7 @@ Do you not know what I and my fathers have done to all the peoples of the lands?
 | the lands  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אֲרָצ֑וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.ra.Tzot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ¿ really \<to be able>  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3201\|יָכ֣וֹל]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> ya.Khol<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | were they able  |**<big>&#8207;[[H3201\|יָֽכְל֗וּ]]&#8207; </big>**| ya.khe.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] gods of  |**<big>&#8207;[[H0430J\|אֱלֹהֵי֙]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] gods of  |**<big>&#8207;[[H0430\|אֱלֹהֵי֙]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] nations of  |**<big>&#8207;[[H1471A\|גּוֹיֵ֣]]&#8207; </big>**| go.Ye<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the lands  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אֲרָצ֔וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.ra.Tzot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to deliver  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5337\|הַצִּ֥יל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ha.Tzil<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

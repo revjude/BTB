@@ -17,7 +17,7 @@ Will you steal and murder, commit adultery and perjury, burn incense to Baal, an
 | to \<the> Baal  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H1168A\|בָּ֑עַל]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Ba.'al<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and will you walk?  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1980N\|הָלֹ֗ךְ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.Lokh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | after  |**<big>&#8207;[[H0310A\|אַחֲרֵ֛י]]&#8207; </big>**| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֥ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֥ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִ֖ים]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

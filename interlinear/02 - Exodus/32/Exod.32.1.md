@@ -29,7 +29,7 @@ Now when the people saw that Moses was delayed in coming down from the mountain,
 | arise  |**<big>&#8207;[[H6965B\|ק֣וּם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| kum<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | make  |**<big>&#8207;[[H6213H\|עֲשֵׂה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.seh-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> us  |**<big>&#8207;[[H9005\|לָ֣]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| La.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֗ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֗ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will go  |**<big>&#8207;[[H1980G\|יֵֽלְכוּ֙]]&#8207; </big>**| ye.le.Khu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before us  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6440G\|פָנֵ֔י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> fa.Nei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

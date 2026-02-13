@@ -17,7 +17,7 @@ He also wrote letters mocking the LORD, the God of Israel, and saying against Hi
 | and to say  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לֵֽ]]&#8207;&#8207;[[H0559\|אמֹ֨ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on him  |**<big>&#8207;[[H5921A\|עָלָ֜י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> saying  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0559\|אמֹ֗ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like [the] gods of  |**<big>&#8207;[[H9004\|כֵּֽ]]&#8207;&#8207;[[H0430J\|אלֹהֵ֞י]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like [the] gods of  |**<big>&#8207;[[H9004\|כֵּֽ]]&#8207;&#8207;[[H0430\|אלֹהֵ֞י]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] nations of  |**<big>&#8207;[[H1471A\|גּוֹיֵ֤]]&#8207; </big>**| go.Ye<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the lands  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אֲרָצוֹת֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.ra.tzOt<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

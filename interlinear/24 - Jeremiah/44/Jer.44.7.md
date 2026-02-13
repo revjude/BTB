@@ -28,7 +28,7 @@ So now, this is what the LORD God of Hosts, the God of Israel, says: Why are you
 | man  |**<big>&#8207;[[H0376G\|אִישׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ish-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and woman  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0802G\|אִשָּׁ֛ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | child  |**<big>&#8207;[[H5768\|עוֹלֵ֥ל]]&#8207; </big>**| o.Lel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and suckling-child  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3243J\|יוֹנֵ֖ק]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.Nek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and suckling-child  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3243\|יוֹנֵ֖ק]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.Nek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] midst of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8432\|תּ֣וֹךְ]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Tokh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֑ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to not  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1115\|בִלְתִּ֛י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> vil.Ti<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

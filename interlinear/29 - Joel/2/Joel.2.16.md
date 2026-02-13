@@ -16,7 +16,7 @@ Gather the people, sanctify the congregation, assemble the aged, gather the chil
 | [the] elders  |**<big>&#8207;[[H2205G\|זְקֵנִ֔ים]]&#8207; </big>**| ze.ke.Nim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | gather  |**<big>&#8207;[[H0622\|אִסְפוּ֙]]&#8207; </big>**| 'is.Fu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | children  |**<big>&#8207;[[H5768\|עֽוֹלָלִ֔ים]]&#8207; </big>**| o.la.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and suckling-children of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3243J\|יֹנְקֵ֖י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.ne.Kei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and suckling-children of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3243\|יֹנְקֵ֖י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.ne.Kei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | breasts  |**<big>&#8207;[[H7699A\|שָׁדָ֑יִם]]&#8207; </big>**| sha.Da.yim<small><sup>[[HNcmda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | let him go out  |**<big>&#8207;[[H3318G\|יֵצֵ֤א]]&#8207; </big>**| ye.Tze'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] bridegroom  |**<big>&#8207;[[H2860\|חָתָן֙]]&#8207; </big>**| cha.Tan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

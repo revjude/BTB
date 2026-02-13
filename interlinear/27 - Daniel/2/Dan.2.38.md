@@ -11,7 +11,7 @@ Wherever the sons of men or beasts of the field or birds of the air dwell, He ha
 | and over all  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H3606\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> ve.<small><sup>[[AR]]</sup></small> Khol-<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H1768\|דִּ֣י]]&#8207; </big>**| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] dwelling  |**<big>&#8207;[[H1753\|דָֽיְרִ֣ין]]&#8207; </big>**[^1] [^2] | da.'a.rin<small><sup>[[AVqrmpa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
-| [the] sons of  |**<big>&#8207;[[H1247I\|בְּֽנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[ANcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sons of  |**<big>&#8207;[[H1247\|בְּֽנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[ANcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> humankind  |**<big>&#8207;[[H0606\|אֲ֠נָשָׁ]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| 'A.na.sha<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] animal[s] of  |**<big>&#8207;[[H2423\|חֵיוַ֨ת]]&#8207; </big>**| chei.Vat<small><sup>[[ANcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | field the  |**<big>&#8207;[[H1251\|בָּרָ֤]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| ba.Ra<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

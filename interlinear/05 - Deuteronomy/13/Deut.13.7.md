@@ -8,7 +8,7 @@ the gods of the peoples around you, whether near or far, whether from one end of
 
 | Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| any of [the] gods of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0430J\|אֱלֹהֵ֣י]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| any of [the] gods of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0430\|אֱלֹהֵ֣י]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the peoples  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H5971A\|עַמִּ֗ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁר֙]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] around you  |**<big>&#8207;[[H5439G\|סְבִיבֹ֣תֵי]]&#8207;&#8207;[[H9036\|כֶ֔ם]]&#8207; </big>**| se.vi.Vo.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

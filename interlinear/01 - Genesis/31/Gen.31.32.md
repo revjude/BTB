@@ -12,7 +12,7 @@ If you find your gods with anyone here, he shall not live! In the presence of ou
 | [anyone] whom  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will find  |**<big>&#8207;[[H4672\|תִּמְצָ֣א]]&#8207; </big>**| tim.Tza'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods your  |**<big>&#8207;[[H0430J\|אֱלֹהֶי]]&#8207;&#8207;[[H9021\|ךָ֮]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods your  |**<big>&#8207;[[H0430\|אֱלֹהֶי]]&#8207;&#8207;[[H9021\|ךָ֮]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will live  |**<big>&#8207;[[H2421\|יִֽחְיֶה֒]]&#8207; </big>**| yich.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | before  |**<big>&#8207;[[H5048\|נֶ֣גֶד]]&#8207; </big>**| Ne.ged<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

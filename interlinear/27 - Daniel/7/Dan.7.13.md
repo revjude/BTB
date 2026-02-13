@@ -20,7 +20,7 @@ In my vision in the night I continued to watch, and I saw One like the Son of Ma
 | with  |**<big>&#8207;[[H5974\|עִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] clouds of  |**<big>&#8207;[[H6050\|עֲנָנֵ֣י]]&#8207; </big>**| 'a.na.Nei<small><sup>[[ANcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | heavens the  |**<big>&#8207;[[H8065\|שְׁמַיָּ֔]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| she.mai.Ya<small><sup>[[ANcmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like a son of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H1247I\|בַ֥ר]]&#8207; </big>**| ke.<small><sup>[[AR]]</sup></small> Var<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like a son of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H1247\|בַ֥ר]]&#8207; </big>**| ke.<small><sup>[[AR]]</sup></small> Var<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | man  |**<big>&#8207;[[H0606\|אֱנָ֖שׁ]]&#8207; </big>**| 'e.Nash<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | coming  |**<big>&#8207;[[H0858\|אָתֵ֣ה]]&#8207; </big>**| 'a.Teh<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he was  |**<big>&#8207;[[H1934\|הֲוָ֑ה]]&#8207; </big>**| ha.Vah<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

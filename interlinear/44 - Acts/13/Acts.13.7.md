@@ -14,7 +14,7 @@ who was with the proconsul Sergius Paulus, man an intelligent. He having called 
 | the |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | proconsul |**<big>[[G0446\|ἀνθυπάτῳ]]</big>**  |anthupatō <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Sergius |**<big>[[G4588\|Σεργίῳ]]</big>**  |Sergiō <small><sup>[[N-DSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Paulus, |**<big>[[G3972H\|Παύλῳ,]]</big>**  |Paulō <small><sup>[[N-DSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Paulus, |**<big>[[G3972\|Παύλῳ,]]</big>**  |Paulō <small><sup>[[N-DSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | man |**<big>[[G0435G\|ἀνδρὶ]]</big>**  |andri <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | an intelligent. |**<big>[[G4908\|συνετῷ.]]</big>**  |sunetō <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He |**<big>[[G3778\|οὗτος]]</big>**  |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

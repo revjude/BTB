@@ -17,7 +17,7 @@ Then they told the king, “Daniel, one of the exiles from Judah, shows no regar
 | Daniel  |**<big>&#8207;[[H1841H\|דָנִיֵּ֡אל]]&#8207; </big>**| da.ni.Yel<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who  |**<big>&#8207;[[H1768\|דִּי֩]]&#8207; </big>**| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] one of  |**<big>&#8207;[[H4481\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] sons of  |**<big>&#8207;[[H1247I\|בְּנֵ֨י]]&#8207; </big>**| be.Nei<small><sup>[[ANcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] sons of  |**<big>&#8207;[[H1247\|בְּנֵ֨י]]&#8207; </big>**| be.Nei<small><sup>[[ANcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | exile the  |**<big>&#8207;[[H1547\|גָלוּתָ֜]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| ga.lu.Ta<small><sup>[[ANcfsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of  |**<big>&#8207;[[H1768\|דִּ֣י]]&#8207; </big>**| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Judah  |**<big>&#8207;[[H3061\|יְה֗וּד]]&#8207; </big>**| ye.Hud<small><sup>[[ANpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

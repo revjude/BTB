@@ -27,7 +27,7 @@ He answered and said, Lo, I see four men loose, walking in the midst of the fire
 | of  |**<big>&#8207;[[H1768\|דִּ֣י]]&#8207; </big>**| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fourth the  |**<big>&#8207;[[H7244\|רְֽבִיעָ]]&#8207;&#8207;[[H9010\|אָ֔ה]]&#8207; </big>**[^1] [^2] | re.vi.'a.ya<small><sup>[[AAobsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 | [is] like  |**<big>&#8207;[[H1821\|דָּמֵ֖ה]]&#8207; </big>**| da.Meh<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.> a son of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1247I\|בַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[AR]]</sup></small> var-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> a son of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1247\|בַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[AR]]</sup></small> var-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] gods  |**<big>&#8207;[[H0426\|אֱלָהִֽין]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'e.la.Hin<small><sup>[[ANcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.24|<< Daniel 3:24]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.26|Daniel 3:26 >>]]</td></tr></table>
 

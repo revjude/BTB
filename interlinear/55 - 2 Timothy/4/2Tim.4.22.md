@@ -39,7 +39,7 @@ The Lord Jesus Christ [be] with the spirit of you. <the> Grace [be] with you all
 | stood |**<big>[[G3936\|παρέστη]]</big>**  |parestē <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="TR">K</abbr> | |
 | Paul |**<big>[[G3972G\|Παῦλος]]</big>**  |Paulos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="TR">K</abbr> | |
 | \<the> |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="TR">K</abbr> | |
-| before Caesar |**<big>[[G2541I\|Καίσαρί]]</big>**  |Kaisari <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="TR">K</abbr> | |
+| before Caesar |**<big>[[G2541\|Καίσαρί]]</big>**  |Kaisari <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="TR">K</abbr> | |
 | Nero [^2] |**<big>[[G3505\|Νέρωνι¶]]</big>**  |Nerōni <small><sup>[[N-DSM-P]]</sup></small> | <abbr title="TR">K</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.21|<< 2 Timothy 4:21]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.1|Titus 1:1 >>]]</td></tr></table>
 

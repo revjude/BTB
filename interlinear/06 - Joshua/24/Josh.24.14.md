@@ -18,7 +18,7 @@ Now, therefore, fear the LORD and serve Him in sincerity and truth; cast aside t
 | and in faithfulness  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בֶֽ]]&#8207;&#8207;[[H0571G\|אֱמֶ֑ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> 'e.Met<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and remove  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5493G\|הָסִ֣ירוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.Si.ru<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֗ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֗ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁר֩]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they served  |**<big>&#8207;[[H5647H\|עָבְד֨וּ]]&#8207; </big>**| 'a.ve.Du<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ancestors your  |**<big>&#8207;[[H0001G\|אֲבוֹתֵי]]&#8207;&#8207;[[H9026\|כֶ֜ם]]&#8207; </big>**| 'a.vo.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

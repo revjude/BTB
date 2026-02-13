@@ -12,7 +12,7 @@ She added, “Who would have told Abraham that Sarah would nurse children? Yet I
 | who?  |**<big>&#8207;[[H4310\|מִ֤י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | has he said  |**<big>&#8207;[[H4448A\|מִלֵּל֙]]&#8207; </big>**| mi.Lel<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Abraham  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0085\|אַבְרָהָ֔ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| she has suckled  |**<big>&#8207;[[H3243H\|הֵינִ֥יקָה]]&#8207; </big>**| hei.Ni.kah<small><sup>[[HVhp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| she has suckled  |**<big>&#8207;[[H3243\|הֵינִ֥יקָה]]&#8207; </big>**| hei.Ni.kah<small><sup>[[HVhp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | children  |**<big>&#8207;[[H1121A\|בָנִ֖ים]]&#8207; </big>**| va.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Sarah  |**<big>&#8207;[[H8283\|שָׂרָ֑ה]]&#8207; </big>**| sa.Rah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

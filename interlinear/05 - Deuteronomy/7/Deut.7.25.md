@@ -9,7 +9,7 @@ You must burn up the images of their gods; do not covet the silver and gold that
 | Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] images of  |**<big>&#8207;[[H6456\|פְּסִילֵ֥י]]&#8207; </big>**| pe.si.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods their  |**<big>&#8207;[[H0430J\|אֱלֹהֵי]]&#8207;&#8207;[[H9028\|הֶ֖ם]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods their  |**<big>&#8207;[[H0430\|אֱלֹהֵי]]&#8207;&#8207;[[H9028\|הֶ֖ם]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will burn !  |**<big>&#8207;[[H8313\|תִּשְׂרְפ֣וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| tis.re.Fu<small><sup>[[HVqi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with \<the> fire  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0784\|אֵ֑שׁ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

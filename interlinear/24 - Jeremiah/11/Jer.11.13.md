@@ -12,7 +12,7 @@ Your gods are indeed as numerous as your cities, O Judah; the altars of shame yo
 | [the] number of  |**<big>&#8207;[[H4557\|מִסְפַּ֣ר]]&#8207; </big>**| mis.Par<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cities your  |**<big>&#8207;[[H5892B\|עָרֶ֔י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'a.Rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they are  |**<big>&#8207;[[H1961\|הָי֥וּ]]&#8207; </big>**| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods your  |**<big>&#8207;[[H0430J\|אֱלֹהֶ֖י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods your  |**<big>&#8207;[[H0430\|אֱלֹהֶ֖י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֑ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [the] number of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4557\|מִסְפַּ֞ר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mis.Par<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] streets of  |**<big>&#8207;[[H2351\|חֻצ֣וֹת]]&#8207; </big>**| chu.Tzot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

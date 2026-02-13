@@ -13,7 +13,7 @@ Those who swear by the guilt of Samaria and say, ‘As surely as your god lives,
 | Samaria  |**<big>&#8207;[[H8111\|שֹֽׁמְר֔וֹן]]&#8207; </big>**| sho.me.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they will say  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָמְר֗וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.me.Ru<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [by] [the] life of  |**<big>&#8207;[[H2416A\|חֵ֤י]]&#8207; </big>**| chei<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods your  |**<big>&#8207;[[H0430J\|אֱלֹהֶ֙י]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods your  |**<big>&#8207;[[H0430\|אֱלֹהֶ֙י]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Dan  |**<big>&#8207;[[H1835G\|דָּ֔ן]]&#8207; </big>**| Dan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [by] [the] life  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2416A\|חֵ֖י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Chei<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of [the] way of  |**<big>&#8207;[[H1870K\|דֶּ֣רֶךְ]]&#8207; </big>**| De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

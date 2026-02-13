@@ -9,11 +9,11 @@ Where are the gods of Hamath and Arpad? Where are the gods of Sepharvaim? Have t
 | Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | where?  |**<big>&#8207;[[H0346\|אַיֵּ֞ה]]&#8207; </big>**| 'ai.Yeh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] [the] gods of  |**<big>&#8207;[[H0430J\|אֱלֹהֵ֤י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] [the] gods of  |**<big>&#8207;[[H0430\|אֱלֹהֵ֤י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hamath  |**<big>&#8207;[[H2574G\|חֲמָת֙]]&#8207; </big>**| cha.Mat<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Arpad  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0774\|אַרְפָּ֔ד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ar.Pad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | where?  |**<big>&#8207;[[H0346\|אַיֵּ֖ה]]&#8207; </big>**| 'ai.Yeh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [were] [the] gods of  |**<big>&#8207;[[H0430J\|אֱלֹהֵ֣י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [were] [the] gods of  |**<big>&#8207;[[H0430\|אֱלֹהֵ֣י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Sepharvaim  |**<big>&#8207;[[H5617\|סְפַרְוָ֑יִם]]&#8207; </big>**| se.far.Va.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3588A\|כִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khi-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have delivered  |**<big>&#8207;[[H5337\|הִצִּ֥ילוּ]]&#8207; </big>**| hi.Tzi.lu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

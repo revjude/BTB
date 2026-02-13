@@ -9,7 +9,7 @@ But you his son, O Belshazzar, have not humbled your heart, even though you knew
 | Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0607\|אַ֤נְתְּ]]&#8207; </big>**[^1] [^2] | ve.<small><sup>[[AC]]</sup></small> 'an.tah<small><sup>[[APp2ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
-| son his  |**<big>&#8207;[[H1247J\|בְּרֵ]]&#8207;&#8207;[[H9023\|הּ֙]]&#8207; </big>**| be.Re<small><sup>[[ANcbsc]]</sup></small> h<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| son his  |**<big>&#8207;[[H1247\|בְּרֵ]]&#8207;&#8207;[[H9023\|הּ֙]]&#8207; </big>**| be.Re<small><sup>[[ANcbsc]]</sup></small> h<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Belshazzar  |**<big>&#8207;[[H1113\|בֵּלְשַׁאצַּ֔ר]]&#8207; </big>**| be.le.sha.Tzar<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3809\|לָ֥א]]&#8207; </big>**| la'<small><sup>[[ATn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have brought low  |**<big>&#8207;[[H8214\|הַשְׁפֵּ֖לְתְּ]]&#8207; </big>**| hash.Pe.let<small><sup>[[AVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

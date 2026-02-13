@@ -8,7 +8,7 @@ Simon Peter a servant and apostle of Jesus Christ To those equally precious with
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Simon [^1] |**<big>[[G4826K\|Συμεὼν]]</big>**  |Sumeōn <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NK(o)</abbr> | |
+| Simon [^1] |**<big>[[G4826\|Συμεὼν]]</big>**  |Sumeōn <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NK(o)</abbr> | |
 | Peter |**<big>[[G4074G\|Πέτρος]]</big>**  |Petros <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a servant |**<big>[[G1401\|δοῦλος]]</big>**  |doulos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

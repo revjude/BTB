@@ -18,7 +18,7 @@ If you transgress the covenant of the LORD your God, which He commanded you, and
 | \<obj.> you  |**<big>&#8207;[[H0853\|אֶתְ]]&#8207;&#8207;[[H9036\|כֶם֒]]&#8207; </big>**| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will go  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|הֲלַכְתֶּ֗ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.lakh.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will serve  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5647H\|עֲבַדְתֶּם֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.vad.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִ֔ים]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will bow down  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7812\|הִשְׁתַּחֲוִיתֶ֖ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hish.ta.cha.vi.Tem<small><sup>[[HVvq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֑ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

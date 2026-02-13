@@ -35,7 +35,7 @@ And who is like Your people Israel—the one nation on earth whom God went out t
 | for \<the> yourself  |**<big>&#8207;[[H9005\|לְּ]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| le.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from Egypt  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4714G\|מִּצְרַ֔יִם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | nations  |**<big>&#8207;[[H1471A\|גּוֹיִ֖ם]]&#8207; </big>**| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and gods its  |**<big>&#8207;[[H9002\|וֵ]]&#8207;&#8207;[[H0430J\|אלֹהָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo.Ha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and gods its  |**<big>&#8207;[[H9002\|וֵ]]&#8207;&#8207;[[H0430\|אלֹהָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo.Ha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.22|<< 2 Samuel 7:22]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.24|2 Samuel 7:24 >>]]</td></tr></table>
 
 

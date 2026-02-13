@@ -18,7 +18,7 @@ Assyria will not save us, nor will we ride on horses. We will never again say, �
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | we will say  |**<big>&#8207;[[H0559\|נֹ֥אמַר]]&#8207; </big>**| No.mar<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | again  |**<big>&#8207;[[H5750\|ע֛וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods our  |**<big>&#8207;[[H0430J\|אֱלֹהֵ֖י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods our  |**<big>&#8207;[[H0430\|אֱלֹהֵ֖י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] work of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4639G\|מַעֲשֵׂ֣ה]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ma.'a.Seh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hands our  |**<big>&#8207;[[H3027G\|יָדֵ֑י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| ya.Dei.<small><sup>[[HNcbdc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

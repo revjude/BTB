@@ -34,7 +34,7 @@ Then it seemed good to the apostles and to the elders with all the church having
 | Judas |**<big>[[G2455M\|Ἰούδαν]]</big>**  |Ioudan <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | who |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is being called [^1] |**<big>[[G2564G\|καλούμενον]]</big>**  |kaloumenon <small><sup>[[V-PPP-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| Barsabbas |**<big>[[G0923H\|Βαρσαββᾶν]]</big>**  [^2] |Barsabban <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Barsabbas |**<big>[[G0923\|Βαρσαββᾶν]]</big>**  [^2] |Barsabban <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Silas, |**<big>[[G4609\|Σιλᾶν,]]</big>**  |Silan <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | men |**<big>[[G0435G\|ἄνδρας]]</big>**  |andras <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

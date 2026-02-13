@@ -16,7 +16,7 @@ So the Jewish elders built and prospered through the prophesying of Haggai the p
 | Haggai  |**<big>&#8207;[[H2292B\|חַגַּ֣י]]&#8207; </big>**| cha.Gai<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | prophet the  [^2]|**<big>&#8207;[[H5029\|נְבִיָּ֔]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**[^3] | ne.vi.'ah<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | and Zechariah  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H2148B\|זְכַרְיָ֖ה]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> ze.khar.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  |**<big>&#8207;[[H1247J\|בַּר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bar-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1247\|בַּר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bar-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Iddo  |**<big>&#8207;[[H5714J\|עִדּ֑וֹא]]&#8207; </big>**| i.Do'<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they built  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1124\|בְנ֣וֹ]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> ve.No<small><sup>[[AVqp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they finished  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3635A\|שַׁכְלִ֗לוּ]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> shakh.Li.lu<small><sup>[[AVep3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

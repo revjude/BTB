@@ -16,7 +16,7 @@ They sacrificed to demons, not to God, to gods they had not known, to newly arri
 | to the demons  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H7700\|שֵּׁדִים֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> she.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [which] not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] God  |**<big>&#8207;[[H0433\|אֱלֹ֔הַ]]&#8207; </big>**| 'e.Lo.ha<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֖ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֖ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [which] not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they had known them  |**<big>&#8207;[[H3045\|יְדָע֑וּ]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| ye.da.'U<small><sup>[[HVqp3cp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | new [gods]  |**<big>&#8207;[[H2319H\|חֲדָשִׁים֙]]&#8207; </big>**| cha.da.Shim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

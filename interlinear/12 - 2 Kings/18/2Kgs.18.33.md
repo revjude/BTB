@@ -10,7 +10,7 @@ Has the god of any nation ever delivered his land from the hand of the king of A
 | - | - | - | - |
 | ¿ really \<to deliver>  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H5337\|הַצֵּ֥ל]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> ha.Tzel<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | have they delivered  |**<big>&#8207;[[H5337\|הִצִּ֛ילוּ]]&#8207; </big>**| hi.Tzi.lu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] gods of  |**<big>&#8207;[[H0430J\|אֱלֹהֵ֥י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] gods of  |**<big>&#8207;[[H0430\|אֱלֹהֵ֥י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the nations  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1471A\|גּוֹיִ֖ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | anyone  |**<big>&#8207;[[H0376I\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

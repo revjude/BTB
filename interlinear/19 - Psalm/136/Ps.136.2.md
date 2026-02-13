@@ -10,7 +10,7 @@ Give thanks to the God of gods. His loving devotion endures forever.
 | - | - | - | - |
 | give thanks  |**<big>&#8207;[[H3034\|ה֭וֹדוּ]]&#8207; </big>**| Ho.du<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] God of  |**<big>&#8207;[[H9005\|לֵֽ]]&#8207;&#8207;[[H0430G\|אלֹהֵ֣י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the gods  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0430J\|אֱלֹהִ֑ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the gods  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0430\|אֱלֹהִ֑ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּ֖י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] for ever  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5769G\|עוֹלָ֣ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | covenant loyalty his  |**<big>&#8207;[[H2617A\|חַסְדּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| chas.D<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

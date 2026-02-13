@@ -12,7 +12,7 @@ saying; Not do fear, Paul, to Caesar you it behooves to stand before, And behold
 | Not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do fear, |**<big>[[G5399\|φοβοῦ,]]</big>**  |phobou <small><sup>[[V-PNM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Paul, |**<big>[[G3972G\|Παῦλε,]]</big>**  |Paule <small><sup>[[N-VSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to Caesar |**<big>[[G2541H\|Καίσαρί]]</big>**  |Kaisari <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to Caesar |**<big>[[G2541\|Καίσαρί]]</big>**  |Kaisari <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you |**<big>[[G4771\|σε]]</big>**  |se <small><sup>[[P-2AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it behooves |**<big>[[G1163\|δεῖ]]</big>**  |dei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to stand before, |**<big>[[G3936\|παραστῆναι,]]</big>**  |parastēnai <small><sup>[[V-2AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -17,7 +17,7 @@ For the LORD your God is God of gods and Lord of lords, the great, mighty, and a
 | God your  |**<big>&#8207;[[H0430G\|אֱלֹֽהֵי]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he  |**<big>&#8207;[[H1931\|ה֚וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] God of  |**<big>&#8207;[[H0430G\|אֱלֹהֵ֣י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the gods  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0430J\|אֱלֹהִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the gods  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0430\|אֱלֹהִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [the] lord\<s> of  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0113\|אֲדֹנֵ֖י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.do.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the lords  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0113\|אֲדֹנִ֑ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.do.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the God  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0410G\|אֵ֨ל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'El<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

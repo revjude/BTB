@@ -9,7 +9,7 @@ Thirty milch camels with their colts, forty kine, and ten bulls, twenty she asse
 | Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | camels  |**<big>&#8207;[[H1581\|גְּמַלִּ֧ים]]&#8207; </big>**| ge.ma.Lim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| suckling  |**<big>&#8207;[[H3243H\|מֵינִיק֛וֹת]]&#8207; </big>**| mei.ni.Kot<small><sup>[[HVhrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| suckling  |**<big>&#8207;[[H3243\|מֵינִיק֛וֹת]]&#8207; </big>**| mei.ni.Kot<small><sup>[[HVhrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and young their  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121H\|בְנֵי]]&#8207;&#8207;[[H9028\|הֶ֖ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thirty  |**<big>&#8207;[[H7970\|שְׁלֹשִׁ֑ים]]&#8207; </big>**| she.lo.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cows  |**<big>&#8207;[[H6510\|פָּר֤וֹת]]&#8207; </big>**| pa.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

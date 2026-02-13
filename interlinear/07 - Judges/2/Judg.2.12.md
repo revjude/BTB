@@ -19,9 +19,9 @@ Thus they forsook the LORD, the God of their fathers, who had brought them out o
 | Egypt  |**<big>&#8207;[[H4714G\|מִצְרַיִם֒]]&#8207; </big>**| mitz.ra.Yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980N\|יֵּלְכ֞וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.le.Khu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | after  |**<big>&#8207;[[H0310A\|אַחֲרֵ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִ֗ים]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| some of [the] gods of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0430J\|אֱלֹהֵ֤י]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| some of [the] gods of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0430\|אֱלֹהֵ֤י]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the peoples  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H5971A\|עַמִּים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁר֙]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] around them  |**<big>&#8207;[[H5439G\|סְבִיב֣וֹתֵי]]&#8207;&#8207;[[H9038\|הֶ֔ם]]&#8207; </big>**| se.vi.Vo.tei.<small><sup>[[HNcfpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

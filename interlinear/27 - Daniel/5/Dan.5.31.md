@@ -12,7 +12,7 @@ and Darius the Mede received the kingdom at the age of sixty-two.
 | Median the  [^2]|**<big>&#8207;[[H4077\|מָֽדָאָ֔]]&#8207;&#8207;[[H9010\|ה]]&#8207; </big>**[^3] | ma.da.ya<small><sup>[[ANgbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | he received  |**<big>&#8207;[[H6902\|קַבֵּ֖ל]]&#8207; </big>**| ka.Bel<small><sup>[[AVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | kingdom the  |**<big>&#8207;[[H4437\|מַלְכוּתָ֑]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| mal.khu.Ta<small><sup>[[ANcfsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| about a son of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H1247L\|בַ֥ר]]&#8207; </big>**| ke.<small><sup>[[AR]]</sup></small> Var<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| about a son of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H1247\|בַ֥ר]]&#8207; </big>**| ke.<small><sup>[[AR]]</sup></small> Var<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | years  |**<big>&#8207;[[H8140\|שְׁנִ֖ין]]&#8207; </big>**| she.Nin<small><sup>[[ANcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sixty  |**<big>&#8207;[[H8361\|שִׁתִּ֥ין]]&#8207; </big>**| shi.Tin<small><sup>[[AAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and two  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8648\|תַרְתֵּֽין]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> tar.Tein<small><sup>[[AAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

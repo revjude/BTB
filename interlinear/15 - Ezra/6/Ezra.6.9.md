@@ -10,7 +10,7 @@ Whatever is needed—young bulls, rams, and lambs for burnt offerings to the God
 | - | - | - | - |
 | and whatever  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4101\|מָ֣ה]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> Mah<small><sup>[[APi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | things needed  |**<big>&#8207;[[H2818B\|חַשְׁחָ֡ן]]&#8207; </big>**| chash.Chan<small><sup>[[ANcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and young of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1247H\|בְנֵ֣י]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> ve.Nei<small><sup>[[ANcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and young of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1247\|בְנֵ֣י]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> ve.Nei<small><sup>[[ANcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | bulls  |**<big>&#8207;[[H8450\|תוֹרִ֣ין]]&#8207; </big>**| to.Rin<small><sup>[[ANcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and rams  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1798\|דִכְרִ֣ין]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> dikh.Rin<small><sup>[[ANcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and lambs  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0563\|אִמְּרִ֣ין]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> 'i.me.Rin<small><sup>[[ANcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

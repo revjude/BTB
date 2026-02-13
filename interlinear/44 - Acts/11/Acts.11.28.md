@@ -32,7 +32,7 @@ Having risen up now one of them named Agabus he signified through the Spirit [th
 | was |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in [the time of] |**<big>[[G1909\|ἐπὶ]]</big>**  |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Claudius |**<big>[[G2804G\|Κλαυδίου]]</big>**  |Klaudiou <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Caesar. [^4] |**<big>[[G2541H\|Καίσαρος.]]</big>**  |Kaisaros <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| of Caesar. [^4] |**<big>[[G2541\|Καίσαρος.]]</big>**  |Kaisaros <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.27|<< Acts 11:27]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.29|Acts 11:29 >>]]</td></tr></table>
 
 [^1]: ==WH== spelled: **<big><span class='asgreek'>ἐσήμαινεν</span></big>**

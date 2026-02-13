@@ -34,7 +34,7 @@ If indeed therefore I do wrong and worthy of death have done anything, not I do 
 | can |**<big>[[G1410\|δύναται]]</big>**  |dunatai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to them |**<big>[[G0846\|αὐτοῖς]]</big>**  |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | giving up. |**<big>[[G5483\|χαρίσασθαι.]]</big>**  |charisasthai <small><sup>[[V-ADN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| To Caesar |**<big>[[G2541H\|Καίσαρα]]</big>**  |Kaisara <small><sup>[[N-ASM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| To Caesar |**<big>[[G2541\|Καίσαρα]]</big>**  |Kaisara <small><sup>[[N-ASM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I appeal! |**<big>[[G1941\|ἐπικαλοῦμαι.¶]]</big>**  |epikaloumai <small><sup>[[V-PMI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.10|<< Acts 25:10]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.12|Acts 25:12 >>]]</td></tr></table>
 

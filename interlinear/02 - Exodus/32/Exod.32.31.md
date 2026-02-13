@@ -21,7 +21,7 @@ So Moses returned to the LORD and said, “Oh, what a great sin these people hav
 | great  |**<big>&#8207;[[H1419A\|גְדֹלָ֔ה]]&#8207; </big>**| ge.do.Lah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they have made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּֽעֲשׂ֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Su<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> themselves  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֖ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods of  |**<big>&#8207;[[H0430J\|אֱלֹהֵ֥י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods of  |**<big>&#8207;[[H0430\|אֱלֹהֵ֥י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | gold  |**<big>&#8207;[[H2091\|זָהָֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.32.30|<< Exodus 32:30]]</td><td align="center" style="border:none;">[[Exod.32|Exodus 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.32.32|Exodus 32:32 >>]]</td></tr></table>
 

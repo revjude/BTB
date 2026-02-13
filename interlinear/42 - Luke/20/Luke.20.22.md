@@ -10,7 +10,7 @@ Is it lawful for us to Caesar tribute to give or not?<br><table width="100%" bor
 | - | - | - | - |
 | Is it lawful |**<big>[[G1832\|ἔξεστιν]]</big>**  |exestin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for us [^1] |**<big>[[G3165\|ἡμᾶς]]</big>**  |hēmas <small><sup>[[P-1AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| to Caesar |**<big>[[G2541J\|Καίσαρι]]</big>**  |Kaisari <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to Caesar |**<big>[[G2541\|Καίσαρι]]</big>**  |Kaisari <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | tribute |**<big>[[G5411\|φόρον]]</big>**  |phoron <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to give |**<big>[[G1325\|δοῦναι]]</big>**  |dounai <small><sup>[[V-2AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | or |**<big>[[G2228\|ἢ]]</big>**  |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

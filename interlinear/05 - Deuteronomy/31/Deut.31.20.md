@@ -23,7 +23,7 @@ When I have brought them into the land that I swore to give their fathers, a lan
 | and it will grow fat  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1878\|דָשֵׁ֑ן]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> da.Shen<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and it will turn  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H6437G\|פָנָ֞ה]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> fa.Nah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֤ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֤ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִים֙]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they will serve them  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5647H\|עֲבָד֔וּ]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.va.Du<small><sup>[[HVqq3cp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they will spurn me  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5006\|נִ֣אֲצ֔וּ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Ni.'a.Tzu.<small><sup>[[HVpq3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

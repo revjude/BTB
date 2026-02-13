@@ -17,7 +17,7 @@ But the olive tree replied, ‘Should I stop giving my oil that honors both God 
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by \<the> me  |**<big>&#8207;[[H9003\|בִּ֛]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| b<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | people honor  |**<big>&#8207;[[H3513G\|יְכַבְּד֥וּ]]&#8207; </big>**| ye.kha.be.Du<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֖ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֖ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and men  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0582\|אֲנָשִׁ֑ים]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and will I go  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1980G\|הָ֣לַכְתִּ֔י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Ha.lakh.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to sway  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H5128\|נ֖וּעַ]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Nu.a'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

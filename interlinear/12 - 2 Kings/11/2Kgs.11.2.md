@@ -27,7 +27,7 @@ But Jehosheba daughter of King Joram, the sister of Ahaziah, took Joash son of A
 | who were about to be put to death  [^2]|**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4191\|מּ֣וּמָתִ֔ים]]&#8207; </big>**[^3] | ha.<small><sup>[[HTd]]</sup></small> ma.mo.tim<small><sup>[[HVHsmpa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | \<obj.> him  |**<big>&#8207;[[H0853\|אֹת֥]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| suckling-nurse his  |**<big>&#8207;[[H3243I\|מֵינִקְתּ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| mei.nik.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| suckling-nurse his  |**<big>&#8207;[[H3243\|מֵינִקְתּ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| mei.nik.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] chamber of  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2315\|חֲדַ֣ר]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> cha.Dar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the beds  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4296\|מִּטּ֑וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mi.Tot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they hid  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5641\|יַּסְתִּ֧רוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yas.Ti.ru<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
@@ -38,7 +38,7 @@ But Jehosheba daughter of King Joram, the sister of Ahaziah, took Joash son of A
 | he was put to death  |**<big>&#8207;[[H4191\|הוּמָֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| hu.Mat<small><sup>[[HVHp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.11.1|<< 2 Kings 11:1]]</td><td align="center" style="border:none;">[[2Kgs.11|2 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11.3|2 Kings 11:3 >>]]</td></tr></table>
 
-[^1]: ==K==: who were to be put to death  | **<big>[[H4191|מָּמוֹתְתִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ma.mo.tim<small><sup>[[HVOrmpa]]</sup></small> 
-[^2]: ==K==: who were to be put to death  | **<big>[[H4191|מָּמוֹתְתִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ma.mo.tim<small><sup>[[HVOrmpa]]</sup></small> 
+[^1]: ==K==: who were to be put to death  | **<big>[[H4191|מָּמוֹתְתִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ma.mo.tim<small><sup>[[VOrmpa]]</sup></small> 
+[^2]: ==K==: who were to be put to death  | **<big>[[H4191|מָּמוֹתְתִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ma.mo.tim<small><sup>[[VOrmpa]]</sup></small> 
 [^3]: ==L== spelled: **<span class="ashebrew"><big>הַמֻּ֣מָותִ֔תים</big></span>**
 

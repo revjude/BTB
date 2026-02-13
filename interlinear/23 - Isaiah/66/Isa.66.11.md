@@ -9,7 +9,7 @@ so that you may nurse and be satisfied at her comforting breasts; you may drink 
 | Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that  |**<big>&#8207;[[H4616\|לְמַ֤עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you may suck  |**<big>&#8207;[[H3243G\|תִּֽינְקוּ֙]]&#8207; </big>**| ti.ne.Ku<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you may suck  |**<big>&#8207;[[H3243\|תִּֽינְקוּ֙]]&#8207; </big>**| ti.ne.Ku<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will be satisfied  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H7646\|שְׂבַעְתֶּ֔ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> se.va'.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] breast of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7699B\|שֹּׁ֖ד]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Shod<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | consolations its  |**<big>&#8207;[[H8575\|תַּנְחֻמֶ֑י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| tan.chu.Mei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

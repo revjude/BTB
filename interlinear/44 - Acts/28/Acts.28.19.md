@@ -14,7 +14,7 @@ When were objecting however the Jews I was compelled to appeal to Caesar not as 
 | Jews |**<big>[[G2453\|Ἰουδαίων]]</big>**  |Ioudaiōn <small><sup>[[N-GPM-PG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I was compelled |**<big>[[G0315\|ἠναγκάσθην]]</big>**  |ēnagkasthēn <small><sup>[[V-API-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to appeal to |**<big>[[G1941\|ἐπικαλέσασθαι]]</big>**  |epikalesasthai <small><sup>[[V-AMN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Caesar |**<big>[[G2541H\|Καίσαρα]]</big>**  |Kaisara <small><sup>[[N-ASM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Caesar |**<big>[[G2541\|Καίσαρα]]</big>**  |Kaisara <small><sup>[[N-ASM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐχ]]</big>**  |ouch <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | as if |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

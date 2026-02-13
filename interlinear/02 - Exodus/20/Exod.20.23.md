@@ -11,9 +11,9 @@ You are not to make any gods alongside Me; you are not to make for yourselves go
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must make !  |**<big>&#8207;[[H6213H\|תַעֲשׂ֖וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| ta.'a.Su<small><sup>[[HVqi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with me  |**<big>&#8207;[[H0854\|אִתִּ֑]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'i.T<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods of  |**<big>&#8207;[[H0430J\|אֱלֹ֤הֵי]]&#8207; </big>**| 'e.Lo.hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods of  |**<big>&#8207;[[H0430\|אֱלֹ֤הֵי]]&#8207; </big>**| 'e.Lo.hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | silver  |**<big>&#8207;[[H3701G\|כֶ֙סֶף֙]]&#8207; </big>**| khe.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and gods of  |**<big>&#8207;[[H9002\|וֵ]]&#8207;&#8207;[[H0430J\|אלֹהֵ֣י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and gods of  |**<big>&#8207;[[H9002\|וֵ]]&#8207;&#8207;[[H0430\|אלֹהֵ֣י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | gold  |**<big>&#8207;[[H2091\|זָהָ֔ב]]&#8207; </big>**| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must make  |**<big>&#8207;[[H6213H\|תַעֲשׂ֖וּ]]&#8207; </big>**| ta.'a.Su<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

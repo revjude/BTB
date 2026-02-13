@@ -10,7 +10,7 @@ The next morning, when I got up to nurse my son, I discovered he was dead. But w
 | - | - | - | - |
 | and I rose  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H6965B\|אָקֻ֥ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.Kum<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the morning  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1242\|בֹּ֛קֶר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Bo.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to suckle  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3243H\|הֵינִ֥יק]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> hei.Nik<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to suckle  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3243\|הֵינִ֥יק]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> hei.Nik<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | son my  |**<big>&#8207;[[H1121A\|בְּנִ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| be.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.neh-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

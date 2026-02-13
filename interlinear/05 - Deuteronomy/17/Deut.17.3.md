@@ -10,7 +10,7 @@ and going to worship other gods, bowing down to them or to the sun or moon or an
 | - | - | - | - |
 | and he has gone  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּ֗לֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he has served  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5647H\|יַּעֲבֹד֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Vod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִ֔ים]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he has bowed down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7812\|יִּשְׁתַּ֖חוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Ta.chu<small><sup>[[HVvw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֑ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

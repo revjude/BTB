@@ -24,7 +24,7 @@ How quickly they have turned aside from the way that I commanded them! They have
 | to \<the> it  |**<big>&#8207;[[H9005\|ל֔]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they have said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמְר֔וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | these  |**<big>&#8207;[[H0428\|אֵ֤לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] gods your  |**<big>&#8207;[[H0430J\|אֱלֹהֶ֙י]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] gods your  |**<big>&#8207;[[H0430\|אֱלֹהֶ֙י]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֔ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they brought up you  |**<big>&#8207;[[H5927H\|הֶֽעֱל֖וּ]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| he.'e.Lu.<small><sup>[[HVhp3cp]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

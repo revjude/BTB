@@ -17,7 +17,7 @@ I will pronounce My judgments against them for all their wickedness, because the
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have forsaken me  |**<big>&#8207;[[H5800A\|עֲזָב֗וּ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| 'a.za.Vu.<small><sup>[[HVqp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they have made smoke  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H6999H\|יְקַטְּרוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.ka.te.Ru<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to gods  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0430J\|אלֹהִ֣ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to gods  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0430\|אלֹהִ֣ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִ֔ים]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they have bowed down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7812\|יִּֽשְׁתַּחֲו֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.ta.cha.Vu<small><sup>[[HVvw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] products of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4639G\|מַעֲשֵׂ֥י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ma.'a.Sei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

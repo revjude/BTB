@@ -23,7 +23,7 @@ And the Philistine said unto David, [Am] I a dog, that thou comest to me with st
 | the Philistine  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6430G\|פְּלִשְׁתִּ֛י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> pe.lish.Ti<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֖ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| by gods his  |**<big>&#8207;[[H9003\|בֵּ]]&#8207;&#8207;[[H0430J\|אלֹהָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> lo.Ha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| by gods his  |**<big>&#8207;[[H9003\|בֵּ]]&#8207;&#8207;[[H0430\|אלֹהָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> lo.Ha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.42|<< 1 Samuel 17:42]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.44|1 Samuel 17:44 >>]]</td></tr></table>
 
 

@@ -16,7 +16,7 @@ So Jezebel sent a messenger to Elijah, saying, “May the gods deal with me, and
 | \<to> saying  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0559\|אמֹ֑ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thus  |**<big>&#8207;[[H3541\|כֹּֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| koh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | may they do !  |**<big>&#8207;[[H6213A\|יַעֲשׂ֤וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| ya.'a.Su<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] gods  |**<big>&#8207;[[H0430J\|אֱלֹהִים֙]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] gods  |**<big>&#8207;[[H0430\|אֱלֹהִים֙]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and thus  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3541\|כֹ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khoh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | may they add !  |**<big>&#8207;[[H3254H\|יוֹסִפ֔וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| yo.si.Fu<small><sup>[[HVhi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

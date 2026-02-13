@@ -18,7 +18,7 @@ They will call the peoples to a mountain; there they will offer sacrifices of ri
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] abundance of  |**<big>&#8207;[[H8228\|שֶׁ֤פַע]]&#8207; </big>**| She.fa'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] seas  |**<big>&#8207;[[H3220G\|יַמִּים֙]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will suck  |**<big>&#8207;[[H3243G\|יִינָ֔קוּ]]&#8207; </big>**| yi.Na.ku<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will suck  |**<big>&#8207;[[H3243\|יִינָ֔קוּ]]&#8207; </big>**| yi.Na.ku<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and hidden [things] of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8226\|שְׂפוּנֵ֖י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> se.fu.Nei<small><sup>[[HVqsmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hidden [things] of  |**<big>&#8207;[[H2934\|טְמ֥וּנֵי]]&#8207; </big>**| te.Mu.nei<small><sup>[[HVqsmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sand  |**<big>&#8207;[[H2344\|חֽוֹל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Chol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

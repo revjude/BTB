@@ -15,7 +15,7 @@ In Moab, declares the LORD, I will bring an end to those who make offerings on t
 | [one who] offers up  |**<big>&#8207;[[H5927I\|מַעֲלֶ֣ה]]&#8207; </big>**| ma.'a.Leh<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a high place  |**<big>&#8207;[[H1116\|בָמָ֔ה]]&#8207; </big>**| va.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [one who] makes smoke  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6999H\|מַקְטִ֖יר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mak.Tir<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to gods his  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0430J\|אלֹהָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Ha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to gods his  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0430\|אלֹהָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Ha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.34|<< Jeremiah 48:34]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.36|Jeremiah 48:36 >>]]</td></tr></table>
 
 

@@ -21,7 +21,7 @@ For this is what the LORD says: “I will extend peace to her like a river, and 
 | overflowing  |**<big>&#8207;[[H7857\|שׁוֹטֵ֛ף]]&#8207; </big>**| sho.Tef<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] abundance of  |**<big>&#8207;[[H3519\|כְּב֥וֹד]]&#8207; </big>**| ke.Vod<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | nations  |**<big>&#8207;[[H1471A\|גּוֹיִ֖ם]]&#8207; </big>**| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and you will suck  |**<big>&#8207;[[H9001\|וִֽ]]&#8207;&#8207;[[H3243G\|ינַקְתֶּ֑ם]]&#8207; </big>**| vi.<small><sup>[[Hc]]</sup></small> nak.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and you will suck  |**<big>&#8207;[[H9001\|וִֽ]]&#8207;&#8207;[[H3243\|ינַקְתֶּ֑ם]]&#8207; </big>**| vi.<small><sup>[[Hc]]</sup></small> nak.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a hip  |**<big>&#8207;[[H6654\|צַד֙]]&#8207; </big>**| tzad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will be carried  |**<big>&#8207;[[H5375H\|תִּנָּשֵׂ֔אוּ]]&#8207; </big>**| ti.na.Se.'u<small><sup>[[HVNi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

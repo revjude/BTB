@@ -16,7 +16,7 @@ The LORD has issued a command concerning you, O Nineveh: “There will be no des
 | from name your  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8034\|שִּׁמְ]]&#8207;&#8207;[[H9021\|ךָ֖]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> shim.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | again  |**<big>&#8207;[[H5750\|ע֑וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] house of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1004Q\|בֵּ֨ית]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods your  |**<big>&#8207;[[H0430J\|אֱלֹהֶ֜י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods your  |**<big>&#8207;[[H0430\|אֱלֹהֶ֜י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will cut off  |**<big>&#8207;[[H3772I\|אַכְרִ֨ית]]&#8207; </big>**| 'akh.Rit<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | idol  |**<big>&#8207;[[H6459\|פֶּ֧סֶל]]&#8207; </big>**| Pe.sel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and molten image  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4541A\|מַסֵּכָ֛ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.se.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

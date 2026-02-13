@@ -9,7 +9,7 @@ When they chose new gods, then war came to their gates. Not a shield or spear wa
 | Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it chose  |**<big>&#8207;[[H0977\|יִבְחַר֙]]&#8207; </big>**| yiv.Char<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | new  |**<big>&#8207;[[H2319H\|חֲדָשִׁ֔ים]]&#8207; </big>**| cha.da.Shim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | then  |**<big>&#8207;[[H0227A\|אָ֖ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | bread  |**<big>&#8207;[[H3901\|לָחֶ֣ם]]&#8207; </big>**| la.Chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

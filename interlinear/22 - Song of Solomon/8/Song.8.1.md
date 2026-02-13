@@ -12,7 +12,7 @@ O that you were to me like a brother who nursed at my mother’s breasts! If I f
 | will he give you  |**<big>&#8207;[[H5414H\|יִתֶּנְ]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| yi.ten.<small><sup>[[HVqi3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like a brother  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H0251G\|אָ֣ח]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> 'Ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H9005\|לִ֔]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| L<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] suckling-child of  |**<big>&#8207;[[H3243J\|יוֹנֵ֖ק]]&#8207; </big>**| yo.Nek<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] suckling-child of  |**<big>&#8207;[[H3243\|יוֹנֵ֖ק]]&#8207; </big>**| yo.Nek<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] breasts of  |**<big>&#8207;[[H7699A\|שְׁדֵ֣י]]&#8207; </big>**| she.Dei<small><sup>[[HNcmdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | mother my  |**<big>&#8207;[[H0517\|אִמִּ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'i.M<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will find you  |**<big>&#8207;[[H4672\|אֶֽמְצָאֲ]]&#8207;&#8207;[[H9031\|ךָ֤]]&#8207; </big>**| 'em.tza.'a.<small><sup>[[HVqi1cs]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

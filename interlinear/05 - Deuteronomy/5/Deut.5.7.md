@@ -11,7 +11,7 @@ You shall have no other gods before Me.
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**[^1] | lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
 | it will belong  |**<big>&#8207;[[H1961\|יִהְיֶ֥ה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**[^2] | yih.Yeh-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
 | to you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֛֩]]&#8207; </big>**[^3] | le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֥֨ים]]&#8207; </big>**[^4] | 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֥֨ים]]&#8207; </big>**[^4] | 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִ֖֜ים]]&#8207; </big>**[^5] | 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | face my  |**<big>&#8207;[[H6440G\|פָּנָֽ֗]]&#8207;&#8207;[[H9020\|יַ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^6] | pa.Na.<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |

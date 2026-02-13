@@ -10,7 +10,7 @@ So they put away the foreign gods from among them and served the LORD, and He co
 | - | - | - | - |
 | and they removed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5493G\|יָּסִ֜ירוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Si.ru<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] gods of  |**<big>&#8207;[[H0430J\|אֱלֹהֵ֤י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] gods of  |**<big>&#8207;[[H0430\|אֱלֹהֵ֤י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> foreignness  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5236\|נֵּכָר֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ne.Khar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from midst their  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7130G\|קִּרְבָּ֔]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> kir.Ba<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they served  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5647H\|יַּעַבְד֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'av.Du<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -23,7 +23,7 @@ But if any prophet dares to speak a message in My name that I have not commanded
 | and who  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will speak  |**<big>&#8207;[[H1696G\|יְדַבֵּ֔ר]]&#8207; </big>**| ye.da.Ber<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] name of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8034\|שֵׁ֖ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִ֑ים]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he will die  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H4191\|מֵ֖ת]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> Met<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the prophet  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5030\|נָּבִ֥יא]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> na.Vi'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

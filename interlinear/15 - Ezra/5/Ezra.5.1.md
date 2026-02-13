@@ -12,7 +12,7 @@ Later, the prophets Haggai and Zechariah son of Iddo prophesied to the Jews in J
 | Haggai  |**<big>&#8207;[[H2292B\|חַגַּ֣י]]&#8207; </big>**| cha.Gai<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | prophet the  [^2]|**<big>&#8207;[[H5029\|נְבִיָּ֗]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**[^3] | ne.vi.'ah<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | and Zechariah  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H2148B\|זְכַרְיָ֤ה]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> ze.khar.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] son of  |**<big>&#8207;[[H1247J\|בַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| var-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] son of  |**<big>&#8207;[[H1247\|בַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| var-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Iddo  |**<big>&#8207;[[H5714J\|עִדּוֹא֙]]&#8207; </big>**| 'i.dO'<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | prophets the  |**<big>&#8207;[[H5029\|נְבִיַּיָּ֔]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**[^4] [^5] | ne.vi.'ai.ya<small><sup>[[ANcmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 | to  |**<big>&#8207;[[H5922\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

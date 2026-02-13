@@ -10,7 +10,7 @@ The nursing infant’s tongue clings in thirst to the roof of his mouth. Little 
 | - | - | - | - |
 | it has cleaved  |**<big>&#8207;[[H1692\|דָּבַ֨ק]]&#8207; </big>**| da.Vak<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] tongue of  |**<big>&#8207;[[H3956G\|לְשׁ֥וֹן]]&#8207; </big>**| le.Shon<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a suckling-child  |**<big>&#8207;[[H3243J\|יוֹנֵ֛ק]]&#8207; </big>**| yo.Nek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a suckling-child  |**<big>&#8207;[[H3243\|יוֹנֵ֛ק]]&#8207; </big>**| yo.Nek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | palate its  |**<big>&#8207;[[H2441\|חכּ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**[^1] | chi.K<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |
 | by \<the> thirst  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H6772\|צָּמָ֑א]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> tza.Ma'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

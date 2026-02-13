@@ -26,7 +26,7 @@ And Elkanah her husband said unto her, Do what seemeth thee good; tarry until th
 | word his  |**<big>&#8207;[[H1697G\|דְּבָר֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| de.va.R<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and she remained  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3427\|תֵּ֤שֶׁב]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.shev<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the woman  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0802G\|אִשָּׁה֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and she suckled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3243H\|תֵּ֣ינֶק]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Tei.nek<small><sup>[[HVhw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she suckled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3243\|תֵּ֣ינֶק]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Tei.nek<small><sup>[[HVhw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | son her  |**<big>&#8207;[[H1121A\|בְּנָ֔]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| be.Na<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

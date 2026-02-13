@@ -15,7 +15,7 @@ Then the cities of Judah and the residents of Jerusalem will go and cry out to t
 | Jerusalem  |**<big>&#8207;[[H3389\|יְר֣וּשָׁלִַ֔ם]]&#8207; </big>**| ye.Ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they will cry out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2199\|זָֽעֲקוּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> za.'a.Ku<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the gods  |**<big>&#8207;[[H9009\|הָ֣]]&#8207;&#8207;[[H0430J\|אֱלֹהִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the gods  |**<big>&#8207;[[H9009\|הָ֣]]&#8207;&#8207;[[H0430\|אֱלֹהִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֛ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they  |**<big>&#8207;[[H1992\|הֵ֥ם]]&#8207; </big>**| hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] making smoke  |**<big>&#8207;[[H6999H\|מְקַטְּרִ֖ים]]&#8207; </big>**| me.ka.te.Rim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

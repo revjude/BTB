@@ -20,7 +20,7 @@ Pharaoh’s daughter said to her, “Take this child and nurse him for me, and I
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the child  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3206\|יֶּ֤לֶד]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Ye.led<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּה֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and suckle him  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3243H\|הֵינִקִ֣]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hei.ni.Ki.<small><sup>[[HVhv2fs]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and suckle him  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3243\|הֵינִקִ֣]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hei.ni.Ki.<small><sup>[[HVhv2fs]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> me  |**<big>&#8207;[[H9005\|לִ֔]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| L<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0589\|אֲנִ֖י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will pay  |**<big>&#8207;[[H5414N\|אֶתֵּ֣ן]]&#8207; </big>**| 'e.Ten<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
@@ -29,7 +29,7 @@ Pharaoh’s daughter said to her, “Take this child and nurse him for me, and I
 | and she took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|תִּקַּ֧ח]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Kach<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the woman  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0802G\|אִשָּׁ֛ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the child  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3206\|יֶּ֖לֶד]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Ye.led<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and she suckled him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3243H\|תְּנִיקֵֽ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.ni.Ke.<small><sup>[[HVhw3fs]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and she suckled him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3243\|תְּנִיקֵֽ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.ni.Ke.<small><sup>[[HVhw3fs]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.8|<< Exodus 2:8]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.10|Exodus 2:10 >>]]</td></tr></table>
 
 

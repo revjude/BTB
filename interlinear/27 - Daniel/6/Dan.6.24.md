@@ -22,7 +22,7 @@ At the command of the king, the men who had falsely accused Daniel were brought 
 | lions the  |**<big>&#8207;[[H0744\|אַרְיָוָתָ]]&#8207;&#8207;[[H9010\|א֙]]&#8207; </big>**| 'ar.ya.va.Ta<small><sup>[[ANcfsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they threw  |**<big>&#8207;[[H7412\|רְמ֔וֹ]]&#8207; </big>**| re.Mo<small><sup>[[AVqp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they  |**<big>&#8207;[[H0581A\|אִנּ֖וּן]]&#8207; </big>**| 'i.Nun<small><sup>[[APp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sons their  |**<big>&#8207;[[H1247J\|בְּנֵי]]&#8207;&#8207;[[H9028\|ה֣וֹן]]&#8207; </big>**| be.nei.<small><sup>[[ANcmpc]]</sup></small> Hon<small><sup>[[ASp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sons their  |**<big>&#8207;[[H1247\|בְּנֵי]]&#8207;&#8207;[[H9028\|ה֣וֹן]]&#8207; </big>**| be.nei.<small><sup>[[ANcmpc]]</sup></small> Hon<small><sup>[[ASp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and wives their  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H5389\|נְשֵׁי]]&#8207;&#8207;[[H9028\|ה֑וֹן]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> ne.shei.<small><sup>[[ANcmpc]]</sup></small> Hon<small><sup>[[ASp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3809\|לָֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> la'-<small><sup>[[ATn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they reached  |**<big>&#8207;[[H4291\|מְט֞וֹ]]&#8207; </big>**| me.To<small><sup>[[AVqp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

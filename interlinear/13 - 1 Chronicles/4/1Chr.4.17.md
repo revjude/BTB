@@ -20,7 +20,7 @@ The sons of Ezrah: Jether, Mered, Epher, and Jalon. And Mered’s wife Bithiah g
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Shammai  |**<big>&#8207;[[H8060I\|שַׁמַּ֔י]]&#8207; </big>**| sha.Mai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Ishbah  |**<big>&#8207;[[H3431G\|יִשְׁבָּ֖ח]]&#8207; </big>**| yish.Bach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Ishbah  |**<big>&#8207;[[H3431\|יִשְׁבָּ֖ח]]&#8207; </big>**| yish.Bach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] father of  |**<big>&#8207;[[H0001G\|אֲבִ֥י]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Eshtemoa  |**<big>&#8207;[[H0851\|אֶשְׁתְּמֹֽעַ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'esh.te.Mo.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.16|<< 1 Chronicles 4:16]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.18|1 Chronicles 4:18 >>]]</td></tr></table>

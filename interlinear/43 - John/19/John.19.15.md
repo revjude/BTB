@@ -33,7 +33,7 @@ At this, they shouted, “Away with Him! Away with Him! Crucify Him!” “Shall
 | a king |**<big>[[G0935\|βασιλέα]]</big>**  |basilea <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | only |**<big>[[G1487H\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | except |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Caesar. |**<big>[[G2541J\|Καίσαρα.¶]]</big>**  |Kaisara <small><sup>[[N-ASM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Caesar. |**<big>[[G2541\|Καίσαρα.¶]]</big>**  |Kaisara <small><sup>[[N-ASM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.14|<< John 19:14]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.16|John 19:16 >>]]</td></tr></table>
 
 [^1]: Extra Text:  **<big><span class='asgreek'>οὖν</span></big>**  (<i>oun</i>) 'therefore' is only in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)

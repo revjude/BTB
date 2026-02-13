@@ -17,7 +17,7 @@ Outside, the sword will take their children, and inside, terror will strike the 
 | young man  |**<big>&#8207;[[H0970\|בָּחוּר֙]]&#8207; </big>**| ba.Chur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | as well as  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | young woman  |**<big>&#8207;[[H1330\|בְּתוּלָ֔ה]]&#8207; </big>**| be.tu.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a suckling-child  |**<big>&#8207;[[H3243J\|יוֹנֵ֖ק]]&#8207; </big>**| yo.Nek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a suckling-child  |**<big>&#8207;[[H3243\|יוֹנֵ֖ק]]&#8207; </big>**| yo.Nek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with  |**<big>&#8207;[[H5973A\|עִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a person of  |**<big>&#8207;[[H0376G\|אִ֥ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | gray hair  |**<big>&#8207;[[H7872\|שֵׂיבָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sei.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

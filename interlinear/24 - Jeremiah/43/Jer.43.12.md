@@ -11,7 +11,7 @@ I will kindle a fire in the temples of the gods of Egypt, and Nebuchadnezzar wil
 | and I will kindle  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3341\|הִצַּ֣תִּי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hi.Tza.ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fire  |**<big>&#8207;[[H0784\|אֵ֗שׁ]]&#8207; </big>**| 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] houses of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1004Q\|בָתֵּי֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> va.Tei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] gods of  |**<big>&#8207;[[H0430J\|אֱלֹהֵ֣י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] gods of  |**<big>&#8207;[[H0430\|אֱלֹהֵ֣י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Egypt  |**<big>&#8207;[[H4714G\|מִצְרַ֔יִם]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he will burn them  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H8313\|שְׂרָפָ֖]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> se.ra.Fa<small><sup>[[HVqq3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he will take captive them  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7617\|שָׁבָ֑]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.Va<small><sup>[[HVqq3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

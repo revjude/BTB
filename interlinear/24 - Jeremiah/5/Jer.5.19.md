@@ -26,7 +26,7 @@ And when the people ask, ‘For what offense has the LORD our God done all these
 | you forsook  |**<big>&#8207;[[H5800A\|עֲזַבְתֶּ֤ם]]&#8207; </big>**| 'a.zav.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> me  |**<big>&#8207;[[H0853\|אוֹתִ]]&#8207;&#8207;[[H9030\|י֙]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you served  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5647H\|תַּעַבְד֞וּ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.'av.Du<small><sup>[[HVqw2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods of  |**<big>&#8207;[[H0430J\|אֱלֹהֵ֤י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods of  |**<big>&#8207;[[H0430\|אֱלֹהֵ֤י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | foreignness  |**<big>&#8207;[[H5236\|נֵכָר֙]]&#8207; </big>**| ne.Khar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in own land your  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0776G\|אַרְצְ]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ar.tze.<small><sup>[[HNcfsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | so  |**<big>&#8207;[[H3651C\|כֵּ֚ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

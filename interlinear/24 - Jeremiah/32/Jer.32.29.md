@@ -29,7 +29,7 @@ And the Chaldeans who are fighting against this city will come in, set it on fir
 | to \<the> Baal  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H1168A\|בַּ֗עַל]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Ba.'al<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they poured out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5258A\|הִסִּ֤כוּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hi.Si.khu<small><sup>[[HVhq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | drink offerings  |**<big>&#8207;[[H5262\|נְסָכִים֙]]&#8207; </big>**| ne.sa.Khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to gods  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0430J\|אלֹהִ֣ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to gods  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0430\|אלֹהִ֣ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִ֔ים]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | so as  |**<big>&#8207;[[H4616\|לְמַ֖עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to provoke to anger me  |**<big>&#8207;[[H3707\|הַכְעִסֵֽ]]&#8207;&#8207;[[H9030\|נִי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| hakh.'i.Se.<small><sup>[[HVhcc]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -14,7 +14,7 @@ because they will turn your sons away from following Me to serve other gods. The
 | son your  |**<big>&#8207;[[H1121A\|בִּנְ]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| bin.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from after me  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H0310A\|אַחֲרַ֔]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.cha.Ra<small><sup>[[HAcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they will serve  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5647H\|עָבְד֖וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.ve.Du<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִ֑ים]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and it will burn  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2734\|חָרָ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> cha.Rah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] anger of  |**<big>&#8207;[[H0639G\|אַף]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'af-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

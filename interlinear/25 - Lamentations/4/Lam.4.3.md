@@ -12,7 +12,7 @@ Even jackals offer their breasts to nurse their young, but the daughter of my pe
 | jackals  [^1]|**<big>&#8207;[[H8577A\|תַּנִּים֙]]&#8207; </big>**[^2] | ta.nin<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | they draw out  |**<big>&#8207;[[H2502A\|חָ֣לְצוּ]]&#8207; </big>**| Chal.tzu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a breast  |**<big>&#8207;[[H7699A\|שַׁ֔ד]]&#8207; </big>**| Shad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they suckle  |**<big>&#8207;[[H3243H\|הֵינִ֖יקוּ]]&#8207; </big>**| hei.Ni.ku<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they suckle  |**<big>&#8207;[[H3243\|הֵינִ֖יקוּ]]&#8207; </big>**| hei.Ni.ku<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | young their  |**<big>&#8207;[[H1482\|גּוּרֵי]]&#8207;&#8207;[[H9029\|הֶ֑ן]]&#8207; </big>**| gu.rei.<small><sup>[[HNcmpc]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] daughter of  |**<big>&#8207;[[H1323G\|בַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | people my  |**<big>&#8207;[[H5971A\|עַמִּ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

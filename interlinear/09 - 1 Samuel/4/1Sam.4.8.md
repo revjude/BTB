@@ -13,12 +13,12 @@ Woe to us! Who will deliver us from the hand of these mighty gods? These are the
 | who?  |**<big>&#8207;[[H4310\|מִ֣י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will he deliver us  |**<big>&#8207;[[H5337\|יַצִּילֵ֔]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| ya.tzi.Le.<small><sup>[[HVhi3ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] hand of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3027H\|יַּ֛ד]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the gods  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0430J\|אֱלֹהִ֥ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the gods  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0430\|אֱלֹהִ֥ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> mighty  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0117\|אַדִּירִ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.di.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> these  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0428\|אֵ֑לֶּה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | these  |**<big>&#8207;[[H0428\|אֵ֧לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they  |**<big>&#8207;[[H1992\|הֵ֣ם]]&#8207; </big>**| hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] the gods  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0430J\|אֱלֹהִ֗ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] the gods  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0430\|אֱלֹהִ֗ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who struck  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5221\|מַּכִּ֧ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.Kim<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Egypt  |**<big>&#8207;[[H4714G\|מִצְרַ֛יִם]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

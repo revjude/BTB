@@ -10,7 +10,7 @@ You must not bow down to their gods or serve them or follow their practices. Ins
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must bow down  |**<big>&#8207;[[H7812\|תִשְׁתַּחֲוֶ֤ה]]&#8207; </big>**| tish.ta.cha.Veh<small><sup>[[HVti2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to gods their  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0430J\|אלֹֽהֵי]]&#8207;&#8207;[[H9028\|הֶם֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.hei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to gods their  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0430\|אלֹֽהֵי]]&#8207;&#8207;[[H9028\|הֶם֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.hei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must be enticed to serve them  |**<big>&#8207;[[H5647H\|תָֽעָבְדֵ֔]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| ta.'a.ve.De<small><sup>[[HVHi2ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

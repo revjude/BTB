@@ -17,7 +17,7 @@ It came to pass then in the days those went out a decree from Caesar Augustus to
 | went out |**<big>[[G1831\|ἐξῆλθεν]]</big>**  |exēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a decree |**<big>[[G1378\|δόγμα]]</big>**  |dogma <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | from |**<big>[[G3844\|παρὰ]]</big>**  |para <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Caesar |**<big>[[G2541G\|Καίσαρος]]</big>**  |Kaisaros <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Caesar |**<big>[[G2541\|Καίσαρος]]</big>**  |Kaisaros <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Augustus |**<big>[[G0828\|Αὐγούστου]]</big>**  |Augoustou <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to register |**<big>[[G0583\|ἀπογράφεσθαι]]</big>**  |apographesthai <small><sup>[[V-PEN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | all |**<big>[[G3956\|πᾶσαν]]</big>**  |pasan <small><sup>[[A-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

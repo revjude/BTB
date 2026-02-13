@@ -12,7 +12,7 @@ Do not turn to idols or make for yourselves molten gods. I am the LORD your God.
 | you turn  |**<big>&#8207;[[H6437G\|תִּפְנוּ֙]]&#8207; </big>**| tif.Nu<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> worthless idols  |**<big>&#8207;[[H9009\|הָ֣]]&#8207;&#8207;[[H0457\|אֱלִילִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.li.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and gods of  |**<big>&#8207;[[H9002\|וֵֽ]]&#8207;&#8207;[[H0430J\|אלֹהֵי֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and gods of  |**<big>&#8207;[[H9002\|וֵֽ]]&#8207;&#8207;[[H0430\|אלֹהֵי֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | molten metal  |**<big>&#8207;[[H4541A\|מַסֵּכָ֔ה]]&#8207; </big>**| ma.se.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must make  |**<big>&#8207;[[H6213H\|תַעֲשׂ֖וּ]]&#8207; </big>**| ta.'a.Su<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

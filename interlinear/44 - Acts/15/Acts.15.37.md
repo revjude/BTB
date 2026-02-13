@@ -14,7 +14,7 @@ Barnabas now was planning to take along also <the> John who is being called Mark
 | to take along |**<big>[[G4838\|συμπαραλαβεῖν]]</big>**  [^2] |sumparalabein <small><sup>[[V-2AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
 | \<the> |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| John |**<big>[[G2491J\|Ἰωάννην]]</big>**  [^3] |Iōannēn <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| John |**<big>[[G2491\|Ἰωάννην]]</big>**  [^3] |Iōannēn <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | who |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is being called |**<big>[[G2564G\|καλούμενον]]</big>**  |kaloumenon <small><sup>[[V-PPP-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Mark; |**<big>[[G3138\|Μᾶρκον·]]</big>**  |Markon <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

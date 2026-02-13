@@ -21,10 +21,10 @@ Then his sister said to Pharaoh’s daughter, “Shall I go and call one of the 
 | and will I call?  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7121G\|קָרָ֤אתִי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ka.Ra.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9032\|ךְ֙]]&#8207; </big>**| lo<small><sup>[[HRd]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a woman  |**<big>&#8207;[[H0802G\|אִשָּׁ֣ה]]&#8207; </big>**| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a suckling-nurse  |**<big>&#8207;[[H3243I\|מֵינֶ֔קֶת]]&#8207; </big>**| mei.Ne.ket<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a suckling-nurse  |**<big>&#8207;[[H3243\|מֵינֶ֔קֶת]]&#8207; </big>**| mei.Ne.ket<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from  |**<big>&#8207;[[H4480A\|מִ֖ן]]&#8207; </big>**| min<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Hebrew [women]  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5680\|עִבְרִיֹּ֑ת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'iv.ri.Yot<small><sup>[[HNgfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| so she may suckle  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3243H\|תֵינִ֥ק]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tei.Nik<small><sup>[[HVhu3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| so she may suckle  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3243\|תֵינִ֥ק]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tei.Nik<small><sup>[[HVhu3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> you  |**<big>&#8207;[[H9005\|לָ֖]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the child  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3206\|יָּֽלֶד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Ya.led<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -20,7 +20,7 @@ among whom was Mary <the> Magdalene and Mary she <the> of James and of Joseph [t
 | \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of James |**<big>[[G2385I\|Ἰακώβου]]</big>**  |Iakōbou <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Joseph [^1] |**<big>[[G2501H\|Ἰωσὴφ]]</big>**  |Iōsēph <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">N(k)O</abbr> | |
+| of Joseph [^1] |**<big>[[G2501\|Ἰωσὴφ]]</big>**  |Iōsēph <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">N(k)O</abbr> | |
 | [the] mother |**<big>[[G3384\|μήτηρ]]</big>**  |mētēr <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

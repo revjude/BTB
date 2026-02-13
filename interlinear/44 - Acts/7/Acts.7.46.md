@@ -24,7 +24,7 @@ who found favor before <the> God and asked to find a dwelling place for the hous
 | a dwelling place |**<big>[[G4638\|σκήνωμα]]</big>**  |skēnōma <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for the |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | house [^1] [^2] |**<big>[[G3624G\|οἴκῳ]]</big>**  |oikō <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27">N(K)O</abbr> | |
-| of Jacob. |**<big>[[G2384H\|Ἰακώβ.]]</big>**  |Iakōb <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Jacob. |**<big>[[G2384G\|Ἰακώβ.]]</big>**  |Iakōb <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.45|<< Acts 7:45]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.47|Acts 7:47 >>]]</td></tr></table>
 
 [^1]: Variant:  **<big><span class='asgreek'>θεῷ</span></big>**  (<i>theō</i>) 'God' occurs in traditional manuscripts (Tyn+SBL+WH+Treg+TR+Byz) instead of **<big><span class='asgreek'>οἴκῳ</span></big>**  (<i>oikō</i>) 'house' in older manuscripts (NA28+NA27)

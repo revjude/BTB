@@ -22,7 +22,7 @@ But if it is unpleasing in your sight to serve the LORD, then choose for yoursel
 | will you serve !  |**<big>&#8207;[[H5647H\|תַעֲבֹדוּ]]&#8207;&#8207;[[H9013\|ן֒]]&#8207; </big>**| ta.'a.vo.Du<small><sup>[[HVqi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | whether  |**<big>&#8207;[[H0518A\|אִ֣ם]]&#8207; </big>**| 'im<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֞ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֞ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they served  |**<big>&#8207;[[H5647H\|עָבְד֣וּ]]&#8207; </big>**| 'a.ve.Du<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ancestors your  |**<big>&#8207;[[H0001G\|אֲבוֹתֵי]]&#8207;&#8207;[[H9026\|כֶ֗ם]]&#8207; </big>**| 'a.vo.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
@@ -31,7 +31,7 @@ But if it is unpleasing in your sight to serve the LORD, then choose for yoursel
 | the river  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5104G\|נָּהָ֔ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> na.Har<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and or  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Im<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] gods of  |**<big>&#8207;[[H0430J\|אֱלֹהֵ֣י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] gods of  |**<big>&#8207;[[H0430\|אֱלֹהֵ֣י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Amorite[s]  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0567\|אֱמֹרִ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.mo.Ri<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | whom  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you  |**<big>&#8207;[[H0859D\|אַתֶּ֖ם]]&#8207; </big>**| 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

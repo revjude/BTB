@@ -29,7 +29,7 @@ And Joshua said to all the people, “This is what the LORD, the God of Israel, 
 | and [the] father of  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0001G\|אֲבִ֣י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Vi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Nahor  |**<big>&#8207;[[H5152G\|נָח֑וֹר]]&#8207; </big>**| na.Chor<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they served  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5647H\|יַּעַבְד֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'av.Du<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֥ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֥ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.1|<< Joshua 24:1]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.3|Joshua 24:3 >>]]</td></tr></table>
 
