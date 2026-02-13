@@ -1,5 +1,5 @@
-<span class="asform">† <span class="asgreek"><span class="asbold">λύτρωσις</span></span>, <span class="asgreek">-εως, ἡ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">λυτρόω</span>),</span>  <span class="asseptuagint">\[in LXX: [[LXX.Lev.25.29|Le 25:29]], [[LXX.Lev.25.48|48]], [[LXX.Isa.63.4|Is 63:4]] **<big>[[H1353|גְּאֻלִים]]</big>**, **<big>[[H1353|גְּאֻלָּה]]</big>**), [[LXX.Num.18.16|Nu 18:16]], [[LXX.Ps.49.8|Ps 48 (49):8]] [[LXX.Ps.111.9|110 (111):9]] [[LXX.Ps.130.7|129 (130):7]] (**<big>[[H6299|פָּדָה]]</big>**, <span class="ashebrew">פִּדְיֹן</span>, **<big>[[H6304|פְּדוּת]]</big>**), [[LXX.Judg.1.15|Jg 1:15]]\*;\]</span> </span>
-<span class="asitalic">a ransoming</span>, <span class="asitalic">redemption</span> (<span class="asgreek">αἰχμαλώτων</span>, Plut., <span class="asitalic">Arat.</span>, 11): of the mediatorial work of Christ, [[Heb.9.12|He 9:12]]; in general sense, <span class="asitalic">deliverance</span> (cf. [[LXX.Ps.49.8|Ps 48 (49):8]]): [[Luke.1.68|Lk 1:68]] [[Luke.2.38|2:38]].†
+<span class="asform">† <span class="asgreek"><span class="asbold">λύτρωσις</span></span>, <span class="asgreek">-εως, ἡ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">λυτρόω</span>),</span>  <span class="asseptuagint">\[in LXX: [[LXX.Lev.25.29|Le 25:29]], [[LXX.Lev.25.48|48]], [[LXX.Isa.63.4|Is 63:4]] **<big>[[H1353|גְּאֻלִים]]</big>**, **<big>[[H1353|גְּאֻלָּה]]</big>**), [[LXX.Num.18.16|Nu 18:16]], [[LXX.Ps.50.8|Ps 48 (49):8]]**\*** [[LXX.Ps.112.9|110 (111):9]]**\*** [[LXX.Ps.130.7|129 (130):7]] (**<big>[[H6299|פָּדָה]]</big>**, <span class="ashebrew">פִּדְיֹן</span>, **<big>[[H6304|פְּדוּת]]</big>**), [[LXX.Judg.1.15|Jg 1:15]]\*;\]</span> </span>
+<span class="asitalic">a ransoming</span>, <span class="asitalic">redemption</span> (<span class="asgreek">αἰχμαλώτων</span>, Plut., <span class="asitalic">Arat.</span>, 11): of the mediatorial work of Christ, [[Heb.9.12|He 9:12]]; in general sense, <span class="asitalic">deliverance</span> (cf. [[LXX.Ps.50.8|Ps 48 (49):8]]**\***): [[Luke.1.68|Lk 1:68]] [[Luke.2.38|2:38]].†
 
 **Abbott-Smith References**
 
@@ -8,7 +8,7 @@
 | Leviticus | [[LXX.Lev.25.29\|25:29]] · [[LXX.Lev.25.48\|25:48]] |
 | Numbers | [[LXX.Num.18.16\|18:16]] |
 | Judges | [[LXX.Judg.1.15\|1:15]] |
-| Psalms | [[LXX.Ps.49.8\|49:8]] · [[LXX.Ps.111.9\|111:9]] · [[LXX.Ps.130.7\|130:7]] |
+| Psalms | [[LXX.Ps.50.8\|49:8]]**\*** · [[LXX.Ps.112.9\|111:9]]**\*** · [[LXX.Ps.130.7\|130:7]] |
 | Isaiah | [[LXX.Isa.63.4\|63:4]] |
 | Luke | [[Luke.1.68\|1:68]] · [[Luke.2.38\|2:38]] |
 | Hebrews | [[Heb.9.12\|9:12]] |

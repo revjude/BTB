@@ -16,5 +16,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>practice, usage</b>, <span class='asgreek'>ἃ�
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>habit</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “γυναικεῖα” 1.17; ἢν ἐς ==μελέτη==ην ἥκῃ τοῦ κακοῦ ὥνθρωπος 2nd c.AD: Aretaeus Medicus “ὀξέων νούσων θεραπευτικόν” 1.5 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐν</span> <span class='asgreek'>μ</span>. <span class='asgreek'>γίγνεσθαι</span> <span class='asgreek'>ψόφων</span> <b>become accustomed to</b> noises, [<a href="javascript:void(0)" title=" 5th c.AD: Stobaeus, Joannes “Appendix” p.22 G. ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>threatening symptom</b> or <b>condition</b>, of disease, <span class='asgreek'>==μελέτη==η</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>προοίμιον</span> <span class='asgreek'>ἐπιληψίας</span> [<a href="javascript:void(0)" title=" 2nd-1st c.BC: Posidonius Historicus cited in 6th c.AD: Aëtius Medicus 6.12; ὀδύνη.. μ. λύσεως 6th c.AD: Aëtius Medicus 5.100, compare 7th c.AD: Stephanus Medicus “in Hp.” 1.191 4th c.BC: Demosthenes Orator ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[LXX.Ps.118.77]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.119.77|LXX.Ps.118.77]]**\***
 </sub></small>

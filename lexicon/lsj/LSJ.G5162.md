@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> in <i>neuter</i>, <span class='asgreek'>τ�
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <span class='asgreek'>==τροφός==</span>, <span class='asgreek'>ἡ</span>, name of a plaster, [<a href="javascript:void(0)" title=" 4th c.AD: Oribasius Medicus “fragment” 99. ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, <b>nursling,</b> <span class='asgreek'>τροφοί</span>· <span class='asgreek'>ἀντὶ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>θρέμματα</span> (Meineke <span class='asgreek'>τροφαί</span>), [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[LXX.Gen.35.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.35.8|LXX.Gen.35.8]]
 </sub></small>

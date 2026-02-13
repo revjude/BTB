@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">μουσικός</span></span>, <span class="asgreek">-ή, -όν</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Gen.31.27|Ge 31:27]], [[LXX.Ezek.26.13|Ez 26:13]] (**<big>[[H7892|שִׁיר]]</big>**), [[LXX.Dan.3.5|Da LXX TH 3:5]] ff. (**<big>[[H2170|זְמָר]]</big>**), [[Sir.22.6|Si 22:6]], al.;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">μουσικός</span></span>, <span class="asgreek">-ή, -όν</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Gen.31.27|Ge 31:27]], [[LXX.Ezek.26.13|Ez 26:13]] (**<big>[[H7892|שִׁיר]]</big>**), [[LXX.Dan.3.5|Da LXX TH 3:5]] ff. (**<big>[[H2170|זְמָר]]</big>**), Si 22:6, al.;\]</span> </span>
 <span class="asitalic">skilled in the arts</span>, esp. <span class="asitalic">in music</span>; as subst., <span class="asgreek">ὁ μ.</span>, <span class="asitalic">a minstrel</span>, <span class="asitalic">musician</span>: [[Rev.18.22|Re 18:22]].†
 
 **Abbott-Smith References**

@@ -7,5 +7,5 @@ spelling of: <small>**<big>[[G7341|ἐξόδιος]]</big>**</small>
  later word for <span class='asgreek'>ἔξοδος</span>, [<a href="javascript:void(0)" title=" LXX.2Kgs.15.20 ">LXX</a>].
 
 
-<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.15.20]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.15.20|LXX.2Kgs.15.20]]
 </sub></small>

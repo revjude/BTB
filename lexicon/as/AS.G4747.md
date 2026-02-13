@@ -1,4 +1,4 @@
-<span class="asform">\*\* <span class="asgreek"><span class="asbold">στοιχεῖον</span></span>, <span class="asgreek">-ου, τό </span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[Wis.7.17|Wi 7:17]] [[Wis.19.18|19:18]], [[4Macc.12.13|IV Mac 12:13]] \* ;\] </span> </span>
+<span class="asform">\*\* <span class="asgreek"><span class="asbold">στοιχεῖον</span></span>, <span class="asgreek">-ου, τό </span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX: Wi 7:17 19:18, IV Mac 12:13 \* ;\] </span> </span>
 prop., <span class="asitalic">one of a row</span> (<span class="asgreek">στοῖχος</span>) or <span class="asitalic">series</span>, hence,
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">the shadow-line of a dial</span> (Aristoph.).</span>
 <span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">an elementary sound</span> or <span class="asitalic">letter</span> of the alphabet (Anth., Plut., <span class="asgreek">π.</span>).</span>

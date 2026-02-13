@@ -1,4 +1,4 @@
-<span class="asform">\*\* <span class="asgreek"><span class="asbold">πολίτευμα</span></span>, <span class="asgreek">-τος, τό</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">πολιτεύω</span>),</span>  <span class="asseptuagint">\[in LXX: [[2Macc.12.7|II Mac 12:7]]\*;\]</span> </span>
+<span class="asform">\*\* <span class="asgreek"><span class="asbold">πολίτευμα</span></span>, <span class="asgreek">-τος, τό</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">πολιτεύω</span>),</span>  <span class="asseptuagint">\[in LXX: II Mac 12:7\*;\]</span> </span>
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">an act of administration</span>.</span>
 <span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">a form of government</span>.</span>
 <span class="asbullet"><span class="asbold">3.</span> = <span class="asgreek">πολιτεία</span>,</span>

@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_III</b> of persons, <b>sad</b>, ={<span class='asgreek'>�
 $\quad$ $\quad$<b>\_\_IV</b> <i>adverb</i> -<span class='asgreek'>ρῶς</span> <b>painfully, so as to cause pain</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Philoctetes” 912 ">Refs 5th c.BC+</a>]; <span class='asgreek'>λ</span>. <span class='asgreek'>δ᾽</span> <span class='asgreek'>ἔχει</span>, <span class='asgreek'>εἰ</span>.. it is <b>painful</b> that.., [<a href="javascript:void(0)" title=" [prev. author] “El.” 767, compare 5th c.BC: Euripides Tragicus “Bacchae” 1263. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> <b>with pain, so as to feel</b> or <b>show pain</b>, <span class='asgreek'>λ</span>. <span class='asgreek'>φέρειν</span> <span class='asgreek'>τι</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Isocrates Orator 9.54, compare 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1110b12. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[LXX.Prov.17.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.Prov.17.22|LXX.Prov.17.22]]
 </sub></small>

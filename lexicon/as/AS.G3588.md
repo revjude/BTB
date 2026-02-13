@@ -1,7 +1,7 @@
 <span class="asform"><span class="asgreek"><span class="asbold">ὁ</span></span>, <span class="asgreek">ἡ, τό</span>,</span>  <span class="asgramGrp"><span class="aspos">the prepositive article</span> (<span class="asgreek">ἄρθρον προτακτικόν</span>), originally a demonstr. pron. (so usually in Hom.), in general corresponding to the Eng. definite article.</span>
 <span class="asbullet"><span class="asbold">I.</span> As demonstr. pron.</span>
 $\quad$ <span class="asbullet"><span class="asbold">1.</span> As freq. in Hom., absol., <span class="asitalic">he</span> (<span class="asitalic">she</span>, <span class="asitalic">it</span>), <span class="asitalic">his</span> (etc.): [[Acts.17.28|Ac 17:28]] (quoted from the poet Aratus).</span>
-$\quad$ <span class="asbullet"><span class="asbold">2.</span> Distributive, <span class="asgreek">ὁ μὲν . . . ὁ δέ</span>, <span class="asitalic">the one . . . the other</span>: [[1Cor.7.7|I Co 7:7]], [[Gal.4.22|Ga 4:22]]; pl., [[Acts.14.4|Ac 14:4]], [[Acts.17.32|17:32]], [[Phil.1.16|Phl 1:16]], al.; <span class="asgreek">οἱ μὲν . . . ἄλλοι δέ</span>, [[Matt.16.14|Mt 16:14]], [[John.7.12|Jo 7:12]]; <span class="asgreek">οἱ μεν̀ . . . ὁ</span> <span class="asgreek">δέ</span>, [[Heb.7.21|He 7:21]], [[Heb.7.23|23]].</span>
+$\quad$ <span class="asbullet"><span class="asbold">2.</span> Distributive, <span class="asgreek">ὁ μὲν . . . ὁ δέ</span>, <span class="asitalic">the one . . . the other</span>: [[1Cor.7.7|I Co 7:7]], [[Gal.4.22|Ga 4:22]]; pl., [[Acts.14.4|Ac 14:4]], [[Acts.17.32|17:32]], [[Phil.1.17|Phl 1:16]]**\***, al.; <span class="asgreek">οἱ μὲν . . . ἄλλοι δέ</span>, [[Matt.16.14|Mt 16:14]], [[John.7.12|Jo 7:12]]; <span class="asgreek">οἱ μεν̀ . . . ὁ</span> <span class="asgreek">δέ</span>, [[Heb.7.21|He 7:21]], [[Heb.7.23|23]].</span>
 $\quad$ <span class="asbullet"><span class="asbold">3.</span> In narration (without <span class="asgreek">ὁ μὲν</span> preceding), <span class="asgreek">ὁ δέ</span>, <span class="asitalic">but he</span>: [[Matt.2.14|Mt 2:14]], [[Mark.1.45|Mk 1:45]], [[Luke.8.21|Lk 8:21]], [[John.9.38|Jo 9:38]], al. mult.</span>
 <span class="asbullet"><span class="asbold">II.</span> As prepositive article, <span class="asitalic">the</span>, prefixed,</span>
 $\quad$ <span class="asbullet"><span class="asbold">1.</span> to nouns unmodified: <span class="asgreek">ὁ θεός</span>, <span class="asgreek">τὸ φῶς</span>, etc.; to abstract nouns, <span class="asgreek">ἡ σοφία</span>, etc., to pl. nouns which indicate a class, <span class="asgreek">οἱ ἀλώπεκες</span>, <span class="asitalic">foxes</span>, [[Matt.8.20|Mt 8:20]], al.; to an individual as representing a class, <span class="asgreek">ὁ ἐργάτης</span>, [[Luke.10.7|Lk 10:7]]; c. nom. = voc. in addresses, [[Matt.11.26|Mt 11:26]], [[John.19.3|Jo 19:3]], [[Jas.5.1|Ja 5:1]], al.; to things which pertain to one, <span class="asgreek">ἡ χεῖρ</span>, <span class="asitalic">his hand</span>, [[Mark.3.1|Mk 3:1]]; to names of persons well known or already mentioned; usually to names of countries (originally adjectives), <span class="asgreek">ἡ Ἰουδαία</span>, etc.</span>
@@ -29,7 +29,7 @@ $\quad$ <span class="asbullet"><span class="asbold">6.</span> To nouns in the ge
 | 1 Corinthians | [[1Cor.7.7\|7:7]] · [[1Cor.16.4\|16:4]] |
 | Galatians | [[Gal.4.22\|4:22]] |
 | Ephesians | [[Eph.4.9\|4:9]] |
-| Philippians | [[Phil.1.16\|1:16]] |
+| Philippians | [[Phil.1.17\|1:16]]**\*** |
 | Hebrews | [[Heb.7.21\|7:21]] · [[Heb.7.23\|7:23]] · [[Heb.12.27\|12:27]] · [[Heb.13.24\|13:24]] |
 | James | [[Jas.5.1\|5:1]] |
 

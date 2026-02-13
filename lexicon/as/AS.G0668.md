@@ -1,4 +1,4 @@
-<span class="asform">\*\* <span class="asgreek"><span class="asbold">ἀπο-φεύγω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[Sir.22.22|Si 22:22]]\*;\]</span> </span>
+<span class="asform">\*\* <span class="asgreek"><span class="asbold">ἀπο-φεύγω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: Si 22:22\*;\]</span> </span>
 <span class="asitalic">to flee from</span>, <span class="asitalic">escape</span>: c. acc., [[2Pet.2.18|II Pe 2:18]], [[2Pet.2.20|20]]; c. gen., [[2Pet.1.4|II Pe 1:4]].†
 
 **Abbott-Smith References**

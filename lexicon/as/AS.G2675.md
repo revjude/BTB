@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">κατ-αρτίζω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly in Pss ([[LXX.Ps.8.2|8:2]] al.; **<big>[[H3559|כּוּן]]</big>**, etc.) and II Es (**<big>[[H3635|כְּלַל]]</big>**);\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">κατ-αρτίζω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly in Pss ([[LXX.Ps.8.1|8:2]]**\*** al.; **<big>[[H3559|כּוּן]]</big>**, etc.) and II Es (**<big>[[H3635|כְּלַל]]</big>**);\]</span> </span>
 <span class="asitalic">to render</span> <span class="asgreek">ἄρτιος</span>, i.e. <span class="asitalic">fit</span>, <span class="asitalic">complete</span>;
 <span class="asbullet"><span class="asbold">(a)</span> <span class="asitalic">to mend</span>, <span class="asitalic">repair</span>: [[Matt.4.21|Mt 4:21]], [[Mark.1.19|Mk 1:19]];</span>
 <span class="asbullet"><span class="asbold">(b)</span> <span class="asitalic">to furnish completely</span>, <span class="asitalic">complete</span>, <span class="asitalic">equip</span>, <span class="asitalic">prepare</span>: pass., [[Luke.6.40|Lk 6:40]], [[Rom.9.22|Ro 9:22]], [[Heb.11.3|He 11:3]]; mid., [[Matt.21.16|Mt 21:16]]<span class="assuperscript">(LXX)</span>, [[Heb.10.5|He 10:5]]<span class="assuperscript">(LXX)</span>;</span>
@@ -8,7 +8,7 @@
 
 | Book | Refs |
 | - | - |
-| Psalms | [[LXX.Ps.8.2\|8:2]] |
+| Psalms | [[LXX.Ps.8.1\|8:2]]**\*** |
 | Matthew | [[Matt.4.21\|4:21]] · [[Matt.21.16\|21:16]] |
 | Mark | [[Mark.1.19\|1:19]] |
 | Luke | [[Luke.6.40\|6:40]] |

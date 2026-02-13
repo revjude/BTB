@@ -13,5 +13,5 @@ $\quad$ $\quad$<b>\_\_IV</b> of <b>sexual connexion</b>, <span class='asgreek'>�
 $\quad$ $\quad$<b>\_\_V</b> <b>parcel, lot</b> of land, [<a href="javascript:void(0)" title=" “PAmh.” 2.88.9 (2nd c.AD), “PRyl.” 168.9 (2nd c.AD). ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_VI</b> <b>chest, case</b>, or <b>basket</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Pherecrates Comicus 122, 5th c.BC: Eupolis Comicus 76, “IG” 22.120.37,40, 4th-3rd c.BC: Menander Comicus 129.2, “PPetr.” 2p.10 (3rd c.BC, unless in signification 1.3), 2nd c.AD: Lucianus Sophista “Ep.Sat.” 21; αἱ μυστικαὶ κ. 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Phocion” 28. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[LXX.Num.5.20]] ☩ [[LXX.Lev.18.20]] ☩ [[Rom.9.10]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.5.20|LXX.Num.5.20]] ☩ [[LXX.Lev.18.20|LXX.Lev.18.20]] ☩ [[Rom.9.10]]
 </sub></small>

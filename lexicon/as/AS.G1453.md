@@ -6,7 +6,7 @@
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> <span class="asitalic">to raise</span>, from sitting, lying, sickness; mid. and pass., <span class="asitalic">to rise</span>: [[Matt.9.5|Mt 9:5]],  [[Matt.9.7|7]], [[Mark.1.31|Mk 1:31]]  [[Mark.9.27|9:27]] [[Mark.10.49|10:49]], al.; redundant, like Heb. **<big>[[H6965|קוּם]]</big>**, [[Matt.2.15|Mt 2:15]]  [[Matt.9.19|9:19]], [[Rev.11.1|Re 11:1]] (v. Dalman, 23f.);</span>
 $\quad$ <span class="asbullet"><span class="asbold">(b)</span> <span class="asitalic">to raise up, cause to appear</span>: [[Acts.13.22|Ac 13:22]] (cf. [[LXX.Judg.2.18|Jg 2:18]]); <span class="asgreek">τέκνα</span>, [[Matt.3.9|Mt 3:9]]; pass., <span class="asitalic">to appear</span>: [[Matt.11.11|Mt 11:11]], [[Mark.13.22|Mk 13:22]], al.</span>
 <span class="asbullet"><span class="asbold">4.</span> <span class="asitalic">to rouse, stir up</span>; pass., <span class="asitalic">to rise</span> against: [[Matt.24.7|Mt 24:7]], [[Mark.13.8|Mk 13:8]].</span>
-<span class="asbullet"><span class="asbold">5.</span> Of buildings, <span class="asitalic">to raise</span>: <span class="asgreek">τ. ναόν</span>, [[John.2.19|Jo 2:19]], [[John.2.20|20]] (cf . [[LXX.Deut.16.22|De 16:22]], [[Sir.49.13|Si 49:13]]); (cf. <span class="asgreek">δι-, ἐξ-, ἐπ-, συν-εγείρω</span>, and V. Cremer, 224).</span>
+<span class="asbullet"><span class="asbold">5.</span> Of buildings, <span class="asitalic">to raise</span>: <span class="asgreek">τ. ναόν</span>, [[John.2.19|Jo 2:19]], [[John.2.20|20]] (cf . [[LXX.Deut.16.22|De 16:22]], Si 49:13); (cf. <span class="asgreek">δι-, ἐξ-, ἐπ-, συν-εγείρω</span>, and V. Cremer, 224).</span>
 
 **Abbott-Smith References**
 

@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ὀξύς</span></span>, <span class="asgreek">-εῖα, -ύ</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Ps.57.4|Ps 56 (57):4]], al. (**<big>[[H2299|חַד]]</big>**), [[LXX.Amos.2.15|Am 2:15]] (**<big>[[H7031|קַל]]</big>**),   [[LXX.Isa.5.28|Is 5:28]] (**<big>[[H8150|שׁנן]]</big>**), etc.;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ὀξύς</span></span>, <span class="asgreek">-εῖα, -ύ</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[LXX.Ps.58.3|Ps 56 (57):4]]**\***, al. (**<big>[[H2299|חַד]]</big>**), [[LXX.Amos.2.15|Am 2:15]] (**<big>[[H7031|קַל]]</big>**),   [[LXX.Isa.5.28|Is 5:28]] (**<big>[[H8150|שׁנן]]</big>**), etc.;\]</span> </span>
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">sharp</span>: [[Rev.1.16|Re 1:16]] [[Rev.2.12|2:12]] [[Rev.14.14|14:14]], [[Rev.14.17|17]], [[Rev.14.18|18]] [[Rev.19.15|19:15]].</span>
 <span class="asbullet"><span class="asbold">2.</span> Of motion, <span class="asitalic">swift</span>: [[Rom.3.15|Ro 3:15]] (LXX <span class="asgreek">ταχινός</span>).†</span>
 
@@ -6,7 +6,7 @@
 
 | Book | Refs |
 | - | - |
-| Psalms | [[LXX.Ps.57.4\|57:4]] |
+| Psalms | [[LXX.Ps.58.3\|57:4]]**\*** |
 | Isaiah | [[LXX.Isa.5.28\|5:28]] |
 | Amos | [[LXX.Amos.2.15\|2:15]] |
 | Romans | [[Rom.3.15\|3:15]] |

@@ -1,4 +1,4 @@
-<span class="asform">\*\* <span class="asgreek"><span class="asbold">μῦθος</span></span>, <span class="asgreek">-ου, ὁ</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[Wis.17.4|Wi 17:4]] A, [[Sir.20.19|Si 20:19]]\*;\]</span> </span>
+<span class="asform">\*\* <span class="asgreek"><span class="asbold">μῦθος</span></span>, <span class="asgreek">-ου, ὁ</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: Wi 17:4 A, Si 20:19\*;\]</span> </span>
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">speech</span>, <span class="asitalic">conversation</span>.</span>
 <span class="asbullet"><span class="asbold">2.</span> </span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span>  <span class="asitalic">a story</span>, <span class="asitalic">narrative</span> (Hom.);</span>

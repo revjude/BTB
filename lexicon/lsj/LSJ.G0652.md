@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <span class='asgreek'>==ἀπόστολ�
 $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> <b>export-licence,</b> [<a href="javascript:void(0)" title=" PGnom. 162 (2nd c.AD). ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.7</b> <i>genitive</i> uncertain, <b>cargo dispatched by order,</b> [<a href="javascript:void(0)" title=" POxy. 522.1, +others (2nd c.AD), “PTeb.” 486 (2nd-3rd c.AD).">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.14.6]] ☩ [[Matt.10.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.14.6|LXX.1Kgs.14.6]] ☩ [[Matt.10.2]]
 </sub></small>

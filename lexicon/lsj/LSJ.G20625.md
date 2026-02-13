@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>feminine</i> of <span class='asgreek'>κύριος</span> (which see).
 
-<small><sub>LSJ Scripture Refs: [[LXX.Dan.11.5]] ☩ [[LXX.Dan.4.19]]
+<small><sub>LSJ Scripture Refs: [[LXX.Dan.11.5|LXX.Dan.11.5]] ☩ [[LXX.Dan.4.22|LXX.Dan.4.19]]**\***
 </sub></small>

@@ -6,5 +6,5 @@
  <b>on-breathing</b>, [<a href="javascript:void(0)" title=" LXX.Ps.17.16. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[LXX.Ps.17.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.18.15|LXX.Ps.17.16]]**\***
 </sub></small>

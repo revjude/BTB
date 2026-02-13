@@ -1,5 +1,5 @@
 <span class="asform"><span class="asgreek"><span class="asbold">πύλη</span></span>, <span class="asgreek">-ης, ἡ</span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX chiefly and very freq. for **<big>[[H8179|שַׁעַר]]</big>** sometimes for **<big>[[H1817|דֶּלֶת]]</big>**, **<big>[[H6607|פֶּתַח]]</big>**;\]</span> </span>
-<span class="asitalic">a gate</span>: [[Luke.7.12|Lk 7:12]], [[Acts.9.24|Ac 9:24]] [[Acts.12.10|12:10]] [[Acts.16.13|16:13]], [[Heb.13.12|He 13:12]]; <span class="asgreek">ἡ Ὡραία Π. τ. ἱεροῦ</span>, [[Acts.3.10|Ac 3:10]]. Metaph., [[Matt.7.13|Mt 7:13]], [[Matt.7.14|14]]; <span class="asgreek">πύλαι ᾅδου</span> ([[Wis.16.13|Wi 16:13]], [[3Macc.5.51|III Mac 5:51]], and cf. <span class="asgreek">κλεῖς ᾅδου</span>, [[Rev.1.18|Re 1:18]]): [[Matt.16.18|Mt 16:18]].†
+<span class="asitalic">a gate</span>: [[Luke.7.12|Lk 7:12]], [[Acts.9.24|Ac 9:24]] [[Acts.12.10|12:10]] [[Acts.16.13|16:13]], [[Heb.13.12|He 13:12]]; <span class="asgreek">ἡ Ὡραία Π. τ. ἱεροῦ</span>, [[Acts.3.10|Ac 3:10]]. Metaph., [[Matt.7.13|Mt 7:13]], [[Matt.7.14|14]]; <span class="asgreek">πύλαι ᾅδου</span> (Wi 16:13, III Mac 5:51, and cf. <span class="asgreek">κλεῖς ᾅδου</span>, [[Rev.1.18|Re 1:18]]): [[Matt.16.18|Mt 16:18]].†
 
 **Abbott-Smith References**
 

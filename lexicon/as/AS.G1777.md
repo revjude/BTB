@@ -3,7 +3,7 @@
 <span class="asbullet"><span class="asbold">2.</span> In law-phrases</span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> <span class="asitalic">liable</span> to a charge or action (cl. c. dat., of crime): c. dat., of the tribunal (MM, <span class="asitalic">Exp.</span>, xiii), [[Matt.5.21|Mt 5:21]], [[Matt.5.22|22]]; seq. <span class="asgreek">εἰς</span> (Field, <span class="asitalic">Notes</span>, 4 f.), [[Matt.5.22|Mt 5:22]]</span>
 $\quad$ <span class="asbullet"><span class="asbold">(b)</span> c. gen., of the punishment ([[LXX.Gen.26.11|Ge 26:11]]): <span class="asgreek">θανάτου</span>, [[Matt.26.66|Mt 26:66]], [[Mark.14.64|Mk 14:64]];</span>
-$\quad$ <span class="asbullet"><span class="asbold">(c)</span> c. gen. (cl. c. dat„ rarely c. prep.; MM, <span class="asitalic">Exp.</span>, xiii), of the crime   ([[2Macc.13.6|II Mac 13:6]]): [[Mark.3.29|Mk 3:29]];</span>
+$\quad$ <span class="asbullet"><span class="asbold">(c)</span> c. gen. (cl. c. dat„ rarely c. prep.; MM, <span class="asitalic">Exp.</span>, xiii), of the crime   (II Mac 13:6): [[Mark.3.29|Mk 3:29]];</span>
 $\quad$ <span class="asbullet"><span class="asbold">(d)</span> c. gen., of the thing injured, guilty (absol., in cl.): [[1Cor.11.27|I Co 11:27]], [[Jas.2.10|Ja 2:10]] (cf. [[LXX.Isa.54.17|Is 54:17]]; <span class="asitalic">DB</span>, ii, 268<span class="assuperscript">a</span>).†</span>
 
 **Abbott-Smith References**

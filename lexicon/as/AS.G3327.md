@@ -1,4 +1,4 @@
-<span class="asform">\*\* <span class="asgreek"><span class="asbold">μετα-βαίνω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[Wis.7.27|Wi 7:27]] [[Wis.19.19|19:19]], [[2Macc.6.1|II Mac 6:1]], [[2Macc.6.9|9]], [[2Macc.6.24|24]]\*;\]</span> </span>
+<span class="asform">\*\* <span class="asgreek"><span class="asbold">μετα-βαίνω</span></span>,</span> <span class="asetym">  <span class="asseptuagint">\[in LXX: Wi 7:27 19:19, II Mac 6:1, 9, 24\*;\]</span> </span>
 <span class="asitalic">to pass over</span> from one place to another: [[Matt.17.20|Mt 17:20]], [[Luke.10.7|Lk 10:7]]; with reference to the point of departure only, <span class="asitalic">to withdraw</span>, <span class="asitalic">depart</span>: [[Matt.8.34|Mt 8:34]] [[Matt.11.1|11:1]] [[Matt.12.9|12:9]] [[Matt.15.29|15:29]], [[John.7.3|Jo 7:3]], [[Acts.18.7|Ac 18:7]]; of removal from this life, <span class="asgreek">ἐκ τ. κότμου πρὸς τ. Πατέρα</span>, [[John.13.1|Jo 13:1]]; metaph., <span class="asgreek">ἐκ τ. θανάτου εἰς τ. ζωήν</span>, [[John.5.24|Jo 5:24]], [[1John.3.14|I Jo 3:14]].†
 
 **Abbott-Smith References**

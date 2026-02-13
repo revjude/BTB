@@ -6,5 +6,5 @@
  <b>ransom, propitiatory offering,</b> [<a href="javascript:void(0)" title=" LXX.1Kgs.12.3, LXX.Ps.48.8. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.12.3]] ☩ [[LXX.Ps.48.8]]
+<small><sub>LSJ Scripture Refs: [[LXX.1Kgs.12.3|LXX.1Kgs.12.3]] ☩ [[LXX.Ps.49.7|LXX.Ps.48.8]]**\***
 </sub></small>

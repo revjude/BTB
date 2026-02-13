@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἐξ-ετάζω</span></span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">ἐτάζω</span> (rare), <span class="asitalic">to examine</span>), </span>  <span class="asseptuagint">\[in LXX: [[LXX.Deut.13.14|De 13:14-15]] [[LXX.Deut.19.18|De 19:18]], [[LXX.1Chr.28.9|I Ch 28:9]] A (**<big>[[H1875|דּרשׁ]]</big>**), [[LXX.Ps.11.5|Ps 10 (11) 5, 6]] (**<big>[[H0974|בּחן]]</big>**), [[Wis.6.3|Wi 6:3]], [[Sir.3.21|Si 3:21]], al. ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἐξ-ετάζω</span></span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">ἐτάζω</span> (rare), <span class="asitalic">to examine</span>), </span>  <span class="asseptuagint">\[in LXX: [[LXX.Deut.13.14|De 13:14-15]] [[LXX.Deut.19.18|De 19:18]], [[LXX.1Chr.28.9|I Ch 28:9]] A (**<big>[[H1875|דּרשׁ]]</big>**), [[LXX.Ps.12.4|Ps 10 (11) 5, 6]]**\*** (**<big>[[H0974|בּחן]]</big>**), Wi 6:3, Si 3:21, al. ;\]</span> </span>
 <span class="asitalic">to examine closely, inquire carefully</span> (<span class="asitalic">of</span>): seq. <span class="asgreek">περί</span> (c. <span class="asgreek">ἀκριβῶς</span>), [[Matt.2.8|Mt 2:8]]; seq. <span class="asgreek">τίς</span>, [[Matt.10.11|Mt 10:11]]; c. acc pers., [[John.21.12|Jo 21:12]].†
 <span class="asre"><span class="asitalic">SYN.</span>: **<big>[[G0350|ἀνακρίνω]]</big>**, **<big>[[G2045|ἐραυνάω]]</big>** (v. <span class="asitalic">DCG</span>, ii, 594b)  </span>
 
@@ -8,7 +8,7 @@
 | - | - |
 | Deuteronomy | [[LXX.Deut.13.14\|13:14]] · [[LXX.Deut.19.18\|19:18]] |
 | 1 Chronicles | [[LXX.1Chr.28.9\|28:9]] |
-| Psalms | [[LXX.Ps.11.5\|11:5]] |
+| Psalms | [[LXX.Ps.12.4\|11:5]]**\*** |
 | Matthew | [[Matt.2.8\|2:8]] · [[Matt.10.11\|10:11]] |
 | John | [[John.21.12\|21:12]] |
 

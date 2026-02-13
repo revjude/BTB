@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>comfort</b>, <span class='asgreek'>�
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <span class='asgreek'>ἐμὲ</span> <span class='asgreek'>οὐδὲν</span> <span class='asgreek'>θ</span>. <span class='asgreek'>ἡ</span> <span class='asgreek'>δόξα</span> I <b>care</b> nothing for glory, [<a href="javascript:void(0)" title=" 4th c.AD: Alciphro Epistolographus 2.2; ἐμὲ οὐδὲν θ. κέρδος 5th c.AD: Aristaenetus Rhetor 1.24. ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <i>intransitive</i>, <b>to be full of heat, vigorous</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Problemata” 879a33 ">Refs 4th c.BC+</a>]; <span class='asgreek'>θάλψαι</span> <span class='asgreek'>τρεῖς</span> <span class='asgreek'>ποίας</span> <b>to live</b> three summers, [<a href="javascript:void(0)" title="“Anthologia Graeca” 7.731 (1st c.AD: Leonidas Alexandrinus Epigrammaticus). ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[LXX.Deut.22.6]] ☩ [[1Thess.2.7]] ☩ [[Eph.5.29]]
+<small><sub>LSJ Scripture Refs: [[LXX.Deut.22.6|LXX.Deut.22.6]] ☩ [[1Thess.2.7]] ☩ [[Eph.5.29]]
 </sub></small>

@@ -18,5 +18,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>safeguard,</b> <span class='asgreek'>�
 $\quad$ $\quad$<b>\_\_III</b> (from <i>middle</i>) <b>precaution,</b> <span class='asgreek'>πολλῆς</span> <span class='asgreek'>φ</span>. <span class='asgreek'>ἔργον</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 537d; φ. θαυμαστῆς δεομένη [prev. author] “Lg.” 906a, +others, compare 5th c.BC: Thucydides Historicus 5.99. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> with <i>genitive</i>, <b>precaution against,</b> <span class='asgreek'>εὐλάβεια</span> <span class='asgreek'>φ</span>. <span class='asgreek'>κακοῦ</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Definitiones” 413d; ὑποψίας φυλακὴν ποιήσασθαι 5th c.BC: Antipho Orator 2.1.2; φ. τῶν πάντα μολυνόντων 4th-3rd c.BC: Epicurus Philosophus “Gnomologium Vaticanum - Kleine Schriften” 80, compare 73. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.12.10]] ☩ [[Matt.14.25]] ☩ [[Matt.18.30]] ☩ [[LXX.Gen.40.3]] ☩ [[Matt.14.3]]
+<small><sub>LSJ Scripture Refs: [[Acts.12.10]] ☩ [[Matt.14.25]] ☩ [[Matt.18.30]] ☩ [[LXX.Gen.40.3|LXX.Gen.40.3]] ☩ [[Matt.14.3]]
 </sub></small>

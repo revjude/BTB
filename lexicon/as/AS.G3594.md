@@ -1,11 +1,11 @@
 <span class="asform"><span class="asgreek"><span class="asbold">ὁδηγέω</span></span>, <span class="asgreek">-ῶ</span></span>  <span class="asetym">    <span class="asderivation">(&lt; <span class="asgreek">ὁδηγός</span>),</span>  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H5117|נחה]]</big>**, also for **<big>[[H1870|דּרךְ]]</big>** hi., **<big>[[H1980|הלךְ]]</big>** hi., etc.;\]</span> </span>
-<span class="asitalic">to lead</span> on one's way, <span class="asitalic">to guide</span>: c. acc. pers., [[Matt.15.14|Mt 15:14]],   [[Luke.6.39|Lk 6:39]]; id. seq. <span class="asgreek">ἐπί</span>, [[Rev.7.17|Re 7:17]]. Metaph., <span class="asitalic">to guide</span>, <span class="asitalic">instruct</span>, <span class="asitalic">teach</span>: [[Acts.8.31|Ac 8:31]]; seq. <span class="asgreek">εἰς τ. ἀλήθειαν</span> (<span class="asgreek">ἐν τ. ἀ.</span>, WH, mg.), [[John.16.13|Jo 16:13]] (cf. [[LXX.Ps.25.5|Ps 24 (25):5]]).†
+<span class="asitalic">to lead</span> on one's way, <span class="asitalic">to guide</span>: c. acc. pers., [[Matt.15.14|Mt 15:14]],   [[Luke.6.39|Lk 6:39]]; id. seq. <span class="asgreek">ἐπί</span>, [[Rev.7.17|Re 7:17]]. Metaph., <span class="asitalic">to guide</span>, <span class="asitalic">instruct</span>, <span class="asitalic">teach</span>: [[Acts.8.31|Ac 8:31]]; seq. <span class="asgreek">εἰς τ. ἀλήθειαν</span> (<span class="asgreek">ἐν τ. ἀ.</span>, WH, mg.), [[John.16.13|Jo 16:13]] (cf. [[LXX.Ps.26.5|Ps 24 (25):5]]**\***).†
 
 **Abbott-Smith References**
 
 | Book | Refs |
 | - | - |
-| Psalms | [[LXX.Ps.25.5\|25:5]] |
+| Psalms | [[LXX.Ps.26.5\|25:5]]**\*** |
 | Matthew | [[Matt.15.14\|15:14]] |
 | Luke | [[Luke.6.39\|6:39]] |
 | John | [[John.16.13\|16:13]] |

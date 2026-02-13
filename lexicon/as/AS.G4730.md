@@ -1,5 +1,5 @@
 <span class="asform"><span class="asgreek"><span class="asbold">στενοχωρία</span></span>, <span class="asgreek">-ας, ἡ</span> (v. supr.) </span> <span class="asetym">  <span class="asseptuagint">\[in LXX for **<big>[[H6695|צוּקָה]]</big>**, etc. ;\] </span> </span>
-<span class="asitalic">narrowness of space, want of room</span> (Thuc., al.). Metaph. (Xen., Polyb., [[LXX.Deut.28.53|De 28:53]], [[Wis.5.3|Wi 5:3]], al.), <span class="asitalic">difficulty, distress</span>: <span class="asgreek">θλίψις καὶ</span> (<span class="asgreek">ἢ</span>) <span class="asgreek">σ.</span>, [[Rom.2.9|Ro 2:9]] [[Rom.8.35|8:35]] (EV, <span class="asitalic">anguish</span>); pl. (cf. Bl., § 32, 6; WM, 220), [[2Cor.6.4|II Co 6:4]] [[2Cor.12.10|12:10]].†
+<span class="asitalic">narrowness of space, want of room</span> (Thuc., al.). Metaph. (Xen., Polyb., [[LXX.Deut.28.53|De 28:53]], Wi 5:3, al.), <span class="asitalic">difficulty, distress</span>: <span class="asgreek">θλίψις καὶ</span> (<span class="asgreek">ἢ</span>) <span class="asgreek">σ.</span>, [[Rom.2.9|Ro 2:9]] [[Rom.8.35|8:35]] (EV, <span class="asitalic">anguish</span>); pl. (cf. Bl., § 32, 6; WM, 220), [[2Cor.6.4|II Co 6:4]] [[2Cor.12.10|12:10]].†
 <span class="asre"><span class="asitalic">SYN.</span>: <span class="asref">**<big>[[G2347|θλίψις]]</big>**</span>, q.v  </span>
 
 **Abbott-Smith References**

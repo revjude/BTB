@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <span class='asgreek'>==ἀγκύλη==�
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>curtain-ring, hook,</b> [<a href="javascript:void(0)" title=" LXX.Exod.38.18 (36.34), +others">LXX</a>]; <b>hook</b> for a door, [<a href="javascript:void(0)" title=" “IG” 11(2).165.11, +others (Delos, 3rd c.BC). ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> <b>sides of the</b> <span class='asgreek'>κεραία</span>, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 1.91.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[LXX.Exod.38.18]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.37.28|LXX.Exod.38.18]]**\***
 </sub></small>

@@ -1,5 +1,5 @@
 <span class="asform"><span class="asgreek"><span class="asbold">παρ-άλιος</span></span>, <span class="asgreek">-ον</span></span> <span class="asetym">  <span class="asderivation">(in cl., chiefly <span class="asgreek">-α, -ον</span>),</span>  <span class="asseptuagint">\[in LXX for **<big>[[H3220|יָם]]</big>**, **<big>[[H3220|הַיָּם]]</big>**, **<big>[[H2348|חוֹף]]</big>**, etc., c. prep.;\]</span> </span>
-<span class="asitalic">by the sea</span>; <span class="asgreek">ἡ π.</span> (sc. <span class="asgreek">χώρα</span>, in LXX <span class="asgreek">ἡ παραλία</span>, [[LXX.Deut.1.7|De 1:7]], [[LXX.Josh.9.1|Jos 9:1]], [[Jdt.1.7|Jth 1:7]], al.), <span class="asitalic">the sea coast</span>: [[Luke.6.17|Lk 6:17]].†
+<span class="asitalic">by the sea</span>; <span class="asgreek">ἡ π.</span> (sc. <span class="asgreek">χώρα</span>, in LXX <span class="asgreek">ἡ παραλία</span>, [[LXX.Deut.1.7|De 1:7]], [[LXX.Josh.9.1|Jos 9:1]], Jth 1:7, al.), <span class="asitalic">the sea coast</span>: [[Luke.6.17|Lk 6:17]].†
 
 **Abbott-Smith References**
 

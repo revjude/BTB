@@ -2,7 +2,7 @@
 
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">a wailer</span>.</span>
 <span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">a wizard</span>.</span>
-<span class="asbullet"><span class="asbold">3.</span> <span class="asitalic">an impostor</span> (cf. <span class="asgreek">γοητεία</span>, <span class="asitalic">trickery</span>, [[2Macc.12.24|II Mac 12:24]]): [[2Tim.3.13|II Ti 3:13]].†</span>
+<span class="asbullet"><span class="asbold">3.</span> <span class="asitalic">an impostor</span> (cf. <span class="asgreek">γοητεία</span>, <span class="asitalic">trickery</span>, II Mac 12:24): [[2Tim.3.13|II Ti 3:13]].†</span>
 
 **Abbott-Smith References**
 

@@ -1,11 +1,11 @@
-<span class="asform">† <span class="asgreek"><span class="asbold">βασιλίσκος</span></span>, <span class="asgreek">-ου, ὁ</span></span>  <span class="asetym">    <span class="asderivation">(dim. of <span class="asref"><span class="asgreek">βασιλεύς</span></span>),</span>  <span class="asseptuagint">\[in LXX <span class="asitalic">a basilisk</span>: [[LXX.Ps.91.13|Ps 90 (91):13]] (**<big>[[H6620|פֶּתֶן]]</big>**), [[LXX.Isa.59.5|Is 59:5]] (**<big>[[H0660|אֶפְעֶה]]</big>**)\*;\]</span> </span>
+<span class="asform">† <span class="asgreek"><span class="asbold">βασιλίσκος</span></span>, <span class="asgreek">-ου, ὁ</span></span>  <span class="asetym">    <span class="asderivation">(dim. of <span class="asref"><span class="asgreek">βασιλεύς</span></span>),</span>  <span class="asseptuagint">\[in LXX <span class="asitalic">a basilisk</span>: [[LXX.Ps.92.12|Ps 90 (91):13]]**\*** (**<big>[[H6620|פֶּתֶן]]</big>**), [[LXX.Isa.59.5|Is 59:5]] (**<big>[[H0660|אֶפְעֶה]]</big>**)\*;\]</span> </span>
 prop., <span class="asitalic">a petty king</span>: [[John.4.46|Jo 4:46]],  [[John.4.49|49]] WH, mg. (v.s. <span class="asref"><span class="asgreek">βασιλικός</span></span>).†
 
 **Abbott-Smith References**
 
 | Book | Refs |
 | - | - |
-| Psalms | [[LXX.Ps.91.13\|91:13]] |
+| Psalms | [[LXX.Ps.92.12\|91:13]]**\*** |
 | Isaiah | [[LXX.Isa.59.5\|59:5]] |
 | John | [[John.4.46\|4:46]] · [[John.4.49\|4:49]] |
 

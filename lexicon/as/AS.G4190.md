@@ -1,7 +1,7 @@
 <span class="asform"><span class="asgreek"><span class="asbold">πονηρός</span></span>, <span class="asgreek">-ά, -όν</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">πονέω</span>, <span class="asitalic">to toil</span>),</span>  <span class="asseptuagint">\[in LXX chiefly for **<big>[[H7451|רַע]]</big>**;\]</span> </span>
 <span class="asbullet"><span class="asbold">1.</span> </span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> of persons, <span class="asitalic">oppressed by toils</span> (Hes.);</span>
-$\quad$ <span class="asbullet"><span class="asbold">(b)</span> of things, <span class="asitalic">toilsome</span>, <span class="asitalic">painful</span> (<span class="asgreek">καιρός</span>, [[Sir.51.12|Si 51:12]]): [[Eph.5.16|Eph 5:16]] [[Eph.6.13|6:13]], [[Rev.16.2|Re 16:2]].</span>
+$\quad$ <span class="asbullet"><span class="asbold">(b)</span> of things, <span class="asitalic">toilsome</span>, <span class="asitalic">painful</span> (<span class="asgreek">καιρός</span>, Si 51:12): [[Eph.5.16|Eph 5:16]] [[Eph.6.13|6:13]], [[Rev.16.2|Re 16:2]].</span>
 <span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">bad</span>, <span class="asitalic">worthless</span>;</span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> in physical sense: <span class="asgreek">καρπός</span>, [[Matt.7.17|Mt 7:17]], [[Matt.7.18|18]];</span>
 $\quad$ <span class="asbullet"><span class="asbold">(b)</span> in ethical sense, <span class="asitalic">bad</span>, <span class="asitalic">evil</span>, <span class="asitalic">wicked</span>;</span>

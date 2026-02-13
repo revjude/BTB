@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>made of walnut-wood</b>, <span class='asgreek'>�
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>καρυΐνη</span>, <span class='asgreek'>ἡ</span>, <b>narrow jar,</b> [<a href="javascript:void(0)" title=" Gp. 13.7.2. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <span class='asgreek'>Καρύ</span>ϊ<span class='asgreek'>νος</span> <span class='asgreek'>οἶνος</span>, see at {<span class='asgreek'>κάροινον</span>}.
 
-<small><sub>LSJ Scripture Refs: [[LXX.Gen.30.37]] ☩ [[LXX.Jer.1.11]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.30.37|LXX.Gen.30.37]] ☩ [[LXX.Jer.1.11|LXX.Jer.1.11]]
 </sub></small>

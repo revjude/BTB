@@ -6,5 +6,5 @@
  ={<span class='asgreek'>κραταίωμα</span>}, [<a href="javascript:void(0)" title=" LXX.Ps.59.7. ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[LXX.Ps.59.7]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.60.5|LXX.Ps.59.7]]**\***
 </sub></small>

@@ -2,7 +2,7 @@
 <span class="asitalic">a daughter</span>: [[Matt.9.18|Mt 9:18]] [[Matt.10.35|10:35]], [[Matt.10.37|37]] [[Matt.14.6|14:6]] [[Matt.15.22|15:22]], [[Matt.15.28|28]], [[Mark.5.35|Mk 5:35]] [[Mark.6.22|6:22]] [[Mark.7.26|7:26]], [[Mark.7.29|29]], [[Luke.2.36|Lk 2:36]] [[Luke.8.42|8:42]], [[Luke.8.49|49]] [[Luke.12.53|12:53]], [[Acts.2.17|Ac 2:17]]<span class="assuperscript">(LXX)</span> [[Acts.7.21|7:21]] [[Acts.21.9|21:9]], [[Heb.11.24|He 11:24]]. In NT, as in OT, not in cl.;
 <span class="asbullet"><span class="asbold">(a)</span> as a form of friendly address (cf. [[LXX.Ruth.2.2|Ru 2:2]], [[LXX.Ruth.2.22|22]] al.): [[Matt.9.22|Mt 9:22]], [[Mark.5.34|Mk 5:34]], [[Luke.8.48|Lk 8:48]];</span>
 <span class="asbullet"><span class="asbold">(b)</span> metaph.: sc. <span class="asgreek">κυρίου</span>, [[2Cor.6.18|II Co 6:18]] (cf. [[LXX.Isa.43.6|Is 43:6]]);</span>
-<span class="asbullet"><span class="asbold">(c)</span> of posterity: <span class="asgreek">θ. Ἀαρών</span>, [[Luke.1.5|Lk 1:5]]; <span class="asgreek">Ἀβραάμ</span>, [[Luke.13.16|Lk 13:16]] (cf. [[LXX.Isa.16.2|Is 16:2]], [[4Macc.15.28|IV Mac 15:28]], al);</span>
+<span class="asbullet"><span class="asbold">(c)</span> of posterity: <span class="asgreek">θ. Ἀαρών</span>, [[Luke.1.5|Lk 1:5]]; <span class="asgreek">Ἀβραάμ</span>, [[Luke.13.16|Lk 13:16]] (cf. [[LXX.Isa.16.2|Is 16:2]], IV Mac 15:28, al);</span>
 <span class="asbullet"><span class="asbold">(d)</span> of habitation: <span class="asgreek">θ. Σιών, Ἱερουσαλήμ</span>, [[Matt.21.5|Mt 21:5]]<span class="assuperscript">(LXX)</span>, [[Luke.23.28|Lk 23:28]], [[John.12.15|Jo 12:15]] (cf. [[LXX.Isa.1.8|Is 1:8]], [[LXX.Zech.9.9|Za 9:9]], al.).†</span>
 
 **Abbott-Smith References**

@@ -1,11 +1,11 @@
 <span class="asform"><span class="asgreek"><span class="asbold">νυστάζω</span></span></span> <span class="asetym">  <span class="asderivation">(cf. <span class="asgreek">νεύω</span>),</span>  <span class="asseptuagint">\[in LXX for **<big>[[H5123|נוּם]]</big>**, etc;\]</span> </span>
-<span class="asitalic">to nod in sleep</span>, <span class="asitalic">fall asleep</span>: [[Matt.25.5|Mt 25:5]]. Metaph., of negligence or delay, <span class="asgreek">ἡ ἀπώλεια αὐτῶν οὐ νυστάζει</span> (cf. [[LXX.Ps.121.4|Ps 120 (121):4]], [[LXX.Isa.5.27|Is 5:27]]): [[2Pet.2.3|II Pe 2:3]].†
+<span class="asitalic">to nod in sleep</span>, <span class="asitalic">fall asleep</span>: [[Matt.25.5|Mt 25:5]]. Metaph., of negligence or delay, <span class="asgreek">ἡ ἀπώλεια αὐτῶν οὐ νυστάζει</span> (cf. [[LXX.Ps.122.4|Ps 120 (121):4]]**\***, [[LXX.Isa.5.27|Is 5:27]]): [[2Pet.2.3|II Pe 2:3]].†
 
 **Abbott-Smith References**
 
 | Book | Refs |
 | - | - |
-| Psalms | [[LXX.Ps.121.4\|121:4]] |
+| Psalms | [[LXX.Ps.122.4\|121:4]]**\*** |
 | Isaiah | [[LXX.Isa.5.27\|5:27]] |
 | Matthew | [[Matt.25.5\|25:5]] |
 | 2 Peter | [[2Pet.2.3\|2:3]] |

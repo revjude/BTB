@@ -6,5 +6,5 @@
  ={<span class='asgreek'>==οἰκτείρημα==ιρμός</span>}, [<a href="javascript:void(0)" title=" LXX.Jer.38.3 (assuming variant). ">LXX</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[LXX.Jer.38.3]]
+<small><sub>LSJ Scripture Refs: [[LXX.Jer.31.3|LXX.Jer.38.3]]**\***
 </sub></small>

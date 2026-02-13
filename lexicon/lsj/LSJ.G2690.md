@@ -13,5 +13,5 @@ $\quad$ $\quad$<b>\_\_IV</b> <b>turn round, direct</b>, [<span class='asgreek'>�
 $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> Rhet., <i>metaphorically</i>, <span class='asgreek'>λέξις</span> <span class='asgreek'>κατεστραμμένη</span> <b>periodic</b> style, opposed to <span class='asgreek'>εἰρομένη</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Rh.” 1409a26, cf. Demetrius Astrologus “Eloc.” 12, 21. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_V</b> <b>screw</b> or <b>stretch tight</b>, [<a href="javascript:void(0)" title=" αἱ κατεστραμμέναι χορδαί 4th c.BC: Aristoteles Philosophus “de Audibilibus” 803a28 ">Refs 4th c.BC+</a>].
 
-<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.21.13]]
+<small><sub>LSJ Scripture Refs: [[LXX.2Kgs.21.13|LXX.2Kgs.21.13]]
 </sub></small>

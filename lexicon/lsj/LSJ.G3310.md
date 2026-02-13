@@ -13,5 +13,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>division, class</b>, <span class='asgreek'>πο�
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>μέρος</span>} IV. 3, <span class='asgreek'>εἰς</span> <span class='asgreek'>ἀρετῆς</span> <span class='asgreek'>==μερίς==ίδα</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>ψεύσασθαι</span> <span class='asgreek'>τιθέμενος</span> [<a href="javascript:void(0)" title=" [prev. author] “Mar.” 29; χρυσὸν ἐν οὐδενὸς ==μερίς==ίδι ποιήσασθαι 2nd c.AD: Pausanias Periegeta 10.28.4. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> of persons, <span class='asgreek'>κακὰ</span> <span class='asgreek'>μ</span>. you bad <b>lot!</b> [<a href="javascript:void(0)" title=" Anthologia Graeca 7.433 (3rd c.BC: Tymnes Epigrammaticus), compare 355.3 (3rd c.BC: Damagetus Epigrammaticus). ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[LXX.Gen.43.34]] ☩ [[Acts.16.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Gen.43.34|LXX.Gen.43.34]] ☩ [[Acts.16.12]]
 </sub></small>

@@ -1,4 +1,4 @@
-<span class="asform">\*\* <span class="asgreek"><span class="asbold">βραβεύω</span></span> </span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">βραβεύς</span>, <span class="asitalic">an umpire</span>), </span>  <span class="asseptuagint">\[in LXX: [[Wis.10.12|Wi 10:12]] \* ;\]</span> </span>
+<span class="asform">\*\* <span class="asgreek"><span class="asbold">βραβεύω</span></span> </span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asgreek">βραβεύς</span>, <span class="asitalic">an umpire</span>), </span>  <span class="asseptuagint">\[in LXX: Wi 10:12 \* ;\]</span> </span>
 
 <span class="asbullet"><span class="asbold">(a)</span> prop., <span class="asitalic">to act as umpire</span>; hence,</span>
 <span class="asbullet"><span class="asbold">(b)</span> generally, <span class="asitalic">to arbitrate, decide</span> (Isocr., Dem.; Lft., <span class="asitalic">Col.</span>, l.c.; MM, s.v.): [[Col.3.15|Col 3:15]];</span>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> with <i>dative</i>, <b>take part with, help</b>, [<a href="javascript:void(0)" title=" LXX.Exod.18.22, LXX.Ps.88.22, NT.Luke.10.40. ">LXX+NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[LXX.Num.11.17]] ☩ [[LXX.Exod.18.22]] ☩ [[LXX.Ps.88.22]] ☩ [[Luke.10.40]]
+<small><sub>LSJ Scripture Refs: [[LXX.Num.11.17|LXX.Num.11.17]] ☩ [[LXX.Exod.18.22|LXX.Exod.18.22]] ☩ [[LXX.Ps.89.21|LXX.Ps.88.22]]**\*** ☩ [[Luke.10.40]]
 </sub></small>

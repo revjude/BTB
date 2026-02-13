@@ -8,5 +8,5 @@ spelling of: <small>**<big>[[G1650|ἔλεγχος]]</big>**</small>
  = <span class='asgreek'>ἔλεγξις</span>, [<a href="javascript:void(0)" title=" LXX.Ps.149.7 (\_plural\_), +others, NT.2Tim.3.16 ">LXX+NT</a>].
 
 
-<small><sub>LSJ Scripture Refs: [[LXX.Ps.149.7]] ☩ [[2Tim.3.16]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.149.7|LXX.Ps.149.7]] ☩ [[2Tim.3.16]]
 </sub></small>

@@ -1,4 +1,4 @@
-<span class="asform">\*\* <span class="asgreek"><span class="asbold">εἰλικρινής</span></span>, <span class="asgreek">-ές</span>, </span> <span class="asetym">  <span class="asseptuagint">\[in LXX: [[Wis.7.25|Wi 7:25]] <span class="ashebrew">א</span>B \* ;\]</span> </span>
+<span class="asform">\*\* <span class="asgreek"><span class="asbold">εἰλικρινής</span></span>, <span class="asgreek">-ές</span>, </span> <span class="asetym">  <span class="asseptuagint">\[in LXX: Wi 7:25 <span class="ashebrew">א</span>B \* ;\]</span> </span>
 <span class="asitalic">unalloyed, pure</span> (Lat. <span class="aslatin">sincerus</span>; v. <span class="asitalic">DCG</span>, ii, 635<span class="assuperscript">a</span>);
 <span class="asbullet"><span class="asbold">(a)</span> of unmixed substances;</span>
 <span class="asbullet"><span class="asbold">(b)</span> of abstract ideas;</span>
