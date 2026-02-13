@@ -18,7 +18,7 @@ And it shall go forth from Beth-el to Luz, and it shall go by unto the borders  
 | the | **<big>[[G3588\|τα]]</big>** |
 | borders | **<big>[[G3725\|όρια]]</big>** |
 | \<obj.> | **<big>[[G3588\|του]]</big>** |
-| of Archi Ataroth. | **<big>[[H0757+H5852\|Αρχιαταρώθ]]</big>** |
+| of Archi Ataroth. | **<big>[[H0757\|Αρχιαταρώθ]]</big>** |
 [[Josh.16.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.16.1|<< Joshua 16:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.16.3|Joshua 16:3 >>]]</td></tr></table>
 
 

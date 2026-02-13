@@ -20,13 +20,13 @@ And she said to him, Give a blessing to me! for you have appointed me for \[the\
 | Give | **<big>[[G1325\|δος]]</big>** |
 | to me | **<big>[[G1473\|μοι]]</big>** |
 | \<obj.> | **<big>[[G3588\|την]]</big>** |
-| Golath-maim. | **<big>[[H1543+H4325\|Γολαθμάϊμ]]</big>** |
+| Golath-maim. | **<big>[[H1543\|Γολαθμάϊμ]]</big>** |
 | And | **<big>[[G2532\|και]]</big>** |
 | gave | **<big>[[G1325\|έδωκεν]]</big>** |
 | her | **<big>[[G1473\|αυτή]]</big>** |
 | Caleb | **<big>[[H3612\|Χαλέβ]]</big>** |
 | \<obj.> | **<big>[[G3588\|την]]</big>** |
-| Golath-maim | **<big>[[H1543+H4325\|Γολαθμάϊμ]]</big>** |
+| Golath-maim | **<big>[[H1543\|Γολαθμάϊμ]]</big>** |
 | the | **<big>[[G3588\|την]]</big>** |
 | upper \[part\], | **<big>[[G0507\|άνω]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |

@@ -21,7 +21,7 @@ And the cities of the tribe of the sons of Benjamin were according to their peop
 | and | **<big>[[G2532\|και]]</big>** |
 | Beth-hoglah, | **<big>[[H1031\|Βηθαγλά]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
-| Mekeziz, | **<big>[[H6010+H7104\|Μεκκασίς]]</big>** |
+| Mekeziz, | **<big>[[H6010\|Μεκκασίς]]</big>** |
 [[Josh.18.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.20|<< Joshua 18:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.22|Joshua 18:22 >>]]</td></tr></table>
 
 

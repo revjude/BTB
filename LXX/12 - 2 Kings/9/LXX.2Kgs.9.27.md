@@ -17,7 +17,7 @@ And Ahaziah king of Judah beheld, and he fled \[the\] way of Beth-agan. And Jehu
 | and | **<big>[[G2532\|και]]</big>** |
 | he fled | **<big>[[G5343\|έφυγεν]]</big>** |
 | \[the\] way | **<big>[[G3598\|οδόν]]</big>** |
-| of Beth-agan. | **<big>[[H1004+H1588\|Βαιθαγάν]]</big>** |
+| of Beth-agan. | **<big>[[H1004\|Βαιθαγάν]]</big>** |
 | And | **<big>[[G2532\|και]]</big>** |
 | pursued | **<big>[[G1377\|εδίωξεν]]</big>** |
 | after | **<big>[[G3694\|οπίσω]]</big>** |

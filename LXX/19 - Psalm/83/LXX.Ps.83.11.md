@@ -13,7 +13,7 @@ Make  their rulers as  Oreb and Zeeb, and Zebah and Zalmunna -- all  their ruler
 | \<obj.> | **<big>[[G3588\|τον]]</big>** |
 | Oreb | **<big>[[H6159\|Ωρήβ]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
-| Zeeb, | **<big>[[H3342+H2062\|Ζηβ]]</big>** |
+| Zeeb, | **<big>[[H3342\|Ζηβ]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | Zebah | **<big>[[H2078\|Ζεβεέ]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |

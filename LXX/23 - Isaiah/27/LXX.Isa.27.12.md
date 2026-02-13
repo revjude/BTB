@@ -18,7 +18,7 @@ And it will be in  that day \[the\] <span class="smallcaps">lord</span> will shu
 | of the | **<big>[[G3588\|του]]</big>** |
 | river | **<big>[[G4215\|ποταμού]]</big>** |
 | unto | **<big>[[G2193\|έως]]</big>** |
-| Rhinocora. | **<big>[[H5158a+H4714\|Ρινοκούρων]]</big>** |
+| Rhinocora. | **<big>[[H5158a\|Ρινοκούρων]]</big>** |
 | But you | **<big>[[G1473\|υμείς]]</big>** **<big>[[G1161\|δε]]</big>** |
 | gather together | **<big>[[G4863\|συνάγαγετε]]</big>** |
 | the | **<big>[[G3588\|τους]]</big>** |

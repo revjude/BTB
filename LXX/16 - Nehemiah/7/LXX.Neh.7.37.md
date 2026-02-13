@@ -7,7 +7,7 @@ sons of Lod Hadid and Ono, seven hundred twenty-one;
 | Translation | Greek |
 | - | - |
 | sons | **<big>[[G5207\|υιοί]]</big>** |
-| of Lod Hadid | **<big>[[H3850+H2307\|Λαδαδί]]</big>** |
+| of Lod Hadid | **<big>[[H3850\|Λαδαδί]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | Ono, | **<big>[[H0207\|Ωνώ]]</big>** |
 | seven hundred | **<big>[[G7485\|επτακόσιοι]]</big>** |

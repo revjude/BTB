@@ -25,7 +25,7 @@ And the borders shall go down unto \[the\] part of the mountain which is at the 
 | is | **<big>[[G1510\|εστιν]]</big>** |
 | of | **<big>[[G1537\|εκ]]</big>** |
 | \[the\] part | **<big>[[G3313\|μέρους]]</big>** |
-| of Emek-rephaim | **<big>[[H6010+H7497b\|Εμεκραφαϊμ]]</big>** |
+| of Emek-rephaim | **<big>[[H6010\|Εμεκραφαϊμ]]</big>** |
 | from | **<big>[[G0575\|από]]</big>** |
 | \[the\] north, | **<big>[[G1005\|βορρά]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |

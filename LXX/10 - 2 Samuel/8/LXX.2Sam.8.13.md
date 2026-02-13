@@ -17,7 +17,7 @@ And David made a name \[for himself\]. And in  his returning he struck  Idumea i
 | \<obj.> | **<big>[[G3588\|την]]</big>** |
 | Idumea | **<big>[[G2401\|Ιδουμαίαν]]</big>** |
 | in | **<big>[[G1722\|εν]]</big>** |
-| Gebelem | **<big>[[H1516+H4417\|Γεβελέμ]]</big>** |
+| Gebelem | **<big>[[H1516\|Γεβελέμ]]</big>** |
 | to | **<big>[[G1519\|εις]]</big>** |
 | eighteen | **<big>[[G8478\|οκτωκαίδεκα]]</big>** |
 | thousand. | **<big>[[G5505\|χιλιάδας]]</big>** |

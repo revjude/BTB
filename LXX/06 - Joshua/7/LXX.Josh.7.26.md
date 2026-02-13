@@ -25,7 +25,7 @@ And they set over him a heap of great stones until  this day. And \[the\] <span 
 | this | **<big>[[G3778\|τούτο]]</big>** |
 | is \[the\] name | **<big>[[G2028\|επωνόμασεν]]</big>** |
 | of it -- | **<big>[[G1473\|αυτό]]</big>** |
-| Emek Achor, | **<big>[[H6010+H5911\|Εμεκαχώρ]]</big>** |
+| Emek Achor, | **<big>[[H6010\|Εμεκαχώρ]]</big>** |
 | unto | **<big>[[G2193\|έως]]</big>** |
 | \<obj.> | **<big>[[G3588\|της]]</big>** |
 | this day. | **<big>[[G2250\|ημέρας]]</big>** **<big>[[G3778\|ταύτης]]</big>** |

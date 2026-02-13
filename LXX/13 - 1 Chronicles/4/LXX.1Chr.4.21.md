@@ -20,7 +20,7 @@
 | and | **<big>[[G2532\|και]]</big>** |
 | \[the\] generations | **<big>[[G1078\|γενέσεις]]</big>** |
 | of the families | **<big>[[G3609\|οικείων]]</big>** |
-| of Ephradabak | **<big>[[H5656+H0948\|Εφραδαβάκ]]</big>** |
+| of Ephradabak | **<big>[[H5656\|Εφραδαβάκ]]</big>** |
 | to the | **<big>[[G3588\|τω]]</big>** |
 | house | **<big>[[G3624\|οίκω]]</big>** |
 | of Ashbea, | **<big>[[H0791\|Ασεβά]]</big>** |

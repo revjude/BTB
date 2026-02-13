@@ -17,7 +17,7 @@ In your hand \[the\] <span class="smallcaps">lord</span> delivered up the rulers
 | Oreb | **<big>[[H6159\|Ορήβ]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | \<obj.> | **<big>[[G3588\|τον]]</big>** |
-| Zeeb; | **<big>[[H3342+H2062\|Ζηβ]]</big>** |
+| Zeeb; | **<big>[[H3342\|Ζηβ]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | what | **<big>[[G5100\|τι]]</big>** |
 | was I able | **<big>[[G1410\|ηδυνήθην]]</big>** |

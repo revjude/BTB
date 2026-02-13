@@ -11,7 +11,7 @@ And these \[are\] the sons of Benjamin; Sallu son of Meshullam, son of Joed, son
 | the | **<big>[[G3588\|οι]]</big>** |
 | sons | **<big>[[G5207\|υιοί]]</big>** |
 | of Benjamin; | **<big>[[G0958\|Βενιαμίν]]</big>** |
-| Sallu | **<big>[[H7975d\|Σηλώμ]]</big>** |
+| Sallu | **<big>[[H7975b\|Σηλώμ]]</big>** |
 | son | **<big>[[G5207\|υιός]]</big>** |
 | of Meshullam, | **<big>[[H4918\|Μεσουλάμ]]</big>** |
 | son | **<big>[[G5207\|υιός]]</big>** |

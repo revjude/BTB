@@ -8,7 +8,7 @@ Lod, and Ono-kareseim.
 | - | - |
 | Lod, | **<big>[[H3850\|Λύδδα]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
-| Ono-kareseim. | **<big>[[H0207+H1516\|Ονωγκαρασείμ]]</big>** |
+| Ono-kareseim. | **<big>[[H0207\|Ονωγκαρασείμ]]</big>** |
 [[Neh.11.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.11.34|<< Nehemiah 11:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.11.36|Nehemiah 11:36 >>]]</td></tr></table>
 
 

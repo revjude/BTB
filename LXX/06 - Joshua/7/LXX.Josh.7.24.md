@@ -57,7 +57,7 @@ And Joshua took  Achan son of Zerah, and the silver, and the robe, and the gold 
 | they led | **<big>[[G0321\|ανήγαγον]]</big>** |
 | them | **<big>[[G1473\|αυτούς]]</big>** |
 | into | **<big>[[G1519\|εις]]</big>** |
-| Emek Achor. | **<big>[[H6010+H5911\|Εμεκαχώρ]]</big>** |
+| Emek Achor. | **<big>[[H6010\|Εμεκαχώρ]]</big>** |
 [[Josh.7.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.23|<< Joshua 7:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.25|Joshua 7:25 >>]]</td></tr></table>
 
 

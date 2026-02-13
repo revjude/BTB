@@ -12,7 +12,7 @@ And there came men of Shechem from Shiloh, and from Samaria -- eighty men, being
 | of | **<big>[[G0575\|από]]</big>** |
 | Shechem | **<big>[[G4966\|Συχέμ]]</big>** |
 | from | **<big>[[G0575\|από]]</big>** |
-| Shiloh, | **<big>[[H78\|Συλώμ]]</big>** |
+| Shiloh, | **<big>[[H0078\|Συλώμ]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | from | **<big>[[G0575\|από]]</big>** |
 | Samaria -- | **<big>[[G4541\|Σαμαρείας]]</big>** |

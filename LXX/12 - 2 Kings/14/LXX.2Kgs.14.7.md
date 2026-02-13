@@ -11,7 +11,7 @@ He struck  Edom in Gemela -- ten thousand. And he seized  Rock in the war, and h
 | \<obj.> | **<big>[[G3588\|την]]</big>** |
 | Edom | **<big>[[H0123\|Εδώμ]]</big>** |
 | in | **<big>[[G1722\|εν]]</big>** |
-| Gemela -- | **<big>[[H1516+H4417\|Γέμελα]]</big>** |
+| Gemela -- | **<big>[[H1516\|Γέμελα]]</big>** |
 | ten | **<big>[[G1176\|δέκα]]</big>** |
 | thousand. | **<big>[[G5505\|χιλιάδας]]</big>** |
 | And | **<big>[[G2532\|και]]</big>** |

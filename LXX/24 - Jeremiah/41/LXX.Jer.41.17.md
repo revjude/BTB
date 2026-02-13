@@ -11,7 +11,7 @@ And they set out and stayed in Chimham, the one by Beth-lehem,  to go into Egypt
 | and | **<big>[[G2532\|και]]</big>** |
 | stayed | **<big>[[G2523\|εκάθισαν]]</big>** |
 | in | **<big>[[G1722\|εν]]</big>** |
-| Chimham, | **<big>[[H1628+H3643\|Βαρώθ Χαμααμ]]</big>** |
+| Chimham, | **<big>[[H1628\|Βαρώθ Χαμααμ]]</big>** |
 | the one | **<big>[[G3588\|την]]</big>** |
 | by | **<big>[[G4314\|προς]]</big>** |
 | Beth-lehem, | **<big>[[G0965\|Βηθλεέμ]]</big>** |

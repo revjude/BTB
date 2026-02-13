@@ -16,19 +16,19 @@ And they seized the two rulers of Midian --  Oreb and  Zeeb; and they killed  Or
 | Oreb | **<big>[[H6159\|Ορήβ]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | \<obj.> | **<big>[[G3588\|τον]]</big>** |
-| Zeeb; | **<big>[[H3342+H2062\|Ζηβ]]</big>** |
+| Zeeb; | **<big>[[H3342\|Ζηβ]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | they killed | **<big>[[G0615\|απέκτειναν]]</big>** |
 | \<obj.> | **<big>[[G3588\|τον]]</big>** |
 | Oreb | **<big>[[H6159\|Ορήβ]]</big>** |
 | in | **<big>[[G1722\|εν]]</big>** |
-| Sur, | **<big>[[H9840\|Σουρ]]</big>** |
+| Sur, | **<big>[[H5493\|Σουρ]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | \<obj.> | **<big>[[G3588\|τον]]</big>** |
-| Zeeb | **<big>[[H3342+H2062\|Ζηβ]]</big>** |
+| Zeeb | **<big>[[H3342\|Ζηβ]]</big>** |
 | they killed | **<big>[[G0615\|απέκτειναν]]</big>** |
 | in | **<big>[[G1722\|εν]]</big>** |
-| Jakeb Zeeb. | **<big>[[H3342+H2062\|Ιακέβ Ζηβ]]</big>** |
+| Jakeb Zeeb. | **<big>[[H3342\|Ιακέβ Ζηβ]]</big>** |
 | And | **<big>[[G2532\|και]]</big>** |
 | they pursued | **<big>[[G2614\|κατεδίωξαν]]</big>** |
 | \<obj.> | **<big>[[G3588\|την]]</big>** |
@@ -38,7 +38,7 @@ And they seized the two rulers of Midian --  Oreb and  Zeeb; and they killed  Or
 | head | **<big>[[G2776\|κεφαλήν]]</big>** |
 | of Oreb, | **<big>[[H6159\|Ορήβ]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
-| of Zeeb | **<big>[[H3342+H2062\|Ζηβ]]</big>** |
+| of Zeeb | **<big>[[H3342\|Ζηβ]]</big>** |
 | they brought | **<big>[[G5342\|ήνεγκαν]]</big>** |
 | to | **<big>[[G4314\|προς]]</big>** |
 | Gideon | **<big>[[G1066\|Γεδεών]]</big>** |

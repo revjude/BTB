@@ -9,7 +9,7 @@
 | \[the\] king | **<big>[[G0935\|βασιλέα]]</big>** |
 | of Dor | **<big>[[H1756\|Αδώρ]]</big>** |
 | \<obj.> | **<big>[[G3588\|του]]</big>** |
-| of Nephedor, | **<big>[[H5299b+H1756\|Ναφαθδώρ]]</big>** |
+| of Nephedor, | **<big>[[H5299b\|Ναφαθδώρ]]</big>** |
 | one; | **<big>[[G1520\|ένα]]</big>** |
 | \[the\] king | **<big>[[G0935\|βασιλέα]]</big>** |
 | of Goim | **<big>[[H1471a\|Γωείμ]]</big>** |

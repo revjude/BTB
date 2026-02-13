@@ -11,7 +11,7 @@ And of the sons of Benjamin -- Sallu son of Meshullam, son of Hodaviah, son of H
 | the | **<big>[[G3588\|των]]</big>** |
 | sons | **<big>[[G5207\|υιών]]</big>** |
 | of Benjamin -- | **<big>[[G0958\|Βενιαμίν]]</big>** |
-| Sallu | **<big>[[H7975d\|Σαλώ]]</big>** |
+| Sallu | **<big>[[H7975b\|Σαλώ]]</big>** |
 | son | **<big>[[G5207\|υιός]]</big>** |
 | of Meshullam, | **<big>[[H4918\|Μοσολλάμ]]</big>** |
 | son | **<big>[[G5207\|υιόυ]]</big>** |

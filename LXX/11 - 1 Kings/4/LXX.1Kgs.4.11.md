@@ -9,7 +9,7 @@ All Nephador \[belonged to the\] son of Abinadab, Taphath daughter of Solomon wa
 | \[belonged to the\] son | **<big>[[G5207\|υιόυ]]</big>** |
 | of Abinadab | **<big>[[H0041\|Αβιναδάβ]]</big>** |
 | All | **<big>[[G3956\|πάσα]]</big>** |
-| Nephador | **<big>[[H5299b+H1756\|Νεφθδώρ]]</big>** |
+| Nephador | **<big>[[H5299b\|Νεφθδώρ]]</big>** |
 | Taphath | **<big>[[H2955\|Ταφάθ]]</big>** |
 | daughter | **<big>[[G2364\|θυγάτηρ]]</big>** |
 | of Solomon | **<big>[[G4672\|Σολομώντος]]</big>** |
