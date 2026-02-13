@@ -53,8 +53,6 @@
 
 - In asking for a king [[1Sam.12.16|1Sa 12:16]]-[[1Sam.12.20|20]]
 
-- In the time of Asa, by the preaching of [[PrAzar.1.2|Azariah 2]]Ch 15:1-15
-
 - By the preaching of Oded [[2Chr.28.9|2Ch 28:9]]-[[2Chr.28.15|15]]
 
 - Under the influence of Hezekiah [[2Chr.30.11|2Ch 30:11]]

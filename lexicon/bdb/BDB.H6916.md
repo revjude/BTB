@@ -4,7 +4,7 @@
 
 **Qal 1.** ==be kindled:== ***Perfect*** 3 feminine singular<span class="bdbLangHebrew">‎אֵשׁ קָֽדְחָה בְּאַפִּי‎</span> [[Deut.32.22|Deut 32:22]]; [[Jer.15.14|Jer 15:14]]; [[Jer.15.14|Jer 15:14]]; [[Jer.17.4|Jer 17:4]] (reading<span class="bdbLangHebrew">‎קָֽדְחָה‎</span> for <span class="bdbLangHebrew">‎קְדַחְתֶּם‎</span>), all of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>'s wrath. 
 
-**2.** active ***kindle; Infinitive construct*** <span class="bdbLangHebrew">‎כִּקְדֹחַ‎</span> <span class="bdbLangHebrew">‎אֵשׁ הֲמָסִים‎</span> [[Isa.64.1|Isa 64:1]] (see [<span class="bdbLangHebrew">‎הֶמֶס‎</span>]); Participle<span class="bdbLangHebrew">‎קֹדְחֵי אֵשׁ‎</span> [[Isa.50.11|Isa 50:11]]. 
+**2.** active ***kindle; Infinitive construct*** <span class="bdbLangHebrew">‎כִּקְדֹחַ‎</span> <span class="bdbLangHebrew">‎אֵשׁ הֲמָסִים‎</span> [[Isa.64.2|Isa 64:1]]**\*** (see [<span class="bdbLangHebrew">‎הֶמֶס‎</span>]); Participle<span class="bdbLangHebrew">‎קֹדְחֵי אֵשׁ‎</span> [[Isa.50.11|Isa 50:11]]. 
 
 
 
@@ -14,7 +14,7 @@
 | - | - |
 | Exodus | [[Exod.30.24\|30:24]] |
 | Deuteronomy | [[Deut.32.22\|32:22]] |
-| Isaiah | [[Isa.50.11\|50:11]] · [[Isa.64.1\|64:1]] |
+| Isaiah | [[Isa.50.11\|50:11]] · [[Isa.64.2\|64:1]]**\*** |
 | Jeremiah | [[Jer.15.14\|15:14]] · [[Jer.17.4\|17:4]] |
 | Ezekiel | [[Ezek.27.19\|27:19]] |
 

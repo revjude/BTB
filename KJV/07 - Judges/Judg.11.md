@@ -35,7 +35,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Judg.11.34|34]]**<span class=
 
 [^8]: Heb. from the face of
 
-[^9]: Probably the same as Ish-Tob; and appears to have been a part of Syria, near Zobah, Rehob, and Maachah, east of Jordan, and in the most northern part of the portion of Manasseh. If so, it could not be far from Gilead, the country of Jephthah. This country is called Tobie or Tubin, [[1Macc.5|1Macc 5:13]]; and the Jews who inhabited this district Tubieni, [[2Macc.12|2Macc 12:17]]. [[2Sam.10|2Sam 10:6]].
+[^9]: Probably the same as Ish-Tob; and appears to have been a part of Syria, near Zobah, Rehob, and Maachah, east of Jordan, and in the most northern part of the portion of Manasseh. If so, it could not be far from Gilead, the country of Jephthah. This country is called Tobie or Tubin, 1Macc 5:13; and the Jews who inhabited this district Tubieni, 2Macc 12:17. [[2Sam.10|2Sam 10:6]].
 
 [^10]: [[Judg.9|Judg 9:4]]; [[1Sam.22|1Sam 22:2]], [[1Sam.27|1Sam 27:2]], [[1Sam.30|1Sam 30:22-24]]; [[Job.30|Job 30:1-10]]; [[Acts.17|Acts 17:5]]
 

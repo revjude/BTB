@@ -9,7 +9,7 @@ $\quad$ $\quad$ **c.** ***uplifting*** of hands (<span class="bdbLangHebrew">‎
 
 **3.** ***burden*** [[Zeph.3.18|Zeph 3:18]] (of reproach, figurative). 
 
-**4. a.** ***portion*** (carried to some one), especially from table of king or superior, [[Gen.43.34|Gen 43:34]] (3 t. in verse) ([[BDB#J|J]]; on custom see [[BDB#Di|Di]] and references), [[2Sam.11.8|2Sam 11:8]] so read perhaps also [[2Sam.19.43|2Sam 19:43]] (for [[BDB#MT|ᵑ0]] <span class="bdbLangHebrew">‎נִשֵּׂאת‎</span>) [[BDB#Gr|Gr]] [[BDB#HPS|HPS]]. 
+**4. a.** ***portion*** (carried to some one), especially from table of king or superior, [[Gen.43.34|Gen 43:34]] (3 t. in verse) ([[BDB#J|J]]; on custom see [[BDB#Di|Di]] and references), [[2Sam.11.8|2Sam 11:8]] so read perhaps also [[2Sam.19.42|2Sam 19:43]]**\*** (for [[BDB#MT|ᵑ0]] <span class="bdbLangHebrew">‎נִשֵּׂאת‎</span>) [[BDB#Gr|Gr]] [[BDB#HPS|HPS]]. 
 $\quad$ $\quad$ **b.** perhaps also more generally, ***present, largess*** from a superior [[Jer.40.5|Jer 40:5]] ( + <span class="bdbLangHebrew">‎אֲרֻחָה‎</span> ***food-allowance***), [[Esth.2.18|Esth 2:18]] (<span class="bdbLangHebrew">‎כְּיַד הַמֶּלֶךְ‎</span>). 
 $\quad$ $\quad$ **c.** exacted or enforced ***gift***, from inferior, <span class="bdbLangHebrew">‎בַּר‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> [[Amos.5.11|Amos 5:11]] (compare Phoenician above; see also  <span class="bdbLangHebrew">‎מנחה‎</span>). 
 $\quad$ $\quad$ **d.** sacred ***contribution, tax*** <span class="bdbLangHebrew">‎משֶׁה‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> (<span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>) <span class="bdbLangHebrew">‎עֶבֶד‎</span> [[2Chr.24.6|2Chr 24:6]]; [[2Chr.24.9|2Chr 24:9]]. 
@@ -23,7 +23,7 @@ $\quad$ $\quad$ **e.** ***offering*** to <span class="bdbLangHebrew">‎׳‎</s
 | - | - |
 | Genesis | [[Gen.43.34\|43:34]] |
 | Judges | [[Judg.20.38\|20:38]] · [[Judg.20.40\|20:40]] |
-| 2 Samuel | [[2Sam.11.8\|11:8]] · [[2Sam.19.43\|19:43]] |
+| 2 Samuel | [[2Sam.11.8\|11:8]] · [[2Sam.19.42\|19:43]]**\*** |
 | 2 Chronicles | [[2Chr.24.6\|24:6]] · [[2Chr.24.9\|24:9]] |
 | Esther | [[Esth.2.18\|2:18]] |
 | Psalms | [[Ps.141.2\|141:2]] |

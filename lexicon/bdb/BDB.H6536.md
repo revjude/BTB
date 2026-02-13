@@ -5,7 +5,7 @@
 
 **1.** with accusative <span class="bdbLangHebrew">‎פַּרְסָה‎</span> ***divide hoof***, i.e. have divided hoof (&gt; denominative ***have hoofs***, [[Deut.14.6|Deut 14:6]]; [[Deut.14.7|Deut 14:7]]; [[Deut.14.8|Deut 14:8]] and \|\| [[Lev.11.3|Lev 11:3]]; [[Lev.11.4|Lev 11:4]]; [[Lev.11.5|Lev 11:5]]; [[Lev.11.6|Lev 11:6]]; [[Lev.11.7|Lev 11:7]], so also [[Lev.11.26|Lev 11:26]] <span class="bdbLangHebrew">‎מַפְרִיסֵי‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎הַפ‎</span> [[Deut.14.7|Deut 14:7]] = <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מַפְרִסֵי הַפ‎</span> [[Lev.11.4|Lev 11:4]] ([[BDB#H|H]]). 
 
-**2.** participle absolute denominative [[Ps.69.32|Ps 69:32]] ***having hoofs*** (+ <span class="bdbLangHebrew">‎מַקְרִן‎</span>). 
+**2.** participle absolute denominative [[Ps.69.31|Ps 69:32]]**\*** ***having hoofs*** (+ <span class="bdbLangHebrew">‎מַקְרִן‎</span>). 
 
 
 
@@ -15,7 +15,7 @@
 | - | - |
 | Leviticus | [[Lev.11.3\|11:3]] · [[Lev.11.4\|11:4]] · [[Lev.11.5\|11:5]] · [[Lev.11.6\|11:6]] · [[Lev.11.7\|11:7]] · [[Lev.11.26\|11:26]] |
 | Deuteronomy | [[Deut.14.6\|14:6]] · [[Deut.14.7\|14:7]] · [[Deut.14.8\|14:8]] |
-| Psalms | [[Ps.69.32\|69:32]] |
+| Psalms | [[Ps.69.31\|69:32]]**\*** |
 | Isaiah | [[Isa.58.7\|58:7]] |
 | Jeremiah | [[Jer.16.7\|16:7]] |
 | Lamentations | [[Lam.4.4\|4:4]] |

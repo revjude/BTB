@@ -10,7 +10,7 @@
 
 **2.** in southern Judah, <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎עַיִן וְר‎</span> [[Josh.15.32|Josh 15:32]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎עַיִן ר‎</span> [[Josh.19.7|Josh 19:7]] (both [[BDB#P|P]]), [[1Chr.4.32|1Chr 4:32]] = <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ר‎</span> [[Zech.14.10|Zech 14:10]] <span class="bdbLangGreek">Ρεμμων[θ],</span> etc.; see  <span class="bdbLangHebrew">‎עַיִן‎</span> **2**, p. 745, and <span class="bdbLangHebrew">‎עֵין רִמּוֺן‎</span>. 
 
-**3.** in Zebulun [[Josh.19.13|Josh 19:13]] (<span class="bdbLangGreek">Ρεμμωνα</span>(<span class="bdbLangGreek">μ</span>)), = <span class="bdbLangHebrew">‎רִמּוֺנוֺ‎</span> [[1Chr.6.62|1Chr 6:62]] (<span class="bdbLangGreek">Ρεμμων</span>); + [[Josh.21.35|Josh 21:35]] (read <span class="bdbLangHebrew">‎רִמֹּנָה‎</span> for <span class="bdbLangHebrew">‎דִּמְנָה‎</span> [[BDB#Di|Di]] [[BDB#Benn|Benn]] [[BDB#Steuern|Steuern]]); modern ***Rummâne***, approximately 6 miles east of north from Nazareth ([[BDB#Buhl|Buhl]]<sup>G 221</sup>). 
+**3.** in Zebulun [[Josh.19.13|Josh 19:13]] (<span class="bdbLangGreek">Ρεμμωνα</span>(<span class="bdbLangGreek">μ</span>)), = <span class="bdbLangHebrew">‎רִמּוֺנוֺ‎</span> [[1Chr.6.77|1Chr 6:62]]**\*** (<span class="bdbLangGreek">Ρεμμων</span>); + [[Josh.21.35|Josh 21:35]] (read <span class="bdbLangHebrew">‎רִמֹּנָה‎</span> for <span class="bdbLangHebrew">‎דִּמְנָה‎</span> [[BDB#Di|Di]] [[BDB#Benn|Benn]] [[BDB#Steuern|Steuern]]); modern ***Rummâne***, approximately 6 miles east of north from Nazareth ([[BDB#Buhl|Buhl]]<sup>G 221</sup>). 
 
 
 
@@ -22,6 +22,6 @@
 | Judges | [[Judg.2\|Chapter 2]] · [[Judg.20.45\|20:45]] · [[Judg.20.47\|20:47]] · [[Judg.21.13\|21:13]] |
 | 2 Samuel | [[2Sam.4.2\|4:2]] · [[2Sam.4.5\|4:5]] · [[2Sam.4.9\|4:9]] |
 | 2 Kings | [[2Kgs.5.18\|5:18]] |
-| 1 Chronicles | [[1Chr.4.32\|4:32]] · [[1Chr.6.62\|6:62]] |
+| 1 Chronicles | [[1Chr.4.32\|4:32]] · [[1Chr.6.77\|6:62]]**\*** |
 | Zechariah | [[Zech.14.10\|14:10]] |
 

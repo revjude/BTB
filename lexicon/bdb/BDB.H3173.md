@@ -2,9 +2,9 @@
 
 **1.** ***only one***, especially of an only son, [[Gen.22.2|Gen 22:2]]; [[Gen.22.12|Gen 22:12]]; [[Gen.22.16|Gen 22:16]] <span class="bdbLangHebrew">‎את בנך את יְחִידְךָ‎</span> thy son, thine ***only one***, <span class="bdbLangHebrew">‎אֵבֶל יָחִיד‎</span> [[Amos.8.10|Amos 8:10]]; [[Jer.6.26|Jer 6:26]] mourning for ***an only son***, <span class="bdbLangHebrew">‎כמספד על היחיד‎</span> [[Zech.12.10|Zech 12:10]]; [[Prov.4.3|Prov 4:3]] <span class="bdbLangHebrew">‎רַךְ וְיָחִיד לפני אמי‎</span>; so feminine <span class="bdbLangHebrew">‎יְחִידָה‎</span> [[Judg.11.34|Judg 11:34]]. 
 
-**2.** feminine <span class="bdbLangHebrew">‎יְחִידָה‎</span> as substantive [[Ps.22.21|Ps 22:21]]; [[Ps.35.17|Ps 35:17]] <span class="bdbLangHebrew">‎יְחִידָתִי‎</span> my ***only one***, poetic for ***my life***, as the one unique and priceless possession which can never be replaced (in each \|\| <span class="bdbLangHebrew">‎נַפְשִׁי‎</span>). 
+**2.** feminine <span class="bdbLangHebrew">‎יְחִידָה‎</span> as substantive [[Ps.22.20|Ps 22:21]]**\***; [[Ps.35.17|Ps 35:17]] <span class="bdbLangHebrew">‎יְחִידָתִי‎</span> my ***only one***, poetic for ***my life***, as the one unique and priceless possession which can never be replaced (in each \|\| <span class="bdbLangHebrew">‎נַפְשִׁי‎</span>). 
 
-**3.** ***solitary***, [[Ps.25.16|Ps 25:16]] <span class="bdbLangHebrew">‎כי יחיד ועני אני‎</span>; [[Ps.68.7|Ps 68:7]] <span class="bdbLangHebrew">‎מוֺשִׁיב יְחִידִים בַּיְתָה‎</span> causing ***solitary, isolated*** ones (i.e. friendless wanderers or exiles; \|\| <span class="bdbLangHebrew">‎אֲסִירִים‎</span>) to dwell at home ([[BDB#Lag|Lag]] [[BDB#Che|Ch]] and others <span class="bdbLangHebrew">‎מֵשִׁיב‎</span> ***bringing back*** home). 
+**3.** ***solitary***, [[Ps.25.16|Ps 25:16]] <span class="bdbLangHebrew">‎כי יחיד ועני אני‎</span>; [[Ps.68.6|Ps 68:7]]**\*** <span class="bdbLangHebrew">‎מוֺשִׁיב יְחִידִים בַּיְתָה‎</span> causing ***solitary, isolated*** ones (i.e. friendless wanderers or exiles; \|\| <span class="bdbLangHebrew">‎אֲסִירִים‎</span>) to dwell at home ([[BDB#Lag|Lag]] [[BDB#Che|Ch]] and others <span class="bdbLangHebrew">‎מֵשִׁיב‎</span> ***bringing back*** home). 
 
 
 
@@ -14,7 +14,7 @@
 | - | - |
 | Genesis | [[Gen.22.2\|22:2]] · [[Gen.22.12\|22:12]] · [[Gen.22.16\|22:16]] |
 | Judges | [[Judg.11.34\|11:34]] |
-| Psalms | [[Ps.22.21\|22:21]] · [[Ps.25.16\|25:16]] · [[Ps.35.17\|35:17]] · [[Ps.68.7\|68:7]] |
+| Psalms | [[Ps.22.20\|22:21]]**\*** · [[Ps.25.16\|25:16]] · [[Ps.35.17\|35:17]] · [[Ps.68.6\|68:7]]**\*** |
 | Proverbs | [[Prov.4.3\|4:3]] |
 | Jeremiah | [[Jer.6.26\|6:26]] |
 | Amos | [[Amos.8.10\|8:10]] |

@@ -4,7 +4,7 @@
 
 **2.** name in Judah [[1Chr.4.4|1Chr 4:4]], <span class="bdbLangGreek">Αζηρ</span>, <span class="bdbLangGreek">Εζερ</span>. 
 
-**3.** hero of David [[1Chr.12.10|1Chr 12:10]] ([[BDB#van d.H.|van d. H.]] v.[[1Chr.12.9|1Chr 12:9]]), <span class="bdbLangGreek">Αζερ</span>, etc. 
+**3.** hero of David [[1Chr.12.9|1Chr 12:10]]**\*** ([[BDB#van d.H.|van d. H.]] v.[[1Chr.12.8|1Chr 12:9]]**\***), <span class="bdbLangGreek">Αζερ</span>, etc. 
 
 
 
@@ -12,6 +12,6 @@
 
 | Book | Refs |
 | - | - |
-| 1 Chronicles | [[1Chr.4.4\|4:4]] · [[1Chr.12.9\|12:9]] · [[1Chr.12.10\|12:10]] |
+| 1 Chronicles | [[1Chr.4.4\|4:4]] · [[1Chr.12.8\|12:9]]**\*** · [[1Chr.12.9\|12:10]]**\*** |
 | Nehemiah | [[Neh.3.19\|3:19]] |
 

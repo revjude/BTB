@@ -1,6 +1,6 @@
  [<span class="bdbLangAramaic">‎אֲנַס‎</span>] **verb** ==oppress== (Biblical Hebrew [late] ***constrain***); — 
 
-**Pe\`al** ***Participle*** <span class="bdbLangAramaic">‎אָנֵס לָ֑ךְ‎</span> [[Dan.4.6|Dan 4:6]]. 
+**Pe\`al** ***Participle*** <span class="bdbLangAramaic">‎אָנֵס לָ֑ךְ‎</span> [[Dan.4.9|Dan 4:6]]**\***. 
 
 
 
@@ -8,5 +8,5 @@
 
 | Book | Refs |
 | - | - |
-| Daniel | [[Dan.4.6\|4:6]] |
+| Daniel | [[Dan.4.9\|4:6]]**\*** |
 

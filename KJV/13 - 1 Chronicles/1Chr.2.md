@@ -191,7 +191,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.2.50|50]]**<span class="
 
 [^85]: i.e. paleness or spreading of the people, ( [[H3421|‎יׇרְקְעָם‎]] ). [[1Chr.2|1Chr 2:44]]
 
-[^86]: Beth–zur was situated in the tribe of Judah, twenty miles south from Jerusalem, towards Hebron, according to Eusebius. It was fortified by Rehoboam ([[2Chr.11|2Chr 11:7]]) and was a fortress of great consequence, principally in the time of the Maccabees. [[1Macc.4|1Macc 4:28]]; [[1Chr.6|1Chr 6:7]], etc. [[Josh.15|Josh 15:58]]
+[^86]: Beth–zur was situated in the tribe of Judah, twenty miles south from Jerusalem, towards Hebron, according to Eusebius. It was fortified by Rehoboam ([[2Chr.11|2Chr 11:7]]) and was a fortress of great consequence, principally in the time of the Maccabees. 1Macc 4:28; [[1Chr.6|1Chr 6:7]], etc. [[Josh.15|Josh 15:58]]
 
 [^87]: [[1Chr.2|1Chr 2:18-19]], [[1Chr.2|1Chr 2:48]]
 

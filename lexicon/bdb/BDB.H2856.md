@@ -3,7 +3,7 @@
 
 **Qal** ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎יַחְתֹּם‎</span> [[Job.9.7|Job 9:7]]; [[Job.33.6|Job 33:6]], <span class="bdbLangHebrew">‎יַחְתּוֺם‎</span> [[Job.37.7|Job 37:7]], <span class="bdbLangHebrew">‎וַיַּחְתֹּם‎</span> [[Esth.8.10|Esth 8:10]], etc.; ***Imperative*** <span class="bdbLangHebrew">‎חֲתֹם‎</span> [[Dan.12.4|Dan 12:4]], <span class="bdbLangHebrew">‎חֲתוֺם‎</span> [[Isa.8.16|Isa 8:16]], <span class="bdbLangHebrew">‎חִתְמוּ‎</span> [[Esth.8.8|Esth 8:8]] ***Infinitive absolute*** <span class="bdbLangHebrew">‎חָתוֺם‎</span> [[Jer.32.44|Jer 32:44]] ***construct*** <span class="bdbLangHebrew">‎לַחְתֹּם‎</span> [[Dan.9.24|Dan 9:24]], + v[[Dan.9.24|Dan 9:24]] [[BDB#Kt|Kt]] ([[BDB#Qr|Qr]] <span class="bdbLangHebrew">‎לְהָתֵם‎</span>); ***Participle active*** <span class="bdbLangHebrew">‎חוֺתֵם‎</span> [[Ezek.28.12|Ezek 28:12]] ***pass***. <span class="bdbLangHebrew">‎חָתוּם‎</span> [[Deut.32.24|Deut 32:24]] + 2 t., etc.; — 
 
-**1.** ***seal, affix one's seal***, in attestation; seal with king's seal (<span class="bdbLangHebrew">‎בְּחֹתָמוֺ‎</span>) [[1Kgs.21.8|1Kgs 21:8]], <span class="bdbLangHebrew">‎בְּטַבַּעַת המלך‎</span> [[Esth.8.8|Esth 8:8]]; [[Esth.8.10|Esth 8:10]] of covenant with <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>, ***attested by seal*** (passive) [[Neh.10.1|Neh 10:1]]; [[Neh.10.2|Neh 10:2]] figurative, of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> putting his seal upon (<span class="bdbLangHebrew">‎בְּ‎</span>) discipline, i.e. ratifying it, [[Job.33.16|Job 33:16]] perhaps also upon hand of man (that man may know <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>'s ways) [[Job.37.7|Job 37:7]] see [[BDB#De|De]]; [[BDB#Di|Di]] below 
+**1.** ***seal, affix one's seal***, in attestation; seal with king's seal (<span class="bdbLangHebrew">‎בְּחֹתָמוֺ‎</span>) [[1Kgs.21.8|1Kgs 21:8]], <span class="bdbLangHebrew">‎בְּטַבַּעַת המלך‎</span> [[Esth.8.8|Esth 8:8]]; [[Esth.8.10|Esth 8:10]] of covenant with <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>, ***attested by seal*** (passive) [[Neh.9.38|Neh 10:1]]**\***; [[Neh.10.1|Neh 10:2]]**\*** figurative, of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> putting his seal upon (<span class="bdbLangHebrew">‎בְּ‎</span>) discipline, i.e. ratifying it, [[Job.33.16|Job 33:16]] perhaps also upon hand of man (that man may know <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>'s ways) [[Job.37.7|Job 37:7]] see [[BDB#De|De]]; [[BDB#Di|Di]] below 
 
 **2.** ***seal up*** hand of man, so that he cannot work with it (in winter). 
 
@@ -20,7 +20,7 @@
 | Leviticus | [[Lev.15.3\|15:3]] |
 | Deuteronomy | [[Deut.32.24\|32:24]] · [[Deut.32.34\|32:34]] |
 | 1 Kings | [[1Kgs.21.8\|21:8]] |
-| Nehemiah | [[Neh.10.1\|10:1]] · [[Neh.10.2\|10:2]] |
+| Nehemiah | [[Neh.9.38\|10:1]]**\*** · [[Neh.10.1\|10:2]]**\*** |
 | Esther | [[Esth.3.12\|3:12]] · [[Esth.8.8\|8:8]] · [[Esth.8.10\|8:10]] |
 | Job | [[Job.9.7\|9:7]] · [[Job.14.17\|14:17]] · [[Job.24.16\|24:16]] · [[Job.33.6\|33:6]] · [[Job.33.16\|33:16]] · [[Job.37.7\|37:7]] |
 | Song of Solomon | [[Song.4.12\|4:12]] |

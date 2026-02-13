@@ -2,7 +2,7 @@
 
 **1.** of animals, as material, <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎אַדֶּרֶת שׂ‎</span> [[Gen.25.5|Gen 25:5]] ([[BDB#J|J]]), [[Zech.13.4|Zech 13:4]] probably also <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎אִישׁ בַּעַל שׂ‎</span> [[2Kgs.1.8|2Kgs 1:8]] i.e. a man with a garment of skin. 
 
-**2.** human: <span class="bdbLangHebrew">‎ראֹשׁוֺ‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שׂ‎</span> [[Judg.16.22|Judg 16:22]]; [[2Sam.14.26|2Sam 14:26]]; [[Num.6.5|Num 6:5]] ([[BDB#P|P]]), compare v[[Num.6.18|Num 6:18]] ([[BDB#P|P]]); + beard [[Ezra.9.3|Ezra 9:3]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎קָדְקֹד שׂ‎</span> [[Ps.68.22|Ps 68:22]] including head, beard, eyebrows [[Lev.14.8|Lev 14:8]]; [[Lev.14.9|Lev 14:9]]; [[Lev.14.10|Lev 14:10]] ([[BDB#P|P]]); <span class="bdbLangHebrew">‎הָרַגְלַיִם‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שׂ‎</span> [[Isa.7.20|Isa 7:20]] (i.e. of genitals; + <span class="bdbLangHebrew">‎ראֹשׁ‎</span>, <span class="bdbLangHebrew">‎זָקָן‎</span>; in figure) long ***hair*** of woman [[Ezek.16.7|Ezek 16:7]]; [[Song.4.1|Song 4:1]]; [[Song.6.5|Song 6:5]] ***hair*** of skin in (leprosy-)marks [[Lev.13.3|Lev 13:3]] + 10 t. 13 ([[BDB#P|P]]). 
+**2.** human: <span class="bdbLangHebrew">‎ראֹשׁוֺ‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שׂ‎</span> [[Judg.16.22|Judg 16:22]]; [[2Sam.14.26|2Sam 14:26]]; [[Num.6.5|Num 6:5]] ([[BDB#P|P]]), compare v[[Num.6.18|Num 6:18]] ([[BDB#P|P]]); + beard [[Ezra.9.3|Ezra 9:3]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎קָדְקֹד שׂ‎</span> [[Ps.68.21|Ps 68:22]]**\*** including head, beard, eyebrows [[Lev.14.8|Lev 14:8]]; [[Lev.14.9|Lev 14:9]]; [[Lev.14.10|Lev 14:10]] ([[BDB#P|P]]); <span class="bdbLangHebrew">‎הָרַגְלַיִם‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שׂ‎</span> [[Isa.7.20|Isa 7:20]] (i.e. of genitals; + <span class="bdbLangHebrew">‎ראֹשׁ‎</span>, <span class="bdbLangHebrew">‎זָקָן‎</span>; in figure) long ***hair*** of woman [[Ezek.16.7|Ezek 16:7]]; [[Song.4.1|Song 4:1]]; [[Song.6.5|Song 6:5]] ***hair*** of skin in (leprosy-)marks [[Lev.13.3|Lev 13:3]] + 10 t. 13 ([[BDB#P|P]]). 
 
 
 
@@ -17,7 +17,7 @@
 | 2 Samuel | [[2Sam.14.26\|14:26]] |
 | 2 Kings | [[2Kgs.1.8\|1:8]] |
 | Ezra | [[Ezra.9.3\|9:3]] |
-| Psalms | [[Ps.68.22\|68:22]] |
+| Psalms | [[Ps.68.21\|68:22]]**\*** |
 | Song of Solomon | [[Song.4.1\|4:1]] · [[Song.6.5\|6:5]] |
 | Isaiah | [[Isa.7.20\|7:20]] |
 | Ezekiel | [[Ezek.16.7\|16:7]] |

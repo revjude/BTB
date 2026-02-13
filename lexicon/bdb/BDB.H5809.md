@@ -5,7 +5,7 @@
 
 **2.** <span class="bdbLangHebrew">‎עַזֻּר‎</span> [[Ezek.11.1|Ezek 11:1]] 
 
-**3.** a chief of people [[Neh.10.18|Neh 10:18]]. 
+**3.** a chief of people [[Neh.10.17|Neh 10:18]]**\***. 
 
 
 
@@ -13,7 +13,7 @@
 
 | Book | Refs |
 | - | - |
-| Nehemiah | [[Neh.10.18\|10:18]] |
+| Nehemiah | [[Neh.10.17\|10:18]]**\*** |
 | Jeremiah | [[Jer.28.1\|28:1]] |
 | Ezekiel | [[Ezek.11.1\|11:1]] |
 

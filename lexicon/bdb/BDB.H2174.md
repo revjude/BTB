@@ -2,7 +2,7 @@
 
 **1.** a Simeonite [[Num.25.14|Num 25:14]] ([[BDB#P|P]]). 
 
-**2.** grandson of Judah [[2Chr.2.6|2Chr 2:6]] (app. = <span class="bdbLangHebrew">‎זַבְדִּי‎</span> [[Josh.7.1|Josh 7:1]] q. v.) 
+**2.** grandson of Judah [[2Chr.2.7|2Chr 2:6]]**\*** (app. = <span class="bdbLangHebrew">‎זַבְדִּי‎</span> [[Josh.7.1|Josh 7:1]] q. v.) 
 
 **3.** king of Israel before Omri [[1Kgs.16.9|1Kgs 16:9]]; [[1Kgs.16.10|1Kgs 16:10]]; [[1Kgs.16.12|1Kgs 16:12]]; [[1Kgs.16.15|1Kgs 16:15]]; [[1Kgs.16.16|1Kgs 16:16]]; [[1Kgs.16.18|1Kgs 16:18]]; [[1Kgs.16.20|1Kgs 16:20]]; [[2Kgs.9.31|2Kgs 9:31]]. 
 
@@ -21,6 +21,6 @@
 | 1 Kings | [[1Kgs.16.9\|16:9]] · [[1Kgs.16.10\|16:10]] · [[1Kgs.16.12\|16:12]] · [[1Kgs.16.15\|16:15]] · [[1Kgs.16.16\|16:16]] · [[1Kgs.16.18\|16:18]] · [[1Kgs.16.20\|16:20]] |
 | 2 Kings | [[2Kgs.9.31\|9:31]] |
 | 1 Chronicles | [[1Chr.8.36\|8:36]] · [[1Chr.9.42\|9:42]] |
-| 2 Chronicles | [[2Chr.2.6\|2:6]] |
+| 2 Chronicles | [[2Chr.2.7\|2:6]]**\*** |
 | Jeremiah | [[Jer.25.25\|25:25]] |
 

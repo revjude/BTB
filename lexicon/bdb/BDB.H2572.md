@@ -2,7 +2,7 @@
 
 **1.** absolute 
 $\quad$ $\quad$ **a.** ***a fifty***, a company of fifty [[Exod.18.21|Exod 18:21]]; [[Exod.18.25|Exod 18:25]]; [[Deut.1.15|Deut 1:15]]; [[1Sam.8.12|1Sam 8:12]]; [[2Kgs.1.9|2Kgs 1:9]] (twice in verse) + 13 t. [[2Kgs.1|2Kgs 1]] (in v[[2Kgs.1.14|2Kgs 1:14]] = ***fifties***), [[Isa.3.3|Isa 3:3]]. 
-$\quad$ $\quad$ **b.** elsewhere, without noun expressed, (1) without other numeral [[Num.31.30|Num 31:30]]; [[Num.31.47|Num 31:47]]; [[Ezek.27.18|Ezek 27:18]] (twice in verse); [[Hag.2.16|Hag 2:16]] (2) with other number <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ח‎</span> preceding [[Exod.30.23|Exod 30:23]] (twice in verse) + 11 t.; + [[1Chr.12.34|1Chr 12:34]] [[BDB#Baer|Baer]], [[BDB#van d.H.|van d. H.]] v.[[1Chr.12.33|1Chr 12:33]] (followed by <span class="bdbLangHebrew">‎אלף‎</span>); (3) <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ח‎</span> following [[Exod.38.26|Exod 38:26]] + 10 t.; (4) <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ח‎</span> between other number [[Num.1.23|Num 1:23]] + 23 t. 
+$\quad$ $\quad$ **b.** elsewhere, without noun expressed, (1) without other numeral [[Num.31.30|Num 31:30]]; [[Num.31.47|Num 31:47]]; [[Ezek.27.18|Ezek 27:18]] (twice in verse); [[Hag.2.16|Hag 2:16]] (2) with other number <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ח‎</span> preceding [[Exod.30.23|Exod 30:23]] (twice in verse) + 11 t.; + [[1Chr.12.33|1Chr 12:34]]**\*** [[BDB#Baer|Baer]], [[BDB#van d.H.|van d. H.]] v.[[1Chr.12.32|1Chr 12:33]]**\*** (followed by <span class="bdbLangHebrew">‎אלף‎</span>); (3) <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ח‎</span> following [[Exod.38.26|Exod 38:26]] + 10 t.; (4) <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ח‎</span> between other number [[Num.1.23|Num 1:23]] + 23 t. 
 
 **2.** <span class="bdbLangHebrew">‎חֲמִשִּׁים‎</span> without other number: 
 $\quad$ $\quad$ **a.** before noun [[Gen.6.15|Gen 6:15]] + 58 t. + <span class="bdbLangHebrew">‎בָּאַמָּה‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ח‎</span> [[Exod.38.12|Exod 38:12]]. 
@@ -34,7 +34,7 @@ $\quad$ $\quad$ **b.** noun repeated e.g. [[Gen.9.28|Gen 9:28]]; [[Gen.9.29|Gen 
 | 1 Samuel | [[1Sam.8.12\|8:12]] |
 | 2 Samuel | [[2Sam.24.24\|24:24]] |
 | 2 Kings | [[2Kgs.1\|Chapter 1]] · [[2Kgs.1.9\|1:9]] · [[2Kgs.1.10\|1:10]] · [[2Kgs.1.12\|1:12]] · [[2Kgs.1.14\|1:14]] · [[2Kgs.15.23\|15:23]] · [[2Kgs.15.27\|15:27]] |
-| 1 Chronicles | [[1Chr.5.21\|5:21]] · [[1Chr.8.40\|8:40]] · [[1Chr.12.33\|12:33]] · [[1Chr.12.34\|12:34]] |
+| 1 Chronicles | [[1Chr.5.21\|5:21]] · [[1Chr.8.40\|8:40]] · [[1Chr.12.32\|12:33]]**\*** · [[1Chr.12.33\|12:34]]**\*** |
 | Ezra | [[Ezra.8.3\|8:3]] · [[Ezra.8.26\|8:26]] |
 | Isaiah | [[Isa.3.3\|3:3]] |
 | Ezekiel | [[Ezek.27.18\|27:18]] · [[Ezek.40.25\|40:25]] · [[Ezek.40.29\|40:29]] · [[Ezek.40.33\|40:33]] · [[Ezek.45.12\|45:12]] |

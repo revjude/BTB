@@ -2,7 +2,7 @@
 
 **1.** a priest of 17th course (assigned to David's time) [[1Chr.24.15|1Chr 24:15]] [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Χηξειν</span> (16th, v[[1Chr.24.14|1Chr 24:14]]), but [[BDB#A|A]] <span class="bdbLangGreek">Ιεξειρ,</span> [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Χηξειρ.</span> 
 
-**2.** one of those sealed [[Neh.10.21|Neh 10:21]] [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Ηξειρ,</span> [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Αξηρ.</span> 
+**2.** one of those sealed [[Neh.10.20|Neh 10:21]]**\*** [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Ηξειρ,</span> [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Αξηρ.</span> 
 
 
 
@@ -12,5 +12,5 @@
 | - | - |
 | 2 Samuel | [[2Sam.4.2\|4:2]] · [[2Sam.4.5\|4:5]] · [[2Sam.4.9\|4:9]] |
 | 1 Chronicles | [[1Chr.24.14\|24:14]] · [[1Chr.24.15\|24:15]] |
-| Nehemiah | [[Neh.10.21\|10:21]] |
+| Nehemiah | [[Neh.10.20\|10:21]]**\*** |
 

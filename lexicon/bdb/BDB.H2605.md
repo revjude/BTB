@@ -4,11 +4,11 @@
 
 **2.** one of the heads of families of Nethinim [[Ezra.2.46|Ezra 2:46]] = [[Neh.7.49|Neh 7:49]]. 
 
-**3.** names of Levites [[Neh.8.7|Neh 8:7]]; [[Neh.10.11|Neh 10:11]]; [[Neh.13.3|Neh 13:3]]. 
+**3.** names of Levites [[Neh.8.7|Neh 8:7]]; [[Neh.10.10|Neh 10:11]]**\***; [[Neh.13.3|Neh 13:3]]. 
 
 **4.** chiefs of the people: 
-$\quad$ $\quad$ **a.** [[Neh.10.23|Neh 10:23]]. 
-$\quad$ $\quad$ **b.** [[Neh.10.27|Neh 10:27]]. 
+$\quad$ $\quad$ **a.** [[Neh.10.22|Neh 10:23]]**\***. 
+$\quad$ $\quad$ **b.** [[Neh.10.26|Neh 10:27]]**\***. 
 
 **5.** Benjamite name [[1Chr.8.23|1Chr 8:23]]; [[1Chr.8.38|1Chr 8:38]]; [[1Chr.9.44|1Chr 9:44]] (compare proper name, of a location <span class="bdbLangHebrew">‎בֵּית חָנָן‎</span>, Mishna <span class="bdbLangHebrew">‎כְּפַר חָנָן‎</span>). 
 
@@ -22,6 +22,6 @@ $\quad$ $\quad$ **b.** [[Neh.10.27|Neh 10:27]].
 | - | - |
 | 1 Chronicles | [[1Chr.8.23\|8:23]] · [[1Chr.8.38\|8:38]] · [[1Chr.9.44\|9:44]] · [[1Chr.11.43\|11:43]] |
 | Ezra | [[Ezra.2.46\|2:46]] |
-| Nehemiah | [[Neh.7.49\|7:49]] · [[Neh.8.7\|8:7]] · [[Neh.10.11\|10:11]] · [[Neh.10.23\|10:23]] · [[Neh.10.27\|10:27]] · [[Neh.13.3\|13:3]] |
+| Nehemiah | [[Neh.7.49\|7:49]] · [[Neh.8.7\|8:7]] · [[Neh.10.10\|10:11]]**\*** · [[Neh.10.22\|10:23]]**\*** · [[Neh.10.26\|10:27]]**\*** · [[Neh.13.3\|13:3]] |
 | Jeremiah | [[Jer.35.4\|35:4]] |
 

@@ -6,7 +6,7 @@
 
 **2.** of intoxication, with <span class="bdbLangHebrew">‎בְּ‎</span> of wine [[Isa.28.7|Isa 28:7]] <span class="bdbLangHebrew">‎מן‎</span> of wine v[[Isa.28.7|Isa 28:7]] figurative of perplexity, subject <span class="bdbLangHebrew">‎לבב‎</span> [[Isa.21.4|Isa 21:4]]. 
 
-**3.** ethically, absolute [[Ezek.44.10|Ezek 44:10]]; [[Ezek.48.11|Ezek 48:11]] (3 t. in verse); [[Ps.58.4|Ps 58:4]], probably [[Prov.14.22|Prov 14:22]] (compare <span class="bdbLangHebrew">‎חוטא‎</span> v[[Prov.14.21|Prov 14:21]], but [[BDB#Bu|Bu]] Toy ***go astray to ruin***); <span class="bdbLangHebrew">‎תֹּעֵי רוח‎</span> [[Isa.29.24|Isa 29:24]], <span class="bdbLangHebrew">‎תֹּעֵי לבב‎</span> [[Ps.95.10|Ps 95:10]] with <span class="bdbLangHebrew">‎מן‎</span> [[Ps.119.110|Ps 119:110]]; [[Prov.21.16|Prov 21:16]], <span class="bdbLangHebrew">‎מֵאַחֲרַי‎</span> [[Ezek.14.11|Ezek 14:11]], <span class="bdbLangHebrew">‎מֵעָלַי‎</span> [[Ezek.44.10|Ezek 44:10]]; [[Ezek.44.15|Ezek 44:15]]. 
+**3.** ethically, absolute [[Ezek.44.10|Ezek 44:10]]; [[Ezek.48.11|Ezek 48:11]] (3 t. in verse); [[Ps.58.3|Ps 58:4]]**\***, probably [[Prov.14.22|Prov 14:22]] (compare <span class="bdbLangHebrew">‎חוטא‎</span> v[[Prov.14.21|Prov 14:21]], but [[BDB#Bu|Bu]] Toy ***go astray to ruin***); <span class="bdbLangHebrew">‎תֹּעֵי רוח‎</span> [[Isa.29.24|Isa 29:24]], <span class="bdbLangHebrew">‎תֹּעֵי לבב‎</span> [[Ps.95.10|Ps 95:10]] with <span class="bdbLangHebrew">‎מן‎</span> [[Ps.119.110|Ps 119:110]]; [[Prov.21.16|Prov 21:16]], <span class="bdbLangHebrew">‎מֵאַחֲרַי‎</span> [[Ezek.14.11|Ezek 14:11]], <span class="bdbLangHebrew">‎מֵעָלַי‎</span> [[Ezek.44.10|Ezek 44:10]]; [[Ezek.44.15|Ezek 44:15]]. 
 
 **Niph\`al 1.** ***be made to wander about***, as a drunkard: ***Infinitive construct*** <span class="bdbLangHebrew">‎הִתָּעוֺת‎</span> [[Isa.19.14|Isa 19:14]]. 
 
@@ -16,7 +16,7 @@
 
 **2.** of intoxication, [[Isa.19.13|Isa 19:13]]; [[Isa.19.14|Isa 19:14]]; [[Job.12.25|Job 12:25]]. 
 
-**3.** mentally and morally: ***cause to err, mislead:*** absolute [[Isa.3.12|Isa 3:12]]; [[Isa.9.15|Isa 9:15]]; [[Hos.4.12|Hos 4:12]] with accusative of person [[Amos.2.4|Amos 2:4]]; [[Mic.3.5|Mic 3:5]]; [[2Kgs.21.9|2Kgs 21:9]] = [[2Chr.33.9|2Chr 33:9]]; [[Jer.23.13|Jer 23:13]]; [[Jer.23.32|Jer 23:32]] with <span class="bdbLangHebrew">‎ב‎</span> object [[Jer.42.20|Jer 42:20]] (so [[BDB#Gf|Gf]]; [[BDB#Ke|Ke]] and others (so [[Prov.10.17|Prov 10:17]]) intransitive ***err at cost of***; [[BDB#Sept|ᵐ5]] [[BDB#Ew|Ew]] [[BDB#Du|Du]] [[BDB#Co|Co]] <span class="bdbLangHebrew">‎הֲרֵעֹתֶם‎</span>); with <span class="bdbLangHebrew">‎מן‎</span> of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> [[Isa.63.17|Isa 63:17]]. 
+**3.** mentally and morally: ***cause to err, mislead:*** absolute [[Isa.3.12|Isa 3:12]]; [[Isa.9.16|Isa 9:15]]**\***; [[Hos.4.12|Hos 4:12]] with accusative of person [[Amos.2.4|Amos 2:4]]; [[Mic.3.5|Mic 3:5]]; [[2Kgs.21.9|2Kgs 21:9]] = [[2Chr.33.9|2Chr 33:9]]; [[Jer.23.13|Jer 23:13]]; [[Jer.23.32|Jer 23:32]] with <span class="bdbLangHebrew">‎ב‎</span> object [[Jer.42.20|Jer 42:20]] (so [[BDB#Gf|Gf]]; [[BDB#Ke|Ke]] and others (so [[Prov.10.17|Prov 10:17]]) intransitive ***err at cost of***; [[BDB#Sept|ᵐ5]] [[BDB#Ew|Ew]] [[BDB#Du|Du]] [[BDB#Co|Co]] <span class="bdbLangHebrew">‎הֲרֵעֹתֶם‎</span>); with <span class="bdbLangHebrew">‎מן‎</span> of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> [[Isa.63.17|Isa 63:17]]. 
 
 
 
@@ -29,9 +29,9 @@
 | 2 Kings | [[2Kgs.21.9\|21:9]] |
 | 2 Chronicles | [[2Chr.33.9\|33:9]] |
 | Job | [[Job.12.24\|12:24]] · [[Job.12.25\|12:25]] · [[Job.15.31\|15:31]] · [[Job.38.41\|38:41]] |
-| Psalms | [[Ps.58.4\|58:4]] · [[Ps.95.10\|95:10]] · [[Ps.107.4\|107:4]] · [[Ps.107.40\|107:40]] · [[Ps.119.110\|119:110]] · [[Ps.119.176\|119:176]] |
+| Psalms | [[Ps.58.3\|58:4]]**\*** · [[Ps.95.10\|95:10]] · [[Ps.107.4\|107:4]] · [[Ps.107.40\|107:40]] · [[Ps.119.110\|119:110]] · [[Ps.119.176\|119:176]] |
 | Proverbs | [[Prov.7.25\|7:25]] · [[Prov.10.17\|10:17]] · [[Prov.12.26\|12:26]] · [[Prov.14.21\|14:21]] · [[Prov.14.22\|14:22]] · [[Prov.21.16\|21:16]] |
-| Isaiah | [[Isa.3.12\|3:12]] · [[Isa.9.15\|9:15]] · [[Isa.16.8\|16:8]] · [[Isa.19.13\|19:13]] · [[Isa.19.14\|19:14]] · [[Isa.21.4\|21:4]] · [[Isa.28.7\|28:7]] · [[Isa.29.24\|29:24]] · [[Isa.30.28\|30:28]] · [[Isa.35.8\|35:8]] · [[Isa.47.15\|47:15]] · [[Isa.53.6\|53:6]] · [[Isa.63.17\|63:17]] |
+| Isaiah | [[Isa.3.12\|3:12]] · [[Isa.9.16\|9:15]]**\*** · [[Isa.16.8\|16:8]] · [[Isa.19.13\|19:13]] · [[Isa.19.14\|19:14]] · [[Isa.21.4\|21:4]] · [[Isa.28.7\|28:7]] · [[Isa.29.24\|29:24]] · [[Isa.30.28\|30:28]] · [[Isa.35.8\|35:8]] · [[Isa.47.15\|47:15]] · [[Isa.53.6\|53:6]] · [[Isa.63.17\|63:17]] |
 | Jeremiah | [[Jer.23.13\|23:13]] · [[Jer.23.32\|23:32]] · [[Jer.42.20\|42:20]] · [[Jer.50.6\|50:6]] |
 | Ezekiel | [[Ezek.14.11\|14:11]] · [[Ezek.44.10\|44:10]] · [[Ezek.44.15\|44:15]] · [[Ezek.48.11\|48:11]] |
 | Hosea | [[Hos.4.12\|4:12]] |

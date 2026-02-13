@@ -6,7 +6,7 @@
 $\quad$ $\quad$ **a.** king [[Ezek.31.2|Ezek 31:2]]; [[Ezek.31.18|Ezek 31:18]] 
 $\quad$ $\quad$ **b.** God [[Deut.3.24|Deut 3:24]]; [[Deut.5.21|Deut 5:21]]; [[Deut.9.26|Deut 9:26]]; [[Deut.11.2|Deut 11:2]]; [[Deut.32.3|Deut 32:3]]; [[Ps.150.2|Ps 150:2]]. 
 
-**3.** in a bad sense, <span class="bdbLangHebrew">‎גֹּדֶל לֵבָב‎</span> = ***pride, insolence of heart*** [[Isa.9.8|Isa 9:8]]; [[Isa.10.12|Isa 10:12]]. 
+**3.** in a bad sense, <span class="bdbLangHebrew">‎גֹּדֶל לֵבָב‎</span> = ***pride, insolence of heart*** [[Isa.9.9|Isa 9:8]]**\***; [[Isa.10.12|Isa 10:12]]. 
 
 
 
@@ -18,6 +18,6 @@ $\quad$ $\quad$ **b.** God [[Deut.3.24|Deut 3:24]]; [[Deut.5.21|Deut 5:21]]; [[D
 | Numbers | [[Num.14.19\|14:19]] |
 | Deuteronomy | [[Deut.3.24\|3:24]] · [[Deut.5.21\|5:21]] · [[Deut.9.26\|9:26]] · [[Deut.11.2\|11:2]] · [[Deut.32.3\|32:3]] |
 | Psalms | [[Ps.79.11\|79:11]] · [[Ps.150.2\|150:2]] |
-| Isaiah | [[Isa.9.8\|9:8]] · [[Isa.10.12\|10:12]] |
+| Isaiah | [[Isa.9.9\|9:8]]**\*** · [[Isa.10.12\|10:12]] |
 | Ezekiel | [[Ezek.31.2\|31:2]] · [[Ezek.31.7\|31:7]] · [[Ezek.31.18\|31:18]] |
 

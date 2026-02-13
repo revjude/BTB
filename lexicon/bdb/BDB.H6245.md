@@ -2,7 +2,7 @@
 
  II. [<span class="bdbLangHebrew">‎עָשַׁת‎</span>] **verb Hithpa\`el** ==think== (Aramaism: Biblical Aramaic Participle<span class="bdbLangHebrew">‎עֲשִׁית‎</span>, [[BDB#Tg|ᵑ7]] <span class="bdbLangHebrew">‎אִתְעַשַּׁת‎</span>); — 
 
-**Hithpa\`el** ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎לָנוּ‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎יִתְעַשֵּׁת א‎</span> [[Jonah.1.6|Jonah 1:6]] perhaps ***God will give a thought to us*** (compare <span class="bdbLangHebrew">‎חשׁב‎</span> [[Ps.40.18|Ps 40:18]]). 
+**Hithpa\`el** ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎לָנוּ‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎יִתְעַשֵּׁת א‎</span> [[Jonah.1.6|Jonah 1:6]] perhaps ***God will give a thought to us*** (compare <span class="bdbLangHebrew">‎חשׁב‎</span> [[Ps.40.17|Ps 40:18]]**\***). 
 
 
 
@@ -10,7 +10,7 @@
 
 | Book | Refs |
 | - | - |
-| Psalms | [[Ps.40.18\|40:18]] |
+| Psalms | [[Ps.40.17\|40:18]]**\*** |
 | Jeremiah | [[Jer.5.27\|5:27]] · [[Jer.5.28\|5:28]] |
 | Jonah | [[Jonah.1.6\|1:6]] |
 

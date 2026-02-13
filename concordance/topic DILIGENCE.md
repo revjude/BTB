@@ -71,7 +71,7 @@ Ruth [[Ruth.2.17|Ru 2:17]]
 
 - Apollos [[Acts.18.25|Ac 18:25]]
 
-- [[Titus.2|Titus 2]][[Col.8.22|Co 8:22]]
+- [[Titus.2|Titus 2]][[2Cor.8.22|2Co 8:22]]
 
 - Paul [[1Thess.2.9|1Th 2:9]]
 

@@ -10,15 +10,15 @@
 
 **5.** ***lightning*** [[Job.36.32|Job 36:32]]; [[Job.37.3|Job 37:3]]; [[Job.37.11|Job 37:11]]; [[Job.37.15|Job 37:15]] compare [[Hab.3.11|Hab 3:11]]. 
 
-**6.** ***light*** of lamp [[Prov.13.9|Prov 13:9]]; [[Jer.25.10|Jer 25:10]] of crocodile's hot breath [[Job.41.10|Job 41:10]]. 
+**6.** ***light*** of lamp [[Prov.13.9|Prov 13:9]]; [[Jer.25.10|Jer 25:10]] of crocodile's hot breath [[Job.41.18|Job 41:10]]**\***. 
 
-**7.** ***light of life*** <span class="bdbLangHebrew">‎חַיִּים‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> [[Job.33.30|Job 33:30]]; [[Ps.56.14|Ps 56:14]] compare <span class="bdbLangHebrew">‎אוֺר‎</span> [[Job.3.16|Job 3:16]]; [[Job.3.20|Job 3:20]]. 
+**7.** ***light of life*** <span class="bdbLangHebrew">‎חַיִּים‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> [[Job.33.30|Job 33:30]]; [[Ps.56.13|Ps 56:14]]**\*** compare <span class="bdbLangHebrew">‎אוֺר‎</span> [[Job.3.16|Job 3:16]]; [[Job.3.20|Job 3:20]]. 
 
 **8.** ***light of prosperity*** [[Job.22.28|Job 22:28]]; [[Job.30.26|Job 30:26]]; [[Ps.97.11|Ps 97:11]]; [[Lam.3.2|Lam 3:2]]. 
 
-**9.** ***light of instruction*** <span class="bdbLangHebrew">‎נֵר מִצְוָה וְתוֺרָה אוֺר‎</span> [[Prov.6.23|Prov 6:23]] ***the commandment*** is ***a lamp and instruction a light***; so the Messian. servant is <span class="bdbLangHebrew">‎אוֺר גּוֺיִם‎</span> [[Isa.42.6|Isa 42:6]]; [[Isa.49.6|Isa 49:6]] compare <span class="bdbLangHebrew">‎עַמִּים‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> [[Isa.51.4|Isa 51:4]] the advent of Messiah is shining of great light [[Isa.9.1|Isa 9:1]] (twice in verse). 
+**9.** ***light of instruction*** <span class="bdbLangHebrew">‎נֵר מִצְוָה וְתוֺרָה אוֺר‎</span> [[Prov.6.23|Prov 6:23]] ***the commandment*** is ***a lamp and instruction a light***; so the Messian. servant is <span class="bdbLangHebrew">‎אוֺר גּוֺיִם‎</span> [[Isa.42.6|Isa 42:6]]; [[Isa.49.6|Isa 49:6]] compare <span class="bdbLangHebrew">‎עַמִּים‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> [[Isa.51.4|Isa 51:4]] the advent of Messiah is shining of great light [[Isa.9.2|Isa 9:1]]**\*** (twice in verse). 
 
-**10.** ***light*** of face <span class="bdbLangHebrew">‎אוֺר פָּנִים‎</span> = bright, cheerful face (of men) [[Job.29.24|Job 29:24]] betokening king's favour [[Prov.16.15|Prov 16:15]] (compare <span class="bdbLangHebrew">‎עֵינַיִם‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> [[Ps.38.11|Ps 38:11]]); of God = his shining, enlightening, favouring face [[Ps.4.7|Ps 4:7]]; [[Ps.44.4|Ps 44:4]]; [[Ps.89.16|Ps 89:16]]. 
+**10.** ***light*** of face <span class="bdbLangHebrew">‎אוֺר פָּנִים‎</span> = bright, cheerful face (of men) [[Job.29.24|Job 29:24]] betokening king's favour [[Prov.16.15|Prov 16:15]] (compare <span class="bdbLangHebrew">‎עֵינַיִם‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> [[Ps.38.10|Ps 38:11]]**\***); of God = his shining, enlightening, favouring face [[Ps.4.6|Ps 4:7]]**\***; [[Ps.44.3|Ps 44:4]]**\***; [[Ps.89.15|Ps 89:16]]**\***. 
 
 **11.** Yahweh is <span class="bdbLangHebrew">‎יִשְׂרָאֵל‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎א‎</span> [[Isa.10.17|Isa 10:17]], as source enlightenment &amp; prosperity; light &amp; salvation [[Ps.27.1|Ps 27:1]] light to guide [[Mic.7.8|Mic 7:8]] compare [[Ps.43.3|Ps 43:3]] everlasting light of Zion, instead of sun &amp; moon [[Isa.60.19|Isa 60:19]]; [[Isa.60.20|Isa 60:20]] house of Jacob is to walk in his light [[Isa.2.5|Isa 2:5]]. 
 
@@ -34,10 +34,10 @@
 | 2 Samuel | [[2Sam.17.22\|17:22]] · [[2Sam.23.4\|23:4]] |
 | 2 Kings | [[2Kgs.7.9\|7:9]] |
 | Nehemiah | [[Neh.8.3\|8:3]] |
-| Job | [[Job.3.9\|3:9]] · [[Job.3.16\|3:16]] · [[Job.3.20\|3:20]] · [[Job.22.28\|22:28]] · [[Job.24.14\|24:14]] · [[Job.29.24\|29:24]] · [[Job.30.26\|30:26]] · [[Job.31.26\|31:26]] · [[Job.33.30\|33:30]] · [[Job.36.32\|36:32]] · [[Job.37.3\|37:3]] · [[Job.37.11\|37:11]] · [[Job.37.15\|37:15]] · [[Job.38.15\|38:15]] · [[Job.38.19\|38:19]] · [[Job.41.10\|41:10]] |
-| Psalms | [[Ps.4.7\|4:7]] · [[Ps.27.1\|27:1]] · [[Ps.38.11\|38:11]] · [[Ps.43.3\|43:3]] · [[Ps.44.4\|44:4]] · [[Ps.56.14\|56:14]] · [[Ps.89.16\|89:16]] · [[Ps.97.11\|97:11]] · [[Ps.136.7\|136:7]] · [[Ps.148.3\|148:3]] |
+| Job | [[Job.3.9\|3:9]] · [[Job.3.16\|3:16]] · [[Job.3.20\|3:20]] · [[Job.22.28\|22:28]] · [[Job.24.14\|24:14]] · [[Job.29.24\|29:24]] · [[Job.30.26\|30:26]] · [[Job.31.26\|31:26]] · [[Job.33.30\|33:30]] · [[Job.36.32\|36:32]] · [[Job.37.3\|37:3]] · [[Job.37.11\|37:11]] · [[Job.37.15\|37:15]] · [[Job.38.15\|38:15]] · [[Job.38.19\|38:19]] · [[Job.41.18\|41:10]]**\*** |
+| Psalms | [[Ps.4.6\|4:7]]**\*** · [[Ps.27.1\|27:1]] · [[Ps.38.10\|38:11]]**\*** · [[Ps.43.3\|43:3]] · [[Ps.44.3\|44:4]]**\*** · [[Ps.56.13\|56:14]]**\*** · [[Ps.89.15\|89:16]]**\*** · [[Ps.97.11\|97:11]] · [[Ps.136.7\|136:7]] · [[Ps.148.3\|148:3]] |
 | Proverbs | [[Prov.4.18\|4:18]] · [[Prov.6.23\|6:23]] · [[Prov.13.9\|13:9]] · [[Prov.16.15\|16:15]] |
-| Isaiah | [[Isa.2.5\|2:5]] · [[Isa.9.1\|9:1]] · [[Isa.10.17\|10:17]] · [[Isa.18.4\|18:4]] · [[Isa.30.26\|30:26]] · [[Isa.42.6\|42:6]] · [[Isa.49.6\|49:6]] · [[Isa.51.4\|51:4]] · [[Isa.60.19\|60:19]] · [[Isa.60.20\|60:20]] |
+| Isaiah | [[Isa.2.5\|2:5]] · [[Isa.9.2\|9:1]]**\*** · [[Isa.10.17\|10:17]] · [[Isa.18.4\|18:4]] · [[Isa.30.26\|30:26]] · [[Isa.42.6\|42:6]] · [[Isa.49.6\|49:6]] · [[Isa.51.4\|51:4]] · [[Isa.60.19\|60:19]] · [[Isa.60.20\|60:20]] |
 | Jeremiah | [[Jer.13.16\|13:16]] · [[Jer.25.10\|25:10]] |
 | Lamentations | [[Lam.3.2\|3:2]] |
 | Ezekiel | [[Ezek.32.8\|32:8]] |

@@ -7,12 +7,12 @@ $\quad$ $\quad$ **a.** [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Ζαρε</sp
 $\quad$ $\quad$ **b.** [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Ζαρα</span> [[Gen.36.33|Gen 36:33]] ([[BDB#P|P]]) = [[1Chr.1.44|1Chr 1:44]] (**b** = **a** ?). 
 
 **3.** [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Ζαρα</span>, Levites: 
-$\quad$ $\quad$ **a.** (variant reading <span class="bdbLangGreek">Ιααρα</span>) [[1Chr.6.6|1Chr 6:6]]. 
-$\quad$ $\quad$ **b.** (variant reading <span class="bdbLangGreek">Ζααραι</span>) [[1Chr.6.26|1Chr 6:26]]. 
+$\quad$ $\quad$ **a.** (variant reading <span class="bdbLangGreek">Ιααρα</span>) [[1Chr.6.21|1Chr 6:6]]**\***. 
+$\quad$ $\quad$ **b.** (variant reading <span class="bdbLangGreek">Ζααραι</span>) [[1Chr.6.41|1Chr 6:26]]**\***. 
 
 **4.** head of a Simeonite family, [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Ζαρα</span>) [[Num.26.13|Num 26:13]] ([[BDB#P|P]]), [[1Chr.4.24|1Chr 4:24]] (variant reading <span class="bdbLangGreek">Ζαρες</span>) (= <span class="bdbLangHebrew">‎צֹחַר‎</span> [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Σααρ</span> [[Gen.46.10|Gen 46:10]]; [[Exod.6.15|Exod 6:15]], compare [[BDB#Di|Di]] [[Num.26.13|Num 26:13]]). 
 
-**5.** a Cushite, [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Ζαρε</span>, foe of king Asa [[2Chr.14.8|2Chr 14:8]]. 
+**5.** a Cushite, [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Ζαρε</span>, foe of king Asa [[2Chr.14.9|2Chr 14:8]]**\***. 
 
 
 
@@ -24,7 +24,7 @@ $\quad$ $\quad$ **b.** (variant reading <span class="bdbLangGreek">Ζααραι<
 | Exodus | [[Exod.6.15\|6:15]] |
 | Numbers | [[Num.26.13\|26:13]] · [[Num.26.20\|26:20]] |
 | Joshua | [[Josh.7.1\|7:1]] · [[Josh.7.18\|7:18]] · [[Josh.7.24\|7:24]] · [[Josh.22.20\|22:20]] |
-| 1 Chronicles | [[1Chr.1.37\|1:37]] · [[1Chr.1.44\|1:44]] · [[1Chr.2.4\|2:4]] · [[1Chr.2.6\|2:6]] · [[1Chr.4.24\|4:24]] · [[1Chr.6.6\|6:6]] · [[1Chr.6.26\|6:26]] · [[1Chr.9.6\|9:6]] |
-| 2 Chronicles | [[2Chr.14.8\|14:8]] |
+| 1 Chronicles | [[1Chr.1.37\|1:37]] · [[1Chr.1.44\|1:44]] · [[1Chr.2.4\|2:4]] · [[1Chr.2.6\|2:6]] · [[1Chr.4.24\|4:24]] · [[1Chr.6.21\|6:6]]**\*** · [[1Chr.6.41\|6:26]]**\*** · [[1Chr.9.6\|9:6]] |
+| 2 Chronicles | [[2Chr.14.9\|14:8]]**\*** |
 | Nehemiah | [[Neh.11.24\|11:24]] |
 

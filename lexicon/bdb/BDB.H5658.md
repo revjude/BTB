@@ -8,7 +8,7 @@
 
 **3.** son of Jehiel a Gibeonite [[1Chr.8.30|1Chr 8:30]]; [[1Chr.9.36|1Chr 9:36]] [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Αβαλων</span>, <span class="bdbLangGreek">Σαβαδων</span>, [[BDB#A|A]] <span class="bdbLangGreek">Αβδων</span>, <span class="bdbLangGreek">Σαβδων</span>, [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Αβδων</span>. 
 
-**4.** son of Micah [[2Chr.34.20|2Chr 34:20]], [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Αβδοδομ</span>, [[BDB#A|A]] [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Αβδων</span> (= <span class="bdbLangHebrew">‎עַכְבּוֺר‎</span> [[2Kgs.22.12|2Kgs 22:12]]). II. **proper name, of a location** ==Levitical city in Asher== [[Josh.21.30|Josh 21:30]]; [[1Chr.6.59|1Chr 6:59]], [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Δαββων</span>, <span class="bdbLangGreek">Αβαραν</span>, [[BDB#A|A]] [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Αβδων</span> (20 Manuscripts read <span class="bdbLangHebrew">‎עַבְדֹּן‎</span> [[Josh.19.28|Josh 19:28]] for <span class="bdbLangHebrew">‎עֶבְרֹן‎</span>), ***\`Abde***, [[BDB#Guérin|Guérin]]<sup>Gal 2, 37</sup> compare [[BDB#Buhl|Buhl]]<sup>Geogr. 230</sup>. 
+**4.** son of Micah [[2Chr.34.20|2Chr 34:20]], [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Αβδοδομ</span>, [[BDB#A|A]] [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Αβδων</span> (= <span class="bdbLangHebrew">‎עַכְבּוֺר‎</span> [[2Kgs.22.12|2Kgs 22:12]]). II. **proper name, of a location** ==Levitical city in Asher== [[Josh.21.30|Josh 21:30]]; [[1Chr.6.74|1Chr 6:59]]**\***, [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Δαββων</span>, <span class="bdbLangGreek">Αβαραν</span>, [[BDB#A|A]] [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Αβδων</span> (20 Manuscripts read <span class="bdbLangHebrew">‎עַבְדֹּן‎</span> [[Josh.19.28|Josh 19:28]] for <span class="bdbLangHebrew">‎עֶבְרֹן‎</span>), ***\`Abde***, [[BDB#Guérin|Guérin]]<sup>Gal 2, 37</sup> compare [[BDB#Buhl|Buhl]]<sup>Geogr. 230</sup>. 
 
 
 
@@ -28,6 +28,6 @@
 | Judges | [[Judg.12.13\|12:13]] · [[Judg.12.15\|12:15]] |
 | 1 Samuel | [[1Sam.12.11\|12:11]] |
 | 2 Kings | [[2Kgs.22.12\|22:12]] |
-| 1 Chronicles | [[1Chr.1.22\|1:22]] · [[1Chr.1.40\|1:40]] · [[1Chr.6.59\|6:59]] · [[1Chr.8.23\|8:23]] · [[1Chr.8.30\|8:30]] · [[1Chr.9.36\|9:36]] |
+| 1 Chronicles | [[1Chr.1.22\|1:22]] · [[1Chr.1.40\|1:40]] · [[1Chr.6.74\|6:59]]**\*** · [[1Chr.8.23\|8:23]] · [[1Chr.8.30\|8:30]] · [[1Chr.9.36\|9:36]] |
 | 2 Chronicles | [[2Chr.34.20\|34:20]] |
 

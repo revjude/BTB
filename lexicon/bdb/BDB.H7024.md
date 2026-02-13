@@ -1,4 +1,4 @@
- II. <span class="bdbLangHebrew">‎קִיר‎</span> in **proper name, of a location** ==of Moabite cities== (compare <span class="bdbLangHebrew">‎קר‎</span> = ***city*** [[BDB#MI|MI]]<sup>11, 12, 24</sup>, plural <span class="bdbLangHebrew">‎קרן‎</span> [[Jer.1.29|Jer 1:29]]); — [[BDB#Sept|ᵐ5]] usually omitted, or reads <span class="bdbLangGreek">τὸ τεῖχος</span>; — 
+ II. <span class="bdbLangHebrew">‎קִיר‎</span> in **proper name, of a location** ==of Moabite cities== (compare <span class="bdbLangHebrew">‎קר‎</span> = ***city*** [[BDB#MI|MI]]<sup>11, 12, 24</sup>, plural <span class="bdbLangHebrew">‎קרן‎</span> Jer 1:29); — [[BDB#Sept|ᵐ5]] usually omitted, or reads <span class="bdbLangGreek">τὸ τεῖχος</span>; — 
 
 **1.** <span class="bdbLangHebrew">‎מוֺאָב‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ק‎</span> [[Isa.15.1|Isa 15:1]], possibly ***Rabba***, south of Arnon, see [[BDB#Buhl|Buhl]]<sup>Geogr.270.</sup> 
 
@@ -20,6 +20,6 @@
 | - | - |
 | 2 Kings | [[2Kgs.3.25\|3:25]] · [[2Kgs.16.9\|16:9]] |
 | Isaiah | [[Isa.15.1\|15:1]] · [[Isa.16.7\|16:7]] · [[Isa.16.11\|16:11]] · [[Isa.22.5\|22:5]] · [[Isa.22.6\|22:6]] |
-| Jeremiah | [[Jer.1.29\|1:29]] · [[Jer.48.31\|48:31]] · [[Jer.48.36\|48:36]] |
+| Jeremiah | 1:29 · [[Jer.48.31\|48:31]] · [[Jer.48.36\|48:36]] |
 | Amos | [[Amos.1.5\|1:5]] · [[Amos.9.7\|9:7]] |
 

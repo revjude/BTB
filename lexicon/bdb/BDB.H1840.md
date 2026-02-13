@@ -2,7 +2,7 @@
 
 **1.** son of David [[1Chr.3.1|1Chr 3:1]], <span class="bdbLangHebrew">‎דָּנִיֵּאל‎</span>, but dub, compare [[BDB#Che|Che]]<sup>OP 106</sup>; [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Δαμνιηλ</span>, [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> &amp; Manuscripts <span class="bdbLangGreek">Δαλουια</span>; \|\| [[2Sam.3.3|2Sam 3:3]] <span class="bdbLangHebrew">‎כִּלְאָב‎</span>, [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Δαλουια</span>; [[BDB#Klo|Klo]]<sup>Sm</sup> proposes <span class="bdbLangHebrew">‎דֹּדִיָּה‎</span>, &amp; in Chronicles <span class="bdbLangHebrew">‎דֹּדִיאֵל‎</span>, but grounds precarious. 
 
-**2.** <span class="bdbLangHebrew">‎דָּנִיֵּאל‎</span>, priest of the line of Ithamar [[Ezra.8.2|Ezra 8:2]]; [[Neh.10.7|Neh 10:7]]. 
+**2.** <span class="bdbLangHebrew">‎דָּנִיֵּאל‎</span>, priest of the line of Ithamar [[Ezra.8.2|Ezra 8:2]]; [[Neh.10.6|Neh 10:7]]**\***. 
 
 **3.** <span class="bdbLangHebrew">‎דָּנִאֵל‎</span> a great sage [[Ezek.28.3|Ezek 28:3]] classed with Noah and Job as models of righteousness [[Ezek.14.14|Ezek 14:14]]; [[Ezek.14.20|Ezek 14:20]] perhaps the same as 
 
@@ -17,7 +17,7 @@
 | 2 Samuel | [[2Sam.3.3\|3:3]] |
 | 1 Chronicles | [[1Chr.3.1\|3:1]] |
 | Ezra | [[Ezra.8.2\|8:2]] |
-| Nehemiah | [[Neh.10.7\|10:7]] |
+| Nehemiah | [[Neh.10.6\|10:7]]**\*** |
 | Ezekiel | [[Ezek.14.14\|14:14]] · [[Ezek.14.20\|14:20]] · [[Ezek.28.3\|28:3]] |
 | Daniel | [[Dan.1.6\|1:6]] |
 

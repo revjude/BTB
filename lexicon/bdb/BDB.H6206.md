@@ -4,7 +4,7 @@
 
 **1.** ***cause to tremble*** (i.e. strike with awe) with accusative <span class="bdbLangHebrew">‎הָאָרֶץ‎</span> [[Isa.2.19|Isa 2:19]]; [[Isa.2.21|Isa 2:21]] (subject <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>; insert probably also v[[Isa.2.10|Isa 2:10]]); <span class="bdbLangHebrew">‎הֶעָלֶה נִדָּף‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎תַּע‎</span> [[Job.13.25|Job 13:25]] ***wilt thou strike with awe the driven leaf ?*** absolute ***cause trembling*** = ***inspire awe*** [[Isa.47.12|Isa 47:12]] (of Babylonian ), [[Ps.10.18|Ps 10:18]]. 
 
-**2.** intransitive ***tremble, feel dread*** ([[BDB#D|D]]), [[Deut.1.29|Deut 1:29]]; [[Deut.7.21|Deut 7:21]]; [[Deut.20.3|Deut 20:3]]; [[Deut.31.6|Deut 31:6]]; [[Josh.1.9|Josh 1:9]] with accusative [[Job.31.34|Job 31:34]] because ***I stood in awe of*** the great multitude. **Niph\`al** ***Participle*** <span class="bdbLangHebrew">‎אֵל נַעֲרָץ‎</span> [[Ps.89.8|Ps 89:8]] ***El, terrible*** in the company of the holy ones (\|\| <span class="bdbLangHebrew">‎נוֺרָא‎</span>). 
+**2.** intransitive ***tremble, feel dread*** ([[BDB#D|D]]), [[Deut.1.29|Deut 1:29]]; [[Deut.7.21|Deut 7:21]]; [[Deut.20.3|Deut 20:3]]; [[Deut.31.6|Deut 31:6]]; [[Josh.1.9|Josh 1:9]] with accusative [[Job.31.34|Job 31:34]] because ***I stood in awe of*** the great multitude. **Niph\`al** ***Participle*** <span class="bdbLangHebrew">‎אֵל נַעֲרָץ‎</span> [[Ps.89.7|Ps 89:8]]**\*** ***El, terrible*** in the company of the holy ones (\|\| <span class="bdbLangHebrew">‎נוֺרָא‎</span>). 
 
 **Hiph\`il 1.** ***regard***, or ***treat, with awe, as awful:*** 2 masculine plural <span class="bdbLangHebrew">‎וְלֹא תַעֲרִ֑יצוּ‎</span> [[Isa.8.12|Isa 8:12]] (accusative <span class="bdbLangHebrew">‎מוֺרָאוֺ‎</span>); 3 masculine plural <span class="bdbLangHebrew">‎יַעֲרִ֑יצוּ‎</span> [[Isa.29.23|Isa 29:23]] accusative <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎אֶתאֱֿלֹהֵי יִשׂ‎</span>. 
 
@@ -19,6 +19,6 @@
 | Deuteronomy | [[Deut.1.29\|1:29]] · [[Deut.7.21\|7:21]] · [[Deut.20.3\|20:3]] · [[Deut.31.6\|31:6]] |
 | Joshua | [[Josh.1.9\|1:9]] |
 | Job | [[Job.13.25\|13:25]] · [[Job.31.34\|31:34]] |
-| Psalms | [[Ps.10.18\|10:18]] · [[Ps.89.8\|89:8]] |
+| Psalms | [[Ps.10.18\|10:18]] · [[Ps.89.7\|89:8]]**\*** |
 | Isaiah | [[Isa.2.10\|2:10]] · [[Isa.2.19\|2:19]] · [[Isa.2.21\|2:21]] · [[Isa.8.12\|8:12]] · [[Isa.8.13\|8:13]] · [[Isa.29.23\|29:23]] · [[Isa.47.12\|47:12]] |
 

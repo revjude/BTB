@@ -6,7 +6,7 @@
 
 **3.** of the Persian empire [[Esth.1.1|Esth 1:1]] + often; one of which was Palestine, [[Neh.1.3|Neh 1:3]] the returning exiles, <span class="bdbLangHebrew">‎בְּנֵי הַמְּדִינָה‎</span> ***children of the province*** [[Ezra.2.1|Ezra 2:1]]; [[Neh.7.6|Neh 7:6]] having <span class="bdbLangHebrew">‎רָאשֵׁי הַמְּדִינָה‎</span> [[Neh.11.3|Neh 11:3]]. 
 
-**4.** provinces in general [[Eccl.2.8|Eccl 2:8]]; [[Eccl.5.7|Eccl 5:7]] <span class="bdbLangHebrew">‎בְּמִשְׁמַנֵּי מְדִינָה‎</span> ***in the fat places of the province*** [[Dan.11.24|Dan 11:24]] (fertile regions, probably Egypt; other translations see in [[BDB#Bev|Bev]].) 
+**4.** provinces in general [[Eccl.2.8|Eccl 2:8]]; [[Eccl.5.8|Eccl 5:7]]**\*** <span class="bdbLangHebrew">‎בְּמִשְׁמַנֵּי מְדִינָה‎</span> ***in the fat places of the province*** [[Dan.11.24|Dan 11:24]] (fertile regions, probably Egypt; other translations see in [[BDB#Bev|Bev]].) 
 
 
 
@@ -18,7 +18,7 @@
 | Ezra | [[Ezra.2.1\|2:1]] |
 | Nehemiah | [[Neh.1.3\|1:3]] · [[Neh.7.6\|7:6]] · [[Neh.11.3\|11:3]] |
 | Esther | [[Esth.1.1\|1:1]] |
-| Ecclesiastes | [[Eccl.2.8\|2:8]] · [[Eccl.5.7\|5:7]] |
+| Ecclesiastes | [[Eccl.2.8\|2:8]] · [[Eccl.5.8\|5:7]]**\*** |
 | Lamentations | [[Lam.1.1\|1:1]] |
 | Ezekiel | [[Ezek.19.8\|19:8]] |
 | Daniel | [[Dan.8.2\|8:2]] · [[Dan.11.24\|11:24]] |

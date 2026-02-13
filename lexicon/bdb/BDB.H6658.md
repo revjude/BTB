@@ -1,7 +1,7 @@
 <small>Aramaic form: **<big>[[H6656|צְדָא]]</big>**</small>
  I. <span class="bdbLangHebrew">‎צָדָה‎</span> **verb** ==lie in wait== (Late Hebrew ***id.***, rare; compare (si vera lectio) Biblical Aramaic <span class="bdbLangAramaic">‎צְדָא‎</span> [[Dan.3.14|Dan 3:14]]) — 
 
-**Qal** ***Perfect*** 3 masculine singular <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎צ‎</span> [[Exod.21.13|Exod 21:13]] ([[BDB#E|E]]; absolute); ***Participle*** with accusative <span class="bdbLangHebrew">‎וְאַתָּה צֹדֶה‎</span> <span class="bdbLangHebrew">‎אֶתנַֿפְשִׁי לְקִחְתָּהּ‎</span> [[1Sam.24.11|1Sam 24:11]] ([[BDB#Gi|Gi]]; v.[[1Sam.24.12|1Sam 24:12]] [[BDB#van d.H.|van d. H.]] [[BDB#Baer|Baer]]). 
+**Qal** ***Perfect*** 3 masculine singular <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎צ‎</span> [[Exod.21.13|Exod 21:13]] ([[BDB#E|E]]; absolute); ***Participle*** with accusative <span class="bdbLangHebrew">‎וְאַתָּה צֹדֶה‎</span> <span class="bdbLangHebrew">‎אֶתנַֿפְשִׁי לְקִחְתָּהּ‎</span> [[1Sam.24.10|1Sam 24:11]]**\*** ([[BDB#Gi|Gi]]; v.[[1Sam.24.11|1Sam 24:12]]**\*** [[BDB#van d.H.|van d. H.]] [[BDB#Baer|Baer]]). 
 
 
 
@@ -16,7 +16,7 @@
 | Book | Refs |
 | - | - |
 | Exodus | [[Exod.21.13\|21:13]] |
-| 1 Samuel | [[1Sam.24.11\|24:11]] · [[1Sam.24.12\|24:12]] |
+| 1 Samuel | [[1Sam.24.10\|24:11]]**\*** · [[1Sam.24.11\|24:12]]**\*** |
 | Daniel | [[Dan.3.14\|3:14]] |
 | Zephaniah | [[Zeph.3.6\|3:6]] |
 

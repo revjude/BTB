@@ -1,6 +1,6 @@
  [<span class="bdbLangHebrew">‎שַׁד‎</span>] **noun masculine**<sup>[[Hos.9.14|Hos 9:14]]</sup> female ==breast==; — absolute <span class="bdbLangHebrew">‎שָׁ֑ד‎</span> [[Lam.4.3|Lam 4:3]] elsewhere dual <span class="bdbLangHebrew">‎שָׁדַיִם‎</span> [[Hos.9.14|Hos 9:14]] +, construct <span class="bdbLangHebrew">‎שְׁדֵי‎</span> [[Ezek.23.21|Ezek 23:21]] +, suffix <span class="bdbLangHebrew">‎שָׁדַי‎</span> [[Song.1.13|Song 1:13]]; [[Song.8.10|Song 8:10]], <span class="bdbLangHebrew">‎שָׁדַיִךְ‎</span> [[Song.4.5|Song 4:5]] +, etc.; — ***breast:*** 
 
-**1.** of woman [[Hos.2.4|Hos 2:4]]; [[Ezek.16.7|Ezek 16:7]]; [[Ezek.23.3|Ezek 23:3]]; [[Ezek.23.21|Ezek 23:21]] (<span class="bdbLangHebrew">‎שְׁדֵי‎</span> <span class="bdbLangHebrew">‎נְעוּרָ֑יִךְ‎</span>, \|\| <span class="bdbLangHebrew">‎דַּדַּיִךְ‎</span>), v[[Ezek.23.34|Ezek 23:34]] (&gt; strike out [[BDB#Sept|ᵐ5]] Manuscripts [[BDB#Co|Co]]; — all these of personified People), [[Song.1.13|Song 1:13]]; [[Song.4.5|Song 4:5]]; [[Song.7.4|Song 7:4]]; [[Song.7.8|Song 7:8]]; [[Song.7.9|Song 7:9]]; [[Song.8.8|Song 8:8]]; [[Song.8.10|Song 8:10]] of mother [[Ps.22.10|Ps 22:10]], with <span class="bdbLangHebrew">‎יָנַק‎</span> ***suck*** [[Song.8.1|Song 8:1]]; [[Job.3.12|Job 3:12]]; [[Joel.2.15|Joel 2:15]]; [[Hos.9.14|Hos 9:14]] (see [ <span class="bdbLangHebrew">‎צָמַק‎</span>]); <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מִשּׁ‎</span> <span class="bdbLangHebrew">‎עֲתִיקֵי‎</span> [[Isa.28.9|Isa 28:9]] i.e. those already weaned, mature (\|\| <span class="bdbLangHebrew">‎גְּמוּלֵי מֵךְָלָב‎</span>). — [[Isa.32.12|Isa 32:12]] see [<span class="bdbLangHebrew">‎ספד‎</span>]. 
+**1.** of woman [[Hos.2.2|Hos 2:4]]**\***; [[Ezek.16.7|Ezek 16:7]]; [[Ezek.23.3|Ezek 23:3]]; [[Ezek.23.21|Ezek 23:21]] (<span class="bdbLangHebrew">‎שְׁדֵי‎</span> <span class="bdbLangHebrew">‎נְעוּרָ֑יִךְ‎</span>, \|\| <span class="bdbLangHebrew">‎דַּדַּיִךְ‎</span>), v[[Ezek.23.34|Ezek 23:34]] (&gt; strike out [[BDB#Sept|ᵐ5]] Manuscripts [[BDB#Co|Co]]; — all these of personified People), [[Song.1.13|Song 1:13]]; [[Song.4.5|Song 4:5]]; [[Song.7.3|Song 7:4]]**\***; [[Song.7.7|Song 7:8]]**\***; [[Song.7.8|Song 7:9]]**\***; [[Song.8.8|Song 8:8]]; [[Song.8.10|Song 8:10]] of mother [[Ps.22.9|Ps 22:10]]**\***, with <span class="bdbLangHebrew">‎יָנַק‎</span> ***suck*** [[Song.8.1|Song 8:1]]; [[Job.3.12|Job 3:12]]; [[Joel.2.15|Joel 2:15]]; [[Hos.9.14|Hos 9:14]] (see [ <span class="bdbLangHebrew">‎צָמַק‎</span>]); <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מִשּׁ‎</span> <span class="bdbLangHebrew">‎עֲתִיקֵי‎</span> [[Isa.28.9|Isa 28:9]] i.e. those already weaned, mature (\|\| <span class="bdbLangHebrew">‎גְּמוּלֵי מֵךְָלָב‎</span>). — [[Isa.32.12|Isa 32:12]] see [<span class="bdbLangHebrew">‎ספד‎</span>]. 
 
 **2.** of animal [[Lam.4.3|Lam 4:3]]. 
 
@@ -16,11 +16,11 @@
 | - | - |
 | Genesis | [[Gen.49.25\|49:25]] |
 | Job | [[Job.3.12\|3:12]] · [[Job.24.9\|24:9]] |
-| Psalms | [[Ps.22.10\|22:10]] |
-| Song of Solomon | [[Song.1.13\|1:13]] · [[Song.4.5\|4:5]] · [[Song.7.4\|7:4]] · [[Song.7.8\|7:8]] · [[Song.7.9\|7:9]] · [[Song.8.1\|8:1]] · [[Song.8.8\|8:8]] · [[Song.8.10\|8:10]] |
+| Psalms | [[Ps.22.9\|22:10]]**\*** |
+| Song of Solomon | [[Song.1.13\|1:13]] · [[Song.4.5\|4:5]] · [[Song.7.3\|7:4]]**\*** · [[Song.7.7\|7:8]]**\*** · [[Song.7.8\|7:9]]**\*** · [[Song.8.1\|8:1]] · [[Song.8.8\|8:8]] · [[Song.8.10\|8:10]] |
 | Isaiah | [[Isa.28.9\|28:9]] · [[Isa.32.12\|32:12]] · [[Isa.60.16\|60:16]] · [[Isa.66.11\|66:11]] |
 | Lamentations | [[Lam.4.3\|4:3]] |
 | Ezekiel | [[Ezek.16.7\|16:7]] · [[Ezek.23.3\|23:3]] · [[Ezek.23.21\|23:21]] · [[Ezek.23.34\|23:34]] |
-| Hosea | [[Hos.2.4\|2:4]] · [[Hos.9.14\|9:14]] |
+| Hosea | [[Hos.2.2\|2:4]]**\*** · [[Hos.9.14\|9:14]] |
 | Joel | [[Joel.2.15\|2:15]] |
 

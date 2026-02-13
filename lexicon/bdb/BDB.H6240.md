@@ -1,7 +1,7 @@
  <span class="bdbLangHebrew">‎עָשָׂר‎</span><sub>203</sub>, <span class="bdbLangHebrew">‎עֶשְׂרֵה‎</span><sub>144</sub> **noun** ==ten==, only after units to make numbers 11-19, both cardinal and ordinal; <span class="bdbLangHebrew">‎עֶשְׂרֵה‎</span> with **noun feminine**, <span class="bdbLangHebrew">‎עָשָׂר‎</span> with **noun masculine**, thus: 
 
 **1.** ***eleven:*** 
-$\quad$ $\quad$ **a.** <span class="bdbLangHebrew">‎אַחַד עָשָׂר‎</span> (with masculine noun) [[Gen.32.23|Gen 32:23]] + 2 t. 
+$\quad$ $\quad$ **a.** <span class="bdbLangHebrew">‎אַחַד עָשָׂר‎</span> (with masculine noun) [[Gen.32.22|Gen 32:23]]**\*** + 2 t. 
 $\quad$ $\quad$ **b.** <span class="bdbLangHebrew">‎אַחַת עֶשְׂרֵה‎</span> (with feminine noun) [[2Kgs.23.36|2Kgs 23:36]] + 7 t.; also = ***eleventh*** [[1Kgs.6.38|1Kgs 6:38]]; [[2Kgs.9.29|2Kgs 9:29]]. 
 $\quad$ $\quad$ **c.** <span class="bdbLangHebrew">‎עַשְׁתֵּי עָשָׂר‎</span> (with masculine noun) [[Num.29.20|Num 29:20]] ordinal [[Deut.1.3|Deut 1:3]] + 7 t. 
 $\quad$ $\quad$ **d.** <span class="bdbLangHebrew">‎עַשְׁתֵּי עֶשְׂרֵה‎</span> (with feminine noun) [[Exod.26.7|Exod 26:7]] + 4 t.; ordinal [[Jer.1.3|Jer 1:3]] + 4 t. 
@@ -20,7 +20,7 @@ $\quad$ $\quad$ **b.** <span class="bdbLangHebrew">‎אַרְבַּע עֶשְ�
 
 **5.** ***fifteen:*** 
 $\quad$ $\quad$ **a.** <span class="bdbLangHebrew">‎חֲמִשָּׁה עָשָׂר‎</span> [[Hos.3.2|Hos 3:2]] + 3 t.; ordinal [[Exod.16.1|Exod 16:1]] + 14 t. 
-$\quad$ $\quad$ **b.** <span class="bdbLangHebrew">‎חֲמֵשֶׁת עָשָׂר‎</span> [[Judg.8.10|Judg 8:10]]; [[2Sam.19.18|2Sam 19:18]]. 
+$\quad$ $\quad$ **b.** <span class="bdbLangHebrew">‎חֲמֵשֶׁת עָשָׂר‎</span> [[Judg.8.10|Judg 8:10]]; [[2Sam.19.17|2Sam 19:18]]**\***. 
 $\quad$ $\quad$ **c.** <span class="bdbLangHebrew">‎חֲמֵשׁ עֶשְׂרֵה‎</span> [[2Kgs.14.17|2Kgs 14:17]] + 9 t.; ordinal [[2Kgs.14.23|2Kgs 14:23]]; [[2Chr.15.10|2Chr 15:10]]. — See also <span class="bdbLangHebrew">‎עֶשֶׂר‎</span> 
 
 **2 d. 6.** ***sixteen:*** 
@@ -29,7 +29,7 @@ $\quad$ $\quad$ **b.** <span class="bdbLangHebrew">‎שֵׁשׁ עֶשְׂרֵ�
 
 **7.** ***seventeen:*** 
 $\quad$ $\quad$ **a.** <span class="bdbLangHebrew">‎שִׁבְעָה עָשָׂר‎</span> [[1Chr.7.11|1Chr 7:11]] + 2 t.; ordinal [[Gen.7.11|Gen 7:11]] + 3 t. 
-$\quad$ $\quad$ **b.** <span class="bdbLangHebrew">‎שְׁבַע עֶשְׂרֵה‎</span> [[Gen.37.2|Gen 37:2]] + 4 t.; ordinal [[1Kgs.22.52|1Kgs 22:52]]; [[2Kgs.16.1|2Kgs 16:1]]. — See also <span class="bdbLangHebrew">‎עֶשֶׂר‎</span> 
+$\quad$ $\quad$ **b.** <span class="bdbLangHebrew">‎שְׁבַע עֶשְׂרֵה‎</span> [[Gen.37.2|Gen 37:2]] + 4 t.; ordinal [[1Kgs.22.51|1Kgs 22:52]]**\***; [[2Kgs.16.1|2Kgs 16:1]]. — See also <span class="bdbLangHebrew">‎עֶשֶׂר‎</span> 
 
 **3 d. 8.** ***eighteen:*** 
 $\quad$ $\quad$ **a.** <span class="bdbLangHebrew">‎שְׁמֹנָה (שְׂמֹנַת) עָשָׂר‎</span> [[Gen.14.4|Gen 14:4]] + 10 t.; ordinal [[1Chr.24.15|1Chr 24:15]]; [[1Chr.25.25|1Chr 25:25]]. 
@@ -45,14 +45,14 @@ $\quad$ $\quad$ **b.** <span class="bdbLangHebrew">‎תְּשַׁע‎</span> <
 
 | Book | Refs |
 | - | - |
-| Genesis | [[Gen.7.11\|7:11]] · [[Gen.11.25\|11:25]] · [[Gen.14.4\|14:4]] · [[Gen.31.41\|31:41]] · [[Gen.32.23\|32:23]] · [[Gen.35.22\|35:22]] · [[Gen.37.2\|37:2]] · [[Gen.46.18\|46:18]] · [[Gen.46.22\|46:22]] |
+| Genesis | [[Gen.7.11\|7:11]] · [[Gen.11.25\|11:25]] · [[Gen.14.4\|14:4]] · [[Gen.31.41\|31:41]] · [[Gen.32.22\|32:23]]**\*** · [[Gen.35.22\|35:22]] · [[Gen.37.2\|37:2]] · [[Gen.46.18\|46:18]] · [[Gen.46.22\|46:22]] |
 | Exodus | [[Exod.12.6\|12:6]] · [[Exod.16.1\|16:1]] · [[Exod.24.4\|24:4]] · [[Exod.26.7\|26:7]] · [[Exod.26.25\|26:25]] |
 | Numbers | [[Num.7.72\|7:72]] · [[Num.7.78\|7:78]] · [[Num.29.14\|29:14]] · [[Num.29.20\|29:20]] · [[Num.29.30\|29:30]] |
 | Deuteronomy | [[Deut.1.3\|1:3]] |
 | Joshua | [[Josh.15.51\|15:51]] · [[Josh.19.38\|19:38]] |
 | Judges | [[Judg.3.14\|3:14]] · [[Judg.8.10\|8:10]] |
-| 2 Samuel | [[2Sam.2.30\|2:30]] · [[2Sam.19.18\|19:18]] |
-| 1 Kings | [[1Kgs.6.38\|6:38]] · [[1Kgs.7.1\|7:1]] · [[1Kgs.15.1\|15:1]] · [[1Kgs.19.19\|19:19]] · [[1Kgs.22.52\|22:52]] |
+| 2 Samuel | [[2Sam.2.30\|2:30]] · [[2Sam.19.17\|19:18]]**\*** |
+| 1 Kings | [[1Kgs.6.38\|6:38]] · [[1Kgs.7.1\|7:1]] · [[1Kgs.15.1\|15:1]] · [[1Kgs.19.19\|19:19]] · [[1Kgs.22.51\|22:52]]**\*** |
 | 2 Kings | [[2Kgs.8.25\|8:25]] · [[2Kgs.9.29\|9:29]] · [[2Kgs.14.17\|14:17]] · [[2Kgs.14.23\|14:23]] · [[2Kgs.16.1\|16:1]] · [[2Kgs.18.13\|18:13]] · [[2Kgs.23.36\|23:36]] · [[2Kgs.25.8\|25:8]] |
 | 1 Chronicles | [[1Chr.7.11\|7:11]] · [[1Chr.24.14\|24:14]] · [[1Chr.24.15\|24:15]] · [[1Chr.24.16\|24:16]] · [[1Chr.25.25\|25:25]] · [[1Chr.25.26\|25:26]] |
 | 2 Chronicles | [[2Chr.15.10\|15:10]] · [[2Chr.29.17\|29:17]] |

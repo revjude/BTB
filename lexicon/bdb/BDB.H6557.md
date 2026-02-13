@@ -4,7 +4,7 @@
 
 **2. location** in 
 $\quad$ $\quad$ **a.** <span class="bdbLangHebrew">‎עֻזָּה‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎פ‎</span> near Jerusalem [[2Sam.6.8|2Sam 6:8]] = [[2Chr.13.11|2Chr 13:11]]. 
-$\quad$ $\quad$ **b.** <span class="bdbLangHebrew">‎הַר פְּרָצִים‎</span> [[Isa.28.21|Isa 28:21]], perhaps = <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בַּעַל פ‎</span> q. v. p. [[Isa.12.8|Isa 12:8]]. — compare <span class="bdbLangHebrew">‎רִמֹּן פָּ֑רֶץ‎</span>. p.942. 
+$\quad$ $\quad$ **b.** <span class="bdbLangHebrew">‎הַר פְּרָצִים‎</span> [[Isa.28.21|Isa 28:21]], perhaps = <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בַּעַל פ‎</span> q. v. p. Isa 12:8. — compare <span class="bdbLangHebrew">‎רִמֹּן פָּ֑רֶץ‎</span>. p.942. 
 
 
 
@@ -19,5 +19,5 @@ $\quad$ $\quad$ **b.** <span class="bdbLangHebrew">‎הַר פְּרָצִים�
 | 1 Chronicles | [[1Chr.2.4\|2:4]] · [[1Chr.2.5\|2:5]] · [[1Chr.4.1\|4:1]] · [[1Chr.9.4\|9:4]] · [[1Chr.27.9\|27:9]] |
 | 2 Chronicles | [[2Chr.13.11\|13:11]] |
 | Nehemiah | [[Neh.11.4\|11:4]] · [[Neh.11.6\|11:6]] |
-| Isaiah | [[Isa.12.8\|12:8]] · [[Isa.28.21\|28:21]] |
+| Isaiah | 12:8 · [[Isa.28.21\|28:21]] |
 

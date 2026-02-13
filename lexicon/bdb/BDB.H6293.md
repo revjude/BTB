@@ -2,9 +2,9 @@
 
 **Qal** ***Perfect*** 3 masculine singular <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎פ‎</span> [[1Kgs.2.32|1Kgs 2:32]] +, suffix <span class="bdbLangHebrew">‎וּפְגָעוֺ‎</span> consecutive [[Amos.5.19|Amos 5:19]], etc.; ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎וַיִּפְגַּע‎</span> [[Gen.28.11|Gen 28:11]]+; 1 plural <span class="bdbLangHebrew">‎נְפְגַּע‎</span> [[Job.21.15|Job 21:15]], etc.; ***Imperative*** masculine singular <span class="bdbLangHebrew">‎פְּגַע‎</span> [[Judg.8.21|Judg 8:21]]+; masculine plural <span class="bdbLangHebrew">‎פִּגְעוּ‎</span> [[Gen.23.8|Gen 23:8]] ***Infinitive construct*** <span class="bdbLangHebrew">‎לִפְגֹּע‎</span> [[1Sam.22.17|1Sam 22:17]], suffix <span class="bdbLangHebrew">‎פִּגְעוֺ‎</span> [[Num.35.19|Num 35:19]]; [[Num.35.21|Num 35:21]] — 
 
-**1.** ***meet, light upon***, with accusative of person [[1Sam.10.5|1Sam 10:5]]; [[Exod.5.20|Exod 5:20]] ([[BDB#J|J]]), with suffix person [[Amos.5.19|Amos 5:19]] <span class="bdbLangHebrew">‎שׁוֺר‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎פ‎</span> [[Exod.23.4|Exod 23:4]] with <span class="bdbLangHebrew">‎ב‎</span> person [[Gen.32.2|Gen 32:2]] ([[BDB#E|E]]), [[Num.35.19|Num 35:19]]; [[Num.35.21|Num 35:21]] ([[BDB#P|P]]); with <span class="bdbLangHebrew">‎ב‎</span> location [[Gen.28.11|Gen 28:11]] ([[BDB#E|E]]). 
+**1.** ***meet, light upon***, with accusative of person [[1Sam.10.5|1Sam 10:5]]; [[Exod.5.20|Exod 5:20]] ([[BDB#J|J]]), with suffix person [[Amos.5.19|Amos 5:19]] <span class="bdbLangHebrew">‎שׁוֺר‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎פ‎</span> [[Exod.23.4|Exod 23:4]] with <span class="bdbLangHebrew">‎ב‎</span> person [[Gen.32.1|Gen 32:2]]**\*** ([[BDB#E|E]]), [[Num.35.19|Num 35:19]]; [[Num.35.21|Num 35:21]] ([[BDB#P|P]]); with <span class="bdbLangHebrew">‎ב‎</span> location [[Gen.28.11|Gen 28:11]] ([[BDB#E|E]]). 
 
-**2.** ***meet***, with kindness, with accusative of person [[Isa.64.5|Isa 64:5]] (subject <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>), so [[Isa.47.3|Isa 47:3]] according to [[BDB#Ew|Ew]] [[BDB#De|De]] [[BDB#Di|Di]] and others; [[BDB#Che|Che]]<sup>Hpt</sup> <span class="bdbLangHebrew">‎אֶפְרַע‎</span> (reading, with [[BDB#Du|Du]], <span class="bdbLangHebrew">‎אמר‎</span> for <span class="bdbLangHebrew">‎אָדָם‎</span>). 
+**2.** ***meet***, with kindness, with accusative of person [[Isa.64.6|Isa 64:5]]**\*** (subject <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>), so [[Isa.47.3|Isa 47:3]] according to [[BDB#Ew|Ew]] [[BDB#De|De]] [[BDB#Di|Di]] and others; [[BDB#Che|Che]]<sup>Hpt</sup> <span class="bdbLangHebrew">‎אֶפְרַע‎</span> (reading, with [[BDB#Du|Du]], <span class="bdbLangHebrew">‎אמר‎</span> for <span class="bdbLangHebrew">‎אָדָם‎</span>). 
 
 **3.** ***encounter*** with hostility, ***fall upon*** with <span class="bdbLangHebrew">‎ב‎</span> person [[Josh.2.16|Josh 2:16]] ([[BDB#J|J]][[BDB#E|E]]), [[Judg.8.21|Judg 8:21]]; [[Judg.15.12|Judg 15:12]]; [[Judg.18.25|Judg 18:25]]; [[1Sam.22.17|1Sam 22:17]]; [[1Sam.22.18|1Sam 22:18]] (twice in verse); [[2Sam.1.15|2Sam 1:15]]; [[1Kgs.2.25|1Kgs 2:25]]; [[1Kgs.2.29|1Kgs 2:29]]; [[1Kgs.2.31|1Kgs 2:31]]; [[1Kgs.2.32|1Kgs 2:32]]; [[1Kgs.2.34|1Kgs 2:34]]; [[1Kgs.2.46|1Kgs 2:46]]; [[Ruth.2.22|Ruth 2:22]] of God, with accusative (suffix), + <span class="bdbLangHebrew">‎ב‎</span> instrumental [[Exod.5.3|Exod 5:3]]. 
 
@@ -26,7 +26,7 @@
 
 | Book | Refs |
 | - | - |
-| Genesis | [[Gen.23.8\|23:8]] · [[Gen.28.11\|28:11]] · [[Gen.32.2\|32:2]] |
+| Genesis | [[Gen.23.8\|23:8]] · [[Gen.28.11\|28:11]] · [[Gen.32.1\|32:2]]**\*** |
 | Exodus | [[Exod.5.3\|5:3]] · [[Exod.5.20\|5:20]] · [[Exod.23.4\|23:4]] |
 | Numbers | [[Num.35.19\|35:19]] · [[Num.35.21\|35:21]] |
 | Joshua | [[Josh.2.16\|2:16]] · [[Josh.16.7\|16:7]] · [[Josh.17.10\|17:10]] · [[Josh.19.11\|19:11]] · [[Josh.19.22\|19:22]] · [[Josh.19.26\|19:26]] · [[Josh.19.27\|19:27]] · [[Josh.19.34\|19:34]] |
@@ -36,7 +36,7 @@
 | 2 Samuel | [[2Sam.1.15\|1:15]] |
 | 1 Kings | [[1Kgs.2.25\|2:25]] · [[1Kgs.2.29\|2:29]] · [[1Kgs.2.31\|2:31]] · [[1Kgs.2.32\|2:32]] · [[1Kgs.2.34\|2:34]] · [[1Kgs.2.46\|2:46]] |
 | Job | [[Job.21.15\|21:15]] · [[Job.36.32\|36:32]] |
-| Isaiah | [[Isa.47.3\|47:3]] · [[Isa.53.6\|53:6]] · [[Isa.53.12\|53:12]] · [[Isa.59.16\|59:16]] · [[Isa.64.5\|64:5]] |
+| Isaiah | [[Isa.47.3\|47:3]] · [[Isa.53.6\|53:6]] · [[Isa.53.12\|53:12]] · [[Isa.59.16\|59:16]] · [[Isa.64.6\|64:5]]**\*** |
 | Jeremiah | [[Jer.7.16\|7:16]] · [[Jer.15.11\|15:11]] · [[Jer.27.18\|27:18]] · [[Jer.36.25\|36:25]] |
 | Amos | [[Amos.5.19\|5:19]] |
 

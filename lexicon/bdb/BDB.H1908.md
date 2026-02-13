@@ -4,7 +4,7 @@
 
 **1.** name of kings of Edom, 
 $\quad$ $\quad$ **a.** [[Gen.36.35|Gen 36:35]] = [[1Chr.1.46|1Chr 1:46]]; [[Gen.36.36|Gen 36:36]] = [[1Chr.1.47|1Chr 1:47]] (<span class="bdbLangHebrew">‎הֲדָד֑‎</span>); 
-$\quad$ $\quad$ **b.** [[1Chr.1.47|1Chr 1:47]] (\|\| [[Gen.36.39|Gen 36:39]] <span class="bdbLangHebrew">‎הֲדַר‎</span>), v[[Gen.36.51|Gen 36:51]] (<span class="bdbLangHebrew">‎הֲדָד֑‎</span>). 
+$\quad$ $\quad$ **b.** [[1Chr.1.47|1Chr 1:47]] (\|\| [[Gen.36.39|Gen 36:39]] <span class="bdbLangHebrew">‎הֲדַר‎</span>), vGen 36:51 (<span class="bdbLangHebrew">‎הֲדָד֑‎</span>). 
 
 **2.** an Edomite (<span class="bdbLangHebrew">‎הָאֲדֹמִ֑י‎</span>) <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ה‎</span> [[1Kgs.11.14|1Kgs 11:14]]; [[1Kgs.11.17|1Kgs 11:17]]; [[1Kgs.11.19|1Kgs 11:19]]; [[1Kgs.11.21|1Kgs 11:21]] (twice in verse); [[1Kgs.11.25|1Kgs 11:25]] (<span class="bdbLangHebrew">‎הֲדָד֑‎</span>); = <span class="bdbLangHebrew">‎אֲדַד‎</span> v[[1Kgs.11.17|1Kgs 11:17]]. 
 
@@ -14,7 +14,7 @@ $\quad$ $\quad$ **b.** [[1Chr.1.47|1Chr 1:47]] (\|\| [[Gen.36.39|Gen 36:39]] <sp
 
 | Book | Refs |
 | - | - |
-| Genesis | [[Gen.36.35\|36:35]] · [[Gen.36.36\|36:36]] · [[Gen.36.39\|36:39]] · [[Gen.36.51\|36:51]] |
+| Genesis | [[Gen.36.35\|36:35]] · [[Gen.36.36\|36:36]] · [[Gen.36.39\|36:39]] · 36:51 |
 | 1 Kings | [[1Kgs.11.14\|11:14]] · [[1Kgs.11.17\|11:17]] · [[1Kgs.11.19\|11:19]] · [[1Kgs.11.21\|11:21]] · [[1Kgs.11.25\|11:25]] |
 | 1 Chronicles | [[1Chr.1.46\|1:46]] · [[1Chr.1.47\|1:47]] |
 

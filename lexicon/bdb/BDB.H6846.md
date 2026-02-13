@@ -6,7 +6,7 @@
 
 **3.** a Judaean [[Zech.6.10|Zech 6:10]]; [[Zech.6.14|Zech 6:14]]. 
 
-**4.** ancestor of Heman [[1Chr.6.21|1Chr 6:21]] (<span class="bdbLangGreek">Σαφανιας</span>; = <span class="bdbLangHebrew">‎אוּרִיאֵל‎</span> v.[[1Chr.6.9|1Chr 6:9]]). 
+**4.** ancestor of Heman [[1Chr.6.36|1Chr 6:21]]**\*** (<span class="bdbLangGreek">Σαφανιας</span>; = <span class="bdbLangHebrew">‎אוּרִיאֵל‎</span> v.[[1Chr.6.24|1Chr 6:9]]**\***). 
 
 
 
@@ -15,7 +15,7 @@
 | Book | Refs |
 | - | - |
 | 2 Kings | [[2Kgs.25.18\|25:18]] |
-| 1 Chronicles | [[1Chr.6.9\|6:9]] · [[1Chr.6.21\|6:21]] |
+| 1 Chronicles | [[1Chr.6.24\|6:9]]**\*** · [[1Chr.6.36\|6:21]]**\*** |
 | Jeremiah | [[Jer.21.1\|21:1]] · [[Jer.22.25\|22:25]] · [[Jer.22.29\|22:29]] · [[Jer.37.3\|37:3]] · [[Jer.52.24\|52:24]] |
 | Zephaniah | [[Zeph.1.1\|1:1]] |
 | Zechariah | [[Zech.6.10\|6:10]] · [[Zech.6.14\|6:14]] |

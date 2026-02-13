@@ -2,7 +2,7 @@
 
 **1.** plural <span class="bdbLangHebrew">‎אֲהָלִים‎</span> trees planted by <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> [[Num.24.6|Num 24:6]] (\|\| <span class="bdbLangHebrew">‎ארזים‎</span> perhaps error for <span class="bdbLangHebrew">‎אֵילִים‎</span> compare [[BDB#Di|Di]]. 
 
-**2.** ***aloes***, as sweet-smelling; perfume for bed, <span class="bdbLangHebrew">‎אֲהָלִים‎</span> [[Prov.7.17|Prov 7:17]] (\|\| <span class="bdbLangHebrew">‎מֹר‎</span>, <span class="bdbLangHebrew">‎קִנָּמוֺן‎</span>); for garments <span class="bdbLangHebrew">‎אֲהָלוֺת‎</span> [[Ps.45.9|Ps 45:9]] (\|\| <span class="bdbLangHebrew">‎מֹר‎</span>, <span class="bdbLangHebrew">‎קְצִיעוֺת‎</span>); of bride, under figure of odorific tree [[Song.4.14|Song 4:14]] (\|\| <span class="bdbLangHebrew">‎מֹר‎</span>, <span class="bdbLangHebrew">‎כָּלרָֿאשֵׁי בְשָׂמִים‎</span>). 
+**2.** ***aloes***, as sweet-smelling; perfume for bed, <span class="bdbLangHebrew">‎אֲהָלִים‎</span> [[Prov.7.17|Prov 7:17]] (\|\| <span class="bdbLangHebrew">‎מֹר‎</span>, <span class="bdbLangHebrew">‎קִנָּמוֺן‎</span>); for garments <span class="bdbLangHebrew">‎אֲהָלוֺת‎</span> [[Ps.45.8|Ps 45:9]]**\*** (\|\| <span class="bdbLangHebrew">‎מֹר‎</span>, <span class="bdbLangHebrew">‎קְצִיעוֺת‎</span>); of bride, under figure of odorific tree [[Song.4.14|Song 4:14]] (\|\| <span class="bdbLangHebrew">‎מֹר‎</span>, <span class="bdbLangHebrew">‎כָּלרָֿאשֵׁי בְשָׂמִים‎</span>). 
 
 
 
@@ -11,7 +11,7 @@
 | Book | Refs |
 | - | - |
 | Numbers | [[Num.24.6\|24:6]] |
-| Psalms | [[Ps.45.9\|45:9]] |
+| Psalms | [[Ps.45.8\|45:9]]**\*** |
 | Proverbs | [[Prov.7.17\|7:17]] |
 | Song of Solomon | [[Song.2\|Chapter 2]] · [[Song.4.14\|4:14]] |
 | Daniel | [[Dan.2\|Chapter 2]] |

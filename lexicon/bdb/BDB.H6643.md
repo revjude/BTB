@@ -7,7 +7,7 @@ $\quad$ $\quad$ **b.** elsewhere in figure: of drunkard's chaplet, <span class="
 
 
 
- II. <span class="bdbLangHebrew">‎צְבִי‎</span> **noun masculine**<sup>[[Isa.13.14|Isa 13:14]]</sup> ==gazelle==; — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎צ‎</span> absolute [[Deut.12.15|Deut 12:15]] +; plural <span class="bdbLangHebrew">‎צְבָיִם‎</span> [[2Sam.2.18|2Sam 2:18]], <span class="bdbLangHebrew">‎צְבָאיִם‎</span> [[1Chr.12.9|1Chr 12:9]] ([[BDB#Gi|Gi]] [[BDB#Baer|Baer]]; [[BDB#van d.H.|van d. H.]] v.[[1Chr.12.8|1Chr 12:8]]), <span class="bdbLangHebrew">‎צְבָאוֺת‎</span> [[Song.2.7|Song 2:7]]; [[Song.3.5|Song 3:5]] — ***gazelle***, allowed as food [[Deut.14.5|Deut 14:5]], compare [[Deut.12.15|Deut 12:15]]; [[Deut.12.22|Deut 12:22]] (although not for sacrifice, [[BDB#Dr|Dr]]; all + <span class="bdbLangHebrew">‎אַיָּל‎</span>), so [[Deut.15.22|Deut 15:22]] (+ <span class="bdbLangHebrew">‎אַיָּל‎</span>, <span class="bdbLangHebrew">‎יַחְמוּר‎</span>, etc.), see [[1Kgs.5.3|1Kgs 5:3]] simile of swiftness [[2Sam.2.18|2Sam 2:18]]; [[1Chr.12.9|1Chr 12:9]] see above, [[Prov.6.5|Prov 6:5]] of grace and beauty [[Song.2.9|Song 2:9]]; [[Song.2.17|Song 2:17]]; [[Song.8.14|Song 8:14]] (compare [[BDB#Jacob|Jacob]]<sup>Arab. Dichter iv. 20 f.</sup>); hence used in adjuration [[Song.2.7|Song 2:7]]; [[Song.3.5|Song 3:5]] ( + <span class="bdbLangHebrew">‎אילות‎</span>); <span class="bdbLangHebrew">‎מֻדָּח‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎צ‎</span> [[Isa.13.14|Isa 13:14]], simile of fugitives. 
+ II. <span class="bdbLangHebrew">‎צְבִי‎</span> **noun masculine**<sup>[[Isa.13.14|Isa 13:14]]</sup> ==gazelle==; — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎צ‎</span> absolute [[Deut.12.15|Deut 12:15]] +; plural <span class="bdbLangHebrew">‎צְבָיִם‎</span> [[2Sam.2.18|2Sam 2:18]], <span class="bdbLangHebrew">‎צְבָאיִם‎</span> [[1Chr.12.8|1Chr 12:9]]**\*** ([[BDB#Gi|Gi]] [[BDB#Baer|Baer]]; [[BDB#van d.H.|van d. H.]] v.[[1Chr.12.7|1Chr 12:8]]**\***), <span class="bdbLangHebrew">‎צְבָאוֺת‎</span> [[Song.2.7|Song 2:7]]; [[Song.3.5|Song 3:5]] — ***gazelle***, allowed as food [[Deut.14.5|Deut 14:5]], compare [[Deut.12.15|Deut 12:15]]; [[Deut.12.22|Deut 12:22]] (although not for sacrifice, [[BDB#Dr|Dr]]; all + <span class="bdbLangHebrew">‎אַיָּל‎</span>), so [[Deut.15.22|Deut 15:22]] (+ <span class="bdbLangHebrew">‎אַיָּל‎</span>, <span class="bdbLangHebrew">‎יַחְמוּר‎</span>, etc.), see [[1Kgs.4.23|1Kgs 5:3]]**\*** simile of swiftness [[2Sam.2.18|2Sam 2:18]]; [[1Chr.12.8|1Chr 12:9]]**\*** see above, [[Prov.6.5|Prov 6:5]] of grace and beauty [[Song.2.9|Song 2:9]]; [[Song.2.17|Song 2:17]]; [[Song.8.14|Song 8:14]] (compare [[BDB#Jacob|Jacob]]<sup>Arab. Dichter iv. 20 f.</sup>); hence used in adjuration [[Song.2.7|Song 2:7]]; [[Song.3.5|Song 3:5]] ( + <span class="bdbLangHebrew">‎אילות‎</span>); <span class="bdbLangHebrew">‎מֻדָּח‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎צ‎</span> [[Isa.13.14|Isa 13:14]], simile of fugitives. 
 
 **Brown-Driver-Briggs References**
 
@@ -15,8 +15,8 @@ $\quad$ $\quad$ **b.** elsewhere in figure: of drunkard's chaplet, <span class="
 | - | - |
 | Deuteronomy | [[Deut.12.15\|12:15]] · [[Deut.12.22\|12:22]] · [[Deut.14.5\|14:5]] · [[Deut.15.22\|15:22]] |
 | 2 Samuel | [[2Sam.1.19\|1:19]] · [[2Sam.2.18\|2:18]] |
-| 1 Kings | [[1Kgs.5.3\|5:3]] |
-| 1 Chronicles | [[1Chr.12.8\|12:8]] · [[1Chr.12.9\|12:9]] |
+| 1 Kings | [[1Kgs.4.23\|5:3]]**\*** |
+| 1 Chronicles | [[1Chr.12.7\|12:8]]**\*** · [[1Chr.12.8\|12:9]]**\*** |
 | Proverbs | [[Prov.6.5\|6:5]] |
 | Song of Solomon | [[Song.2.7\|2:7]] · [[Song.2.9\|2:9]] · [[Song.2.17\|2:17]] · [[Song.3.5\|3:5]] · [[Song.8.14\|8:14]] |
 | Isaiah | [[Isa.4.2\|4:2]] · [[Isa.13.14\|13:14]] · [[Isa.13.19\|13:19]] · [[Isa.23.9\|23:9]] · [[Isa.24.16\|24:16]] · [[Isa.28.1\|28:1]] · [[Isa.28.4\|28:4]] · [[Isa.28.5\|28:5]] |

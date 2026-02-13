@@ -9,7 +9,7 @@
 **4.** father-in-law of Tobiah [[Neh.6.18|Neh 6:18]]. 
 
 **5.** priestly name: 
-$\quad$ $\quad$ **a.** [[Neh.12.3|Neh 12:3]] = <span class="bdbLangHebrew">‎שְׁכַנְיָ֫הוּ‎</span> [[1Chr.24.11|1Chr 24:11]], compare <span class="bdbLangHebrew">‎שְׁכַנְיָה‎</span> **3** [[Neh.10.5|Neh 10:5]]; [[Neh.12.14|Neh 12:14]].
+$\quad$ $\quad$ **a.** [[Neh.12.3|Neh 12:3]] = <span class="bdbLangHebrew">‎שְׁכַנְיָ֫הוּ‎</span> [[1Chr.24.11|1Chr 24:11]], compare <span class="bdbLangHebrew">‎שְׁכַנְיָה‎</span> **3** [[Neh.10.4|Neh 10:5]]**\***; [[Neh.12.14|Neh 12:14]].
 
 ** b.** <span class="bdbLangHebrew">‎שְׁכַנְיָ֫הוּ‎</span> [[2Chr.31.15|2Chr 31:15]]. 
 
@@ -22,5 +22,5 @@ $\quad$ $\quad$ **a.** [[Neh.12.3|Neh 12:3]] = <span class="bdbLangHebrew">‎ש
 | 1 Chronicles | [[1Chr.3.21\|3:21]] · [[1Chr.3.22\|3:22]] · [[1Chr.24.11\|24:11]] |
 | 2 Chronicles | [[2Chr.31.15\|31:15]] |
 | Ezra | [[Ezra.8.3\|8:3]] · [[Ezra.8.5\|8:5]] · [[Ezra.10.2\|10:2]] |
-| Nehemiah | [[Neh.3.29\|3:29]] · [[Neh.6.18\|6:18]] · [[Neh.10.5\|10:5]] · [[Neh.12.3\|12:3]] · [[Neh.12.14\|12:14]] |
+| Nehemiah | [[Neh.3.29\|3:29]] · [[Neh.6.18\|6:18]] · [[Neh.10.4\|10:5]]**\*** · [[Neh.12.3\|12:3]] · [[Neh.12.14\|12:14]] |
 

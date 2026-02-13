@@ -9,5 +9,3 @@
 
 4. Son of Shemaiah. A gatekeeper of the temple [[1Chr.26.7|1Ch 26:7]]
 
-5. Father of [[PrAzar.1.2|Azariah 2]]Ch 23:1
-

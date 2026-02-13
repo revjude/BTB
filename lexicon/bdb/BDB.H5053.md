@@ -1,9 +1,9 @@
 <small>Hebrew form: **<big>[[H5051|נֹגַהּ]]</big>**</small>
- [<span class="bdbLangAramaic">‎נ֫גַהּ‎</span>] **noun [feminine]** ==brightness, daylight== ([[BDB#Tg|ᵑ7]] Syriac; Biblical Hebrew ***id.***); — emphatic <span class="bdbLangAramaic">‎בְּנָגְהָא‎</span> ([[BDB#Kau|K]]<sup>§ 54</sup> ***c***), 1) [[Dan.6.20|Dan 6:20]]. 
+ [<span class="bdbLangAramaic">‎נ֫גַהּ‎</span>] **noun [feminine]** ==brightness, daylight== ([[BDB#Tg|ᵑ7]] Syriac; Biblical Hebrew ***id.***); — emphatic <span class="bdbLangAramaic">‎בְּנָגְהָא‎</span> ([[BDB#Kau|K]]<sup>§ 54</sup> ***c***), 1) [[Dan.6.19|Dan 6:20]]**\***. 
 
 **Brown-Driver-Briggs References**
 
 | Book | Refs |
 | - | - |
-| Daniel | [[Dan.6.20\|6:20]] |
+| Daniel | [[Dan.6.19\|6:20]]**\*** |
 

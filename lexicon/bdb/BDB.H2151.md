@@ -1,6 +1,6 @@
  I. [<span class="bdbLangHebrew">‎זָלַל‎</span>] **verb** ==shake== (Arabic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhDgAVAIAAAAAAAP///yH5BAAAAAAALAAAAAAOABUAAAIljI8JEGzrHpSpWhvv0yhrfznLx5VcBm4HunZi5EHsmbp0beZBAQA7"> ***slip***, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhFwAXAIAAAAAAAP///yH5BAAAAAAALAAAAAAXABcAAAJCjI+pywEIYkvvOUulkRYrfWHgNHnlYjLjkaooycab7G4d/X7wvNcO7gmyIiMhrfU7inwh0IpHaj0zn6ltRexpt4oCADs="> ***agitate, shake***; <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhHQAYAIAAAAAAAP///yH5BAAAAAAALAAAAAAdABgAAAJPjI+pywf+XEugVhOfxZfuCGEIOJXm2JBn0Cnq2XrL5r7cPJEtGKd+/cMJhy6GDgWx8JRHCbL2WlKMRuV0ZuOoerdVV+aljbg5qveMTqtPBQA7"> ***be agitated, quake***, especially of earth-quake) — 
 
-**Niph\`al** ***Perfect*** <span class="bdbLangHebrew">‎נָזֹ֫לּוּ‎</span> ***shake, quake*** [[Isa.63.19|Isa 63:19]] of mountains at <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>'s presence ([[BDB#Ges|Ges]] [[BDB#De|De]] [[BDB#Che|Che]] [[BDB#Di|Di]] [[BDB#Du|Du]]; [[BDB#Sept|ᵐ5]] [[BDB#Vg|ᵑ9]] as if from <span class="bdbLangHebrew">‎נזל‎</span> ***flow down***); so [[Isa.64.2|Isa 64:2]] (but here probably not original [[BDB#Che|Che]] [[BDB#Di|Di]] [[BDB#Du|Du]]); read <span class="bdbLangHebrew">‎נָזֹלּוּ‎</span> likewise [[Judg.5.5|Judg 5:5]] ([[BDB#Sept|ᵐ5]] [[BDB#Thes|Thes]] [[BDB#Stu|Stu]] [[BDB#Be|Be]] [[BDB#Bla|Bl]] [[BDB#MV|MV]] [[BDB#SS|SS]]; [[BDB#MT|ᵑ0]] <span class="bdbLangHebrew">‎נָָֽזְלוּ‎</span>, from <span class="bdbLangHebrew">‎נזל‎</span>). 
+**Niph\`al** ***Perfect*** <span class="bdbLangHebrew">‎נָזֹ֫לּוּ‎</span> ***shake, quake*** [[Isa.63.19|Isa 63:19]] of mountains at <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>'s presence ([[BDB#Ges|Ges]] [[BDB#De|De]] [[BDB#Che|Che]] [[BDB#Di|Di]] [[BDB#Du|Du]]; [[BDB#Sept|ᵐ5]] [[BDB#Vg|ᵑ9]] as if from <span class="bdbLangHebrew">‎נזל‎</span> ***flow down***); so [[Isa.64.3|Isa 64:2]]**\*** (but here probably not original [[BDB#Che|Che]] [[BDB#Di|Di]] [[BDB#Du|Du]]); read <span class="bdbLangHebrew">‎נָזֹלּוּ‎</span> likewise [[Judg.5.5|Judg 5:5]] ([[BDB#Sept|ᵐ5]] [[BDB#Thes|Thes]] [[BDB#Stu|Stu]] [[BDB#Be|Be]] [[BDB#Bla|Bl]] [[BDB#MV|MV]] [[BDB#SS|SS]]; [[BDB#MT|ᵑ0]] <span class="bdbLangHebrew">‎נָָֽזְלוּ‎</span>, from <span class="bdbLangHebrew">‎נזל‎</span>). 
 
 
 
@@ -25,7 +25,7 @@
 | Deuteronomy | [[Deut.21.20\|21:20]] |
 | Judges | [[Judg.5.5\|5:5]] |
 | Proverbs | [[Prov.23.20\|23:20]] · [[Prov.23.21\|23:21]] · [[Prov.28.7\|28:7]] |
-| Isaiah | [[Isa.63.19\|63:19]] · [[Isa.64.2\|64:2]] |
+| Isaiah | [[Isa.63.19\|63:19]] · [[Isa.64.3\|64:2]]**\*** |
 | Jeremiah | [[Jer.15.19\|15:19]] |
 | Lamentations | [[Lam.1.8\|1:8]] · [[Lam.1.11\|1:11]] |
 

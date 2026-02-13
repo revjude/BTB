@@ -4,7 +4,7 @@
 
 **2.** grandfather of Josiah [[2Kgs.22.1|2Kgs 22:1]], [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Εδεινα</span>, [[BDB#A|A]] <span class="bdbLangGreek">Ιεδιδα</span>, [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Οζιου</span> (genitive) 
 
-**3.** a Levite [[1Chr.6.26|1Chr 6:26]], [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Αζεια</span>, [[BDB#A|A]] [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Αδ</span>(<span class="bdbLangGreek">α</span>)<span class="bdbLangGreek">ια</span>. 
+**3.** a Levite [[1Chr.6.41|1Chr 6:26]]**\***, [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Αζεια</span>, [[BDB#A|A]] [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Αδ</span>(<span class="bdbLangGreek">α</span>)<span class="bdbLangGreek">ια</span>. 
 
 **4.** Benjamite [[1Chr.8.21|1Chr 8:21]], [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Αβια</span>, [[BDB#A|A]] <span class="bdbLangGreek">Αλαια</span>, [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Αδαια</span>. 
 
@@ -22,7 +22,7 @@ $\quad$ $\quad$ **b.** v[[Ezra.10.39|Ezra 10:39]], [[BDB#Sept|ᵐ5]] <span class
 | Book | Refs |
 | - | - |
 | 2 Kings | [[2Kgs.22.1\|22:1]] |
-| 1 Chronicles | [[1Chr.6.26\|6:26]] · [[1Chr.8.21\|8:21]] · [[1Chr.9.12\|9:12]] |
+| 1 Chronicles | [[1Chr.6.41\|6:26]]**\*** · [[1Chr.8.21\|8:21]] · [[1Chr.9.12\|9:12]] |
 | 2 Chronicles | [[2Chr.23.1\|23:1]] |
 | Ezra | [[Ezra.10.29\|10:29]] · [[Ezra.10.39\|10:39]] |
 | Nehemiah | [[Neh.11.5\|11:5]] · [[Neh.11.12\|11:12]] |

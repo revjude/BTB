@@ -6,7 +6,7 @@
 
 **2.** grandfather of prophet Zechariah <span class="bdbLangHebrew">‎עִדּוֺ‎</span> [[Zech.1.1|Zech 1:1]], <span class="bdbLangHebrew">‎עִדּוֺא‎</span> v[[Zech.1.7|Zech 1:7]] [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Αδδω</span>. 
 
-**3.** a Levite <span class="bdbLangHebrew">‎עִדּוֺ‎</span> [[1Chr.6.6|1Chr 6:6]] [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Αδει</span>, [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Αδδω</span>. 
+**3.** a Levite <span class="bdbLangHebrew">‎עִדּוֺ‎</span> [[1Chr.6.21|1Chr 6:6]]**\*** [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Αδει</span>, [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Αδδω</span>. 
 
 **4.** a priestly name <span class="bdbLangHebrew">‎עִדּוֺא‎</span> [[BDB#van d.H.|van d. H.]] [[BDB#Gi|Ginsb]] ([[BDB#Baer|Baer]] <span class="bdbLangHebrew">‎עִדּוֺ‎</span>) [[Neh.12.4|Neh 12:4]] [[BDB#Sept|ᵐ5]] <span class="bdbLangHebrew">‎א‎</span> etc. <span class="bdbLangGreek">Αδαιας</span>; also <span class="bdbLangHebrew">‎עדיא‎</span> v[[Neh.12.16|Neh 12:16]] [[BDB#Kt|Kt]] (<span class="bdbLangHebrew">‎עֲדָיָא‎</span>?), [[BDB#Qr|Qr]] <span class="bdbLangHebrew">‎עִדּוֺא‎</span>; [[BDB#Sept|ᵐ5]] <span class="bdbLangHebrew">‎א‎</span> <span class="bdbLangGreek">τῷ Αδδαι</span>, [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">τῳ Αδαια</span>. 
 
@@ -19,7 +19,7 @@
 | Book | Refs |
 | - | - |
 | 1 Kings | [[1Kgs.4.14\|4:14]] |
-| 1 Chronicles | [[1Chr.6.6\|6:6]] |
+| 1 Chronicles | [[1Chr.6.21\|6:6]]**\*** |
 | 2 Chronicles | [[2Chr.9.29\|9:29]] · [[2Chr.12.15\|12:15]] · [[2Chr.13.22\|13:22]] |
 | Nehemiah | [[Neh.12.4\|12:4]] · [[Neh.12.16\|12:16]] |
 | Zechariah | [[Zech.1.1\|1:1]] · [[Zech.1.7\|1:7]] |

@@ -21,11 +21,11 @@ $\quad$ $\quad$ **b.** high priest [[Ezra.10.6|Ezra 10:6]] = <span class="bdbLan
 
 **10.** a post-exilic prince of the line of David [[1Chr.3.24|1Chr 3:24]]. 
 
-**11.** father of Azariah, priest in Solomon's time [[1Chr.5.35|1Chr 5:35]]; [[1Chr.5.36|1Chr 5:36]]. 
+**11.** father of Azariah, priest in Solomon's time [[1Chr.6.9|1Chr 5:35]]**\***; [[1Chr.6.10|1Chr 5:36]]**\***. 
 
 **12.** two of David's mighty men: 
 $\quad$ $\quad$ **a.** a Benjamite [[1Chr.12.5|1Chr 12:5]] 
-$\quad$ $\quad$ **b.** a Gadite [[1Chr.12.13|1Chr 12:13]]. 
+$\quad$ $\quad$ **b.** a Gadite [[1Chr.12.12|1Chr 12:13]]**\***. 
 
 **13.** a returning exile [[Ezra.8.12|Ezra 8:12]]. 
 
@@ -36,7 +36,7 @@ $\quad$ $\quad$ **b.** a Gadite [[1Chr.12.13|1Chr 12:13]].
 | Book | Refs |
 | - | - |
 | 2 Kings | [[2Kgs.23.30\|23:30]] · [[2Kgs.25.23\|25:23]] |
-| 1 Chronicles | [[1Chr.3.15\|3:15]] · [[1Chr.3.24\|3:24]] · [[1Chr.5.35\|5:35]] · [[1Chr.5.36\|5:36]] · [[1Chr.12.5\|12:5]] · [[1Chr.12.13\|12:13]] · [[1Chr.26.3\|26:3]] |
+| 1 Chronicles | [[1Chr.3.15\|3:15]] · [[1Chr.3.24\|3:24]] · [[1Chr.6.9\|5:35]]**\*** · [[1Chr.6.10\|5:36]]**\*** · [[1Chr.12.5\|12:5]] · [[1Chr.12.12\|12:13]]**\*** · [[1Chr.26.3\|26:3]] |
 | 2 Chronicles | [[2Chr.17.15\|17:15]] · [[2Chr.23.1\|23:1]] · [[2Chr.28.12\|28:12]] |
 | Ezra | [[Ezra.8.12\|8:12]] · [[Ezra.10.6\|10:6]] · [[Ezra.10.28\|10:28]] |
 | Nehemiah | [[Neh.6.18\|6:18]] · [[Neh.12.11\|12:11]] · [[Neh.12.13\|12:13]] · [[Neh.12.22\|12:22]] · [[Neh.12.23\|12:23]] · [[Neh.12.42\|12:42]] |

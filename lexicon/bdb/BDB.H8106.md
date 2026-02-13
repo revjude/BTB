@@ -7,7 +7,7 @@
 **1.** <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שׁ‎</span> original owner of hill where Samaria was built [[1Kgs.16.24|1Kgs 16:24]] (twice in verse). 
 
 **2.** <span class="bdbLangHebrew">‎שָׁ֑מֶר‎</span> 
-$\quad$ $\quad$ **a.** Levite [[1Chr.6.31|1Chr 6:31]]. 
+$\quad$ $\quad$ **a.** Levite [[1Chr.6.46|1Chr 6:31]]**\***. 
 $\quad$ $\quad$ **b.** in Asher [[1Chr.7.34|1Chr 7:34]], [[BDB#A|A]] [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Σωμηρ</span>; = <span class="bdbLangHebrew">‎שֹׁמֵר‎</span> v[[1Chr.7.32|1Chr 7:32]]. 
 $\quad$ $\quad$ **c.** in Benjamin [[1Chr.8.12|1Chr 8:12]] [[BDB#van d.H.|van d. H.]]; &gt; <span class="bdbLangHebrew">‎שֶׁטֶד‎</span> q. v. 
 
@@ -18,5 +18,5 @@ $\quad$ $\quad$ **c.** in Benjamin [[1Chr.8.12|1Chr 8:12]] [[BDB#van d.H.|van d.
 | Book | Refs |
 | - | - |
 | 1 Kings | [[1Kgs.16.24\|16:24]] |
-| 1 Chronicles | [[1Chr.6.31\|6:31]] · [[1Chr.7.32\|7:32]] · [[1Chr.7.34\|7:34]] · [[1Chr.8.12\|8:12]] |
+| 1 Chronicles | [[1Chr.6.46\|6:31]]**\*** · [[1Chr.7.32\|7:32]] · [[1Chr.7.34\|7:34]] · [[1Chr.8.12\|8:12]] |
 

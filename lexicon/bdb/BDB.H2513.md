@@ -8,13 +8,13 @@ $\quad$ $\quad$ **b.** without <span class="bdbLangHebrew">‎השׂדה‎</spa
 
 
 
- II. [<span class="bdbLangHebrew">‎חֶלְקָה‎</span>] **noun feminine** ==smooth part, smoothness, flattery==; — construct <span class="bdbLangHebrew">‎חֶלְקַת‎</span> [[Gen.27.16|Gen 27:16]]; [[Prov.6.24|Prov 6:24]] plural <span class="bdbLangHebrew">‎חֲלָקוֺת‎</span> [[Ps.12.3|Ps 12:3]] + 3 t.; — 
+ II. [<span class="bdbLangHebrew">‎חֶלְקָה‎</span>] **noun feminine** ==smooth part, smoothness, flattery==; — construct <span class="bdbLangHebrew">‎חֶלְקַת‎</span> [[Gen.27.16|Gen 27:16]]; [[Prov.6.24|Prov 6:24]] plural <span class="bdbLangHebrew">‎חֲלָקוֺת‎</span> [[Ps.12.2|Ps 12:3]]**\*** + 3 t.; — 
 
 **1.** ***smoothness, smooth part*** <span class="bdbLangHebrew">‎חֶלְקַת צַוָּארָיו‎</span> [[Gen.27.16|Gen 27:16]]. 
 
 **2.** plural ***slippery places*** [[Ps.73.18|Ps 73:18]] figurative of situation of wicked. 
 
-**3.** ***smoothness*** = ***flattery*** <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שְׂפַת חִ‎</span> [[Ps.12.3|Ps 12:3]], compare v[[Ps.12.4|Ps 12:4]] <span class="bdbLangHebrew">‎חֶלְקַת לָשׁוֺן‎</span> [[Prov.6.24|Prov 6:24]] = substantive plural ***smooth things***, i.e. ***agreeable, flattering things*** [[Isa.30.10|Isa 30:10]]. — 1. <span class="bdbLangHebrew">‎חֶלְקָה‎</span> see below I. <span class="bdbLangHebrew">‎חלק‎</span>. 
+**3.** ***smoothness*** = ***flattery*** <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שְׂפַת חִ‎</span> [[Ps.12.2|Ps 12:3]]**\***, compare v[[Ps.12.3|Ps 12:4]]**\*** <span class="bdbLangHebrew">‎חֶלְקַת לָשׁוֺן‎</span> [[Prov.6.24|Prov 6:24]] = substantive plural ***smooth things***, i.e. ***agreeable, flattering things*** [[Isa.30.10|Isa 30:10]]. — 1. <span class="bdbLangHebrew">‎חֶלְקָה‎</span> see below I. <span class="bdbLangHebrew">‎חלק‎</span>. 
 
 
 
@@ -30,7 +30,7 @@ $\quad$ $\quad$ **b.** without <span class="bdbLangHebrew">‎השׂדה‎</spa
 | 2 Kings | [[2Kgs.3.19\|3:19]] · [[2Kgs.3.25\|3:25]] · [[2Kgs.9.21\|9:21]] · [[2Kgs.9.25\|9:25]] · [[2Kgs.9.26\|9:26]] |
 | 1 Chronicles | [[1Chr.11.13\|11:13]] · [[1Chr.11.14\|11:14]] |
 | Job | [[Job.24.18\|24:18]] |
-| Psalms | [[Ps.12.3\|12:3]] · [[Ps.12.4\|12:4]] · [[Ps.73.18\|73:18]] |
+| Psalms | [[Ps.12.2\|12:3]]**\*** · [[Ps.12.3\|12:4]]**\*** · [[Ps.73.18\|73:18]] |
 | Proverbs | [[Prov.6.24\|6:24]] |
 | Isaiah | [[Isa.30.10\|30:10]] |
 | Jeremiah | [[Jer.12.10\|12:10]] |

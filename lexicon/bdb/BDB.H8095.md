@@ -2,7 +2,7 @@
 
 **1.** second son of Jacob and Leath, <span class="bdbLangGreek">Συμεωη</span>: [[Gen.29.33|Gen 29:33]] (name explanation from <span class="bdbLangHebrew">‎שָׁמַע‎</span>), [[Gen.35.23|Gen 35:23]]; [[Exod.1.2|Exod 1:2]] + 14 t. (associated especially with Levi [[Gen.34.25|Gen 34:25]]; [[Gen.34.30|Gen 34:30]]; [[Gen.49.5|Gen 49:5]]). 
 
-**2.** tribal name [[Judg.1.3|Judg 1:3]] (twice in verse); [[Judg.1.17|Judg 1:17]]; [[Num.1.6|Num 1:6]] +; so <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎גְּנֵי שׁ‎</span> [[Num.1.22|Num 1:22]] + 7 t., <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מַטֵה שׁ‎</span> [[Num.1.23|Num 1:23]]; [[Num.2.12|Num 2:12]]; [[Num.13.5|Num 13:5]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מַטֵּה גְנֵי שׁ‎</span> [[Num.10.19|Num 10:19]]; [[Num.34.20|Num 34:20]]; [[Josh.19.1|Josh 19:1]]; [[Josh.19.8|Josh 19:8]]; [[Josh.21.9|Josh 21:9]]; [[1Chr.6.50|1Chr 6:50]]. 
+**2.** tribal name [[Judg.1.3|Judg 1:3]] (twice in verse); [[Judg.1.17|Judg 1:17]]; [[Num.1.6|Num 1:6]] +; so <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎גְּנֵי שׁ‎</span> [[Num.1.22|Num 1:22]] + 7 t., <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מַטֵה שׁ‎</span> [[Num.1.23|Num 1:23]]; [[Num.2.12|Num 2:12]]; [[Num.13.5|Num 13:5]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מַטֵּה גְנֵי שׁ‎</span> [[Num.10.19|Num 10:19]]; [[Num.34.20|Num 34:20]]; [[Josh.19.1|Josh 19:1]]; [[Josh.19.8|Josh 19:8]]; [[Josh.21.9|Josh 21:9]]; [[1Chr.6.65|1Chr 6:50]]**\***. 
 
 **3.** post-exilic Jew with foreign wife [[Ezra.10.31|Ezra 10:31]]. 
 
@@ -17,6 +17,6 @@
 | Numbers | [[Num.1.6\|1:6]] · [[Num.1.22\|1:22]] · [[Num.1.23\|1:23]] · [[Num.2.12\|2:12]] · [[Num.10.19\|10:19]] · [[Num.13.5\|13:5]] · [[Num.34.20\|34:20]] |
 | Joshua | [[Josh.19.1\|19:1]] · [[Josh.19.8\|19:8]] · [[Josh.21.9\|21:9]] |
 | Judges | [[Judg.1.3\|1:3]] · [[Judg.1.17\|1:17]] |
-| 1 Chronicles | [[1Chr.6.50\|6:50]] |
+| 1 Chronicles | [[1Chr.6.65\|6:50]]**\*** |
 | Ezra | [[Ezra.10.31\|10:31]] |
 

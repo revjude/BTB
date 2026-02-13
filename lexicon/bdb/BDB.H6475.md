@@ -3,7 +3,7 @@
 **Qal** ***Perfect*** 3 feminine singular <span class="bdbLangHebrew">‎פָּֽצְתָה‎</span> [[Gen.4.11|Gen 4:11]] +, 2 masculine singular <span class="bdbLangHebrew">‎פָּצִיתָ‎</span> [[Judg.11.36|Judg 11:36]], etc.; ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎יִפְצֶה‎</span> [[Job.35.16|Job 35:16]] ***Imperative*** masculine singular <span class="bdbLangHebrew">‎פְּצֶה‎</span> [[Ezek.2.8|Ezek 2:8]], suffix <span class="bdbLangHebrew">‎פְצֵנִי‎</span> [[Ps.144.7|Ps 144:7]]; [[Ps.144.11|Ps 144:11]] ***Participle*** <span class="bdbLangHebrew">‎פֹּצֶה‎</span> [[Isa.10.14|Isa 10:14]], <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎פּוֺ‎</span> [[Ps.144.10|Ps 144:10]] — 
 
 **1.** ***open*** mouth: 
-$\quad$ $\quad$ **a.** to swallow, figurative of ground, <span class="bdbLangHebrew">‎הָאֲדָמָה‎</span> [[Gen.4.11|Gen 4:11]], ([[BDB#J|J]]), [[Num.16.30|Num 16:30]] ([[BDB#J|J]][[BDB#E|E]]), <span class="bdbLangHebrew">‎הָאָרֶץ‎</span> [[Deut.11.6|Deut 11:6]] of enemies, + <span class="bdbLangHebrew">‎עַל‎</span> person [[Lam.2.16|Lam 2:16]]; [[Lam.3.46|Lam 3:46]]; [[Ps.22.14|Ps 22:14]] literal [[Ezek.2.8|Ezek 2:8]]. 
+$\quad$ $\quad$ **a.** to swallow, figurative of ground, <span class="bdbLangHebrew">‎הָאֲדָמָה‎</span> [[Gen.4.11|Gen 4:11]], ([[BDB#J|J]]), [[Num.16.30|Num 16:30]] ([[BDB#J|J]][[BDB#E|E]]), <span class="bdbLangHebrew">‎הָאָרֶץ‎</span> [[Deut.11.6|Deut 11:6]] of enemies, + <span class="bdbLangHebrew">‎עַל‎</span> person [[Lam.2.16|Lam 2:16]]; [[Lam.3.46|Lam 3:46]]; [[Ps.22.13|Ps 22:14]]**\*** literal [[Ezek.2.8|Ezek 2:8]]. 
 $\quad$ $\quad$ **b.** to speak [[Judg.11.35|Judg 11:35]]; [[Judg.11.36|Judg 11:36]] (utter a vow, + <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎אֶליֿ‎</span>); [[Job.35.16|Job 35:16]] hence = ***utter***, <span class="bdbLangHebrew">‎אֲשֶׁר פָּצוּ שְׁפָתַי‎</span> [[Ps.66.14|Ps 66:14]] of bird chirping <span class="bdbLangHebrew">‎פֹּצֶה פֶה‎</span> [[Isa.10.14|Isa 10:14]] (in figurative). 
 
 **2.** ***snatch away, set free*** (Aramaic loan-word), only [[Ps.144|Ps 144]], + <span class="bdbLangHebrew">‎הִצִּיל‎</span> with <span class="bdbLangHebrew">‎מִן‎</span> v[[Isa.10.7|Isa 10:7]] v[[Isa.10.11|Isa 10:11]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎פ‎</span> with <span class="bdbLangHebrew">‎מִן‎</span> v[[Isa.10.10|Isa 10:10]]. 
@@ -19,7 +19,7 @@ $\quad$ $\quad$ **b.** to speak [[Judg.11.35|Judg 11:35]]; [[Judg.11.36|Judg 11:
 | Deuteronomy | [[Deut.11.6\|11:6]] |
 | Judges | [[Judg.11.35\|11:35]] · [[Judg.11.36\|11:36]] |
 | Job | [[Job.35.16\|35:16]] |
-| Psalms | [[Ps.22.14\|22:14]] · [[Ps.66.14\|66:14]] · [[Ps.144\|Chapter 144]] · [[Ps.144.7\|144:7]] · [[Ps.144.10\|144:10]] · [[Ps.144.11\|144:11]] |
+| Psalms | [[Ps.22.13\|22:14]]**\*** · [[Ps.66.14\|66:14]] · [[Ps.144\|Chapter 144]] · [[Ps.144.7\|144:7]] · [[Ps.144.10\|144:10]] · [[Ps.144.11\|144:11]] |
 | Isaiah | [[Isa.10.7\|10:7]] · [[Isa.10.10\|10:10]] · [[Isa.10.11\|10:11]] · [[Isa.10.14\|10:14]] |
 | Lamentations | [[Lam.2.16\|2:16]] · [[Lam.3.46\|3:46]] |
 | Ezekiel | [[Ezek.2.8\|2:8]] |

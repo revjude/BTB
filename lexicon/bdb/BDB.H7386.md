@@ -4,7 +4,7 @@
 
 **1.**). 
 
-**2.** ***empty, idle, worthless***, ethically; <span class="bdbLangHebrew">‎אנשׁים ריקים‎</span> ***worthless fellows*** [[Judg.9.4|Judg 9:4]]; [[Judg.11.3|Judg 11:3]]; [[2Chr.13.7|2Chr 13:7]], so <span class="bdbLangHebrew">‎הָרֵקִים‎</span> alone(as substantive) [[2Sam.6.20|2Sam 6:20]] <span class="bdbLangHebrew">‎מְרַדֵּף רֵיקִים‎</span> [[Prov.12.11|Prov 12:11]] [[BDB#AV|AV]] [[BDB#RV|RV]] of persons; &lt; ***vain, unprofitable things***, [[Prov.28.19|Prov 28:19]] (see Toy); <span class="bdbLangHebrew">‎מִן‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎דָּבָר ר‎</span> [[Deut.32.47|Deut 32:47]] ([[BDB#D|D]]) ***a thing too empty*** (of significance) for you; + (probably) [[Ps.4.3|Ps 4:3]] (<span class="bdbLangHebrew">‎רֵיק‎</span> for [[BDB#MT|ᵑ0]] <span class="bdbLangHebrew">‎רִיק‎</span>) ***love an empty thing*** (\|\| <span class="bdbLangHebrew">‎כזב‎</span>), of abortive course of action. 
+**2.** ***empty, idle, worthless***, ethically; <span class="bdbLangHebrew">‎אנשׁים ריקים‎</span> ***worthless fellows*** [[Judg.9.4|Judg 9:4]]; [[Judg.11.3|Judg 11:3]]; [[2Chr.13.7|2Chr 13:7]], so <span class="bdbLangHebrew">‎הָרֵקִים‎</span> alone(as substantive) [[2Sam.6.20|2Sam 6:20]] <span class="bdbLangHebrew">‎מְרַדֵּף רֵיקִים‎</span> [[Prov.12.11|Prov 12:11]] [[BDB#AV|AV]] [[BDB#RV|RV]] of persons; &lt; ***vain, unprofitable things***, [[Prov.28.19|Prov 28:19]] (see Toy); <span class="bdbLangHebrew">‎מִן‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎דָּבָר ר‎</span> [[Deut.32.47|Deut 32:47]] ([[BDB#D|D]]) ***a thing too empty*** (of significance) for you; + (probably) [[Ps.4.2|Ps 4:3]]**\*** (<span class="bdbLangHebrew">‎רֵיק‎</span> for [[BDB#MT|ᵑ0]] <span class="bdbLangHebrew">‎רִיק‎</span>) ***love an empty thing*** (\|\| <span class="bdbLangHebrew">‎כזב‎</span>), of abortive course of action. 
 
 
 
@@ -19,7 +19,7 @@
 | 2 Kings | [[2Kgs.4.3\|4:3]] |
 | 2 Chronicles | [[2Chr.13.7\|13:7]] |
 | Nehemiah | [[Neh.5.13\|5:13]] |
-| Psalms | [[Ps.4.3\|4:3]] |
+| Psalms | [[Ps.4.2\|4:3]]**\*** |
 | Proverbs | [[Prov.12.11\|12:11]] · [[Prov.28.19\|28:19]] |
 | Isaiah | [[Isa.29.8\|29:8]] · [[Isa.32.6\|32:6]] |
 | Jeremiah | [[Jer.14.3\|14:3]] · [[Jer.51.34\|51:34]] |

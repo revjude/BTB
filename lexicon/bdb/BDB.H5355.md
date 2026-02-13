@@ -8,7 +8,7 @@
 
 
 
- <span class="bdbLangHebrew">‎נָקִיא‎</span> **adjective** ==innocent==; — <span class="bdbLangHebrew">‎דָּם נָקִיא‎</span> ***innocent blood*** [[Joel.4.19|Joel 4:19]]; [[Jonah.1.14|Jonah 1:14]] (both [[BDB#Kt|Kt]]; [[BDB#Qr|Qr]] <span class="bdbLangHebrew">‎נָקִי‎</span>). 
+ <span class="bdbLangHebrew">‎נָקִיא‎</span> **adjective** ==innocent==; — <span class="bdbLangHebrew">‎דָּם נָקִיא‎</span> ***innocent blood*** [[Joel.3.19|Joel 4:19]]**\***; [[Jonah.1.14|Jonah 1:14]] (both [[BDB#Kt|Kt]]; [[BDB#Qr|Qr]] <span class="bdbLangHebrew">‎נָקִי‎</span>). 
 
 **Brown-Driver-Briggs References**
 
@@ -28,6 +28,6 @@
 | Proverbs | [[Prov.1.11\|1:11]] · [[Prov.6.17\|6:17]] |
 | Isaiah | [[Isa.59.7\|59:7]] |
 | Jeremiah | [[Jer.2.34\|2:34]] · [[Jer.7.6\|7:6]] · [[Jer.19.4\|19:4]] · [[Jer.22.3\|22:3]] · [[Jer.22.17\|22:17]] · [[Jer.26.15\|26:15]] |
-| Joel | [[Joel.4.19\|4:19]] |
+| Joel | [[Joel.3.19\|4:19]]**\*** |
 | Jonah | [[Jonah.1.14\|1:14]] |
 

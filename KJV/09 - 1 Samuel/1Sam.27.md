@@ -43,7 +43,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Sam.27.8|8]]**<span class="e
 
 [^17]: [[Josh.13|Josh 13:2]], [[Josh.13|Josh 13:13]]; [[2Sam.13|2Sam 13:37-38]], [[2Sam.14|2Sam 14:23]], [[2Sam.14|2Sam 14:32]], [[2Sam.15|2Sam 15:8]]; [[1Chr.2|1Chr 2:23]]
 
-[^18]: or, Gerzites, These people seem to be the Gerrhenians ([[2Macc.13|2Macc 13:24]]) whose chief city, Gerrha, is mentioned by Strabo as lying between Gaza and Pelusium in Egypt.
+[^18]: or, Gerzites, These people seem to be the Gerrhenians (2Macc 13:24) whose chief city, Gerrha, is mentioned by Strabo as lying between Gaza and Pelusium in Egypt.
 
 [^19]: [[Josh.16|Josh 16:10]]; [[Judg.1|Judg 1:29]]; [[1Kgs.9|1Kgs 9:15-17]]
 

@@ -2,7 +2,7 @@
 
 **1.** singular <span class="bdbLangHebrew">‎תַּפּוּחַ‎</span> ***apple-tree*** [[Joel.1.12|Joel 1:12]]; [[Song.2.3|Song 2:3]]; [[Song.8.5|Song 8:5]]. 
 
-**2.** plural <span class="bdbLangHebrew">‎תַּפּוּחִים‎</span> ***apples*** [[Song.2.5|Song 2:5]], <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎רֵיחַ אַפֵּךְ כַּתּ‎</span> [[Song.7.9|Song 7:9]] <span class="bdbLangHebrew">‎תַּפּוּחֵי זָהָב‎</span> [[Prov.25.4|Prov 25:4]] (in simile). 
+**2.** plural <span class="bdbLangHebrew">‎תַּפּוּחִים‎</span> ***apples*** [[Song.2.5|Song 2:5]], <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎רֵיחַ אַפֵּךְ כַּתּ‎</span> [[Song.7.8|Song 7:9]]**\*** <span class="bdbLangHebrew">‎תַּפּוּחֵי זָהָב‎</span> [[Prov.25.4|Prov 25:4]] (in simile). 
 
 
 
@@ -11,6 +11,6 @@
 | Book | Refs |
 | - | - |
 | Proverbs | [[Prov.25.4\|25:4]] |
-| Song of Solomon | [[Song.2.3\|2:3]] · [[Song.2.5\|2:5]] · [[Song.7.9\|7:9]] · [[Song.8.5\|8:5]] |
+| Song of Solomon | [[Song.2.3\|2:3]] · [[Song.2.5\|2:5]] · [[Song.7.8\|7:9]]**\*** · [[Song.8.5\|8:5]] |
 | Joel | [[Joel.1.12\|1:12]] |
 

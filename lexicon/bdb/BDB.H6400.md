@@ -1,6 +1,6 @@
- <span class="bdbLangHebrew">‎פֶּ֫לַח‎</span> **noun feminine** [[Job.41.16|Job 41:16]] ==cleavage, mill-stone== (mill ***cleft*** between the stones ? compare [[BDB#GFM|GFM]]<sup>Ju</sup>; [[BDB#Tg|ᵑ7]] <span class="bdbLangHebrew">‎פִּלְחָא‎</span>); — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎פ‎</span> absolute [[Job.41.16|Job 41:16]], elsewhere construct; — 
+ <span class="bdbLangHebrew">‎פֶּ֫לַח‎</span> **noun feminine** [[Job.41.24|Job 41:16]]**\*** ==cleavage, mill-stone== (mill ***cleft*** between the stones ? compare [[BDB#GFM|GFM]]<sup>Ju</sup>; [[BDB#Tg|ᵑ7]] <span class="bdbLangHebrew">‎פִּלְחָא‎</span>); — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎פ‎</span> absolute [[Job.41.24|Job 41:16]]**\***, elsewhere construct; — 
 
-**1.a.** ***mill-stone***, <span class="bdbLangHebrew">‎רֶכֶב‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎פ‎</span> ***mill-stone of riding***, i.e. upper stone, which is turned (compare <span class="bdbLangHebrew">‎רֶכֶב‎</span>), [[Judg.9.53|Judg 9:53]]; [[2Sam.11.21|2Sam 11:21]] <span class="bdbLangHebrew">‎תַּחְתִּית‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎פ‎</span> [[Job.41.16|Job 41:16]] ***lower mill-stone*** (simile of hardness).
+**1.a.** ***mill-stone***, <span class="bdbLangHebrew">‎רֶכֶב‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎פ‎</span> ***mill-stone of riding***, i.e. upper stone, which is turned (compare <span class="bdbLangHebrew">‎רֶכֶב‎</span>), [[Judg.9.53|Judg 9:53]]; [[2Sam.11.21|2Sam 11:21]] <span class="bdbLangHebrew">‎תַּחְתִּית‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎פ‎</span> [[Job.41.24|Job 41:16]]**\*** ***lower mill-stone*** (simile of hardness).
 
 
 $\quad$ $\quad$ **b.** <span class="bdbLangHebrew">‎דְּבֵלָה‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎פ‎</span> [[1Sam.30.12|1Sam 30:12]] ***a cake of figs*** (from shape ?). 
@@ -16,6 +16,6 @@ $\quad$ $\quad$ **b.** <span class="bdbLangHebrew">‎דְּבֵלָה‎</span>
 | Judges | [[Judg.9.53\|9:53]] |
 | 1 Samuel | [[1Sam.30.12\|30:12]] |
 | 2 Samuel | [[2Sam.11.21\|11:21]] |
-| Job | [[Job.41.16\|41:16]] |
+| Job | [[Job.41.24\|41:16]]**\*** |
 | Song of Solomon | [[Song.4.3\|4:3]] · [[Song.6.7\|6:7]] |
 

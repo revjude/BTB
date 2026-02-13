@@ -6,7 +6,7 @@
 
 **3.** head of a family of returning exiles [[Ezra.2.2|Ezra 2:2]] = [[Neh.7.7|Neh 7:7]] perhaps also = <span class="bdbLangHebrew">‎בַּעֲנָא‎</span> [[Neh.3.4|Neh 3:4]]. 
 
-**4.** a chief of the people [[Neh.10.28|Neh 10:28]]. 
+**4.** a chief of the people [[Neh.10.27|Neh 10:28]]**\***. 
 
 
 
@@ -17,5 +17,5 @@
 | 2 Samuel | [[2Sam.4.2\|4:2]] · [[2Sam.4.5\|4:5]] · [[2Sam.4.6\|4:6]] · [[2Sam.4.9\|4:9]] · [[2Sam.23.29\|23:29]] |
 | 1 Chronicles | [[1Chr.11.30\|11:30]] |
 | Ezra | [[Ezra.2.2\|2:2]] |
-| Nehemiah | [[Neh.3.4\|3:4]] · [[Neh.7.7\|7:7]] · [[Neh.10.28\|10:28]] |
+| Nehemiah | [[Neh.3.4\|3:4]] · [[Neh.7.7\|7:7]] · [[Neh.10.27\|10:28]]**\*** |
 

@@ -6,7 +6,7 @@
 
 **2.** = ***be pleasant***, <span class="bdbLangHebrew">‎מָֽתְקוּ לוֺ‎</span> [[Job.21.33|Job 21:33]] ***sweet*** (pleasant) ***to him*** are the clods of the valley (said of one resting in the grave). 
 
-**3.** ***suck*** (Aramaic sense, compare Syriac above) <span class="bdbLangHebrew">‎מְתָקוֺ רִמָּה‎</span> [[Job.24.20|Job 24:20]] the worm ***doth suck him***, feast on him (on verb masculine compare [[BDB#Ges|Ges]]<sup>«GKC:145»§ 145</sup>. 7 [[BDB#Kö|Kö]]<sup>Synt. § 345 a</sup> [[BDB#Da|Da]]<sup>Synt. § 113</sup> (b)), [[BDB#Di|Di]] [[BDB#De|De]] [[BDB#Buhl|Buhl]] (compare [[BDB#Kau|Kau]] [[BDB#Da|Da]]; also [[BDB#SS|SS]] who render 'angenehm finden'), but this sense in Hebrew dubious; text perhaps corrupt (compare conjectures by [[BDB#Bu|Bu]] [[BDB#Du|Du]]). **Hiph\`il** ***Imperfect*** 3 feminine singular <span class="bdbLangHebrew">‎אִם תַּמְתִּיק בְּפִיו רָעָה‎</span> [[Job.20.12|Job 20:12]] ***if evil gives a sweet taste in his mouth*** (declarative Hiph\`il); 1 plural <span class="bdbLangHebrew">‎אֲשֶׁר יַחְדָּו נַמְתִּיק סוֺד‎</span> [[Ps.55.15|Ps 55:15]] ***we who used to make sweet*** (our) ***intimacy***. 
+**3.** ***suck*** (Aramaic sense, compare Syriac above) <span class="bdbLangHebrew">‎מְתָקוֺ רִמָּה‎</span> [[Job.24.20|Job 24:20]] the worm ***doth suck him***, feast on him (on verb masculine compare [[BDB#Ges|Ges]]<sup>«GKC:145»§ 145</sup>. 7 [[BDB#Kö|Kö]]<sup>Synt. § 345 a</sup> [[BDB#Da|Da]]<sup>Synt. § 113</sup> (b)), [[BDB#Di|Di]] [[BDB#De|De]] [[BDB#Buhl|Buhl]] (compare [[BDB#Kau|Kau]] [[BDB#Da|Da]]; also [[BDB#SS|SS]] who render 'angenehm finden'), but this sense in Hebrew dubious; text perhaps corrupt (compare conjectures by [[BDB#Bu|Bu]] [[BDB#Du|Du]]). **Hiph\`il** ***Imperfect*** 3 feminine singular <span class="bdbLangHebrew">‎אִם תַּמְתִּיק בְּפִיו רָעָה‎</span> [[Job.20.12|Job 20:12]] ***if evil gives a sweet taste in his mouth*** (declarative Hiph\`il); 1 plural <span class="bdbLangHebrew">‎אֲשֶׁר יַחְדָּו נַמְתִּיק סוֺד‎</span> [[Ps.55.14|Ps 55:15]]**\*** ***we who used to make sweet*** (our) ***intimacy***. 
 
 
 
@@ -16,6 +16,6 @@
 | - | - |
 | Exodus | [[Exod.15.25\|15:25]] |
 | Job | [[Job.20.12\|20:12]] · [[Job.21.33\|21:33]] · [[Job.24.20\|24:20]] |
-| Psalms | [[Ps.55.15\|55:15]] |
+| Psalms | [[Ps.55.14\|55:15]]**\*** |
 | Proverbs | [[Prov.9.17\|9:17]] |
 

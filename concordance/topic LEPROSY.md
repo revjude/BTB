@@ -21,8 +21,6 @@
 
 - Four lepers outside Samaria [[2Kgs.7.3|2Ki 7:3]]
 
-- [[PrAzar.1.2|Azariah 2]]Ki 15:5
-
 - Simon [[Mark.14.3|Mr 14:3]]
 
 → HEALED

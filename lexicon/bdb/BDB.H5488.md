@@ -1,4 +1,4 @@
- I. <span class="bdbLangHebrew">‎סוּף‎</span> **noun masculine**<sup>[[Jonah.2.6|Jonah 2:6]]</sup> ==reeds, rushes== (collective) (probably loan-word from Egyptian <abbr title="transliteration"><u>***‰wfi***</u></abbr>, ***reeds***, [[BDB#Steind|Steind]]<sup>BAS i. 603</sup> Erman<sup>ZMG xivi (1892), 122</sup>; Semitic according to [[BDB#WMM|WMM]]<sup>As. u.Eur.101</sup>); — 
+ I. <span class="bdbLangHebrew">‎סוּף‎</span> **noun masculine**<sup>[[Jonah.2.5|Jonah 2:6]]**\***</sup> ==reeds, rushes== (collective) (probably loan-word from Egyptian <abbr title="transliteration"><u>***‰wfi***</u></abbr>, ***reeds***, [[BDB#Steind|Steind]]<sup>BAS i. 603</sup> Erman<sup>ZMG xivi (1892), 122</sup>; Semitic according to [[BDB#WMM|WMM]]<sup>As. u.Eur.101</sup>); — 
 
 **1.** ***rushes***, in Nile [[Exod.2.3|Exod 2:3]]; [[Exod.2.5|Exod 2:5]] ([[BDB#E|E]]); <span class="bdbLangHebrew">‎קָנֶה וָסוּף‎</span> [[Isa.19.6|Isa 19:6]] (of Egypt). 
 
@@ -22,5 +22,5 @@ $\quad$ $\quad$ **b.** sometimes to ***Gulf of Akaba*** [[1Kgs.9.26|1Kgs 9:26]],
 | Psalms | [[Ps.106.7\|106:7]] · [[Ps.106.9\|106:9]] · [[Ps.106.22\|106:22]] · [[Ps.136.13\|136:13]] · [[Ps.136.15\|136:15]] |
 | Isaiah | [[Isa.19.6\|19:6]] |
 | Jeremiah | [[Jer.49.21\|49:21]] |
-| Jonah | [[Jonah.2.6\|2:6]] |
+| Jonah | [[Jonah.2.5\|2:6]]**\*** |
 

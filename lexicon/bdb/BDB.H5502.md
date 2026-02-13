@@ -10,7 +10,7 @@
 
 **1.** ***go about, to and fro*** (i.e. go about one's affairs, carry on one's business) ***in***, with accusative <span class="bdbLangHebrew">‎אֶרֶץ‎</span> [[Gen.42.34|Gen 42:34]] ([[BDB#E|E]]), [[Gen.34.10|Gen 34:10]]; [[Gen.34.21|Gen 34:21]] ([[BDB#P|P]]); with <span class="bdbLangHebrew">‎אֶלאֶֿרֶץ‎</span> [[Jer.14.18|Jer 14:18]], but dubious, [[BDB#Sept|ᵐ5]] [[BDB#Gf|Gf]] [[BDB#Hi|Hi]] Or [[BDB#Co|Co]]<sup>Hpt</sup> [[BDB#Rothst|Rothst]]<sup>Kau</sup> ***journey unto a land which*** they have not known. 
 
-**2.** ***Participle*** = substantive ***a trafficker, trader*** (who ***goes about*** with wares, etc.) [[Gen.23.16|Gen 23:16]] ([[BDB#P|P]]), [[Gen.37.28|Gen 37:28]] ([[BDB#E|E]]), [[Isa.23.2|Isa 23:2]]; [[Isa.23.8|Isa 23:8]]; [[Isa.47.15|Isa 47:15]]; [[1Kgs.10.28|1Kgs 10:28]] = [[2Chr.1.16|2Chr 1:16]]; [[Ezek.27.21|Ezek 27:21]] (twice in verse); [[Ezek.27.36|Ezek 27:36]]; [[Ezek.38.13|Ezek 38:13]] + <span class="bdbLangHebrew">‎תָּרִים‎</span> [[2Chr.9.14|2Chr 9:14]] feminine, of a city or country, [[Ezek.27.12|Ezek 27:12]]; [[Ezek.27.16|Ezek 27:16]]; [[Ezek.27.18|Ezek 27:18]] also in v[[Ezek.27.15|Ezek 27:15]] read <span class="bdbLangHebrew">‎סֹחֲרֹתַיִךְ‎</span> for [[BDB#MT|ᵑ0]] (<span class="bdbLangHebrew">‎ידך‎</span>) <span class="bdbLangHebrew">‎סְחֹרַת‎</span> [[BDB#Sm|Sm]] [[BDB#Co|Co]] [[BDB#Berthol|Berthol]] Toy. **Pilpel** ***Perfect*** 3 masculine singular <span class="bdbLangHebrew">‎לִבִּי סְחַרְחַר‎</span> [[Ps.38.11|Ps 38:11]] ([[BDB#Ges|Ges]]<sup>«GKC:55e»§ 55e</sup>) ***my heart palpittes*** (+ <span class="bdbLangHebrew">‎עֲזָבַנִי כֹחִי‎</span>). 
+**2.** ***Participle*** = substantive ***a trafficker, trader*** (who ***goes about*** with wares, etc.) [[Gen.23.16|Gen 23:16]] ([[BDB#P|P]]), [[Gen.37.28|Gen 37:28]] ([[BDB#E|E]]), [[Isa.23.2|Isa 23:2]]; [[Isa.23.8|Isa 23:8]]; [[Isa.47.15|Isa 47:15]]; [[1Kgs.10.28|1Kgs 10:28]] = [[2Chr.1.16|2Chr 1:16]]; [[Ezek.27.21|Ezek 27:21]] (twice in verse); [[Ezek.27.36|Ezek 27:36]]; [[Ezek.38.13|Ezek 38:13]] + <span class="bdbLangHebrew">‎תָּרִים‎</span> [[2Chr.9.14|2Chr 9:14]] feminine, of a city or country, [[Ezek.27.12|Ezek 27:12]]; [[Ezek.27.16|Ezek 27:16]]; [[Ezek.27.18|Ezek 27:18]] also in v[[Ezek.27.15|Ezek 27:15]] read <span class="bdbLangHebrew">‎סֹחֲרֹתַיִךְ‎</span> for [[BDB#MT|ᵑ0]] (<span class="bdbLangHebrew">‎ידך‎</span>) <span class="bdbLangHebrew">‎סְחֹרַת‎</span> [[BDB#Sm|Sm]] [[BDB#Co|Co]] [[BDB#Berthol|Berthol]] Toy. **Pilpel** ***Perfect*** 3 masculine singular <span class="bdbLangHebrew">‎לִבִּי סְחַרְחַר‎</span> [[Ps.38.10|Ps 38:11]]**\*** ([[BDB#Ges|Ges]]<sup>«GKC:55e»§ 55e</sup>) ***my heart palpittes*** (+ <span class="bdbLangHebrew">‎עֲזָבַנִי כֹחִי‎</span>). 
 
 
 
@@ -21,7 +21,7 @@
 | Genesis | [[Gen.23.16\|23:16]] · [[Gen.34.10\|34:10]] · [[Gen.34.21\|34:21]] · [[Gen.37.28\|37:28]] · [[Gen.42.34\|42:34]] |
 | 1 Kings | [[1Kgs.10.28\|10:28]] |
 | 2 Chronicles | [[2Chr.1.16\|1:16]] · [[2Chr.9.14\|9:14]] |
-| Psalms | [[Ps.38.11\|38:11]] |
+| Psalms | [[Ps.38.10\|38:11]]**\*** |
 | Proverbs | [[Prov.28.3\|28:3]] · [[Prov.31.14\|31:14]] |
 | Isaiah | [[Isa.23.2\|23:2]] · [[Isa.23.8\|23:8]] · [[Isa.47.15\|47:15]] |
 | Jeremiah | [[Jer.14.18\|14:18]] · [[Jer.46.15\|46:15]] |

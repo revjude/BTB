@@ -8,7 +8,7 @@
 
 **3.** ***slaughter*** person [[Judg.12.6|Judg 12:6]]; [[1Kgs.18.40|1Kgs 18:40]]; [[2Kgs.10.7|2Kgs 10:7]]; [[2Kgs.10.14|2Kgs 10:14]] (<span class="bdbLangHebrew">‎אֶל‎</span> location), [[2Kgs.25.7|2Kgs 25:7]] = [[Jer.39.6|Jer 39:6]]a = [[Jer.52.10|Jer 52:10]]a, [[Jer.39.6|Jer 39:6]]b =  <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> subject [[Num.14.16|Num 14:16]] ([[BDB#J|J]][[BDB#E|E]]); in human sacrifice [[Gen.22.10|Gen 22:10]] ([[BDB#E|E]]), to false gods [[Ezek.16.21|Ezek 16:21]]; [[Ezek.23.39|Ezek 23:39]]; [[Isa.57.5|Isa 57:5]]. 
 
-**4.** passive participle = ***beaten, hammered***, <span class="bdbLangHebrew">‎זָהָב שָׁחוּט‎</span> [[1Kgs.10.16|1Kgs 10:16]]; [[1Kgs.10.17|1Kgs 10:17]] = [[2Chr.9.15|2Chr 9:15]]a [[2Chr.9.16|2Chr 9:16]], of shekels [[2Chr.9.15|2Chr 9:15]] so also [[Jer.9.7|Jer 9:7]] [[BDB#Qr|Qr]] <span class="bdbLangHebrew">‎חֵץשָׁחוּט‎</span> (&gt; [[BDB#Kt|Kt]] <span class="bdbLangHebrew">‎שׁוֺחֵט‎</span>) ***hammered*** (i.e. sharpened) ***arrow***. **Niph\`al** ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎יִשָּׁחֵט‎</span> [[Num.11.22|Num 11:22]] ([[BDB#J|J]]) ***be slaughtered*** for food (subject beast); 3 feminine singular <span class="bdbLangHebrew">‎תִּשָּׁחֵט‎</span> [[Lev.6.18|Lev 6:18]] (twice in verse) ([[BDB#P|P]]) ***be slain***, of sacrifice. 
+**4.** passive participle = ***beaten, hammered***, <span class="bdbLangHebrew">‎זָהָב שָׁחוּט‎</span> [[1Kgs.10.16|1Kgs 10:16]]; [[1Kgs.10.17|1Kgs 10:17]] = [[2Chr.9.15|2Chr 9:15]]a [[2Chr.9.16|2Chr 9:16]], of shekels [[2Chr.9.15|2Chr 9:15]] so also [[Jer.9.8|Jer 9:7]]**\*** [[BDB#Qr|Qr]] <span class="bdbLangHebrew">‎חֵץשָׁחוּט‎</span> (&gt; [[BDB#Kt|Kt]] <span class="bdbLangHebrew">‎שׁוֺחֵט‎</span>) ***hammered*** (i.e. sharpened) ***arrow***. **Niph\`al** ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎יִשָּׁחֵט‎</span> [[Num.11.22|Num 11:22]] ([[BDB#J|J]]) ***be slaughtered*** for food (subject beast); 3 feminine singular <span class="bdbLangHebrew">‎תִּשָּׁחֵט‎</span> [[Lev.6.25|Lev 6:18]]**\*** (twice in verse) ([[BDB#P|P]]) ***be slain***, of sacrifice. 
 
 
 
@@ -20,7 +20,7 @@
 | - | - |
 | Genesis | [[Gen.22.10\|22:10]] · [[Gen.37.31\|37:31]] |
 | Exodus | [[Exod.12.6\|12:6]] · [[Exod.12.21\|12:21]] · [[Exod.29.11\|29:11]] |
-| Leviticus | [[Lev.1.5\|1:5]] · [[Lev.1.11\|1:11]] · [[Lev.3.2\|3:2]] · [[Lev.4.24\|4:24]] · [[Lev.6.18\|6:18]] · [[Lev.7.2\|7:2]] · [[Lev.9.8\|9:8]] · [[Lev.14.5\|14:5]] · [[Lev.14.6\|14:6]] · [[Lev.14.13\|14:13]] · [[Lev.14.50\|14:50]] · [[Lev.14.51\|14:51]] · [[Lev.17.3\|17:3]] |
+| Leviticus | [[Lev.1.5\|1:5]] · [[Lev.1.11\|1:11]] · [[Lev.3.2\|3:2]] · [[Lev.4.24\|4:24]] · [[Lev.6.25\|6:18]]**\*** · [[Lev.7.2\|7:2]] · [[Lev.9.8\|9:8]] · [[Lev.14.5\|14:5]] · [[Lev.14.6\|14:6]] · [[Lev.14.13\|14:13]] · [[Lev.14.50\|14:50]] · [[Lev.14.51\|14:51]] · [[Lev.17.3\|17:3]] |
 | Numbers | [[Num.11.22\|11:22]] · [[Num.14.16\|14:16]] · [[Num.19.3\|19:3]] |
 | Judges | [[Judg.12.6\|12:6]] |
 | 1 Samuel | [[1Sam.1.25\|1:25]] · [[1Sam.14.32\|14:32]] · [[1Sam.14.34\|14:34]] |
@@ -29,7 +29,7 @@
 | 2 Chronicles | [[2Chr.9.15\|9:15]] · [[2Chr.9.16\|9:16]] · [[2Chr.29.22\|29:22]] · [[2Chr.29.24\|29:24]] · [[2Chr.30.15\|30:15]] · [[2Chr.35.1\|35:1]] · [[2Chr.35.6\|35:6]] · [[2Chr.35.11\|35:11]] |
 | Ezra | [[Ezra.6.20\|6:20]] |
 | Isaiah | [[Isa.22.13\|22:13]] · [[Isa.37.30\|37:30]] · [[Isa.57.5\|57:5]] · [[Isa.66.3\|66:3]] |
-| Jeremiah | [[Jer.9.7\|9:7]] · [[Jer.39.6\|39:6]] · [[Jer.52.10\|52:10]] |
+| Jeremiah | [[Jer.9.8\|9:7]]**\*** · [[Jer.39.6\|39:6]] · [[Jer.52.10\|52:10]] |
 | Ezekiel | [[Ezek.16.21\|16:21]] · [[Ezek.23.39\|23:39]] · [[Ezek.40.39\|40:39]] · [[Ezek.40.41\|40:41]] · [[Ezek.40.42\|40:42]] · [[Ezek.44.11\|44:11]] |
 | Hosea | [[Hos.5.2\|5:2]] |
 

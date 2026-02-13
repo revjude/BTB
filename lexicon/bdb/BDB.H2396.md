@@ -9,7 +9,7 @@ $\quad$ $\quad$ $\quad$ (***i***)***au***</u></abbr>, [[BDB#Schr|Schr]]<sup>COT<
 
 **3.** [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Εξεκια</span>(<span class="bdbLangGreek">ς</span>)<span class="bdbLangGreek">,</span> <span class="bdbLangHebrew">‎חִזְקִיָּה‎</span> man of royal Davidic line [[1Chr.3.23|1Chr 3:23]] probably near time of Char. 
 
-**4.** <span class="bdbLangHebrew">‎יְחִזְקִיָּה‎</span>, [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Εξεκια</span>(<span class="bdbLangGreek">ς</span>)<span class="bdbLangGreek">,</span> head of a family of returned exiles [[Ezra.2.16|Ezra 2:16]] = <span class="bdbLangHebrew">‎חִזְקִיָּה‎</span> [[Neh.7.21|Neh 7:21]], compare also <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ח‎</span> [[Neh.10.18|Neh 10:18]]. 
+**4.** <span class="bdbLangHebrew">‎יְחִזְקִיָּה‎</span>, [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Εξεκια</span>(<span class="bdbLangGreek">ς</span>)<span class="bdbLangGreek">,</span> head of a family of returned exiles [[Ezra.2.16|Ezra 2:16]] = <span class="bdbLangHebrew">‎חִזְקִיָּה‎</span> [[Neh.7.21|Neh 7:21]], compare also <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ח‎</span> [[Neh.10.17|Neh 10:18]]**\***. 
 
 **5.** <span class="bdbLangHebrew">‎יְחִזְקִיָּהוּ‎</span> [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Εξεκιας,</span> an Ephraimite, Ahaz's time [[2Chr.28.12|2Chr 28:12]]. 
 
@@ -23,7 +23,7 @@ $\quad$ $\quad$ $\quad$ (***i***)***au***</u></abbr>, [[BDB#Schr|Schr]]<sup>COT<
 | 1 Chronicles | [[1Chr.3.13\|3:13]] · [[1Chr.3.23\|3:23]] · [[1Chr.4.41\|4:41]] |
 | 2 Chronicles | [[2Chr.28.12\|28:12]] · [[2Chr.28.27\|28:27]] · [[2Chr.29.18\|29:18]] · [[2Chr.29.27\|29:27]] · [[2Chr.30.24\|30:24]] · [[2Chr.32.15\|32:15]] |
 | Ezra | [[Ezra.2.16\|2:16]] |
-| Nehemiah | [[Neh.7.21\|7:21]] · [[Neh.10.18\|10:18]] |
+| Nehemiah | [[Neh.7.21\|7:21]] · [[Neh.10.17\|10:18]]**\*** |
 | Proverbs | [[Prov.16.20\|16:20]] · [[Prov.18.9\|18:9]] · [[Prov.20.10\|20:10]] · [[Prov.25.1\|25:1]] |
 | Isaiah | [[Isa.1.1\|1:1]] · [[Isa.36.1\|36:1]] |
 | Jeremiah | [[Jer.15.4\|15:4]] · [[Jer.26.18\|26:18]] · [[Jer.26.19\|26:19]] |

@@ -2,7 +2,7 @@
 
 **Qal** ***Perfect*** 3 masculine singular <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שׁ‎</span> [[Ps.105.30|Ps 105:30]], <span class="bdbLangHebrew">‎שָֽׁרְצוּ‎</span> [[Gen.1.21|Gen 1:21]], etc.; ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎יִשְׁרֹץ‎</span> [[Ezek.47.9|Ezek 47:9]], etc.; ***Imperative*** masculine plural <span class="bdbLangHebrew">‎שִׁרְצוּ‎</span> [[Gen.9.7|Gen 9:7]] ***Participle*** <span class="bdbLangHebrew">‎הַשֹּׁרֵץ‎</span> [[Gen.7.21|Gen 7:21]] +, feminine <span class="bdbLangHebrew">‎הַשֹּׁרֶ֫צֶת‎</span> [[Lev.11.46|Lev 11:46]] Hexateuch only [[BDB#P|P]]: — 
 
-**1.** ***swarm, teem*** with (accusative animal.), subject water [[Gen.1.20|Gen 1:20]]; [[Gen.1.21|Gen 1:21]], compare [[Exod.7.28|Exod 7:28]], land [[Ps.105.30|Ps 105:30]]. 
+**1.** ***swarm, teem*** with (accusative animal.), subject water [[Gen.1.20|Gen 1:20]]; [[Gen.1.21|Gen 1:21]], compare [[Exod.8.3|Exod 7:28]]**\***, land [[Ps.105.30|Ps 105:30]]. 
 
 **2.** ***swarm***, subject animal. [[Gen.8.17|Gen 8:17]] (+ <span class="bdbLangHebrew">‎פָּרָה‎</span>, <span class="bdbLangHebrew">‎רָבָה‎</span>), [[Ezek.47.9|Ezek 47:9]], <span class="bdbLangHebrew">‎הַּשֹׁרֵּץ‎</span> [[Gen.7.21|Gen 7:21]]; [[Lev.11.29|Lev 11:29]]; [[Lev.11.41|Lev 11:41]]; [[Lev.11.42|Lev 11:42]]; [[Lev.11.46|Lev 11:46]] (all <span class="bdbLangHebrew">‎עַלהָּֿרֶָּֿץ‎</span>), v[[Lev.11.43|Lev 11:43]] subject men [[Gen.9.7|Gen 9:7]] (+ <span class="bdbLangHebrew">‎פָּרָה‎</span>, <span class="bdbLangHebrew">‎רָבה‎</span>), [[Exod.1.7|Exod 1:7]] (***id.***, + <span class="bdbLangHebrew">‎עָצַם‎</span>). 
 
@@ -13,7 +13,7 @@
 | Book | Refs |
 | - | - |
 | Genesis | [[Gen.1.20\|1:20]] · [[Gen.1.21\|1:21]] · [[Gen.7.21\|7:21]] · [[Gen.8.17\|8:17]] · [[Gen.9.7\|9:7]] |
-| Exodus | [[Exod.1.7\|1:7]] · [[Exod.7.28\|7:28]] |
+| Exodus | [[Exod.1.7\|1:7]] · [[Exod.8.3\|7:28]]**\*** |
 | Leviticus | [[Lev.11.29\|11:29]] · [[Lev.11.41\|11:41]] · [[Lev.11.42\|11:42]] · [[Lev.11.43\|11:43]] · [[Lev.11.46\|11:46]] |
 | Psalms | [[Ps.105.30\|105:30]] |
 | Ezekiel | [[Ezek.47.9\|47:9]] |

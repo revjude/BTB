@@ -4,7 +4,7 @@
 
 **1.** ***boil, seethe***, transitive, <span class="bdbLangHebrew">‎וַיָּ֫זֶד יַעֲקֹב נָזִיד‎</span> [[Gen.25.29|Gen 25:29]] ***and Jacob boiled pottage***. 
 
-**2.** ***act presumptuously, insolently***, [[Exod.21.14|Exod 21:14]] ([[BDB#J|J]][[BDB#E|E]]) <span class="bdbLangHebrew">‎כִּי יָזִד אִישׁ עַלרֵֿעֵהוּ לְהָרְגוֺ בְעָרְמָה‎</span> ***when a man acteth presumptuously against his neighbour to slay him***; usually against <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>; followed by finite verb [[Deut.1.43|Deut 1:43]]) ***and ye acted presumptuously and went up***; followed by infinitive [[Deut.18.20|Deut 18:20]] the prophet Who ***shall presume to speak*** a word in my name; also absolute [[Deut.17.13|Deut 17:13]] elsewhere only Nehemiah; of Egyptians [[Deut.9.10|Deut 9:10]] followed by <span class="bdbLangHebrew">‎עַל‎</span> (= **Qal** [[Exod.18.11|Exod 18:11]]); absolute v[[Exod.18.16|Exod 18:16]] (\|\| <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎וַיַּקְשׁוּ אֶתרְֿפָּם וְלֹא שָֽׁמְעוּ וגו‎</span>); v[[Exod.18.29|Exod 18:29]] (\|\| <span class="bdbLangHebrew">‎וְלֹא‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שָֽׁמְעוּ וגו‎</span>). 
+**2.** ***act presumptuously, insolently***, [[Exod.21.14|Exod 21:14]] ([[BDB#J|J]][[BDB#E|E]]) <span class="bdbLangHebrew">‎כִּי יָזִד אִישׁ עַלרֵֿעֵהוּ לְהָרְגוֺ בְעָרְמָה‎</span> ***when a man acteth presumptuously against his neighbour to slay him***; usually against <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>; followed by finite verb [[Deut.1.43|Deut 1:43]]) ***and ye acted presumptuously and went up***; followed by infinitive [[Deut.18.20|Deut 18:20]] the prophet Who ***shall presume to speak*** a word in my name; also absolute [[Deut.17.13|Deut 17:13]] elsewhere only Nehemiah; of Egyptians [[Deut.9.10|Deut 9:10]] followed by <span class="bdbLangHebrew">‎עַל‎</span> (= **Qal** [[Exod.18.11|Exod 18:11]]); absolute v[[Exod.18.16|Exod 18:16]] (\|\| <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎וַיַּקְשׁוּ אֶתרְֿפָּם וְלֹא שָֽׁמְעוּ וגו‎</span>); vExod 18:29 (\|\| <span class="bdbLangHebrew">‎וְלֹא‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שָֽׁמְעוּ וגו‎</span>). 
 
 
 
@@ -13,7 +13,7 @@
 | Book | Refs |
 | - | - |
 | Genesis | [[Gen.25.29\|25:29]] |
-| Exodus | [[Exod.18.11\|18:11]] · [[Exod.18.16\|18:16]] · [[Exod.18.29\|18:29]] · [[Exod.21.14\|21:14]] |
+| Exodus | [[Exod.18.11\|18:11]] · [[Exod.18.16\|18:16]] · 18:29 · [[Exod.21.14\|21:14]] |
 | Deuteronomy | [[Deut.1.43\|1:43]] · [[Deut.9.10\|9:10]] · [[Deut.17.13\|17:13]] · [[Deut.18.20\|18:20]] |
 | Nehemiah | [[Neh.9.10\|9:10]] |
 | Jeremiah | [[Jer.50.29\|50:29]] |

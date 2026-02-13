@@ -6,7 +6,7 @@
 
  II. [<span class="bdbLangHebrew">‎חמץ‎</span>] **verb** ==be red== (? compare Aramaic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhKwAiAIAAAAAAAP///yH5BAAAAAAALAAAAAArACIAAAJjjI+py+0PozRg2geyvpzS2nVbyGVkCJ7qyrauNH7xq4H17N5mUL/I/dsxUqXeJzHCHYgLXcXYAyqc1KpVuLxqtUOlhQnB+rpjDLgcRHfPah5b7W2Lx9i5L2a/S9syvuPth1YAADs="> Ethpa\`al ***blush, be ashamed***, possibly originally ***be red***); — 
 
-**Qal** ***Passive participle*** construct <span class="bdbLangHebrew">‎חֲמוּץ בְּגָדִים‎</span> ***red of garments*** [[Isa.63.1|Isa 63:1]] possibly also ***Imperfect*** 3 feminine singular <span class="bdbLangHebrew">‎תֶּחֱמַץ‎</span> [[Ps.68.24|Ps 68:24]] ***that thy foot may be red with blood*** (for [[BDB#MT|ᵑ0]] <span class="bdbLangHebrew">‎תמחץ‎</span>; so [[BDB#Krochm|Krochm]] [[BDB#Hi|Hi]] [[BDB#Gr|Gr]]; most, however, read <span class="bdbLangHebrew">‎תרחץ‎</span> see  <span class="bdbLangHebrew">‎רחץ‎</span>). 
+**Qal** ***Passive participle*** construct <span class="bdbLangHebrew">‎חֲמוּץ בְּגָדִים‎</span> ***red of garments*** [[Isa.63.1|Isa 63:1]] possibly also ***Imperfect*** 3 feminine singular <span class="bdbLangHebrew">‎תֶּחֱמַץ‎</span> [[Ps.68.23|Ps 68:24]]**\*** ***that thy foot may be red with blood*** (for [[BDB#MT|ᵑ0]] <span class="bdbLangHebrew">‎תמחץ‎</span>; so [[BDB#Krochm|Krochm]] [[BDB#Hi|Hi]] [[BDB#Gr|Gr]]; most, however, read <span class="bdbLangHebrew">‎תרחץ‎</span> see  <span class="bdbLangHebrew">‎רחץ‎</span>). 
 
 
 
@@ -17,7 +17,7 @@
 | Book | Refs |
 | - | - |
 | Exodus | [[Exod.12.34\|12:34]] · [[Exod.12.39\|12:39]] |
-| Psalms | [[Ps.68.24\|68:24]] · [[Ps.71.4\|71:4]] · [[Ps.73.21\|73:21]] |
+| Psalms | [[Ps.68.23\|68:24]]**\*** · [[Ps.71.4\|71:4]] · [[Ps.73.21\|73:21]] |
 | Isaiah | [[Isa.63.1\|63:1]] |
 | Hosea | [[Hos.7.4\|7:4]] |
 

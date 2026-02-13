@@ -10,7 +10,7 @@
 
 
 
- II. [<span class="bdbLangHebrew">‎נָסִיךְ‎</span>] **noun masculine** ==prince==; — plural construct <span class="bdbLangHebrew">‎נְסִיכֵי‎</span> [[Josh.13.21|Josh 13:21]]; [[Ezek.32.30|Ezek 32:30]]; [[Mic.5.4|Mic 5:4]] suffix <span class="bdbLangHebrew">‎נְסִיכֵמוֺ‎</span> [[Ps.83.12|Ps 83:12]]. <span class="bdbLangHebrew">‎נִסְמָן‎</span> see  <span class="bdbLangHebrew">‎סמן‎</span>. 
+ II. [<span class="bdbLangHebrew">‎נָסִיךְ‎</span>] **noun masculine** ==prince==; — plural construct <span class="bdbLangHebrew">‎נְסִיכֵי‎</span> [[Josh.13.21|Josh 13:21]]; [[Ezek.32.30|Ezek 32:30]]; [[Mic.5.5|Mic 5:4]]**\*** suffix <span class="bdbLangHebrew">‎נְסִיכֵמוֺ‎</span> [[Ps.83.11|Ps 83:12]]**\***. <span class="bdbLangHebrew">‎נִסְמָן‎</span> see  <span class="bdbLangHebrew">‎סמן‎</span>. 
 
 **Brown-Driver-Briggs References**
 
@@ -18,8 +18,8 @@
 | - | - |
 | Deuteronomy | [[Deut.32.38\|32:38]] |
 | Joshua | [[Josh.13.21\|13:21]] |
-| Psalms | [[Ps.83.12\|83:12]] |
+| Psalms | [[Ps.83.11\|83:12]]**\*** |
 | Ezekiel | [[Ezek.32.30\|32:30]] |
 | Daniel | [[Dan.11.8\|11:8]] |
-| Micah | [[Mic.5.4\|5:4]] |
+| Micah | [[Mic.5.5\|5:4]]**\*** |
 

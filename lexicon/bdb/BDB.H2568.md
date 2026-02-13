@@ -13,7 +13,7 @@ $\quad$ $\quad$ **e.** = ordinal, <span class="bdbLangHebrew">‎בִּשְׁנ�
 **2.** <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ח‎</span> combined with <span class="bdbLangHebrew">‎עשׂר‎</span>, <span class="bdbLangHebrew">‎עשׂרה‎</span> ***ten*** = ***fifteen:*** 
 $\quad$ $\quad$ **a.** <span class="bdbLangHebrew">‎חֲמֵשׁ עֶשְׂרֵה‎</span> (c. **noun feminine**) [[Gen.5.10|Gen 5:10]]; [[Gen.7.20|Gen 7:20]]; [[Exod.27.14|Exod 27:14]]; [[Exod.27.15|Exod 27:15]]; [[Exod.38.14|Exod 38:14]]; [[Exod.38.15|Exod 38:15]]; [[2Kgs.14.17|2Kgs 14:17]]; [[2Kgs.14.23|2Kgs 14:23]]; [[2Kgs.20.6|2Kgs 20:6]]; [[2Chr.15.10|2Chr 15:10]]; [[2Chr.25.25|2Chr 25:25]]; [[Isa.38.5|Isa 38:5]]. 
 $\quad$ $\quad$ **b.** <span class="bdbLangHebrew">‎חֲמִשָּׁה‎</span> <span class="bdbLangHebrew">‎עָשָׂר‎</span> (c. **noun masculine**), (1) after noun [[Esth.9.21|Esth 9:21]] (2) before noun [[Exod.16.1|Exod 16:1]] ( = ordinal ***fifteenth***, so [[Lev.23.6|Lev 23:6]] +) [[Hos.3.2|Hos 3:2]] +. 
-$\quad$ $\quad$ **c.** <span class="bdbLangHebrew">‎חֲמֵשֶׁת עָשָׂר‎</span> before noun [[2Sam.19.18|2Sam 19:18]] +. 
+$\quad$ $\quad$ **c.** <span class="bdbLangHebrew">‎חֲמֵשֶׁת עָשָׂר‎</span> before noun [[2Sam.19.17|2Sam 19:18]]**\*** +. 
 $\quad$ $\quad$ **d.** <span class="bdbLangHebrew">‎חֲמֵשֶׁת עָשָׂר‎</span>, without noun = ordinal ***fifteenth*** [[1Chr.24.14|1Chr 24:14]] + 4 t. + [[Ezek.45.12|Ezek 45:12]] (read <span class="bdbLangHebrew">‎חֲמִשִּׁים‎</span> [[BDB#A|A]] [[BDB#Hi|Hi]] [[BDB#Co|Co]]). 
 
 **3.** <span class="bdbLangHebrew">‎חֲמֵשׁ מֵאוֺת‎</span> = 500 [[Gen.5.30|Gen 5:30]]; [[Gen.5.32|Gen 5:32]] + 49 t. + [[Ezek.42.16|Ezek 42:16]] [[BDB#Qr|Qr]]. 
@@ -25,7 +25,7 @@ $\quad$ $\quad$ **a.** <span class="bdbLangHebrew">‎חָמֵשׁ‎</span> bef
 $\quad$ $\quad$ **b.** <span class="bdbLangHebrew">‎חָמֵשׁ‎</span> after larger number: (1) noun repeated [[Gen.25.7|Gen 25:7]] (2) noun following <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ח‎</span> (only) [[Judg.14.10|Judg 14:10]] + (especially in expressions of age and duration); (3) noun before both numbers, stative absolute, [[2Chr.3.15|2Chr 3:15]] stative construct [[2Chr.15.19|2Chr 15:19]]. 
 $\quad$ $\quad$ **c.** no noun expressed, <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ח‎</span> between other number, e.g. <span class="bdbLangHebrew">‎ושׁבעים‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שֵׁשׁ מאות ח‎</span> [[Num.31.37|Num 31:37]]. 
 $\quad$ $\quad$ **d.** <span class="bdbLangHebrew">‎חֲמִשָּׁה‎</span> before larger number, noun following larger number [[Num.1.25|Num 1:25]] + 22 t. 
-$\quad$ $\quad$ **e.** <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ח‎</span> follows, and (1) is followed by noun [[Judg.20.35|Judg 20:35]] + 7 t.; (2) noun precedes both [[1Kgs.7.3|1Kgs 7:3]]; [[Jer.52.30|Jer 52:30]]. **feminine** <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ח‎</span> precedes, no noun expressed [[1Kgs.5.12|1Kgs 5:12]]. 
+$\quad$ $\quad$ **e.** <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ח‎</span> follows, and (1) is followed by noun [[Judg.20.35|Judg 20:35]] + 7 t.; (2) noun precedes both [[1Kgs.7.3|1Kgs 7:3]]; [[Jer.52.30|Jer 52:30]]. **feminine** <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ח‎</span> precedes, no noun expressed [[1Kgs.4.32|1Kgs 5:12]]**\***. 
 $\quad$ $\quad$ **g.** <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ח‎</span> follows, no noun expr [[Gen.18.28|Gen 18:28]] +. 
 $\quad$ $\quad$ **h.** no noun expressed <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ח‎</span> between other number [[Exod.38.28|Exod 38:28]]; [[Ezra.2.5|Ezra 2:5]]. 
 
@@ -42,8 +42,8 @@ $\quad$ $\quad$ **h.** no noun expressed <span class="bdbLangHebrew">‎׳‎</s
 | Joshua | [[Josh.8.12\|8:12]] · [[Josh.10.5\|10:5]] · [[Josh.13.3\|13:3]] |
 | Judges | [[Judg.3.3\|3:3]] · [[Judg.14.10\|14:10]] · [[Judg.18.7\|18:7]] · [[Judg.18.14\|18:14]] · [[Judg.18.17\|18:17]] · [[Judg.20.35\|20:35]] · [[Judg.20.45\|20:45]] |
 | 1 Samuel | [[1Sam.6.18\|6:18]] · [[1Sam.17.5\|17:5]] · [[1Sam.25.18\|25:18]] |
-| 2 Samuel | [[2Sam.19.18\|19:18]] · [[2Sam.21.8\|21:8]] |
-| 1 Kings | [[1Kgs.5.12\|5:12]] · [[1Kgs.7.3\|7:3]] · [[1Kgs.7.23\|7:23]] · [[1Kgs.7.39\|7:39]] · [[1Kgs.7.49\|7:49]] |
+| 2 Samuel | [[2Sam.19.17\|19:18]]**\*** · [[2Sam.21.8\|21:8]] |
+| 1 Kings | [[1Kgs.4.32\|5:12]]**\*** · [[1Kgs.7.3\|7:3]] · [[1Kgs.7.23\|7:23]] · [[1Kgs.7.39\|7:39]] · [[1Kgs.7.49\|7:49]] |
 | 2 Kings | [[2Kgs.8.16\|8:16]] · [[2Kgs.14.17\|14:17]] · [[2Kgs.14.23\|14:23]] · [[2Kgs.20.6\|20:6]] |
 | 1 Chronicles | [[1Chr.3.20\|3:20]] · [[1Chr.11.23\|11:23]] · [[1Chr.24.14\|24:14]] · [[1Chr.29.7\|29:7]] |
 | 2 Chronicles | [[2Chr.3.15\|3:15]] · [[2Chr.4.2\|4:2]] · [[2Chr.4.7\|4:7]] · [[2Chr.15.10\|15:10]] · [[2Chr.15.19\|15:19]] · [[2Chr.25.25\|25:25]] · [[2Chr.35.9\|35:9]] |

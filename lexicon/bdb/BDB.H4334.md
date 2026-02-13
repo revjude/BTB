@@ -6,7 +6,7 @@
 
 **3.** ***uprightness*** (compare <span class="bdbLangHebrew">‎מֵישָׁר‎</span> 
 
-**2.**), in government [[Ps.67.5|Ps 67:5]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שֵׁבֶט מ‎</span> [[Ps.45.7|Ps 45:7]] \|\| <span class="bdbLangHebrew">‎צֶדֶק‎</span> [[Isa.11.4|Isa 11:4]] <span class="bdbLangHebrew">‎שָׁלוֺם‎</span> [[Mal.2.6|Mal 2:6]]. 
+**2.**), in government [[Ps.67.4|Ps 67:5]]**\*** <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שֵׁבֶט מ‎</span> [[Ps.45.6|Ps 45:7]]**\*** \|\| <span class="bdbLangHebrew">‎צֶדֶק‎</span> [[Isa.11.4|Isa 11:4]] <span class="bdbLangHebrew">‎שָׁלוֺם‎</span> [[Mal.2.6|Mal 2:6]]. 
 
 
 
@@ -18,7 +18,7 @@
 | Joshua | [[Josh.13.9\|13:9]] · [[Josh.13.16\|13:16]] · [[Josh.13.17\|13:17]] · [[Josh.13.21\|13:21]] · [[Josh.20.8\|20:8]] |
 | 1 Kings | [[1Kgs.20.23\|20:23]] · [[1Kgs.20.25\|20:25]] |
 | 2 Chronicles | [[2Chr.26.10\|26:10]] |
-| Psalms | [[Ps.26.12\|26:12]] · [[Ps.27.11\|27:11]] · [[Ps.45.7\|45:7]] · [[Ps.67.5\|67:5]] · [[Ps.143.10\|143:10]] |
+| Psalms | [[Ps.26.12\|26:12]] · [[Ps.27.11\|27:11]] · [[Ps.45.6\|45:7]]**\*** · [[Ps.67.4\|67:5]]**\*** · [[Ps.143.10\|143:10]] |
 | Isaiah | [[Isa.11.4\|11:4]] · [[Isa.40.4\|40:4]] · [[Isa.42.16\|42:16]] |
 | Jeremiah | [[Jer.21.13\|21:13]] · [[Jer.48.8\|48:8]] · [[Jer.48.21\|48:21]] |
 | Zechariah | [[Zech.4.7\|4:7]] |

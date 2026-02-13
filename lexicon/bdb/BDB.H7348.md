@@ -6,7 +6,7 @@ $\quad$ $\quad$ **b.** priest, <span class="bdbLangHebrew">‎רְחֻם‎</spa
 
 **2.** <span class="bdbLangHebrew">‎רְחוּם‎</span>, with Nehemiah: 
 $\quad$ $\quad$ **a.** Levite [[Neh.3.17|Neh 3:17]], <span class="bdbLangGreek">Βασουθ</span>, <span class="bdbLangHebrew">‎א‎</span> [[BDB#A|A]] [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Ραουμ</span>. 
-$\quad$ $\quad$ **b.** [[Neh.10.26|Neh 10:26]], <span class="bdbLangGreek">Ρα[ε]ουμ</span>. 
+$\quad$ $\quad$ **b.** [[Neh.10.25|Neh 10:26]]**\***, <span class="bdbLangGreek">Ρα[ε]ουμ</span>. 
 
 
 
@@ -17,5 +17,5 @@ $\quad$ $\quad$ **b.** [[Neh.10.26|Neh 10:26]], <span class="bdbLangGreek">Ρα[
 | Book | Refs |
 | - | - |
 | Ezra | [[Ezra.2.2\|2:2]] · [[Ezra.2.39\|2:39]] · [[Ezra.4.8\|4:8]] · [[Ezra.10.21\|10:21]] |
-| Nehemiah | [[Neh.3.17\|3:17]] · [[Neh.7.7\|7:7]] · [[Neh.7.42\|7:42]] · [[Neh.10.26\|10:26]] · [[Neh.12.3\|12:3]] · [[Neh.12.15\|12:15]] |
+| Nehemiah | [[Neh.3.17\|3:17]] · [[Neh.7.7\|7:7]] · [[Neh.7.42\|7:42]] · [[Neh.10.25\|10:26]]**\*** · [[Neh.12.3\|12:3]] · [[Neh.12.15\|12:15]] |
 

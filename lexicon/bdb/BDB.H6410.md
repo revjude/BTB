@@ -2,7 +2,7 @@
 
 **1.** <span class="bdbLangHebrew">‎יָהוּ‎</span>-, a prince of people [[Ezek.11.1|Ezek 11:1]]; [[Ezek.11.13|Ezek 11:13]]. 
 
-**2.** <span class="bdbLangHebrew">‎יָה‎</span>-, grandson of Zerubbabel [[1Chr.3.21|1Chr 3:21]], perhaps = [[Neh.10.23|Neh 10:23]]. 
+**2.** <span class="bdbLangHebrew">‎יָה‎</span>-, grandson of Zerubbabel [[1Chr.3.21|1Chr 3:21]], perhaps = [[Neh.10.22|Neh 10:23]]**\***. 
 
 **3.** <span class="bdbLangHebrew">‎יָה‎</span>-, Simeonite [[1Chr.4.42|1Chr 4:42]]. 
 
@@ -13,6 +13,6 @@
 | Book | Refs |
 | - | - |
 | 1 Chronicles | [[1Chr.3.21\|3:21]] · [[1Chr.4.42\|4:42]] |
-| Nehemiah | [[Neh.10.23\|10:23]] |
+| Nehemiah | [[Neh.10.22\|10:23]]**\*** |
 | Ezekiel | [[Ezek.11.1\|11:1]] · [[Ezek.11.13\|11:13]] |
 

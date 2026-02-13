@@ -4,7 +4,7 @@
 
 **1.** prince of tribe of Manasseh [[Num.34.23|Num 34:23]]. 
 
-**2.** a chief of the tribe of Asher [[1Chr.7.89|1Chr 7:89]]. 
+**2.** a chief of the tribe of Asher 1Chr 7:89. 
 
 
 
@@ -13,5 +13,5 @@
 | Book | Refs |
 | - | - |
 | Numbers | [[Num.34.23\|34:23]] |
-| 1 Chronicles | [[1Chr.7.89\|7:89]] |
+| 1 Chronicles | 7:89 |
 

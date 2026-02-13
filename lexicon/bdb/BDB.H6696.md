@@ -2,7 +2,7 @@
 
 **Qal** ***Perfect*** 2 masculine singular<span class="bdbLangHebrew">‎וְצַרְתָּ֫‎</span> [[Deut.14.25|Deut 14:25]], etc.; ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎וַיָּ֫צַר‎</span> [[1Kgs.20.1|1Kgs 20:1]] +, 2 masculine singular <span class="bdbLangHebrew">‎תָּצוּר‎</span> [[Deut.20.19|Deut 20:19]], etc.; ***Imperative*** feminine singular <span class="bdbLangHebrew">‎צוּרִ֫י‎</span> [[Isa.21.2|Isa 21:2]] (after <span class="bdbLangHebrew">‎עֲלִי‎</span> [[BDB#Kö|Kö]]<sup>i. 444</sup>, compare [[BDB#Ges|Ges]]<sup>«GKC:72s»§ 72s</sup>); ***Infinitive construct*** <span class="bdbLangHebrew">‎לָצוּר‎</span> [[1Sam.23.8|1Sam 23:8]] ***Participle*** plural <span class="bdbLangHebrew">‎צָרִים‎</span> [[1Kgs.15.27|1Kgs 15:27]] +; — 
 
-**1.** ***confine, secure*** (\|\| I. <span class="bdbLangHebrew">‎צרר‎</span>), accusative of thing + <span class="bdbLangHebrew">‎ב‎</span> of receptacle [[Deut.14.25|Deut 14:25]]; [[2Kgs.5.23|2Kgs 5:23]]; [[Ezek.5.3|Ezek 5:3]] complem. omitted [[2Kgs.12.11|2Kgs 12:11]]. 
+**1.** ***confine, secure*** (\|\| I. <span class="bdbLangHebrew">‎צרר‎</span>), accusative of thing + <span class="bdbLangHebrew">‎ב‎</span> of receptacle [[Deut.14.25|Deut 14:25]]; [[2Kgs.5.23|2Kgs 5:23]]; [[Ezek.5.3|Ezek 5:3]] complem. omitted [[2Kgs.12.10|2Kgs 12:11]]**\***. 
 
 **2.** ***shut in, besiege***, with <span class="bdbLangHebrew">‎עַל‎</span> of city [[2Sam.11.1|2Sam 11:1]]; [[1Kgs.15.27|1Kgs 15:27]]; [[1Kgs.16.17|1Kgs 16:17]]; [[1Kgs.20.1|1Kgs 20:1]]; [[2Kgs.6.24|2Kgs 6:24]]; [[2Kgs.6.25|2Kgs 6:25]]; [[2Kgs.17.5|2Kgs 17:5]]; [[2Kgs.18.9|2Kgs 18:9]]; [[2Kgs.24.11|2Kgs 24:11]]; [[Isa.29.3|Isa 29:3]] (+ accusative of siege-works), [[Jer.32.2|Jer 32:2]]; [[Jer.37.5|Jer 37:5]]; [[Jer.39.9|Jer 39:9]]; [[Deut.20.12|Deut 20:12]]; [[Ezek.4.3|Ezek 4:3]]; [[Dan.1.1|Dan 1:1]] with <span class="bdbLangHebrew">‎עַל‎</span> person (within city) [[2Sam.20.15|2Sam 20:15]]; [[2Kgs.16.5|2Kgs 16:5]]; [[Jer.21.4|Jer 21:4]]; [[Jer.21.9|Jer 21:9]] with <span class="bdbLangHebrew">‎אֶל‎</span> of city (for <span class="bdbLangHebrew">‎עַל‎</span>) [[Deut.20.19|Deut 20:19]] with <span class="bdbLangHebrew">‎אֶל‎</span> person [[1Sam.23.8|1Sam 23:8]] with <span class="bdbLangHebrew">‎אֵת‎</span> of city only [[1Chr.20.1|1Chr 20:1]] (\|\| [[2Sam.11.1|2Sam 11:1]] above); absolute [[Isa.21.2|Isa 21:2]]. — <span class="bdbLangHebrew">‎הִנָּם צָרִים אֶתהָֿעִיר עָלֶיךָ‎</span> [[Judg.9.31|Judg 9:31]] is corrupt; [[BDB#Frankenb|Frankenb]]<sup>Richterbuch 28</sup> [[BDB#Bu|Bu]] [[BDB#GFM|GFM]]<sup>Hpt</sup> [[BDB#Now|Now]] <span class="bdbLangHebrew">‎מְעִרִים‎</span> ***inciting*** against. 
 
@@ -30,7 +30,7 @@
 | 1 Samuel | [[1Sam.23.8\|23:8]] |
 | 2 Samuel | [[2Sam.11.1\|11:1]] · [[2Sam.20.15\|20:15]] |
 | 1 Kings | [[1Kgs.7.15\|7:15]] · [[1Kgs.15.27\|15:27]] · [[1Kgs.16.17\|16:17]] · [[1Kgs.20.1\|20:1]] |
-| 2 Kings | [[2Kgs.5.23\|5:23]] · [[2Kgs.6.24\|6:24]] · [[2Kgs.6.25\|6:25]] · [[2Kgs.12.11\|12:11]] · [[2Kgs.16.5\|16:5]] · [[2Kgs.17.5\|17:5]] · [[2Kgs.18.9\|18:9]] · [[2Kgs.24.11\|24:11]] |
+| 2 Kings | [[2Kgs.5.23\|5:23]] · [[2Kgs.6.24\|6:24]] · [[2Kgs.6.25\|6:25]] · [[2Kgs.12.10\|12:11]]**\*** · [[2Kgs.16.5\|16:5]] · [[2Kgs.17.5\|17:5]] · [[2Kgs.18.9\|18:9]] · [[2Kgs.24.11\|24:11]] |
 | 1 Chronicles | [[1Chr.20.1\|20:1]] |
 | Esther | [[Esth.8.11\|8:11]] |
 | Psalms | [[Ps.139.5\|139:5]] |

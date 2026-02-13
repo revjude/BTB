@@ -1,6 +1,6 @@
- I. <span class="bdbLangHebrew">‎נָשִׂיא‎</span><sub>128</sub> **noun masculine** ==one lifted up==, i.e. a chief prince; — absolute <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎נ‎</span> [[Exod.22.27|Exod 22:27]] +; construct <span class="bdbLangHebrew">‎נְשִׂיא‎</span> [[Gen.23.6|Gen 23:6]] +; plural <span class="bdbLangHebrew">‎נְשִׂיאִים‎</span> [[Josh.22.32|Josh 22:32]] +, <span class="bdbLangHebrew">‎נְשִׂיאִים‎</span> [[Josh.22.32|Josh 22:32]] +, <span class="bdbLangHebrew">‎נְשִׂאִים‎</span> [[Exod.34.31|Exod 34:31]] + 7 t., <span class="bdbLangHebrew">‎נְשִׂיאִם‎</span> [[Gen.17.20|Gen 17:20]] + 3 t., <span class="bdbLangHebrew">‎נְשִׂאִם‎</span> [[Exod.35.27|Exod 35:27]] construct <span class="bdbLangHebrew">‎נְשִׂיאֵי‎</span> [[Exod.16.22|Exod 16:22]] +; suffix <span class="bdbLangHebrew">‎נְשִׂיאַי‎</span> [[Ezek.45.8|Ezek 45:8]], <span class="bdbLangHebrew">‎נְשִׂיאֶיהָ‎</span> [[Ezek.32.29|Ezek 32:29]], <span class="bdbLangHebrew">‎נְשִׂיאֵיהֶם‎</span> [[Num.17.21|Num 17:21]], <span class="bdbLangHebrew">‎נְשִׂיאֵהֶם‎</span> v.[[Num.17.17|Num 17:17]], etc.; — mostly in Israel: 
+ I. <span class="bdbLangHebrew">‎נָשִׂיא‎</span><sub>128</sub> **noun masculine** ==one lifted up==, i.e. a chief prince; — absolute <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎נ‎</span> [[Exod.22.28|Exod 22:27]]**\*** +; construct <span class="bdbLangHebrew">‎נְשִׂיא‎</span> [[Gen.23.6|Gen 23:6]] +; plural <span class="bdbLangHebrew">‎נְשִׂיאִים‎</span> [[Josh.22.32|Josh 22:32]] +, <span class="bdbLangHebrew">‎נְשִׂיאִים‎</span> [[Josh.22.32|Josh 22:32]] +, <span class="bdbLangHebrew">‎נְשִׂאִים‎</span> [[Exod.34.31|Exod 34:31]] + 7 t., <span class="bdbLangHebrew">‎נְשִׂיאִם‎</span> [[Gen.17.20|Gen 17:20]] + 3 t., <span class="bdbLangHebrew">‎נְשִׂאִם‎</span> [[Exod.35.27|Exod 35:27]] construct <span class="bdbLangHebrew">‎נְשִׂיאֵי‎</span> [[Exod.16.22|Exod 16:22]] +; suffix <span class="bdbLangHebrew">‎נְשִׂיאַי‎</span> [[Ezek.45.8|Ezek 45:8]], <span class="bdbLangHebrew">‎נְשִׂיאֶיהָ‎</span> [[Ezek.32.29|Ezek 32:29]], <span class="bdbLangHebrew">‎נְשִׂיאֵיהֶם‎</span> [[Num.17.6|Num 17:21]]**\***, <span class="bdbLangHebrew">‎נְשִׂיאֵהֶם‎</span> v.[[Num.17.2|Num 17:17]]**\***, etc.; — mostly in Israel: 
 
-**1.** <span class="bdbLangHebrew">‎בְּעַמְּךָ‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎נ‎</span> of any chief man, [[Exod.22.27|Exod 22:27]] ([[BDB#E|E]]; human ruler, over against <span class="bdbLangHebrew">‎אֱלֹהִים‎</span>). 
+**1.** <span class="bdbLangHebrew">‎בְּעַמְּךָ‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎נ‎</span> of any chief man, [[Exod.22.28|Exod 22:27]]**\*** ([[BDB#E|E]]; human ruler, over against <span class="bdbLangHebrew">‎אֱלֹהִים‎</span>). 
 
 **2.** of Solomon [[1Kgs.11.34|1Kgs 11:34]]. Elsewhere only Ezekiel, [[BDB#P|P]], Chronicles: — 
 
@@ -11,8 +11,8 @@
 **5.** tribal chiefs and representatives, according to the religious organization of [[BDB#P|P]], [[Num.1.16|Num 1:16]]; [[Num.1.44|Num 1:44]]; [[Num.2.3|Num 2:3]] + 57 t. Numbers (especially chapters 2, 7, 34; note <span class="bdbLangHebrew">‎נְשִׂיא נְשִׂיאֵי הַלֵּוִי‎</span> [[Num.3.32|Num 3:32]]); compare [[1Chr.2.10|1Chr 2:10]]; [[1Chr.4.38|1Chr 4:38]]; [[1Chr.5.6|1Chr 5:6]]; [[1Chr.7.40|1Chr 7:40]]; [[2Chr.1.2|2Chr 1:2]], also [[1Kgs.8.1|1Kgs 8:1]] (probably gloss, omitted by [[BDB#Sept|ᵐ5]] [[BDB#Benz|Benz]]), [[2Chr.5.2|2Chr 5:2]]. 
 
 **6.** in Ezekiel: 
-$\quad$ $\quad$ **a.** of Zedekiah (for <span class="bdbLangHebrew">‎מֶלֶךְ‎</span> see Böhmer<sup>8K 1900, 112 ff.</sup>), [[Ezek.7.27|Ezek 7:27]]; [[Ezek.12.10|Ezek 12:10]]; [[Ezek.12.12|Ezek 12:12]]; [[Ezek.21.30|Ezek 21:30]], + [[Ezek.19.1|Ezek 19:1]] (read singular [[BDB#Sept|ᵐ5]] [[BDB#Ew|Ew]] [[BDB#Hi|Hi]] [[BDB#Co|Co]] [[BDB#Berthol|Berthol]] Toy). 
-$\quad$ $\quad$ **b.** chief men of Judah [[Ezek.21.17|Ezek 21:17]]; [[Ezek.22.6|Ezek 22:6]]; [[Ezek.45.8|Ezek 45:8]]; [[Ezek.45.9|Ezek 45:9]]. 
+$\quad$ $\quad$ **a.** of Zedekiah (for <span class="bdbLangHebrew">‎מֶלֶךְ‎</span> see Böhmer<sup>8K 1900, 112 ff.</sup>), [[Ezek.7.27|Ezek 7:27]]; [[Ezek.12.10|Ezek 12:10]]; [[Ezek.12.12|Ezek 12:12]]; [[Ezek.21.25|Ezek 21:30]]**\***, + [[Ezek.19.1|Ezek 19:1]] (read singular [[BDB#Sept|ᵐ5]] [[BDB#Ew|Ew]] [[BDB#Hi|Hi]] [[BDB#Co|Co]] [[BDB#Berthol|Berthol]] Toy). 
+$\quad$ $\quad$ **b.** chief men of Judah [[Ezek.21.12|Ezek 21:17]]**\***; [[Ezek.22.6|Ezek 22:6]]; [[Ezek.45.8|Ezek 45:8]]; [[Ezek.45.9|Ezek 45:9]]. 
 $\quad$ $\quad$ **c.** future Davidic king [[Ezek.34.24|Ezek 34:24]]; [[Ezek.37.25|Ezek 37:25]], compare [[Ezek.44.3|Ezek 44:3]] (twice in verse) + 16 t. Ezek 45, 46, 48. 
 $\quad$ $\quad$ **d.** foreign princes [[Ezek.26.16|Ezek 26:16]]; [[Ezek.27.21|Ezek 27:21]]; [[Ezek.30.13|Ezek 30:13]]; [[Ezek.32.29|Ezek 32:29]]; [[Ezek.38.2|Ezek 38:2]]; [[Ezek.38.3|Ezek 38:3]]; [[Ezek.39.1|Ezek 39:1]]; [[Ezek.39.18|Ezek 39:18]]. 
 
@@ -29,9 +29,9 @@ $\quad$ $\quad$ **d.** foreign princes [[Ezek.26.16|Ezek 26:16]]; [[Ezek.27.21|E
 | Book | Refs |
 | - | - |
 | Genesis | [[Gen.17.20\|17:20]] · [[Gen.23.6\|23:6]] · [[Gen.25.16\|25:16]] · [[Gen.34.2\|34:2]] |
-| Exodus | [[Exod.16.22\|16:22]] · [[Exod.22.27\|22:27]] · [[Exod.34.31\|34:31]] · [[Exod.35.27\|35:27]] |
+| Exodus | [[Exod.16.22\|16:22]] · [[Exod.22.28\|22:27]]**\*** · [[Exod.34.31\|34:31]] · [[Exod.35.27\|35:27]] |
 | Leviticus | [[Lev.4.22\|4:22]] |
-| Numbers | [[Num.1.16\|1:16]] · [[Num.1.44\|1:44]] · [[Num.2.3\|2:3]] · [[Num.3.32\|3:32]] · [[Num.17.17\|17:17]] · [[Num.17.21\|17:21]] · [[Num.25.18\|25:18]] |
+| Numbers | [[Num.1.16\|1:16]] · [[Num.1.44\|1:44]] · [[Num.2.3\|2:3]] · [[Num.3.32\|3:32]] · [[Num.17.2\|17:17]]**\*** · [[Num.17.6\|17:21]]**\*** · [[Num.25.18\|25:18]] |
 | Joshua | [[Josh.9.15\|9:15]] · [[Josh.9.18\|9:18]] · [[Josh.9.19\|9:19]] · [[Josh.9.21\|9:21]] · [[Josh.13.21\|13:21]] · [[Josh.17.4\|17:4]] · [[Josh.22.14\|22:14]] · [[Josh.22.30\|22:30]] · [[Josh.22.32\|22:32]] |
 | 1 Kings | [[1Kgs.8.1\|8:1]] · [[1Kgs.11.34\|11:34]] |
 | 1 Chronicles | [[1Chr.2.10\|2:10]] · [[1Chr.4.38\|4:38]] · [[1Chr.5.6\|5:6]] · [[1Chr.7.40\|7:40]] |
@@ -40,5 +40,5 @@ $\quad$ $\quad$ **d.** foreign princes [[Ezek.26.16|Ezek 26:16]]; [[Ezek.27.21|E
 | Psalms | [[Ps.135.7\|135:7]] |
 | Proverbs | [[Prov.25.14\|25:14]] |
 | Jeremiah | [[Jer.10.13\|10:13]] · [[Jer.51.16\|51:16]] |
-| Ezekiel | [[Ezek.7.27\|7:27]] · [[Ezek.12.10\|12:10]] · [[Ezek.12.12\|12:12]] · [[Ezek.19.1\|19:1]] · [[Ezek.21.17\|21:17]] · [[Ezek.21.30\|21:30]] · [[Ezek.22.6\|22:6]] · [[Ezek.26.16\|26:16]] · [[Ezek.27.21\|27:21]] · [[Ezek.30.13\|30:13]] · [[Ezek.32.29\|32:29]] · [[Ezek.34.24\|34:24]] · [[Ezek.37.25\|37:25]] · [[Ezek.38.2\|38:2]] · [[Ezek.38.3\|38:3]] · [[Ezek.39.1\|39:1]] · [[Ezek.39.18\|39:18]] · [[Ezek.44.3\|44:3]] · [[Ezek.45.8\|45:8]] · [[Ezek.45.9\|45:9]] |
+| Ezekiel | [[Ezek.7.27\|7:27]] · [[Ezek.12.10\|12:10]] · [[Ezek.12.12\|12:12]] · [[Ezek.19.1\|19:1]] · [[Ezek.21.12\|21:17]]**\*** · [[Ezek.21.25\|21:30]]**\*** · [[Ezek.22.6\|22:6]] · [[Ezek.26.16\|26:16]] · [[Ezek.27.21\|27:21]] · [[Ezek.30.13\|30:13]] · [[Ezek.32.29\|32:29]] · [[Ezek.34.24\|34:24]] · [[Ezek.37.25\|37:25]] · [[Ezek.38.2\|38:2]] · [[Ezek.38.3\|38:3]] · [[Ezek.39.1\|39:1]] · [[Ezek.39.18\|39:18]] · [[Ezek.44.3\|44:3]] · [[Ezek.45.8\|45:8]] · [[Ezek.45.9\|45:9]] |
 

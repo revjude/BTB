@@ -13,5 +13,3 @@
 
 6. The father of Azareel [[1Chr.27.22|1Ch 27:22]]
 
-7. Father of [[PrAzar.1.2|Azariah 2]]Ch 23:1
-

@@ -1,12 +1,12 @@
  <span class="bdbLangHebrew">‎נָחַל‎</span> **verb denominative** ==get or take as a possession== (compare [[BDB#Gerber|Gerber]]<sup>236 ff.</sup>; Ecclus <span class="bdbLangHebrew">‎נחל‎</span>  +; Late Hebrew ***id.*** (rare)); — 
 
-**Qal** ***Perfect*** <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎נ‎</span> [[Zech.2.16|Zech 2:16]] 2 masculine singular <span class="bdbLangHebrew">‎נָחַלְתָּ‎</span> [[Exod.23.20|Exod 23:20]] + 8 t. Perfect; ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎יִנְחַלְ‎</span> [[Isa.57.13|Isa 57:13]] 3 masculine plural <span class="bdbLangHebrew">‎יִנְחֲלוּ‎</span> [[Num.18.23|Num 18:23]] +5 t.; <span class="bdbLangHebrew">‎יִנְחָ֑לוּ‎</span> [[Num.26.55|Num 26:55]] + 2 t.; + 8 t. Imperfect; ***Infinitive*** <span class="bdbLangHebrew">‎נְחֹל‎</span> [[Num.34.18|Num 34:18]]; [[Josh.19.49|Josh 19:49]] — 
+**Qal** ***Perfect*** <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎נ‎</span> [[Zech.2.12|Zech 2:16]]**\*** 2 masculine singular <span class="bdbLangHebrew">‎נָחַלְתָּ‎</span> [[Exod.23.20|Exod 23:20]] + 8 t. Perfect; ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎יִנְחַלְ‎</span> [[Isa.57.13|Isa 57:13]] 3 masculine plural <span class="bdbLangHebrew">‎יִנְחֲלוּ‎</span> [[Num.18.23|Num 18:23]] +5 t.; <span class="bdbLangHebrew">‎יִנְחָ֑לוּ‎</span> [[Num.26.55|Num 26:55]] + 2 t.; + 8 t. Imperfect; ***Infinitive*** <span class="bdbLangHebrew">‎נְחֹל‎</span> [[Num.34.18|Num 34:18]]; [[Josh.19.49|Josh 19:49]] — 
 
 **1.** ***take possession, inherit:*** 
-$\quad$ $\quad$ **a.** land of Canaan, [[Exod.23.30|Exod 23:30]] ([[BDB#E|E]]), [[Exod.32.13|Exod 32:13]] ([[BDB#J|J]]), [[Isa.57.13|Isa 57:13]]; [[Ezek.47.14|Ezek 47:14]] Zoin and Judah [[Ps.69.37|Ps 69:37]]. 
+$\quad$ $\quad$ **a.** land of Canaan, [[Exod.23.30|Exod 23:30]] ([[BDB#E|E]]), [[Exod.32.13|Exod 32:13]] ([[BDB#J|J]]), [[Isa.57.13|Isa 57:13]]; [[Ezek.47.14|Ezek 47:14]] Zoin and Judah [[Ps.69.36|Ps 69:37]]**\***. 
 $\quad$ $\quad$ **b.** special sections in the land, of tribes and individuals, <span class="bdbLangHebrew">‎נחל נחלה‎</span> [[Josh.17.6|Josh 17:6]] ([[BDB#J|J]]); <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎נחלה אשׁר נ‎</span> [[Deut.19.14|Deut 19:14]] ([[BDB#D|D]]), [[Num.35.8|Num 35:8]] ([[BDB#P|P]]), compare [[Josh.14.1|Josh 14:1]] ([[BDB#P|P]]); without accusative, ***have or get a*** (landed) ***property***, [[Num.18.20|Num 18:20]]; [[Num.18.23|Num 18:23]]; [[Num.18.24|Num 18:24]]; [[Num.26.55|Num 26:55]]; [[Num.32.19|Num 32:19]]; [[Josh.16.4|Josh 16:4]]; [[Josh.19.9|Josh 19:9]] (all [[BDB#P|P]]), [[Judg.11.3|Judg 11:3]]. 
 $\quad$ $\quad$ **c.** land of Moab and Ammon by conquest [[Zeph.2.9|Zeph 2:9]] landed property <span class="bdbLangHebrew">‎בכל הנוים‎</span> [[Ps.82.8|Ps 82:8]]. 
-$\quad$ $\quad$ **d.** God takes possession of Israel as his private property [[Exod.34.9|Exod 34:9]] ([[BDB#J|J]]); Judah [[Zech.2.16|Zech 2:16]]. 
+$\quad$ $\quad$ **d.** God takes possession of Israel as his private property [[Exod.34.9|Exod 34:9]] ([[BDB#J|J]]); Judah [[Zech.2.12|Zech 2:16]]**\***. 
 
 **2.** figurative ***have or get as a possession, property:*** testimonies [[Ps.119.111|Ps 119:111]], glory [[Prov.3.35|Prov 3:35]], good things [[Prov.28.10|Prov 28:10]], lies [[Jer.16.19|Jer 16:19]], wind [[Prov.11.29|Prov 11:29]], simplicity [[Prov.14.18|Prov 14:18]]. 
 
@@ -39,11 +39,11 @@ $\quad$ $\quad$ **b.** various things, accusative of person and thing, especiall
 | 1 Samuel | [[1Sam.2.8\|2:8]] |
 | 1 Chronicles | [[1Chr.28.8\|28:8]] |
 | Job | [[Job.7.3\|7:3]] |
-| Psalms | [[Ps.69.37\|69:37]] · [[Ps.82.8\|82:8]] · [[Ps.119.111\|119:111]] |
+| Psalms | [[Ps.69.36\|69:37]]**\*** · [[Ps.82.8\|82:8]] · [[Ps.119.111\|119:111]] |
 | Proverbs | [[Prov.3.35\|3:35]] · [[Prov.8.21\|8:21]] · [[Prov.11.29\|11:29]] · [[Prov.13.22\|13:22]] · [[Prov.14.18\|14:18]] · [[Prov.28.10\|28:10]] |
 | Isaiah | [[Isa.14.2\|14:2]] · [[Isa.24.2\|24:2]] · [[Isa.49.8\|49:8]] · [[Isa.57.13\|57:13]] |
 | Jeremiah | [[Jer.3.18\|3:18]] · [[Jer.12.14\|12:14]] · [[Jer.16.19\|16:19]] |
 | Ezekiel | [[Ezek.46.18\|46:18]] · [[Ezek.47.13\|47:13]] · [[Ezek.47.14\|47:14]] |
 | Zephaniah | [[Zeph.2.9\|2:9]] |
-| Zechariah | [[Zech.2.16\|2:16]] · [[Zech.8.12\|8:12]] |
+| Zechariah | [[Zech.2.12\|2:16]]**\*** · [[Zech.8.12\|8:12]] |
 

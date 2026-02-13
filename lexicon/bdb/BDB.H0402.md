@@ -4,7 +4,7 @@
 
 **2.** ***devouring***, by wild beasts, only figurative of ravaged people [[Ezek.29.5|Ezek 29:5]]; [[Ezek.34.5|Ezek 34:5]]; [[Ezek.34.8|Ezek 34:8]]; [[Ezek.34.10|Ezek 34:10]]; [[Ezek.39.4|Ezek 39:4]], compare [[Ezek.35.12|Ezek 35:12]]. 
 
-**3.** ***consumimg***, in fire [[Ezek.15.4|Ezek 15:4]]; [[Ezek.15.6|Ezek 15:6]], of fire-sacrifice of children [[Ezek.23.37|Ezek 23:37]] figurative of judgment of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> [[Ezek.21.37|Ezek 21:37]] (compare also infinitive of <span class="bdbLangHebrew">‎אָכַל‎</span>). 
+**3.** ***consumimg***, in fire [[Ezek.15.4|Ezek 15:4]]; [[Ezek.15.6|Ezek 15:6]], of fire-sacrifice of children [[Ezek.23.37|Ezek 23:37]] figurative of judgment of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> [[Ezek.21.32|Ezek 21:37]]**\*** (compare also infinitive of <span class="bdbLangHebrew">‎אָכַל‎</span>). 
 
 
 
@@ -15,5 +15,5 @@
 | Genesis | [[Gen.1.29\|1:29]] · [[Gen.1.30\|1:30]] · [[Gen.6.21\|6:21]] · [[Gen.9.3\|9:3]] |
 | Exodus | [[Exod.16.15\|16:15]] |
 | Leviticus | [[Lev.11.39\|11:39]] · [[Lev.25.6\|25:6]] |
-| Ezekiel | [[Ezek.15.4\|15:4]] · [[Ezek.15.6\|15:6]] · [[Ezek.21.37\|21:37]] · [[Ezek.23.37\|23:37]] · [[Ezek.29.5\|29:5]] · [[Ezek.34.5\|34:5]] · [[Ezek.34.8\|34:8]] · [[Ezek.34.10\|34:10]] · [[Ezek.35.12\|35:12]] · [[Ezek.39.4\|39:4]] |
+| Ezekiel | [[Ezek.15.4\|15:4]] · [[Ezek.15.6\|15:6]] · [[Ezek.21.32\|21:37]]**\*** · [[Ezek.23.37\|23:37]] · [[Ezek.29.5\|29:5]] · [[Ezek.34.5\|34:5]] · [[Ezek.34.8\|34:8]] · [[Ezek.34.10\|34:10]] · [[Ezek.35.12\|35:12]] · [[Ezek.39.4\|39:4]] |
 

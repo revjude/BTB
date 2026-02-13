@@ -2,7 +2,7 @@
 
 **1.** (flat) ***expanse*** (as if of ice, compare <span class="bdbLangHebrew">‎כְּעֵין הַקֶּרַח‎</span>), as base, support ([[BDB#Wkl|Wkl]]<sup>Altor. Forsch. iv. 347</sup>) [[Ezek.1.22|Ezek 1:22]]; [[Ezek.1.23|Ezek 1:23]]; [[Ezek.1.25|Ezek 1:25]](gloss ? compare [[BDB#Co|Co]] Toy), v[[Ezek.1.26|Ezek 1:26]] (supporting <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>'s throne). Hence ([[BDB#Co|Co]]<sup>[[Ezek.1.22|Ezek 1:22]]</sup>) 
 
-**2.** the vault of heaven, or 'firmament,' regarded by Hebrews as solid, and supporting 'waters' above it, [[Gen.1.6|Gen 1:6]]; [[Gen.1.7|Gen 1:7]] (3 t. in verse); [[Gen.1.8|Gen 1:8]] (called <span class="bdbLangHebrew">‎שָׁמַיַם‎</span>; all [[BDB#P|P]]), [[Ps.19.2|Ps 19:2]] (\|\| <span class="bdbLangHebrew">‎הַשָּׁמַיַם‎</span>), <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎זֹהַר הָר‎</span> [[Dan.12.3|Dan 12:3]] also <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ר‎</span> <span class="bdbLangHebrew">‎הַשָּׁמִיִם‎</span> [[Gen.1.14|Gen 1:14]]; [[Gen.1.15|Gen 1:15]]; [[Gen.1.17|Gen 1:17]], <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎הַשּׁ‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎עַלפְּֿנֵי ר‎</span> v[[Gen.1.20|Gen 1:20]] (all [[BDB#P|P]]). **\*\***<span class="bdbLangHebrew">‎רְקִיעַ עֻזּוֺ‎</span> [[Ps.150.1|Ps 150:1]] (suffix reference to <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>). 
+**2.** the vault of heaven, or 'firmament,' regarded by Hebrews as solid, and supporting 'waters' above it, [[Gen.1.6|Gen 1:6]]; [[Gen.1.7|Gen 1:7]] (3 t. in verse); [[Gen.1.8|Gen 1:8]] (called <span class="bdbLangHebrew">‎שָׁמַיַם‎</span>; all [[BDB#P|P]]), [[Ps.19.1|Ps 19:2]]**\*** (\|\| <span class="bdbLangHebrew">‎הַשָּׁמַיַם‎</span>), <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎זֹהַר הָר‎</span> [[Dan.12.3|Dan 12:3]] also <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ר‎</span> <span class="bdbLangHebrew">‎הַשָּׁמִיִם‎</span> [[Gen.1.14|Gen 1:14]]; [[Gen.1.15|Gen 1:15]]; [[Gen.1.17|Gen 1:17]], <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎הַשּׁ‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎עַלפְּֿנֵי ר‎</span> v[[Gen.1.20|Gen 1:20]] (all [[BDB#P|P]]). **\*\***<span class="bdbLangHebrew">‎רְקִיעַ עֻזּוֺ‎</span> [[Ps.150.1|Ps 150:1]] (suffix reference to <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>). 
 
 
 
@@ -12,7 +12,7 @@
 | - | - |
 | Genesis | [[Gen.1.6\|1:6]] · [[Gen.1.7\|1:7]] · [[Gen.1.8\|1:8]] · [[Gen.1.14\|1:14]] · [[Gen.1.15\|1:15]] · [[Gen.1.17\|1:17]] · [[Gen.1.20\|1:20]] |
 | Job | [[Job.37.18\|37:18]] |
-| Psalms | [[Ps.19.2\|19:2]] · [[Ps.150.1\|150:1]] |
+| Psalms | [[Ps.19.1\|19:2]]**\*** · [[Ps.150.1\|150:1]] |
 | Ezekiel | [[Ezek.1.22\|1:22]] · [[Ezek.1.23\|1:23]] · [[Ezek.1.25\|1:25]] · [[Ezek.1.26\|1:26]] |
 | Daniel | [[Dan.12.3\|12:3]] |
 

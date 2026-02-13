@@ -5,9 +5,9 @@
 **1.** ***cause*** garden (accusative) ***to exhale*** (that is, odours) [[Song.4.16|Song 4:16]]. 
 
 **2. a.** ***puff, snort***, against, <span class="bdbLangHebrew">‎ב‎</span> person, [[Ps.10.5|Ps 10:5]]. 
-$\quad$ $\quad$ **b.** <span class="bdbLangHebrew">‎עַל‎</span> person, [[Ezek.21.36|Ezek 21:36]] with the fire of my wrath ***will I blow against thee.*** 
+$\quad$ $\quad$ **b.** <span class="bdbLangHebrew">‎עַל‎</span> person, [[Ezek.21.31|Ezek 21:36]]**\*** with the fire of my wrath ***will I blow against thee.*** 
 $\quad$ $\quad$ **c.** ***excite, inflame*** city [[Prov.29.8|Prov 29:8]]. 
-$\quad$ $\quad$ **d.** with <span class="bdbLangHebrew">‎לוֺ‎</span> [[Ps.12.6|Ps 12:6]] ***puff, = pant for it*** (so most; [[BDB#Thes|Thes]] [[BDB#Hi|Hi]] and others ***against whom men puff***; [[BDB#Bae|Bae]] <span class="bdbLangHebrew">‎אֹפִּיעַ‎</span> <span class="bdbLangHebrew">‎לוֺ‎</span> ***I will shine forth to him***); <span class="bdbLangHebrew">‎לַקֵּן‎</span> [[Hab.2.3|Hab 2:3]] the vision ***panteth*** (hasteth) ***towards the end*** (so most). 
+$\quad$ $\quad$ **d.** with <span class="bdbLangHebrew">‎לוֺ‎</span> [[Ps.12.5|Ps 12:6]]**\*** ***puff, = pant for it*** (so most; [[BDB#Thes|Thes]] [[BDB#Hi|Hi]] and others ***against whom men puff***; [[BDB#Bae|Bae]] <span class="bdbLangHebrew">‎אֹפִּיעַ‎</span> <span class="bdbLangHebrew">‎לוֺ‎</span> ***I will shine forth to him***); <span class="bdbLangHebrew">‎לַקֵּן‎</span> [[Hab.2.3|Hab 2:3]] the vision ***panteth*** (hasteth) ***towards the end*** (so most). 
 
 **3.** ***breathe out, utter***, <span class="bdbLangHebrew">‎כְּזָבִים‎</span> [[Prov.6.19|Prov 6:19]]; [[Prov.14.5|Prov 14:5]]; [[Prov.14.25|Prov 14:25]]; [[Prov.19.5|Prov 19:5]]; [[Prov.19.9|Prov 19:9]], <span class="bdbLangHebrew">‎אֱמוּנָה‎</span> [[Prov.12.17|Prov 12:17]]. 
 
@@ -17,9 +17,9 @@ $\quad$ $\quad$ **d.** with <span class="bdbLangHebrew">‎לוֺ‎</span> [[Ps
 
 | Book | Refs |
 | - | - |
-| Psalms | [[Ps.10.5\|10:5]] · [[Ps.12.6\|12:6]] |
+| Psalms | [[Ps.10.5\|10:5]] · [[Ps.12.5\|12:6]]**\*** |
 | Proverbs | [[Prov.6.19\|6:19]] · [[Prov.12.17\|12:17]] · [[Prov.14.5\|14:5]] · [[Prov.14.25\|14:25]] · [[Prov.19.5\|19:5]] · [[Prov.19.9\|19:9]] · [[Prov.29.8\|29:8]] |
 | Song of Solomon | [[Song.2.17\|2:17]] · [[Song.4.6\|4:6]] · [[Song.4.16\|4:16]] |
-| Ezekiel | [[Ezek.21.36\|21:36]] |
+| Ezekiel | [[Ezek.21.31\|21:36]]**\*** |
 | Habakkuk | [[Hab.2.3\|2:3]] |
 

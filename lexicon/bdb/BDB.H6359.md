@@ -4,7 +4,7 @@
 
 **1.** intransitive ***remove*** oneself, specifically ***escape*** [[1Sam.19.10|1Sam 19:10]] (<span class="bdbLangHebrew">‎מִפְּנֵי‎</span>, compare [[BDB#Dr|Dr]]). 
 
-**2.** transitive ***set free*** from duty [[2Chr.23.8|2Chr 23:8]] (accusative of person), so passive [[1Chr.9.33|1Chr 9:33]] [[BDB#Qr|Qr]] ([[BDB#Kt|Kt]] <span class="bdbLangHebrew">‎פטירים‎</span> adjective or Aramaic participle, same meaning); <span class="bdbLangHebrew">‎יִם‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎פ‎</span> [[Prov.17.14|Prov 17:14]] ***set free, let out***; passive <span class="bdbLangHebrew">‎פְּטוּרֵי צִצִּים‎</span> technical term of ornament in temple, dubious, usually ***out-spread*** (garlands) ***of flowers*** [[1Kgs.6.18|1Kgs 6:18]]; [[1Kgs.6.29|1Kgs 6:29]]; [[1Kgs.6.32|1Kgs 6:32]]; [[1Kgs.6.35|1Kgs 6:35]]. **Hiph\`il** **\*\***compare in Syriac PS<sup>3093</sup>. ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎יַפְטִירוּ בְשָׂפָה‎</span> [[Ps.22.8|Ps 22:8]] ***they separate with the lip***, i. e. open mouth wide (insultingly). 
+**2.** transitive ***set free*** from duty [[2Chr.23.8|2Chr 23:8]] (accusative of person), so passive [[1Chr.9.33|1Chr 9:33]] [[BDB#Qr|Qr]] ([[BDB#Kt|Kt]] <span class="bdbLangHebrew">‎פטירים‎</span> adjective or Aramaic participle, same meaning); <span class="bdbLangHebrew">‎יִם‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎פ‎</span> [[Prov.17.14|Prov 17:14]] ***set free, let out***; passive <span class="bdbLangHebrew">‎פְּטוּרֵי צִצִּים‎</span> technical term of ornament in temple, dubious, usually ***out-spread*** (garlands) ***of flowers*** [[1Kgs.6.18|1Kgs 6:18]]; [[1Kgs.6.29|1Kgs 6:29]]; [[1Kgs.6.32|1Kgs 6:32]]; [[1Kgs.6.35|1Kgs 6:35]]. **Hiph\`il** **\*\***compare in Syriac PS<sup>3093</sup>. ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎יַפְטִירוּ בְשָׂפָה‎</span> [[Ps.22.7|Ps 22:8]]**\*** ***they separate with the lip***, i. e. open mouth wide (insultingly). 
 
 
 
@@ -16,6 +16,6 @@
 | 1 Kings | [[1Kgs.6.18\|6:18]] · [[1Kgs.6.29\|6:29]] · [[1Kgs.6.32\|6:32]] · [[1Kgs.6.35\|6:35]] |
 | 1 Chronicles | [[1Chr.9.33\|9:33]] |
 | 2 Chronicles | [[2Chr.23.8\|23:8]] |
-| Psalms | [[Ps.22.8\|22:8]] |
+| Psalms | [[Ps.22.7\|22:8]]**\*** |
 | Proverbs | [[Prov.17.14\|17:14]] |
 

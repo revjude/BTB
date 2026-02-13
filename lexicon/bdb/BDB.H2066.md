@@ -6,7 +6,7 @@
 
 **3.** one of David's valiant men [[1Chr.11.41|1Chr 11:41]]. 
 
-**4.** one of the murderers of Joash of Judah [[2Chr.24.26|2Chr 24:26]] ([[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Ζαβελ</span>, <span class="bdbLangGreek">Ζαβεθ</span>, <span class="bdbLangGreek">Ζαβαθ</span>), called  <span class="bdbLangHebrew">‎יוֺזָכָר‎</span> (q. v. below <span class="bdbLangHebrew">‎הוה‎</span>, <span class="bdbLangHebrew">‎יהוה‎</span>) [[2Kgs.12.22|2Kgs 12:22]]. 
+**4.** one of the murderers of Joash of Judah [[2Chr.24.26|2Chr 24:26]] ([[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Ζαβελ</span>, <span class="bdbLangGreek">Ζαβεθ</span>, <span class="bdbLangGreek">Ζαβαθ</span>), called  <span class="bdbLangHebrew">‎יוֺזָכָר‎</span> (q. v. below <span class="bdbLangHebrew">‎הוה‎</span>, <span class="bdbLangHebrew">‎יהוה‎</span>) [[2Kgs.12.21|2Kgs 12:22]]**\***. 
 
 **5.** name of three returned exiles who had taken strange wives: 
 $\quad$ $\quad$ **a.** [[Ezra.10.27|Ezra 10:27]] 
@@ -19,7 +19,7 @@ $\quad$ $\quad$ **c.** v[[Ezra.10.43|Ezra 10:43]].
 
 | Book | Refs |
 | - | - |
-| 2 Kings | [[2Kgs.12.22\|12:22]] |
+| 2 Kings | [[2Kgs.12.21\|12:22]]**\*** |
 | 1 Chronicles | [[1Chr.2.36\|2:36]] · [[1Chr.2.37\|2:37]] · [[1Chr.7.21\|7:21]] · [[1Chr.11.41\|11:41]] |
 | 2 Chronicles | [[2Chr.24.26\|24:26]] |
 | Ezra | [[Ezra.10.27\|10:27]] · [[Ezra.10.33\|10:33]] · [[Ezra.10.43\|10:43]] |

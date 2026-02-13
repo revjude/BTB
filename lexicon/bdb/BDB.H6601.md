@@ -10,9 +10,9 @@
 
 **1.** ***be open-minded*** (?),***simple*** [[Job.5.2|Job 5:2]] <span class="bdbLangHebrew">‎יוֺנָה פוֺתָה‎</span> [[Hos.7.11|Hos 7:11]] ***silly dove***; <span class="bdbLangHebrew">‎פֹּתֶה שְׂפָתָיו‎</span> [[Prov.20.19|Prov 20:19]] ***one foolish as to his lips*** (most, ***openeth wide his lips***). 
 
-**2.** ***be enticed, deceived*** [[Deut.11.16|Deut 11:16]]; [[Job.31.27|Job 31:27]]. **Niph\`al** ***Perfect*** 3 masculine singular <span class="bdbLangHebrew">‎נַפְתָּה‎</span> [[Job.31.9|Job 31:9]] ***Imperfect*** 1 singular <span class="bdbLangHebrew">‎וָאֶפָּת‎</span> [[Jer.20.7|Jer 20:7]] — ***be deceived*** [[Jer.20.7|Jer 20:7]] rather ***be persuaded, persuade***; with <span class="bdbLangHebrew">‎עַל‎</span> ***enticed unto*** [[Job.31.9|Job 31:9]]. **Piel** ***Perfect*** 2 masculine singular <span class="bdbLangHebrew">‎פִּתִּיתָ‎</span> [[Prov.24.28|Prov 24:28]] suffix<span class="bdbLangHebrew">‎פִּתִּיתַנִי‎</span> [[Jer.20.7|Jer 20:7]] 1 singular <span class="bdbLangHebrew">‎פִּתֵּיתִי‎</span> [[Ezek.14.9|Ezek 14:9]] ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎יְפַתֶּה‎</span> [[Exod.22.15|Exod 22:15]] +, etc.; ***Imperative*** <span class="bdbLangHebrew">‎פַּתִּי‎</span> [[Judg.14.15|Judg 14:15]]; [[Judg.16.5|Judg 16:5]] ***Infinitive construct*** suffix <span class="bdbLangHebrew">‎פַּתֹתְךָ‎</span> [[2Sam.3.25|2Sam 3:25]] ***Participle*** suffix <span class="bdbLangHebrew">‎מְפַתֶּיהָ‎</span> ([[BDB#Ges|Ges]]<sup>«GKC:93»§ 93</sup> 88) [[Hos.2.15|Hos 2:15]] — 
+**2.** ***be enticed, deceived*** [[Deut.11.16|Deut 11:16]]; [[Job.31.27|Job 31:27]]. **Niph\`al** ***Perfect*** 3 masculine singular <span class="bdbLangHebrew">‎נַפְתָּה‎</span> [[Job.31.9|Job 31:9]] ***Imperfect*** 1 singular <span class="bdbLangHebrew">‎וָאֶפָּת‎</span> [[Jer.20.7|Jer 20:7]] — ***be deceived*** [[Jer.20.7|Jer 20:7]] rather ***be persuaded, persuade***; with <span class="bdbLangHebrew">‎עַל‎</span> ***enticed unto*** [[Job.31.9|Job 31:9]]. **Piel** ***Perfect*** 2 masculine singular <span class="bdbLangHebrew">‎פִּתִּיתָ‎</span> [[Prov.24.28|Prov 24:28]] suffix<span class="bdbLangHebrew">‎פִּתִּיתַנִי‎</span> [[Jer.20.7|Jer 20:7]] 1 singular <span class="bdbLangHebrew">‎פִּתֵּיתִי‎</span> [[Ezek.14.9|Ezek 14:9]] ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎יְפַתֶּה‎</span> [[Exod.22.16|Exod 22:15]]**\*** +, etc.; ***Imperative*** <span class="bdbLangHebrew">‎פַּתִּי‎</span> [[Judg.14.15|Judg 14:15]]; [[Judg.16.5|Judg 16:5]] ***Infinitive construct*** suffix <span class="bdbLangHebrew">‎פַּתֹתְךָ‎</span> [[2Sam.3.25|2Sam 3:25]] ***Participle*** suffix <span class="bdbLangHebrew">‎מְפַתֶּיהָ‎</span> ([[BDB#Ges|Ges]]<sup>«GKC:93»§ 93</sup> 88) [[Hos.2.13|Hos 2:15]]**\*** — 
 
-**1.** ***persuade***, woman [[Hos.2.16|Hos 2:16]] (figurative,<span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> subject), ***seduce, virgin*** [[Exod.22.16|Exod 22:16]] ***entice***, husband [[Judg.14.15|Judg 14:15]]; [[Judg.16.5|Judg 16:5]] a man to sin [[Prov.1.10|Prov 1:10]]; [[Prov.16.29|Prov 16:29]]. 
+**1.** ***persuade***, woman [[Hos.2.14|Hos 2:16]]**\*** (figurative,<span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> subject), ***seduce, virgin*** [[Exod.22.17|Exod 22:16]]**\*** ***entice***, husband [[Judg.14.15|Judg 14:15]]; [[Judg.16.5|Judg 16:5]] a man to sin [[Prov.1.10|Prov 1:10]]; [[Prov.16.29|Prov 16:29]]. 
 
 **2.** ***deceive***, [[2Sam.3.25|2Sam 3:25]]; [[Prov.24.28|Prov 24:28]] (yet compare√**Hiph\`il** above); subject<span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>, object prophet, [[Jer.20.7|Jer 20:7]]; [[Ezek.14.9|Ezek 14:9]], compare [[1Kgs.22.20|1Kgs 22:20]]; [[1Kgs.22.21|1Kgs 22:21]]; [[1Kgs.22.22|1Kgs 22:22]] = [[2Chr.18.19|2Chr 18:19]]; [[2Chr.18.20|2Chr 18:20]]; [[2Chr.18.21|2Chr 18:21]] object<span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>, [[Ps.78.36|Ps 78:36]]. **Paul** ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎יְפֻתֶּה‎</span>: 
 
@@ -29,7 +29,7 @@
 | Book | Refs |
 | - | - |
 | Genesis | [[Gen.9.27\|9:27]] |
-| Exodus | [[Exod.22.15\|22:15]] · [[Exod.22.16\|22:16]] |
+| Exodus | [[Exod.22.16\|22:15]]**\*** · [[Exod.22.17\|22:16]]**\*** |
 | Deuteronomy | [[Deut.11.16\|11:16]] |
 | Judges | [[Judg.14.15\|14:15]] · [[Judg.16.5\|16:5]] |
 | 2 Samuel | [[2Sam.3.25\|3:25]] |
@@ -40,5 +40,5 @@
 | Proverbs | [[Prov.1.10\|1:10]] · [[Prov.16.29\|16:29]] · [[Prov.20.19\|20:19]] · [[Prov.24.28\|24:28]] · [[Prov.25.15\|25:15]] |
 | Jeremiah | [[Jer.20.7\|20:7]] · [[Jer.20.10\|20:10]] |
 | Ezekiel | [[Ezek.14.9\|14:9]] |
-| Hosea | [[Hos.2.15\|2:15]] · [[Hos.2.16\|2:16]] · [[Hos.7.11\|7:11]] |
+| Hosea | [[Hos.2.13\|2:15]]**\*** · [[Hos.2.14\|2:16]]**\*** · [[Hos.7.11\|7:11]] |
 

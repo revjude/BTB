@@ -2,11 +2,11 @@
 
 **Qal** ***Imperfect*** 3 feminine singular <span class="bdbLangHebrew">‎תִּרָמשֹׁ‎</span> [[Gen.9.2|Gen 9:2]] + 2 t.; ***Participle*** <span class="bdbLangHebrew">‎רֹמֵשׂ‎</span> [[Gen.1.26|Gen 1:26]] +; feminine singular <span class="bdbLangHebrew">‎רֹמֶ֫שֶׂת‎</span> [[Lev.11.46|Lev 11:46]] + 2 t.; — 
 
-**1.** **subject ground**, <span class="bdbLangHebrew">‎הָאֲדָמָה‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎כֹּל אֲשֶׁר ת‎</span> ***all with which the ground creeps*** (teems), i.e. all creeping things, [[Lev.20.55|Lev 20:55]] ([[BDB#H|H]]), [[Gen.9.2|Gen 9:2]] ([[BDB#P|P]]). 
+**1.** **subject ground**, <span class="bdbLangHebrew">‎הָאֲדָמָה‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎כֹּל אֲשֶׁר ת‎</span> ***all with which the ground creeps*** (teems), i.e. all creeping things, Lev 20:55 ([[BDB#H|H]]), [[Gen.9.2|Gen 9:2]] ([[BDB#P|P]]). 
 
 **2.** elsewhere subject animal: 
 $\quad$ $\quad$ **a.** ***creep***, <span class="bdbLangHebrew">‎עַלהָֿאֲדָמָה‎</span> [[Deut.4.18|Deut 4:18]]; [[Gen.7.8|Gen 7:8]] ([[BDB#P|P]]), <span class="bdbLangHebrew">‎עַלהָֿאָרֶץ‎</span> [[Lev.11.44|Lev 11:44]] ([[BDB#H|H]]), [[Gen.1.30|Gen 1:30]] ([[BDB#P|P]]); <span class="bdbLangHebrew">‎הָרֶמֶשׂ הָרֹמֵשׂ עַלהָֿאֲדָמָה‎</span> [[Ezek.38.20|Ezek 38:20]], <span class="bdbLangHebrew">‎עַלהָֿאָרֶץ‎</span> [[Gen.1.26|Gen 1:26]]; [[Gen.7.14|Gen 7:14]]; [[Gen.8.17|Gen 8:17]] (all [[BDB#P|P]]). 
-$\quad$ $\quad$ **b.** ***move lightly, glide about***, of water animals, <span class="bdbLangHebrew">‎כָּלנֶֿפֶשׂ‎</span> (<span class="bdbLangHebrew">‎בַּמַּיִם‎</span>) <span class="bdbLangHebrew">‎הַחַיָּה הָרֹמֶצֶת‎</span> [[Lev.11.46|Lev 11:46]] ([[BDB#H|H]]), [[Gen.1.21|Gen 1:21]] ([[BDB#P|P]]), compare [[Ps.69.35|Ps 69:35]]. 
+$\quad$ $\quad$ **b.** ***move lightly, glide about***, of water animals, <span class="bdbLangHebrew">‎כָּלנֶֿפֶשׂ‎</span> (<span class="bdbLangHebrew">‎בַּמַּיִם‎</span>) <span class="bdbLangHebrew">‎הַחַיָּה הָרֹמֶצֶת‎</span> [[Lev.11.46|Lev 11:46]] ([[BDB#H|H]]), [[Gen.1.21|Gen 1:21]] ([[BDB#P|P]]), compare [[Ps.69.34|Ps 69:35]]**\***. 
 $\quad$ $\quad$ **c.** in general ***move about***, of all land-animals, <span class="bdbLangHebrew">‎עַלהָֿאָרֶץ‎</span> [[Gen.1.28|Gen 1:28]]; [[Gen.7.21|Gen 7:21]]; [[Gen.8.19|Gen 8:19]] (all [[BDB#P|P]]); specifically of wild beasts prowling at night [[Ps.104.20|Ps 104:20]]. 
 
 
@@ -16,8 +16,8 @@ $\quad$ $\quad$ **c.** in general ***move about***, of all land-animals, <span c
 | Book | Refs |
 | - | - |
 | Genesis | [[Gen.1.21\|1:21]] · [[Gen.1.26\|1:26]] · [[Gen.1.28\|1:28]] · [[Gen.1.30\|1:30]] · [[Gen.7.8\|7:8]] · [[Gen.7.14\|7:14]] · [[Gen.7.21\|7:21]] · [[Gen.8.17\|8:17]] · [[Gen.8.19\|8:19]] · [[Gen.9.2\|9:2]] |
-| Leviticus | [[Lev.11.44\|11:44]] · [[Lev.11.46\|11:46]] · [[Lev.20.55\|20:55]] |
+| Leviticus | [[Lev.11.44\|11:44]] · [[Lev.11.46\|11:46]] · 20:55 |
 | Deuteronomy | [[Deut.4.18\|4:18]] |
-| Psalms | [[Ps.69.35\|69:35]] · [[Ps.104.20\|104:20]] |
+| Psalms | [[Ps.69.34\|69:35]]**\*** · [[Ps.104.20\|104:20]] |
 | Ezekiel | [[Ezek.38.20\|38:20]] |
 

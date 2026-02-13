@@ -23,8 +23,6 @@ See [[topic HOLY SPIRIT|HOLY SPIRIT]]
 
 - Rain and fruitful seasons [[Gen.8.22|Ge 8:22]]; [[Gen.27.28|27:28]]; [[Lev.26.4|Le 26:4]],[[Lev.26.5|5]];  [[Isa.30.23|Isa 30:23]]
 
-- [[Wis.2|Wisdom 2]]Ch 1:12
-
 - Peace [[Lev.26.6|Le 26:6]]; [[1Chr.22.9|1Ch 22:9]]
 
 - To be used and enjoyed [[Eccl.3.13|Ec 3:13]]; [[Eccl.5.19|5:19]],[[Eccl.5.20|20]]; [[1Tim.4.4|1Ti 4:4]],[[1Tim.4.5|5]]

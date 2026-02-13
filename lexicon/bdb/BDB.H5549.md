@@ -6,9 +6,9 @@
 
 **2.** ***cast up a way:*** <span class="bdbLangHebrew">‎דֶּרֶךְ‎</span> with <span class="bdbLangHebrew">‎על‎</span> ***against***, [[Job.19.12|Job 19:12]] (of besieger, in figure), <span class="bdbLangHebrew">‎ארה‎</span> [[Job.30.12|Job 30:12]] (of besetting foe); Babylonian as a heap of garbage [[Jer.50.26|Jer 50:26]]. 
 
-**3.** ***lift up*** (a song) [[Ps.68.5|Ps 68:5]], with <span class="bdbLangHebrew">‎לְ‎</span> person (\|\| <span class="bdbLangHebrew">‎שׁיר‎</span>, <span class="bdbLangHebrew">‎זמּר‎</span>; most as 
+**3.** ***lift up*** (a song) [[Ps.68.4|Ps 68:5]]**\***, with <span class="bdbLangHebrew">‎לְ‎</span> person (\|\| <span class="bdbLangHebrew">‎שׁיר‎</span>, <span class="bdbLangHebrew">‎זמּר‎</span>; most as 
 
-**1.**). **Pilpel** ***Imperative*** suffix <span class="bdbLangHebrew">‎סַלְסְלֶהָ‎</span> [[Prov.4.8|Prov 4:8]] ***exalt her*** (i.e. Wisdom), i.e. (compare Toy) ***esteem highly, prize.*** **Hithpa\`el** ***Participle*** <span class="bdbLangHebrew">‎מִסְתּוֺלֵל‎</span> [[Exod.9.17|Exod 9:17]] ([[BDB#J|J]]) ***exalt oneself***, with <span class="bdbLangHebrew">‎בְּ‎</span> ***against*** (denominative from <span class="bdbLangHebrew">‎סֹלְלָה‎</span> according to [[BDB#Gerber|Gerber]]<sup>52</sup>); compare [[Eccl.39.24|Eccl 39:24]]; [[Eccl.40.28|Eccl 40:28]]. 
+**1.**). **Pilpel** ***Imperative*** suffix <span class="bdbLangHebrew">‎סַלְסְלֶהָ‎</span> [[Prov.4.8|Prov 4:8]] ***exalt her*** (i.e. Wisdom), i.e. (compare Toy) ***esteem highly, prize.*** **Hithpa\`el** ***Participle*** <span class="bdbLangHebrew">‎מִסְתּוֺלֵל‎</span> [[Exod.9.17|Exod 9:17]] ([[BDB#J|J]]) ***exalt oneself***, with <span class="bdbLangHebrew">‎בְּ‎</span> ***against*** (denominative from <span class="bdbLangHebrew">‎סֹלְלָה‎</span> according to [[BDB#Gerber|Gerber]]<sup>52</sup>); compare Eccl 39:24; Eccl 40:28. 
 
 
 
@@ -18,9 +18,9 @@
 | - | - |
 | Exodus | [[Exod.9.17\|9:17]] |
 | Job | [[Job.19.12\|19:12]] · [[Job.30.12\|30:12]] |
-| Psalms | [[Ps.68.5\|68:5]] |
+| Psalms | [[Ps.68.4\|68:5]]**\*** |
 | Proverbs | [[Prov.4.8\|4:8]] · [[Prov.15.19\|15:19]] |
-| Ecclesiastes | [[Eccl.39.24\|39:24]] · [[Eccl.40.28\|40:28]] |
+| Ecclesiastes | 39:24 · 40:28 |
 | Isaiah | [[Isa.57.14\|57:14]] · [[Isa.62.10\|62:10]] |
 | Jeremiah | [[Jer.18.15\|18:15]] · [[Jer.50.26\|50:26]] |
 

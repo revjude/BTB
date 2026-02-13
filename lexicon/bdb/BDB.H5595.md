@@ -2,7 +2,7 @@
 
 **Qal 1.** ==intransitive:== ***Perfect*** 3 feminine singular <span class="bdbLangHebrew">‎סָֽפְתָה‎</span> [[Jer.12.4|Jer 12:4]] ***be snatched away*** (read possibly <span class="bdbLangHebrew">‎סָ֫פָה‎</span> [<span class="bdbLangHebrew">‎סוף‎</span>]). 
 
-**2.** transitive: ***Imperfect*** 3 feminine singular <span class="bdbLangHebrew">‎תִּסְפֶּה‎</span> [[Isa.7.20|Isa 7:20]] ***sweep away*** beard; 2 masculine singular <span class="bdbLangHebrew">‎תִּסְפֶּה‎</span> [[Gen.18.23|Gen 18:23]]; [[Gen.18.24|Gen 18:24]] ***sweep away*** indiscriminately (good and bad); ***Infinitive construct*** <span class="bdbLangHebrew">‎סְפוֺת‎</span> [[Deut.29.18|Deut 29:18]] ***to snatch away*** the moist with the dry (proverb. expression, compare [[BDB#Dr|Dr]]), suffix <span class="bdbLangHebrew">‎לִסְפּוֺתָהּ‎</span> [[Ps.40.15|Ps 40:15]] ***to snatch it away*** (i.e. my life). — <span class="bdbLangHebrew">‎וְסָפ֫וּ‎</span> [[Amos.3.15|Amos 3:15]] see  <span class="bdbLangHebrew">‎סוף‎</span>. **Niph\`al** ***Pf .*** 3 masculine singular <span class="bdbLangHebrew">‎וְנִסְפָּה‎</span> consecutive [[1Sam.26.10|1Sam 26:10]] ***Imperfect*** 2 masculine singular<span class="bdbLangHebrew">‎תִּסָּפֶה‎</span> [[Gen.19.15|Gen 19:15]]; [[Gen.19.17|Gen 19:17]] 1 singular <span class="bdbLangHebrew">‎אֶסָּפֶה‎</span> [[1Sam.27.1|1Sam 27:1]] 2 masculine plural <span class="bdbLangHebrew">‎תִּסָּפוּ‎</span> [[Num.16.26|Num 16:26]], <span class="bdbLangHebrew">‎תִּסָּפ֑וּ‎</span> [[1Sam.12.25|1Sam 12:25]] ***Participle*** <span class="bdbLangHebrew">‎נִסְפֶּה‎</span> [[Isa.13.15|Isa 13:15]]; [[Prov.13.23|Prov 13:23]] ([[1Chr.21.12|1Chr 21:12]] see below); — 
+**2.** transitive: ***Imperfect*** 3 feminine singular <span class="bdbLangHebrew">‎תִּסְפֶּה‎</span> [[Isa.7.20|Isa 7:20]] ***sweep away*** beard; 2 masculine singular <span class="bdbLangHebrew">‎תִּסְפֶּה‎</span> [[Gen.18.23|Gen 18:23]]; [[Gen.18.24|Gen 18:24]] ***sweep away*** indiscriminately (good and bad); ***Infinitive construct*** <span class="bdbLangHebrew">‎סְפוֺת‎</span> [[Deut.29.19|Deut 29:18]]**\*** ***to snatch away*** the moist with the dry (proverb. expression, compare [[BDB#Dr|Dr]]), suffix <span class="bdbLangHebrew">‎לִסְפּוֺתָהּ‎</span> [[Ps.40.14|Ps 40:15]]**\*** ***to snatch it away*** (i.e. my life). — <span class="bdbLangHebrew">‎וְסָפ֫וּ‎</span> [[Amos.3.15|Amos 3:15]] see  <span class="bdbLangHebrew">‎סוף‎</span>. **Niph\`al** ***Pf .*** 3 masculine singular <span class="bdbLangHebrew">‎וְנִסְפָּה‎</span> consecutive [[1Sam.26.10|1Sam 26:10]] ***Imperfect*** 2 masculine singular<span class="bdbLangHebrew">‎תִּסָּפֶה‎</span> [[Gen.19.15|Gen 19:15]]; [[Gen.19.17|Gen 19:17]] 1 singular <span class="bdbLangHebrew">‎אֶסָּפֶה‎</span> [[1Sam.27.1|1Sam 27:1]] 2 masculine plural <span class="bdbLangHebrew">‎תִּסָּפוּ‎</span> [[Num.16.26|Num 16:26]], <span class="bdbLangHebrew">‎תִּסָּפ֑וּ‎</span> [[1Sam.12.25|1Sam 12:25]] ***Participle*** <span class="bdbLangHebrew">‎נִסְפֶּה‎</span> [[Isa.13.15|Isa 13:15]]; [[Prov.13.23|Prov 13:23]] ([[1Chr.21.12|1Chr 21:12]] see below); — 
 
 **1.** ***be swept away, destroyed***, [[Gen.19.15|Gen 19:15]] (<span class="bdbLangHebrew">‎בַּעֲוֺן הָעִיר‎</span> ***by reason of the iniquity of the city)***, v[[Gen.19.17|Gen 19:17]] (both [[BDB#J|J]]), [[Num.16.26|Num 16:26]] ([[BDB#J|J]][[BDB#E|E]]) [[1Sam.12.25|1Sam 12:25]]; [[1Sam.26.10|1Sam 26:10]] (in battle), + <span class="bdbLangHebrew">‎בְּיַד‎</span> of agent [[1Sam.27.1|1Sam 27:1]] compare <span class="bdbLangHebrew">‎וְיֵשׁ נִסְפֶּה בְּלאֹ מִשְׁפָּט‎</span> [[Prov.13.23|Prov 13:23]] ***and there is that is swept away for lack of justice.*** — [[1Chr.21.12|1Chr 21:12]] read <span class="bdbLangHebrew">‎נוּסְךָ‎</span> (as \|\| [[2Sam.24.13|2Sam 24:13]], see  <span class="bdbLangHebrew">‎נוּס‎</span>). 
 
@@ -16,11 +16,11 @@
 | - | - |
 | Genesis | [[Gen.18.23\|18:23]] · [[Gen.18.24\|18:24]] · [[Gen.19.15\|19:15]] · [[Gen.19.17\|19:17]] |
 | Numbers | [[Num.16.26\|16:26]] |
-| Deuteronomy | [[Deut.29.18\|29:18]] · [[Deut.32.23\|32:23]] |
+| Deuteronomy | [[Deut.29.19\|29:18]]**\*** · [[Deut.32.23\|32:23]] |
 | 1 Samuel | [[1Sam.12.25\|12:25]] · [[1Sam.26.10\|26:10]] · [[1Sam.27.1\|27:1]] |
 | 2 Samuel | [[2Sam.24.13\|24:13]] |
 | 1 Chronicles | [[1Chr.21.12\|21:12]] |
-| Psalms | [[Ps.40.15\|40:15]] |
+| Psalms | [[Ps.40.14\|40:15]]**\*** |
 | Proverbs | [[Prov.13.23\|13:23]] |
 | Isaiah | [[Isa.7.20\|7:20]] · [[Isa.13.15\|13:15]] |
 | Jeremiah | [[Jer.12.4\|12:4]] |

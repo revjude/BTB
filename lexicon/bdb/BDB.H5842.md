@@ -2,7 +2,7 @@
 
 **1.** of iron, for use on stone or metal [[Jer.17.1|Jer 17:1]] (<span class="bdbLangHebrew">‎בְּצִפֹּרֶן שָׁמִיר‎</span> ***with diamond-point***), [[Job.19.24|Job 19:24]] (see also <span class="bdbLangHebrew">‎חֶרֶט‎</span>). 
 
-**2.** probably = reed-pen (used o roll, compare [[Jer.36.2|Jer 36:2]]; [[Jer.36.23|Jer 36:23]] etc.), <span class="bdbLangHebrew">‎שֶׁקֶר סֹפְרִים‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ע‎</span> [[Jer.8.8|Jer 8:8]], figurative, <span class="bdbLangHebrew">‎סוֺפֵר מָהִיר‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎לְשׁוֺנִי ע‎</span> [[Ps.45.1|Ps 45:1]] (compare [[BDB#Now|Now]]<sup>Archaeology i. 290</sup> [[BDB#Benz|Benz]]<sup>Archaeology 290</sup>). 
+**2.** probably = reed-pen (used o roll, compare [[Jer.36.2|Jer 36:2]]; [[Jer.36.23|Jer 36:23]] etc.), <span class="bdbLangHebrew">‎שֶׁקֶר סֹפְרִים‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ע‎</span> [[Jer.8.8|Jer 8:8]], figurative, <span class="bdbLangHebrew">‎סוֺפֵר מָהִיר‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎לְשׁוֺנִי ע‎</span> [[Ps.45.0|Ps 45:1]]**\*** (compare [[BDB#Now|Now]]<sup>Archaeology i. 290</sup> [[BDB#Benz|Benz]]<sup>Archaeology 290</sup>). 
 
 
 
@@ -11,6 +11,6 @@
 | Book | Refs |
 | - | - |
 | Job | [[Job.19.24\|19:24]] |
-| Psalms | [[Ps.45.1\|45:1]] |
+| Psalms | [[Ps.45.0\|45:1]]**\*** |
 | Jeremiah | [[Jer.8.8\|8:8]] · [[Jer.17.1\|17:1]] · [[Jer.36.2\|36:2]] · [[Jer.36.23\|36:23]] |
 

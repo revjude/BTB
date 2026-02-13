@@ -16,11 +16,11 @@
 
 **5.** a Levite [[1Chr.9.16|1Chr 9:16]] (\|\| <span class="bdbLangHebrew">‎עַבְדָּא‎</span> [[Neh.11.17|Neh 11:17]]), [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Αβδεια</span> [[BDB#A|A]] <span class="bdbLangGreek">Οβδια</span>, [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Αβια</span>. 
 
-**6.** a Gadite chief [[1Chr.12.9|1Chr 12:9]], [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Αβδ</span>(<span class="bdbLangGreek">ε</span>)<span class="bdbLangGreek">ια</span>. 
+**6.** a Gadite chief [[1Chr.12.8|1Chr 12:9]]**\***, [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Αβδ</span>(<span class="bdbLangGreek">ε</span>)<span class="bdbLangGreek">ια</span>. 
 
 **7.** a prince in time of Jehoshaphat [[2Chr.17.7|2Chr 17:7]], [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Αβ</span>(<span class="bdbLangGreek">δ</span>)<span class="bdbLangGreek">ιαν</span>. 
 
-**8.** priestly companion of Ezra [[Ezra.8.9|Ezra 8:9]]; [[Neh.10.6|Neh 10:6]], [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Αδεια</span>, <span class="bdbLangGreek">Αβ</span>(<span class="bdbLangGreek">α</span>)<span class="bdbLangGreek">δ</span>(<span class="bdbLangGreek">ε</span>)<span class="bdbLangGreek">ια</span>, [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Αβδιου</span>, <span class="bdbLangGreek">Αβιας</span>. 
+**8.** priestly companion of Ezra [[Ezra.8.9|Ezra 8:9]]; [[Neh.10.5|Neh 10:6]]**\***, [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Αδεια</span>, <span class="bdbLangGreek">Αβ</span>(<span class="bdbLangGreek">α</span>)<span class="bdbLangGreek">δ</span>(<span class="bdbLangGreek">ε</span>)<span class="bdbLangGreek">ια</span>, [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Αβδιου</span>, <span class="bdbLangGreek">Αβιας</span>. 
 
 **9.** a doorkeeper [[Neh.12.25|Neh 12:25]], <span class="bdbLangHebrew">‎א‎</span> <span class="bdbLangGreek">Οβδιας</span>, [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Αβδιας</span>. 
 
@@ -31,9 +31,9 @@
 | Book | Refs |
 | - | - |
 | 1 Kings | [[1Kgs.18.3\|18:3]] · [[1Kgs.18.4\|18:4]] · [[1Kgs.18.5\|18:5]] · [[1Kgs.18.6\|18:6]] · [[1Kgs.18.7\|18:7]] · [[1Kgs.18.16\|18:16]] |
-| 1 Chronicles | [[1Chr.3.21\|3:21]] · [[1Chr.7.3\|7:3]] · [[1Chr.8.38\|8:38]] · [[1Chr.9.16\|9:16]] · [[1Chr.9.44\|9:44]] · [[1Chr.12.9\|12:9]] · [[1Chr.27.19\|27:19]] |
+| 1 Chronicles | [[1Chr.3.21\|3:21]] · [[1Chr.7.3\|7:3]] · [[1Chr.8.38\|8:38]] · [[1Chr.9.16\|9:16]] · [[1Chr.9.44\|9:44]] · [[1Chr.12.8\|12:9]]**\*** · [[1Chr.27.19\|27:19]] |
 | 2 Chronicles | [[2Chr.17.7\|17:7]] · [[2Chr.34.12\|34:12]] |
 | Ezra | [[Ezra.8.9\|8:9]] |
-| Nehemiah | [[Neh.10.6\|10:6]] · [[Neh.11.17\|11:17]] · [[Neh.12.25\|12:25]] |
+| Nehemiah | [[Neh.10.5\|10:6]]**\*** · [[Neh.11.17\|11:17]] · [[Neh.12.25\|12:25]] |
 | Obadiah | [[Obad.1.1\|1:1]] |
 

@@ -1,6 +1,6 @@
  I. [<span class="bdbLangHebrew">‎זָקַק‎</span>] **verb** ==refine, purify== **\*\***perhaps properly ***strain*** or ***filter through***, compare [[Job.36.27|Job 36:27]]; [[Isa.25.6|Isa 25:6]]. (Aramaic <span class="bdbLangAramaic">‎זְקַק‎</span>; perhaps kindred with Assyrian <abbr title="transliteration"><u>***za‡i‡u***</u></abbr>, ***wind***, [[BDB#Asrb.|Asrb]]<sup>Annals vi. 64 and</sup> Aramaic <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhKAAXAIAAAP///wAAACH5BAAAAAAALAAAAAAoABcAAAJjhI+pyw3hAnQUyakurlEyuH2al5FluIymtSZoqsJv23iazOWvcaX50ROFYpwgDqjauWjIjelWYfJW1NZM+XhWWShpNgmeGqc1sJmILH/PyWWH94jLaN7xz1fG3qP7vv8P6FcAADs=">, <span class="bdbLangHebrew">‎זִיקָּא‎</span> ***violent wind, violent rain with whirlwind***) — 
 
-**Qal** ***Imperfect*** 3 masculine plural <span class="bdbLangHebrew">‎יָזֹ֫קּוּ‎</span> [[Job.28.1|Job 28:1]] object <span class="bdbLangHebrew">‎זָהָב‎</span>, [[Job.36.27|Job 36:27]] object <span class="bdbLangHebrew">‎מָטָר‎</span> (see [[BDB#Di|Di]]). **Pi\`el** ***Perfect*** <span class="bdbLangHebrew">‎וְזִקַּק‎</span> consecutive [[Mal.3.3|Mal 3:3]] (\|\| <span class="bdbLangHebrew">‎וְטִהַר‎</span>) figurative, of purifying sons of Levi, like gold and silver <span class="bdbLangHebrew">‎כְּזָהָב‎</span> etc. **Pu\`al** ***Participle*** <span class="bdbLangHebrew">‎מְזֻקָּק‎</span> ***refined***, of gold [[1Chr.28.18|1Chr 28:18]], of silver [[1Chr.29.4|1Chr 29:4]]: [[Ps.12.7|Ps 12:7]] (<span class="bdbLangHebrew">‎שׁבעתים‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span>); of settled wines <span class="bdbLangHebrew">‎שְׁמָרִים מְזֻקָּקִים‎</span> [[Isa.25.6|Isa 25:6]]. 
+**Qal** ***Imperfect*** 3 masculine plural <span class="bdbLangHebrew">‎יָזֹ֫קּוּ‎</span> [[Job.28.1|Job 28:1]] object <span class="bdbLangHebrew">‎זָהָב‎</span>, [[Job.36.27|Job 36:27]] object <span class="bdbLangHebrew">‎מָטָר‎</span> (see [[BDB#Di|Di]]). **Pi\`el** ***Perfect*** <span class="bdbLangHebrew">‎וְזִקַּק‎</span> consecutive [[Mal.3.3|Mal 3:3]] (\|\| <span class="bdbLangHebrew">‎וְטִהַר‎</span>) figurative, of purifying sons of Levi, like gold and silver <span class="bdbLangHebrew">‎כְּזָהָב‎</span> etc. **Pu\`al** ***Participle*** <span class="bdbLangHebrew">‎מְזֻקָּק‎</span> ***refined***, of gold [[1Chr.28.18|1Chr 28:18]], of silver [[1Chr.29.4|1Chr 29:4]]: [[Ps.12.6|Ps 12:7]]**\*** (<span class="bdbLangHebrew">‎שׁבעתים‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span>); of settled wines <span class="bdbLangHebrew">‎שְׁמָרִים מְזֻקָּקִים‎</span> [[Isa.25.6|Isa 25:6]]. 
 
 
 
@@ -12,7 +12,7 @@
 | - | - |
 | 1 Chronicles | [[1Chr.28.18\|28:18]] · [[1Chr.29.4\|29:4]] |
 | Job | [[Job.28.1\|28:1]] · [[Job.36.27\|36:27]] |
-| Psalms | [[Ps.12.7\|12:7]] |
+| Psalms | [[Ps.12.6\|12:7]]**\*** |
 | Isaiah | [[Isa.25.6\|25:6]] |
 | Malachi | [[Mal.3.3\|3:3]] |
 

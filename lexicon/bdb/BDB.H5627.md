@@ -2,7 +2,7 @@
 
 **1.** ***defection***, used apparently of any moral or legal offence [[Deut.19.16|Deut 19:16]], so probably [[Isa.59.13|Isa 59:13]] (+ <span class="bdbLangHebrew">‎עשֶׁק‎</span>, <span class="bdbLangHebrew">‎דִּבְרֵי שָׁ֑קֶר‎</span>). 
 
-**2.** ***apostasy***, [[Deut.13.6|Deut 13:6]]; [[Isa.1.5|Isa 1:5]]; [[Isa.31.6|Isa 31:6]]; [[Jer.28.16|Jer 28:16]]; [[Jer.29.32|Jer 29:32]]. 
+**2.** ***apostasy***, [[Deut.13.5|Deut 13:6]]**\***; [[Isa.1.5|Isa 1:5]]; [[Isa.31.6|Isa 31:6]]; [[Jer.28.16|Jer 28:16]]; [[Jer.29.32|Jer 29:32]]. 
 
 **3.** <span class="bdbLangHebrew">‎סָרָה בִּלְתִּי‎</span> ***non-withdrawal*** [[Isa.14.6|Isa 14:6]] (compare verb, v[[Isa.14.25|Isa 14:25]]; [[Amos.6.7|Amos 6:7]]). 
 
@@ -12,7 +12,7 @@
 
 | Book | Refs |
 | - | - |
-| Deuteronomy | [[Deut.13.6\|13:6]] · [[Deut.19.16\|19:16]] |
+| Deuteronomy | [[Deut.13.5\|13:6]]**\*** · [[Deut.19.16\|19:16]] |
 | Isaiah | [[Isa.1.5\|1:5]] · [[Isa.14.6\|14:6]] · [[Isa.14.25\|14:25]] · [[Isa.31.6\|31:6]] · [[Isa.59.13\|59:13]] |
 | Jeremiah | [[Jer.17.13\|17:13]] · [[Jer.28.16\|28:16]] · [[Jer.29.32\|29:32]] |
 | Amos | [[Amos.6.7\|6:7]] |

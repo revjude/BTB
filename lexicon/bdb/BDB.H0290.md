@@ -1,6 +1,6 @@
  <span class="bdbLangHebrew">‎אֲחִימַ֫עַץ‎</span> **proper name, masculine** (***my brother is wrath***) 
 
-**1.** son of Zadok [[2Sam.15.27|2Sam 15:27]]; [[2Sam.15.36|2Sam 15:36]]; [[2Sam.17.17|2Sam 17:17]]; [[2Sam.17.20|2Sam 17:20]]; [[2Sam.18.19|2Sam 18:19]]; [[2Sam.18.22|2Sam 18:22]]; [[2Sam.18.23|2Sam 18:23]]; [[2Sam.18.27|2Sam 18:27]]; [[2Sam.18.28|2Sam 18:28]]; [[2Sam.18.29|2Sam 18:29]]; [[1Chr.5.34|1Chr 5:34]] (<span class="bdbLangHebrew">‎אֲחִימָ֑עַץ‎</span> v.[[1Chr.6.35|1Chr 6:35]]; [[1Chr.6.38|1Chr 6:38]] perhaps also [[1Kgs.4.15|1Kgs 4:15]] (son-in-law of Solomon) 
+**1.** son of Zadok [[2Sam.15.27|2Sam 15:27]]; [[2Sam.15.36|2Sam 15:36]]; [[2Sam.17.17|2Sam 17:17]]; [[2Sam.17.20|2Sam 17:20]]; [[2Sam.18.19|2Sam 18:19]]; [[2Sam.18.22|2Sam 18:22]]; [[2Sam.18.23|2Sam 18:23]]; [[2Sam.18.27|2Sam 18:27]]; [[2Sam.18.28|2Sam 18:28]]; [[2Sam.18.29|2Sam 18:29]]; [[1Chr.6.8|1Chr 5:34]]**\*** (<span class="bdbLangHebrew">‎אֲחִימָ֑עַץ‎</span> v.[[1Chr.6.50|1Chr 6:35]]**\***; [[1Chr.6.53|1Chr 6:38]]**\*** perhaps also [[1Kgs.4.15|1Kgs 4:15]] (son-in-law of Solomon) 
 
 **2.** <span class="bdbLangHebrew">‎אֲחִימָ֑עַץ‎</span>, father-in-law of Saul [[1Sam.14.50|1Sam 14:50]]. 
 
@@ -15,5 +15,5 @@
 | 1 Samuel | [[1Sam.14.50\|14:50]] |
 | 2 Samuel | [[2Sam.15.27\|15:27]] · [[2Sam.15.36\|15:36]] · [[2Sam.17.17\|17:17]] · [[2Sam.17.20\|17:20]] · [[2Sam.18.19\|18:19]] · [[2Sam.18.22\|18:22]] · [[2Sam.18.23\|18:23]] · [[2Sam.18.27\|18:27]] · [[2Sam.18.28\|18:28]] · [[2Sam.18.29\|18:29]] |
 | 1 Kings | [[1Kgs.4.15\|4:15]] |
-| 1 Chronicles | [[1Chr.5.34\|5:34]] · [[1Chr.6.35\|6:35]] · [[1Chr.6.38\|6:38]] |
+| 1 Chronicles | [[1Chr.6.8\|5:34]]**\*** · [[1Chr.6.50\|6:35]]**\*** · [[1Chr.6.53\|6:38]]**\*** |
 

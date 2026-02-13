@@ -1,8 +1,8 @@
 <small>Also see: **<big>[[H4854|מַשָּׂא]]</big>**</small>
 
- II. <span class="bdbLangHebrew">‎מַשָּׂא‎</span> **noun masculine**<sup>[[Ps.38.5|Ps 38:5]]</sup> ==load, burden, lifting, bearing, tribute==; — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> absolute [[Neh.13.19|Neh 13:19]] +; construct [[2Kgs.5.17|2Kgs 5:17]] +; suffix <span class="bdbLangHebrew">‎מַשָּׂאוֺ‎</span> [[Exod.23.5|Exod 23:5]] + 2 t.; <span class="bdbLangHebrew">‎מַשַּׂאֲכֶם‎</span> [[Deut.1.12|Deut 1:12]] <span class="bdbLangHebrew">‎מַשָּׂאָם‎</span> [[Num.4.27|Num 4:27]] + 2 t.; — 
+ II. <span class="bdbLangHebrew">‎מַשָּׂא‎</span> **noun masculine**<sup>[[Ps.38.4|Ps 38:5]]**\***</sup> ==load, burden, lifting, bearing, tribute==; — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> absolute [[Neh.13.19|Neh 13:19]] +; construct [[2Kgs.5.17|2Kgs 5:17]] +; suffix <span class="bdbLangHebrew">‎מַשָּׂאוֺ‎</span> [[Exod.23.5|Exod 23:5]] + 2 t.; <span class="bdbLangHebrew">‎מַשַּׂאֲכֶם‎</span> [[Deut.1.12|Deut 1:12]] <span class="bdbLangHebrew">‎מַשָּׂאָם‎</span> [[Num.4.27|Num 4:27]] + 2 t.; — 
 
-**1.** ***load, burden*** of ass [[Exod.23.5|Exod 23:5]] ([[BDB#E|E]]), mules [[2Kgs.5.17|2Kgs 5:17]], camels [[2Kgs.8.9|2Kgs 8:9]], compare [[Isa.46.1|Isa 46:1]]; [[Isa.46.2|Isa 46:2]] hanging on a peg [[Isa.22.25|Isa 22:25]] (figurative); forbidden on Sabbath [[Jer.17.21|Jer 17:21]]; [[Jer.17.22|Jer 17:22]]; [[Jer.17.24|Jer 17:24]]; [[Jer.17.27|Jer 17:27]]; [[Neh.13.15|Neh 13:15]]; [[Neh.13.19|Neh 13:19]] figurative of people as burden [[Num.11.11|Num 11:11]]; [[Num.11.17|Num 11:17]] ([[BDB#J|J]][[BDB#E|E]]), [[Deut.1.12|Deut 1:12]], compare <span class="bdbLangHebrew">‎עַלֿ‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎הָיָה לְמ‎</span> [[2Sam.15.33|2Sam 15:33]]; [[2Sam.19.36|2Sam 19:36]] (<span class="bdbLangHebrew">‎אֶלֿ‎</span>), also <span class="bdbLangHebrew">‎וָאֶהְיֶה עָלַי לְמַשָּׂא‎</span> [[Job.7.20|Job 7:20]] of iniquities [[Ps.38.5|Ps 38:5]]. — [[Hos.8.10|Hos 8:10]] read <span class="bdbLangHebrew">‎מְשֹׁחַ‎</span>, so [[BDB#Sept|ᵐ5]] [[BDB#We|We]] [[BDB#Now|Now]] [[BDB#GASm|GASm]]. 
+**1.** ***load, burden*** of ass [[Exod.23.5|Exod 23:5]] ([[BDB#E|E]]), mules [[2Kgs.5.17|2Kgs 5:17]], camels [[2Kgs.8.9|2Kgs 8:9]], compare [[Isa.46.1|Isa 46:1]]; [[Isa.46.2|Isa 46:2]] hanging on a peg [[Isa.22.25|Isa 22:25]] (figurative); forbidden on Sabbath [[Jer.17.21|Jer 17:21]]; [[Jer.17.22|Jer 17:22]]; [[Jer.17.24|Jer 17:24]]; [[Jer.17.27|Jer 17:27]]; [[Neh.13.15|Neh 13:15]]; [[Neh.13.19|Neh 13:19]] figurative of people as burden [[Num.11.11|Num 11:11]]; [[Num.11.17|Num 11:17]] ([[BDB#J|J]][[BDB#E|E]]), [[Deut.1.12|Deut 1:12]], compare <span class="bdbLangHebrew">‎עַלֿ‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎הָיָה לְמ‎</span> [[2Sam.15.33|2Sam 15:33]]; [[2Sam.19.35|2Sam 19:36]]**\*** (<span class="bdbLangHebrew">‎אֶלֿ‎</span>), also <span class="bdbLangHebrew">‎וָאֶהְיֶה עָלַי לְמַשָּׂא‎</span> [[Job.7.20|Job 7:20]] of iniquities [[Ps.38.4|Ps 38:5]]**\***. — [[Hos.8.10|Hos 8:10]] read <span class="bdbLangHebrew">‎מְשֹׁחַ‎</span>, so [[BDB#Sept|ᵐ5]] [[BDB#We|We]] [[BDB#Now|Now]] [[BDB#GASm|GASm]]. 
 
 **2.** verbal noun, ***lifting, uplifting***, only <span class="bdbLangHebrew">‎נַפְשָׁם‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> [[Ezek.24.25|Ezek 24:25]] ***the uplifting of their soul***, i.e. that to which they lift up their soul, their heart's desire. 
 
@@ -21,13 +21,13 @@
 | Exodus | [[Exod.23.5\|23:5]] |
 | Numbers | [[Num.4.15\|4:15]] · [[Num.4.19\|4:19]] · [[Num.4.24\|4:24]] · [[Num.4.27\|4:27]] · [[Num.4.31\|4:31]] · [[Num.4.32\|4:32]] · [[Num.4.47\|4:47]] · [[Num.4.49\|4:49]] · [[Num.11.11\|11:11]] · [[Num.11.17\|11:17]] |
 | Deuteronomy | [[Deut.1.12\|1:12]] |
-| 2 Samuel | [[2Sam.15.33\|15:33]] · [[2Sam.19.36\|19:36]] |
+| 2 Samuel | [[2Sam.15.33\|15:33]] · [[2Sam.19.35\|19:36]]**\*** |
 | 2 Kings | [[2Kgs.5.17\|5:17]] · [[2Kgs.8.9\|8:9]] · [[2Kgs.9.25\|9:25]] · [[2Kgs.9.33\|9:33]] · [[2Kgs.9.36\|9:36]] |
 | 1 Chronicles | [[1Chr.15.22\|15:22]] · [[1Chr.15.27\|15:27]] |
 | 2 Chronicles | [[2Chr.17.11\|17:11]] · [[2Chr.20.25\|20:25]] · [[2Chr.24.27\|24:27]] · [[2Chr.35.3\|35:3]] |
 | Nehemiah | [[Neh.13.15\|13:15]] · [[Neh.13.19\|13:19]] |
 | Job | [[Job.7.20\|7:20]] |
-| Psalms | [[Ps.38.5\|38:5]] |
+| Psalms | [[Ps.38.4\|38:5]]**\*** |
 | Proverbs | [[Prov.30.1\|30:1]] · [[Prov.31.1\|31:1]] |
 | Isaiah | [[Isa.13.1\|13:1]] · [[Isa.14.28\|14:28]] · [[Isa.15.1\|15:1]] · [[Isa.17.1\|17:1]] · [[Isa.19.1\|19:1]] · [[Isa.21.1\|21:1]] · [[Isa.21.11\|21:11]] · [[Isa.21.13\|21:13]] · [[Isa.22.1\|22:1]] · [[Isa.22.25\|22:25]] · [[Isa.23.1\|23:1]] · [[Isa.30.6\|30:6]] · [[Isa.46.1\|46:1]] · [[Isa.46.2\|46:2]] |
 | Jeremiah | [[Jer.17.21\|17:21]] · [[Jer.17.22\|17:22]] · [[Jer.17.24\|17:24]] · [[Jer.17.27\|17:27]] · [[Jer.23.33\|23:33]] · [[Jer.23.34\|23:34]] · [[Jer.23.36\|23:36]] · [[Jer.23.38\|23:38]] |

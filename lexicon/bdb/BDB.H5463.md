@@ -1,6 +1,6 @@
  <span class="bdbLangAramaic">‎סְגַר‎</span> **verb shut** (see Biblical Hebrew) — 
 
-**Pe\`al** ***Perfect*** 3 masculine singular <span class="bdbLangAramaic">‎׳‎</span><span class="bdbLangAramaic">‎ס‎</span> [[Dan.6.23|Dan 6:23]] ***shut*** the lions' mouth (accusative). 
+**Pe\`al** ***Perfect*** 3 masculine singular <span class="bdbLangAramaic">‎׳‎</span><span class="bdbLangAramaic">‎ס‎</span> [[Dan.6.22|Dan 6:23]]**\*** ***shut*** the lions' mouth (accusative). 
 
 
 
@@ -8,5 +8,5 @@
 
 | Book | Refs |
 | - | - |
-| Daniel | [[Dan.6.23\|6:23]] |
+| Daniel | [[Dan.6.22\|6:23]]**\*** |
 

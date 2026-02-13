@@ -12,7 +12,7 @@
 
 **2.** ***lead straight along direct***, waters of an aqueduct [[2Chr.32.30|2Chr 32:30]] (of the thunder [[Job.37.3|Job 37:3]] according to some; but see rather <span class="bdbLangHebrew">‎שָׁרָה‎</span>) 
 
-**3.** ***esteem right, approve*** [[Ps.119.128|Ps 119:128]] (read <span class="bdbLangHebrew">‎כל פקודיך לי יִשָּׁ֑רְתִּי‎</span>). **Pu\`al** ***Participle*** <span class="bdbLangHebrew">‎זָהָב מְיֻשָּׁר‎</span> [[1Kgs.6.35|1Kgs 6:35]] ***gold made level, laid smoothly out, upon the graven work.*** **Hiph\`il** ***Imperfect*** 3 plural <span class="bdbLangHebrew">‎עַפְעַפֶּיךָ יַיְשִׁרוּ נֶגְדֶּ֑ךָ‎</span> [[Prov.4.25|Prov 4:25]] ***let thine eyelids look straight before thee; Imperative*** <span class="bdbLangHebrew">‎הַיְ֯שַׁר דַּרְכֶּךָ‎</span> ***make thy way even*** [[Ps.5.9|Ps 5:9]] [[BDB#Qr|Qr]] ([[BDB#Kt|Kt]] <span class="bdbLangHebrew">‎הוֺשַׁר‎</span>; see [[BDB#Ges|Ges]]<sup>70</sup> (2)). 
+**3.** ***esteem right, approve*** [[Ps.119.128|Ps 119:128]] (read <span class="bdbLangHebrew">‎כל פקודיך לי יִשָּׁ֑רְתִּי‎</span>). **Pu\`al** ***Participle*** <span class="bdbLangHebrew">‎זָהָב מְיֻשָּׁר‎</span> [[1Kgs.6.35|1Kgs 6:35]] ***gold made level, laid smoothly out, upon the graven work.*** **Hiph\`il** ***Imperfect*** 3 plural <span class="bdbLangHebrew">‎עַפְעַפֶּיךָ יַיְשִׁרוּ נֶגְדֶּ֑ךָ‎</span> [[Prov.4.25|Prov 4:25]] ***let thine eyelids look straight before thee; Imperative*** <span class="bdbLangHebrew">‎הַיְ֯שַׁר דַּרְכֶּךָ‎</span> ***make thy way even*** [[Ps.5.8|Ps 5:9]]**\*** [[BDB#Qr|Qr]] ([[BDB#Kt|Kt]] <span class="bdbLangHebrew">‎הוֺשַׁר‎</span>; see [[BDB#Ges|Ges]]<sup>70</sup> (2)). 
 
 
 
@@ -28,7 +28,7 @@
 | 1 Chronicles | [[1Chr.13.4\|13:4]] |
 | 2 Chronicles | [[2Chr.30.4\|30:4]] · [[2Chr.32.30\|32:30]] |
 | Job | [[Job.37.3\|37:3]] |
-| Psalms | [[Ps.5.9\|5:9]] · [[Ps.119.128\|119:128]] |
+| Psalms | [[Ps.5.8\|5:9]]**\*** · [[Ps.119.128\|119:128]] |
 | Proverbs | [[Prov.3.5\|3:5]] · [[Prov.3.6\|3:6]] · [[Prov.4.25\|4:25]] · [[Prov.9.15\|9:15]] · [[Prov.11.4\|11:4]] · [[Prov.11.5\|11:5]] · [[Prov.15.21\|15:21]] |
 | Isaiah | [[Isa.40.3\|40:3]] · [[Isa.45.2\|45:2]] · [[Isa.45.13\|45:13]] |
 | Jeremiah | [[Jer.18.4\|18:4]] · [[Jer.27.5\|27:5]] |

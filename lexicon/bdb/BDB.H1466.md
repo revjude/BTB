@@ -1,4 +1,4 @@
- <span class="bdbLangHebrew">‎גֵּוָה‎</span> **noun feminine** ==pride== (contracted for <span class="bdbLangHebrew">‎גַּאֲוָה‎</span> [[BDB#Ew|Ew]]<sup>§ 62 b, 73 b</sup> compare Aramaic [[Dan.4.34|Dan 4:34]] &amp; [[BDB#Tg|ᵑ7]]) — 
+ <span class="bdbLangHebrew">‎גֵּוָה‎</span> **noun feminine** ==pride== (contracted for <span class="bdbLangHebrew">‎גַּאֲוָה‎</span> [[BDB#Ew|Ew]]<sup>§ 62 b, 73 b</sup> compare Aramaic [[Dan.4.37|Dan 4:34]]**\*** &amp; [[BDB#Tg|ᵑ7]]) — 
 
 **1.** ***pride*** [[Job.33.17|Job 33:17]]; [[Jer.13.17|Jer 13:17]]. 
 
@@ -14,5 +14,5 @@
 | - | - |
 | Job | [[Job.22.29\|22:29]] · [[Job.33.17\|33:17]] |
 | Jeremiah | [[Jer.13.17\|13:17]] |
-| Daniel | [[Dan.4.34\|4:34]] |
+| Daniel | [[Dan.4.37\|4:34]]**\*** |
 

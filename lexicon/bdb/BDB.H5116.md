@@ -8,7 +8,7 @@ $\quad$ $\quad$ **c.** = ***meadow***, in figure of Ephraim planted (<span class
 
 
 
- II. [<span class="bdbLangHebrew">‎נָוֶה‎</span>] **adjective** ==dwelling, abiding==; — only (si vera lectio) <span class="bdbLangHebrew">‎נְוַת בַּיִת‎</span> [[Ps.68.13|Ps 68:13]] ***she that is adiding at home***. — <span class="bdbLangHebrew">‎נָוָה‎</span> [[Jer.6.2|Jer 6:2]] see  <span class="bdbLangHebrew">‎נָאוֶה‎</span> below [<span class="bdbLangHebrew">‎נָאָה‎</span>]. 
+ II. [<span class="bdbLangHebrew">‎נָוֶה‎</span>] **adjective** ==dwelling, abiding==; — only (si vera lectio) <span class="bdbLangHebrew">‎נְוַת בַּיִת‎</span> [[Ps.68.12|Ps 68:13]]**\*** ***she that is adiding at home***. — <span class="bdbLangHebrew">‎נָוָה‎</span> [[Jer.6.2|Jer 6:2]] see  <span class="bdbLangHebrew">‎נָאוֶה‎</span> below [<span class="bdbLangHebrew">‎נָאָה‎</span>]. 
 
 **Brown-Driver-Briggs References**
 
@@ -18,7 +18,7 @@ $\quad$ $\quad$ **c.** = ***meadow***, in figure of Ephraim planted (<span class
 | 2 Samuel | [[2Sam.7.8\|7:8]] · [[2Sam.15.25\|15:25]] |
 | 1 Chronicles | [[1Chr.17.1\|17:1]] |
 | Job | [[Job.5.3\|5:3]] · [[Job.5.24\|5:24]] · [[Job.8.6\|8:6]] · [[Job.18.15\|18:15]] |
-| Psalms | [[Ps.68.13\|68:13]] · [[Ps.79.7\|79:7]] |
+| Psalms | [[Ps.68.12\|68:13]]**\*** · [[Ps.79.7\|79:7]] |
 | Proverbs | [[Prov.3.33\|3:33]] · [[Prov.21.20\|21:20]] · [[Prov.24.15\|24:15]] |
 | Isaiah | [[Isa.27.10\|27:10]] · [[Isa.32.18\|32:18]] · [[Isa.33.20\|33:20]] · [[Isa.34.13\|34:13]] · [[Isa.35.7\|35:7]] · [[Isa.65.10\|65:10]] |
 | Jeremiah | [[Jer.6.2\|6:2]] · [[Jer.10.25\|10:25]] · [[Jer.23.3\|23:3]] · [[Jer.25.30\|25:30]] · [[Jer.31.23\|31:23]] · [[Jer.33.12\|33:12]] · [[Jer.49.19\|49:19]] · [[Jer.49.20\|49:20]] · [[Jer.50.7\|50:7]] · [[Jer.50.19\|50:19]] · [[Jer.50.44\|50:44]] · [[Jer.50.45\|50:45]] |

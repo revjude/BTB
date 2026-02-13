@@ -1,6 +1,6 @@
  <span class="bdbLangHebrew">‎אֵיךְ‎</span><sub>59</sub> (Aramaic <span class="bdbLangAramaic">‎אֵיךְ‎</span>, <img class="bdbSeriacGlyph" src="data:image/gif;base64,R0lGODlhJAAeAIAAAAAAAP///yH5BAAAAAAALAAAAAAkAB4AAAJZjI+py+0J4psugnNNplVqu3GN9Xni45HnlIbr+L2sK3c1Zd4jrSt57+MxWi5VDEcMgTDCIOgJZYqgVOMPVX0ijNOr88UdNjtjXRi49aLP6GMbom6X3/T6ogAAOw=="> [pronounced ***âch***]) **adverb 1. interrogative** ==How?== [[Gen.26.9|Gen 26:9]]; [[2Sam.1.5|2Sam 1:5]]; [[2Sam.1.14|2Sam 1:14]]; [[1Kgs.12.6|1Kgs 12:6]]; [[Isa.20.6|Isa 20:6]] and elsewhere; often with imperfect (especially in 1 person) in an expostulation [[Gen.39.9|Gen 39:9]]; [[Gen.44.8|Gen 44:8]]; [[Gen.44.34|Gen 44:34]]; [[Josh.9.7|Josh 9:7]]; [[2Sam.2.22|2Sam 2:22]]; [[2Sam.12.18|2Sam 12:18]]; [[Ps.137.4|Ps 137:4]]; [[Isa.48.11|Isa 48:11]] for ***how***should it be profaned ? <span class="bdbLangHebrew">‎איך תאמר(וׅ‎</span> ***how canst*** or ***dost*** thou (do you) say . . . ? [[Judg.16.15|Judg 16:15]]; [[Isa.19.11|Isa 19:11]]; [[Jer.2.23|Jer 2:23]] (compare [[Jer.8.8|Jer 8:8]] <span class="bdbLangHebrew">‎אֵיכָה‎</span>) [[Jer.48.14|Jer 48:14]]; [[Ps.11.1|Ps 11:1]] in an indirect sentence [[2Kgs.17.28|2Kgs 17:28]]; [[Jer.36.17|Jer 36:17]]; [[Ruth.3.18|Ruth 3:18]]. 
 
-**2. as an exclamation** ==How!== whether of lamentation [[2Sam.1.19|2Sam 1:19]]; [[Jer.2.21|Jer 2:21]]; [[Jer.9.18|Jer 9:18]]; [[Mic.2.4|Mic 2:4]] or of satisfaction [[Isa.14.4|Isa 14:4]]; [[Isa.14.12|Isa 14:12]]; [[Jer.48.39|Jer 48:39]]; [[Jer.51.41|Jer 51:41]]; [[Obad.1.5|Obad 1:5]] and elsewhere; with intensive force = ***how gladly!*** [[Jer.3.19|Jer 3:19]], ***how terribly!*** [[Jer.9.6|Jer 9:6]] (but others render here 'for how [else] should I do'? etc.) **\*\***[[Hos.11.8|Hos 11:8]] according to Hi Ke We Marti and others. 
+**2. as an exclamation** ==How!== whether of lamentation [[2Sam.1.19|2Sam 1:19]]; [[Jer.2.21|Jer 2:21]]; [[Jer.9.19|Jer 9:18]]**\***; [[Mic.2.4|Mic 2:4]] or of satisfaction [[Isa.14.4|Isa 14:4]]; [[Isa.14.12|Isa 14:12]]; [[Jer.48.39|Jer 48:39]]; [[Jer.51.41|Jer 51:41]]; [[Obad.1.5|Obad 1:5]] and elsewhere; with intensive force = ***how gladly!*** [[Jer.3.19|Jer 3:19]], ***how terribly!*** [[Jer.9.7|Jer 9:6]]**\*** (but others render here 'for how [else] should I do'? etc.) **\*\***[[Hos.11.8|Hos 11:8]] according to Hi Ke We Marti and others. 
 
 
 
@@ -32,7 +32,7 @@
 | Psalms | [[Ps.11.1\|11:1]] · [[Ps.73.11\|73:11]] · [[Ps.137.4\|137:4]] |
 | Song of Solomon | [[Song.1.7\|1:7]] · [[Song.5.3\|5:3]] |
 | Isaiah | [[Isa.1.21\|1:21]] · [[Isa.14.4\|14:4]] · [[Isa.14.12\|14:12]] · [[Isa.19.11\|19:11]] · [[Isa.20.6\|20:6]] · [[Isa.48.11\|48:11]] |
-| Jeremiah | [[Jer.2.21\|2:21]] · [[Jer.2.23\|2:23]] · [[Jer.3.19\|3:19]] · [[Jer.8.8\|8:8]] · [[Jer.9.6\|9:6]] · [[Jer.9.18\|9:18]] · [[Jer.36.17\|36:17]] · [[Jer.48.14\|48:14]] · [[Jer.48.17\|48:17]] · [[Jer.48.39\|48:39]] · [[Jer.51.41\|51:41]] |
+| Jeremiah | [[Jer.2.21\|2:21]] · [[Jer.2.23\|2:23]] · [[Jer.3.19\|3:19]] · [[Jer.8.8\|8:8]] · [[Jer.9.7\|9:6]]**\*** · [[Jer.9.19\|9:18]]**\*** · [[Jer.36.17\|36:17]] · [[Jer.48.14\|48:14]] · [[Jer.48.17\|48:17]] · [[Jer.48.39\|48:39]] · [[Jer.51.41\|51:41]] |
 | Lamentations | [[Lam.1.1\|1:1]] · [[Lam.2.1\|2:1]] · [[Lam.4.1\|4:1]] · [[Lam.4.2\|4:2]] |
 | Hosea | [[Hos.11.8\|11:8]] |
 | Obadiah | [[Obad.1.5\|1:5]] |

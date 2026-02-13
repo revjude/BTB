@@ -2,9 +2,9 @@
 
 **1.** ***commit an offence, a trespass, do a wrong***, or ***an injury***, with <span class="bdbLangHebrew">‎אָשֹׁם אָשַׁם ליהוה ׃לְ‎</span> ***he hath done a great wrong to Yahweh*** (in violating the commands) [[Lev.5.19|Lev 5:19]] ([[BDB#P|P]]); <span class="bdbLangHebrew">‎וְנָתַן לַאֲשֶׁר אָשַׁם לוֺ‎</span> ***and he shall give it*** (restitution) ***to him to whom he did wrong*** [[Num.5.7|Num 5:7]] ([[BDB#P|P]]), compare [[2Chr.19.10|2Chr 19:10]] (twice in verse); <span class="bdbLangHebrew">‎וַיֶאְשְׁמוּ אָשׁוֺם‎</span> ***and they committed lasting wrong*** (irreparable wrong, the Edomites against Judah) [[Ezek.25.12|Ezek 25:12]]. 
 
-**2.** ***be*** or ***become guilty*** [[Judg.21.22|Judg 21:22]]; [[Jer.50.7|Jer 50:7]]; [[Hos.4.15|Hos 4:15]]; [[Hab.1.11|Hab 1:11]] in offences requiring sin-offering [[Lev.4.13|Lev 4:13]]; [[Lev.4.22|Lev 4:22]]; [[Lev.4.27|Lev 4:27]] ([[BDB#P|P]]), of trespass-offering [[Lev.5.2|Lev 5:2]]; [[Lev.5.3|Lev 5:3]]; [[Lev.5.17|Lev 5:17]]; [[Lev.5.23|Lev 5:23]]; [[Num.5.6|Num 5:6]] ([[BDB#P|P]]); with <span class="bdbLangHebrew">‎ל‎</span> ***guilty of*** [[Lev.5.4|Lev 5:4]]; [[Lev.5.5|Lev 5:5]] ([[BDB#P|P]]), with <span class="bdbLangHebrew">‎ב‎</span> ***in*** or ***through*** [[Ezek.22.4|Ezek 22:4]]; [[Hos.13.1|Hos 13:1]]. 
+**2.** ***be*** or ***become guilty*** [[Judg.21.22|Judg 21:22]]; [[Jer.50.7|Jer 50:7]]; [[Hos.4.15|Hos 4:15]]; [[Hab.1.11|Hab 1:11]] in offences requiring sin-offering [[Lev.4.13|Lev 4:13]]; [[Lev.4.22|Lev 4:22]]; [[Lev.4.27|Lev 4:27]] ([[BDB#P|P]]), of trespass-offering [[Lev.5.2|Lev 5:2]]; [[Lev.5.3|Lev 5:3]]; [[Lev.5.17|Lev 5:17]]; [[Lev.6.4|Lev 5:23]]**\***; [[Num.5.6|Num 5:6]] ([[BDB#P|P]]); with <span class="bdbLangHebrew">‎ל‎</span> ***guilty of*** [[Lev.5.4|Lev 5:4]]; [[Lev.5.5|Lev 5:5]] ([[BDB#P|P]]), with <span class="bdbLangHebrew">‎ב‎</span> ***in*** or ***through*** [[Ezek.22.4|Ezek 22:4]]; [[Hos.13.1|Hos 13:1]]. 
 
-**3.** ***be held guilty, bear punishment*** [[Ps.34.22|Ps 34:22]]; [[Ps.34.23|Ps 34:23]]; [[Prov.30.10|Prov 30:10]]; [[Isa.24.6|Isa 24:6]]; [[Jer.2.3|Jer 2:3]]; [[Hos.5.15|Hos 5:15]]; [[Hos.10.2|Hos 10:2]]; [[Hos.14.1|Hos 14:1]]; [[Zech.11.5|Zech 11:5]]; [[Ezek.6.6|Ezek 6:6]] (but compare <span class="bdbLangHebrew">‎שָׁמֵם‎</span>). **Niph\`al** <span class="bdbLangHebrew">‎נֶאְשָׁמוּ‎</span> ***suffer punishment*** [[Joel.1.18|Joel 1:18]] (si vera lectio; Me We and others <span class="bdbLangHebrew">‎נָשַׁמּוּ‎</span>, √ <span class="bdbLangHebrew">‎שׁמם‎</span>, compare Dr<sup>on the passage</sup>). **Hiph\`il** ***Imperfect*** suffix <span class="bdbLangHebrew">‎הַאֲשִׁימֵם‎</span> ***declare them guilty*** [[Ps.5.11|Ps 5:11]]. 
+**3.** ***be held guilty, bear punishment*** [[Ps.34.21|Ps 34:22]]**\***; [[Ps.34.22|Ps 34:23]]**\***; [[Prov.30.10|Prov 30:10]]; [[Isa.24.6|Isa 24:6]]; [[Jer.2.3|Jer 2:3]]; [[Hos.5.15|Hos 5:15]]; [[Hos.10.2|Hos 10:2]]; [[Hos.13.16|Hos 14:1]]**\***; [[Zech.11.5|Zech 11:5]]; [[Ezek.6.6|Ezek 6:6]] (but compare <span class="bdbLangHebrew">‎שָׁמֵם‎</span>). **Niph\`al** <span class="bdbLangHebrew">‎נֶאְשָׁמוּ‎</span> ***suffer punishment*** [[Joel.1.18|Joel 1:18]] (si vera lectio; Me We and others <span class="bdbLangHebrew">‎נָשַׁמּוּ‎</span>, √ <span class="bdbLangHebrew">‎שׁמם‎</span>, compare Dr<sup>on the passage</sup>). **Hiph\`il** ***Imperfect*** suffix <span class="bdbLangHebrew">‎הַאֲשִׁימֵם‎</span> ***declare them guilty*** [[Ps.5.10|Ps 5:11]]**\***. 
 
 
 
@@ -12,16 +12,16 @@
 
 | Book | Refs |
 | - | - |
-| Leviticus | [[Lev.4.13\|4:13]] · [[Lev.4.22\|4:22]] · [[Lev.4.27\|4:27]] · [[Lev.5.2\|5:2]] · [[Lev.5.3\|5:3]] · [[Lev.5.4\|5:4]] · [[Lev.5.5\|5:5]] · [[Lev.5.17\|5:17]] · [[Lev.5.19\|5:19]] · [[Lev.5.23\|5:23]] |
+| Leviticus | [[Lev.4.13\|4:13]] · [[Lev.4.22\|4:22]] · [[Lev.4.27\|4:27]] · [[Lev.5.2\|5:2]] · [[Lev.5.3\|5:3]] · [[Lev.5.4\|5:4]] · [[Lev.5.5\|5:5]] · [[Lev.5.17\|5:17]] · [[Lev.5.19\|5:19]] · [[Lev.6.4\|5:23]]**\*** |
 | Numbers | [[Num.5.6\|5:6]] · [[Num.5.7\|5:7]] |
 | Judges | [[Judg.21.22\|21:22]] |
 | 2 Chronicles | [[2Chr.19.10\|19:10]] |
-| Psalms | [[Ps.5.11\|5:11]] · [[Ps.34.22\|34:22]] · [[Ps.34.23\|34:23]] |
+| Psalms | [[Ps.5.10\|5:11]]**\*** · [[Ps.34.21\|34:22]]**\*** · [[Ps.34.22\|34:23]]**\*** |
 | Proverbs | [[Prov.30.10\|30:10]] |
 | Isaiah | [[Isa.24.6\|24:6]] |
 | Jeremiah | [[Jer.2.3\|2:3]] · [[Jer.50.7\|50:7]] |
 | Ezekiel | [[Ezek.6.6\|6:6]] · [[Ezek.22.4\|22:4]] · [[Ezek.25.12\|25:12]] |
-| Hosea | [[Hos.4.15\|4:15]] · [[Hos.5.15\|5:15]] · [[Hos.10.2\|10:2]] · [[Hos.13.1\|13:1]] · [[Hos.14.1\|14:1]] |
+| Hosea | [[Hos.4.15\|4:15]] · [[Hos.5.15\|5:15]] · [[Hos.10.2\|10:2]] · [[Hos.13.1\|13:1]] · [[Hos.13.16\|14:1]]**\*** |
 | Joel | [[Joel.1.18\|1:18]] |
 | Habakkuk | [[Hab.1.11\|1:11]] |
 | Zechariah | [[Zech.11.5\|11:5]] |

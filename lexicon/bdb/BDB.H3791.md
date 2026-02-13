@@ -4,7 +4,7 @@
 
 **2.** = ***mode of writing, character, letter***, <span class="bdbLangHebrew">‎הִנִּשְׁתְּוָן כָּתוּב אֲרָמִית‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎וּכ‎</span> [[Ezra.4.7|Ezra 4:7]] ***and the writing of the letter was written in Aramaic*** (characters; so probably, see [[BDB#Be|BeRy]] Ryle, compare Late Hebrew [[BDB#Hoffm|Hoffm]]<sup>ZAW i.(1881), 334 ff.</sup>); compare [[Esth.1.22|Esth 1:22]]; [[Esth.3.12|Esth 3:12]]; [[Esth.8.9|Esth 8:9]] (twice in verse). 
 
-**3.** = ***letter***, [[2Chr.2.10|2Chr 2:10]]; [[Esth.9.27|Esth 9:27]]. 
+**3.** = ***letter***, [[2Chr.2.11|2Chr 2:10]]**\***; [[Esth.9.27|Esth 9:27]]. 
 
 **4.** of a royal enactment, edict [[2Chr.35.4|2Chr 35:4]] (\|\| <span class="bdbLangHebrew">‎מִכְתָּב‎</span>), [[Esth.3.14|Esth 3:14]]; [[Esth.8.8|Esth 8:8]]; [[Esth.8.13|Esth 8:13]] more fully <span class="bdbLangHebrew">‎כְּתָבהַֿדָּת‎</span> [[Esth.4.8|Esth 4:8]]. 
 
@@ -17,7 +17,7 @@
 | Book | Refs |
 | - | - |
 | 1 Chronicles | [[1Chr.28.19\|28:19]] |
-| 2 Chronicles | [[2Chr.2.10\|2:10]] · [[2Chr.35.4\|35:4]] |
+| 2 Chronicles | [[2Chr.2.11\|2:10]]**\*** · [[2Chr.35.4\|35:4]] |
 | Ezra | [[Ezra.2.62\|2:62]] · [[Ezra.4.7\|4:7]] |
 | Nehemiah | [[Neh.7.64\|7:64]] |
 | Esther | [[Esth.1.22\|1:22]] · [[Esth.3.12\|3:12]] · [[Esth.3.14\|3:14]] · [[Esth.4.8\|4:8]] · [[Esth.8.8\|8:8]] · [[Esth.8.9\|8:9]] · [[Esth.8.13\|8:13]] · [[Esth.9.27\|9:27]] |

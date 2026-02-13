@@ -8,7 +8,7 @@
 
 **4.** an Ephraimite chief under David [[1Chr.27.20|1Chr 27:20]], [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Ωση</span>(<span class="bdbLangGreek">ε</span>). 
 
-**5.** a chief under Nehemiah [[Neh.10.24|Neh 10:24]], [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Ωσηθα</span>, <span class="bdbLangGreek">Ωσηε</span>. 
+**5.** a chief under Nehemiah [[Neh.10.23|Neh 10:24]]**\***, [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Ωσηθα</span>, <span class="bdbLangGreek">Ωσηε</span>. 
 
 
 
@@ -20,6 +20,6 @@
 | Deuteronomy | [[Deut.32.44\|32:44]] |
 | 2 Kings | [[2Kgs.15.30\|15:30]] · [[2Kgs.17.1\|17:1]] · [[2Kgs.17.3\|17:3]] · [[2Kgs.17.4\|17:4]] · [[2Kgs.17.6\|17:6]] · [[2Kgs.18.1\|18:1]] · [[2Kgs.18.9\|18:9]] · [[2Kgs.18.10\|18:10]] |
 | 1 Chronicles | [[1Chr.27.20\|27:20]] |
-| Nehemiah | [[Neh.10.24\|10:24]] |
+| Nehemiah | [[Neh.10.23\|10:24]]**\*** |
 | Hosea | [[Hos.1.1\|1:1]] · [[Hos.1.2\|1:2]] |
 

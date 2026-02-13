@@ -4,7 +4,7 @@
 
 **2.** ***hiding-place(s):*** 
 $\quad$ $\quad$ **a.** for protection [[Jer.23.24|Jer 23:24]]; [[Jer.49.10|Jer 49:10]]. 
-$\quad$ $\quad$ **b.** for perpetration of crime, especially murder: [[Ps.10.8|Ps 10:8]] (\|\| <span class="bdbLangHebrew">‎מַאֲרָב‎</span>), simile of lion v[[Ps.10.9|Ps 10:9]], [[Ps.17.12|Ps 17:12]], compare [[Hab.3.14|Hab 3:14]]; [[Ps.64.5|Ps 64:5]] of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> lying in wait [[Lam.3.10|Lam 3:10]] (as a lion). 
+$\quad$ $\quad$ **b.** for perpetration of crime, especially murder: [[Ps.10.8|Ps 10:8]] (\|\| <span class="bdbLangHebrew">‎מַאֲרָב‎</span>), simile of lion v[[Ps.10.9|Ps 10:9]], [[Ps.17.12|Ps 17:12]], compare [[Hab.3.14|Hab 3:14]]; [[Ps.64.4|Ps 64:5]]**\*** of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> lying in wait [[Lam.3.10|Lam 3:10]] (as a lion). 
 
 
 
@@ -12,7 +12,7 @@ $\quad$ $\quad$ **b.** for perpetration of crime, especially murder: [[Ps.10.8|P
 
 | Book | Refs |
 | - | - |
-| Psalms | [[Ps.10.8\|10:8]] · [[Ps.10.9\|10:9]] · [[Ps.17.12\|17:12]] · [[Ps.64.5\|64:5]] |
+| Psalms | [[Ps.10.8\|10:8]] · [[Ps.10.9\|10:9]] · [[Ps.17.12\|17:12]] · [[Ps.64.4\|64:5]]**\*** |
 | Isaiah | [[Isa.45.3\|45:3]] |
 | Jeremiah | [[Jer.13.17\|13:17]] · [[Jer.23.24\|23:24]] · [[Jer.49.10\|49:10]] |
 | Lamentations | [[Lam.3.10\|3:10]] |

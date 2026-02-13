@@ -12,7 +12,7 @@
 
  <span class="bdbLangHebrew">‎עֻזָּה‎</span> 
 
-**proper name, masculine 1.** ==Levite name== [[1Chr.6.14|1Chr 6:14]], <span class="bdbLangGreek">Οζ</span>(<span class="bdbLangGreek">ι</span>)<span class="bdbLangGreek">α</span>, <span class="bdbLangGreek">Αζα</span>. 
+**proper name, masculine 1.** ==Levite name== [[1Chr.6.29|1Chr 6:14]]**\***, <span class="bdbLangGreek">Οζ</span>(<span class="bdbLangGreek">ι</span>)<span class="bdbLangGreek">α</span>, <span class="bdbLangGreek">Αζα</span>. 
 
 **2.** see  <span class="bdbLangHebrew">‎עֻזָּא‎</span>. 
 
@@ -24,7 +24,7 @@
 | - | - |
 | 2 Samuel | [[2Sam.6.3\|6:3]] · [[2Sam.6.6\|6:6]] · [[2Sam.6.7\|6:7]] · [[2Sam.6.8\|6:8]] |
 | 2 Kings | [[2Kgs.21.18\|21:18]] · [[2Kgs.21.26\|21:26]] |
-| 1 Chronicles | [[1Chr.6.14\|6:14]] · [[1Chr.8.7\|8:7]] · [[1Chr.13.7\|13:7]] · [[1Chr.13.9\|13:9]] · [[1Chr.13.10\|13:10]] · [[1Chr.13.11\|13:11]] |
+| 1 Chronicles | [[1Chr.6.29\|6:14]]**\*** · [[1Chr.8.7\|8:7]] · [[1Chr.13.7\|13:7]] · [[1Chr.13.9\|13:9]] · [[1Chr.13.10\|13:10]] · [[1Chr.13.11\|13:11]] |
 | Ezra | [[Ezra.2.49\|2:49]] |
 | Nehemiah | [[Neh.7.51\|7:51]] |
 

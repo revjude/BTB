@@ -4,7 +4,7 @@
 
 **2.** a Levite [[2Chr.17.8|2Chr 17:8]]. 
 
-**3.** a chief of the people [[Neh.10.17|Neh 10:17]] (= <span class="bdbLangHebrew">‎אֲדֹנִיקָם‎</span> [[Neh.7.18|Neh 7:18]]; [[Ezra.2.13|Ezra 2:13]] compare [[Ezra.8.13|Ezra 8:13]]). 
+**3.** a chief of the people [[Neh.10.16|Neh 10:17]]**\*** (= <span class="bdbLangHebrew">‎אֲדֹנִיקָם‎</span> [[Neh.7.18|Neh 7:18]]; [[Ezra.2.13|Ezra 2:13]] compare [[Ezra.8.13|Ezra 8:13]]). 
 
 
 
@@ -17,5 +17,5 @@
 | 1 Chronicles | [[1Chr.3.2\|3:2]] |
 | 2 Chronicles | [[2Chr.17.8\|17:8]] |
 | Ezra | [[Ezra.2.13\|2:13]] · [[Ezra.8.13\|8:13]] |
-| Nehemiah | [[Neh.7.18\|7:18]] · [[Neh.10.17\|10:17]] |
+| Nehemiah | [[Neh.7.18\|7:18]] · [[Neh.10.16\|10:17]]**\*** |
 

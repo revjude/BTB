@@ -1,6 +1,6 @@
  <span class="bdbLangHebrew">‎עֵד‎</span><sub>69</sub> **noun masculine**<sup>[[Deut.17.6|Deut 17:6]]</sup> ==witness== (probably from ***reiterating***, hence ***emphatically affirming***); — <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ע‎</span> absolute [[Gen.31.48|Gen 31:48]] +, construct [[Exod.20.16|Exod 20:16]] +; suffix <span class="bdbLangHebrew">‎עֵדִי‎</span> [[Job.16.19|Job 16:19]] plural <span class="bdbLangHebrew">‎עֵדִים‎</span> [[Num.35.30|Num 35:30]] +, construct <span class="bdbLangHebrew">‎עֵדֵי‎</span> [[Ps.27.12|Ps 27:12]]; [[Ps.35.11|Ps 35:11]] suffix <span class="bdbLangHebrew">‎עֵדַי‎</span> [[Isa.43.10|Isa 43:10]]; [[Isa.43.12|Isa 43:12]], etc.; — 
 
-**1.** ***witness, testimony, evidence***, of things: heap of stones [[Gen.31.44|Gen 31:44]]; [[Gen.31.48|Gen 31:48]]; [[Gen.31.52|Gen 31:52]] ([[BDB#J|J]][[BDB#E|E]]), torn animal [[Exod.22.12|Exod 22:12]] ([[BDB#E|E]]), song of Moses [[Deut.31.19|Deut 31:19]]; [[Deut.31.21|Deut 31:21]] ([[BDB#J|J]]), law-book v[[Deut.31.26|Deut 31:26]] ([[BDB#D|D]]), witness of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> against Israel; altar east of Jordan, with <span class="bdbLangHebrew">‎בֵּין‎</span>, [[Josh.22.27|Josh 22:27]]; [[Josh.22.28|Josh 22:28]]; [[Josh.22.34|Josh 22:34]] ([[BDB#P|P]]), compare [[Isa.19.20|Isa 19:20]] Job's evil condition [[Job.16.8|Job 16:8]] the moon [[Ps.89.38|Ps 89:38]]. 
+**1.** ***witness, testimony, evidence***, of things: heap of stones [[Gen.31.44|Gen 31:44]]; [[Gen.31.48|Gen 31:48]]; [[Gen.31.52|Gen 31:52]] ([[BDB#J|J]][[BDB#E|E]]), torn animal [[Exod.22.13|Exod 22:12]]**\*** ([[BDB#E|E]]), song of Moses [[Deut.31.19|Deut 31:19]]; [[Deut.31.21|Deut 31:21]] ([[BDB#J|J]]), law-book v[[Deut.31.26|Deut 31:26]] ([[BDB#D|D]]), witness of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> against Israel; altar east of Jordan, with <span class="bdbLangHebrew">‎בֵּין‎</span>, [[Josh.22.27|Josh 22:27]]; [[Josh.22.28|Josh 22:28]]; [[Josh.22.34|Josh 22:34]] ([[BDB#P|P]]), compare [[Isa.19.20|Isa 19:20]] Job's evil condition [[Job.16.8|Job 16:8]] the moon [[Ps.89.37|Ps 89:38]]**\***. 
 
 **2.** ***witness***, a person: 
 $\quad$ $\quad$ **a.** God, in heaven for Job [[Job.16.19|Job 16:19]] on earth, for Samuel [[1Sam.12.5|1Sam 12:5]] (twice in verse) + v[[1Sam.12.6|1Sam 12:6]] [[BDB#Sept|ᵐ5]] [[BDB#The|Th]] and most, Jeremiah [[Jer.42.5|Jer 42:5]] see also [[1Sam.20.12|1Sam 20:12]] (insert <span class="bdbLangHebrew">‎עֵד‎</span> before <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span> [[BDB#Syr|ᵑ6]] [[BDB#Dr|Dr]] [[BDB#Bu|Bu]] [[BDB#Kit|Kit]] Löhr [[BDB#HPS|HPS]]); against persons [[Jer.29.23|Jer 29:23]]; [[Mal.3.5|Mal 3:5]], nations [[Mic.1.2|Mic 1:2]] between (<span class="bdbLangHebrew">‎בֵּין‎</span> persons [[Gen.31.50|Gen 31:50]] ([[BDB#E|E]]). 
@@ -16,14 +16,14 @@ $\quad$ $\quad$ **c.** ***witnesses***, of transfer of property [[Jer.32.10|Jer 
 | Book | Refs |
 | - | - |
 | Genesis | [[Gen.31.44\|31:44]] · [[Gen.31.47\|31:47]] · [[Gen.31.48\|31:48]] · [[Gen.31.50\|31:50]] · [[Gen.31.52\|31:52]] |
-| Exodus | [[Exod.20.16\|20:16]] · [[Exod.22.12\|22:12]] · [[Exod.23.1\|23:1]] |
+| Exodus | [[Exod.20.16\|20:16]] · [[Exod.22.13\|22:12]]**\*** · [[Exod.23.1\|23:1]] |
 | Numbers | [[Num.5.13\|5:13]] · [[Num.35.30\|35:30]] |
 | Deuteronomy | [[Deut.5.17\|5:17]] · [[Deut.17.6\|17:6]] · [[Deut.19.15\|19:15]] · [[Deut.19.16\|19:16]] · [[Deut.19.18\|19:18]] · [[Deut.31.19\|31:19]] · [[Deut.31.21\|31:21]] · [[Deut.31.26\|31:26]] |
 | Joshua | [[Josh.22.27\|22:27]] · [[Josh.22.28\|22:28]] · [[Josh.22.34\|22:34]] · [[Josh.24.22\|24:22]] |
 | Ruth | [[Ruth.4.9\|4:9]] · [[Ruth.4.10\|4:10]] · [[Ruth.4.11\|4:11]] |
 | 1 Samuel | [[1Sam.12.5\|12:5]] · [[1Sam.12.6\|12:6]] · [[1Sam.20.12\|20:12]] |
 | Job | [[Job.16.8\|16:8]] · [[Job.16.19\|16:19]] |
-| Psalms | [[Ps.27.12\|27:12]] · [[Ps.35.11\|35:11]] · [[Ps.89.38\|89:38]] |
+| Psalms | [[Ps.27.12\|27:12]] · [[Ps.35.11\|35:11]] · [[Ps.89.37\|89:38]]**\*** |
 | Proverbs | [[Prov.6.19\|6:19]] · [[Prov.12.17\|12:17]] · [[Prov.14.5\|14:5]] · [[Prov.14.25\|14:25]] · [[Prov.19.5\|19:5]] · [[Prov.19.9\|19:9]] · [[Prov.19.28\|19:28]] · [[Prov.21.28\|21:28]] · [[Prov.24.28\|24:28]] · [[Prov.25.18\|25:18]] |
 | Isaiah | [[Isa.19.20\|19:20]] · [[Isa.43.10\|43:10]] · [[Isa.43.12\|43:12]] · [[Isa.55.4\|55:4]] |
 | Jeremiah | [[Jer.29.23\|29:23]] · [[Jer.32.10\|32:10]] · [[Jer.32.12\|32:12]] · [[Jer.32.25\|32:25]] · [[Jer.32.44\|32:44]] · [[Jer.42.5\|42:5]] |

@@ -7,7 +7,7 @@ $\quad$ $\quad$ **b.** usually collective (with article) of pre-Israel in-habita
 
 
 
- II. <span class="bdbLangHebrew">‎כְּנַעֲנִי‎</span> **noun masculine** ==trader, merchant== (compare II. <span class="bdbLangHebrew">‎כְּנַעַן‎</span>); only singular (but see below): — <span class="bdbLangHebrew">‎עוֺד‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎וְלֹא יִהְיֶה כ‎</span><span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בְּבֵית י‎</span> [[Zech.14.21|Zech 14:21]] (probably); <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎וַחֲגוֺר נָָֽתְנָה לַכּ‎</span> [[Prov.31.24|Prov 31:24]] (\|\| <span class="bdbLangHebrew">‎סָדִין עָֽשְׂתָה וַתִּמְכֹּר‎</span>). **\*\***plural suffix <span class="bdbLangHebrew">‎כִּנְעָנֶיהָ‎</span> (si vera lectio) [[Isa.23.8|Isa 23:8]] (\|\| <span class="bdbLangHebrew">‎סֹחֲרֶיהָ‎</span>). In [[Zech.11.7|Zech 11:7]]; [[Zech.11.11|Zech 11:11]] read perhaps <span class="bdbLangHebrew">‎(לִ)כְנַעֲנִיֵּי‎</span> for <span class="bdbLangHebrew">‎(לָ)כֵן עֲנִיֵּי‎</span>, [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Ξαναναῖοι</span>, <span class="bdbLangGreek">Ξαναανῖτιν</span>, [[BDB#Sta|Sta]]<sup>ZAW, 1881. 26</sup> (who compare as to sense [[Hos.12.8|Hos 12:8]]), compare [[BDB#Klo|Klo]] [[BDB#We|We]] [[BDB#Marti|Marti]]. 
+ II. <span class="bdbLangHebrew">‎כְּנַעֲנִי‎</span> **noun masculine** ==trader, merchant== (compare II. <span class="bdbLangHebrew">‎כְּנַעַן‎</span>); only singular (but see below): — <span class="bdbLangHebrew">‎עוֺד‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎וְלֹא יִהְיֶה כ‎</span><span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בְּבֵית י‎</span> [[Zech.14.21|Zech 14:21]] (probably); <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎וַחֲגוֺר נָָֽתְנָה לַכּ‎</span> [[Prov.31.24|Prov 31:24]] (\|\| <span class="bdbLangHebrew">‎סָדִין עָֽשְׂתָה וַתִּמְכֹּר‎</span>). **\*\***plural suffix <span class="bdbLangHebrew">‎כִּנְעָנֶיהָ‎</span> (si vera lectio) [[Isa.23.8|Isa 23:8]] (\|\| <span class="bdbLangHebrew">‎סֹחֲרֶיהָ‎</span>). In [[Zech.11.7|Zech 11:7]]; [[Zech.11.11|Zech 11:11]] read perhaps <span class="bdbLangHebrew">‎(לִ)כְנַעֲנִיֵּי‎</span> for <span class="bdbLangHebrew">‎(לָ)כֵן עֲנִיֵּי‎</span>, [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Ξαναναῖοι</span>, <span class="bdbLangGreek">Ξαναανῖτιν</span>, [[BDB#Sta|Sta]]<sup>ZAW, 1881. 26</sup> (who compare as to sense [[Hos.12.7|Hos 12:8]]**\***), compare [[BDB#Klo|Klo]] [[BDB#We|We]] [[BDB#Marti|Marti]]. 
 
 
 
@@ -29,7 +29,7 @@ $\quad$ $\quad$ **b.** usually collective (with article) of pre-Israel in-habita
 | Proverbs | [[Prov.31.24\|31:24]] |
 | Isaiah | [[Isa.23.8\|23:8]] |
 | Ezekiel | [[Ezek.16.3\|16:3]] |
-| Hosea | [[Hos.12.8\|12:8]] |
+| Hosea | [[Hos.12.7\|12:8]]**\*** |
 | Obadiah | [[Obad.1.20\|1:20]] |
 | Zechariah | [[Zech.11.7\|11:7]] · [[Zech.11.11\|11:11]] · [[Zech.14.21\|14:21]] |
 

@@ -2,7 +2,7 @@
 
 **1.** [[1Chr.24.18|1Chr 24:18]] ascribed to David's time, [[BDB#A|A]] <span class="bdbLangGreek">Μοοζαλ</span>, [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Μοοζια</span>. 
 
-**2.** [[Neh.10.9|Neh 10:9]], Nehemiah's time, [[BDB#A|A]] <span class="bdbLangGreek">Μααζεια</span>, [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Μααζίας</span>. 
+**2.** [[Neh.10.8|Neh 10:9]]**\***, Nehemiah's time, [[BDB#A|A]] <span class="bdbLangGreek">Μααζεια</span>, [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Μααζίας</span>. 
 
 
 
@@ -11,5 +11,5 @@
 | Book | Refs |
 | - | - |
 | 1 Chronicles | [[1Chr.24.18\|24:18]] |
-| Nehemiah | [[Neh.10.9\|10:9]] |
+| Nehemiah | [[Neh.10.8\|10:9]]**\*** |
 

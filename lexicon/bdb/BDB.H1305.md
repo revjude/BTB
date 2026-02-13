@@ -8,9 +8,9 @@
 
 **3.** ***cleanse, make shining, polish***, passive participle <span class="bdbLangHebrew">‎חֵץ בָּרוּר‎</span> ***polished arrow*** [[Isa.49.2|Isa 49:2]] (compare [[BDB#De|De]] &amp; [[Jer.51.11|Jer 51:11]] below) 
 
-**4.** ***test, prove*** [[Eccl.3.18|Eccl 3:18]] <span class="bdbLangHebrew">‎לְבָרָם‎</span> <span class="bdbLangHebrew">‎הָאֱלֹהִים‎</span> ***that God may prove them*** ([[BDB#RV|RV]]); — on [[Eccl.9.1|Eccl 9:1]] see  <span class="bdbLangHebrew">‎בּוּר‎</span>. **Niph\`al** <span class="bdbLangHebrew">‎הִבָּרוּ‎</span> [[Isa.52.11|Isa 52:11]] ***Participle*** <span class="bdbLangHebrew">‎נָבָר‎</span> [[2Sam.22.27|2Sam 22:27]] (= [[Ps.18.27|Ps 18:27]]); — ***purify oneself:*** 
+**4.** ***test, prove*** [[Eccl.3.18|Eccl 3:18]] <span class="bdbLangHebrew">‎לְבָרָם‎</span> <span class="bdbLangHebrew">‎הָאֱלֹהִים‎</span> ***that God may prove them*** ([[BDB#RV|RV]]); — on [[Eccl.9.1|Eccl 9:1]] see  <span class="bdbLangHebrew">‎בּוּר‎</span>. **Niph\`al** <span class="bdbLangHebrew">‎הִבָּרוּ‎</span> [[Isa.52.11|Isa 52:11]] ***Participle*** <span class="bdbLangHebrew">‎נָבָר‎</span> [[2Sam.22.27|2Sam 22:27]] (= [[Ps.18.26|Ps 18:27]]**\***); — ***purify oneself:*** 
 $\quad$ $\quad$ **a.** ceremonially, the bearers of the sacred vessels [[Isa.52.11|Isa 52:11]]. 
-$\quad$ $\quad$ **b.** morally [[2Sam.22.27|2Sam 22:27]] = [[Ps.18.27|Ps 18:27]]. **Pi\`el** ***Infinitive*** <span class="bdbLangHebrew">‎לְבָרֵר‎</span> [[Dan.11.35|Dan 11:35]] ***purify*** (\|\| <span class="bdbLangHebrew">‎לִצְרוֺף‎</span>, <span class="bdbLangHebrew">‎לַלְבֵּן‎</span>). 
+$\quad$ $\quad$ **b.** morally [[2Sam.22.27|2Sam 22:27]] = [[Ps.18.26|Ps 18:27]]**\***. **Pi\`el** ***Infinitive*** <span class="bdbLangHebrew">‎לְבָרֵר‎</span> [[Dan.11.35|Dan 11:35]] ***purify*** (\|\| <span class="bdbLangHebrew">‎לִצְרוֺף‎</span>, <span class="bdbLangHebrew">‎לַלְבֵּן‎</span>). 
 
 **Hiph\`il 1.** ***Infinitive*** <span class="bdbLangHebrew">‎לְהָבַר‎</span> [[Jer.4.11|Jer 4:11]] ***purify, cleanse.*** 
 
@@ -18,7 +18,7 @@ $\quad$ $\quad$ **b.** morally [[2Sam.22.27|2Sam 22:27]] = [[Ps.18.27|Ps 18:27]]
 
 **Hithpa\`el 1.** ***Imperfect*** <span class="bdbLangHebrew">‎יִתְבָּרֲרוּ‎</span> [[Dan.12.10|Dan 12:10]] ***purify oneself.*** 
 
-**2.** <span class="bdbLangHebrew">‎תִּתְבָּרַר‎</span> [[Ps.18.27|Ps 18:27]] = <span class="bdbLangHebrew">‎תִּתָּבָר‎</span> [[2Sam.22.27|2Sam 22:27]] ***shew oneself pure, just, kind.*** 
+**2.** <span class="bdbLangHebrew">‎תִּתְבָּרַר‎</span> [[Ps.18.26|Ps 18:27]]**\*** = <span class="bdbLangHebrew">‎תִּתָּבָר‎</span> [[2Sam.22.27|2Sam 22:27]] ***shew oneself pure, just, kind.*** 
 
 
 
@@ -32,7 +32,7 @@ $\quad$ $\quad$ **b.** morally [[2Sam.22.27|2Sam 22:27]] = [[Ps.18.27|Ps 18:27]]
 | 1 Chronicles | [[1Chr.7.40\|7:40]] · [[1Chr.9.22\|9:22]] · [[1Chr.16.41\|16:41]] |
 | Nehemiah | [[Neh.5.18\|5:18]] |
 | Job | [[Job.33.3\|33:3]] · [[Job.39.4\|39:4]] |
-| Psalms | [[Ps.18.27\|18:27]] |
+| Psalms | [[Ps.18.26\|18:27]]**\*** |
 | Ecclesiastes | [[Eccl.3.18\|3:18]] · [[Eccl.9.1\|9:1]] |
 | Isaiah | [[Isa.49.2\|49:2]] · [[Isa.52.11\|52:11]] |
 | Jeremiah | [[Jer.4.11\|4:11]] · [[Jer.51.11\|51:11]] |

@@ -2,7 +2,7 @@
 
 **1.** ***seven-fold, seven times as much***, [[Isa.30.26|Isa 30:26]]; [[Prov.6.31|Prov 6:31]] as adverb [[Gen.4.15|Gen 4:15]]; [[Gen.4.24|Gen 4:24]]; [[Ps.79.12|Ps 79:12]]. 
 
-**2.** ***seven times***, adverb [[Ps.12.7|Ps 12:7]]. — [[2Sam.21.9|2Sam 21:9]] read [[BDB#Qr|Qr]] <span class="bdbLangHebrew">‎שְׁבַעְתָּם‎</span> see I.  <span class="bdbLangHebrew">‎שֶׁבַע‎</span>. 
+**2.** ***seven times***, adverb [[Ps.12.6|Ps 12:7]]**\***. — [[2Sam.21.9|2Sam 21:9]] read [[BDB#Qr|Qr]] <span class="bdbLangHebrew">‎שְׁבַעְתָּם‎</span> see I.  <span class="bdbLangHebrew">‎שֶׁבַע‎</span>. 
 
 
 
@@ -12,7 +12,7 @@
 | - | - |
 | Genesis | [[Gen.4.15\|4:15]] · [[Gen.4.24\|4:24]] |
 | 2 Samuel | [[2Sam.21.9\|21:9]] |
-| Psalms | [[Ps.12.7\|12:7]] · [[Ps.79.12\|79:12]] |
+| Psalms | [[Ps.12.6\|12:7]]**\*** · [[Ps.79.12\|79:12]] |
 | Proverbs | [[Prov.6.31\|6:31]] |
 | Isaiah | [[Isa.30.26\|30:26]] |
 

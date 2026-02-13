@@ -12,11 +12,11 @@
 
 **1.** ***be captured*** in war, of city [[1Kgs.16.18|1Kgs 16:18]]; [[2Kgs.18.10|2Kgs 18:10]]; [[Jer.38.28|Jer 38:28]] (twice in verse); [[Jer.48.1|Jer 48:1]]; [[Jer.48.41|Jer 48:41]]; [[Jer.50.2|Jer 50:2]]; [[Jer.50.9|Jer 50:9]]; [[Jer.50.24|Jer 50:24]]; [[Jer.51.31|Jer 51:31]]; [[Jer.51.41|Jer 51:41]]; [[Zech.14.2|Zech 14:2]] of men [[Jer.51.56|Jer 51:56]]; [[Lam.4.20|Lam 4:20]] (compare **Qal 1**). 
 
-**2.** of men, ***be caught***, namely, in a snare or trap, only figurative, usually by divine judgment [[Isa.8.15|Isa 8:15]]; [[Isa.24.18|Isa 24:18]]; [[Isa.28.13|Isa 28:13]]; [[Ps.9.16|Ps 9:16]]; [[Ps.59.13|Ps 59:13]]; [[Prov.6.2|Prov 6:2]]; [[Prov.11.6|Prov 11:6]]; [[Jer.6.11|Jer 6:11]]; [[Jer.8.9|Jer 8:9]] so of Moab [[Jer.48.7|Jer 48:7]]; [[Jer.48.44|Jer 48:44]] of being ***ensnared*** by a woman [[Eccl.7.26|Eccl 7:26]] of being ***caught*** by cords of distress, <span class="bdbLangHebrew">‎בְּחַבְלֵי עֹ֑נִי‎</span>, [[Job.36.8|Job 36:8]]. 
+**2.** of men, ***be caught***, namely, in a snare or trap, only figurative, usually by divine judgment [[Isa.8.15|Isa 8:15]]; [[Isa.24.18|Isa 24:18]]; [[Isa.28.13|Isa 28:13]]; [[Ps.9.15|Ps 9:16]]**\***; [[Ps.59.12|Ps 59:13]]**\***; [[Prov.6.2|Prov 6:2]]; [[Prov.11.6|Prov 11:6]]; [[Jer.6.11|Jer 6:11]]; [[Jer.8.9|Jer 8:9]] so of Moab [[Jer.48.7|Jer 48:7]]; [[Jer.48.44|Jer 48:44]] of being ***ensnared*** by a woman [[Eccl.7.26|Eccl 7:26]] of being ***caught*** by cords of distress, <span class="bdbLangHebrew">‎בְּחַבְלֵי עֹ֑נִי‎</span>, [[Job.36.8|Job 36:8]]. 
 
 **3.** ***be taken*** by lot [[Josh.7.15|Josh 7:15]]; [[Josh.7.16|Josh 7:16]]; [[Josh.7.17|Josh 7:17]]; [[Josh.7.18|Josh 7:18]] (all [[BDB#J|J]] [[BDB#E|E]]), [[1Sam.10.20|1Sam 10:20]]; [[1Sam.10.21|1Sam 10:21]] (twice in verse); [[1Sam.14.41|1Sam 14:41]]; [[1Sam.14.42|1Sam 14:42]] (compare **Qal 3**).
 
-**Hithpa\`el** ***Imperfect*** 3 masculine plural; <span class="bdbLangHebrew">‎יִתְלַכְּדוּ וְלֹא יִתְפָּרָ֑דוּ‎</span> [[Job.41.9|Job 41:9]] ***they grasp each other, and cannot be separated***, of crocodile's scales (\|\| <span class="bdbLangHebrew">‎אִישׁ בְּאָחִיהוּ‎</span> <span class="bdbLangHebrew">‎יְדֻבָּ֑קוּ‎</span>); <span class="bdbLangHebrew">‎פְּנֵי תְהוֺם יִתְלַכָּ֑דוּ‎</span> [[Job.38.30|Job 38:30]] ***the face of the deep compacts*** (of freezing; \|\| <span class="bdbLangHebrew">‎כָּאֶבֶן מַיִם יִתְחַבָּ֑אוּ‎</span>; verbs transposed, plausibly, by [[BDB#Me|Me]] [[BDB#Bi|Bi]] [[BDB#Siegf|Siegf]] [[BDB#Bu|Bu]]). 
+**Hithpa\`el** ***Imperfect*** 3 masculine plural; <span class="bdbLangHebrew">‎יִתְלַכְּדוּ וְלֹא יִתְפָּרָ֑דוּ‎</span> [[Job.41.17|Job 41:9]]**\*** ***they grasp each other, and cannot be separated***, of crocodile's scales (\|\| <span class="bdbLangHebrew">‎אִישׁ בְּאָחִיהוּ‎</span> <span class="bdbLangHebrew">‎יְדֻבָּ֑קוּ‎</span>); <span class="bdbLangHebrew">‎פְּנֵי תְהוֺם יִתְלַכָּ֑דוּ‎</span> [[Job.38.30|Job 38:30]] ***the face of the deep compacts*** (of freezing; \|\| <span class="bdbLangHebrew">‎כָּאֶבֶן מַיִם יִתְחַבָּ֑אוּ‎</span>; verbs transposed, plausibly, by [[BDB#Me|Me]] [[BDB#Bi|Bi]] [[BDB#Siegf|Siegf]] [[BDB#Bu|Bu]]). 
 
 
 
@@ -33,8 +33,8 @@
 | 2 Kings | [[2Kgs.18.10\|18:10]] |
 | 1 Chronicles | [[1Chr.18.4\|18:4]] |
 | 2 Chronicles | [[2Chr.22.9\|22:9]] · [[2Chr.33.11\|33:11]] |
-| Job | [[Job.5.13\|5:13]] · [[Job.36.8\|36:8]] · [[Job.38.30\|38:30]] · [[Job.41.9\|41:9]] |
-| Psalms | [[Ps.9.16\|9:16]] · [[Ps.35.8\|35:8]] · [[Ps.59.13\|59:13]] |
+| Job | [[Job.5.13\|5:13]] · [[Job.36.8\|36:8]] · [[Job.38.30\|38:30]] · [[Job.41.17\|41:9]]**\*** |
+| Psalms | [[Ps.9.15\|9:16]]**\*** · [[Ps.35.8\|35:8]] · [[Ps.59.12\|59:13]]**\*** |
 | Proverbs | [[Prov.5.22\|5:22]] · [[Prov.6.2\|6:2]] · [[Prov.11.6\|11:6]] · [[Prov.16.32\|16:32]] |
 | Ecclesiastes | [[Eccl.7.26\|7:26]] |
 | Isaiah | [[Isa.8.15\|8:15]] · [[Isa.24.18\|24:18]] · [[Isa.28.13\|28:13]] |

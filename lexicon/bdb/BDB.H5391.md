@@ -6,7 +6,7 @@
 
  [<span class="bdbLangHebrew">‎נָשַׁךְ‎</span>] **verb denominative** ==pay, give interest== (compare [[BDB#Gerber|Gerber]]<sup>Verba denominative 89</sup>); — 
 
-**Qal** ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎יִשָּׁ֑ךְ‎</span> [[Deut.23.20|Deut 23:20]] interest of anything off which ***one giveth interest*** (compare [[BDB#Dr|Dr]]). **Hiph\`il** ***make*** one ***give interest; Imperfect*** 2 masculine singular <span class="bdbLangHebrew">‎תַּשִּׁיךְ‎</span> [[Deut.23.20|Deut 23:20]] ( + accusative of congnate meaning with verb) v.[[Deut.23.21|Deut 23:21]] v.[[Deut.23.21|Deut 23:21]], all with <span class="bdbLangHebrew">‎לְ‎</span> person 
+**Qal** ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎יִשָּׁ֑ךְ‎</span> [[Deut.23.19|Deut 23:20]]**\*** interest of anything off which ***one giveth interest*** (compare [[BDB#Dr|Dr]]). **Hiph\`il** ***make*** one ***give interest; Imperfect*** 2 masculine singular <span class="bdbLangHebrew">‎תַּשִּׁיךְ‎</span> [[Deut.23.19|Deut 23:20]]**\*** ( + accusative of congnate meaning with verb) v.[[Deut.23.20|Deut 23:21]]**\*** v.[[Deut.23.20|Deut 23:21]]**\***, all with <span class="bdbLangHebrew">‎לְ‎</span> person 
 
 
 
@@ -16,7 +16,7 @@
 | - | - |
 | Genesis | [[Gen.49.17\|49:17]] |
 | Numbers | [[Num.21.5\|21:5]] · [[Num.21.8\|21:8]] · [[Num.21.9\|21:9]] |
-| Deuteronomy | [[Deut.23.20\|23:20]] · [[Deut.23.21\|23:21]] |
+| Deuteronomy | [[Deut.23.19\|23:20]]**\*** · [[Deut.23.20\|23:21]]**\*** |
 | Proverbs | [[Prov.23.32\|23:32]] |
 | Ecclesiastes | [[Eccl.10.8\|10:8]] · [[Eccl.10.11\|10:11]] |
 | Jeremiah | [[Jer.8.17\|8:17]] |

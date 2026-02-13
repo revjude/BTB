@@ -2,7 +2,7 @@
 
 **1.** <span class="bdbLangHebrew">‎חָרִף‎</span> head of a family of returned exiles [[Neh.7.24|Neh 7:24]] ([[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Αρειφ</span>, [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Ιωρηε</span>) = <span class="bdbLangHebrew">‎יוֺרָה‎</span> (compare <span class="bdbLangHebrew">‎יוֺרָה‎</span> ***early rain***) [[Ezra.2.18|Ezra 2:18]] ([[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Ουρα</span>, [[BDB#A|A]] <span class="bdbLangGreek">Ιωρα</span>, [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Ωραι</span>). 
 
-**2.** <span class="bdbLangHebrew">‎חָרִיף‎</span> one of those sealed [[Neh.10.20|Neh 10:20]] [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Αρειφ</span>(<span class="bdbLangGreek">α</span>), [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Αρηφ</span>. 
+**2.** <span class="bdbLangHebrew">‎חָרִיף‎</span> one of those sealed [[Neh.10.19|Neh 10:20]]**\*** [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">Αρειφ</span>(<span class="bdbLangGreek">α</span>), [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Αρηφ</span>. 
 
 
 
@@ -11,5 +11,5 @@
 | Book | Refs |
 | - | - |
 | Ezra | [[Ezra.2.18\|2:18]] |
-| Nehemiah | [[Neh.7.24\|7:24]] · [[Neh.10.20\|10:20]] |
+| Nehemiah | [[Neh.7.24\|7:24]] · [[Neh.10.19\|10:20]]**\*** |
 

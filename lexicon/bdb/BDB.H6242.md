@@ -7,14 +7,14 @@
 **1.** without other number: 
 $\quad$ $\quad$ **a.** usually followed by singular noun (especially <span class="bdbLangHebrew">‎שָׁנָה‎</span>, <span class="bdbLangHebrew">‎אִישׁ‎</span>, <span class="bdbLangHebrew">‎אַמָּה‎</span>, etc.) [[Gen.31.38|Gen 31:38]]; [[1Sam.14.14|1Sam 14:14]]; [[Exod.38.18|Exod 38:18]] + 64 t., + <span class="bdbLangHebrew">‎עֶשְׂרִים אֶלֶף‎</span> 20,000 [[1Chr.18.4|1Chr 18:4]] + 7 t. + [[Ezek.45.1|Ezek 45:1]] (reading <span class="bdbLangHebrew">‎עֶשְׂרִים אָ֑לֶף‎</span>, see  <span class="bdbLangHebrew">‎עֶשֶׂר‎</span> **2 b**). 
 $\quad$ $\quad$ **b.** followed by plural noun [[2Sam.3.20|2Sam 3:20]]; [[Exod.36.23|Exod 36:23]]; [[Exod.36.24|Exod 36:24]]; [[Exod.36.25|Exod 36:25]] + 4 t. 
-$\quad$ $\quad$ **c.** followed by singular noun collective [[1Kgs.5.3|1Kgs 5:3]]. 
-$\quad$ $\quad$ **d.** plural noun precedes [[Gen.32.15|Gen 32:15]] (twice in verse); [[Gen.32.16|Gen 32:16]]; [[2Chr.3.3|2Chr 3:3]] + 6 t. 
-$\quad$ $\quad$ **e.** noun omitted [[Gen.18.31|Gen 18:31]] (twice in verse) (<span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎הָע‎</span>), [[1Kgs.6.2|1Kgs 6:2]] + 6 t., as predicate [[Exod.27.10|Exod 27:10]] (twice in verse); [[Exod.27.11|Exod 27:11]] (twice in verse) + 4 t. **feminine** + <span class="bdbLangHebrew">‎בָּאַמָּה‎</span> [[Zech.5.12|Zech 5:12]]. 
+$\quad$ $\quad$ **c.** followed by singular noun collective [[1Kgs.4.23|1Kgs 5:3]]**\***. 
+$\quad$ $\quad$ **d.** plural noun precedes [[Gen.32.14|Gen 32:15]]**\*** (twice in verse); [[Gen.32.15|Gen 32:16]]**\***; [[2Chr.3.3|2Chr 3:3]] + 6 t. 
+$\quad$ $\quad$ **e.** noun omitted [[Gen.18.31|Gen 18:31]] (twice in verse) (<span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎הָע‎</span>), [[1Kgs.6.2|1Kgs 6:2]] + 6 t., as predicate [[Exod.27.10|Exod 27:10]] (twice in verse); [[Exod.27.11|Exod 27:11]] (twice in verse) + 4 t. **feminine** + <span class="bdbLangHebrew">‎בָּאַמָּה‎</span> Zech 5:12. 
 
 **2.** + other number: 
 $\quad$ $\quad$ **a.** with units, usually 20 + (with <span class="bdbLangHebrew">‎וְ‎</span>) unit + singular noun [[Judg.10.2|Judg 10:2]]; [[Judg.10.3|Judg 10:3]]; [[1Kgs.14.20|1Kgs 14:20]] + 58 t. (including 20 + 1 \* 1000, etc., 27 t.); noun omitted [[Josh.15.32|Josh 15:32]] + 2 t. predicate; less often unit + 20 + singular noun [[Gen.11.24|Gen 11:24]]; [[Exod.38.24|Exod 38:24]]; [[Num.8.24|Num 8:24]] (all [[BDB#P|P]]) + 27 t.; unit + 20 + <span class="bdbLangHebrew">‎בָּאַמָּה‎</span> [[Ezek.40.21|Ezek 40:21]]; [[Exod.26.2|Exod 26:2]]; [[Exod.36.9|Exod 36:9]] (both [[BDB#P|P]]). 
 $\quad$ $\quad$ **b.** 20 + unit + plural noun [[Num.7.8|Num 7:8]] (twice in verse) ([[BDB#P|P]]), [[1Chr.2.22|1Chr 2:22]] + 3 t. Chronicles 
-$\quad$ $\quad$ **c.** plural noun + 20 + unit [[Josh.19.30|Josh 19:30]] (twice in verse); [[1Chr.12.29|1Chr 12:29]] ([[BDB#van d.H.|van d. H.]] v.[[1Chr.12.28|1Chr 12:28]]). 
+$\quad$ $\quad$ **c.** plural noun + 20 + unit [[Josh.19.30|Josh 19:30]] (twice in verse); [[1Chr.12.28|1Chr 12:29]]**\*** ([[BDB#van d.H.|van d. H.]] v.[[1Chr.12.27|1Chr 12:28]]**\***). 
 $\quad$ $\quad$ **d.** c. hundreds, 20 usually following; followed by singular noun [[1Kgs.9.14|1Kgs 9:14]]; [[Gen.6.3|Gen 6:3]]; [[Deut.31.2|Deut 31:2]] + 7 t.; noun omitted [[2Chr.3.4|2Chr 3:4]]; [[Ezra.2.32|Ezra 2:32]] = [[Neh.7.35|Neh 7:35]] 20 + 100 (noun omitted) [[Num.7.86|Num 7:86]]. 
 $\quad$ $\quad$ **e.** plural noun + 100 + 20 [[1Chr.15.5|1Chr 15:5]]; [[1Chr.15.6|1Chr 15:6]] — compare further <span class="bdbLangHebrew">‎מֵאָה‎</span>. **II.** as ordinal: 
 
@@ -29,7 +29,7 @@ $\quad$ $\quad$ **b.** ns. + 20 + unit [[Hag.1.15|Hag 1:15]]; [[2Chr.7.10|2Chr 7
 
 | Book | Refs |
 | - | - |
-| Genesis | [[Gen.6.3\|6:3]] · [[Gen.11.24\|11:24]] · [[Gen.18.31\|18:31]] · [[Gen.31.38\|31:38]] · [[Gen.32.15\|32:15]] · [[Gen.32.16\|32:16]] |
+| Genesis | [[Gen.6.3\|6:3]] · [[Gen.11.24\|11:24]] · [[Gen.18.31\|18:31]] · [[Gen.31.38\|31:38]] · [[Gen.32.14\|32:15]]**\*** · [[Gen.32.15\|32:16]]**\*** |
 | Exodus | [[Exod.12.8\|12:8]] · [[Exod.26.2\|26:2]] · [[Exod.27.10\|27:10]] · [[Exod.27.11\|27:11]] · [[Exod.36.9\|36:9]] · [[Exod.36.23\|36:23]] · [[Exod.36.24\|36:24]] · [[Exod.36.25\|36:25]] · [[Exod.38.18\|38:18]] · [[Exod.38.24\|38:24]] |
 | Numbers | [[Num.7.8\|7:8]] · [[Num.7.86\|7:86]] · [[Num.8.24\|8:24]] · [[Num.10.11\|10:11]] |
 | Deuteronomy | [[Deut.31.2\|31:2]] |
@@ -37,12 +37,12 @@ $\quad$ $\quad$ **b.** ns. + 20 + unit [[Hag.1.15|Hag 1:15]]; [[2Chr.7.10|2Chr 7
 | Judges | [[Judg.10.2\|10:2]] · [[Judg.10.3\|10:3]] |
 | 1 Samuel | [[1Sam.14.14\|14:14]] |
 | 2 Samuel | [[2Sam.3.20\|3:20]] |
-| 1 Kings | [[1Kgs.5.3\|5:3]] · [[1Kgs.6.2\|6:2]] · [[1Kgs.9.14\|9:14]] · [[1Kgs.14.20\|14:20]] · [[1Kgs.15.9\|15:9]] · [[1Kgs.16.10\|16:10]] |
-| 1 Chronicles | [[1Chr.2.22\|2:22]] · [[1Chr.12.28\|12:28]] · [[1Chr.12.29\|12:29]] · [[1Chr.15.5\|15:5]] · [[1Chr.15.6\|15:6]] · [[1Chr.18.4\|18:4]] |
+| 1 Kings | [[1Kgs.4.23\|5:3]]**\*** · [[1Kgs.6.2\|6:2]] · [[1Kgs.9.14\|9:14]] · [[1Kgs.14.20\|14:20]] · [[1Kgs.15.9\|15:9]] · [[1Kgs.16.10\|16:10]] |
+| 1 Chronicles | [[1Chr.2.22\|2:22]] · [[1Chr.12.27\|12:28]]**\*** · [[1Chr.12.28\|12:29]]**\*** · [[1Chr.15.5\|15:5]] · [[1Chr.15.6\|15:6]] · [[1Chr.18.4\|18:4]] |
 | 2 Chronicles | [[2Chr.3.3\|3:3]] · [[2Chr.3.4\|3:4]] · [[2Chr.7.10\|7:10]] |
 | Ezra | [[Ezra.2.32\|2:32]] |
 | Nehemiah | [[Neh.7.35\|7:35]] |
 | Ezekiel | [[Ezek.29.17\|29:17]] · [[Ezek.40.1\|40:1]] · [[Ezek.40.21\|40:21]] · [[Ezek.45.1\|45:1]] |
 | Haggai | [[Hag.1.15\|1:15]] |
-| Zechariah | [[Zech.5.12\|5:12]] |
+| Zechariah | 5:12 |
 

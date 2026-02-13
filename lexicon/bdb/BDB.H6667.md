@@ -9,7 +9,7 @@ $\quad$ $\quad$ **b.** <span class="bdbLangHebrew">‎יָּ֑֫הוּ‎</span>
 
 **3.** <span class="bdbLangHebrew">‎יָּ֑֫הוּ‎</span> prince, Jeremiah's time, [[Jer.36.12|Jer 36:12]]. 
 
-**4.** <span class="bdbLangHebrew">‎יָּ֑ה‎</span>, priest, Nehemiah's time, [[Neh.10.2|Neh 10:2]] ([[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Σεχενιας</span>). 
+**4.** <span class="bdbLangHebrew">‎יָּ֑ה‎</span>, priest, Nehemiah's time, [[Neh.10.1|Neh 10:2]]**\*** ([[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> <span class="bdbLangGreek">Σεχενιας</span>). 
 
 **5.** <span class="bdbLangHebrew">‎יָּ֑ה‎</span>, son of Jehoiachin, according to [[1Chr.3.16|1Chr 3:16]], but probably gloss, [[BDB#Be|Be]] [[BDB#SS|SS]], compare [[BDB#Kit|Kit]]. 
 
@@ -23,6 +23,6 @@ $\quad$ $\quad$ **b.** <span class="bdbLangHebrew">‎יָּ֑֫הוּ‎</span>
 | 2 Kings | [[2Kgs.24.17\|24:17]] · [[2Kgs.24.18\|24:18]] · [[2Kgs.24.20\|24:20]] · [[2Kgs.25.2\|25:2]] · [[2Kgs.25.7\|25:7]] |
 | 1 Chronicles | [[1Chr.3.15\|3:15]] · [[1Chr.3.16\|3:16]] |
 | 2 Chronicles | [[2Chr.18.10\|18:10]] · [[2Chr.18.23\|18:23]] · [[2Chr.36.10\|36:10]] · [[2Chr.36.11\|36:11]] |
-| Nehemiah | [[Neh.10.2\|10:2]] |
+| Nehemiah | [[Neh.10.1\|10:2]]**\*** |
 | Jeremiah | [[Jer.1.3\|1:3]] · [[Jer.21.1\|21:1]] · [[Jer.21.3\|21:3]] · [[Jer.21.7\|21:7]] · [[Jer.27.12\|27:12]] · [[Jer.28.1\|28:1]] · [[Jer.29.3\|29:3]] · [[Jer.29.21\|29:21]] · [[Jer.29.22\|29:22]] · [[Jer.36.12\|36:12]] · [[Jer.49.34\|49:34]] |
 

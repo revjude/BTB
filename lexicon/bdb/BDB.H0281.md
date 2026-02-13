@@ -16,7 +16,7 @@
 
 **8.** a Levite, David's time [[1Chr.26.20|1Chr 26:20]] . 
 
-**9.** a chief man under Nehem. [[Neh.10.27|Neh 10:27]]. 
+**9.** a chief man under Nehem. [[Neh.10.26|Neh 10:27]]**\***. 
 
 **10.** a Gadite [[1Chr.5.15|1Chr 5:15]] (<span class="bdbLangHebrew">‎אֲחִי‎</span>). 
 
@@ -33,5 +33,5 @@
 | 2 Kings | [[2Kgs.9.9\|9:9]] |
 | 1 Chronicles | [[1Chr.2.25\|2:25]] · [[1Chr.5.15\|5:15]] · [[1Chr.7.34\|7:34]] · [[1Chr.8.4\|8:4]] · [[1Chr.8.7\|8:7]] · [[1Chr.11.36\|11:36]] · [[1Chr.26.20\|26:20]] |
 | 2 Chronicles | [[2Chr.9.29\|9:29]] · [[2Chr.10.15\|10:15]] |
-| Nehemiah | [[Neh.10.27\|10:27]] |
+| Nehemiah | [[Neh.10.26\|10:27]]**\*** |
 

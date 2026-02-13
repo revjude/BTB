@@ -8,7 +8,7 @@
 
  [<span class="bdbLangAramaic">‎תְּרֵין‎</span>] **noun masculine**, <span class="bdbLangAramaic">‎תַּרְתֵּין‎</span> ([[BDB#Kau|K]]<sup>§ 65, Anm. 1</sup>) **feminine**, ==two== (so in Aramaic dialects generally (note Nabataean feminine <span class="bdbLangAramaic">‎תרתין‎</span> over against Palmyrene <span class="bdbLangAramaic">‎תרתן‎</span> [[BDB#Ldzb|Lzb]]<sup>388</sup>); see Philippi<sup>ZMG xxxii (1878), 21 ff.</sup>; **adjective** according to [[BDB#Marti|M]]<sup>§ 89</sup> ***b***); — 
 
-**masculine** only construct in <span class="bdbLangAramaic">‎תִּרֵי עֲשַׂר‎</span> ***twelve***, after **noun masculine** plural [[Dan.4.26|Dan 4:26]]; [[Ezra.6.17|Ezra 6:17]] **feminine** after **noun feminine** plural <span class="bdbLangAramaic">‎׳‎</span><span class="bdbLangAramaic">‎שְׁנִין שִׁתִּין וְת‎</span> [[Dan.6.1|Dan 6:1]] ***years sixty and two***; = ordinal, <span class="bdbLangAramaic">‎שְׁנַת תַּרְתֵּין‎</span> [[Dan.4.24|Dan 4:24]] ***second year***. 
+**masculine** only construct in <span class="bdbLangAramaic">‎תִּרֵי עֲשַׂר‎</span> ***twelve***, after **noun masculine** plural [[Dan.4.29|Dan 4:26]]**\***; [[Ezra.6.17|Ezra 6:17]] **feminine** after **noun feminine** plural <span class="bdbLangAramaic">‎׳‎</span><span class="bdbLangAramaic">‎שְׁנִין שִׁתִּין וְת‎</span> [[Dan.5.31|Dan 6:1]]**\*** ***years sixty and two***; = ordinal, <span class="bdbLangAramaic">‎שְׁנַת תַּרְתֵּין‎</span> [[Dan.4.27|Dan 4:24]]**\*** ***second year***. 
 
 
 
@@ -23,5 +23,5 @@
 | Joshua | [[Josh.24.2\|24:2]] |
 | 1 Chronicles | [[1Chr.1.26\|1:26]] |
 | Ezra | [[Ezra.6.17\|6:17]] |
-| Daniel | [[Dan.4.24\|4:24]] · [[Dan.4.26\|4:26]] · [[Dan.6.1\|6:1]] |
+| Daniel | [[Dan.4.27\|4:24]]**\*** · [[Dan.4.29\|4:26]]**\*** · [[Dan.5.31\|6:1]]**\*** |
 

@@ -3,7 +3,7 @@
 
 **Qal** ***Perfect*** 3 feminine singular consecutive <span class="bdbLangHebrew">‎וְרַבָּה‎</span> [[Exod.23.29|Exod 23:29]]; [[Isa.6.12|Isa 6:12]], <span class="bdbLangHebrew">‎רָ֑בָּה‎</span> [[Gen.18.20|Gen 18:20]] ([[Hos.9.7|Hos 9:7]] read <span class="bdbLangHebrew">‎וְרֹב הַמּשְׂטֵמָה‎</span> [for [[BDB#MT|ᵑ0]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎וְרַבָּה מ‎</span>] [[BDB#Sept|ᵐ5]]. [[BDB#We|We]] [[BDB#Now|Now]]); elsewhere only 3 plural <span class="bdbLangHebrew">‎רַבּוּ‎</span> [[1Sam.25.10|1Sam 25:10]]+, <span class="bdbLangHebrew">‎רָ֑בּוּ‎</span> [[Jer.46.23|Jer 46:23]]+2 t. [other forms supplied by  <span class="bdbLangHebrew">‎רבה‎</span> q. v.]; ***Infinitivecstr*** <span class="bdbLangHebrew">‎רֹב‎</span> [[Gen.6.1|Gen 6:1]]; [[Josh.9.13|Josh 9:13]]; [[Lev.25.16|Lev 25:16]] (\|\| <span class="bdbLangHebrew">‎מְעֹט‎</span>), suffix <span class="bdbLangHebrew">‎רֻבְּכֶם‎</span> [[Deut.7.7|Deut 7:7]], and perhaps <span class="bdbLangHebrew">‎רֻבָּם‎</span> [[Hos.4.7|Hos 4:7]] (compare <span class="bdbLangHebrew">‎רֹב‎</span> below); — 
 
-**1.** ***be (become) many***, person [[Gen.6.1|Gen 6:1]] ([[BDB#J|J]]) [[Exod.23.29|Exod 23:29]] ([[BDB#E|E]]; see above), [[1Sam.25.10|1Sam 25:10]]; [[Hos.4.7|Hos 4:7]] (perhaps), [[Isa.66.16|Isa 66:16]]; [[Ps.3.2|Ps 3:2]]; [[Ps.25.19|Ps 25:19]]; [[Ps.38.20|Ps 38:20]]; [[Eccl.5.10|Eccl 5:10]]+ <span class="bdbLangHebrew">‎מִן‎</span> compare [[Jer.46.23|Jer 46:23]]; [[Deut.7.7|Deut 7:7]]; [[Ps.69.5|Ps 69:5]] of things [[Isa.22.9|Isa 22:9]]; [[Ps.4.8|Ps 4:8]]; [[Ps.104.24|Ps 104:24]], years [[Lev.25.16|Lev 25:16]]([[BDB#P|P]]), sins [[Jer.5.6|Jer 5:6]]; [[Jer.14.7|Jer 14:7]]; [[Isa.59.12|Isa 59:12]]; [[Job.35.6|Job 35:6]] . 
+**1.** ***be (become) many***, person [[Gen.6.1|Gen 6:1]] ([[BDB#J|J]]) [[Exod.23.29|Exod 23:29]] ([[BDB#E|E]]; see above), [[1Sam.25.10|1Sam 25:10]]; [[Hos.4.7|Hos 4:7]] (perhaps), [[Isa.66.16|Isa 66:16]]; [[Ps.3.1|Ps 3:2]]**\***; [[Ps.25.19|Ps 25:19]]; [[Ps.38.19|Ps 38:20]]**\***; [[Eccl.5.11|Eccl 5:10]]**\***+ <span class="bdbLangHebrew">‎מִן‎</span> compare [[Jer.46.23|Jer 46:23]]; [[Deut.7.7|Deut 7:7]]; [[Ps.69.4|Ps 69:5]]**\*** of things [[Isa.22.9|Isa 22:9]]; [[Ps.4.7|Ps 4:8]]**\***; [[Ps.104.24|Ps 104:24]], years [[Lev.25.16|Lev 25:16]]([[BDB#P|P]]), sins [[Jer.5.6|Jer 5:6]]; [[Jer.14.7|Jer 14:7]]; [[Isa.59.12|Isa 59:12]]; [[Job.35.6|Job 35:6]] . 
 
 **2.** ***become great***, [[Gen.18.20|Gen 18:20]] ([[BDB#J|J]]) [[Isa.6.12|Isa 6:12]] ***be long***, of journey, [[Josh.9.13|Josh 9:13]] — 
 
@@ -24,8 +24,8 @@
 | Joshua | [[Josh.9.13\|9:13]] |
 | 1 Samuel | [[1Sam.25.10\|25:10]] |
 | Job | [[Job.35.6\|35:6]] |
-| Psalms | [[Ps.3.2\|3:2]] · [[Ps.4.8\|4:8]] · [[Ps.25.19\|25:19]] · [[Ps.38.20\|38:20]] · [[Ps.69.5\|69:5]] · [[Ps.104.24\|104:24]] |
-| Ecclesiastes | [[Eccl.5.10\|5:10]] |
+| Psalms | [[Ps.3.1\|3:2]]**\*** · [[Ps.4.7\|4:8]]**\*** · [[Ps.25.19\|25:19]] · [[Ps.38.19\|38:20]]**\*** · [[Ps.69.4\|69:5]]**\*** · [[Ps.104.24\|104:24]] |
+| Ecclesiastes | [[Eccl.5.11\|5:10]]**\*** |
 | Isaiah | [[Isa.6.12\|6:12]] · [[Isa.22.9\|22:9]] · [[Isa.59.12\|59:12]] · [[Isa.66.16\|66:16]] |
 | Jeremiah | [[Jer.5.6\|5:6]] · [[Jer.14.7\|14:7]] · [[Jer.46.23\|46:23]] |
 | Hosea | [[Hos.4.7\|4:7]] · [[Hos.9.7\|9:7]] |

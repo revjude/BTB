@@ -3,7 +3,7 @@
 
 **Pe\`al** 
 
-**1.** ***pay reverence to*** deity (usually <span class="bdbLangAramaic">‎ל‎</span> accusative): ***imperfect*** 3 masculine plural <span class="bdbLangAramaic">‎יִפְלְחין‎</span> [[Dan.3.28|Dan 3:28]]; [[Dan.7.14|Dan 7:14]]; [[Dan.7.27|Dan 7:27]] so ***Participle active*** <span class="bdbLangAramaic">‎פָּלַח‎</span> [[Dan.6.17|Dan 6:17]]; [[Dan.6.21|Dan 6:21]], plural <span class="bdbLangAramaic">‎פָּֽלְחִין‎</span> [[Dan.3.12|Dan 3:12]]; [[Dan.3.14|Dan 3:14]]; [[Dan.3.18|Dan 3:18]], and (accusative of deity) v[[Dan.3.17|Dan 3:17]]. 
+**1.** ***pay reverence to*** deity (usually <span class="bdbLangAramaic">‎ל‎</span> accusative): ***imperfect*** 3 masculine plural <span class="bdbLangAramaic">‎יִפְלְחין‎</span> [[Dan.3.28|Dan 3:28]]; [[Dan.7.14|Dan 7:14]]; [[Dan.7.27|Dan 7:27]] so ***Participle active*** <span class="bdbLangAramaic">‎פָּלַח‎</span> [[Dan.6.16|Dan 6:17]]**\***; [[Dan.6.20|Dan 6:21]]**\***, plural <span class="bdbLangAramaic">‎פָּֽלְחִין‎</span> [[Dan.3.12|Dan 3:12]]; [[Dan.3.14|Dan 3:14]]; [[Dan.3.18|Dan 3:18]], and (accusative of deity) v[[Dan.3.17|Dan 3:17]]. 
 
 **2.** plural construct as noun <span class="bdbLangAramaic">‎פָּֽלְחֵי בֵית אֱלָהָא‎</span> [[Ezra.7.24|Ezra 7:24]] ***servants of the house of God*** ( + priests, Nethinim, etc.). 
 
@@ -14,5 +14,5 @@
 | Book | Refs |
 | - | - |
 | Ezra | [[Ezra.7.24\|7:24]] |
-| Daniel | [[Dan.3.12\|3:12]] · [[Dan.3.14\|3:14]] · [[Dan.3.17\|3:17]] · [[Dan.3.18\|3:18]] · [[Dan.3.28\|3:28]] · [[Dan.6.17\|6:17]] · [[Dan.6.21\|6:21]] · [[Dan.7.14\|7:14]] · [[Dan.7.27\|7:27]] |
+| Daniel | [[Dan.3.12\|3:12]] · [[Dan.3.14\|3:14]] · [[Dan.3.17\|3:17]] · [[Dan.3.18\|3:18]] · [[Dan.3.28\|3:28]] · [[Dan.6.16\|6:17]]**\*** · [[Dan.6.20\|6:21]]**\*** · [[Dan.7.14\|7:14]] · [[Dan.7.27\|7:27]] |
 

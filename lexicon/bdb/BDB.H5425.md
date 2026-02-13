@@ -10,7 +10,7 @@
 
 **1.** ***unfasten, loosen***, with accusative of thing; thongs of yoke [[Isa.58.6|Isa 58:6]] (\|\| <span class="bdbLangHebrew">‎פַּתֵּחַ‎</span>, <span class="bdbLangHebrew">‎תְּנַתֵּ֑קוּ‎</span>). 
 
-**2.** ***set free, unbind*** with accusative of person, prisoners [[Ps.105.20|Ps 105:20]] (\|\| <span class="bdbLangHebrew">‎וַיְפַתְּחֵהוּ‎</span>), [[Ps.146.7|Ps 146:7]] figurative <span class="bdbLangHebrew">‎יַתֵּר יָדוֺ‎</span> [[Job.6.9|Job 6:9]] ***that he would let loose his hand*** and cut me off, — <span class="bdbLangHebrew">‎וַיַּתֵּר‎</span> [[2Sam.22.33|2Sam 22:33]] was possibly connected by Masoretes with <span class="bdbLangHebrew">‎תּוּר‎</span> (see Commentaries), but read <span class="bdbLangHebrew">‎וַיִּתֵּן‎</span> (as \|\| [[Ps.18.33|Ps 18:33]]). 
+**2.** ***set free, unbind*** with accusative of person, prisoners [[Ps.105.20|Ps 105:20]] (\|\| <span class="bdbLangHebrew">‎וַיְפַתְּחֵהוּ‎</span>), [[Ps.146.7|Ps 146:7]] figurative <span class="bdbLangHebrew">‎יַתֵּר יָדוֺ‎</span> [[Job.6.9|Job 6:9]] ***that he would let loose his hand*** and cut me off, — <span class="bdbLangHebrew">‎וַיַּתֵּר‎</span> [[2Sam.22.33|2Sam 22:33]] was possibly connected by Masoretes with <span class="bdbLangHebrew">‎תּוּר‎</span> (see Commentaries), but read <span class="bdbLangHebrew">‎וַיִּתֵּן‎</span> (as \|\| [[Ps.18.32|Ps 18:33]]**\***). 
 
 
 
@@ -21,7 +21,7 @@
 | Leviticus | [[Lev.11.21\|11:21]] |
 | 2 Samuel | [[2Sam.22.33\|22:33]] |
 | Job | [[Job.6.9\|6:9]] · [[Job.37.1\|37:1]] |
-| Psalms | [[Ps.18.33\|18:33]] · [[Ps.105.20\|105:20]] · [[Ps.146.7\|146:7]] |
+| Psalms | [[Ps.18.32\|18:33]]**\*** · [[Ps.105.20\|105:20]] · [[Ps.146.7\|146:7]] |
 | Isaiah | [[Isa.58.6\|58:6]] |
 | Habakkuk | [[Hab.3.6\|3:6]] |
 

@@ -6,11 +6,11 @@
 
 **1.** ***brother***, born of same mother (&amp; father) [[Gen.4.2|Gen 4:2]]; [[Gen.4.8|Gen 4:8]]; [[Gen.4.9|Gen 4:9]]; [[Gen.4.10|Gen 4:10]]; [[Gen.4.11|Gen 4:11]]; [[Gen.27.6|Gen 27:6]]; [[Gen.27.11|Gen 27:11]]; [[Gen.44.20|Gen 44:20]]; [[Gen.49.5|Gen 49:5]] compare [[Gen.28.2|Gen 28:2]]; [[Gen.29.10|Gen 29:10]] (twice in verse) + [[Exod.4.14|Exod 4:14]] + often; also of half-brother [[Gen.20.5|Gen 20:5]]; [[Gen.20.13|Gen 20:13]]; [[Gen.20.16|Gen 20:16]] (on pa-rentage compare v[[Gen.20.12|Gen 20:12]]) [[Gen.37.2|Gen 37:2]]; [[Gen.37.4|Gen 37:4]]; [[Gen.37.5|Gen 37:5]] +, [[2Sam.13.4|2Sam 13:4]]; [[2Sam.13.7|2Sam 13:7]]; [[2Sam.13.8|2Sam 13:8]] +. 
 
-**2.** indefinite = relative; Lot, of Abraham [[Gen.13.8|Gen 13:8]]; [[Gen.14.12|Gen 14:12]]; [[Gen.14.14|Gen 14:14]]; [[Gen.14.16|Gen 14:16]] Jacob, of Laban [[Gen.29.12|Gen 29:12]]; [[Gen.29.15|Gen 29:15]] (nephew); hence of kinship in wider sense; member of same tribe [[Num.16.10|Num 16:10]]; [[Num.18.2|Num 18:2]]; [[Num.18.6|Num 18:6]]; [[2Sam.19.13|2Sam 19:13]] of same people [[Exod.2.11|Exod 2:11]] (twice in verse); [[Exod.4.18|Exod 4:18]]; [[Deut.15.12|Deut 15:12]]; [[Judg.14.3|Judg 14:3]]; [[Isa.66.20|Isa 66:20]]; [[Neh.5.1|Neh 5:1]]; [[Neh.5.5|Neh 5:5]]; [[Neh.5.8|Neh 5:8]] see especially [[Lev.19.17|Lev 19:17]] compare v[[Lev.19.18|Lev 19:18]] (ex-tended to include sojourner <span class="bdbLangHebrew">‎גֵּר‎</span> v[[Lev.19.34|Lev 19:34]]); of Israel &amp; Judah [[2Sam.19.42|2Sam 19:42]] Israel &amp; Edom [[Num.20.14|Num 20:14]] compare of Ishmael [[Gen.16.12|Gen 16:12]]; [[Gen.25.18|Gen 25:18]] of friend [[2Sam.1.26|2Sam 1:26]]; [[1Kgs.9.13|1Kgs 9:13]]; [[1Kgs.20.32|1Kgs 20:32]]; [[1Kgs.20.33|1Kgs 20:33]] of allies <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בְּרִית א‎</span> [[Amos.1.9|Amos 1:9]]. 
+**2.** indefinite = relative; Lot, of Abraham [[Gen.13.8|Gen 13:8]]; [[Gen.14.12|Gen 14:12]]; [[Gen.14.14|Gen 14:14]]; [[Gen.14.16|Gen 14:16]] Jacob, of Laban [[Gen.29.12|Gen 29:12]]; [[Gen.29.15|Gen 29:15]] (nephew); hence of kinship in wider sense; member of same tribe [[Num.16.10|Num 16:10]]; [[Num.18.2|Num 18:2]]; [[Num.18.6|Num 18:6]]; [[2Sam.19.12|2Sam 19:13]]**\*** of same people [[Exod.2.11|Exod 2:11]] (twice in verse); [[Exod.4.18|Exod 4:18]]; [[Deut.15.12|Deut 15:12]]; [[Judg.14.3|Judg 14:3]]; [[Isa.66.20|Isa 66:20]]; [[Neh.5.1|Neh 5:1]]; [[Neh.5.5|Neh 5:5]]; [[Neh.5.8|Neh 5:8]] see especially [[Lev.19.17|Lev 19:17]] compare v[[Lev.19.18|Lev 19:18]] (ex-tended to include sojourner <span class="bdbLangHebrew">‎גֵּר‎</span> v[[Lev.19.34|Lev 19:34]]); of Israel &amp; Judah [[2Sam.19.41|2Sam 19:42]]**\*** Israel &amp; Edom [[Num.20.14|Num 20:14]] compare of Ishmael [[Gen.16.12|Gen 16:12]]; [[Gen.25.18|Gen 25:18]] of friend [[2Sam.1.26|2Sam 1:26]]; [[1Kgs.9.13|1Kgs 9:13]]; [[1Kgs.20.32|1Kgs 20:32]]; [[1Kgs.20.33|1Kgs 20:33]] of allies <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎בְּרִית א‎</span> [[Amos.1.9|Amos 1:9]]. 
 
 **3.** figurative of resemblance [[Job.30.29|Job 30:29]] <span class="bdbLangHebrew">‎אָח הָיִיתִי לְתַנִּים‎</span> (\|\| <span class="bdbLangHebrew">‎רֵעַ לִבְנוֺת‎</span> <span class="bdbLangHebrew">‎יַעֲנָה‎</span> i.e. by reason of his crying, compare [[BDB#Di|Di]]; [[Prov.18.9|Prov 18:9]] <span class="bdbLangHebrew">‎מִתְרַפֶּה בִּמְלַאכְתּוֺ אָח הוּא לְבַעַל מַשְׁחִית‎</span>. 
 
-**4.** in phrase ***one . . . another*** <span class="bdbLangHebrew">‎אִישׁ אָחִיו‎</span> [[Gen.9.5|Gen 9:5]]; [[Joel.2.8|Joel 2:8]] Ze [[Joel.7.10|Joel 7:10]] <span class="bdbLangHebrew">‎אִישׁ ֗֗֗ אָחִיו‎</span>[[Gen.13.11|Gen 13:11]] + 25 t + [[Exod.32.27|Exod 32:27]] (where also same phrase with <span class="bdbLangHebrew">‎רֵעֵהוּ‎</span> &amp; <span class="bdbLangHebrew">‎קְרֹבוֺ‎</span> — see these words — &amp; also <span class="bdbLangHebrew">‎אִישׁ‎</span>, <span class="bdbLangHebrew">‎אֶחָד‎</span>; for development of idiom compare [[Deut.15.2|Deut 15:2]]; [[Isa.19.2|Isa 19:2]]; [[Jer.34.14|Jer 34:14]] (compare15) 17 [[Ezek.38.21|Ezek 38:21]]; [[Hag.2.22|Hag 2:22]] usually of men; of faces of golden cherubim [[Exod.25.20|Exod 25:20]]; [[Exod.37.9|Exod 37:9]] of scales of crocodile [[Job.41.9|Job 41:9]]. (<span class="bdbLangHebrew">‎אָח‎</span> ***fire-pot***. see below II. <span class="bdbLangHebrew">‎אחח‎</span>.) 
+**4.** in phrase ***one . . . another*** <span class="bdbLangHebrew">‎אִישׁ אָחִיו‎</span> [[Gen.9.5|Gen 9:5]]; [[Joel.2.8|Joel 2:8]] Ze Joel 7:10 <span class="bdbLangHebrew">‎אִישׁ ֗֗֗ אָחִיו‎</span>[[Gen.13.11|Gen 13:11]] + 25 t + [[Exod.32.27|Exod 32:27]] (where also same phrase with <span class="bdbLangHebrew">‎רֵעֵהוּ‎</span> &amp; <span class="bdbLangHebrew">‎קְרֹבוֺ‎</span> — see these words — &amp; also <span class="bdbLangHebrew">‎אִישׁ‎</span>, <span class="bdbLangHebrew">‎אֶחָד‎</span>; for development of idiom compare [[Deut.15.2|Deut 15:2]]; [[Isa.19.2|Isa 19:2]]; [[Jer.34.14|Jer 34:14]] (compare15) 17 [[Ezek.38.21|Ezek 38:21]]; [[Hag.2.22|Hag 2:22]] usually of men; of faces of golden cherubim [[Exod.25.20|Exod 25:20]]; [[Exod.37.9|Exod 37:9]] of scales of crocodile [[Job.41.17|Job 41:9]]**\***. (<span class="bdbLangHebrew">‎אָח‎</span> ***fire-pot***. see below II. <span class="bdbLangHebrew">‎אחח‎</span>.) 
 
 
 
@@ -27,16 +27,16 @@
 | Deuteronomy | [[Deut.15.2\|15:2]] · [[Deut.15.12\|15:12]] |
 | Judges | [[Judg.14.3\|14:3]] |
 | 1 Samuel | [[1Sam.20.29\|20:29]] · [[1Sam.30.23\|30:23]] |
-| 2 Samuel | [[2Sam.1.26\|1:26]] · [[2Sam.13.4\|13:4]] · [[2Sam.13.7\|13:7]] · [[2Sam.13.8\|13:8]] · [[2Sam.19.13\|19:13]] · [[2Sam.19.42\|19:42]] |
+| 2 Samuel | [[2Sam.1.26\|1:26]] · [[2Sam.13.4\|13:4]] · [[2Sam.13.7\|13:7]] · [[2Sam.13.8\|13:8]] · [[2Sam.19.12\|19:13]]**\*** · [[2Sam.19.41\|19:42]]**\*** |
 | 1 Kings | [[1Kgs.9.13\|9:13]] · [[1Kgs.20.32\|20:32]] · [[1Kgs.20.33\|20:33]] |
 | Nehemiah | [[Neh.5.1\|5:1]] · [[Neh.5.5\|5:5]] · [[Neh.5.8\|5:8]] |
-| Job | [[Job.30.29\|30:29]] · [[Job.41.9\|41:9]] |
+| Job | [[Job.30.29\|30:29]] · [[Job.41.17\|41:9]]**\*** |
 | Proverbs | [[Prov.18.9\|18:9]] |
 | Isaiah | [[Isa.19.2\|19:2]] · [[Isa.66.20\|66:20]] |
 | Jeremiah | [[Jer.34.9\|34:9]] · [[Jer.34.14\|34:14]] |
 | Ezekiel | [[Ezek.18.10\|18:10]] · [[Ezek.38.21\|38:21]] |
 | Hosea | [[Hos.13.15\|13:15]] |
-| Joel | [[Joel.2.8\|2:8]] · [[Joel.7.10\|7:10]] |
+| Joel | [[Joel.2.8\|2:8]] · 7:10 |
 | Amos | [[Amos.1.9\|1:9]] |
 | Haggai | [[Hag.2.22\|2:22]] |
 

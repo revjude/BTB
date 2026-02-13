@@ -2,7 +2,7 @@
 
 **2.**; <span class="bdbLangHebrew">‎תּוֺלֵעָה‎</span> 
 
-**2.** — Late Hebrew Hiph\`il denominative is ***breed worms***, etc.); — ***Participle*** plural <span class="bdbLangHebrew">‎מְתֻלָּעִים‎</span> [[Nah.2.4|Nah 2:4]] (\|\| <span class="bdbLangHebrew">‎מְאָדָּם‎</span>). 
+**2.** — Late Hebrew Hiph\`il denominative is ***breed worms***, etc.); — ***Participle*** plural <span class="bdbLangHebrew">‎מְתֻלָּעִים‎</span> [[Nah.2.3|Nah 2:4]]**\*** (\|\| <span class="bdbLangHebrew">‎מְאָדָּם‎</span>). 
 
 
 
@@ -10,5 +10,5 @@
 
 | Book | Refs |
 | - | - |
-| Nahum | [[Nah.2.4\|2:4]] |
+| Nahum | [[Nah.2.3\|2:4]]**\*** |
 

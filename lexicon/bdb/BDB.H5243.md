@@ -4,7 +4,7 @@
 
 
 
- IV. [<span class="bdbLangHebrew">‎מָלַל‎</span>] **verb** ==circumcise== ( = <span class="bdbLangHebrew">‎מוּל‎</span>); — to this are sometimes assigned: **Qal** ***Imperative*** <span class="bdbLangHebrew">‎מֹל‎</span> [[Josh.5.2|Josh 5:2]]. **Niph\`al** ***Perfect*** <span class="bdbLangHebrew">‎נְמַלְתֶּם‎</span> [[Gen.17.11|Gen 17:11]]. **Hithpo\`el** ***be cut off: Imperfect*** <span class="bdbLangHebrew">‎יִתְמֹלָ֑לוּ‎</span> [[Ps.58.8|Ps 58:8]]. see  <span class="bdbLangHebrew">‎מוּל‎</span>. [<span class="bdbLangHebrew">‎מַלְמָד‎</span>, <span class="bdbLangHebrew">‎מַלְמֵד‎</span>] see  <span class="bdbLangHebrew">‎למד‎</span>. 
+ IV. [<span class="bdbLangHebrew">‎מָלַל‎</span>] **verb** ==circumcise== ( = <span class="bdbLangHebrew">‎מוּל‎</span>); — to this are sometimes assigned: **Qal** ***Imperative*** <span class="bdbLangHebrew">‎מֹל‎</span> [[Josh.5.2|Josh 5:2]]. **Niph\`al** ***Perfect*** <span class="bdbLangHebrew">‎נְמַלְתֶּם‎</span> [[Gen.17.11|Gen 17:11]]. **Hithpo\`el** ***be cut off: Imperfect*** <span class="bdbLangHebrew">‎יִתְמֹלָ֑לוּ‎</span> [[Ps.58.7|Ps 58:8]]**\***. see  <span class="bdbLangHebrew">‎מוּל‎</span>. [<span class="bdbLangHebrew">‎מַלְמָד‎</span>, <span class="bdbLangHebrew">‎מַלְמֵד‎</span>] see  <span class="bdbLangHebrew">‎למד‎</span>. 
 
 **Brown-Driver-Briggs References**
 
@@ -13,5 +13,5 @@
 | Genesis | [[Gen.17.11\|17:11]] |
 | Joshua | [[Josh.5.2\|5:2]] |
 | Job | [[Job.14.2\|14:2]] · [[Job.18.16\|18:16]] · [[Job.24.24\|24:24]] |
-| Psalms | [[Ps.37.2\|37:2]] · [[Ps.58.8\|58:8]] · [[Ps.90.6\|90:6]] |
+| Psalms | [[Ps.37.2\|37:2]] · [[Ps.58.7\|58:8]]**\*** · [[Ps.90.6\|90:6]] |
 

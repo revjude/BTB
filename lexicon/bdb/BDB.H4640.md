@@ -14,12 +14,12 @@ $\quad$ $\quad$ **b.** [[2Chr.34.8|2Chr 34:8]].
 
 **5.** sons of Ahaz [[2Chr.28.7|2Chr 28:7]]. 
 
-**6.** Levite [[1Chr.6.25|1Chr 6:25]] reading <span class="bdbLangHebrew">‎מַעֲשֵׂיָה‎</span> for [[BDB#MT|ᵑ0]] <span class="bdbLangHebrew">‎בַּעֲשֵׂיָה‎</span> q. v., compare [[BDB#Kit|Kit]]. <span class="bdbLangHebrew">‎מַעֲשֵׂיָה‎</span> of various post-exile men: 
+**6.** Levite [[1Chr.6.40|1Chr 6:25]]**\*** reading <span class="bdbLangHebrew">‎מַעֲשֵׂיָה‎</span> for [[BDB#MT|ᵑ0]] <span class="bdbLangHebrew">‎בַּעֲשֵׂיָה‎</span> q. v., compare [[BDB#Kit|Kit]]. <span class="bdbLangHebrew">‎מַעֲשֵׂיָה‎</span> of various post-exile men: 
 
 **7.** [[Neh.3.23|Neh 3:23]] (<span class="bdbLangGreek">Μαδασηλ</span>, [[BDB#A|A]] <span class="bdbLangGreek">Μαασιου</span>). 
 
 **8. a.** [[Neh.8.4|Neh 8:4]]; [[Neh.8.7|Neh 8:7]]. 
-$\quad$ $\quad$ **b.** [[Neh.10.26|Neh 10:26]]. 
+$\quad$ $\quad$ **b.** [[Neh.10.25|Neh 10:26]]**\***. 
 $\quad$ $\quad$ **c.** [[Neh.11.5|Neh 11:5]]. 
 $\quad$ $\quad$ **d.** v[[Neh.11.7|Neh 11:7]]. 
 $\quad$ $\quad$ **e.** [[Neh.12.41|Neh 12:41]]. **feminine** v[[Neh.12.42|Neh 12:42]]. 
@@ -37,9 +37,9 @@ $\quad$ $\quad$ **d.** v[[Ezra.10.30|Ezra 10:30]].
 
 | Book | Refs |
 | - | - |
-| 1 Chronicles | [[1Chr.6.25\|6:25]] · [[1Chr.9.12\|9:12]] · [[1Chr.15.18\|15:18]] · [[1Chr.15.20\|15:20]] |
+| 1 Chronicles | [[1Chr.6.40\|6:25]]**\*** · [[1Chr.9.12\|9:12]] · [[1Chr.15.18\|15:18]] · [[1Chr.15.20\|15:20]] |
 | 2 Chronicles | [[2Chr.23.1\|23:1]] · [[2Chr.26.11\|26:11]] · [[2Chr.28.7\|28:7]] · [[2Chr.34.8\|34:8]] |
 | Ezra | [[Ezra.10.18\|10:18]] · [[Ezra.10.21\|10:21]] · [[Ezra.10.22\|10:22]] · [[Ezra.10.30\|10:30]] |
-| Nehemiah | [[Neh.3.23\|3:23]] · [[Neh.8.4\|8:4]] · [[Neh.8.7\|8:7]] · [[Neh.10.26\|10:26]] · [[Neh.11.5\|11:5]] · [[Neh.11.7\|11:7]] · [[Neh.12.41\|12:41]] · [[Neh.12.42\|12:42]] |
+| Nehemiah | [[Neh.3.23\|3:23]] · [[Neh.8.4\|8:4]] · [[Neh.8.7\|8:7]] · [[Neh.10.25\|10:26]]**\*** · [[Neh.11.5\|11:5]] · [[Neh.11.7\|11:7]] · [[Neh.12.41\|12:41]] · [[Neh.12.42\|12:42]] |
 | Jeremiah | [[Jer.21.1\|21:1]] · [[Jer.29.21\|29:21]] · [[Jer.29.25\|29:25]] · [[Jer.35.4\|35:4]] · [[Jer.37.3\|37:3]] |
 

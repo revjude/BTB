@@ -2,7 +2,7 @@
 
 **1.** growing, standing, singular [[Exod.9.31|Exod 9:31]] (twice in verse) ([[BDB#J|J]]), [[Deut.8.8|Deut 8:8]]; [[Job.31.40|Job 31:40]]; [[Job.1.11|Job 1:11]], as sown [[Isa.28.25|Isa 28:25]] standing, plural [[2Sam.14.30|2Sam 14:30]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שְׂעוֺ‎</span> [[1Chr.11.13|1Chr 11:13]], reaped <span class="bdbLangHebrew">‎קְצִיר (הַ)שְׂעֹרִים‎</span> [[2Sam.21.9|2Sam 21:9]]; [[Ruth.1.22|Ruth 1:22]]; [[Ruth.2.23|Ruth 2:23]], <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎גֹּרֶן הַשּׂ‎</span> [[Ruth.3.2|Ruth 3:2]]. 
 
-**2.** plural, ==the grains, measured, cooked==, etc.: [[Hos.3.2|Hos 3:2]] (twice in verse); [[Ezek.4.9|Ezek 4:9]]; [[Ezek.13.19|Ezek 13:19]]; [[Ezek.45.13|Ezek 45:13]]; [[2Kgs.7.1|2Kgs 7:1]]; [[2Kgs.7.16|2Kgs 7:16]]; [[2Kgs.7.18|2Kgs 7:18]]; [[Jer.41.8|Jer 41:8]]; [[2Chr.2.9|2Chr 2:9]]; [[2Chr.2.14|2Chr 2:14]]; [[2Chr.27.5|2Chr 27:5]];  [[2Chr.3.15|2Chr 3:15]]; [[2Chr.3.17|2Chr 3:17]]; [[2Chr.2.28|2Chr 2:28]]; [[1Kgs.5.8|1Kgs 5:8]] (food for horses); <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎זֶרַע חֹמֶר שׂ‎</span> [[Lev.27.16|Lev 27:16]] ([[BDB#P|P]]); <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎קֶמַח שׂ‎</span> [[Num.5.15|Num 5:15]], <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎לֶחֶם שׂ‎</span> [[Judg.7.13|Judg 7:13]]; [[2Kgs.4.42|2Kgs 4:42]], <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎עֻגַת שׂ‎</span> [[Ezek.4.12|Ezek 4:12]]. 
+**2.** plural, ==the grains, measured, cooked==, etc.: [[Hos.3.2|Hos 3:2]] (twice in verse); [[Ezek.4.9|Ezek 4:9]]; [[Ezek.13.19|Ezek 13:19]]; [[Ezek.45.13|Ezek 45:13]]; [[2Kgs.7.1|2Kgs 7:1]]; [[2Kgs.7.16|2Kgs 7:16]]; [[2Kgs.7.18|2Kgs 7:18]]; [[Jer.41.8|Jer 41:8]]; [[2Chr.2.10|2Chr 2:9]]**\***; [[2Chr.2.15|2Chr 2:14]]**\***; [[2Chr.27.5|2Chr 27:5]];  [[2Chr.3.15|2Chr 3:15]]; [[2Chr.3.17|2Chr 3:17]]; 2Chr 2:28; [[1Kgs.4.28|1Kgs 5:8]]**\*** (food for horses); <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎זֶרַע חֹמֶר שׂ‎</span> [[Lev.27.16|Lev 27:16]] ([[BDB#P|P]]); <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎קֶמַח שׂ‎</span> [[Num.5.15|Num 5:15]], <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎לֶחֶם שׂ‎</span> [[Judg.7.13|Judg 7:13]]; [[2Kgs.4.42|2Kgs 4:42]], <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎עֻגַת שׂ‎</span> [[Ezek.4.12|Ezek 4:12]]. 
 
 
 
@@ -17,10 +17,10 @@
 | Judges | [[Judg.7.13\|7:13]] |
 | Ruth | [[Ruth.1.22\|1:22]] · [[Ruth.2.23\|2:23]] · [[Ruth.3.2\|3:2]] |
 | 2 Samuel | [[2Sam.14.30\|14:30]] · [[2Sam.21.9\|21:9]] |
-| 1 Kings | [[1Kgs.5.8\|5:8]] |
+| 1 Kings | [[1Kgs.4.28\|5:8]]**\*** |
 | 2 Kings | [[2Kgs.4.42\|4:42]] · [[2Kgs.7.1\|7:1]] · [[2Kgs.7.16\|7:16]] · [[2Kgs.7.18\|7:18]] |
 | 1 Chronicles | [[1Chr.11.13\|11:13]] |
-| 2 Chronicles | [[2Chr.2.9\|2:9]] · [[2Chr.2.14\|2:14]] · [[2Chr.2.28\|2:28]] · [[2Chr.3.15\|3:15]] · [[2Chr.3.17\|3:17]] · [[2Chr.27.5\|27:5]] |
+| 2 Chronicles | [[2Chr.2.10\|2:9]]**\*** · [[2Chr.2.15\|2:14]]**\*** · 2:28 · [[2Chr.3.15\|3:15]] · [[2Chr.3.17\|3:17]] · [[2Chr.27.5\|27:5]] |
 | Job | [[Job.1.11\|1:11]] · [[Job.31.40\|31:40]] |
 | Isaiah | [[Isa.28.25\|28:25]] |
 | Jeremiah | [[Jer.41.8\|41:8]] |

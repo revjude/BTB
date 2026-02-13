@@ -10,7 +10,7 @@ $\quad$ $\quad$ **b.** <span class="bdbLangHebrew">‎בִּמְתֵי מְעָ�
 
 **3.** elsewhere only in poetry, sex usually not emphasized: 
 $\quad$ $\quad$ **a.** [[Job.11.3|Job 11:3]]; [[Job.24.12|Job 24:12]]; [[Ps.17.14|Ps 17:14]] (twice in verse) (but text probably corrupt, of. [[BDB#Bae|Bae]] [[BDB#We|We]]; at least omit <span class="bdbLangHebrew">‎ממתים ידך‎</span> [[BDB#Ol|Ol]] [[BDB#Bi|Bi]] [[BDB#Che|Che]], compare [[BDB#Hup|Hup-Now]]); <span class="bdbLangHebrew">‎מְתֵי ישׂראל‎</span> [[Isa.41.14|Isa 41:14]]. 
-$\quad$ $\quad$ **b.** poetic phrase: <span class="bdbLangHebrew">‎מְתֵי שָׁוְא‎</span> ***men of false-hood*** [[Job.11.11|Job 11:11]]; [[Ps.26.4|Ps 26:4]] <span class="bdbLangHebrew">‎אָוֶן‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> [[Ps.22.15|Ps 22:15]] ***men of wickedness***; <span class="bdbLangHebrew">‎סוֺדִי‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> [[Ps.19.19|Ps 19:19]] ***men of my cycle***; <span class="bdbLangHebrew">‎אָהֳלִי‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> [[Job.31.31|Job 31:31]] ***men of my tent*** (household); <span class="bdbLangHebrew">‎רָעָב‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> [[Isa.5.13|Isa 5:13]] ***men of hunger***, but read probably <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מְזֵי ר‎</span> ***sucked out, empty*** from hunger (as [[Deut.32.24|Deut 32:24]]) [[BDB#Ew|Ew]] [[BDB#De|De]] [[BDB#Che|Che]] [[BDB#Di|Di]] [[BDB#Du|Du]] (compare <span class="bdbLangHebrew">‎מָזֶה‎</span>). 
+$\quad$ $\quad$ **b.** poetic phrase: <span class="bdbLangHebrew">‎מְתֵי שָׁוְא‎</span> ***men of false-hood*** [[Job.11.11|Job 11:11]]; [[Ps.26.4|Ps 26:4]] <span class="bdbLangHebrew">‎אָוֶן‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> [[Ps.22.14|Ps 22:15]]**\*** ***men of wickedness***; <span class="bdbLangHebrew">‎סוֺדִי‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> Ps 19:19 ***men of my cycle***; <span class="bdbLangHebrew">‎אָהֳלִי‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> [[Job.31.31|Job 31:31]] ***men of my tent*** (household); <span class="bdbLangHebrew">‎רָעָב‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מ‎</span> [[Isa.5.13|Isa 5:13]] ***men of hunger***, but read probably <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎מְזֵי ר‎</span> ***sucked out, empty*** from hunger (as [[Deut.32.24|Deut 32:24]]) [[BDB#Ew|Ew]] [[BDB#De|De]] [[BDB#Che|Che]] [[BDB#Di|Di]] [[BDB#Du|Du]] (compare <span class="bdbLangHebrew">‎מָזֶה‎</span>). 
 
 
 
@@ -23,7 +23,7 @@ $\quad$ $\quad$ **b.** poetic phrase: <span class="bdbLangHebrew">‎מְתֵי 
 | Judges | [[Judg.20.48\|20:48]] |
 | 1 Chronicles | [[1Chr.16.19\|16:19]] |
 | Job | [[Job.11.3\|11:3]] · [[Job.11.11\|11:11]] · [[Job.24.12\|24:12]] · [[Job.31.31\|31:31]] |
-| Psalms | [[Ps.17.14\|17:14]] · [[Ps.19.19\|19:19]] · [[Ps.22.15\|22:15]] · [[Ps.26.4\|26:4]] · [[Ps.105.12\|105:12]] |
+| Psalms | [[Ps.17.14\|17:14]] · 19:19 · [[Ps.22.14\|22:15]]**\*** · [[Ps.26.4\|26:4]] · [[Ps.105.12\|105:12]] |
 | Isaiah | [[Isa.3.25\|3:25]] · [[Isa.5.13\|5:13]] · [[Isa.41.14\|41:14]] |
 | Jeremiah | [[Jer.44.28\|44:28]] |
 

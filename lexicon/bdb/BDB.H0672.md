@@ -2,7 +2,7 @@
 
 **1. proper name, of a location** ==place near Bethel, where Rachel died &amp; was buried== [[Gen.35.16|Gen 35:16]]; [[Gen.35.19|Gen 35:19]]; [[Gen.48.7|Gen 48:7]] (<span class="bdbLangHebrew">‎אֶפְרָת‎</span> only [[Gen.48.7|Gen 48:7]] where <span class="bdbLangHebrew">‎ה‎</span> perhaps dropped on accusative of <span class="bdbLangHebrew">‎ה‎</span> following ([[BDB#Ol|Ol]]); in last two passages <span class="bdbLangHebrew">‎הוא בית לחם‎</span> is a gloss, see [[BDB#Di|Di]]; compare [[1Sam.10.2|1Sam 10:2]]). 
 
-**2.** ***id.***, a name of Bethlehem [[Mic.5.1|Mic 5:1]]; [[Ruth.4.11|Ruth 4:11]] compare perhaps <span class="bdbLangHebrew">‎כָּלֵב אֶפְרָתָ֑ה‎</span> [[1Chr.2.24|1Chr 2:24]] ([[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">ἦλθεν Ξαλὲβ εἰς Ἐφράθα</span>). 
+**2.** ***id.***, a name of Bethlehem [[Mic.5.2|Mic 5:1]]**\***; [[Ruth.4.11|Ruth 4:11]] compare perhaps <span class="bdbLangHebrew">‎כָּלֵב אֶפְרָתָ֑ה‎</span> [[1Chr.2.24|1Chr 2:24]] ([[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">ἦλθεν Ξαλὲβ εἰς Ἐφράθα</span>). 
 
 **3.** ***id.*** [[Ps.132.6|Ps 132:6]], perhaps applied to district where Kirjath Jearim lay, on the border of Judah &amp; Benjamin, compare [[BDB#De|De]] [[BDB#Che|Che]]. 
 
@@ -19,5 +19,5 @@
 | 1 Samuel | [[1Sam.10.2\|10:2]] |
 | 1 Chronicles | [[1Chr.2.19\|2:19]] · [[1Chr.2.24\|2:24]] · [[1Chr.2.50\|2:50]] · [[1Chr.4.4\|4:4]] |
 | Psalms | [[Ps.132.6\|132:6]] |
-| Micah | [[Mic.5.1\|5:1]] |
+| Micah | [[Mic.5.2\|5:1]]**\*** |
 

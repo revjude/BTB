@@ -29,7 +29,5 @@ See [[topic JESUS, THE CHRIST|JESUS, HISTORY OF]]
 
 - Jehu [[2Kgs.10.18|2Ki 10:18]]-[[2Kgs.10.31|31]]
 
-- Of idolatrous religions, taught by the Jews, at the time of the  religious revival under the leadership of [[PrAzar.1.2|Azariah 2]]Ch 15:12,13
-
 → See [[topic PERSECUTION|PERSECUTION]]
 

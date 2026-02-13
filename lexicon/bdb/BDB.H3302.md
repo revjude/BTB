@@ -2,7 +2,7 @@
 
 **2.** ***give*** (entirely) ***over to, into power of***, [[BDB#Di|Di]]<sup>349</sup>) — 
 
-**Qal** ***Perfect*** <span class="bdbLangHebrew">‎יָפִיתְ‎</span> [[Song.7.7|Song 7:7]] <span class="bdbLangHebrew">‎יָפוּ‎</span> [[Song.4.10|Song 4:10]]; [[Song.7.2|Song 7:2]] ***Imperfect*** 2 feminine singular <span class="bdbLangHebrew">‎וַתִּ֫יפִי‎</span> ([[BDB#Kö|Kö]]<sup>Lgh. i. 581</sup>) [[Ezek.16.13|Ezek 16:13]] 3 masculine singular with apocope <span class="bdbLangHebrew">‎וַיִּיף‎</span> [[Ezek.31.7|Ezek 31:7]] — ***be beautiful***, subject person [[Song.4.10|Song 4:10]]; [[Song.7.7|Song 7:7]] of feet v.[[Song.7.2|Song 7:2]] of Jerusalem under figure of woman [[Ezek.16.13|Ezek 16:13]] Egypt under figure of tree [[Ezek.31.7|Ezek 31:7]]. **Pi\`el** ***Imperfect*** 3 masculine singular suffix <span class="bdbLangHebrew">‎יְיַפֵּ֑הוּ‎</span> [[Jer.10.4|Jer 10:4]] ***beautify*** an idol. The (**Pe\`al\`al** ?) ***Perfect*** form <span class="bdbLangHebrew">‎אָדָם יָפְיָפִיתָ מִבְּנֵי‎</span> [[Ps.45.3|Ps 45:3]] is contrary to all analogues: read either <span class="bdbLangHebrew">‎יָפִיתָ‎</span> or <span class="bdbLangHebrew">‎יְפֵיפִיתָ‎</span> [[BDB#Ges|Ges]]<sup> § 55. 3</sup> [[BDB#Sta|Sta]]<sup>§ 156 R</sup> [[BDB#Now|Now]] ([[BDB#Kö|Kö]]<sup>i. 583 f.</sup> defence is artificial): ***thou art more beautiful than***, etc. **Hithpa\`el** ***Imperfect*** 2 feminine singular <span class="bdbLangHebrew">‎תִּתְיַפִּי‎</span> ***beautify thyself*** [[Jer.4.30|Jer 4:30]]. 
+**Qal** ***Perfect*** <span class="bdbLangHebrew">‎יָפִיתְ‎</span> [[Song.7.6|Song 7:7]]**\*** <span class="bdbLangHebrew">‎יָפוּ‎</span> [[Song.4.10|Song 4:10]]; [[Song.7.1|Song 7:2]]**\*** ***Imperfect*** 2 feminine singular <span class="bdbLangHebrew">‎וַתִּ֫יפִי‎</span> ([[BDB#Kö|Kö]]<sup>Lgh. i. 581</sup>) [[Ezek.16.13|Ezek 16:13]] 3 masculine singular with apocope <span class="bdbLangHebrew">‎וַיִּיף‎</span> [[Ezek.31.7|Ezek 31:7]] — ***be beautiful***, subject person [[Song.4.10|Song 4:10]]; [[Song.7.6|Song 7:7]]**\*** of feet v.[[Song.7.1|Song 7:2]]**\*** of Jerusalem under figure of woman [[Ezek.16.13|Ezek 16:13]] Egypt under figure of tree [[Ezek.31.7|Ezek 31:7]]. **Pi\`el** ***Imperfect*** 3 masculine singular suffix <span class="bdbLangHebrew">‎יְיַפֵּ֑הוּ‎</span> [[Jer.10.4|Jer 10:4]] ***beautify*** an idol. The (**Pe\`al\`al** ?) ***Perfect*** form <span class="bdbLangHebrew">‎אָדָם יָפְיָפִיתָ מִבְּנֵי‎</span> [[Ps.45.2|Ps 45:3]]**\*** is contrary to all analogues: read either <span class="bdbLangHebrew">‎יָפִיתָ‎</span> or <span class="bdbLangHebrew">‎יְפֵיפִיתָ‎</span> [[BDB#Ges|Ges]]<sup> § 55. 3</sup> [[BDB#Sta|Sta]]<sup>§ 156 R</sup> [[BDB#Now|Now]] ([[BDB#Kö|Kö]]<sup>i. 583 f.</sup> defence is artificial): ***thou art more beautiful than***, etc. **Hithpa\`el** ***Imperfect*** 2 feminine singular <span class="bdbLangHebrew">‎תִּתְיַפִּי‎</span> ***beautify thyself*** [[Jer.4.30|Jer 4:30]]. 
 
 
 
@@ -10,8 +10,8 @@
 
 | Book | Refs |
 | - | - |
-| Psalms | [[Ps.45.3\|45:3]] |
-| Song of Solomon | [[Song.4.10\|4:10]] · [[Song.7.2\|7:2]] · [[Song.7.7\|7:7]] |
+| Psalms | [[Ps.45.2\|45:3]]**\*** |
+| Song of Solomon | [[Song.4.10\|4:10]] · [[Song.7.1\|7:2]]**\*** · [[Song.7.6\|7:7]]**\*** |
 | Jeremiah | [[Jer.4.30\|4:30]] · [[Jer.10.4\|10:4]] |
 | Ezekiel | [[Ezek.16.13\|16:13]] · [[Ezek.31.7\|31:7]] |
 

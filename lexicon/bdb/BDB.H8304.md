@@ -10,11 +10,11 @@
 
 **4. a.** ==son of Kenaz== [[1Chr.4.13|1Chr 4:13]]; [[1Chr.4.14|1Chr 4:14]]. 
 $\quad$ $\quad$ **b.** name in Simeon v[[1Chr.4.35|1Chr 4:35]]. 
-$\quad$ $\quad$ **c.** Levite name [[1Chr.5.40|1Chr 5:40]] (twice in verse). 
+$\quad$ $\quad$ **c.** Levite name [[1Chr.6.14|1Chr 5:40]]**\*** (twice in verse). 
 
 **5. a.** ==companion of Zerubbabel== [[Ezra.2.2|Ezra 2:2]]. 
 $\quad$ $\quad$ **b.** father of Ezra [[Ezra.7.1|Ezra 7:1]]. 
-$\quad$ $\quad$ **c.** one sealed [[Neh.10.3|Neh 10:3]]. 
+$\quad$ $\quad$ **c.** one sealed [[Neh.10.2|Neh 10:3]]**\***. 
 $\quad$ $\quad$ **d.** priest [[Neh.11.11|Neh 11:11]]; [[Neh.12.1|Neh 12:1]]; [[Neh.12.12|Neh 12:12]]. 
 
 **6.** <span class="bdbLangHebrew">‎שְׂרָיָהוּ‎</span>, officer of king Jehoiakim, [[Jer.36.26|Jer 36:26]], <span class="bdbLangGreek">τῷ Σαρεα</span>. 
@@ -28,8 +28,8 @@ $\quad$ $\quad$ **d.** priest [[Neh.11.11|Neh 11:11]]; [[Neh.12.1|Neh 12:1]]; [[
 | 2 Samuel | [[2Sam.8.17\|8:17]] · [[2Sam.20.25\|20:25]] |
 | 1 Kings | [[1Kgs.4.3\|4:3]] |
 | 2 Kings | [[2Kgs.25.18\|25:18]] · [[2Kgs.25.23\|25:23]] |
-| 1 Chronicles | [[1Chr.4.13\|4:13]] · [[1Chr.4.14\|4:14]] · [[1Chr.4.35\|4:35]] · [[1Chr.5.40\|5:40]] · [[1Chr.18.16\|18:16]] |
+| 1 Chronicles | [[1Chr.4.13\|4:13]] · [[1Chr.4.14\|4:14]] · [[1Chr.4.35\|4:35]] · [[1Chr.6.14\|5:40]]**\*** · [[1Chr.18.16\|18:16]] |
 | Ezra | [[Ezra.2.2\|2:2]] · [[Ezra.7.1\|7:1]] |
-| Nehemiah | [[Neh.10.3\|10:3]] · [[Neh.11.11\|11:11]] · [[Neh.12.1\|12:1]] · [[Neh.12.12\|12:12]] |
+| Nehemiah | [[Neh.10.2\|10:3]]**\*** · [[Neh.11.11\|11:11]] · [[Neh.12.1\|12:1]] · [[Neh.12.12\|12:12]] |
 | Jeremiah | [[Jer.36.26\|36:26]] · [[Jer.40.8\|40:8]] · [[Jer.51.59\|51:59]] · [[Jer.51.61\|51:61]] · [[Jer.52.24\|52:24]] |
 

@@ -6,7 +6,7 @@ $\quad$ $\quad$ **b.** of things : utterance [[Num.22.18|Num 22:18]] ([[BDB#E|E]
 
 **2.** ***small***; 
 $\quad$ $\quad$ **a.** with added idea of weakness, person [[2Kgs.18.24|2Kgs 18:24]]=[[Isa.36.9|Isa 36:9]], city [[Eccl.9.14|Eccl 9:14]]. 
-$\quad$ $\quad$ **b.** = ***insignificant***, (I) tribe [[1Sam.9.21|1Sam 9:21]] (2) person (+<span class="bdbLangHebrew">‎גדול‎</span>; = all persons) [[Jer.6.13|Jer 6:13]]; [[Jer.31.34|Jer 31:34]]; [[Jonah.3.5|Jonah 3:5]]; [[Ps.115.13|Ps 115:13]]; [[Esth.1.5|Esth 1:5]]; [[Esth.1.20|Esth 1:20]], cf . [[1Chr.12.14|1Chr 12:14]] ([[BDB#van d.H.|van d. H.]] v.[[1Chr.12.13|1Chr 12:13]]); (3) in general, <span class="bdbLangHebrew">‎יוֺם קְטַנּוֺת‎</span> [[Zech.4.10|Zech 4:10]] ***day of small things. — See also*** <span class="bdbLangHebrew">‎קָטֹן‎</span>. 
+$\quad$ $\quad$ **b.** = ***insignificant***, (I) tribe [[1Sam.9.21|1Sam 9:21]] (2) person (+<span class="bdbLangHebrew">‎גדול‎</span>; = all persons) [[Jer.6.13|Jer 6:13]]; [[Jer.31.34|Jer 31:34]]; [[Jonah.3.5|Jonah 3:5]]; [[Ps.115.13|Ps 115:13]]; [[Esth.1.5|Esth 1:5]]; [[Esth.1.20|Esth 1:20]], cf . [[1Chr.12.13|1Chr 12:14]]**\*** ([[BDB#van d.H.|van d. H.]] v.[[1Chr.12.12|1Chr 12:13]]**\***); (3) in general, <span class="bdbLangHebrew">‎יוֺם קְטַנּוֺת‎</span> [[Zech.4.10|Zech 4:10]] ***day of small things. — See also*** <span class="bdbLangHebrew">‎קָטֹן‎</span>. 
 
 
 
@@ -33,7 +33,7 @@ $\quad$ $\quad$ **b.** of things [[1Sam.2.19|1Sam 2:19]]; [[1Kgs.8.64|1Kgs 8:64]
 | 2 Samuel | [[2Sam.9.12\|9:12]] · [[2Sam.12.3\|12:3]] |
 | 1 Kings | [[1Kgs.2.20\|2:20]] · [[1Kgs.3.7\|3:7]] · [[1Kgs.8.64\|8:64]] · [[1Kgs.11.17\|11:17]] · [[1Kgs.17.13\|17:13]] · [[1Kgs.18.44\|18:44]] · [[1Kgs.22.31\|22:31]] |
 | 2 Kings | [[2Kgs.2.23\|2:23]] · [[2Kgs.4.10\|4:10]] · [[2Kgs.5.2\|5:2]] · [[2Kgs.5.14\|5:14]] · [[2Kgs.18.24\|18:24]] |
-| 1 Chronicles | [[1Chr.12.13\|12:13]] · [[1Chr.12.14\|12:14]] · [[1Chr.24.31\|24:31]] |
+| 1 Chronicles | [[1Chr.12.12\|12:13]]**\*** · [[1Chr.12.13\|12:14]]**\*** · [[1Chr.24.31\|24:31]] |
 | 2 Chronicles | [[2Chr.18.30\|18:30]] · [[2Chr.21.17\|21:17]] · [[2Chr.22.1\|22:1]] · [[2Chr.31.15\|31:15]] · [[2Chr.34.30\|34:30]] · [[2Chr.36.18\|36:18]] |
 | Esther | [[Esth.1.5\|1:5]] · [[Esth.1.20\|1:20]] |
 | Job | [[Job.3.19\|3:19]] |

@@ -5,7 +5,7 @@
 
 **Pi\`el 1.** ***Perfect*** 3 masculine singular ***gL'Pi\`el*** [[Job.38.25|Job 38:25]] ***cleave*** a channel for rain. 
 
-**2.** ***Imperative*** masculine singular <span class="bdbLangHebrew">‎פַּלַּג‎</span> ([[BDB#Ges|Ges]]<sup>«GKC:52n»§ 52n</sup>) [[Ps.55.10|Ps 55:10]] ***divide*** their speech (their counsels). 
+**2.** ***Imperative*** masculine singular <span class="bdbLangHebrew">‎פַּלַּג‎</span> ([[BDB#Ges|Ges]]<sup>«GKC:52n»§ 52n</sup>) [[Ps.55.9|Ps 55:10]]**\*** ***divide*** their speech (their counsels). 
 
 
 
@@ -15,5 +15,5 @@
 | - | - |
 | Genesis | [[Gen.10.25\|10:25]] |
 | Job | [[Job.38.25\|38:25]] |
-| Psalms | [[Ps.55.10\|55:10]] |
+| Psalms | [[Ps.55.9\|55:10]]**\*** |
 

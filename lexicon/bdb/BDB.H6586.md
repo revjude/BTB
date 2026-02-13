@@ -2,7 +2,7 @@
 
 **1.** ***rebel, revolt***, of nations, with <span class="bdbLangHebrew">‎בְּ‎</span> ***against***, [[1Kgs.12.19|1Kgs 12:19]]; [[2Kgs.1.1|2Kgs 1:1]]; [[2Kgs.3.5|2Kgs 3:5]]; [[2Kgs.3.7|2Kgs 3:7]]; [[2Chr.10.19|2Chr 10:19]] absolute [[2Kgs.8.22|2Kgs 8:22]], <span class="bdbLangHebrew">‎מִתַּחַת יַד‎</span> v[[2Kgs.8.20|2Kgs 8:20]] v[[2Kgs.8.22|2Kgs 8:22]]; [[2Chr.21.8|2Chr 21:8]]; [[2Chr.21.10|2Chr 21:10]] (twice in verse); <span class="bdbLangHebrew">‎פָּֽשְׁעוּ בִי‎</span> [[Isa.1.2|Isa 1:2]] (Israel under figure of <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>'s sons). 
 
-**2.** ***transgress*** against God, absolute [[Isa.1.28|Isa 1:28]]; [[Isa.46.8|Isa 46:8]]; [[Isa.48.8|Isa 48:8]]; [[Isa.53.12|Isa 53:12]] (twice in verse); [[Hos.14.10|Hos 14:10]]; [[Amos.4.4|Amos 4:4]] (twice in verse); [[Lam.3.42|Lam 3:42]]; [[Dan.8.23|Dan 8:23]]; [[Ps.37.38|Ps 37:38]]; [[Ps.51.15|Ps 51:15]], ***for*** (<span class="bdbLangHebrew">‎עַל‎</span>) ***a bit of bread*** [[Prov.28.21|Prov 28:21]] <span class="bdbLangHebrew">‎בַּרָּבָר הַזֶּה‎</span> [[Ezra.10.13|Ezra 10:13]] ***in this thing***; <span class="bdbLangHebrew">‎תּוֺרָתִי על‎</span> [[Hos.8.1|Hos 8:1]] elsewhere with <span class="bdbLangHebrew">‎בְּ‎</span> against God: <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ב‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎פ‎</span> [[Isa.43.27|Isa 43:27]]; [[Isa.59.13|Isa 59:13]]; [[Isa.66.24|Isa 66:24]]; [[Jer.2.8|Jer 2:8]]; [[Jer.2.29|Jer 2:29]]; [[Jer.3.13|Jer 3:13]]; [[Jer.33.8|Jer 33:8]]; [[Ezek.2.3|Ezek 2:3]]; [[Ezek.20.38|Ezek 20:38]]; [[Hos.7.13|Hos 7:13]] <span class="bdbLangHebrew">‎ב‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎פְּשִׁעִים אשׁר פ‎</span> [[1Kgs.8.50|1Kgs 8:50]]; [[Ezek.18.31|Ezek 18:31]] <span class="bdbLangHebrew">‎ב‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎עלילות אשׁר פ‎</span> [[Zeph.3.11|Zeph 3:11]]. **Niph\`al** ***Perfect*** 3 masculine singular <span class="bdbLangHebrew">‎אָח נִפְשַׁע‎</span> ([[BDB#van d.H.|van d. H.]] ***Participle*** <span class="bdbLangHebrew">‎נִפְשָׁע‎</span>) ***a brother*** (who has been) ***offended*** [[Prov.18.19|Prov 18:19]], but very dubious, compare Toy. 
+**2.** ***transgress*** against God, absolute [[Isa.1.28|Isa 1:28]]; [[Isa.46.8|Isa 46:8]]; [[Isa.48.8|Isa 48:8]]; [[Isa.53.12|Isa 53:12]] (twice in verse); [[Hos.14.9|Hos 14:10]]**\***; [[Amos.4.4|Amos 4:4]] (twice in verse); [[Lam.3.42|Lam 3:42]]; [[Dan.8.23|Dan 8:23]]; [[Ps.37.38|Ps 37:38]]; [[Ps.51.13|Ps 51:15]]**\***, ***for*** (<span class="bdbLangHebrew">‎עַל‎</span>) ***a bit of bread*** [[Prov.28.21|Prov 28:21]] <span class="bdbLangHebrew">‎בַּרָּבָר הַזֶּה‎</span> [[Ezra.10.13|Ezra 10:13]] ***in this thing***; <span class="bdbLangHebrew">‎תּוֺרָתִי על‎</span> [[Hos.8.1|Hos 8:1]] elsewhere with <span class="bdbLangHebrew">‎בְּ‎</span> against God: <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎ב‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎פ‎</span> [[Isa.43.27|Isa 43:27]]; [[Isa.59.13|Isa 59:13]]; [[Isa.66.24|Isa 66:24]]; [[Jer.2.8|Jer 2:8]]; [[Jer.2.29|Jer 2:29]]; [[Jer.3.13|Jer 3:13]]; [[Jer.33.8|Jer 33:8]]; [[Ezek.2.3|Ezek 2:3]]; [[Ezek.20.38|Ezek 20:38]]; [[Hos.7.13|Hos 7:13]] <span class="bdbLangHebrew">‎ב‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎פְּשִׁעִים אשׁר פ‎</span> [[1Kgs.8.50|1Kgs 8:50]]; [[Ezek.18.31|Ezek 18:31]] <span class="bdbLangHebrew">‎ב‎</span> <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎עלילות אשׁר פ‎</span> [[Zeph.3.11|Zeph 3:11]]. **Niph\`al** ***Perfect*** 3 masculine singular <span class="bdbLangHebrew">‎אָח נִפְשַׁע‎</span> ([[BDB#van d.H.|van d. H.]] ***Participle*** <span class="bdbLangHebrew">‎נִפְשָׁע‎</span>) ***a brother*** (who has been) ***offended*** [[Prov.18.19|Prov 18:19]], but very dubious, compare Toy. 
 
 
 
@@ -14,14 +14,14 @@
 | 2 Kings | [[2Kgs.1.1\|1:1]] · [[2Kgs.3.5\|3:5]] · [[2Kgs.3.7\|3:7]] · [[2Kgs.8.20\|8:20]] · [[2Kgs.8.22\|8:22]] |
 | 2 Chronicles | [[2Chr.10.19\|10:19]] · [[2Chr.21.8\|21:8]] · [[2Chr.21.10\|21:10]] |
 | Ezra | [[Ezra.10.13\|10:13]] |
-| Psalms | [[Ps.37.38\|37:38]] · [[Ps.51.15\|51:15]] |
+| Psalms | [[Ps.37.38\|37:38]] · [[Ps.51.13\|51:15]]**\*** |
 | Proverbs | [[Prov.18.19\|18:19]] · [[Prov.28.21\|28:21]] |
 | Isaiah | [[Isa.1.2\|1:2]] · [[Isa.1.28\|1:28]] · [[Isa.43.27\|43:27]] · [[Isa.46.8\|46:8]] · [[Isa.48.8\|48:8]] · [[Isa.53.12\|53:12]] · [[Isa.59.13\|59:13]] · [[Isa.66.24\|66:24]] |
 | Jeremiah | [[Jer.2.8\|2:8]] · [[Jer.2.29\|2:29]] · [[Jer.3.13\|3:13]] · [[Jer.33.8\|33:8]] |
 | Lamentations | [[Lam.3.42\|3:42]] |
 | Ezekiel | [[Ezek.2.3\|2:3]] · [[Ezek.10.13\|10:13]] · [[Ezek.18.31\|18:31]] · [[Ezek.20.38\|20:38]] |
 | Daniel | [[Dan.8.23\|8:23]] |
-| Hosea | [[Hos.7.13\|7:13]] · [[Hos.8.1\|8:1]] · [[Hos.14.10\|14:10]] |
+| Hosea | [[Hos.7.13\|7:13]] · [[Hos.8.1\|8:1]] · [[Hos.14.9\|14:10]]**\*** |
 | Amos | [[Amos.4.4\|4:4]] |
 | Zephaniah | [[Zeph.3.11\|3:11]] |
 

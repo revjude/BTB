@@ -1,4 +1,4 @@
- <span class="bdbLangHebrew">‎אַתָּ֫ה‎</span>, <span class="bdbLangHebrew">‎אָ֑תָּה‎</span> (so regularly; but 26-7 t., with different disjunctive accents, <span class="bdbLangHebrew">‎׃אַ֑תָּה‎</span> see [[BDB#Fr|Fr]]<sup>MM 228</sup>; [[BDB#Sta|Sta]]<sup>§ 178 a</sup> (read 8 for 18) **pronoun 2 singular masculine** thou (for ***anta***, see above; compare <span class="bdbLangHebrew">‎נָתַתָּ‎</span> for <span class="bdbLangHebrew">‎נָתַנְתָּ‎</span>) [[Gen.3.11|Gen 3:11]]; [[Gen.3.19|Gen 3:19]] + often written <span class="bdbLangHebrew">‎אַתָּ‎</span> [[1Sam.24.19|1Sam 24:19]]; [[Ps.6.4|Ps 6:4]]; [[Job.1.10|Job 1:10]]; [[Eccl.7.22|Eccl 7:22]]; [[Neh.9.6|Neh 9:6]]. Appended to a verb for emphasis, [[Exod.18.19|Exod 18:19]] (twice in verse); [[1Sam.17.56|1Sam 17:56]] <span class="bdbLangHebrew">‎שְׁאַל אַתָּה‎</span> inquire ***thou***, [[1Sam.20.8|1Sam 20:8]]; [[1Sam.22.18|1Sam 22:18]]; [[Isa.43.26|Isa 43:26]] <span class="bdbLangHebrew">‎סַפֵּר אַתָּה‎</span>. Added for the purpose of strengthening a genitive or accusative suffix [[1Kgs.21.19|1Kgs 21:19]]; [[Prov.22.19|Prov 22:19]] ([[BDB#Ges|Ges]]<sup>«GKC:135»§ 135</sup>.2). 
+ <span class="bdbLangHebrew">‎אַתָּ֫ה‎</span>, <span class="bdbLangHebrew">‎אָ֑תָּה‎</span> (so regularly; but 26-7 t., with different disjunctive accents, <span class="bdbLangHebrew">‎׃אַ֑תָּה‎</span> see [[BDB#Fr|Fr]]<sup>MM 228</sup>; [[BDB#Sta|Sta]]<sup>§ 178 a</sup> (read 8 for 18) **pronoun 2 singular masculine** thou (for ***anta***, see above; compare <span class="bdbLangHebrew">‎נָתַתָּ‎</span> for <span class="bdbLangHebrew">‎נָתַנְתָּ‎</span>) [[Gen.3.11|Gen 3:11]]; [[Gen.3.19|Gen 3:19]] + often written <span class="bdbLangHebrew">‎אַתָּ‎</span> [[1Sam.24.18|1Sam 24:19]]**\***; [[Ps.6.3|Ps 6:4]]**\***; [[Job.1.10|Job 1:10]]; [[Eccl.7.22|Eccl 7:22]]; [[Neh.9.6|Neh 9:6]]. Appended to a verb for emphasis, [[Exod.18.19|Exod 18:19]] (twice in verse); [[1Sam.17.56|1Sam 17:56]] <span class="bdbLangHebrew">‎שְׁאַל אַתָּה‎</span> inquire ***thou***, [[1Sam.20.8|1Sam 20:8]]; [[1Sam.22.18|1Sam 22:18]]; [[Isa.43.26|Isa 43:26]] <span class="bdbLangHebrew">‎סַפֵּר אַתָּה‎</span>. Added for the purpose of strengthening a genitive or accusative suffix [[1Kgs.21.19|1Kgs 21:19]]; [[Prov.22.19|Prov 22:19]] ([[BDB#Ges|Ges]]<sup>«GKC:135»§ 135</sup>.2). 
 
  <span class="bdbLangHebrew">‎אתי‎</span>, i.e. <span class="bdbLangHebrew">‎אַתִּי‎</span>, the older &amp; more original form of <span class="bdbLangHebrew">‎אַתְּ‎</span> ***thou*** (feminine), preserved, probably dialectically, 7 t. in [[BDB#Kt|Kt]], [[Judg.17.2|Judg 17:2]]; [[1Kgs.14.2|1Kgs 14:2]]; [[2Kgs.4.16|2Kgs 4:16]]; [[2Kgs.4.23|2Kgs 4:23]]; [[2Kgs.8.1|2Kgs 8:1]]; [[Jer.4.30|Jer 4:30]]; [[Ezek.36.13|Ezek 36:13]]. (V. above as in Syriac, the <span class="bdbLangHebrew">‎י‎</span> may not have been fully sounded: the Masoretes direct <span class="bdbLangHebrew">‎אַתְּ‎</span> to be everywhere read.) 
 
@@ -17,12 +17,12 @@
 | Numbers | [[Num.11.15\|11:15]] |
 | Deuteronomy | [[Deut.5.24\|5:24]] |
 | Judges | [[Judg.6.31\|6:31]] · [[Judg.15.12\|15:12]] · [[Judg.17.2\|17:2]] |
-| 1 Samuel | [[1Sam.17.56\|17:56]] · [[1Sam.20.8\|20:8]] · [[1Sam.22.18\|22:18]] · [[1Sam.24.19\|24:19]] |
+| 1 Samuel | [[1Sam.17.56\|17:56]] · [[1Sam.20.8\|20:8]] · [[1Sam.22.18\|22:18]] · [[1Sam.24.18\|24:19]]**\*** |
 | 1 Kings | [[1Kgs.14.2\|14:2]] · [[1Kgs.21.19\|21:19]] |
 | 2 Kings | [[2Kgs.4.16\|4:16]] · [[2Kgs.4.23\|4:23]] · [[2Kgs.8.1\|8:1]] |
 | Nehemiah | [[Neh.9.6\|9:6]] |
 | Job | [[Job.1.10\|1:10]] |
-| Psalms | [[Ps.6.4\|6:4]] |
+| Psalms | [[Ps.6.3\|6:4]]**\*** |
 | Proverbs | [[Prov.22.19\|22:19]] |
 | Ecclesiastes | [[Eccl.7.22\|7:22]] |
 | Isaiah | [[Isa.43.26\|43:26]] |

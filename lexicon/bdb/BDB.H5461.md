@@ -2,7 +2,7 @@
 
 **1.** ***prefects*** of Assyr. and Babylonian [[Ezek.23.6|Ezek 23:6]]; [[Ezek.23.12|Ezek 23:12]]; [[Ezek.23.23|Ezek 23:23]]; [[Jer.51.23|Jer 51:23]]; [[Jer.51.57|Jer 51:57]] (all + <span class="bdbLangHebrew">‎פַּחוֺת‎</span>), [[Isa.41.25|Isa 41:25]], of king of Medes [[Jer.51.28|Jer 51:28]] (+ <span class="bdbLangHebrew">‎פַּחוֺת‎</span>). 
 
-**2.** ***petty rulers, officials*** of Judah (only Nehemiah Ezra in sources): distinguished from <span class="bdbLangHebrew">‎חֹרִים‎</span> ***nobles*** [[Neh.2.16|Neh 2:16]]; [[Neh.4.8|Neh 4:8]]; [[Neh.4.13|Neh 4:13]]; [[Neh.5.7|Neh 5:7]]; [[Neh.7.5|Neh 7:5]] alone, [[Neh.2.16|Neh 2:16]]; [[Neh.12.40|Neh 12:40]]; [[Neh.13.11|Neh 13:11]] + <span class="bdbLangHebrew">‎יְהוּדִים‎</span> [[Neh.5.17|Neh 5:17]] (see also [[Neh.2.16|Neh 2:16]]); + <span class="bdbLangHebrew">‎שָׂרִים‎</span> [[Ezra.9.2|Ezra 9:2]]. compare Biblical Aramaic <span class="bdbLangAramaic">‎סְגַן‎</span>. 
+**2.** ***petty rulers, officials*** of Judah (only Nehemiah Ezra in sources): distinguished from <span class="bdbLangHebrew">‎חֹרִים‎</span> ***nobles*** [[Neh.2.16|Neh 2:16]]; [[Neh.4.14|Neh 4:8]]**\***; [[Neh.4.19|Neh 4:13]]**\***; [[Neh.5.7|Neh 5:7]]; [[Neh.7.5|Neh 7:5]] alone, [[Neh.2.16|Neh 2:16]]; [[Neh.12.40|Neh 12:40]]; [[Neh.13.11|Neh 13:11]] + <span class="bdbLangHebrew">‎יְהוּדִים‎</span> [[Neh.5.17|Neh 5:17]] (see also [[Neh.2.16|Neh 2:16]]); + <span class="bdbLangHebrew">‎שָׂרִים‎</span> [[Ezra.9.2|Ezra 9:2]]. compare Biblical Aramaic <span class="bdbLangAramaic">‎סְגַן‎</span>. 
 
 
 
@@ -11,7 +11,7 @@
 | Book | Refs |
 | - | - |
 | Ezra | [[Ezra.9.2\|9:2]] |
-| Nehemiah | [[Neh.2.16\|2:16]] · [[Neh.4.8\|4:8]] · [[Neh.4.13\|4:13]] · [[Neh.5.7\|5:7]] · [[Neh.5.17\|5:17]] · [[Neh.7.5\|7:5]] · [[Neh.12.40\|12:40]] · [[Neh.13.11\|13:11]] |
+| Nehemiah | [[Neh.2.16\|2:16]] · [[Neh.4.14\|4:8]]**\*** · [[Neh.4.19\|4:13]]**\*** · [[Neh.5.7\|5:7]] · [[Neh.5.17\|5:17]] · [[Neh.7.5\|7:5]] · [[Neh.12.40\|12:40]] · [[Neh.13.11\|13:11]] |
 | Isaiah | [[Isa.41.25\|41:25]] |
 | Jeremiah | [[Jer.51.23\|51:23]] · [[Jer.51.28\|51:28]] · [[Jer.51.57\|51:57]] · [[Jer.51.58\|51:58]] |
 | Ezekiel | [[Ezek.23.6\|23:6]] · [[Ezek.23.12\|23:12]] · [[Ezek.23.23\|23:23]] |

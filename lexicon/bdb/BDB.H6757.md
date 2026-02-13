@@ -5,8 +5,8 @@
 **2.** figurative
 
 
-$\quad$ $\quad$ **a.** of distress [[Jer.13.16|Jer 13:16]]; [[Ps.107.10|Ps 107:10]]; [[Ps.107.14|Ps 107:14]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎אֶרֶץ צ‎</span> [[Isa.9.1|Isa 9:1]]. 
-$\quad$ $\quad$ **b.** of extreme danger [[Jer.2.6|Jer 2:6]]; [[Ps.23.4|Ps 23:4]]; [[Ps.44.20|Ps 44:20]]. 
+$\quad$ $\quad$ **a.** of distress [[Jer.13.16|Jer 13:16]]; [[Ps.107.10|Ps 107:10]]; [[Ps.107.14|Ps 107:14]] <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎אֶרֶץ צ‎</span> [[Isa.9.2|Isa 9:1]]**\***. 
+$\quad$ $\quad$ **b.** of extreme danger [[Jer.2.6|Jer 2:6]]; [[Ps.23.4|Ps 23:4]]; [[Ps.44.19|Ps 44:20]]**\***. 
 
 **3.** characterizing world of the dead, <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎אֶרֶץ חשֶׁךְ וצ‎</span> [[Job.10.21|Job 10:21]], <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎כְּמוֺ אֹפֶל צ‎</span> v[[Job.10.22|Job 10:22]] (text dubious, see [[BDB#Bu|Bu]] [[BDB#Du|Du]]); <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎וְשַׁעֲרֵי צ‎</span> [[Job.38.17|Job 38:17]] ([[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">πυλωροὶ δὲ ᾅδου</span>; \|\| <span class="bdbLangHebrew">‎שַׁעֲרֵימָֿ֑וֶת‎</span>). 
 
@@ -17,8 +17,8 @@ $\quad$ $\quad$ **b.** of extreme danger [[Jer.2.6|Jer 2:6]]; [[Ps.23.4|Ps 23:4]
 | Book | Refs |
 | - | - |
 | Job | [[Job.3.5\|3:5]] · [[Job.10.21\|10:21]] · [[Job.10.22\|10:22]] · [[Job.12.22\|12:22]] · [[Job.16.16\|16:16]] · [[Job.24.17\|24:17]] · [[Job.28.3\|28:3]] · [[Job.34.22\|34:22]] · [[Job.38.17\|38:17]] |
-| Psalms | [[Ps.23.4\|23:4]] · [[Ps.44.20\|44:20]] · [[Ps.107.10\|107:10]] · [[Ps.107.14\|107:14]] |
-| Isaiah | [[Isa.9.1\|9:1]] |
+| Psalms | [[Ps.23.4\|23:4]] · [[Ps.44.19\|44:20]]**\*** · [[Ps.107.10\|107:10]] · [[Ps.107.14\|107:14]] |
+| Isaiah | [[Isa.9.2\|9:1]]**\*** |
 | Jeremiah | [[Jer.2.6\|2:6]] · [[Jer.13.16\|13:16]] |
 | Amos | [[Amos.5.8\|5:8]] |
 

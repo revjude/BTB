@@ -1,6 +1,6 @@
  [<span class="bdbLangHebrew">‎מַעֲבָר‎</span>] **noun [masculine]** ==ford, pass, passing==; — only construct: 
 
-**1.** <span class="bdbLangHebrew">‎מַעֲבַר יַבֹּק‎</span> [[Gen.32.23|Gen 32:23]] ([[BDB#J|J]]) ***the ford of*** (the) ***Jabbok***. 
+**1.** <span class="bdbLangHebrew">‎מַעֲבַר יַבֹּק‎</span> [[Gen.32.22|Gen 32:23]]**\*** ([[BDB#J|J]]) ***the ford of*** (the) ***Jabbok***. 
 
 **2.** ***pass***, <span class="bdbLangHebrew">‎מַעֲבַר מִכְמָשׂ‎</span> [[1Sam.13.23|1Sam 13:23]] ***the pass of M***. 
 
@@ -12,7 +12,7 @@
 
 | Book | Refs |
 | - | - |
-| Genesis | [[Gen.32.23\|32:23]] |
+| Genesis | [[Gen.32.22\|32:23]]**\*** |
 | 1 Samuel | [[1Sam.13.23\|13:23]] |
 | Isaiah | [[Isa.30.32\|30:32]] |
 

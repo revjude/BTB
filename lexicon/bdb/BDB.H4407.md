@@ -4,7 +4,7 @@
 
 **2.** citadel in Jerusalem <span class="bdbLangHebrew">‎הַמִּלּוֺא‎</span> [[2Sam.5.9|2Sam 5:9]]; [[1Kgs.9.15|1Kgs 9:15]]; [[1Kgs.9.24|1Kgs 9:24]]; [[1Kgs.11.27|1Kgs 11:27]]; [[1Chr.11.8|1Chr 11:8]]; [[2Chr.32.5|2Chr 32:5]]. [[BDB#Sept|ᵐ5]] usually <span class="bdbLangGreek">ἡ ἄκρα</span> ([[BDB#A|A]] [[1Kgs.9.15|1Kgs 9:15]]; [[1Kgs.9.24|1Kgs 9:24]] also <span class="bdbLangGreek">Μελω</span>). 
 
-**3.** <span class="bdbLangHebrew">‎בֵּית מִלֹּא‎</span> [[2Kgs.12.21|2Kgs 12:21]] (+ <span class="bdbLangHebrew">‎הַיֹּרֵד סִלָּא‎</span>) dubious; = 
+**3.** <span class="bdbLangHebrew">‎בֵּית מִלֹּא‎</span> [[2Kgs.12.20|2Kgs 12:21]]**\*** (+ <span class="bdbLangHebrew">‎הַיֹּרֵד סִלָּא‎</span>) dubious; = 
 
 **2.** ? [[BDB#Sept|ᵐ5]] <span class="bdbLangGreek">οἴκῳ Μααλω</span>. 
 
@@ -17,7 +17,7 @@
 | Judges | [[Judg.9.6\|9:6]] · [[Judg.9.20\|9:20]] |
 | 2 Samuel | [[2Sam.5.9\|5:9]] |
 | 1 Kings | [[1Kgs.9.15\|9:15]] · [[1Kgs.9.24\|9:24]] · [[1Kgs.11.27\|11:27]] |
-| 2 Kings | [[2Kgs.12.21\|12:21]] |
+| 2 Kings | [[2Kgs.12.20\|12:21]]**\*** |
 | 1 Chronicles | [[1Chr.11.8\|11:8]] |
 | 2 Chronicles | [[2Chr.32.5\|32:5]] |
 

@@ -181,7 +181,7 @@
 
 - Paul and Timothy [[Acts.16.1|Ac 16:1]]-[[Acts.16.4|4]]
 
-- Paul and [[Titus.2|Titus 2]][[Col.8.19|Co 8:19]],[[Col.8.23|23]]
+- Paul and [[Titus.2|Titus 2]][[2Cor.8.19|2Co 8:19]],[[2Cor.8.23|23]]
 
 - Timothy and Erastus [[Acts.19.22|Ac 19:22]]
 
@@ -230,8 +230,6 @@
 - Moses [[Deut.4.26|De 4:26]]; [[Deut.30.19|30:19]]; [[Heb.3.2|Heb 3:2]],[[Heb.3.5|5]]
 
 - Micaiah [[2Chr.18.12|2Ch 18:12]],[[2Chr.18.13|13]]
-
-- [[PrAzar.1.2|Azariah 2]]Ch 26:16-20
 
 - Balaam [[Num.22.18|Nu 22:18]],[[Num.22.38|38]]; [[Num.23.8|23:8]],[[Num.23.12|12]]; [[Num.24.12|24:12]]-[[Num.24.14|14]]
 
@@ -383,7 +381,7 @@
 
 → ZEALOUS
 
-- [[Titus.2|Titus 2]][[Col.8.16|Co 8:16]],[[Col.8.17|17]]
+- [[Titus.2|Titus 2]][[2Cor.8.16|2Co 8:16]],[[2Cor.8.17|17]]
 
 - Epaphroditus [[Phil.2.25|Php 2:25]]-[[Phil.2.30|30]]
 

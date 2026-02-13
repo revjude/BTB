@@ -8,7 +8,7 @@
 
 **3.** ***stories*** of heaven [[Amos.9.6|Amos 9:6]]. 
 
-**4.** ***ascent***, <span class="bdbLangHebrew">‎מִבָּבֶל‎</span> [[Ezra.7.9|Ezra 7:9]]. **5**. <span class="bdbLangHebrew">‎(ל)הַמַּעֲלוֺת‎</span> <span class="bdbLangHebrew">‎שִׁיר‎</span> song of ascents, to the three great pilgrim feasts, i.e. to be sung on way up to Jerusalem, titles of Psalms 120-134 + [[Ps.84.6|Ps 84:6]] [[BDB#We|We]] and others — <span class="bdbLangHebrew">‎כְּתוֺר האדם המעלה‎</span> [[1Chr.17.17|1Chr 17:17]] is corrupt, see Commentaries on the passage (and on \|\| [[2Sam.7.19|2Sam 7:19]]). 
+**4.** ***ascent***, <span class="bdbLangHebrew">‎מִבָּבֶל‎</span> [[Ezra.7.9|Ezra 7:9]]. **5**. <span class="bdbLangHebrew">‎(ל)הַמַּעֲלוֺת‎</span> <span class="bdbLangHebrew">‎שִׁיר‎</span> song of ascents, to the three great pilgrim feasts, i.e. to be sung on way up to Jerusalem, titles of Psalms 120-134 + [[Ps.84.5|Ps 84:6]]**\*** [[BDB#We|We]] and others — <span class="bdbLangHebrew">‎כְּתוֺר האדם המעלה‎</span> [[1Chr.17.17|1Chr 17:17]] is corrupt, see Commentaries on the passage (and on \|\| [[2Sam.7.19|2Sam 7:19]]). 
 
 
 
@@ -24,7 +24,7 @@
 | 2 Chronicles | [[2Chr.9.18\|9:18]] · [[2Chr.9.19\|9:19]] |
 | Ezra | [[Ezra.7.9\|7:9]] |
 | Nehemiah | [[Neh.3.15\|3:15]] · [[Neh.12.37\|12:37]] |
-| Psalms | [[Ps.84.6\|84:6]] |
+| Psalms | [[Ps.84.5\|84:6]]**\*** |
 | Isaiah | [[Isa.38.8\|38:8]] |
 | Ezekiel | [[Ezek.11.5\|11:5]] · [[Ezek.40.6\|40:6]] · [[Ezek.40.49\|40:49]] · [[Ezek.43.17\|43:17]] |
 | Amos | [[Amos.9.6\|9:6]] |

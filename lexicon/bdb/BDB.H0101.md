@@ -2,7 +2,7 @@
 
 **1.** ***basins*** used in ritual <span class="bdbLangHebrew">‎אֲגָנֹת‎</span> [[Exod.24.6|Exod 24:6]] ([[BDB#E|E]]). 
 
-**2.** <span class="bdbLangHebrew">‎אַגַּן הַסַּהַר‎</span>, simile of curves of body [[Song.7.3|Song 7:3]]. 
+**2.** <span class="bdbLangHebrew">‎אַגַּן הַסַּהַר‎</span>, simile of curves of body [[Song.7.2|Song 7:3]]**\***. 
 
 **3.** metaphor of family of Eliakim. <span class="bdbLangHebrew">‎כְּלֵי הָאַגָּנוֺת‎</span> = ***basin-vessels*** [[Isa.22.24|Isa 22:24]] (= bowl-shaped vessels [[BDB#Che|Che]]) opposed to <span class="bdbLangHebrew">‎כְּלֵי‎</span> <span class="bdbLangHebrew">‎הַנְּכָלִים‎</span>; both \|\| <span class="bdbLangHebrew">‎כְּלֵי הַקָּטָן‎</span>. 
 
@@ -13,6 +13,6 @@
 | Book | Refs |
 | - | - |
 | Exodus | [[Exod.24.6\|24:6]] |
-| Song of Solomon | [[Song.7.3\|7:3]] |
+| Song of Solomon | [[Song.7.2\|7:3]]**\*** |
 | Isaiah | [[Isa.22.24\|22:24]] |
 

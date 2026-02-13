@@ -253,8 +253,6 @@
 
 - Ammon [[Judg.10.6|Jud 10:6]]-[[Judg.10.18|18]]; [[Judg.11.1|11:1]]-[[Judg.11.33|33]]
 
-- For God' s favor under the reproofs of [[PrAzar.1.2|Azariah 2]]Ch 15:1-15
-
 - From Babylonian bondage  [[Neh.9.27|Ne 9:27]]
 
 - Gideon, asking for the token of dew [[Judg.6.36|Jud 6:36]]-[[Judg.6.40|40]]

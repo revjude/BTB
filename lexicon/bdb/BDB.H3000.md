@@ -8,7 +8,7 @@
 
 **4.** father of the prophet Zechariah [[Zech.1.1|Zech 1:1]] = <span class="bdbLangHebrew">‎בֶּרֶכְיָהוּ‎</span> v[[Zech.1.7|Zech 1:7]] <span class="bdbLangHebrew">‎בֶּרֶכְיָהוּ‎</span> also 
 
-**5.** father of Asaph [[1Chr.6.24|1Chr 6:24]]; [[1Chr.15.17|1Chr 15:17]]. 
+**5.** father of Asaph [[1Chr.6.39|1Chr 6:24]]**\***; [[1Chr.15.17|1Chr 15:17]]. 
 
 **6.** Ephraimite chief [[2Chr.28.12|2Chr 28:12]]. 
 
@@ -18,7 +18,7 @@
 
 | Book | Refs |
 | - | - |
-| 1 Chronicles | [[1Chr.3.20\|3:20]] · [[1Chr.6.24\|6:24]] · [[1Chr.9.16\|9:16]] · [[1Chr.15.17\|15:17]] · [[1Chr.15.23\|15:23]] |
+| 1 Chronicles | [[1Chr.3.20\|3:20]] · [[1Chr.6.39\|6:24]]**\*** · [[1Chr.9.16\|9:16]] · [[1Chr.15.17\|15:17]] · [[1Chr.15.23\|15:23]] |
 | 2 Chronicles | [[2Chr.28.12\|28:12]] |
 | Nehemiah | [[Neh.3.4\|3:4]] · [[Neh.3.30\|3:30]] · [[Neh.6.18\|6:18]] |
 | Isaiah | [[Isa.8.2\|8:2]] |

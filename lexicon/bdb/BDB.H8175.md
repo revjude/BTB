@@ -6,7 +6,7 @@
 
  II. [<span class="bdbLangHebrew">‎שָׂעַר‎</span>] **verb** ==sweep or whirl away== (of storm-wind) (=  <span class="bdbLangHebrew">‎סָעַר‎</span>, q. v.; Assyrian <abbr title="transliteration"><u>***šâru***</u></abbr>, ***wind***, [[BDB#Dl|Dl]]<sup>HWB 635</sup>; &gt;[[BDB#Thes|Thes]]<sup>1334</sup> compare I.  <span class="bdbLangHebrew">‎שׂער‎</span>); — 
 
-**Qal** ***Imperfect*** 3 masculine singular suffix <span class="bdbLangHebrew">‎יִשְׂעָרֶנּוּ‎</span> [[Ps.58.10|Ps 58:10]] figurative ***he*** (<span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>) ***shall sweep it away***. **Niph\`al** ***Perfect*** 3 feminine singular impersonal <span class="bdbLangHebrew">‎נִשְׂעֲרָה‎</span> [[Ps.50.3|Ps 50:3]] round about him ***it is tempestuous*** exceedingly. **Pi\`el** ***Imperfect*** 3 masculine singular suffix <span class="bdbLangHebrew">‎וִישַׂעֲרֵ֫הוּ‎</span> [[Job.27.21|Job 27:21]] ***and it*** [an east wind] ***shall whirl him away*** from (<span class="bdbLangHebrew">‎מִן‎</span>) his place. **Hitph.** ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎וְיִשְׂתָּעֵר‎</span> <span class="bdbLangHebrew">‎עָלָיו‎</span> [[Dan.11.40|Dan 11:40]] the king ***shall storm against him***. 
+**Qal** ***Imperfect*** 3 masculine singular suffix <span class="bdbLangHebrew">‎יִשְׂעָרֶנּוּ‎</span> [[Ps.58.9|Ps 58:10]]**\*** figurative ***he*** (<span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎י‎</span>) ***shall sweep it away***. **Niph\`al** ***Perfect*** 3 feminine singular impersonal <span class="bdbLangHebrew">‎נִשְׂעֲרָה‎</span> [[Ps.50.3|Ps 50:3]] round about him ***it is tempestuous*** exceedingly. **Pi\`el** ***Imperfect*** 3 masculine singular suffix <span class="bdbLangHebrew">‎וִישַׂעֲרֵ֫הוּ‎</span> [[Job.27.21|Job 27:21]] ***and it*** [an east wind] ***shall whirl him away*** from (<span class="bdbLangHebrew">‎מִן‎</span>) his place. **Hitph.** ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎וְיִשְׂתָּעֵר‎</span> <span class="bdbLangHebrew">‎עָלָיו‎</span> [[Dan.11.40|Dan 11:40]] the king ***shall storm against him***. 
 
 
 
@@ -22,7 +22,7 @@
 | - | - |
 | Deuteronomy | [[Deut.32.17\|32:17]] |
 | Job | [[Job.27.21\|27:21]] |
-| Psalms | [[Ps.50.3\|50:3]] · [[Ps.58.10\|58:10]] |
+| Psalms | [[Ps.50.3\|50:3]] · [[Ps.58.9\|58:10]]**\*** |
 | Jeremiah | [[Jer.2.12\|2:12]] |
 | Ezekiel | [[Ezek.27.35\|27:35]] · [[Ezek.32.10\|32:10]] |
 | Daniel | [[Dan.11.40\|11:40]] |

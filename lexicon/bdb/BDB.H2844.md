@@ -1,4 +1,4 @@
- I. [<span class="bdbLangHebrew">‎חַת‎</span>] **noun masculine**<sup>[[Gen.9.2|Gen 9:2]]</sup> ==terror, fear==; — <span class="bdbLangHebrew">‎חָ֑ת‎</span> [[Job.41.25|Job 41:25]], <span class="bdbLangHebrew">‎חִתְּכֶם‎</span> [[Gen.9.2|Gen 9:2]] — with suffix as object genitive, [[Gen.9.2|Gen 9:2]] ***terror of you*** (\|\| <span class="bdbLangHebrew">‎מוֺרַאֲכֶם‎</span>); in description of crocodile with negative, <span class="bdbLangHebrew">‎הֶעָשׂוּ לִבְלִיחָֿ֑ת‎</span> [[Job.41.25|Job 41:25]] ***one made for fearlessness***. 
+ I. [<span class="bdbLangHebrew">‎חַת‎</span>] **noun masculine**<sup>[[Gen.9.2|Gen 9:2]]</sup> ==terror, fear==; — <span class="bdbLangHebrew">‎חָ֑ת‎</span> [[Job.41.33|Job 41:25]]**\***, <span class="bdbLangHebrew">‎חִתְּכֶם‎</span> [[Gen.9.2|Gen 9:2]] — with suffix as object genitive, [[Gen.9.2|Gen 9:2]] ***terror of you*** (\|\| <span class="bdbLangHebrew">‎מוֺרַאֲכֶם‎</span>); in description of crocodile with negative, <span class="bdbLangHebrew">‎הֶעָשׂוּ לִבְלִיחָֿ֑ת‎</span> [[Job.41.33|Job 41:25]]**\*** ***one made for fearlessness***. 
 
  II. [<span class="bdbLangHebrew">‎חַת‎</span>] **adjective** ==shattered, dismayed== — masculine plural <span class="bdbLangHebrew">‎חַתִּים‎</span>: — 
 
@@ -14,7 +14,7 @@
 | - | - |
 | Genesis | [[Gen.9.2\|9:2]] |
 | 1 Samuel | [[1Sam.2.4\|2:4]] |
-| Job | [[Job.41.25\|41:25]] |
+| Job | [[Job.41.33\|41:25]]**\*** |
 | Jeremiah | [[Jer.46.5\|46:5]] |
 | Ezekiel | [[Ezek.32.30\|32:30]] |
 

@@ -53,7 +53,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Josh.17.7|7]]**<span class="e
 
 [^22]: The Mediterranean
 
-[^23]: [[Josh.16|Josh 16:9]]; [[1Chr.7|1Chr 7:29]]; Beth–shean, the Scythopolis of the Greek and Roman writers, was situated in the plain of Jordan, west of that river, 120 furlongs (south) from Tiberias, according to Josephus, and 600 furlongs (north) from Jerusalem ([[2Macc.12|2Macc 12:29]]). It was the largest city of the Decapolis, and the only one on that side of Jordan. It is now called Bisan, 8 hours or 24 miles from Tiberias; and described by Dr. Richardson, exclusive of its ruins, as a "collection of miserable hovels, containing 200 inhabitants." [[1Sam.31|1Sam 31:10]], [[1Sam.31|1Sam 31:12]], Beth–shan, [[1Kgs.4|1Kgs 4:12]]
+[^23]: [[Josh.16|Josh 16:9]]; [[1Chr.7|1Chr 7:29]]; Beth–shean, the Scythopolis of the Greek and Roman writers, was situated in the plain of Jordan, west of that river, 120 furlongs (south) from Tiberias, according to Josephus, and 600 furlongs (north) from Jerusalem (2Macc 12:29). It was the largest city of the Decapolis, and the only one on that side of Jordan. It is now called Bisan, 8 hours or 24 miles from Tiberias; and described by Dr. Richardson, exclusive of its ruins, as a "collection of miserable hovels, containing 200 inhabitants." [[1Sam.31|1Sam 31:10]], [[1Sam.31|1Sam 31:12]], Beth–shan, [[1Kgs.4|1Kgs 4:12]]
 
 [^24]: [[2Kgs.9|2Kgs 9:27]]; [[1Chr.6|1Chr 6:70]], Bileam
 

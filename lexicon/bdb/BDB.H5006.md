@@ -8,7 +8,7 @@
 
  [<span class="bdbLangHebrew">‎נָצַץ‎</span>] **verb denominative** ==bloom, blossom== (Late Hebrew ***id.***; Jewish-Aramaic <span class="bdbLangAramaic">‎נְצַץ‎</span> ***id.***); — 
 
-**Hiph\`il** ***Perfect*** 3 plural <span class="bdbLangHebrew">‎הֵנֵ֫צוּ‎</span> [[Song.6.11|Song 6:11]] (no dagh., see [[BDB#Kö|Kö]]<sup>i. 381</sup> [[BDB#Ges|Ges]]<sup> § 67, 8, R. 11</sup>) the pomegranates ***have put forth blossoms***, so [[Song.7.13|Song 7:13]] ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎יָנֵאץ‎</span> [[Eccl.12.5|Eccl 12:5]] the almond-tree ***wears blossoms.*** 
+**Hiph\`il** ***Perfect*** 3 plural <span class="bdbLangHebrew">‎הֵנֵ֫צוּ‎</span> [[Song.6.11|Song 6:11]] (no dagh., see [[BDB#Kö|Kö]]<sup>i. 381</sup> [[BDB#Ges|Ges]]<sup> § 67, 8, R. 11</sup>) the pomegranates ***have put forth blossoms***, so [[Song.7.12|Song 7:13]]**\*** ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎יָנֵאץ‎</span> [[Eccl.12.5|Eccl 12:5]] the almond-tree ***wears blossoms.*** 
 
 
 
@@ -23,7 +23,7 @@
 | Psalms | [[Ps.10.3\|10:3]] · [[Ps.10.13\|10:13]] · [[Ps.74.10\|74:10]] · [[Ps.74.18\|74:18]] · [[Ps.107.11\|107:11]] |
 | Proverbs | [[Prov.1.30\|1:30]] · [[Prov.5.12\|5:12]] · [[Prov.15.5\|15:5]] |
 | Ecclesiastes | [[Eccl.12.5\|12:5]] |
-| Song of Solomon | [[Song.6.11\|6:11]] · [[Song.7.13\|7:13]] |
+| Song of Solomon | [[Song.6.11\|6:11]] · [[Song.7.12\|7:13]]**\*** |
 | Isaiah | [[Isa.5.24\|5:24]] · [[Isa.52.5\|52:5]] · [[Isa.60.14\|60:14]] |
 | Jeremiah | [[Jer.14.21\|14:21]] · [[Jer.23.17\|23:17]] · [[Jer.33.24\|33:24]] |
 | Lamentations | [[Lam.2.6\|2:6]] |

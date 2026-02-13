@@ -11,7 +11,7 @@
 
 - By Apollos [[Acts.19.1|Ac 19:1]]
 
-- By [[Titus.2|Titus 2]][[Col.8.16|Co 8:16]],[[Col.8.17|17]]; [[Col.12.18|12:18]]
+- By [[Titus.2|Titus 2]][[2Cor.8.16|2Co 8:16]],[[2Cor.8.17|17]]; [[2Cor.12.18|12:18]]
 
 → By Erastus, a Christian of [[Rom.16.23|Ro 16:23]]; [[2Tim.4.20|2Ti 4:20]]
 

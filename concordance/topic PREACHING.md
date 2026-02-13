@@ -23,8 +23,6 @@
 
 → Effective
 
-- By [[PrAzar.1.2|Azariah 2]]Ch 15:1-15
-
 - By Jonah [[Jonah.3|Jon 3]]
 
 - By Peter and other apostles [[Acts.2.14|Ac 2:14]]-[[Acts.2.41|41]]

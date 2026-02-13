@@ -4,7 +4,7 @@
 
 **2.** ***bring out, elicit, obtain***, with accusative; <span class="bdbLangHebrew">‎יָפִיק‎</span> [[Prov.3.13|Prov 3:13]], + <span class="bdbLangHebrew">‎מִן‎</span> person, <span class="bdbLangHebrew">‎וַיָּפֶק‎</span> [[Prov.8.35|Prov 8:35]]; [[Prov.18.22|Prov 18:22]] (all \|\| <span class="bdbLangHebrew">‎מצא‎</span>), [[Prov.12.2|Prov 12:2]]. 
 
-**3.** <span class="bdbLangHebrew">‎זְמָמוֺ אַלתָּֿפֵק‎</span> [[Ps.140.9|Ps 140:9]] ***his device do not promote.*** 
+**3.** <span class="bdbLangHebrew">‎זְמָמוֺ אַלתָּֿפֵק‎</span> [[Ps.140.8|Ps 140:9]]**\*** ***his device do not promote.*** 
 
 
 
@@ -12,7 +12,7 @@
 
 | Book | Refs |
 | - | - |
-| Psalms | [[Ps.140.9\|140:9]] · [[Ps.144.13\|144:13]] |
+| Psalms | [[Ps.140.8\|140:9]]**\*** · [[Ps.144.13\|144:13]] |
 | Proverbs | [[Prov.3.13\|3:13]] · [[Prov.8.35\|8:35]] · [[Prov.12.2\|12:2]] · [[Prov.18.22\|18:22]] |
 | Isaiah | [[Isa.58.10\|58:10]] |
 

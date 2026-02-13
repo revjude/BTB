@@ -9,5 +9,3 @@
 
 4. The Ahitub mentioned in [[1Chr.6.8|1Ch 6:8]],[[1Chr.6.11|11]],[[1Chr.6.12|12]]
 
-- Is probably identical with the last described above, or else  he is confused with [[PrAzar.1.2|Azariah 2]]Ch 31:10
-

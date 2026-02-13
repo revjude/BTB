@@ -8,7 +8,7 @@
 
 **3.** ***be anxiously careful*** <span class="bdbLangHebrew">‎חָרַדְתְּ אֵלֵנוּ‎</span> <span class="bdbLangHebrew">‎אתכֿל הַחֲרָדָה הַזּאֹת‎</span> [[2Kgs.4.13|2Kgs 4:13]]. 
 
-**4.** with prepositions pregnantly = ***go or come trembling*** [[1Sam.13.7|1Sam 13:7]] (followed by <span class="bdbLangHebrew">‎מֵאחריו‎</span> [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> [[BDB#We|We]] [[BDB#Dr|Dr]]) [[Gen.42.28|Gen 42:28]] ([[BDB#E|E]]; followed by <span class="bdbLangHebrew">‎אֶלֿ‎</span>) [[1Sam.16.4|1Sam 16:4]] (followed by <span class="bdbLangHebrew">‎לִקְרָאתוֺ‎</span>) so [[1Sam.21.2|1Sam 21:2]], [[Hos.11.10|Hos 11:10]] (<span class="bdbLangHebrew">‎מִיָּם‎</span>) v[[Hos.11.11|Hos 11:11]] (<span class="bdbLangHebrew">‎מִמִּצְרַיִם‎</span>). **Hiph\`il** ***Perfect*** <span class="bdbLangHebrew">‎הֶחֱרִיד‎</span> [[Judg.8.12|Judg 8:12]], <span class="bdbLangHebrew">‎וְּהַחֲרַדְתִּ֫י‎</span> [[2Sam.17.2|2Sam 17:2]] ***Participle*** <span class="bdbLangHebrew">‎מַחֲרִיד‎</span> [[Lev.6.26|Lev 6:26]] + 11 t.; ***Infinitive construct*** <span class="bdbLangHebrew">‎הַחֲרִיד‎</span> [[Ezek.30.9|Ezek 30:9]]; [[Zech.2.4|Zech 2:4]] — ***drive in terror, rout*** an army, followed by accusative [[Judg.8.12|Judg 8:12]]; [[Ezek.30.9|Ezek 30:9]]; [[Zech.2.4|Zech 2:4]] compare [[2Sam.17.2|2Sam 17:2]] ([[BDB#We|We]] proposes <span class="bdbLangHebrew">‎החרידו‎</span> [[Hos.5.8|Hos 5:8]] ***'setzt Benjamin in Schrecken,'*** for [[BDB#MT|ᵑ0]] <span class="bdbLangHebrew">‎אַחֲרֶיךָ‎</span>); in ***Participle*** absolute, only in <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎וְאֵין מ‎</span>; ***and none shall terrify***, i.e. disturb the peace of those reposing — <span class="bdbLangHebrew">‎שׁכב‎</span>,<span class="bdbLangHebrew">‎שׁקט‎</span>, <span class="bdbLangHebrew">‎רבץ‎</span>, <span class="bdbLangHebrew">‎ישׁב‎</span>, <span class="bdbLangHebrew">‎ישׁב לָבֶטַחִ‎</span> — in the promised land [[Lev.26.6|Lev 26:6]], so after captivity [[Jer.30.10|Jer 30:10]] = [[Jer.46.27|Jer 46:27]], also [[Ezek.34.28|Ezek 34:28]]; [[Ezek.39.26|Ezek 39:26]]; [[Mic.4.4|Mic 4:4]]; [[Zeph.3.13|Zeph 3:13]] of undisturbed peace of the righteous [[Job.11.19|Job 11:19]] peace of flocks in forsaken cities [[Isa.17.2|Isa 17:2]] undisturbed feeding on carrion by fowl and beast [[Deut.28.26|Deut 28:26]]; [[Jer.7.33|Jer 7:33]], undisturbed prowling of lions [[Nah.2.12|Nah 2:12]] (metaphor of Assyrians). 
+**4.** with prepositions pregnantly = ***go or come trembling*** [[1Sam.13.7|1Sam 13:7]] (followed by <span class="bdbLangHebrew">‎מֵאחריו‎</span> [[BDB#Sept|ᵐ5]]<sup>L</sup></lookup> [[BDB#We|We]] [[BDB#Dr|Dr]]) [[Gen.42.28|Gen 42:28]] ([[BDB#E|E]]; followed by <span class="bdbLangHebrew">‎אֶלֿ‎</span>) [[1Sam.16.4|1Sam 16:4]] (followed by <span class="bdbLangHebrew">‎לִקְרָאתוֺ‎</span>) so [[1Sam.21.1|1Sam 21:2]]**\***, [[Hos.11.10|Hos 11:10]] (<span class="bdbLangHebrew">‎מִיָּם‎</span>) v[[Hos.11.11|Hos 11:11]] (<span class="bdbLangHebrew">‎מִמִּצְרַיִם‎</span>). **Hiph\`il** ***Perfect*** <span class="bdbLangHebrew">‎הֶחֱרִיד‎</span> [[Judg.8.12|Judg 8:12]], <span class="bdbLangHebrew">‎וְּהַחֲרַדְתִּ֫י‎</span> [[2Sam.17.2|2Sam 17:2]] ***Participle*** <span class="bdbLangHebrew">‎מַחֲרִיד‎</span> [[Lev.6.26|Lev 6:26]] + 11 t.; ***Infinitive construct*** <span class="bdbLangHebrew">‎הַחֲרִיד‎</span> [[Ezek.30.9|Ezek 30:9]]; [[Zech.1.21|Zech 2:4]]**\*** — ***drive in terror, rout*** an army, followed by accusative [[Judg.8.12|Judg 8:12]]; [[Ezek.30.9|Ezek 30:9]]; [[Zech.1.21|Zech 2:4]]**\*** compare [[2Sam.17.2|2Sam 17:2]] ([[BDB#We|We]] proposes <span class="bdbLangHebrew">‎החרידו‎</span> [[Hos.5.8|Hos 5:8]] ***'setzt Benjamin in Schrecken,'*** for [[BDB#MT|ᵑ0]] <span class="bdbLangHebrew">‎אַחֲרֶיךָ‎</span>); in ***Participle*** absolute, only in <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎וְאֵין מ‎</span>; ***and none shall terrify***, i.e. disturb the peace of those reposing — <span class="bdbLangHebrew">‎שׁכב‎</span>,<span class="bdbLangHebrew">‎שׁקט‎</span>, <span class="bdbLangHebrew">‎רבץ‎</span>, <span class="bdbLangHebrew">‎ישׁב‎</span>, <span class="bdbLangHebrew">‎ישׁב לָבֶטַחִ‎</span> — in the promised land [[Lev.26.6|Lev 26:6]], so after captivity [[Jer.30.10|Jer 30:10]] = [[Jer.46.27|Jer 46:27]], also [[Ezek.34.28|Ezek 34:28]]; [[Ezek.39.26|Ezek 39:26]]; [[Mic.4.4|Mic 4:4]]; [[Zeph.3.13|Zeph 3:13]] of undisturbed peace of the righteous [[Job.11.19|Job 11:19]] peace of flocks in forsaken cities [[Isa.17.2|Isa 17:2]] undisturbed feeding on carrion by fowl and beast [[Deut.28.26|Deut 28:26]]; [[Jer.7.33|Jer 7:33]], undisturbed prowling of lions [[Nah.2.11|Nah 2:12]]**\*** (metaphor of Assyrians). 
 
 
 
@@ -22,7 +22,7 @@
 | Deuteronomy | [[Deut.28.26\|28:26]] |
 | Judges | [[Judg.8.12\|8:12]] |
 | Ruth | [[Ruth.3.8\|3:8]] |
-| 1 Samuel | [[1Sam.13.7\|13:7]] · [[1Sam.14.15\|14:15]] · [[1Sam.16.4\|16:4]] · [[1Sam.21.2\|21:2]] · [[1Sam.28.5\|28:5]] |
+| 1 Samuel | [[1Sam.13.7\|13:7]] · [[1Sam.14.15\|14:15]] · [[1Sam.16.4\|16:4]] · [[1Sam.21.1\|21:2]]**\*** · [[1Sam.28.5\|28:5]] |
 | 2 Samuel | [[2Sam.17.2\|17:2]] |
 | 1 Kings | [[1Kgs.1.49\|1:49]] |
 | 2 Kings | [[2Kgs.4.13\|4:13]] |
@@ -33,7 +33,7 @@
 | Hosea | [[Hos.5.8\|5:8]] · [[Hos.11.10\|11:10]] · [[Hos.11.11\|11:11]] |
 | Amos | [[Amos.3.6\|3:6]] |
 | Micah | [[Mic.4.4\|4:4]] |
-| Nahum | [[Nah.2.12\|2:12]] |
+| Nahum | [[Nah.2.11\|2:12]]**\*** |
 | Zephaniah | [[Zeph.3.13\|3:13]] |
-| Zechariah | [[Zech.2.4\|2:4]] |
+| Zechariah | [[Zech.1.21\|2:4]]**\*** |
 

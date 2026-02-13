@@ -35,8 +35,6 @@ Samson [[Judg.13.25|Jud 13:25]]; [[Judg.14.6|14:6]],[[Judg.14.19|19]]
 
 - The prophets
 
-[[PrAzar.1.2|Azariah 2]]Ch 15:1
-
 [[Zech.2|Zechariah 2]]Ch 24:20; [[Zech.1.1|Zec 1:1]]
 
 Ezekiel [[Ezek.8.3|Eze 8:3]]; [[Ezek.11.1|11:1]],[[Ezek.11.5|5]],[[Ezek.11.24|24]]

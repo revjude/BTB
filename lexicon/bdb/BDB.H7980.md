@@ -3,7 +3,7 @@
 
 **Qal** ***Perfect*** 3 masculine singular <span class="bdbLangHebrew">‎׳‎</span><span class="bdbLangHebrew">‎שׁ‎</span> [[Eccl.8.9|Eccl 8:9]], etc.; ***Imperfect*** 3 masculine singular <span class="bdbLangHebrew">‎יָשְׁלַט‎</span> [[Eccl.2.19|Eccl 2:19]], etc.; ***Infinitive construct*** <span class="bdbLangHebrew">‎שְׁלוֺט‎</span> [[Esth.9.1|Esth 9:1]] — ***domineer, lord it*** over, <span class="bdbLangHebrew">‎עַל‎</span> person, [[Neh.5.15|Neh 5:15]] <span class="bdbLangHebrew">‎ב‎</span> person [[Eccl.8.9|Eccl 8:9]] (<span class="bdbLangHebrew">‎לְרַע לוֺ‎</span>); <span class="bdbLangHebrew">‎ב‎</span> of thing [[Eccl.2.19|Eccl 2:19]] ***become master*** of, <span class="bdbLangHebrew">‎ב‎</span> person [[Esth.9.1|Esth 9:1]] (twice in verse). 
 
-**Hiph\`il 1.** ***give power of: Perfect*** 3 masculine singular suffix person <span class="bdbLangHebrew">‎וְהִשְׁלִימוֺ לֶאֱכֹל‎</span> [[Eccl.5.18|Eccl 5:18]], so ***Imperfect*** 3 masculine singular suffix <span class="bdbLangHebrew">‎יַשְׁליטֶנּוּ‎</span> [[Eccl.6.2|Eccl 6:2]] (both subject God). 
+**Hiph\`il 1.** ***give power of: Perfect*** 3 masculine singular suffix person <span class="bdbLangHebrew">‎וְהִשְׁלִימוֺ לֶאֱכֹל‎</span> [[Eccl.5.19|Eccl 5:18]]**\***, so ***Imperfect*** 3 masculine singular suffix <span class="bdbLangHebrew">‎יַשְׁליטֶנּוּ‎</span> [[Eccl.6.2|Eccl 6:2]] (both subject God). 
 
 **2. = Qal**, ***get mastery of:*** jussive 3 feminine singular <span class="bdbLangHebrew">‎אַלתַּֿשְׁלֶטבִּֿי‎</span> <span class="bdbLangHebrew">‎כָּלאָֿ֑וֶן‎</span> [[Ps.119.133|Ps 119:133]]. 
 
@@ -16,5 +16,5 @@
 | Nehemiah | [[Neh.5.15\|5:15]] |
 | Esther | [[Esth.9.1\|9:1]] |
 | Psalms | [[Ps.119.133\|119:133]] |
-| Ecclesiastes | [[Eccl.2.19\|2:19]] · [[Eccl.5.18\|5:18]] · [[Eccl.6.2\|6:2]] · [[Eccl.8.9\|8:9]] |
+| Ecclesiastes | [[Eccl.2.19\|2:19]] · [[Eccl.5.19\|5:18]]**\*** · [[Eccl.6.2\|6:2]] · [[Eccl.8.9\|8:9]] |
 
