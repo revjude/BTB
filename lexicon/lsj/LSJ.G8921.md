@@ -5,3 +5,6 @@
 
  <b>live in</b> a place <b>as a stranger</b>, <span class='asgreek'>ἐν</span> <span class='asgreek'>τῷ</span> <span class='asgreek'>Ἰσραήλ</span> [<a href="javascript:void(0)" title=" LXX.Ezek.14.7. ">LXX</a>]
 
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.14.7|LXX.Ezek.14.7]]
+</sub></small>

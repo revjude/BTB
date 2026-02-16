@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>borrower,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 12(7).67.41,68.4 (Amorg.), 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Solon” 13. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.7.41]]
+<small><sub>LSJ Scripture Refs: [[Luke.7.41|Luke.7.41]]
 </sub></small>

@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> of water, [<a href="javascript:void(0)" t
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> of the food rejected after digestion, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Meteorologica” 381b12, +others; compare σηπτός, σῆψις 11. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <i>metaphorically</i>, <span class='asgreek'>σ</span>. <span class='asgreek'>ὑπὸ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>ἡδονῆς</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus 23; ὁ πλοῦτος ὑμῶν σέσηπε NT.Jas.5.2. ">NT+4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jas.5.2]]
+<small><sub>LSJ Scripture Refs: [[Jas.5.2|Jas.5.2]]
 </sub></small>

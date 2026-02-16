@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.b</b> <b>rising from bed in the morni
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <span class='asgreek'>ἡ</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>ἡ</span> <span class='asgreek'>ἐκ</span> <span class='asgreek'>νεκρῶν</span> <b>resurrection</b> from the dead, [<a href="javascript:void(0)" title=" NT.Phil.3.11. ">NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> woman's <b>ornament</b>, [<a href="javascript:void(0)" title=" “BGU” 717.11 (2nd c.AD). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Phil.3.11]]
+<small><sub>LSJ Scripture Refs: [[Phil.3.11|Phil.3.11]]
 </sub></small>

@@ -18,5 +18,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.7</b> <b>conversion,</b> [<a href="javascript:v
 $\quad$ $\quad$ $\quad$<b>\_\_II.8</b> in Philos., <b>return</b> to the source of Being, [<a href="javascript:void(0)" title=" 3rd c.AD: Plotinus Philosophus 1.2.4; ἡ ἐ. πρὸς αὑτόν [prev. author] 5.3.6, compare 5th c.AD: Proclus Philosophus “Inst.” 31 ">Refs 3rd c.AD+</a>]; [<span class='asgreek'>ἡ</span> <span class='asgreek'>ἐ</span>.] <span class='asgreek'>τοῦ</span> <span class='asgreek'>προελθόντος</span> <span class='asgreek'>ἐπάνοδος</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>γεννῆσαν</span> [<a href="javascript:void(0)" title=" 5th-6th c.AD: Damascius Philosophus “de Principiis” 75; ἡ ἐ. τῆς ἐκστάσεώς ἐστιν ἐπανόρθωσις [prev. work] 61. ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.9</b> in Logic, <b>conversion</b> of a proposition, <span class='asgreek'>ἡ</span> <span class='asgreek'>σὺν</span> <span class='asgreek'>ἀντιθέσει</span> <span class='asgreek'>ἐ</span>. <b>the contraposition,</b> Suppl.ad [<a href="javascript:void(0)" title=" 5th c.AD: Proclus Philosophus “in Platonis Parmenidem commentarii” p.1004S. ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.15.3]]
+<small><sub>LSJ Scripture Refs: [[Acts.15.3|Acts.15.3]]
 </sub></small>

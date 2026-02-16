@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.c</b> with <i>genitive</i>, <b>besides,
 $\quad$ $\quad$<b>\_\_III</b> Grammars, <span class='asgreek'>ἔ</span>. <span class='asgreek'>προσλαμβάνειν</span> <b>supply</b> or <b>understand</b> a word, [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Syntaxi;” 107.3; προσνεῖμαι [prev. work] 92.1; ὑπακούεσθαι [prev. work] 22.21. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>initially,</b> [<a href="javascript:void(0)" title=" [prev. author] “Pron.” 58.5, +others">Refs</a>]; <b>finally,</b> [<a href="javascript:void(0)" title="[prev. work] 60.6, +others ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Tim.3.7]]
+<small><sub>LSJ Scripture Refs: [[1Tim.3.7|1Tim.3.7]]
 </sub></small>

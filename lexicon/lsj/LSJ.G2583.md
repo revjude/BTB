@@ -29,5 +29,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.5.b</b> '<b>province', sphere of action
 $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> <b>assessment</b> for taxation, [<a href="javascript:void(0)" title=" “PLond.” 1.99.5 (4th c.AD)">Refs 4th c.AD+</a>], etc.; <span class='asgreek'>οἱ</span> <span class='asgreek'>δεσποτικοὶ</span> <span class='asgreek'>κ</span>. the Imperial <b>taxes</b>, [<a href="javascript:void(0)" title="[prev. work] 234.9 (4th c.AD)">Refs 4th c.AD+</a>]; <span class='asgreek'>ἰδιωτικὸς</span> <span class='asgreek'>κ</span>. [<a href="javascript:void(0)" title=" “POxy.” 2124.10 (4th c.AD). ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.7</b> <b>tariff,</b> [<a href="javascript:void(0)" title=" Stud.Pal. 20.143.5 (5th-6th c.AD). ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.10.15]]
+<small><sub>LSJ Scripture Refs: [[2Cor.10.15|2Cor.10.15]]
 </sub></small>

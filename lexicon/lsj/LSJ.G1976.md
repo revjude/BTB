@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b>. <b>sew up</b>, in <i>passive</i>, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 18(2).579. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.2.21]]
+<small><sub>LSJ Scripture Refs: [[Mark.2.21|Mark.2.21]]
 </sub></small>

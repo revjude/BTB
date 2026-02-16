@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>atonement, sinoffering</b>, [<a href="javascript:void(0)" title=" LXX.Ezek.44.27, LXX.2Mac.3.33, NT.1John.2.2, 4.10, 1st c.AD: Philo Judaeus 1.121. ">LXX+NT+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1John.2.2]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.44.27|LXX.Ezek.44.27]] ☩ [[1John.2.2|1John.2.2]]
 </sub></small>

@@ -30,5 +30,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.12</b> in questions <span class='asgreek'>==ο�
 $\quad$ <b>\_\_H</b> ACCENTUATION. <span class='asgreek'>==οὐ==</span> is oxytone <i>accusative</i> to Hdn.Gr.1.494 (text doubtfulin 504): [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Sophistici Elenchi” 166b6, referring to 8th c.BC: Ilias Homerus Epicus “Illiad” 23.328 τὸ μὲν ου (i.e. ==οὐ== ={οὒ}) καταπύθεται ὄμβρῳ, says λύουσι.. τῇ προσῳδίᾳ λέγοντες τὸ ου ὀξύτερον (i.e. οὗ), compare 178b3. In codices the word is written oxytone when followed by a pause (see. supr. B), and is usually written without any accent in other cases. ">Refs 8th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_H.I</b> <span class='asgreek'>==οὐ==</span> in connexion with other Particles will be found in alphabetical order, <span class='asgreek'>==οὐ==</span> <span class='asgreek'>γάρ</span>, <span class='asgreek'>==οὐ==</span> <span class='asgreek'>μή</span>, etc.—The corresponding forms of <span class='asgreek'>μή</span> should be compared.
 
-<small><sub>LSJ Scripture Refs: [[1Cor.5.12]]
+<small><sub>LSJ Scripture Refs: [[1Cor.5.12|1Cor.5.12]]
 </sub></small>

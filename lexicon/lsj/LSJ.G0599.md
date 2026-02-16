@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> serving as <i>passive</i> of <span class='asgreek'>ἀποκτείνω</span>, <b>to be put to death, slain,</b> <span class='asgreek'>ὑπό</span> <span class='asgreek'>τινος</span>[<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.137, 7.154">Refs 5th c.BC+</a>]; especially by judicial sentence, <span class='asgreek'>ἀποθανεῖν</span> <span class='asgreek'>ὑπὸ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>πόλεως</span>[<a href="javascript:void(0)" title=" 4th c.BC: Lycurgus Orator 93, compare 5th-6th c.BC: Plato Philosophus “Apologia” 29d, 32d, +others, 4th c.BC: Aristoteles Philosophus “Rhetorica” 1397a30 (variant). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>renounce,</b> <span class='asgreek'>νόμῳ</span>[<a href="javascript:void(0)" title=" NT.Gal.2.19; ἀπό τινος NT.Col.2.20.">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gal.2.19]] ☩ [[Col.2.20]]
+<small><sub>LSJ Scripture Refs: [[Gal.2.19|Gal.2.19]] ☩ [[Col.2.20|Col.2.20]]
 </sub></small>

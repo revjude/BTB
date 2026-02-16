@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>of diverse tongues</b>, <span class='asgreek'>ζῷα</span> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.406. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.14.21]]
+<small><sub>LSJ Scripture Refs: [[1Cor.14.21|1Cor.14.21]]
 </sub></small>

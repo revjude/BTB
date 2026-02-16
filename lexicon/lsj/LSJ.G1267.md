@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>dissension,</b> [<a href="javascript:void(0)" title="NT.Luke.12.51. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.12.51]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.48.29|LXX.Ezek.48.29]] ☩ [[Luke.12.51|Luke.12.51]]
 </sub></small>

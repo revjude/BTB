@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>to be unsettled, to be a wanderer,</b> [<a href="javascript:void(0)" title=" NT.1Cor.4.11">NT</a>]; <b>to be inconstant,</b> <span class='asgreek'>περὶ</span> <span class='asgreek'>τοὺς</span> <span class='asgreek'>γάμους</span>[<a href="javascript:void(0)" title=" 2nd c.AD: Vettius Valens Astrologus 116.30.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.4.11]]
+<small><sub>LSJ Scripture Refs: [[1Cor.4.11|1Cor.4.11]]
 </sub></small>

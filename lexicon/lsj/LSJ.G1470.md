@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>πῦρ</span> <span class='asgreek'>ἐ</span>. <b>bank</b> it <b>up</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Aves” 841. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>middle</i>, <b>hide oneself</b>, <span class='asgreek'>μελάθροις</span> [<a href="javascript:void(0)" title=" 4th-5th c.AD(?): Nonnus Epicus “Dionysiaca” 32.285. ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.13.33]]
+<small><sub>LSJ Scripture Refs: [[Matt.13.33|Matt.13.33]]
 </sub></small>

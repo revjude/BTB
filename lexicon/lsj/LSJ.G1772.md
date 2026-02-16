@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> of persons, <b>keeping within the law, upright, just,</b> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Supplices” 404 (Lyric poetry), 5th-6th c.BC: Plato Philosophus “Respublica” 424e ">Refs 5th c.BC+</a>]; also, <b>subject to the law,</b> <span class='asgreek'>μὴ</span> <span class='asgreek'>ὢν</span> <span class='asgreek'>ἄνομος</span> <span class='asgreek'>Θεοῦ</span>, <span class='asgreek'>ἀλλ᾽</span> <span class='asgreek'>ἔ</span>. <span class='asgreek'>Χριστοῦ</span> [<a href="javascript:void(0)" title=" NT.1Cor.9.21. ">NT</a>]
 $\quad$ $\quad$<b>\_\_II</b> (<span class='asgreek'>νέμομαι</span>) <b>feeding in,</b> i.e. <b>inhabiting,</b> <span class='asgreek'>οἳ</span> <span class='asgreek'>γᾶς</span> <span class='asgreek'>τότ᾽</span> <span class='asgreek'>ἦσαν</span> <span class='asgreek'>ἔννομοι</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Supplices” 565 (Lyric poetry). ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.19.39]] ☩ [[1Cor.9.21]]
+<small><sub>LSJ Scripture Refs: [[Acts.19.39|Acts.19.39]] ☩ [[1Cor.9.21|1Cor.9.21]]
 </sub></small>

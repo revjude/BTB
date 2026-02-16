@@ -15,5 +15,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> c.<i>dative</i> modi, <b>to be lucky, su
 $\quad$ $\quad$ $\quad$<b>\_\_III.4</b> <i>passive</i>, <b>turn out well,</b> <span class='asgreek'>αἱ</span> <span class='asgreek'>ἐπιτετευγμέναι</span> <span class='asgreek'>πράξεις</span> <b>successful,</b> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 6.53.2, compare 2nd c.BC: Hipparchus Astronomicus cited in 5th c.AD: Stobaeus, Joannes 4.44.81, 1st c.BC: Diodorus Siculus Historicus 1.1, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.674a ">Refs 2nd c.BC+</a>]; <span class='asgreek'>φάρμακον</span> -<span class='asgreek'>τετευγμένον</span> <b>proved</b> remedy, Heraclid.<i>Tarentum dialect</i> cited in [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 12.403. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> c.<i>dative</i> <i>person</i>, <b>converse, talk with</b> one, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 758c. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jas.4.2]]
+<small><sub>LSJ Scripture Refs: [[Jas.4.2|Jas.4.2]]
 </sub></small>

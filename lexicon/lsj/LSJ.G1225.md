@@ -19,5 +19,5 @@ $\quad$ $\quad$<b>\_\_VII</b> <b>divert</b> from a course of action, <span class
 $\quad$ $\quad$<b>\_\_VIII</b> <i>middle</i>, <b>contract an obligation</b> (?), [<a href="javascript:void(0)" title=" “Leg.Gort.” 9.26. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_IX</b> <span class='asgreek'>διαβάλλεσθαι</span> <span class='asgreek'>ἀστραγάλοις</span> <span class='asgreek'>πρός</span> <span class='asgreek'>τινα</span> <b>throw</b> against him, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.148d, 272f. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.16.1]]
+<small><sub>LSJ Scripture Refs: [[Luke.16.1|Luke.16.1]]
 </sub></small>

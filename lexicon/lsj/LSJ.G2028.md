@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>call by</b> a name, <span class='asgreek'
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> generally, <b>name, call</b> so and so, <span class='asgreek'>ἀφνειὸν</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>τὸ</span> <span class='asgreek'>χωρίον</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 1.13; σοφιστὴν ἐ. σεαυτόν 5th-6th c.BC: Plato Philosophus “Protagoras” 349a, compare “Phd.” 113b, +others; παρακαταθήκην ἐ. 4th c.BC: Demosthenes Orator 28.15. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>pronounce</b> a name, <span class='asgreek'>ἐ</span>. <span class='asgreek'>τὰ</span> <span class='asgreek'>οὐνόματα</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>τῷ</span> <span class='asgreek'>ὕμνῳ</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 4.35, compare 7.117 ">Refs 5th c.BC+</a>]; <span class='asgreek'>==ἐπονομάζω==άζων</span> <span class='asgreek'>τινά</span> <b>uttering</b> his <b>name</b> as he throws the cottabus, [<a href="javascript:void(0)" title=" 5th c.BC: Cratinus Comicus 273, compare 4th c.BC: Clearchus Comicus 1. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.2.17]]
+<small><sub>LSJ Scripture Refs: [[Rom.2.17|Rom.2.17]]
 </sub></small>

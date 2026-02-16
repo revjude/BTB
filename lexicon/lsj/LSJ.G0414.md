@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> without a <i>negative</i>, <span class='asgr
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.b</b> of persons, <span class='asgreek'>μόγις</span> <span class='asgreek'>ἀνεκτοί</span>[<a href="javascript:void(0)" title=" 5th c.BC: Lysias Orator 22.20, compare 4th c.BC: Demosthenes Orator “Epistulae” 3.13. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>adverb</i> -<span class='asgreek'>τῶς</span>, in [<a href="javascript:void(0)" title=" 8th c.BC: Homerus Epicus always οὐκέτ᾽ ἀνεκτῶς, 8th c.BC: Odyssea Homerus Epicus “Odyssey” 9.350, etc.">Refs 8th c.BC+</a>]; <span class='asgreek'>οὐκ</span> <span class='asgreek'>ἀνεκτῶς</span> <span class='asgreek'>ἔχει</span> it is not <b>to be borne,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 7.3.1: without \_negative\_, 1st c.BC: Philodemus Gadarensis Epigrammaticus “D.” 3 “fragment” 2, “Oec.” p.31J.">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.10.15]]
+<small><sub>LSJ Scripture Refs: [[Matt.10.15|Matt.10.15]]
 </sub></small>

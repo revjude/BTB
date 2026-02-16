@@ -21,5 +21,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_B.5</b>. <b>cite in one's own favour, cite as evid
 $\quad$ $\quad$ $\quad$<b>\_\_B.6</b>. <b>affix, apply a name</b>, <span class='asgreek'>τῷ</span> <span class='asgreek'>χωρίῳ</span> <span class='asgreek'>ὄνομα</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Pausanias Periegeta 2.14.4. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_B.7</b>. <b>explain, allege</b>, Wilcken [<a href="javascript:void(0)" title=" “Chr.” 20 iii 12 (2nd c.AD), etc. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.13.24]] ☩ [[Luke.23.46]] ☩ [[Acts.14.23]] ☩ [[1Pet.4.19]]
+<small><sub>LSJ Scripture Refs: [[Matt.13.24|Matt.13.24]] ☩ [[Luke.23.46|Luke.23.46]] ☩ [[Acts.14.23|Acts.14.23]] ☩ [[1Pet.4.19|1Pet.4.19]]
 </sub></small>

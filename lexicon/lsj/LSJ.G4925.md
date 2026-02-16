@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>passive</i>, <b>to be built in with other materials</b>, <span class='asgreek'>λίθοι</span> <span class='asgreek'>ξυνῳκοδομημένοι</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 1.93; σ. οἱ κίονες τοῖς τοίχοις 1st c.BC: Diodorus Siculus Historicus 13.82. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>build up, block up</b>, [<a href="javascript:void(0)" title=" [prev. author] 3.37. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eph.2.22]]
+<small><sub>LSJ Scripture Refs: [[Eph.2.22|Eph.2.22]]
 </sub></small>

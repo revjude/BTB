@@ -18,5 +18,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.8</b> the constellation [<a href="javascript:vo
 $\quad$ $\quad$ $\quad$<b>\_\_II.9</b> name of a <span class='asgreek'>πηγή</span> in the Chaldaean system, [<a href="javascript:void(0)" title=" 5th-6th c.AD: Damascius Philosophus “de Principiis” 96. ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.10</b>= <span class='asgreek'>δάφνη</span> <span class='asgreek'>Ἀλεξανδρεία</span>, [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 4.145">Refs 1st c.AD+</a>]; <span class='asgreek'>Ἡλίου</span> <span class='asgreek'>σ</span>.,= <span class='asgreek'>ἅλιμος</span>, Ps.-[<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 1.91. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jas.1.12]] ☩ [[1Pet.5.4]] ☩ [[2Tim.4.8]] ☩ [[1Thess.2.19]]
+<small><sub>LSJ Scripture Refs: [[Jas.1.12|Jas.1.12]] ☩ [[1Pet.5.4|1Pet.5.4]] ☩ [[2Tim.4.8|2Tim.4.8]] ☩ [[1Thess.2.19|1Thess.2.19]]
 </sub></small>

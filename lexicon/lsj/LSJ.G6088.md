@@ -8,5 +8,5 @@ combination of: <small>**<big>[[G3029|λίαν]]</big>** (**<big>[[G5228|ὑπ�
  <i>adverb</i> <b>beyond measure, exceedingly,</b> <span class='asgreek'>σοφός</span> [<a href="javascript:void(0)" title=" 12th c.AD: Eustathius Episcopus Thessalonicensis 1396.42; τὸ ὑ. [prev. author] 1184.18 ">Refs</a>]; <span class='asgreek'>οἱ</span> <span class='asgreek'>ὑ</span>. <span class='asgreek'>ἀπόστολοι</span> the '<b>super</b>-Apostles', [<a href="javascript:void(0)" title=" NT.2Cor.11.5, 12.11. ">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[2Cor.11.5]]
+<small><sub>LSJ Scripture Refs: [[2Cor.11.5|2Cor.11.5]]
 </sub></small>

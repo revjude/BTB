@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> name for <b>a treasure-chamber</b> of the Persian kings, [<a href="javascript:void(0)" title=" 4th c.BC: Chares Historicus 2 1st c.AD: Josephus Historicus ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.4.38]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.13.18|LXX.Ezek.13.18]] ☩ [[Mark.4.38|Mark.4.38]]
 </sub></small>

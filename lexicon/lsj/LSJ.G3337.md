@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>exchange by leaving, quit</b>, <span c
 $\quad$ $\quad$<b>\_\_III</b> <i>intransitive</i>, <b>undergo a change, change</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Epicharmus Comicus 170.15, 5th c.BC: Herodotus Historicus 2.77, 5th c.BC: Euripides Tragicus “Fragmenta” 262, 4th c.BC: Aristoteles Philosophus “Historia Animalium” 578b10: with \_neuter\_ \_pronoun\_, τοσοῦτο μετήλλαξε κατὰ τὸν βίον 1st c.BC: Philodemus Philosophus “Academicorum Index” p.49 ">Refs 5th c.BC+</a>] M.: with <i>genitive</i>, <b>change from</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 8.70. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>substitute, transfer</b>, <span class='asgreek'>τινὰς</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>τήν</span> <span class='asgreek'>τινων</span> <span class='asgreek'>χώραν</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Timaeus” 19a. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.1.25]]
+<small><sub>LSJ Scripture Refs: [[Rom.1.25|Rom.1.25]]
 </sub></small>

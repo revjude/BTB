@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> of things, <b>decent, becoming</b>, <span class='as
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> later also, <b>noble, honourable</b>, in rank (condemned by [<a href="javascript:void(0)" title=" 2nd c.AD: Phrynichus Atticista 309), NT.Mark.15.43, NT.Acts.13.50, 1st c.AD: Josephus Historicus “Vita” 9, 2nd c.AD: Vettius Valens Astrologus 66.7, +others">NT+1st c.AD+</a>]; <span class='asgreek'>ἡ</span> <span class='asgreek'>εὐ</span>. <b>the noble lady,</b> [<a href="javascript:void(0)" title=" PFlor. 16.20 (3rd c.AD). ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.b</b> title of a village magistrate, in <i>plural</i>, <span class='asgreek'>εὐ</span>. <span class='asgreek'>κώμης</span> [<a href="javascript:void(0)" title=" “BGU” 147 (2nd-3rd c.AD): \_sing.\_, ἡ οἰκία τοῦ εὐ. “PRyl.” 236.15 (3rd c.AD). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.12.24]] ☩ [[Mark.15.43]] ☩ [[Acts.13.50]]
+<small><sub>LSJ Scripture Refs: [[1Cor.12.24|1Cor.12.24]] ☩ [[Mark.15.43|Mark.15.43]] ☩ [[Acts.13.50|Acts.13.50]]
 </sub></small>

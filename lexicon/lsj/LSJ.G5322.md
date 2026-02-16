@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>φ</span>. <span class='asgreek'>ὑελοῦς</span> glass <b>cover,</b>[<a href="javascript:void(0)" title=" Olymp.Alch. p.75 5th c.BC: Bacchylides Lyricus ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> a form of <b>still,</b> Zos.Alch.p.224 [<a href="javascript:void(0)" title=" 5th c.BC: Bacchylides Lyricus ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.18.3]]
+<small><sub>LSJ Scripture Refs: [[John.18.3|John.18.3]]
 </sub></small>

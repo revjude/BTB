@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> as a title, [<a href="javascript:void(0)" title=" “Majesty”, ἡ σὴ μ. 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 8.4.3, compare “CPHerm.” 52.23 (3rd c.AD)">Refs 1st c.AD+</a>]; <span class='asgreek'>ἐν</span> <span class='asgreek'>ταῖς</span> <span class='asgreek'>μ</span>. <span class='asgreek'>γενήσεται</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Vettius Valens Astrologus 70.4 ">Refs 2nd c.AD+</a>]; also, = Latin <i>majestas</i>, <span class='asgreek'>ἡ</span> <span class='asgreek'>μ</span>. <span class='asgreek'>τοῦ</span> <span class='asgreek'>Ῥωμαίων</span> <span class='asgreek'>δήμου</span> [<a href="javascript:void(0)" title=" “PGiss.” 40i 11 (3rd c.AD). ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.9.43]]
+<small><sub>LSJ Scripture Refs: [[Luke.9.43|Luke.9.43]]
 </sub></small>

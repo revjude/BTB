@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>coast by</b> or <b>along</b>, <span class='asgreek'>ὃς</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>Ἀττικῆς</span> <span class='asgreek'>ταῦτα</span> <span class='asgreek'>μὴ</span> -<span class='asgreek'>πέπλωκε</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 4.99, compare 5th-6th c.BC: Isocrates Orator 15.123; ἐς Σικυῶνα 5th c.BC: Thucydides Historicus 1.111; ἐνθένδε μὲν εἰς Σινώπην π., ἐκ Σινώπης δὲ εἰς Ἡράκλειαν 5th-6th c.BC: Xenophon Historicus “Anabasis” 5.6.10, compare 4th c.BC: Demosthenes Orator 35.31; ἐκεῖθεν 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 5.4.61 ">Refs 5th c.BC+</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>κάλω</span>, see at {<span class='asgreek'>κάλως</span>}. 
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, <span class='asgreek'>π</span>. <span class='asgreek'>τὰς</span> <span class='asgreek'>συμφοράς</span> <b>sail past, escape</b> them, [<a href="javascript:void(0)" title=" 4th c.BC: Amphis Comicus 3.4. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.20.16]]
+<small><sub>LSJ Scripture Refs: [[Acts.20.16|Acts.20.16]]
 </sub></small>

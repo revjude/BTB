@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.b</b> <b>set apart</b> for rejection,
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.c</b> <b>set apart for</b> some office, <b>appoint, ordain,</b> [<a href="javascript:void(0)" title=" NT.Acts.13.2, NT.Rom.1.1 (\_passive\_), NT.Gal.1.15. ">NT</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.d</b> <i>passive</i>, <span class='asgreek'>ἀρχὴ</span> <span class='asgreek'>ἀφωρισμένη</span> <span class='asgreek'>πρὸς</span> <span class='asgreek'>τὰς</span> <span class='asgreek'>θυσίας</span>[<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Politica” 1322b26 ">Refs 4th c.BC+</a>]; of a treatise, <b>to be devoted to,</b> with <i>dative</i>, [<a href="javascript:void(0)" title=" 6th c.AD: Olympiodorus Philosophus “in Aristotelis Meteora commentaria - pars” 9.15.">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.19.9]] ☩ [[Luke.6.22]] ☩ [[Acts.13.2]] ☩ [[Rom.1.1]] ☩ [[Gal.1.15]]
+<small><sub>LSJ Scripture Refs: [[Acts.19.9|Acts.19.9]] ☩ [[Luke.6.22|Luke.6.22]] ☩ [[Acts.13.2|Acts.13.2]] ☩ [[Rom.1.1|Rom.1.1]] ☩ [[Gal.1.15|Gal.1.15]]
 </sub></small>

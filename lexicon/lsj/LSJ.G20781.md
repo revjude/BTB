@@ -4,3 +4,6 @@
 
  <b>loathsomeness</b>, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Symmachus LXX.Ezek.16.58. ">LXX+2nd c.AD+</a>]
 
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.16.58|LXX.Ezek.16.58]]
+</sub></small>

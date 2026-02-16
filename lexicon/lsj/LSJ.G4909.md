@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> with <i>dative</i> <i>of things</i>, <b>cons
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> with <i>dative</i> <i>person</i>, <b>agree</b> or <b>sympathize with..,</b> [<a href="javascript:void(0)" title="NT.Rom.1.32. ">NT</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, <i>aorist</i> <span class='asgreek'>==συνευδοκέω==ήθην</span> in <i>signification</i> 1.3, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 18.49; so ὅκκα [τὰ μέρεα].. ==συνευδοκέω==ῆται ἀλλάλοις Theages Philosophus cited in 5th c.AD: Stobaeus, Joannes 3.1.117. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.22.20]] ☩ [[Luke.11.48]] ☩ [[Rom.1.32]]
+<small><sub>LSJ Scripture Refs: [[Acts.22.20|Acts.22.20]] ☩ [[Luke.11.48|Luke.11.48]] ☩ [[Rom.1.32|Rom.1.32]]
 </sub></small>

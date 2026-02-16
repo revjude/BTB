@@ -19,5 +19,5 @@ $\quad$ $\quad$<b>\_\_IV</b> <i>intransitive</i>, <span class='asgreek'>ἀ</spa
 $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> <b>to be doubtful</b> or <b>in dispute,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Ethica Eudemia” 1243a12, 25">Refs 4th c.BC+</a>]; <span class='asgreek'>ἀμφιβάλλειν</span> <span class='asgreek'>εἴωθε</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>φίλτρα</span> <b>are uncertain</b> in their action, [<a href="javascript:void(0)" title=" 4th c.AD: Alciphro Epistolographus 1.37">Refs 4th c.AD+</a>]:—<i>passive</i>, <b>to be in dispute,</b> [<a href="javascript:void(0)" title=" 6th c.AD: Simplicius Philosophus “in Aristotelis Physica commentaria - Comm. in Arist. Graeca” 21.11. ">Refs 6th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_V</b> <i>middle</i>, <b>change,</b> <span class='asgreek'>μορφήν</span>[<a href="javascript:void(0)" title=" 3rd c.AD: Oppianus Apamensis Epicus “Cynegetica” 3.16.">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.1.16]]
+<small><sub>LSJ Scripture Refs: [[Mark.1.16|Mark.1.16]]
 </sub></small>

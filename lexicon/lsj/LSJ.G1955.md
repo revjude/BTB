@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b>. <b>discharge</b>, of a debt, <span class='a
 $\quad$ $\quad$ $\quad$<b>\_\_4</b>. <b>spell,</b> [<a href="javascript:void(0)" title=" PMag.Leid.W. 25.11, +others ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b>. in Medicine texts, <b>change of</b> <b>dressing</b>, [<a href="javascript:void(0)" title=" Sor. 1.28 (\_plural\_), Gal. 18(2).838(\_plural\_), Paul.Aeg. 4.48. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Pet.1.20]]
+<small><sub>LSJ Scripture Refs: [[2Pet.1.20|2Pet.1.20]]
 </sub></small>

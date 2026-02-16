@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>lead in triumph</b>, of conquered enemies, <span
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>lead in triumph</b>, as a general does his army, <i>metaphorically</i>, <span class='asgreek'>ἡμᾶς</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>Χριστῷ</span> [<a href="javascript:void(0)" title=" NT.2Cor.2.14. ">NT</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>divulge, noise abroad</b>, [<a href="javascript:void(0)" title=" 9th c.AD: Photius Legal icographus, etc., compare 10th c.AD: Suidas Legal icographus see at {ἐξεφοίτα}. ">Refs 9th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Col.2.15]] ☩ [[2Cor.2.14]]
+<small><sub>LSJ Scripture Refs: [[Col.2.15|Col.2.15]] ☩ [[2Cor.2.14|2Cor.2.14]]
 </sub></small>

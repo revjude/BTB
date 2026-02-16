@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>take a preliminary</b> or <b>previous vote</b>, <span class='asgreek'>περὶ</span> <span class='asgreek'>ἱερῶν</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aeschines Orator 1.23, compare 4th c.BC: Demosthenes Orator 24.11. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.10.41]]
+<small><sub>LSJ Scripture Refs: [[Acts.10.41|Acts.10.41]]
 </sub></small>

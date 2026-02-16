@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>plural</i>, <b>cosmetics,</b> [<a href="javascript:void(0)" title=" 3rd c.AD(?): Achilles Tatius Astronomus 2.38 (perhaps φαρμάκων). ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.16.20]]
+<small><sub>LSJ Scripture Refs: [[1Cor.16.20|1Cor.16.20]]
 </sub></small>

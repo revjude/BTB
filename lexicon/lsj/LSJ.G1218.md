@@ -15,5 +15,5 @@ $\quad$ $\quad$<b>\_\_V</b> name for a prostitute, [<a href="javascript:void(0)"
 $\quad$ $\quad$<b>\_\_VI</b> <b>faction</b> in the circus, [<a href="javascript:void(0)" title=" “Tab.Defix.Aud.” 15.8 (Syria, 3rd c.AD). ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_VII</b> ={<span class='asgreek'>κατανάγκη</span>}, Ps.-[<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 4.131">Refs 1st c.AD+</a>]. (Perh. cognate with Sanskrit <i>dā´ti</i> 'reap', <span class='asgreek'>δαίομαι</span>, <span class='asgreek'>δατέομαι</span>.)
 
-<small><sub>LSJ Scripture Refs: [[Acts.12.22]]
+<small><sub>LSJ Scripture Refs: [[Acts.12.22|Acts.12.22]]
 </sub></small>

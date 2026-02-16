@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>expend</b>, <span class='asgreek'>εἴς
 $\quad$ $\quad$ $\quad$<b>\_\_6</b> in <i>passive</i>, <b>waste away, shrivel</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 7.4.3, 9.14.3. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>make empty</b>, <span class='asgreek'>ἑαυτόν</span> [<a href="javascript:void(0)" title=" NT.Phil.2.7 ">NT</a>]; <b>make void</b> or <b>of no effect</b>, <span class='asgreek'>καύχημα</span> [<a href="javascript:void(0)" title=" NT.1Cor.9.15; ὑπάρξεις 2nd c.AD: Vettius Valens Astrologus 90.7 ">NT+2nd c.AD+</a>]:—<i>passive</i>, <b>to be</b> or <b>become</b> so, [<a href="javascript:void(0)" title=" NT.Rom.4.14. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Phil.2.7]] ☩ [[1Cor.9.15]] ☩ [[Rom.4.14]]
+<small><sub>LSJ Scripture Refs: [[Phil.2.7|Phil.2.7]] ☩ [[1Cor.9.15|1Cor.9.15]] ☩ [[Rom.4.14|Rom.4.14]]
 </sub></small>

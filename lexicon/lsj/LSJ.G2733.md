@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>settlement, colony</b>, [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 5.4.11 ">Refs 1st c.BC+</a>]; especially of <b>military colonies</b> in Egypt, [<a href="javascript:void(0)" title=" “PTeb.” 61 (b). 227 (2nd c.BC)">Refs 2nd c.BC+</a>], etc.; also, = Latin <i>colonia</i>, [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 6.2.5, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Antonius” 16, 2nd c.AD: Appianus Historicus “Bella Civilia” 5.19 ">Refs 1st c.BC+</a>]; <span class='asgreek'>==κατοικία==ίαι</span> <span class='asgreek'>πόλεων</span> foundation of <b>colonies</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pompeius” 47. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>body of residents in</b> a foreign <b>city</b>, <span class='asgreek'>ἡ</span> <span class='asgreek'>κ</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>Ἱεραπόλει</span> <span class='asgreek'>==κατοικία==ούντων</span> <span class='asgreek'>Ἰουδαίων</span> [<a href="javascript:void(0)" title=" “IGRom.” 4.834. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.17.26]]
+<small><sub>LSJ Scripture Refs: [[Acts.17.26|Acts.17.26]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b>Grammars, <span class='asgreek'>ὁ</span> <s
 $\quad$ $\quad$<b>\_\_II</b><b>to be gone, dead</b>, <span class='asgreek'>δείματι</span> with fright, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Supplices” 738 (Lyric poetry) ">Refs 4th c.BC+</a>]; <span class='asgreek'>ὅσον</span> <span class='asgreek'>παροίχῃ</span> how <b>art thou fallen</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Medea” 995 (Lyric poetry). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b>c.<i>genitive</i>, <b>shrink from</b>, <span class='asgreek'>νείκους</span> <span class='asgreek'>τοῦδε</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Supplices” 452 ">Refs 4th c.BC+</a>]; later, <b>neglect</b>, <span class='asgreek'>τῶν</span> <span class='asgreek'>πραγμάτων</span> [<a href="javascript:void(0)" title=" “BGU” 288.2 (2nd c.AD). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.14.16]]
+<small><sub>LSJ Scripture Refs: [[Acts.14.16|Acts.14.16]]
 </sub></small>

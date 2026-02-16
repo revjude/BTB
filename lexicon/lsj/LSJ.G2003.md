@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> especially of oracles or divine commands, <span class='asgreek'>κατ᾽</span> <span class='asgreek'>==ἐπιταγή==ταγήν</span> [<a href="javascript:void(0)" title=" “SIG” 1153 (from Athens)">Refs</a>]; <span class='asgreek'>κατ᾽</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>τοῦ</span> <span class='asgreek'>θεοῦ</span> [<a href="javascript:void(0)" title=" “JHS” 26.28, etc.; κατ᾽ ἐ. τοῦ αἰωνίου θεοῦ NT.Rom.16.26, cf. NT.1Cor.7.6. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.16.26]] ☩ [[1Cor.7.6]]
+<small><sub>LSJ Scripture Refs: [[Rom.16.26|Rom.16.26]] ☩ [[1Cor.7.6|1Cor.7.6]]
 </sub></small>

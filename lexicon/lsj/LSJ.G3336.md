@@ -17,5 +17,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.8</b> <b>translation, rendering</b>, [<a href="
 $\quad$ $\quad$ $\quad$<b>\_\_II.9</b> <b>transference</b>, <span class='asgreek'>αἱ</span> <span class='asgreek'>ἐς</span> <span class='asgreek'>νεφροὺς</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>κύστιας</span> -<span class='asgreek'>λήψιες</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Aretaeus Medicus “περὶ αἰτιῶν καὶ σημείων χρονίων παθῶν” 1.9. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.10</b> <span class='asgreek'>κατὰ</span> <span class='asgreek'>==μετάληψις==ληψιν</span> <span class='asgreek'>κατατεῖναι</span>, of <b>reflex</b> tension over a pulley [<a href="javascript:void(0)" title="compare (μεταληπτικός 11), 1st-2nd c.AD: Heliodorus Medicus cited in 4th c.AD: Oribasius Medicus 48.9.25. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Tim.4.3]]
+<small><sub>LSJ Scripture Refs: [[1Tim.4.3|1Tim.4.3]]
 </sub></small>

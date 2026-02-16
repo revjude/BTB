@@ -15,5 +15,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> the object is frequently unexpressed, <sp
 $\quad$ $\quad$<b>\_\_III</b> <i>middle</i> in <i>signification</i> [<a href="javascript:void(0)" title=" 11.1, ==φροντίζω==ιζόμενον μή.. 5th-6th c.BC: Xenophon Historicus “Hiero” 7.10: with \_accusative\_, 5th c.BC: Euripides Tragicus “Iphigenia Taurica” 343 (assuming variant). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> later in <i>passive</i>, <b>to be an object of thought</b> or <b>care,</b> <span class='asgreek'>πε==φροντίζω==ισμένος</span> <b>carefully thought out;</b> <span class='asgreek'>λόγος</span> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 15.78, 16.32; λόγοι πεφρ. εὖ 2nd-3rd c.AD: Philostratus Sophista “Vitae Sophistarum” 1.11; τρέφονται τροφῇ πε==φροντίζω==ισμένῃ 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 7.9 ">Refs 1st c.BC+</a>]; of a ward, <span class='asgreek'>ἡ</span>-<span class='asgreek'>ομένη</span> <span class='asgreek'>ὑπ᾽</span> <span class='asgreek'>ἐμοῦ</span> <span class='asgreek'>θυγατριδῆ</span> [<a href="javascript:void(0)" title=" “BGU” 300.16 (2nd c.AD). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Titus.3.8]]
+<small><sub>LSJ Scripture Refs: [[Titus.3.8|Titus.3.8]]
 </sub></small>

@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> of animals, <b>tear by the throat</b>, <s
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> of any killing, [<a href="javascript:void(0)" title=" “BGU” 388 ii 21 (2nd c.AD), “OGI” 697 (from Egypt), “Sammelb.” 7436.7 (6th c.AD), “Corpus Glossariorum Latinorum” ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> <i>metaphorically</i>, <b>torment</b>, <span class='asgreek'>τινα</span> [<a href="javascript:void(0)" title=" “POxy.” 259.33 (1st c.AD). ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rev.5.6]] ☩ [[1John.3.12]]
+<small><sub>LSJ Scripture Refs: [[Rev.5.6|Rev.5.6]] ☩ [[1John.3.12|1John.3.12]]
 </sub></small>

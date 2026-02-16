@@ -6,5 +6,5 @@ Included with: <b> <span class='asgreek'>==πολυμερῶς==</span>-<span cl
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>of divers kinds,</b> <span class='asgreek'>τῆς</span> <span class='asgreek'>ὕβρεως</span> <span class='asgreek'>οὔσης</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Politica” 1311a33 ">Refs 4th c.BC+</a>]. <i>adverb</i> <b>-<span class='asgreek'>ρῶς</span></b> <b>in many ways,</b> [<a href="javascript:void(0)" title="NT.Heb.1.1, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.537d, 2nd c.AD: Ptolemaeus Mathematicus “Tetrabiblos” 127. ">NT+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.1.1]]
+<small><sub>LSJ Scripture Refs: [[Heb.1.1|Heb.1.1]]
 </sub></small>

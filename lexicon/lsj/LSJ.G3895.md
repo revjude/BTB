@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> <b>fall aside</b> or <b>away from</b>, wi
 $\quad$ $\quad$<b>\_\_V</b> <b>fall down before, cringe, flatter</b>, <span class='asgreek'>παραπεπτωκώς</span> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 45.84. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_VI</b> Astrology texts, <b>to be unfavourably situated</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Vettius Valens Astrologus 5.5, 27.18. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.6.6]]
+<small><sub>LSJ Scripture Refs: [[Heb.6.6|Heb.6.6]]
 </sub></small>

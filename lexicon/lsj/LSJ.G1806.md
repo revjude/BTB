@@ -19,5 +19,5 @@ $\quad$ $\quad$<b>\_\_V</b> <b>exercise,</b> <span class='asgreek'>τὴν</span
 $\quad$ $\quad$<b>\_\_VI</b> <b>give directions</b> in a will, <span class='asgreek'>ἐμαυτὸν</span> <span class='asgreek'>οὕτως</span> <span class='asgreek'>==ἐξάγω==</span> Lyconap.[<a href="javascript:void(0)" title=" 3rd c.AD(?): Diogenes Laertius 5.72. ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_VII</b> <i>intransitive</i>, <b>pass one's life,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 3.43. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.16.39]]
+<small><sub>LSJ Scripture Refs: [[Acts.16.39|Acts.16.39]]
 </sub></small>

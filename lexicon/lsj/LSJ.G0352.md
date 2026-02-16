@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>come up out of the water, pop up,</b> [<a href="
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.b</b> <i>metaphorically</i>, <b>emerge, crop up,</b> <span class='asgreek'>ὅτι</span> <span class='asgreek'>ἐξ</span> <span class='asgreek'>αὐτῶν</span> <span class='asgreek'>καλόν</span> <span class='asgreek'>τι</span> <span class='asgreek'>ἀνακύψοιτο</span>[<a href="javascript:void(0)" title=" [prev. author] “Euthd.” 302a; αἱ -κύπτουσαι χρεῖαι 1st c.BC: Asclepiodotus Tacticus “Tact.” 11.7, compare 2nd c.AD: Athenaeus Epigrammaticus 1.25e, “Codex Justinianus [4th-6th c.AD]” 1.2.17. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.c</b> of persons, <b>rise out of difficulties, breathe again,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 5.91, 5th-6th c.BC: Xenophon Historicus “Oeconomicus” 11.5; τὰ τῶν Καρχηδονίων ἀνέκυψε 2nd c.BC: Polybius Historicus 1.55.1, compare 1st-2nd c.AD: Dio Chrysostomus Sophista 13.35; ἀπὸ τῶν μυχῶν τοῦ σώματος 3rd c.AD: Porphyrius Tyrius Philosophus “ad Marcellam - Porphyrii Opuscula” 6.">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.21.28]]
+<small><sub>LSJ Scripture Refs: [[Luke.21.28|Luke.21.28]]
 </sub></small>

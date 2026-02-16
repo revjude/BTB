@@ -5,5 +5,5 @@
  <i>adverb</i> <b>beyond all measure,</b> [<a href="javascript:void(0)" title="NT.Mark.7.37. ">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Mark.7.37]]
+<small><sub>LSJ Scripture Refs: [[Mark.7.37|Mark.7.37]]
 </sub></small>

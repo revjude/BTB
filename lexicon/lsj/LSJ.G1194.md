@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> Anatomy texts, <b>separate by avulsion,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Herophilus Medicus cited in 2nd c.AD: Galenus Medicus 2.349. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> colloquially, <b>cudgel, thrash,</b> <span class='asgreek'>δέδοκταί</span> <span class='asgreek'>μοι</span> <span class='asgreek'>δέρεσθαι</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>δέρειν</span> <span class='asgreek'>δι᾽</span> <span class='asgreek'>ἡμέρας</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Vespae” 485, compare “Nu.” 442, “POxy.” [prev. cited] (2nd c.AD, \_passive\_): proverbial, ὁ μὴ δαρεὶς ἄνθρωπος οὐ παιδεύεται">Refs 5th c.BC+</a>] 'spare the rod and spoil the child', [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus [same place], compare “SIG” 1109.91 (2nd c.AD)">Refs 4th c.BC+</a>]: <i>metaphorically</i>, <span class='asgreek'>εἰς</span> <span class='asgreek'>πρόσωπόν</span> <span class='asgreek'>τινα</span> <span class='asgreek'>δ</span>. [<a href="javascript:void(0)" title=" NT.2Cor.11.20 ">NT</a>]. (Cf. Lithuanian <i>derù</i> 'flay', Sanskrit <i>dṛṇā´ti</i> 'split'.)
 
-<small><sub>LSJ Scripture Refs: [[Mark.13.9]] ☩ [[2Cor.11.20]]
+<small><sub>LSJ Scripture Refs: [[Mark.13.9|Mark.13.9]] ☩ [[2Cor.11.20|2Cor.11.20]]
 </sub></small>

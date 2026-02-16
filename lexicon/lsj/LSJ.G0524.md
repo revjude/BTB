@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> generally, <b>to be despondent,</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>ταῖς</span> <span class='asgreek'>ἐλπίσιν</span>[<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 9.40.4; πρὸς ἐλπίδα 2nd-3rd c.AD: Dio Cassius Historicus 48.37: \_absolutely\_, 2nd c.BC: Polybius Historicus 1.35.5, NT.Eph.4.19.">NT+2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eph.4.19]]
+<small><sub>LSJ Scripture Refs: [[Eph.4.19|Eph.4.19]]
 </sub></small>

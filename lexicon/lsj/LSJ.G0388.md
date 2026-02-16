@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> in Rom. times, <b>affix to a cross, crucify,</b> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 1.11.5, +others, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Fabius Maximus” 6, +others ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>crucify afresh,</b> [<a href="javascript:void(0)" title="NT.Heb.6.6.">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.6.6]]
+<small><sub>LSJ Scripture Refs: [[Heb.6.6|Heb.6.6]]
 </sub></small>

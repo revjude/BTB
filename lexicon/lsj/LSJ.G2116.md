@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> generally, <b>refute</b> or <b>censure</
 $\quad$ $\quad$ $\quad$<b>\_\_III.4</b> <b>examine by torture</b>, [<a href="javascript:void(0)" title=" 6th c.AD: Procopius Caesariensis Historicus “de Bello Gothico” 3.32 (from Pass). ">Refs 6th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <i>intransitive</i>, <b>serve as</b> <span class='asgreek'>εὔθυνος</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 946d. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jas.3.4]]
+<small><sub>LSJ Scripture Refs: [[Jas.3.4|Jas.3.4]]
 </sub></small>

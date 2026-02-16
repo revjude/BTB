@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_IV.4</b> <b>men in general</b>, <span class='asgre
 $\quad$ $\quad$ $\quad$<b>\_\_IV.5</b> <span class='asgreek'>οὗτος</span> <span class='asgreek'>ὁ</span> <span class='asgreek'>κ</span>. this present <b>world</b>, i.e. <b>earth</b>, opposed to heaven, [<a href="javascript:void(0)" title=" NT.John.13.1; regarded as the kingdom of evil, ὁ ἄρχων τοῦ κ. τούτου [prev. work] 12.31. ">NT</a>]
 $\quad$ $\quad$<b>\_\_V</b> Pythag.name for <b>six,</b> [<a href="javascript:void(0)" title=" Theol.Ar. 37">Refs</a>]; for <b>ten</b>, [<a href="javascript:void(0)" title="[prev. work]59. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.1.8]] ☩ [[Matt.16.26]] ☩ [[John.7.4]] ☩ [[1Cor.1.21]] ☩ [[John.13.1]]
+<small><sub>LSJ Scripture Refs: [[Rom.1.8|Rom.1.8]] ☩ [[Matt.16.26|Matt.16.26]] ☩ [[John.7.4|John.7.4]] ☩ [[1Cor.1.21|1Cor.1.21]] ☩ [[John.13.1|John.13.1]]
 </sub></small>

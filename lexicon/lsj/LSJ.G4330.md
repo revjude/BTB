@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>permit as well,</b> [<a href="javascript:void(0)" title=" PLond. 5.1790.7 (5th-6th c.AD). ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.27.7]]
+<small><sub>LSJ Scripture Refs: [[Acts.27.7|Acts.27.7]]
 </sub></small>

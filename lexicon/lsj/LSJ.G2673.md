@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>cause to be idle, hinder</b> in one's work, [<a href="javascript:void(0)" title=" LXX.2Esd.4.21, “POxy.” 38.17 (1st c.AD):— ">LXX+1st c.AD+</a>]<i>passive</i>, [<a href="javascript:void(0)" title=" LXX.2Esd.6.8 ">LXX</a>]; <b>to be rendered</b> or <b>lie idle,</b> [<a href="javascript:void(0)" title=" PFlor. 176.7 (3rd c.AD), etc. ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>make of no effect,</b> NT.Rom.3.3,31, +others:—<i>passive</i>, <b>to be abolished, cease</b>, [<a href="javascript:void(0)" title="[prev. work]6.6, NT.1Cor.2.6, etc.; κ. ἀπὸ τοῦ νόμου">NT</a>] <b>to be set free</b> from.., [<a href="javascript:void(0)" title=" NT.Rom.7.2 ">NT</a>]; <b>to be parted</b>, [<a href="javascript:void(0)" title=" ἀπὸ Χριστοῦ “Epistle to the Galatians” 5.4 ">Refs</a>].
 
-<small><sub>LSJ Scripture Refs: [[Luke.13.7]] ☩ [[Rom.3.3]] ☩ [[1Cor.2.6]] ☩ [[Rom.7.2]]
+<small><sub>LSJ Scripture Refs: [[Luke.13.7|Luke.13.7]] ☩ [[Rom.3.3|Rom.3.3]] ☩ [[1Cor.2.6|1Cor.2.6]] ☩ [[Rom.7.2|Rom.7.2]]
 </sub></small>

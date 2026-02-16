@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b>. <b>take care</b>, <span class='asgreek'>ὅπως</span> <span class='asgreek'>μὴ</span>.. [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 18.161 ">Refs 4th c.BC+</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>ἵνα</span>.. [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis “de Demosthene” 53. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b>. <b>observe carefully</b>, <span class='asgreek'>τὸ</span> <span class='asgreek'>μέτριον</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Rhetorica” 1405b33 ">Refs 4th c.BC+</a>]:—Med, <b>observe religiously</b>, <span class='asgreek'>ἡμέρας</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>μῆνας</span> [<a href="javascript:void(0)" title=" NT.Gal.4.10; τὴν τῶν σαββάτων ἡμέραν 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 14.10.25: generally, ὅσα προστάττουσιν [οἱ νόμοι] ἀκριβῶς π. 2nd-3rd c.AD: Dio Cassius Historicus 53.10. ">NT+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.6.7]] ☩ [[Gal.4.10]]
+<small><sub>LSJ Scripture Refs: [[Luke.6.7|Luke.6.7]] ☩ [[Gal.4.10|Gal.4.10]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> in Poets, in <i>feminine</i>, <b>young girl,
 $\quad$ $\quad$<b>\_\_II</b> <b>a Corinthian coin</b>, from the figure of Pegasus upon it, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Fragmenta” 675, compare 2nd c.AD(?): Pollianus Epigrammaticus 9.76. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>ἱερὸς</span> <span class='asgreek'>π</span>. <span class='asgreek'>Ἴσιδος</span>, title of priest in Egypt, [<a href="javascript:void(0)" title=" “OGI” 739.8 (2nd c.BC), “PGrenf.” 2.20.5 (2nd c.BC), “PRein.” 10.5, +others (2nd c.BC)">Refs 2nd c.BC+</a>]; <span class='asgreek'>π</span>. alone, of a priest of Demeter and Persephone, [<a href="javascript:void(0)" title=" “IG” 5(1).1444 (Messene, 4th-3rd c.BC). ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.11.2]]
+<small><sub>LSJ Scripture Refs: [[Mark.11.2|Mark.11.2]]
 </sub></small>

@@ -5,5 +5,5 @@
  <b>will-worship, self-chosen service,</b> [<a href="javascript:void(0)" title="NT.Col.2.23. ">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Col.2.23]]
+<small><sub>LSJ Scripture Refs: [[Col.2.23|Col.2.23]]
 </sub></small>

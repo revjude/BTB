@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i> of the mind, <span class='asgreek'>ἀ</span>. <span class='asgreek'>τὴν</span> <span class='asgreek'>διάνοιαν</span> <span class='asgreek'>πρός</span> <span class='asgreek'>τι</span>[<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Physica” 192a15; εἰς τὴν προαίρεσιν ==ἀτενίζω==ίζοντα πράττειν 1st c.BC: Philodemus Gadarensis Epigrammaticus “Ir.” p.96 W.">Refs 4th c.BC+</a>]; <b>to be obstinate,</b> [<a href="javascript:void(0)" title=" Lynceus Comicus cited in 2nd c.AD: Athenaeus Epigrammaticus 7.313f.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.4.20]] ☩ [[Acts.23.1]] ☩ [[Acts.6.15]]
+<small><sub>LSJ Scripture Refs: [[Luke.4.20|Luke.4.20]] ☩ [[Acts.23.1|Acts.23.1]] ☩ [[Acts.6.15|Acts.6.15]]
 </sub></small>

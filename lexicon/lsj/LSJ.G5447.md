@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <span class='asgreek'>ἡ</span> <span cl
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <i>adverb</i> <b>-<span class='asgreek'>κῶς</span></b> <b>according to the laws of nature,</b> [<a href="javascript:void(0)" title=" [prev. author] “Ph.” 198a23; opposed to λογικῶς, [prev. work] 204b10 ">Refs</a>]: <i>comparative</i> -<span class='asgreek'>ώτερον</span> <span class='asgreek'>εἰπεῖν</span> [<a href="javascript:void(0)" title=" [prev. author] “GC” 335b25. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_III</b> later, <b>belonging to occult laws of nature, magical,</b> <span class='asgreek'>φ</span>. <span class='asgreek'>φάρμακα</span> <b>spells</b> or <b>amulets,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Alexander Rhetor Trall. 1.15; φυσικοῖς χρῆσθαι “Geoponica” 2.18.8; φ. θεραπεία [prev. work]2.42.3; φ. δακτύλιοι Scholia 5th-6th c.BC: Aristophanes Comicus “Plutus” 884 ">Refs 5th c.BC+</a>]. <i>adverb</i> <b>-<span class='asgreek'>κῶς</span></b>[<a href="javascript:void(0)" title=" “Geoponica” 9.1.5. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.1.26]]
+<small><sub>LSJ Scripture Refs: [[Rom.1.26|Rom.1.26]]
 </sub></small>

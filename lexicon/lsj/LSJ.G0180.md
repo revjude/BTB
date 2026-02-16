@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>not to be checked, irresistible,</b> [<a href="javascript:void(0)" title=" PMag.Par. 1.2364.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Pet.2.14]]
+<small><sub>LSJ Scripture Refs: [[2Pet.2.14|2Pet.2.14]]
 </sub></small>

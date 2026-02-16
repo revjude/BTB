@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>model, pattern,</b> [<a href="javascript:void(0)" title=" NT.1Tim.1.16, NT.2Tim.1.13; εἰς ==ὑποτύπωσις==ωσιν ἀρετῶν 1st c.BC: Philodemus Gadarensis Epigrammaticus “Mus.” p.77 K. ">NT+1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> a Rhet. figure, <b>by which a matter was vividly sketched in words,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Quintilianus Rhetor Latinus “Inst.” 9.2.40. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Tim.1.16]] ☩ [[2Tim.1.13]]
+<small><sub>LSJ Scripture Refs: [[1Tim.1.16|1Tim.1.16]] ☩ [[2Tim.1.13|2Tim.1.13]]
 </sub></small>

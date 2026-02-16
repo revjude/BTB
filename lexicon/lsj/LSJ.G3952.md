@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_6</b> Astrology texts, <b>situation</b> of a plane
 $\quad$ $\quad$<b>\_\_II</b> <b>substance, property</b>, <span class='asgreek'>ὡς</span>.. <span class='asgreek'>ἔχομεν</span> <span class='asgreek'>==παρουσία==ίας</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Comicus 177, compare 4th-3rd c.BC: Menander Comicus 471; π. χρημάτων 5th c.BC: Crates Comicus 16. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>contribution</b> in money, [<a href="javascript:void(0)" title=" Scholia 2nd c.AD: Lucianus Sophista “Phal.” 1.3 (\_plural\_). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.24.27]]
+<small><sub>LSJ Scripture Refs: [[Matt.24.27|Matt.24.27]]
 </sub></small>

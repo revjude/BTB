@@ -25,5 +25,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_V.3</b> <b>sum, total</b>, <span class='asgreek'>�
 $\quad$ $\quad$ $\quad$<b>\_\_V.4</b> <b>band</b> of men, [<a href="javascript:void(0)" title=" LXX.Job.1.17 ">LXX</a>]; <b>right-hand half</b> of a phalanx (opposed to <span class='asgreek'>οὐρά</span>), [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Tactica” 8.3, 2nd-3rd c.AD: Aelianus “Tactica - Griechische Kriegsschriftsteller” 7.3. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_V.5</b> Astron., <span class='asgreek'>κ</span>. <span class='asgreek'>τοῦ</span> <span class='asgreek'>κόσμου</span>, of Aries, [<a href="javascript:void(0)" title=" 4th c.AD: Hephaestio Astrologus 1.1 ">Refs 4th c.AD+</a>]. (<b>ghebh</b>-, compare <span class='asgreek'>κεβλή</span> and Engl. <b>gable.</b>)
 
-<small><sub>LSJ Scripture Refs: [[LXX.Exod.16.16|LXX.Exod.16.16]] ☩ [[Acts.18.6]] ☩ [[LXX.Job.1.17|LXX.Job.1.17]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.16.16|LXX.Exod.16.16]] ☩ [[Acts.18.6|Acts.18.6]] ☩ [[LXX.Job.1.17|LXX.Job.1.17]]
 </sub></small>

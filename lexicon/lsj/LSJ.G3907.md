@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b>. <b>observance</b> of rules, etc., [<a href="javascript:void(0)" title=" 2nd c.BC: Dionysius Thrax Grammaticus 629.21. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b>. <b>remark, note</b>, <span class='asgreek'>παρατηρήσεως</span> <span class='asgreek'>ἄξια</span> [<a href="javascript:void(0)" title=" 3rd c.AD: Longinus Rhetor 23.2, cf. Scholia 5th-6th c.BC: Aristophanes Comicus “Ranae” 1258 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ψιλὴ</span> <span class='asgreek'>π</span>. bare <b>notice</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Pronominibus;” 41.8. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.17.20]]
+<small><sub>LSJ Scripture Refs: [[Luke.17.20|Luke.17.20]]
 </sub></small>

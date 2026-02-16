@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> in Law, a term covering all <b>the more s
 $\quad$ $\quad$<b>\_\_III</b> used of <b>a loss by sea,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus (see. ναυσίστονος), NT.Acts.27.21. ">NT+5th c.BC+</a>]
 $\quad$ <b>\_\_B</b> as <i>masculine</i>, ={<span class='asgreek'>ὑβριστής</span>}, <b>a violent, overbearing man,</b> <span class='asgreek'>κακῶν</span> <span class='asgreek'>ῥεκτῆρα</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ὕβριν</span> <span class='asgreek'>ἀνέρα</span> [<a href="javascript:void(0)" title=" 8th-7th c.BC: Hesiodus Epicus “Opera et Dies” 191. ">Refs 8th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.27.21]]
+<small><sub>LSJ Scripture Refs: [[Acts.27.21|Acts.27.21]]
 </sub></small>

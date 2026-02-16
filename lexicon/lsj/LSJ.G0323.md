@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>ἡ</span> <span class
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>declaration,</b> <span class='asgreek'>χρόνων</span>[<a href="javascript:void(0)" title=" LXX.Sir.43.6. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_II</b> (from <i>passive</i>) <b>manifestation,</b> of Osiris, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 1.85">Refs 1st c.BC+</a>], but rather from <i>active</i> in <span class='asgreek'>ἡ</span> <span class='asgreek'>ἀ</span>. <span class='asgreek'>αὐτοῦ</span> <span class='asgreek'>πρὸς</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>Ἰσραήλ</span>[<a href="javascript:void(0)" title=" NT.Luke.1.80.">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.1.80]]
+<small><sub>LSJ Scripture Refs: [[Luke.1.80|Luke.1.80]]
 </sub></small>

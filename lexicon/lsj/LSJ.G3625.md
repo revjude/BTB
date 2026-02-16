@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>the Roman world,</b> <span class='asgreek'>ὁ</span> <span class='asgreek'>ἀγαθὸς</span> <span class='asgreek'>δαίμων</span> (etc.) <span class='asgreek'>τῆς</span> <span class='asgreek'>οἰ</span>., i.e. the Emperor, [<a href="javascript:void(0)" title=" “OGI” 666.4,668.5, “POxy.” 1021.5 (1st c.AD), “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 2581-2,4416, NT.Luke.2.1, NT.Acts.17.6, 24.5, “Sammelb.” 176.2 (2nd c.AD), 2nd c.AD: Galenus Medicus 10.7, 2nd c.AD: Lucianus Sophista “Macr.” 7. ">NT+1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>ἡ</span> <span class='asgreek'>οἰ</span>. <span class='asgreek'>ἡ</span> <span class='asgreek'>μέλλουσα</span> <b>the world</b> to come, i.e. the kingdom of Christ, [<a href="javascript:void(0)" title=" NT.Heb.2.5. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.2.1]] ☩ [[Acts.17.6]] ☩ [[Heb.2.5]]
+<small><sub>LSJ Scripture Refs: [[Luke.2.1|Luke.2.1]] ☩ [[Acts.17.6|Acts.17.6]] ☩ [[Heb.2.5|Heb.2.5]]
 </sub></small>

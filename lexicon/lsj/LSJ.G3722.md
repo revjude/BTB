@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b><span class='asgreek'>Ὄρθρος</span></b>, <span class='asgreek'>ὁ</span>, a mythical dog, son of Typhaon and Echidna, that kept the herds of Geryoneus on the island Erytheia, and was there killed by Heracles, [<a href="javascript:void(0)" title=" 8th-7th c.BC: Hesiodus Epicus “Theogonia” 309, compare 293 (variant{Ὄρθος}). ">Refs 8th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.24.1]]
+<small><sub>LSJ Scripture Refs: [[Luke.24.1|Luke.24.1]]
 </sub></small>

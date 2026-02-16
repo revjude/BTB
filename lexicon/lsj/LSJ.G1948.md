@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b>. in Egypt, <b>select by</b> <span class='
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b>. <b>consider</b>, <span class='asgreek'>πάντα</span> <span class='asgreek'>ταῦτα</span> 1st c.BC: Philodemus Philosophus “<span class='asgreek'>περὶ</span> <span class='asgreek'>οἰκονομίας</span>” p.63J. 
 $\quad$ $\quad$<b>\_\_III</b>. <i>middle</i>, <b>choose for oneself, pick out</b>, <span class='asgreek'>βοῦν</span> “SIG” 1025.17 (Cos, 4th-3rd c.BC).
 
-<small><sub>LSJ Scripture Refs: [[Luke.23.24]]
+<small><sub>LSJ Scripture Refs: [[Luke.23.24|Luke.23.24]]
 </sub></small>

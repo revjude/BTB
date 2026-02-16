@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>corrode</b>, [<span class='asgreek'>ῥε
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>bite</b>, <span class='asgreek'>τοῦ</span> <span class='asgreek'>παλαιστοῦ</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>οὖς</span> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “Philostrati majoris imagines” 1.6. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <span class='asgreek'>κ</span>. <span class='asgreek'>ἑαυτόν</span>, <i>metaphorically</i>, of remorse, [<a href="javascript:void(0)" title=" 4th c.AD: Libanius Sophista “Orationes” 29.32, “Ep.” 256. ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.12.40]]
+<small><sub>LSJ Scripture Refs: [[Mark.12.40|Mark.12.40]]
 </sub></small>

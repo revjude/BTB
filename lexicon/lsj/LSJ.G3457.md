@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> (<span class='asgreek'>μύλη</span> V) <b>of</b> or <b>for the grinders</b>, <span class='asgreek'>ἡ</span> <span class='asgreek'>μ</span>. (i.e. <span class='asgreek'>ἔμπλαστρος</span>) remedy <b>for toothache</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 12.869, 877. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.17.2]]
+<small><sub>LSJ Scripture Refs: [[Luke.17.2|Luke.17.2]]
 </sub></small>

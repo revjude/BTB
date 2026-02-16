@@ -5,5 +5,5 @@
  <b>repayment, requital,</b> whether of good or evil, [<a href="javascript:void(0)" title=" LXX.Sir.12.2, 14.6, +others, NT.Luke.14.12, NT.Rom.11.9.">LXX+NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Luke.14.12]] ☩ [[Rom.11.9]]
+<small><sub>LSJ Scripture Refs: [[Luke.14.12|Luke.14.12]] ☩ [[Rom.11.9|Rom.11.9]]
 </sub></small>

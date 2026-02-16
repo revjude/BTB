@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>choice collection</b> of passages, suc
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <span class='asgreek'>διὰ</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>ἀνθρώπων</span> because they were <b>picked</b> men, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 1.47.9,compare 1st c.AD: Philo Judaeus 2.362. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <span class='asgreek'>==ἐκλογή==ήν</span>· <span class='asgreek'>κάλαθον</span> (<i>Laconian dialect</i>), [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.9.11]] ☩ [[Acts.9.15]]
+<small><sub>LSJ Scripture Refs: [[Rom.9.11|Rom.9.11]] ☩ [[Acts.9.15|Acts.9.15]]
 </sub></small>

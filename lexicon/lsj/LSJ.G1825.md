@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>raise from the dead,</b> [<a href="javascript:void(0)" title=" NT.1Cor.6.14 ">NT</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Choephori” 495. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, <b>awake, arouse,</b> <span class='asgreek'>εὕδοντα</span> <span class='asgreek'>φόνον</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Electra” 41; ἄνθρακα 5th-6th c.BC: Aristophanes Comicus “Lysistrata” 315; τὸν ἵππον 5th-6th c.BC: Xenophon Historicus “de Equitandi ratione” 11.12; πόλεμον 1st c.BC: Diodorus Siculus Historicus 14.44; ὁ ἄνεμος τὸ πῦρ ἐ. 4th c.BC: Aristoteles Philosophus “Problemata” 866a18. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.6.14]]
+<small><sub>LSJ Scripture Refs: [[1Cor.6.14|1Cor.6.14]]
 </sub></small>

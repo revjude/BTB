@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.b</b> <b>tone</b> or <b>manner</b> of
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <i>metaphorically</i>, <b>playing a part, hypocrisy, outward show,</b> [<a href="javascript:void(0)" title=" 6th c.BC: Phocylides Lyricus 2 B, 2nd c.BC: Polybius Historicus 35.2.13, LXX.2Mac.6.25, NT.Matt.23.28, +others, 2nd c.AD: Lucianus Sophista “Somn.” 17. ">NT+6th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <span class='asgreek'>==ὑπόκρισις==κρισιν</span>, as <i>adverb</i>, <b>after the manner of,</b> <span class='asgreek'>δελφῖνος</span> <span class='asgreek'>ὑ</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “Oxy.” 408.69 (= “fragment” 235). ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.23.28]]
+<small><sub>LSJ Scripture Refs: [[Matt.23.28|Matt.23.28]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>occur, suggest itself</b>, of an idea, <span class='asgreek'>τινι</span> [<a href="javascript:void(0)" title="Vett. Val. 357.9. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.5.20]] ☩ [[Gal.2.4]]
+<small><sub>LSJ Scripture Refs: [[Rom.5.20|Rom.5.20]] ☩ [[Gal.2.4|Gal.2.4]]
 </sub></small>

@@ -17,5 +17,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.7</b> <b>workshop,</b> [<a href="javascript:voi
 $\quad$ $\quad$ $\quad$<b>\_\_II.8</b> <b>story, floor,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 6.1.52 (uncertain reading). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.9</b> <i>metaphorically</i>, <span class='asgreek'>αἰσθητικὸν</span> <span class='asgreek'>οἴ</span>., of man, [<a href="javascript:void(0)" title=" 2nd c.AD: Secundus Gnomologus “Sententiae - FPG” 7. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.12.7]]
+<small><sub>LSJ Scripture Refs: [[Acts.12.7|Acts.12.7]]
 </sub></small>

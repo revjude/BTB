@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>εἰκὼν</span> <span class='asgreek'>χαλκῆ</span> <span class='asgreek'>π</span>. <b>in the official robes of a</b> <span class='asgreek'>προφήτης</span>, [<a href="javascript:void(0)" title=" “Rev.Phil.” 44.38 (from Didyma)">Refs</a>]; so <span class='asgreek'>ἠμφιεσμένος</span> <span class='asgreek'>π</span>. <span class='asgreek'>σχήματι</span>, <span class='asgreek'>στολίσας</span> <span class='asgreek'>σεαυτὸν</span> <span class='asgreek'>π</span>. <span class='asgreek'>σχήματι</span>, [<a href="javascript:void(0)" title=" “PMag.Par.” 1.933, “PMag.Berol.” 1.278. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Pet.1.19]]
+<small><sub>LSJ Scripture Refs: [[2Pet.1.19|2Pet.1.19]]
 </sub></small>

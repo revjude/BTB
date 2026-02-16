@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i> in <i>active</i>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pompeius” 41, etc.">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Tim.1.6]]
+<small><sub>LSJ Scripture Refs: [[2Tim.1.6|2Tim.1.6]]
 </sub></small>

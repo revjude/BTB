@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.4.b</b> <b>to become closely acquainted
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> of a wife, <span class='asgreek'>ἀξίοις</span> <span class='asgreek'>γάμοις</span> -<span class='asgreek'>κερασθεῖσα</span> [<a href="javascript:void(0)" title=" “IG” 5(2).268.32 (Mantinea, 1st c.BC),compare 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.768b. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>middle</i>, <b>mix with</b> or <b>for oneself</b>, <span class='asgreek'>εἰς</span> <span class='asgreek'>μίαν</span> <span class='asgreek'>πάντα</span> <span class='asgreek'>ἰδέαν</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Timaeus” 35a, compare 69d; σ. αἰσθήσεις νῷ [prev. author] “Lg.” 961e. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.12.24]]
+<small><sub>LSJ Scripture Refs: [[1Cor.12.24|1Cor.12.24]]
 </sub></small>

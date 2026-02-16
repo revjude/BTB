@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> in Stoic philosophical, <b>assent given by the mind to its perceptions</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Zeno Citieus Stoicus 1.39, +others, compare 3rd c.AD: Plotinus Philosophus 1.8.14, etc.">Refs 4th c.BC+</a>]; a term introduced into Latin by Cicero, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Cicero” 40: compare συγκατατίθημι. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> Grammars, <b>affirmative</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Conjunctionibus;” 226.17, 2nd c.BC: Dionysius Thrax Grammaticus 642.5 ">Refs 2nd c.BC+</a>]; <span class='asgreek'>αἱ</span> <span class='asgreek'>δύο</span> <span class='asgreek'>ἀρνήσεις</span> <span class='asgreek'>μίαν</span> <span class='asgreek'>σ</span>. <span class='asgreek'>ποιοῦσι</span> [<a href="javascript:void(0)" title="Scholia 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 1053. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.6.16]]
+<small><sub>LSJ Scripture Refs: [[2Cor.6.16|2Cor.6.16]]
 </sub></small>

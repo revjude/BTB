@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>φωτίζω</span>}, [<a 
 $\quad$ $\quad$<b>\_\_III</b> Astrology texts, <b>influence by its rays</b> (= <span class='asgreek'>ἐπιθεωρέω</span>), [<a href="javascript:void(0)" title=" “PLond.” 1.130.70 (1st c.AD). ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <i>passive</i>, <b>to be glazed,</b> of pottery, probably in [<a href="javascript:void(0)" title=" “BGU” 1143.15 (1st c.BC). ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Pet.1.19]]
+<small><sub>LSJ Scripture Refs: [[2Pet.1.19|2Pet.1.19]]
 </sub></small>

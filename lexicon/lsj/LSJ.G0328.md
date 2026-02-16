@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>middle</i>, with <i>accusative</i>, <span class='asgreek'>πόλεμον</span> <b>embark on,</b> [<a href="javascript:void(0)" title=" 12th c.AD: Eustathius Episcopus Thessalonicensis Epiph. p.361 4th c.BC: Demosthenes Orator ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Pet.1.13]]
+<small><sub>LSJ Scripture Refs: [[1Pet.1.13|1Pet.1.13]]
 </sub></small>

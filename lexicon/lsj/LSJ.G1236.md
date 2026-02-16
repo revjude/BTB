@@ -20,5 +20,5 @@ $\quad$ $\quad$<b>\_\_V</b> <b>manage,</b> <span class='asgreek'>κάλλιστ
 $\quad$ $\quad$<b>\_\_VI</b> <b>separate, force apart,</b> <span class='asgreek'>τὰ</span> <span class='asgreek'>σκέλεα</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “Steril.” 230, LXX.Ezek.16.25; τοὺς ὀδόντας 2nd c.AD: Aretaeus Medicus “περὶ αἰτιῶν καὶ σημείων ὀξέων παθῶν” 1.6. ">LXX+5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_VI.2</b> <b>divert,</b> <span class='asgreek'>τινὰ</span> <span class='asgreek'>ἀπό</span> <span class='asgreek'>τινος</span> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “Her.Prooem.” 3 ">Refs 2nd c.AD+</a>]; simply, <b>divert,</b> <span class='asgreek'>τὰς</span> <span class='asgreek'>βασιλείους</span> <span class='asgreek'>φροντίδας</span> [<a href="javascript:void(0)" title=" [prev. author] “VS” 1.8.2. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Tim.2.2]]
+<small><sub>LSJ Scripture Refs: [[1Tim.2.2|1Tim.2.2]] ☩ [[LXX.Ezek.16.25|LXX.Ezek.16.25]]
 </sub></small>

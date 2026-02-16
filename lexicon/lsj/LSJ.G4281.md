@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>go before</b> or <b>first,</b> [<a href="
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_5.b</b> <b>arrive first,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 8.100 ">Refs 5th c.BC+</a>]: <i>perfect</i>, <b>have travelled first,</b> <span class='asgreek'>ὁδόν</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 328e. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>take legal proceedings, appear in court,</b> [<a href="javascript:void(0)" title=" PGiss. 8.12(2nd c.AD), etc. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.6.33]]
+<small><sub>LSJ Scripture Refs: [[Mark.6.33|Mark.6.33]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> c.<i>accusative</i>, <b>bewail</b>, <span class='asgreek'>θ</span>. <span class='asgreek'>πόνους</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 615; τὸν θάνατον 5th-6th c.BC: Plato Philosophus “Phaedo” 85a; ὅσα τὸν.. ἐμὸν ==θρηνέω==ῶ πατέρα 5th c.BC: Sophocles Tragicus “Electra” 94 (\_anapaest meter\_), compare 530, NT.Luke.23.27, etc.; τὸν φύντα 5th c.BC: Euripides Tragicus “Fragmenta” 449 ">NT+5th c.BC+</a>]:—so also <i>middle</i>, <span class='asgreek'>ἄκος</span> <span class='asgreek'>γὰρ</span> <span class='asgreek'>οὐδὲν</span> <span class='asgreek'>τόνδε</span> <span class='asgreek'>==θρηνέω==εῖσθαι</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 43 ">Refs 4th c.BC+</a>]:—<i>passive</i>, <b>to be lamented</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Ajax” 852, “fragment” 653. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.23.27]]
+<small><sub>LSJ Scripture Refs: [[Luke.23.27|Luke.23.27]]
 </sub></small>

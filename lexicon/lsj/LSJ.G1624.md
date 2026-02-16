@@ -12,5 +12,5 @@ $\quad$ $\quad$<b>\_\_III</b> in Medicine texts in <i>passive</i>, <b>to be dive
 $\quad$ $\quad$<b>\_\_IV</b> <b>turn</b> or <b>change</b>, <span class='asgreek'>εἴς</span> <span class='asgreek'>ἄσπορον</span> [<a href="javascript:void(0)" title=" “PRyl.” 133.22 (1st c.AD),compare 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 14.28 ">Refs 1st c.AD+</a>]:—<i>passive</i>, <span class='asgreek'>εἰς</span> <span class='asgreek'>ὀλιγαρχίαν</span> <span class='asgreek'>ἐκτραπῆναι</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 6.4.9; ὑπ᾽ ἀγεννείας εἰς μέμψεις 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 1.6.42. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_V</b> <i>passive</i>, <b>to be brought to birth</b>, Astrology texts technical term, Vett. Val.[<a href="javascript:void(0)" title=" 50.27, +others ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.12.13]]
+<small><sub>LSJ Scripture Refs: [[Heb.12.13|Heb.12.13]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>wear out, harass,</b> <sp
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>investigate,</b> [<a href="javascript:void(0)" title=" Sammelb. 5941.12 (\_passive\_, 6th c.AD). ">Refs 6th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>==γυμνάζω==όω</span>}, [<a href="javascript:void(0)" title=" “PSI” 1.70 (\_passive\_, 6th c.AD). ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Pet.2.14]]
+<small><sub>LSJ Scripture Refs: [[2Pet.2.14|2Pet.2.14]]
 </sub></small>

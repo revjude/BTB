@@ -15,5 +15,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>to be in doubt</b> or <b>at a loss</b>
 $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> in forensic Rhet., <span class='asgreek'>χρώματα</span> <span class='asgreek'>πεπλανημένα</span>, <span class='asgreek'>μετάθεσις</span> <span class='asgreek'>πεπ</span>., of <b>alternative</b> pleas, [<a href="javascript:void(0)" title=" 2nd c.AD: Hermogenes Rhetor “περὶ τῶν στάσεων” 3. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.7</b> <b>to be misled</b>, <span class='asgreek'>ὑπὸ</span> <span class='asgreek'>φωνῆς</span> <span class='asgreek'>κοινότητος</span> [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “περὶ σημείων καὶ σημειώσεων” 7; ταῖς ὁμωνυμίαις [prev. work] 36. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.7.12]]
+<small><sub>LSJ Scripture Refs: [[John.7.12|John.7.12]]
 </sub></small>

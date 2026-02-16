@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.7</b> <span class='asgreek'>μηδὲν</span> 
 $\quad$ $\quad$ $\quad$<b>\_\_II.8</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>χρόνον</span> <span class='asgreek'>εἴς</span> <span class='asgreek'>τι</span> <b>employ, bestow</b> time upon it, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 18.9.10. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.9</b> <b>set</b> a fracture, [<a href="javascript:void(0)" title=" 6th c.AD: Palladas Epigrammaticus ">Refs 6th c.AD+</a>]<b>in Hp.Fract.</b>[<a href="javascript:void(0)" title=" 12.276">Refs</a>] C.; compare <span class='asgreek'>ἀπόθεσις</span>.
 
-<small><sub>LSJ Scripture Refs: [[Matt.14.3]]
+<small><sub>LSJ Scripture Refs: [[Matt.14.3|Matt.14.3]]
 </sub></small>

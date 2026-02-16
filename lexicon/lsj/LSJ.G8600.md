@@ -5,3 +5,6 @@
 
  <b>dyed</b>, <span class='asgreek'>ποικίλματα</span> [<a href="javascript:void(0)" title=" LXX.Ezek.23.15. ">LXX</a>]
 
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.23.15|LXX.Ezek.23.15]]
+</sub></small>

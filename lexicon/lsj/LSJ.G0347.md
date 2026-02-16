@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>push</b> or <b>put back,</b> and so, <b>open,</b
 $\quad$ $\quad$<b>\_\_III</b> <b>throw</b> the head <b>back,</b> and so, <b>lift up,</b> <span class='asgreek'>τὴν</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>ψυχῆς</span> <span class='asgreek'>αὐγήν</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 540a. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>overthrow,</b> of earthquake, compared to batteringram, [<a href="javascript:void(0)" title=" 2nd c.AD: Pausanias Periegeta 7.24.10.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.12.37]]
+<small><sub>LSJ Scripture Refs: [[Luke.12.37|Luke.12.37]]
 </sub></small>

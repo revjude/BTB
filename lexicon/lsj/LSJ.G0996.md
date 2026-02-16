@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>medical aid, cure</b>, <span class='asgreek'>κίνδυνος</span> <span class='asgreek'>ἰσχυρότερος</span> <span class='asgreek'>πάσης</span> <span class='asgreek'>β</span>. [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Alexander” 19. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>force of auxiliaries</b>, <span class='asgreek'>ἡ</span> <span class='asgreek'>παρὰ</span> <span class='asgreek'>Διονυσίου</span> <span class='asgreek'>β</span>. [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 7.1.20; νεῶν β. 5th c.BC: Thucydides Historicus 4.8: opposed to regular forces, 4th c.BC: Demosthenes Orator 4.32. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.27.17]]
+<small><sub>LSJ Scripture Refs: [[Acts.27.17|Acts.27.17]]
 </sub></small>

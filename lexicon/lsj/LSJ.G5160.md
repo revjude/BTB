@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>rearing</b> or <b>keeping of animals,<
 $\quad$ $\quad$<b>\_\_III</b> sometimes in Poets for the concrete <span class='asgreek'>θρέμμα</span>, <b>brood,</b> <span class='asgreek'>νέα</span> <span class='asgreek'>τ</span>. a new <b>generation,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 1, compare 4th-5th c.BC: Aeschylus Tragicus “Septem contra Thebas” 786 (Lyric poetry)">Refs 5th c.BC+</a>]; of animals, <span class='asgreek'>ἀρνῶν</span> <span class='asgreek'>==τροφή==αί</span>, i.e. young lambs, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Cyclops” 189. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> a <b>place in which</b> animals <b>are reared,</b> <span class='asgreek'>ἰβίων</span> <span class='asgreek'>==τροφή==αί</span> [<a href="javascript:void(0)" title=" “PTeb.” 5.70, compare 62.19, +others (2nd c.BC), “PPetr.” 3p.221 (3rd c.BC), etc. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.3.4]]
+<small><sub>LSJ Scripture Refs: [[Matt.3.4|Matt.3.4]]
 </sub></small>

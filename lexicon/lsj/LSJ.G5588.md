@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>slanderer,</b> [<a href="javascript:void(0)" title="NT.Rom.1.30. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.1.30]]
+<small><sub>LSJ Scripture Refs: [[Rom.1.30|Rom.1.30]]
 </sub></small>

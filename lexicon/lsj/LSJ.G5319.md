@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>make known</b> or <b>famous,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 10.37 ">Refs 1st c.BC+</a>]:—<i>passive</i>, <b>become so,</b> <span class='asgreek'>ἐφανερώθη</span> <span class='asgreek'>ἐς</span> <span class='asgreek'>τοὺς</span> <span class='asgreek'>Ἕλληνας</span> <span class='asgreek'>δαπάνῃσι</span> <span class='asgreek'>μεγίστῃσι</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 6.122. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.7.4]] ☩ [[2Cor.5.10]]
+<small><sub>LSJ Scripture Refs: [[John.7.4|John.7.4]] ☩ [[2Cor.5.10|2Cor.5.10]]
 </sub></small>

@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> of persons, [<a href="javascript:void(0)" ti
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> of style, <span class='asgreek'>μ</span>. <span class='asgreek'>λόγοι</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Symposium” 210d; λέξις 4th c.BC: Aristoteles Philosophus “Rhetorica ad Alexandrum” 1441b12; μεθιστάναι ἐπὶ τὸ -έστερον [prev. work] 1423b12. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>adverb</i> -<span class='asgreek'>πέως</span>, <i>Attic dialect</i> -<span class='asgreek'>πῶς</span>[<a href="javascript:void(0)" title=", 5th c.BC: Herodotus Historicus 6.128, 5th-6th c.BC: Xenophon Historicus “Anabasis” 1.4.17, etc.">Refs 5th c.BC+</a>]: <i>comparative</i> -<span class='asgreek'>έστερον</span> [<a href="javascript:void(0)" title=" [prev. author] “Vect.” 6.1, 5th-6th c.BC: Plato Philosophus “Lysis” 215e ">Refs 5th c.BC+</a>]: <i>superlative</i> -<span class='asgreek'>έστατα</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.57. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Pet.1.17]]
+<small><sub>LSJ Scripture Refs: [[2Pet.1.17|2Pet.1.17]]
 </sub></small>

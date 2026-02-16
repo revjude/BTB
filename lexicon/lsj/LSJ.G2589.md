@@ -5,5 +5,5 @@
  <b>knower of hearts,</b> [<a href="javascript:void(0)" title=" NT.Acts.1.24, 15.8. ">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Acts.1.24]]
+<small><sub>LSJ Scripture Refs: [[Acts.1.24|Acts.1.24]]
 </sub></small>

@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>drunkenness</b>, <span class='asgreek'>μ</span>
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>metaphorically</i>, <span class='asgreek'>ὑπὸ</span> <span class='asgreek'>==μέθη==ς</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>φόβου</span> <span class='asgreek'>ναυτιᾷ</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 639b, compare 4th c.AD: Metrodorus Epigrammaticus “Herc.” 831.18; μ. νηφαλίῳ κατασχεθεὶς ὥσπερ οἱ κορυβαντιῶντες 1st c.AD: Philo Judaeus 1.16, compare 2.320. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>Μέθη</span> personified, in Art, [<a href="javascript:void(0)" title=" 2nd c.AD: Pausanias Periegeta 2.27.3. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.13.13]]
+<small><sub>LSJ Scripture Refs: [[Rom.13.13|Rom.13.13]]
 </sub></small>

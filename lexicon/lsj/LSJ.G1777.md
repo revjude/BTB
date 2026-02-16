@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> less frequently with Preps., <span class=
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>guilty, liable to the penalty for,</b> <span class='asgreek'>ἔ</span>. <span class='asgreek'>τῷ</span> <span class='asgreek'>φόνῳ</span> [<a href="javascript:void(0)" title=" 5th c.BC: Antipho Orator 1.11, 4th c.BC: Aristoteles Philosophus “Politica” 1269a3, compare “Rh.” 1380a3: \_absolutely\_, 5th c.BC: Antipho Orator 4.1.1, 6.17, 5th-6th c.BC: Plato Philosophus “Sophista” 261a, etc. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.4.b</b> of property, <b>subject to liability,</b> [<a href="javascript:void(0)" title=" PMasp. 312.86 (6th c.AD). ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.5.22]] ☩ [[Matt.26.66]]
+<small><sub>LSJ Scripture Refs: [[Matt.5.22|Matt.5.22]] ☩ [[Matt.26.66|Matt.26.66]]
 </sub></small>

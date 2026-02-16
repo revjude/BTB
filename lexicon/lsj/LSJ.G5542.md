@@ -5,5 +5,5 @@
  <b>fair speaking,</b> in bad sense, [<a href="javascript:void(0)" title=" NT.Rom.16.18. ">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Rom.16.18]]
+<small><sub>LSJ Scripture Refs: [[Rom.16.18|Rom.16.18]]
 </sub></small>

@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.1</b> of sound, <b>strong, deep, bass,</b> opp
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> of smell, <b>strong, offensive,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 6.119. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <i>adverb</i> <span class='asgreek'>βαρέως</span> <b>slowly,</b> <span class='asgreek'>ἐπισπᾶσθαι</span> [<a href="javascript:void(0)" title=" 2nd-1st c.BC(?): Hero Mechanicus “Automatopoetica” 26.6 ">Refs 2nd c.BC+</a>]. (<b>guṛr-u-</b> from <b>gu[rmacr]ṛ-u-,</b> Sanskrit <i>gurús</i> 'heavy', Latin <i>gravis</i> (from <i>feminine</i> <b>gur[schwa]wī-</b>), Gothic <i>kaúrus</i> 'heavy'.)
 
-<small><sub>LSJ Scripture Refs: [[2Cor.10.10]] ☩ [[Acts.25.7]] ☩ [[Matt.23.23]]
+<small><sub>LSJ Scripture Refs: [[2Cor.10.10|2Cor.10.10]] ☩ [[Acts.25.7|Acts.25.7]] ☩ [[Matt.23.23|Matt.23.23]]
 </sub></small>

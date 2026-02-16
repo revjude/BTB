@@ -6,3 +6,6 @@
  <b>that which guides,</b> [<a href="javascript:void(0)" title=" Inscription Perg. 246.27. ">Refs</a>]
 
 $\quad$ $\quad$<b>\_\_II</b> (<span class='asgreek'>ἡγέομαι</span> 111) <b>thought, purpose</b>, [<a href="javascript:void(0)" title=" LXX.Ezek.17.3. ">LXX</a>]
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.17.3|LXX.Ezek.17.3]]
+</sub></small>

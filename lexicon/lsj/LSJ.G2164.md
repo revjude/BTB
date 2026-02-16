@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> of ships, <b>have a prosperous voyage</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Lex.” 15. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.12.16]]
+<small><sub>LSJ Scripture Refs: [[Luke.12.16|Luke.12.16]]
 </sub></small>

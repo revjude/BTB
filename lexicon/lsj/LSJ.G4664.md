@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>smaragdusgreen</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Celsus Medicus 5.19.4, “CPR” 27.8 (2nd c.AD)">Refs 1st c.AD+</a>]; written <span class='asgreek'>ζμ</span>- in [<a href="javascript:void(0)" title=" “PHamb.” 10.25 (2nd c.AD). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rev.4.3]]
+<small><sub>LSJ Scripture Refs: [[Rev.4.3|Rev.4.3]]
 </sub></small>

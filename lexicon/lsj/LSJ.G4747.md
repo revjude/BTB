@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> generally, <b>elementary</b> or <b>fundam
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <span class='asgreek'>ἄστρων</span> <span class='asgreek'>στοιχεῖα</span> the <b>stars</b>, [<a href="javascript:void(0)" title=" 4th c.AD(?): Manetho Astrologus 4.624; σ. καυσούμενα λυθήσεται NT.2Pet.3.10, compare 12 ">NT+4th c.AD+</a>]; especially <b>planets</b>, <span class='asgreek'>στοιχείῳ</span> <span class='asgreek'>Διός</span> [<a href="javascript:void(0)" title=" “PLond.” 1.130.60 (1st-2nd c.AD)">Refs 1st c.AD+</a>]; so perhaps in [<a href="javascript:void(0)" title=" NT.Gal.4.3, NT.Col.2.8 ">NT</a>]; especially a <b>sign of the Zodiac</b>, [<a href="javascript:void(0)" title=" 3rd c.AD(?): Diogenes Laertius 6.102 ">Refs 3rd c.AD+</a>]; of the Great Bear, [<a href="javascript:void(0)" title=" “PMag.Par.” 1.1303. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> <span class='asgreek'>σ</span>. ={<span class='asgreek'>ἀριθμός</span>}, as <i>etymology</i> of <span class='asgreek'>Στοιχαδεύς</span>, Scholia 2nd c.BC: Dionysius Thrax Grammaticus p.192 H.
 
-<small><sub>LSJ Scripture Refs: [[2Pet.3.10]] ☩ [[Gal.4.3]] ☩ [[Col.2.8]]
+<small><sub>LSJ Scripture Refs: [[2Pet.3.10|2Pet.3.10]] ☩ [[Gal.4.3|Gal.4.3]] ☩ [[Col.2.8|Col.2.8]]
 </sub></small>

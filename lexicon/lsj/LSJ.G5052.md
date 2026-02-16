@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> generally, <b>bring to a head</b>, <span cla
 $\quad$ $\quad$<b>\_\_II</b> <b>pay toll</b> or <b>custom</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “de Vectigalibus” 3.5. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>to be a</b> <span class='asgreek'>τελεσφόφος</span>[<a href="javascript:void(0)" title=" (111.2), “GDI” 4837 (from Cyrene), in form -φορέντες,compare “Africa Italiana” 2.130, 153 ([prev. passage]). ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.8.14]]
+<small><sub>LSJ Scripture Refs: [[Luke.8.14|Luke.8.14]]
 </sub></small>

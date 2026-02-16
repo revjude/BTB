@@ -7,5 +7,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_I.2</b> generally, <b>struggle, vie with,</b> <spa
 $\quad$ $\quad$ $\quad$<b>\_\_I.3</b> <b>act a part in rivalry with,</b> <span class='asgreek'>τινί</span>[<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Demosthenes” 29. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> as <i>passive</i>, <b>to be set against,</b> <span class='asgreek'>τινί</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Oeconomicus” 10.12.">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.12.4]]
+<small><sub>LSJ Scripture Refs: [[Heb.12.4|Heb.12.4]]
 </sub></small>

@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> generally, <b>fixed</b> or <b>appointed time
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>occasion of delay,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 15.5.1. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>προθέσμιος</span>, <span class='asgreek'>α</span>, <span class='asgreek'>ον</span>, <i>adjective</i> <b>foreappointed,</b> <span class='asgreek'>Ἔφεσος</span>, <span class='asgreek'>ἡ</span> <span class='asgreek'>π</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>γάμων</span> (i.e. <span class='asgreek'>πόλις</span>) [<a href="javascript:void(0)" title="Ach. Tat. 5.21. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gal.4.2]]
+<small><sub>LSJ Scripture Refs: [[Gal.4.2|Gal.4.2]]
 </sub></small>

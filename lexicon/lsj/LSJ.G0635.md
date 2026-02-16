@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>distribute,</b> in <i>passive</i>, <span class='asgreek'>ἀποπλανᾶται</span> <span class='asgreek'>ἐς</span> <span class='asgreek'>πάντα</span> <span class='asgreek'>αἷμα</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>πνεῦμα</span>[<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ τροφῆς” 33. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>metaphorically</i>, <b>seduce, beguile,</b> <span class='asgreek'>τοὺς</span> <span class='asgreek'>ἐκλεκτούς</span>[<a href="javascript:void(0)" title=" NT.Mark.13.22.">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.13.22]]
+<small><sub>LSJ Scripture Refs: [[Mark.13.22|Mark.13.22]]
 </sub></small>

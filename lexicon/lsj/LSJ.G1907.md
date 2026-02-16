@@ -27,5 +27,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_VI.2</b> <i>absolutely</i>, <b>prevail, predominat
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_VI.2.b</b> of Time, <b>continue,</b> [<a href="javascript:void(0)" title=" τὴν θύραν ἐπεῖχε κρούων Aristophanes Comicus [{5-6th c.BC}] “Ecclesiazusae” 317; ==ἐπέχω==ν καὶ οὐκ ἀνιείς \_continuously,\_ Plato Philosophus [{5-6th c.BC}] “Theaetetus” 165e; ἐπὶ πλείους ἡμέρας ὁ σεισμὸς ἐπεῖχεν Dio Cassius Historicus [{2-3rd c.AD}] 68.25 ">Refs 6th c.BC+</a>]; <span class='asgreek'>σκότος</span>, <span class='asgreek'>νὺξ</span> <span class='asgreek'>ἐπέσχε</span>, <b>came on,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Mar.” 20, “Crass.” 30, etc. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_VII</b> <i>middle</i>, <i>future</i> <span class='asgreek'>ἐπιέξομαι</span>, <b>meet,</b> Oracle texts in [<a href="javascript:void(0)" title="“Michel” 855.39 (5th c.BC: Magnes Comicus Mae.). ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Phil.2.16]]
+<small><sub>LSJ Scripture Refs: [[Phil.2.16|Phil.2.16]]
 </sub></small>

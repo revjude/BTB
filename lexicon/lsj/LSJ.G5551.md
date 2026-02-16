@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> with <i>accusative</i>, <span class='asgreek'>χ</span>. <span class='asgreek'>τὸν</span> <span class='asgreek'>πόλεμον</span> <b>protract</b> the war, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Cat.Mi.” 53, 4th-5th c.AD: Eunapius Historicus “Fragmenta Historica - HGM” p.242 4th c.BC: Demosthenes Orator ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.20.16]]
+<small><sub>LSJ Scripture Refs: [[Acts.20.16|Acts.20.16]]
 </sub></small>

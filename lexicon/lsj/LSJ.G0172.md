@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>innocent, simple</b> (compare <span class
 $\quad$ $\quad$<b>\_\_II</b> <b>unharmed</b>, [<a href="javascript:void(0)" title=" 7th-6th c.BC: Sappho Lyrica 149. ">Refs 7th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>unadulterated,</b> [<a href="javascript:void(0)" title=" POxy. 142 (6th c.AD).">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.16.18]]
+<small><sub>LSJ Scripture Refs: [[Rom.16.18|Rom.16.18]]
 </sub></small>

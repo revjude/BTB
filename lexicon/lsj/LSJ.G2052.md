@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>canvassing for public office, intriguing,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Politica” 1302b4, 1303a14 (\_plural\_). ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>selfish</b> or <b>factious ambition,</b> <span class='asgreek'>ζῆλος</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ἐ</span>. [<a href="javascript:void(0)" title=" NT.Jas.3.14; οἱ ἐξ -είας NT.Phil.1.17 ">NT</a>]; <i>plural</i>, <b>intrigues, party squabbles,</b> [<a href="javascript:void(0)" title="NT.Gal.5.20. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jas.3.14]] ☩ [[Phil.1.17]] ☩ [[Gal.5.20]]
+<small><sub>LSJ Scripture Refs: [[Jas.3.14|Jas.3.14]] ☩ [[Phil.1.16|Phil.1.17]]**\*** ☩ [[Gal.5.20|Gal.5.20]]
 </sub></small>

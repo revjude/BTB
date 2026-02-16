@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>affection,</b> opposed to <span class='asgreek'>μῖσος</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 919e.">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.23.7]] ☩ [[Mark.12.38]]
+<small><sub>LSJ Scripture Refs: [[Matt.23.7|Matt.23.7]] ☩ [[Mark.12.38|Mark.12.38]]
 </sub></small>

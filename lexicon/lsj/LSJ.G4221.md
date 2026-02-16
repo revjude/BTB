@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>receptacle</b> for offerings in temples, 
 $\quad$ $\quad$<b>\_\_II</b> <b>absorbent preparation,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 13.258, 6th c.AD: Alexander Trallianus Medicus 10 (\_plural\_). ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> see at {<span class='asgreek'>ποτίρριον</span>}.
 
-<small><sub>LSJ Scripture Refs: [[1Cor.11.25]]
+<small><sub>LSJ Scripture Refs: [[1Cor.11.25|1Cor.11.25]]
 </sub></small>

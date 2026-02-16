@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> of men, <span class='asgreek'>==ἐφήμε
 $\quad$ $\quad$<b>\_\_II</b> <b>for the day, daily</b>, <span class='asgreek'>πυρετός</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἀφορισμοί” 4.55; τροφή 1st c.BC: Dionysius Halicarnassensis 8.41, NT.Jas.2.15, 2nd c.AD: Vettius Valens Astrologus 62.17. compare 1st c.BC: Diodorus Siculus Historicus 3.32 (\_plural\_); γυμνασία 1st c.BC: Asclepiodotus Tacticus “Tact.” 1.4; πράξεις 2nd c.AD: Lucianus Sophista “Pseudol.” 17; δαπάνη 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pericles” 16, etc.">NT+5th c.BC+</a>]: <i>neuter</i> <i>plural</i> as <i>adverb</i>, <b>once a day</b>, [<a href="javascript:void(0)" title=" 4th c.AD: Oribasius Medicus “Eup.” 1.9. ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>φάρμακον</span> <span class='asgreek'>ἐ</span>. <b>killing on the same day</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Themistocles” 31. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jas.2.15]]
+<small><sub>LSJ Scripture Refs: [[Jas.2.15|Jas.2.15]]
 </sub></small>

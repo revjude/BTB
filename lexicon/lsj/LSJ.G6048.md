@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>damages</b> or <b>fine</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 5.49, 50, 4th c.BC: Demosthenes Orator 47.52, “PHal.” 1.52 (3rd c.BC)">Refs 5th c.BC+</a>]; <span class='asgreek'>μετεῖναι</span> <span class='asgreek'>αὐτῷ</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>ἥμισυ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>κ</span>. [<a href="javascript:void(0)" title=" “IG” 12(8).267.16 (Thasos, 3rd c.BC),compare “Tab.Heracl.” 1.156 (\_plural\_). ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.25.15]]
+<small><sub>LSJ Scripture Refs: [[Acts.25.15|Acts.25.15]]
 </sub></small>

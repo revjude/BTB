@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>στρούθιον</span>, see at {<span class='asgreek'>στρούθειος</span>} 111.
 
-<small><sub>LSJ Scripture Refs: [[LXX.Ps.11.1|LXX.Ps.10.1]]**\*** ☩ [[Matt.10.29]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ps.11.1|LXX.Ps.10.1]]**\*** ☩ [[Matt.10.29|Matt.10.29]]
 </sub></small>

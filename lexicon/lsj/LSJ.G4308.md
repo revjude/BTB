@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_II</b> <i>middle</i>, with <i>perfect</i> and <i>pluperfec
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>foresee,</b> <span class='asgreek'>ἐς</span> <span class='asgreek'>οἷα</span> <span class='asgreek'>φέρονται</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 5.111; τὸν πόλεμον 4th c.BC: Demosthenes Orator 5.24. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>provide for,</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>ἐφ᾽</span> <span class='asgreek'>ἑαυτῶν</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 1.17; ταῦτα 5th-6th c.BC: Plato Philosophus “Respublica” 499a; πάνθ᾽ ἃ προσήκει 4th c.BC: Demosthenes Orator 6.8, etc.">Refs 5th c.BC+</a>]; <b>make provision,</b> <span class='asgreek'>περὶ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>μελλόντων</span> [<a href="javascript:void(0)" title=" 5th c.BC: Lysias Orator 33.7; πρός τι 1st c.BC: Diodorus Siculus Historicus 20.102 ">Refs 5th c.BC+</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>μή</span> c.<i>infinitive</i>, <b>cavere ne..,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 25.11. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.21.29]]
+<small><sub>LSJ Scripture Refs: [[Acts.21.29|Acts.21.29]]
 </sub></small>

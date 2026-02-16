@@ -25,5 +25,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <i>metaphorically</i>, <span class='asgr
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> also of sacred rites, <b>perform</b>, <span class='asgreek'>ἱερά</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Bacchae” 485, compare “IT” 464 (\_anapaest meter\_); θυσίαν τοῖς θεοῖς 1st c.BC: Diodorus Siculus Historicus 4.34, compare 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Theseus” 16; ὄργια “IG” 14.1183 (from Rome), 2nd c.AD: Pausanias Periegeta 4.14.1 ">Refs 5th c.BC+</a>]; <span class='asgreek'>γάμον</span>, <span class='asgreek'>γάμους</span>, [<a href="javascript:void(0)" title=" 3rd c.BC: Callimachus Epicus “Hymnus in Apollinem” 14, 3rd c.BC: Lycophron Tragicus 1387">Refs 3rd c.BC+</a>]:— <i>passive</i>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 775a. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.4</b> <i>passive</i>, of women, <b>to be married</b>, [<a href="javascript:void(0)" title=" “GDI” 3721.5,9 (from Cos). ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.19.30]]
+<small><sub>LSJ Scripture Refs: [[John.19.30|John.19.30]]
 </sub></small>

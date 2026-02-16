@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>given in marriage,</b> [<a href="javascript:void(0)" title=" PMasp. 5.10 (6th c.AD). ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.2.23]]
+<small><sub>LSJ Scripture Refs: [[Acts.2.23|Acts.2.23]]
 </sub></small>

@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>handle roughly, crush, damage</b>, [<a hr
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>digest</b> food, [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus 2.32 (\_passive\_). ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i> in <i>perfect</i> <i>participle</i> -<span class='asgreek'>πεπονηκώς</span> <b>ruinous</b>, [<a href="javascript:void(0)" title=" 6th c.AD: Procopius Caesariensis Historicus “Aed.” 1.4, 8. ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.7.24]]
+<small><sub>LSJ Scripture Refs: [[Acts.7.24|Acts.7.24]]
 </sub></small>

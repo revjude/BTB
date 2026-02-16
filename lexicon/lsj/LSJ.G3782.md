@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>one's due,</b> [<a href="javascript:void(0)" title="NT.Rom.13.7, NT.1Cor.7.3. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.18.32]] ☩ [[Rom.13.7]] ☩ [[1Cor.7.3]]
+<small><sub>LSJ Scripture Refs: [[Matt.18.32|Matt.18.32]] ☩ [[Rom.13.7|Rom.13.7]] ☩ [[1Cor.7.3|1Cor.7.3]]
 </sub></small>

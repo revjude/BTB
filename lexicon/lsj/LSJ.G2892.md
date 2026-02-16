@@ -5,5 +5,5 @@
  = Latin <i>custodia,</i> [<a href="javascript:void(0)" title="NT.Matt.27.65. ">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Matt.27.65]]
+<small><sub>LSJ Scripture Refs: [[Matt.27.65|Matt.27.65]]
 </sub></small>

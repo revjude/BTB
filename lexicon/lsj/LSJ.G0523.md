@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>inquire,</b> <span class='asgreek'>==ἀ�
 $\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, of things, <b>to be demanded in payment,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 5.35. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> of persons, <b>have demanded of one,</b> <span class='asgreek'>==ἀπαιτέω==εῖσθαι</span> <span class='asgreek'>εὐεργεσίαν</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Apologia Socratis” 17; τὸ τῆς ψυχῆς χρέος LXX.Wis.15.8; ἀποδώσειν ὅταν ==ἀπαιτέω==ῆται “BGU” 1058.33 (1st c.BC)">LXX+5th c.BC+</a>]; <b>yield to a request,</b> <span class='asgreek'>οὐκ</span> <span class='asgreek'>==ἀπαιτέω==ούμεσθα</span>, answering to <span class='asgreek'>==ἀπαιτέω==ῶ</span> <span class='asgreek'>σκῆπτρα</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Phoenissae” 602.">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.12.20]]
+<small><sub>LSJ Scripture Refs: [[Luke.12.20|Luke.12.20]]
 </sub></small>

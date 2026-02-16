@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> as <i>passive</i>, <b>to be deified,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Fragmenta” 173 (so explained by “Anecdota Graeca - Bekker” 90">Refs 5th c.BC+</a>]; <i>active</i> in [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus). ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>to be possessed by a demon</b> or <b>evil spirit,</b> [<a href="javascript:void(0)" title="NT.Matt.4.24, +others, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.706d. ">NT+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.4.24]]
+<small><sub>LSJ Scripture Refs: [[Matt.4.24|Matt.4.24]]
 </sub></small>

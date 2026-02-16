@@ -4,3 +4,6 @@
 
  ={<span class='asgreek'>μόλιβος</span>}, [<a href="javascript:void(0)" title=" LXX.Ezek.27.12, “Periplus Maris Rubri [1st c.AD]” 49. ">LXX</a>]
 
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.27.12|LXX.Ezek.27.12]]
+</sub></small>

@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>punish with the last severity,</b> [<a hr
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>divide into two</b> (logically), [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Politicus” 302e, 4th c.BC: Aristoteles Philosophus “de Partibus Animalium” 642b22, 644b19. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <i>intransitive</i>, of the moon, uncertain in [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.929f. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.24.51]]
+<small><sub>LSJ Scripture Refs: [[Matt.24.51|Matt.24.51]]
 </sub></small>

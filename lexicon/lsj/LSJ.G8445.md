@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>make systematic,</b> [<a href="javascript
 $\quad$ $\quad$<b>\_\_II</b> with <i>dative</i> <i>person</i>, <b>act as pioneer, serve as guide</b> to another, <span class='asgreek'>ὁ</span>. <span class='asgreek'>αὐτοῖς</span> (<span class='asgreek'>αὐτούς</span> codices) [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Anabasis” 3.2.24 ">Refs 5th c.BC+</a>]:—<i>middle</i>, <b>make a way for oneself,</b> of troops in a forest, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 20.23. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>==ὁδοποιέω==εῖν</span>, variant for{<span class='asgreek'>ὁδὸν</span> <span class='asgreek'>ποιεῖν</span>}, [<a href="javascript:void(0)" title=" NT.Mark.2.23. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.2.23]]
+<small><sub>LSJ Scripture Refs: [[Mark.2.23|Mark.2.23]]
 </sub></small>

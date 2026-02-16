@@ -20,5 +20,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b>strictly,</b> <span class='asgreek'>�
 $\quad$ $\quad$<b>\_\_IV</b> <span class='asgreek'>οἱ</span> <span class='asgreek'>ἀ</span>. <span class='asgreek'>τόποι</span> <b>privy</b> parts, [<a href="javascript:void(0)" title=" 2nd c.AD: Vettius Valens Astrologus 113.9. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_V</b> see  {<span class='asgreek'>==ἀναγκαῖος==αῖον</span>}, <span class='asgreek'>τό</span>
 
-<small><sub>LSJ Scripture Refs: [[Acts.10.24]]
+<small><sub>LSJ Scripture Refs: [[Acts.10.24|Acts.10.24]]
 </sub></small>

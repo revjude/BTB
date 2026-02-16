@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>unfading, imperishable,</b> <span class='asgreek'>στέφανος</span>[<a href="javascript:void(0)" title=" NT.1Pet.5.4.">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Pet.5.4]]
+<small><sub>LSJ Scripture Refs: [[1Pet.5.4|1Pet.5.4]]
 </sub></small>

@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> Astron., <b>to be in conjunction</b>, <span class='
 $\quad$ $\quad$<b>\_\_III</b> <i>metaphorically</i>, <b>have fellowship with</b>, [<a href="javascript:void(0)" title=" LXX.Wis.6.23(25) ">LXX</a>]; <b>accompany</b>, <span class='asgreek'>ὦ</span> <span class='asgreek'>σ</span>. <span class='asgreek'>τῇ</span> <span class='asgreek'>κλητικῇ</span> [<a href="javascript:void(0)" title=" 1st c.BC: Trypho Grammaticus cited in 2nd c.AD: Apollonius Dyscolus Grammaticus “de Syntaxi;” 48.19, compare 89.21; ==συνοδεύω==εῦσαι δεῖ πρὸς ταῦτα αἴσθησίν τε καὶ νοῦν 2nd c.AD(?): Marcellinus Medicus “de Pulsibus - Festschrift zur 49. Versammlung deutscher Philologen und Schulmänner” 11. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> as <i>passive</i> or <i>middle</i>, <b>go with</b>, <span class='asgreek'>τοῖς</span> <span class='asgreek'>λαχάνοις</span> -<span class='asgreek'>ευέσθω</span> <span class='asgreek'>φύλλα</span> <span class='asgreek'>μήκωνος</span> [<a href="javascript:void(0)" title=" 1st c.AD: Herodotus Medicus cited in 4th c.AD: Oribasius Medicus “Synopsis” 6.32 (variant). ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.9.7]]
+<small><sub>LSJ Scripture Refs: [[Acts.9.7|Acts.9.7]]
 </sub></small>

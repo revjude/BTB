@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>one who tests,</b> [<a href="javascript:void(0)" title=" 4th c.AD: Themistius Sophista “Orationes” 21.247c ">Refs 4th c.AD+</a>]:—<i>feminine</i> <b><span class='asgreek'>==βασανιστής==</span>-<span class='asgreek'>ίστρια</span></b>, <b>examiner,</b> <span class='asgreek'>ἐπῶν</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Ranae” 826. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.18.34]]
+<small><sub>LSJ Scripture Refs: [[Matt.18.34|Matt.18.34]]
 </sub></small>

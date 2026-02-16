@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>==σέβασμα==ασις</span>}, [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 5.1. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.17.23]]
+<small><sub>LSJ Scripture Refs: [[Acts.17.23|Acts.17.23]]
 </sub></small>

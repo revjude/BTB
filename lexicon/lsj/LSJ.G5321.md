@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>disclosure,</b> <span class='asgreek'>ἡ
 $\quad$ $\quad$<b>\_\_II</b> <b>manifestation,</b> <span class='asgreek'>τοῦ</span> <span class='asgreek'>πνεύματος</span> [<a href="javascript:void(0)" title=" NT.1Cor.12.7, cf. NT.2Cor.4.2. ">NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> Astron., <b>becoming visible,</b> [<a href="javascript:void(0)" title=" 5th-6th c.AD: Julianus Laodicensis Astrologus (?) in “Catalogus Codicum Astrologorum” 5(1).189(\_plural\_). ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.12.7]] ☩ [[2Cor.4.2]]
+<small><sub>LSJ Scripture Refs: [[1Cor.12.7|1Cor.12.7]] ☩ [[2Cor.4.2|2Cor.4.2]]
 </sub></small>

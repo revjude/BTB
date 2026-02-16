@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>build upon,</b> <span class='asgreek'>ἐ
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.b</b> <b>edify,</b> <span class='asgreek'>ἑαυτοὺς</span> <span class='asgreek'>τῇ</span> <span class='asgreek'>πίστει</span> [<a href="javascript:void(0)" title=" NT.Jude.20 ">NT</a>]:—<i>passive</i>, -<span class='asgreek'>ούμενοι</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>Χριστῷ</span> [<a href="javascript:void(0)" title=" NT.Col.2.7. ">NT</a>]
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>ἐπιτειχίζω</span>}, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 2.46.5 ">Refs 2nd c.BC+</a>]:—<i>middle</i>, <span class='asgreek'>στρατόπεδα</span> <span class='asgreek'>πέντε</span> -<span class='asgreek'>ησάμενος</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Anabasis” 2.1.2. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.3.12]] ☩ [[Eph.2.20]] ☩ [[Col.2.7]]
+<small><sub>LSJ Scripture Refs: [[1Cor.3.12|1Cor.3.12]] ☩ [[Eph.2.20|Eph.2.20]] ☩ [[Col.2.7|Col.2.7]]
 </sub></small>

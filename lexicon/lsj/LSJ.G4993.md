@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>to be temperate, moderate, show self-cont
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>come to one's senses, learn moderation</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 3.64; σ. ὑπὸ στένει 4th-5th c.BC: Aeschylus Tragicus “Eumenides” 521 (Lyric poetry); ==σωφρονέω==οῦντες ἐν χρόνῳ [prev. work] 1000 (Lyric poetry)">Refs 5th c.BC+</a>]; <span class='asgreek'>οὐ</span> <span class='asgreek'>==σωφρονέω==ήσει</span>; [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Ajax” 1259; ἐσωφρόνησας [prev. author] “Ph.” 1259 ">Refs 5th c.BC+</a>]; <span class='asgreek'>σε==σωφρονέω==ηκώς</span> <b>when he had recovered his senses</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Phaedrus” 241b. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <i>passive</i>, <span class='asgreek'>τὰ</span> <span class='asgreek'>σε==σωφρονέω==ημένα</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>τῷ</span> <span class='asgreek'>βίῳ</span> <span class='asgreek'>μοι</span> <b>things I had done with discretion</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aeschines Orator 2.4. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.5.15]] ☩ [[Rom.12.3]]
+<small><sub>LSJ Scripture Refs: [[Mark.5.15|Mark.5.15]] ☩ [[Rom.12.3|Rom.12.3]]
 </sub></small>

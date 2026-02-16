@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>view as spectators</b>, especially in the
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <span class='asgreek'>θ</span>. <span class='asgreek'>τὸ</span> <span class='asgreek'>στράτευμα</span> <b>to review</b> it, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 5.5.1. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>active</i> <b><span class='asgreek'>θεάω</span></b>, late, Baillet <b>Tombeaux des rois à Thèbes</b> [<a href="javascript:void(0)" title=" 1080: elsewhere in \_imperative\_ θέα 4th c.AD: Themistius Sophista “Orationes” 3.44b, 4th c.AD: Julianus Imperator “Epistulae” 89b, 5th c.AD(?): Hesychius Legal icographus: ">Refs 4th c.AD+</a>]<i>aorist</i> <span class='asgreek'>ἐθεάθην</span> in <i>passive</i> sense, Ps. -Callisth.[<a href="javascript:void(0)" title=" 2.42, NT.Mark.16.11, 1st c.AD: Apollonius Tyanensis Epistolographus “Epistulae” 49, 6th c.AD: Justinianus Imperator “Novellae” 133.3.1 ">NT+1st c.AD+</a>]: <i>present</i> <span class='asgreek'>θεῶνται</span> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “Heroicus” 2.9. (Orig. probably θᾱϝ έομαι and θᾱϝάομαι, compare θαῦ-μα.) ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.16.11]]
+<small><sub>LSJ Scripture Refs: [[Mark.16.11|Mark.16.11]]
 </sub></small>

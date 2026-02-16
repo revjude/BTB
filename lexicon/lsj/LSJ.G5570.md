@@ -5,5 +5,5 @@
  <b>false ambassador</b> or <b>apostle,</b> [<a href="javascript:void(0)" title=" NT.2Cor.11.13. ">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[2Cor.11.13]]
+<small><sub>LSJ Scripture Refs: [[2Cor.11.13|2Cor.11.13]]
 </sub></small>

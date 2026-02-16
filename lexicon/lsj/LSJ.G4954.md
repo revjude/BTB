@@ -5,5 +5,5 @@
  <b>united in one body,</b> [<a href="javascript:void(0)" title="NT.Eph.3.6. ">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Eph.3.6]]
+<small><sub>LSJ Scripture Refs: [[Eph.3.6|Eph.3.6]]
 </sub></small>

@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <span class='asgreek'>τὸ</span> <span cla
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <span class='asgreek'>λοιπόν</span>, <i>adverb</i> <b>then, well then</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 1.15.11, +others, 1st c.AD: Dioscorides (Dioscurides) Medicus 2.83, 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 1.24.1; οὐδεμία λ. ἀμφισβήτησίς ἐστιν “BGU” 969.19 (2nd c.AD). ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_5.b</b> <b>finally</b>, <span class='asgreek'>λ</span>., <span class='asgreek'>ἀδελφοί</span>, <span class='asgreek'>χαίρετε</span> [<a href="javascript:void(0)" title=" NT.2Cor.13.11. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.26.45]] ☩ [[Mark.14.41]] ☩ [[2Cor.13.11]]
+<small><sub>LSJ Scripture Refs: [[Matt.26.45|Matt.26.45]] ☩ [[Mark.14.41|Mark.14.41]] ☩ [[2Cor.13.11|2Cor.13.11]]
 </sub></small>

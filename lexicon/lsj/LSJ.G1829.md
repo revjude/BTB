@@ -5,5 +5,5 @@
  <b>vomit, thing vomited,</b> [<a href="javascript:void(0)" title=" NT.2Pet.2.22. ">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[2Pet.2.22]]
+<small><sub>LSJ Scripture Refs: [[2Pet.2.22|2Pet.2.22]]
 </sub></small>

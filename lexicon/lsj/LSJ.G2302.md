@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> collective for <span class='asgreek'>οἱ</
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> ={<span class='asgreek'>θέαμα</span>}, <b>spectacle</b>, <span class='asgreek'>θ</span>. <span class='asgreek'>ἐγενήθημεν</span> <span class='asgreek'>τῷ</span> <span class='asgreek'>κόσμῳ</span> [<a href="javascript:void(0)" title=" NT.1Cor.4.9. ">NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <i>metaphorically</i>, of <b>life</b>, <span class='asgreek'>τουτὶ</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>θ</span>. <span class='asgreek'>ὑπεκρίθημεν</span> [<a href="javascript:void(0)" title=" 3rd c.AD: Porphyrius Tyrius Philosophus “ad Marcellam - Porphyrii Opuscula” 2. ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.19.20]] ☩ [[1Cor.4.9]]
+<small><sub>LSJ Scripture Refs: [[Acts.19.20|Acts.19.20]] ☩ [[1Cor.4.9|1Cor.4.9]]
 </sub></small>

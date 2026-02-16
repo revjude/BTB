@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>without sutures,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus “de Usu Partium” 11.19.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.19.23]]
+<small><sub>LSJ Scripture Refs: [[John.19.23|John.19.23]]
 </sub></small>

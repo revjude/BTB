@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>compound</b>, <span class='asgreek'>ἐκ</span>
 $\quad$ $\quad$<b>\_\_III</b> Grammars, in <i>passive</i>, <b>coalesce by crasis</b>, <span class='asgreek'>τὸ</span> <span class='asgreek'>ῥῆμα</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ὁ</span> <span class='asgreek'>σύνδεσμος</span> <span class='asgreek'>συναλοιφῇ</span> <span class='asgreek'>κερασθέντα</span> [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis “de Compositione Verborum” 22. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>multiply into</b>, <span class='asgreek'>ὅταν</span> <span class='asgreek'>ὁ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>δεκάδος</span> <span class='asgreek'>λόγος</span> <span class='asgreek'>τῷ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>ἑβδομάδος</span> <span class='asgreek'>κερασθῇ</span> [<a href="javascript:void(0)" title=" “Theologumena Arithmeticae” 50. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rev.18.6]]
+<small><sub>LSJ Scripture Refs: [[Rev.18.6|Rev.18.6]]
 </sub></small>

@@ -5,5 +5,5 @@
  <b>run together</b> to a place, [<a href="javascript:void(0)" title=" NT.Mark.9.25. ">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Mark.9.25]]
+<small><sub>LSJ Scripture Refs: [[Mark.9.25|Mark.9.25]]
 </sub></small>

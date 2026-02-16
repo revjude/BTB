@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>the party itself, the guests</b>, [<a href="javascript:void(0)" title=" LXX.3Mac.5.36, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.157d, 704d">LXX+1st c.AD+</a>]; <span class='asgreek'>ἀνακλιθῆναι</span>.. <span class='asgreek'>==συμπόσιον==α</span> <span class='asgreek'>==συμπόσιον==α</span> in <b>groups,</b> [<a href="javascript:void(0)" title="NT.Mark.6.39. ">NT</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>the room in which such parties were given</b>, <span class='asgreek'>τοῦ</span> <span class='asgreek'>σ</span>. <span class='asgreek'>στέγη</span> [<a href="javascript:void(0)" title=" 3rd c.BC(?): Callixinus Historicus 2, compare “BGU” 1793.11 (1st c.BC)">Refs 3rd c.BC+</a>]; <span class='asgreek'>σαίρειν</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “D Deor.” 24.1, etc. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.6.39]]
+<small><sub>LSJ Scripture Refs: [[Mark.6.39|Mark.6.39]]
 </sub></small>

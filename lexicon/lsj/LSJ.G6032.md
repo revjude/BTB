@@ -6,5 +6,5 @@
  <b>mockery</b>, [<a href="javascript:void(0)" title=" NT.2Pet.3.3. ">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[2Pet.3.3]]
+<small><sub>LSJ Scripture Refs: [[2Pet.3.3|2Pet.3.3]]
 </sub></small>

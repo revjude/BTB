@@ -59,5 +59,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_B.II.2</b> <b>behave,</b> <span class='asgreek'>�
 $\quad$ $\quad$ $\quad$<b>\_\_B.II.3</b> <b>have an opinion,</b> <span class='asgreek'>ὅπως</span> <span class='asgreek'>ἠνέχθη</span> <span class='asgreek'>περὶ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>σφυγμοῦ</span> what <b>his opinion was</b> about.., [<a href="javascript:void(0)" title=" 2nd c.AD(?): Marcellinus Medicus “de Pulsibus - Festschrift zur 49. Versammlung deutscher Philologen und Schulmänner” 233. ">Refs 2nd c.AD+</a>]
 $\quad$ <b>\_\_C</b> <i>middle</i>: for its chief usages, see above [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus VI. 3. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.2.4]] ☩ [[Heb.9.16]]
+<small><sub>LSJ Scripture Refs: [[Mark.2.4|Mark.2.4]] ☩ [[Heb.9.16|Heb.9.16]]
 </sub></small>

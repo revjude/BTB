@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>post-position,</b> <span class='asgreek'>ἐν</span> <span class='asgreek'>ὑποταγῇ</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Pronominibus;” 35.23, compare “Synt.” 306.8. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>copy,</b> <span class='asgreek'>ψηφισμάτων</span>.. <span class='asgreek'>καὶ</span> <span class='asgreek'>ἐπιστολῆς</span> [<a href="javascript:void(0)" title=" “IGRom.” 3.705 (Lycia, 2nd c.AD, \_plural\_). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.9.13]] ☩ [[Gal.2.5]]
+<small><sub>LSJ Scripture Refs: [[2Cor.9.13|2Cor.9.13]] ☩ [[Gal.2.5|Gal.2.5]]
 </sub></small>

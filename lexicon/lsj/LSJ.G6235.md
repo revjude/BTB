@@ -5,3 +5,6 @@
 
  <b>speaking a foreign tongue,</b> [<a href="javascript:void(0)" title=" LXX.Ezek.3.6, 5th c.AD(?): Hesychius Legal icographus see at {==ἀλλόφωνος==θροος}.">LXX+5th c.AD+</a>]
 
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.3.6|LXX.Ezek.3.6]]
+</sub></small>

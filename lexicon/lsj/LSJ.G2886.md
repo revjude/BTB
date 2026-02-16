@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>of this world, earthly,</b> [<a href="javascript:void(0)" title="NT.Heb.9.1">NT</a>]; <b>worldly</b>, <span class='asgreek'>ἐπιθυμίαι</span> [<a href="javascript:void(0)" title=" NT.Titus.2.12. ">NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>secular, lay</b>, opposed to clerical, [<a href="javascript:void(0)" title=" 6th c.AD: Justinianus Imperator “Novellae” 123.1.2. ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.9.1]] ☩ [[Titus.2.12]]
+<small><sub>LSJ Scripture Refs: [[Heb.9.1|Heb.9.1]] ☩ [[Titus.2.12|Titus.2.12]]
 </sub></small>

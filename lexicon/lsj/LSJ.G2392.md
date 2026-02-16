@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>mending, repairs</b>, <span class='asgreek'>ζυγάστρου</span> [<a href="javascript:void(0)" title=" “SIG” 244i53 (Delph., 4th c.BC). ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> Alch., <b>cupellation, refining,</b> [<a href="javascript:void(0)" title=" PLeid.X. 21. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.13.32]]
+<small><sub>LSJ Scripture Refs: [[Luke.13.32|Luke.13.32]]
 </sub></small>

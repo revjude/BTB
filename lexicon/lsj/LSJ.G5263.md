@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>show by tracing out, mark out,</b> <span class='
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> generally, <b>teach, indicate,</b> <span class='asgreek'>ὑ</span>. <span class='asgreek'>αὐτοῖς</span> <span class='asgreek'>οἵους</span> <span class='asgreek'>εἶναι</span> <span class='asgreek'>χρὴ</span>.. [<a href="javascript:void(0)" title=" 5th-6th c.BC: Isocrates Orator 3.57, compare 5.111, “Ep.” 2.11; ὡς ἔμπροσθεν ὑπεδείξαμεν 2nd c.AD: Soranus Medicus 1.16, compare 54, +others, 2nd-3rd c.AD: Aelianus “Tactica - Griechische Kriegsschriftsteller” 28.1. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>make a show of, pretend to,</b> <span class='asgreek'>ἀρετήν</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 4.86, compare 2nd c.BC: Polybius Historicus 2.47.10. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.3.7]]
+<small><sub>LSJ Scripture Refs: [[Matt.3.7|Matt.3.7]]
 </sub></small>

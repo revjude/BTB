@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.3.b</b> especially for the stool, uncer
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.3.c</b> <b>rising again</b> after a fall, [<a href="javascript:void(0)" title=" NT.Luke.2.34. ">NT</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.3.d</b> <b>rising from the dead,</b> <span class='asgreek'>Τυνδάρεω</span>[<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Salt.” 45">Refs 2nd c.AD+</a>]; <span class='asgreek'>εἰς</span> <span class='asgreek'>==ἀνάστασις==στασιν</span> [perhaps <span class='asgreek'>βλέποντες</span>] [<a href="javascript:void(0)" title=" “IGRom.” 4.743 (Eumeneia, 3rd c.AD)">Refs 3rd c.AD+</a>]: frequently in N.T., [<a href="javascript:void(0)" title=" NT.Matt.22.23, +others; ἀ. νεκρῶν NT.Acts.23.6; ἀ. ζωῆς, κρίσεως NT.John.5.29; ἀπὸ σώματος ἀ. 3rd c.AD: Plotinus Philosophus 3.6.6.">NT+3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.11.35]] ☩ [[Luke.2.34]] ☩ [[Matt.22.23]] ☩ [[Acts.23.6]] ☩ [[John.5.29]]
+<small><sub>LSJ Scripture Refs: [[Heb.11.35|Heb.11.35]] ☩ [[Luke.2.34|Luke.2.34]] ☩ [[Matt.22.23|Matt.22.23]] ☩ [[Acts.23.6|Acts.23.6]] ☩ [[John.5.29|John.5.29]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> in <i>passive</i>, <b>to be drowned</b>, of the Gadarene swine, [<a href="javascript:void(0)" title=" 3rd c.AD: Porphyrius Tyrius Philosophus “adversus Christianos - Abh. Berl. Akad.” 49. ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.8.42]] ☩ [[Mark.4.7]] ☩ [[Matt.13.22]] ☩ [[Luke.8.14]]
+<small><sub>LSJ Scripture Refs: [[Luke.8.42|Luke.8.42]] ☩ [[Mark.4.7|Mark.4.7]] ☩ [[Matt.13.22|Matt.13.22]] ☩ [[Luke.8.14|Luke.8.14]]
 </sub></small>

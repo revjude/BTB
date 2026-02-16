@@ -18,5 +18,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> <span class='asgreek'>ἐπὶ</span> <sp
 $\quad$ $\quad$<b>\_\_III</b> with <i>genitive</i> <i>of things</i>, <b>rise above, be able to bear,</b> <span class='asgreek'>τῆς</span> <span class='asgreek'>ἀντλίας</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Pax” 17; τῶν ἀναλωμάτων 1st c.BC: Diodorus Siculus Historicus 4.80 (variant for{ὑπερεῖδον}). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>have over,</b> <span class='asgreek'>ὑπερέχει</span> he <b>has in hand,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Zenon Papyri du Caire 292.498, compare 790.25 (3rd c.BC); ὑπερέξομεν πρὸς τὸ διὰ χερός [prev. work]355.93 (3rd c.BC).">Refs 3rd c.BC+</a>] —Cf. <span class='asgreek'>ὑπερίσχω</span>.
 
-<small><sub>LSJ Scripture Refs: [[Phil.2.3]]
+<small><sub>LSJ Scripture Refs: [[Phil.2.3|Phil.2.3]] ☩ [[LXX.Ezek.28.3|LXX.Ezek.28.3]]
 </sub></small>

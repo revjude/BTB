@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> the <b>sleep of death</b>, [<a href="javascript:void(0)" title=" LXX.Sir.46.19, 48.13, “Tab.Defix.Aud.” 242.30 (Carthage, 3rd c.AD). ">LXX+3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.11.13]]
+<small><sub>LSJ Scripture Refs: [[John.11.13|John.11.13]]
 </sub></small>

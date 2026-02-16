@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> in <i>singular</i>, a single <b>beast</b>, as <b>an ox</b> or <b>sheep</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.132, 5th c.BC: Hippocrates Medicus “περὶ καρδίης” 2, 5th-6th c.BC: Xenophon Historicus “Anabasis” 5.2.3 ">Refs 5th c.BC+</a>]; <b>horse</b> or <b>mule for riding,</b> [<a href="javascript:void(0)" title="NT.Luke.10.34, NT.Acts.23.24 ">NT</a>]; of a domestic animal, opposed to <span class='asgreek'>θηρίον</span>, [<a href="javascript:void(0)" title=" 2nd c.AD: Marcus Antoninus Imperator 5.11. (Late \_dative\_ \_plural\_ κτῆσι “PFlor.” 258.6, etc.) ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.10.34]] ☩ [[Acts.23.24]]
+<small><sub>LSJ Scripture Refs: [[Luke.10.34|Luke.10.34]] ☩ [[Acts.23.24|Acts.23.24]]
 </sub></small>

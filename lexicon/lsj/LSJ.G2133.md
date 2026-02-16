@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>gift</b> or <b>present in token of goodwill</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 19.282 ">Refs 4th c.BC+</a>]: <i>plural</i>, <b>benevolences</b>, [<a href="javascript:void(0)" title=" [prev. author] 8.25. [εὔνοια as dactyl, “Arch.Papyrus” 1.220 (twice, 2nd c.BC).] ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eph.6.7]]
+<small><sub>LSJ Scripture Refs: [[Eph.6.7|Eph.6.7]]
 </sub></small>

@@ -5,5 +5,5 @@
  <b>full of idols, given to idolatry,</b> [<a href="javascript:void(0)" title=" NT.Acts.17.16. ">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Acts.17.16]]
+<small><sub>LSJ Scripture Refs: [[Acts.17.16|Acts.17.16]]
 </sub></small>

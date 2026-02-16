@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>hot-air room</b> in baths, [<a href="javascript:
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>volume</b>, [<a href="javascript:void(0)" title=" 2nd-1st c.BC(?): Hero Mechanicus “\*Stereom.” 57, +others ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> a pigment, <b>sky-blue</b> or <b>grey</b>, [<a href="javascript:void(0)" title=" [prev. author] “Aut.” 28.3">Refs</a>]. [<span class='asgreek'>ᾱ</span>, except in [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Fragmenta” 642, 1st c.AD(?): Pseudo-Phocylidea [108].]">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.9.26]]
+<small><sub>LSJ Scripture Refs: [[1Cor.9.26|1Cor.9.26]]
 </sub></small>

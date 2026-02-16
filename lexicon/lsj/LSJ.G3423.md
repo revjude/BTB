@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.b</b> <i>metaphorically</i>, <span clas
 $\quad$ $\quad$<b>\_\_III</b> generally, <b>sue, canvass for</b> a thing, with <i>accusative</i>, <span class='asgreek'>χειροτονίαν</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Isocrates Orator 8.15 ">Refs 5th c.BC+</a>]: with <i>infinitive</i>, <span class='asgreek'>==μνηστεύω==ευόμενος</span> <span class='asgreek'>ἄρχειν</span> <span class='asgreek'>ἑκόντων</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Caesar” 58:">Refs 1st c.AD+</a>] —also in <i>middle</i>, <span class='asgreek'>μ</span>. <span class='asgreek'>πόλεμον</span>, <span class='asgreek'>διαλλαγάς</span>, [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Bellum Judaicum” 2.17.3, “AJ” 5.7.4. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <span class='asgreek'>λόγον</span> <span class='asgreek'>μ</span>. <span class='asgreek'>τινί</span> <b>pass off</b> a speech upon a person, <b>hawk</b> it to him, [<a href="javascript:void(0)" title=" 5th-4th c.BC: Socratis et Socraticorum Epistulae “Ep.” 30.13. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.1.27]] ☩ [[Luke.2.5]]
+<small><sub>LSJ Scripture Refs: [[Luke.1.27|Luke.1.27]] ☩ [[Luke.2.5|Luke.2.5]]
 </sub></small>

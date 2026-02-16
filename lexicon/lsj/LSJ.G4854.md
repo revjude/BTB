@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>grown together</b>, <span class='asgreek'>δι�
 $\quad$ $\quad$<b>\_\_III</b> <b>thickly wooded</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 1.74.6, 2nd-3rd c.AD: Dio Cassius Historicus 40.29. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>fully cultivated</b>, <span class='asgreek'>ἀμπελὼν</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title=" “PGrenf.” 2.28.7 (2nd c.BC), “PLips.” 1.5 (2nd c.BC). ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.6.5]]
+<small><sub>LSJ Scripture Refs: [[Rom.6.5|Rom.6.5]]
 </sub></small>

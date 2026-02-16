@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_IV</b> concrete, <b>body of citizens,</b> <span class='asg
 $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> <b>corporate body of citizens</b> resident in a foreign city, <span class='asgreek'>Καυνίων</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>π</span>. (at Sidon) [<a href="javascript:void(0)" title=" “OGI” 592; τὸ π. τῶν ἐν Βερενίκῃ Ἰουδαίων “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 5361.21 ">Refs</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>π</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>Κρητῶν</span> (in Egypt) [<a href="javascript:void(0)" title=" “PTeb.” 32.17 (2nd c.BC). ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_IV.2.b</b> generally, <b>corporate body, association,</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>π</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>γυναικῶν</span> [<a href="javascript:void(0)" title=" “BCH” 15.182,205 (from Panamara)">Refs</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>π</span>. <span class='asgreek'>τινός</span> <b>founded by</b> a person, [<a href="javascript:void(0)" title=" “Sammelb.” 5793 (1st c.AD). ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Phil.3.20]]
+<small><sub>LSJ Scripture Refs: [[Phil.3.20|Phil.3.20]]
 </sub></small>

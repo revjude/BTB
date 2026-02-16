@@ -22,5 +22,5 @@ $\quad$ $\quad$<b>\_\_VII</b> <i>imperative</i> <span class='asgreek'>εἰπέ
  
 $\quad$ <b>\_\_A</b> <b>say, call, name,</b> <span class='asgreek'>ἤν</span> <span class='asgreek'>Πέρσειον</span> <span class='asgreek'>ἔπουσιν</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Nicander Epicus “Alexipharmaca” 429, compare 490, “Th.” 508. (Prob. invented by 2nd c.BC: Nicander Epicus, as \_present\_ of ==εἶπον==.) ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.4.3]]
+<small><sub>LSJ Scripture Refs: [[Matt.4.3|Matt.4.3]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <span class='asgreek'>σῆτες</span> <span class='asgreek'>ἀκανθοβάται</span> or -<span class='asgreek'>λόγοι</span>, of the Grammarians, <b>bookworms,</b> [<a href="javascript:void(0)" title=" Anthologia Graeca 11.322 (1st c.AD: Antiphanes Macedo Epigrammaticus), 347 (1st c.AD: Philippus Epigrammaticus). ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.6.19]] ☩ [[Luke.12.33]]
+<small><sub>LSJ Scripture Refs: [[Matt.6.19|Matt.6.19]] ☩ [[Luke.12.33|Luke.12.33]]
 </sub></small>

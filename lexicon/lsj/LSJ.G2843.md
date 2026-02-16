@@ -15,5 +15,5 @@ $\quad$ $\quad$<b>\_\_II</b> <i>active</i>, <b>receptive, sharing in</b>, <span 
 $\quad$ $\quad$<b>\_\_III</b> <i>adverb</i> -<span class='asgreek'>κῶς</span>, <span class='asgreek'>χρῆσθαι</span> <span class='asgreek'>τοῖς</span> <span class='asgreek'>εὐτυχήμασι</span> to suffer others <b>to partake in</b> one's good fortune, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 18.48.7; κ. βιῶναι 1st c.BC: Diodorus Siculus Historicus 5.9; ζῆν κ. καὶ φιλικῶς 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.1108c, etc. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> in Medicine texts, <b>by sympathy</b>, <span class='asgreek'>κ</span>. <span class='asgreek'>σπᾶσθαι</span> probably in [<a href="javascript:void(0)" title=" 6th c.AD: Aëtius Medicus 3.140. ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Tim.6.18]]
+<small><sub>LSJ Scripture Refs: [[1Tim.6.18|1Tim.6.18]]
 </sub></small>

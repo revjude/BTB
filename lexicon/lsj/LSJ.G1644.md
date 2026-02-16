@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>alleviation</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Aretaeus Medicus “χρονίων νούσων θεραπευτικόν” 2.2. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>ὀλιγότης</span>}, [<a href="javascript:void(0)" title=" 10th c.AD: Suidas Legal icographus ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.1.17]]
+<small><sub>LSJ Scripture Refs: [[2Cor.1.17|2Cor.1.17]]
 </sub></small>

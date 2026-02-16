@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>overwhelm, submerge</b>, of a flood, <span class='asgreek'>οἰκίας</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.306f ">Refs 1st c.AD+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" [prev. author] “Daed.” 7. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>metaphorically</i>, <span class='asgreek'>β</span>. <span class='asgreek'>ἀνθρώπους</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>ὄλεθρον</span> [<a href="javascript:void(0)" title=" NT.1Tim.6.9 ">NT</a>]:—<i>passive</i>, <b>to be ruined</b>, <span class='asgreek'>τοὺς</span> <span class='asgreek'>διὰ</span> <span class='asgreek'>φιλοκερδίαν</span> <span class='asgreek'>βυθιζομένους</span> [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “de Morte - Papiri Ercolanesi” 33; τὸ νῆφον ὑπὸ τοῦ πάθους βυθίζεται 4th c.AD: Alciphro Epistolographus 1.13; νοῦς βυθισθεὶς θυμῷ ἢ ἐπιθυμίᾳ 6th c.AD: Simplicius Philosophus “in Aristotelis Physica commentaria - Comm. in Arist. Graeca” 273.11, compare 3rd c.AD: Heliodorus Scriptor Eroticus 7.12. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Tim.6.9]]
+<small><sub>LSJ Scripture Refs: [[1Tim.6.9|1Tim.6.9]]
 </sub></small>

@@ -12,5 +12,5 @@ $\quad$ $\quad$<b>\_\_B.III</b> <i>passive</i>, <span class='asgreek'>ἀπει�
 $\quad$ $\quad$ $\quad$<b>\_\_B.III.2</b> of things, <span class='asgreek'>τὰ</span> <span class='asgreek'>ἀπειληθέντα</span>, ={<span class='asgreek'>ἀπειλαί</span>}, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 823c. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_B.IV</b> later in <i>middle</i>, with <i>aorist 1</i> <b>-<span class='asgreek'>ησάμην</span></b>[<a href="javascript:void(0)" title=" 2nd c.AD: Appianus Historicus “Bella Civilia” 3.29, 2nd c.AD: Polyaenus Historicus 7.35.2">Refs 2nd c.AD+</a>]: with <i>infinitive</i>, <b>forbid with threats,</b> <span class='asgreek'>ἀπειλησώμεθα</span> <span class='asgreek'>αὐτοῖς</span> <span class='asgreek'>μηκέτι</span> <span class='asgreek'>λαλεῖν</span>[<a href="javascript:void(0)" title=" NT.Acts.4.17.">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.4.17]]
+<small><sub>LSJ Scripture Refs: [[Acts.4.17|Acts.4.17]]
 </sub></small>

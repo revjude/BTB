@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>storey</b> of a house, [<a href="javas
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> frequently in <i>plural</i>, <b>house, dwelling</b>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 3, 518, +others">Refs 4th c.BC+</a>]; <span class='asgreek'>κατὰ</span> <span class='asgreek'>==στέγη==ας</span> at <b>home</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 637, +others">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐπελεῦσαι</span> <span class='asgreek'>τῷ</span> <span class='asgreek'>ἀνδρὶ</span> <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>==στέγη==αν</span> to the man's <b>house,</b> [<a href="javascript:void(0)" title=" Leges Gortynensium 3.46, compare “Schwyzer” 177.3 (Crete, 5th c.BC). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>deck of a ship</b>, in Latin <i>stega</i>, [<a href="javascript:void(0)" title=" 3rd-2nd c.BC: Plautus Comicus Latinus “Bacch.” 278, “Stich.” 413. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.2.4]]
+<small><sub>LSJ Scripture Refs: [[Mark.2.4|Mark.2.4]]
 </sub></small>

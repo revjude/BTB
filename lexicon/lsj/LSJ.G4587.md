@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> of a girl, <b>reserve</b> or <b>shyness</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Iphigenia Aulidensis” 1344. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Titus.2.7]] ☩ [[1Tim.2.2]]
+<small><sub>LSJ Scripture Refs: [[Titus.2.7|Titus.2.7]] ☩ [[1Tim.2.2|1Tim.2.2]]
 </sub></small>

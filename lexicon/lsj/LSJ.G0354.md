@@ -15,5 +15,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>making good, making amends,</b> [<a hr
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>repair,</b> [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 13.1.38, “PSI” 1.83.11 (3rd c.AD). ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>repetition,</b> [[<a href="javascript:void(0)" title=" 3rd c.AD: Longinus Rhetor] “Rh.” p.200H.">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.9.51]]
+<small><sub>LSJ Scripture Refs: [[Luke.9.51|Luke.9.51]]
 </sub></small>

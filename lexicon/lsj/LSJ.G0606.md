@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>to be laid aside, neglected,</b> <span class='a
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <span class='asgreek'>ἀποκειμένη</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>παλαιὰ</span> <span class='asgreek'>φύσις</span> <b>stale,</b> of perfume, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 3.46. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>to be exposed, lie open, to,</b> <span class='asgreek'>χώρα</span> <span class='asgreek'>ἀ</span>. <span class='asgreek'>βαρβάροις</span>[<a href="javascript:void(0)" title=" 6th c.AD: Procopius Caesariensis Historicus “de Aedificiis” 4.2, compare 2.9.">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.9.27]]
+<small><sub>LSJ Scripture Refs: [[Heb.9.27|Heb.9.27]]
 </sub></small>

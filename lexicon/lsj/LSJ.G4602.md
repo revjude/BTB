@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>σιγῇ</span>, as <i>adver
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>in an undertone, in a whisper, secretly</b> [<a href="javascript:void(0)" title="compare (σῖγα 2), σ. λόγον ἐποιέετο 5th c.BC: Herodotus Historicus 8.74; τὰ σ. βουλευόμενα 5th-6th c.BC: Xenophon Historicus “Memorabilia” 1.1.19 ">Refs 5th c.BC+</a>]; <span class='asgreek'>σιγῇ</span> <span class='asgreek'>ἔχειν</span> <span class='asgreek'>τι</span> keep it <b>secret</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 9.93 ">Refs 5th c.BC+</a>]; <span class='asgreek'>σιγᾷ</span> <span class='asgreek'>καλύψαι</span>, <span class='asgreek'>σιγῇ</span> <span class='asgreek'>στέγειν</span>, <span class='asgreek'>κεύθειν</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “N.” 9.7, 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 341, “Tr.” 989 (\_anapaest meter\_). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> with <i>genitive</i>, <span class='asgreek'>σιγῇ</span> <span class='asgreek'>τινος</span> <b>unknown to</b> him, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 2.140, 5th c.BC: Euripides Tragicus “Medea” 587. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rev.8.1]]
+<small><sub>LSJ Scripture Refs: [[Rev.8.1|Rev.8.1]]
 </sub></small>

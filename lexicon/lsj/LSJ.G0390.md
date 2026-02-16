@@ -17,5 +17,5 @@ $\quad$ $\quad$<b>\_\_B.III</b> of soldiers, <b>face about, rally,</b> [<a href=
 $\quad$ $\quad$ $\quad$<b>\_\_B.III.2</b> <b>to be reversed</b> or <b>inverted,</b> <span class='asgreek'>ἐμοὶ</span> <span class='asgreek'>τοῦτ᾽</span> <span class='asgreek'>ἀνέστραπται</span>[<a href="javascript:void(0)" title=" [prev. author] “Hier.” 4.5, compare “Cyr.” 8.8.13, 4th c.BC: Aristoteles Philosophus “Mechanica” 854a10. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_B.III.3</b> <b>return,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Politicus” 271a">Refs 5th c.BC+</a>]; <b>retreat,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 621b34.">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Tim.3.15]]
+<small><sub>LSJ Scripture Refs: [[1Tim.3.15|1Tim.3.15]]
 </sub></small>

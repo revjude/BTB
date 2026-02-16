@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>make strange,</b> of plants and animal
 $\quad$ $\quad$<b>\_\_III</b> <i>intransitive</i>, <b>to be a stranger, speak with a foreign accent,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 57.18; τὸ ==ξενίζω==ίζον τῆς λέξεως 1st c.BC: Diodorus Siculus Historicus 12.53, compare 2nd c.AD: Lucianus Sophista “Hist.Conscr.” 45. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>to be strange</b> or <b>unusual,</b> of diseases, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 17(1).162; ξ. τῷ σχήματι 2nd c.AD: Lucianus Sophista “Anach.” 16; τῷ τρίβωνι [prev. author] “Merc.Cond.” 24; θάνατος.. τῇ τόλμῃ ==ξενίζω==ίζων [prev. author] “Hist. Conscr.” 25. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.10.6]] ☩ [[1Pet.4.12]] ☩ [[1Pet.4.4]]
+<small><sub>LSJ Scripture Refs: [[Acts.10.6|Acts.10.6]] ☩ [[1Pet.4.12|1Pet.4.12]] ☩ [[1Pet.4.4|1Pet.4.4]]
 </sub></small>

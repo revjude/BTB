@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>pitcher, cup,</b> [<a href="javascript:void(0)" title="NT.Mark.7.4, “POxy.” 921.23 (3rd c.AD)">NT+3rd c.AD+</a>], Harp.Astr.in [<a href="javascript:void(0)" title=" “Catalogus Codicum Astrologorum” 8(3).139. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.7.4]]
+<small><sub>LSJ Scripture Refs: [[Mark.7.4|Mark.7.4]]
 </sub></small>

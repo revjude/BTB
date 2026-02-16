@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.7</b> <b>grasp with the mind, perceive, apprehe
 $\quad$ $\quad$<b>\_\_III</b> in <i>middle</i> also, <b>hold back,</b> <span class='asgreek'>ἵππου</span> <span class='asgreek'>τῷ</span> <span class='asgreek'>χαλινῷ</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “de Equitandi ratione” 10.15, compare 4th c.BC: Aristoteles Philosophus “Magna Moralia” 1188b6">Refs 5th c.BC+</a>]; <b>interrupt, Aud.</b> [<a href="javascript:void(0)" title=" 802b26. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <i>active</i> in sense of <i>middle</i>, [<a href="javascript:void(0)" title=" 3rd c.AD: Alexander Aphrodisiensis Philosophus “Problemata - Physici et Medici Graeci Minores” 1.38.">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.20.35]]
+<small><sub>LSJ Scripture Refs: [[Acts.20.35|Acts.20.35]]
 </sub></small>

@@ -6,5 +6,5 @@ Included with: <b> <span class='asgreek'>==σαλπιστής==</span>-<span cl
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> ={<span class='asgreek'>ὄρνις</span> <span class='asgreek'>ὁμοίως</span> <span class='asgreek'>σάλπιγγι</span> <span class='asgreek'>φθεγγόμενος</span>}, [<a href="javascript:void(0)" title=" 9th c.AD: Photius Legal icographus, etc. ">Refs 9th c.AD+</a>]; ={<span class='asgreek'>ὀρχίλος</span>}, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rev.18.22]]
+<small><sub>LSJ Scripture Refs: [[Rev.18.22|Rev.18.22]]
 </sub></small>

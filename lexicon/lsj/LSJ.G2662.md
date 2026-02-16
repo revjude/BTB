@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, [<a href="javascript:void(0)" title=" κατὰ δ᾽ ὅρκια πιστὰ πάτησαν 8th c.BC: Ilias Homerus Epicus “Illiad” 4.157; κ. τοὺς νόμους Plato Philosophus [{5-6th c.BC}] “Leges” 714a; τὰ γράμματα [prev\. author] “Grg.” 484a; τὸν υἱὸν τοῦ θεοῦ NT.Heb.10.29; ὅρκον 4th c.AD: Libanius Sophista “Epistulae” 14.1 ">NT+8th c.BC+</a>].
 
-<small><sub>LSJ Scripture Refs: [[Heb.10.29]]
+<small><sub>LSJ Scripture Refs: [[Heb.10.29|Heb.10.29]]
 </sub></small>

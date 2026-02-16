@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> as law-term, <b>laying of information agains
 $\quad$ $\quad$<b>\_\_II</b> <b>demonstration, display of one's good will</b> [<a href="javascript:void(0)" title="compare (ἐνδείκνυμι 11.4), ἡ εἰς Ἀλέξανδρον ἔ. 4th c.BC: Aeschines Orator 3.219. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>proof, demonstration</b>, [<a href="javascript:void(0)" title=" 6th c.AD: Philoponus, Joannes Philosophus “in Aristotelis Meteorologicorum librum primum commentarium - Comm. in Arist. Graeca” 123.34. ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.3.25]]
+<small><sub>LSJ Scripture Refs: [[Rom.3.25|Rom.3.25]]
 </sub></small>

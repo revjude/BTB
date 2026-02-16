@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>stubble</b>, [<a href="javascript:void(0)
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>κολχὶς</span> <span class='asgreek'>κ</span>., ={<span class='asgreek'>λίνον</span>}, [<a href="javascript:void(0)" title=" 3rd c.BC: Callimachus Epicus “Fragmenta” 265. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>κάλαμος</span>}, [<a href="javascript:void(0)" title=" 3rd c.AD: Heliodorus Scriptor Eroticus 8.9. ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.3.12]]
+<small><sub>LSJ Scripture Refs: [[1Cor.3.12|1Cor.3.12]]
 </sub></small>

@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>ascribe</b>, <span class='asgreek'>τινί</span> <span class='asgreek'>τι</span> [<a href="javascript:void(0)" title=" 3rd c.AD: Porphyrius Tyrius Philosophus cited in 4th c.AD: Eusebius Caesariensis Scriptor Ecclesiasticus “Praeparatio Evangelica” 3.11. ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>==προσανατίθημι==τίθεσθαί</span> <span class='asgreek'>τινι</span> <b>take counsel with</b> one, [<a href="javascript:void(0)" title=" 3rd c.BC: Chrysippus Stoicus 2.344, 1st c.BC: Philodemus Philosophus “περὶ κακιῶν ί” p.31 1st c.AD: Josephus Historicus, NT.Gal.1.16, 2nd c.AD: Lucianus Sophista “JTr.” 1; τοῖς μάντεσι περί τινος 1st c.BC: Diodorus Siculus Historicus 17.116 ">NT+3rd c.BC+</a>]; <b>refer</b> a matter <b>for consideration,</b> [<a href="javascript:void(0)" title=" PTeb. 99.5 (2nd c.BC). ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gal.2.6]] ☩ [[Gal.1.16]]
+<small><sub>LSJ Scripture Refs: [[Gal.2.6|Gal.2.6]] ☩ [[Gal.1.16|Gal.1.16]]
 </sub></small>

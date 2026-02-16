@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>active</i>, <span class='asgreek'>καταναρκᾶν</span> <span class='asgreek'>τινος</span> <b>to be slothful towards, press heavily upon.. </b>, [<a href="javascript:void(0)" title=" NT.2Cor.11.9, 12.13. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.11.9]]
+<small><sub>LSJ Scripture Refs: [[2Cor.11.9|2Cor.11.9]]
 </sub></small>

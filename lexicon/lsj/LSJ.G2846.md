@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>grave,</b> [<a href="javascript:void(0)" 
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>nursery</b>, <span class='asgreek'>ἐν</span> <span class='asgreek'>κ</span>. <span class='asgreek'>εἶναι</span> to be an infant, minor, [<a href="javascript:void(0)" title=" 6th c.AD: Justinianus Imperator “Novellae” 155 “Praef.” ">Refs 6th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>landing-place,</b> [<a href="javascript:void(0)" title=" Stad. 128. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.12.20]]
+<small><sub>LSJ Scripture Refs: [[Acts.12.20|Acts.12.20]]
 </sub></small>

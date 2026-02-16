@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> sometimes for <span class='asgreek'>ἐμός</span>, [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 11.562, +others, 3rd c.BC: Theocritus Poeta Bucolicus 2.31, etc.">Refs 8th c.BC+</a>]; <span class='asgreek'>τὰ</span> <span class='asgreek'>ἡ</span>. <b>my</b> property, [<a href="javascript:void(0)" title=" “PRyl.” 114.18 (3rd c.AD)">Refs 3rd c.AD+</a>]; so in Imperial titles, as <span class='asgreek'>ἡ</span> <span class='asgreek'>ἡ</span>. <span class='asgreek'>ἡμερότης</span> [<a href="javascript:void(0)" title=" 6th c.AD: Justinianus Imperator “Novellae” 115 “Pr.” ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.15.4]]
+<small><sub>LSJ Scripture Refs: [[Rom.15.4|Rom.15.4]]
 </sub></small>

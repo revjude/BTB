@@ -5,5 +5,5 @@
  <b>chief toll-collector, chief-publican,</b> [<a href="javascript:void(0)" title="NT.Luke.19.2.">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Luke.19.2]]
+<small><sub>LSJ Scripture Refs: [[Luke.19.2|Luke.19.2]]
 </sub></small>

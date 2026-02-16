@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>uninterrupted, free from digressions,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis “de Thucydide” 9">Refs 1st c.BC+</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>ἀ</span>. <span class='asgreek'>τῆς</span> <span class='asgreek'>ἐξουσίας</span> <b>the fact of</b> power <b>not passing from hand to hand,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Aristides” 5. ">Refs 1st c.AD+</a>]<i>adverb</i> -<span class='asgreek'>τως</span> <b>continually,</b> <span class='asgreek'>ἐπαινεῖ</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>οἶνον</span>[<a href="javascript:void(0)" title=" 2nd c.AD: Athenaeus Epigrammaticus 1.1cc.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.7.35]]
+<small><sub>LSJ Scripture Refs: [[1Cor.7.35|1Cor.7.35]]
 </sub></small>

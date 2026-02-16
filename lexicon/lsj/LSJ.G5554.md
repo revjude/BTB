@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> gloss on{<span class='asgreek'>χρυσοκόλλητος</span>}, <span class='asgreek'>χ</span>. <span class='asgreek'>σφραγίς</span> <b>set in a gold ring,</b> [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jas.2.2]]
+<small><sub>LSJ Scripture Refs: [[Jas.2.2|Jas.2.2]]
 </sub></small>

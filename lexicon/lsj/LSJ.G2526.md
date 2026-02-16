@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>wherefore,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Sophista” 267d, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.51b. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.8.12]]
+<small><sub>LSJ Scripture Refs: [[2Cor.8.12|2Cor.8.12]]
 </sub></small>

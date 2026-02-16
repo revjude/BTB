@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>scandal, crime</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus “περὶ ψυχῆς παθῶν κτλ. - Galeni Scripta Minora” 4 (\_plural\_). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Pet.2.10]]
+<small><sub>LSJ Scripture Refs: [[2Pet.2.10|2Pet.2.10]]
 </sub></small>

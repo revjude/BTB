@@ -5,3 +5,6 @@
 
  <b>making to shine</b>, <span class='asgreek'>γενέσθαι</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>σ</span>. to be made bright, [<a href="javascript:void(0)" title=" LXX.Ezek.21.10(15), compare 1st c.AD: Dioscorides (Dioscurides) Medicus 2.80. ">LXX+1st c.AD+</a>]
 
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.21.5|LXX.Ezek.21.10]]**\***
+</sub></small>

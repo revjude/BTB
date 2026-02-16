@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>τινι</span> or <span clas
 $\quad$ $\quad$<b>\_\_III</b> <b>enjoy good times, prosper</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 4.60.10; τοῖς βίοις [prev. author] 32.5.12: in this sense also ==εὐκαιρέω==έομαι, 2nd-1st c.BC: Posidonius Historicus 59 1st c.AD: Josephus Historicus ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>to be timely</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.” 2.64 5th c.BC: Sophocles Tragicus, 4th-3rd c.BC: Epicurus Philosophus (?) “Oxy.” 215ii2. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.16.12]] ☩ [[Mark.6.31]] ☩ [[Acts.17.21]]
+<small><sub>LSJ Scripture Refs: [[1Cor.16.12|1Cor.16.12]] ☩ [[Mark.6.31|Mark.6.31]] ☩ [[Acts.17.21|Acts.17.21]]
 </sub></small>

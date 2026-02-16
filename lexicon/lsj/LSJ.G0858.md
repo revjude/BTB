@@ -5,5 +5,5 @@
  <b>simplicity, unworldliness,</b> [<a href="javascript:void(0)" title=" NT.Acts.2.46, Vett. Val.240.15.">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Acts.2.46]]
+<small><sub>LSJ Scripture Refs: [[Acts.2.46|Acts.2.46]]
 </sub></small>

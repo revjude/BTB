@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>harvest, crop</b>, [<a href="javascrip
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>offspring</b>, [<a href="javascript:void(0)" title=" 3rd c.BC: Lycophron Tragicus 221,750. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>semen genitale</b>, variant for{<span class='asgreek'>γονή</span>} in [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ διαίτης” 2.54. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.4.26]]
+<small><sub>LSJ Scripture Refs: [[Mark.4.26|Mark.4.26]]
 </sub></small>

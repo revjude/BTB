@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>use expletive particles,</b> [<a href="ja
 $\quad$ $\quad$ $\quad$<b>\_\_6</b> <b>fulfil,</b> <span class='asgreek'>==ἀναπληρόω==οῦται</span> <span class='asgreek'>ἡ</span> <span class='asgreek'>προφητεία</span>[<a href="javascript:void(0)" title=" NT.Matt.13.14 ">NT</a>]; of a task, <b>perform,</b> [<a href="javascript:void(0)" title=" PPetr. 3p.104. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, <b>to be restored to its former size</b> or <b>state,</b> <span class='asgreek'>ἀνεπληρώθη</span> <span class='asgreek'>ὁ</span> <span class='asgreek'>ἥλιος</span>, after an eclipse, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 2.28; ==ἀναπληρόω==ουμένης τῆς φύσεως ">Refs 5th c.BC+</a>]<b>being in process of restoration,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1153a2, compare “HA” 548b18.">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.14.16]] ☩ [[Matt.13.14]]
+<small><sub>LSJ Scripture Refs: [[1Cor.14.16|1Cor.14.16]] ☩ [[Matt.13.14|Matt.13.14]]
 </sub></small>

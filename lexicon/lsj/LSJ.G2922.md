@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>court of judgement, tribunal</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Lg.” 767b; καθίζειν κ. 2nd c.BC: Polybius Historicus 9.33.12, compare “PHib.” 1.29 (\_a\_) (3rd c.BC), NT.1Cor.6.2, “IG” 14.951.20, 2nd c.AD: Pausanias Periegeta 2.20.7, “POxy.” 2134.6 (2nd c.AD), etc. ">NT+5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.b</b> <b>decision</b> of a tribunal, <b>judgement</b>, [<a href="javascript:void(0)" title="“SIG” 826 K 9 (Delph., 2nd c.BC). ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.6.2]]
+<small><sub>LSJ Scripture Refs: [[1Cor.6.2|1Cor.6.2]]
 </sub></small>

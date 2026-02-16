@@ -27,5 +27,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.7</b> <i>absolutely</i>, <span class='asgreek'>
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.7.b</b> <span class='asgreek'>σώζων</span>, <span class='asgreek'>ὁ</span>, [<a href="javascript:void(0)" title=" “Saviour”, of a god, “JRS” 14.28 (from Iconium)">Refs</a>]; epithet of Apollo, [<a href="javascript:void(0)" title=" “CR” 19.368 (from Sizma). ">Refs</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.7.c</b> <span class='asgreek'>σῴζουσα</span>, <span class='asgreek'>ἡ</span>, ={<span class='asgreek'>ἀρτεμισία</span>}, Ps.-[<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 3.113. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.1.21]] ☩ [[Luke.19.10]] ☩ [[John.12.47]] ☩ [[Matt.19.25]] ☩ [[Luke.13.23]] ☩ [[Acts.2.47]] ☩ [[2Tim.4.18]]
+<small><sub>LSJ Scripture Refs: [[1Cor.1.21|1Cor.1.21]] ☩ [[Luke.19.10|Luke.19.10]] ☩ [[John.12.47|John.12.47]] ☩ [[Matt.19.25|Matt.19.25]] ☩ [[Luke.13.23|Luke.13.23]] ☩ [[Acts.2.47|Acts.2.47]] ☩ [[2Tim.4.18|2Tim.4.18]]
 </sub></small>

@@ -12,5 +12,5 @@ $\quad$ $\quad$<b>\_\_IV</b> <b>a branch of art</b> or <b>science</b>, <span cla
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_IV.b</b> <b>knowledge</b>, opposed to <span class='asgreek'>ἄγνοια</span>, [<a href="javascript:void(0)" title=" [prev. author] “de An.” 410b3. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_V</b> <b>decision, decree,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 5(1).1390.112 (Andania, 1st c.BC). (Plato (“Cra.” 412a) derives ==σύνεσις== 11 from συνιέναι ">Refs 1st c.BC+</a>] (<span class='asgreek'>σύνειμι</span>) <b>come together</b>, neglecting the unwritten aspiration (<span class='asgreek'>συνἱέναι</span>); but the form and <i>significations</i> point to <span class='asgreek'>συνίημι</span> 11, <b>perceive, apprehend</b>,[<a href="javascript:void(0)" title="compare 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1143a17.) ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.2.47]]
+<small><sub>LSJ Scripture Refs: [[Luke.2.47|Luke.2.47]]
 </sub></small>

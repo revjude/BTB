@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> later, <b>sails,</b> <span class='asgreek'>πνεύσεται</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>==ὀθόνη==ας</span> [<a href="javascript:void(0)" title=" “Anthologia Graeca” 12.53.8 (1st c.BC: Meleager Epigrammaticus), compare 10.5 (1st c.BC: Thyillus Epigrammaticus)">Refs 1st c.BC+</a>]: <i>singular</i>, <b>sail-cloth, sail,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “JTr.” 46, “VH” 2.37. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> in <i>plural</i>, of the <b>membranes</b> that enclose the pupil of the eye, [<a href="javascript:void(0)" title=" 5th c.BC: Empedocles Poeta Philosophus 84.8. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.10.11]]
+<small><sub>LSJ Scripture Refs: [[Acts.10.11|Acts.10.11]]
 </sub></small>

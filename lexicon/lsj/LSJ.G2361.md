@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_b</b> <b>drop</b>, <span class='asgreek'>=
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>nipple,</b> [<a href="javascript:void(0)" title=" PLond. 1821.42. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>θ</span>.· <span class='asgreek'>ὑψηλὸς</span> <span class='asgreek'>τόπος</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.22.44]]
+<small><sub>LSJ Scripture Refs: [[Luke.22.44|Luke.22.44]]
 </sub></small>

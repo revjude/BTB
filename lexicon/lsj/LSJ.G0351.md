@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_IV</b> <b>preliminary examination</b> of a slave before sa
 $\quad$ $\quad$<b>\_\_V</b> <b>examination, testing</b> of magical ingredients, etc., [<a href="javascript:void(0)" title=" “PMag.Par.” 1.1992, 2007. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_VI</b> <b>quarrel, dispute,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 8.69">Refs 5th c.BC+</a>]; <b>disputation,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “Academicorum Index” p.72 M.">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.25.26]]
+<small><sub>LSJ Scripture Refs: [[Acts.25.26|Acts.25.26]]
 </sub></small>

@@ -13,5 +13,5 @@ $\quad$ $\quad$<b>\_\_IV</b> <span class='asgreek'>ἀρέσκει</span> is us
 $\quad$ $\quad$<b>\_\_V</b> <i>participle</i> <span class='asgreek'>==ἀρέσκω==ν</span>, <span class='asgreek'>ουσα</span>, <span class='asgreek'>ον</span>, <b>grateful, acceptable,</b> <span class='asgreek'>ὅσοις</span> <span class='asgreek'>τάδ᾽</span> <span class='asgreek'>ἔστ᾽</span> <span class='asgreek'>ἀρέσκονθ᾽</span>[<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 274; μηδὲν ἀρέσκον λέγειν 5th c.BC: Thucydides Historicus 3.34; ἀρέσκοντας ὑμῖν λόγους 5th-6th c.BC: Isocrates Orator 8.5. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_V.2</b> of persons, <b>acceptable,</b> <span class='asgreek'>τὸν</span> <span class='asgreek'>ἀρέσκοντα</span> <span class='asgreek'>αὑτῷ</span> <span class='asgreek'>προσλαμβάνειν</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 951e; τῇ πόλει ἀ. 5th c.BC: Lysias Orator 19.13. (Cognate with ἀραρίσκω.) ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.10.33]] ☩ [[Rom.15.1]]
+<small><sub>LSJ Scripture Refs: [[1Cor.10.33|1Cor.10.33]] ☩ [[Rom.15.1|Rom.15.1]]
 </sub></small>

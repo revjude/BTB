@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>absolutely</i>, <span class='asgreek'>χωρὶς</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>π</span>. besides things <b>external</b>, [<a href="javascript:void(0)" title=" NT.2Cor.11.28. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.5.32]] ☩ [[Acts.26.29]] ☩ [[2Cor.11.28]]
+<small><sub>LSJ Scripture Refs: [[Matt.5.32|Matt.5.32]] ☩ [[Acts.26.29|Acts.26.29]] ☩ [[2Cor.11.28|2Cor.11.28]]
 </sub></small>

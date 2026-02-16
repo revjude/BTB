@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>just the contrary,</b> <span class='asgreek'>τ�
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>ἀπάρτι</span>, properly <span class='asgreek'>ἀπ᾽</span> <span class='asgreek'>ἄρτι</span>, of Time, <b>from now, henceforth,</b> [<a href="javascript:void(0)" title="NT.Matt.23.39, etc. ">NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>just now, even now,</b> [<a href="javascript:void(0)" title="NT.John.13.19, etc.">NT</a>] (This is not an <i>Attic dialect</i> use, hence [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Comicus 143">Refs 5th c.BC+</a>] must be incorrectly interpretation by [<a href="javascript:void(0)" title=" “Anecdota Graeca - Bekker” 79.)">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.23.39]] ☩ [[John.13.19]]
+<small><sub>LSJ Scripture Refs: [[Matt.23.39|Matt.23.39]] ☩ [[John.13.19|John.13.19]]
 </sub></small>

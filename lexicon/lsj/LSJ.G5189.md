@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> (<span class='asgreek'>τυφῶν</span> 11.1) <b>tempestuous,</b> <span class='asgreek'>ἄνεμος</span> [<a href="javascript:void(0)" title=" NT.Acts.27.14. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.27.14]]
+<small><sub>LSJ Scripture Refs: [[Acts.27.14|Acts.27.14]]
 </sub></small>

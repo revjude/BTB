@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_5</b> <span class='asgreek'>ἐς</span> <span cla
 $\quad$ $\quad$<b>\_\_II</b> <b>look away,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Dio Chrysostomus Sophista 21.13: with \_genitive\_, 2nd-3rd c.AD: Philostratus Sophista “Philostrati majoris imagines” 1.1">Refs 1st c.AD+</a>]; <span class='asgreek'>ἀ</span>. <span class='asgreek'>ἀπ᾽</span> <span class='asgreek'>ἀμφοτέρων</span> <b>face</b> both ways, uncertain in [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 2.3.31">Refs 5th c.BC+</a>]; <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>συμφέροντος</span> Antip. [prev. cited] 
 $\quad$ $\quad$<b>\_\_III</b> <i>middle</i>, <b>look at each other,</b> <span class='asgreek'>ταυρωπὸν</span> <span class='asgreek'>==ἀποβλέπω==βλεψάμενοι</span>[<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.602.">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.11.26]]
+<small><sub>LSJ Scripture Refs: [[Heb.11.26|Heb.11.26]]
 </sub></small>

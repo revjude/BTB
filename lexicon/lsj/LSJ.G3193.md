@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>==μελίσσιος==ειον</span>, <span class='asgreek'>τό</span>, <b>beehive,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Zenon Papyri du Caire 467 (3rd c.BC). ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.24.42]]
+<small><sub>LSJ Scripture Refs: [[Luke.24.42|Luke.24.42]]
 </sub></small>

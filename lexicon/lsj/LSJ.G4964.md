@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> Astron., in <i>passive</i>, <b>to be similarly situated</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Ptolemaeus Epigrammaticus “Phas.” p.12 H., “Tetr.” 34, 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 5.33, 2nd c.AD: Vettius Valens Astrologus 42.22, +others ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.12.2]]
+<small><sub>LSJ Scripture Refs: [[Rom.12.2|Rom.12.2]]
 </sub></small>

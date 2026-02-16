@@ -34,5 +34,5 @@ $\quad$ $\quad$<b>\_\_VI</b> <span class='asgreek'>ἐς</span> <span class='asg
 $\quad$ $\quad$ $\quad$<b>\_\_VI.2</b> <span class='asgreek'>ἐν</span> <span class='asgreek'>ὅσῳ</span> <b>while,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Pax” 943 (Lyric poetry), 5th c.BC: Thucydides Historicus 8.87. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_VII</b> no <i>adverb</i> <span class='asgreek'>ὅσως</span> occurs.
 
-<small><sub>LSJ Scripture Refs: [[Luke.5.3]]
+<small><sub>LSJ Scripture Refs: [[Luke.5.3|Luke.5.3]]
 </sub></small>

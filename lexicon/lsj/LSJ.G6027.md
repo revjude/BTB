@@ -6,5 +6,5 @@
  <b>research,</b> [<a href="javascript:void(0)" title=" NT.1Tim.1.4 (\_plural\_). ">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[1Tim.1.4]]
+<small><sub>LSJ Scripture Refs: [[1Tim.1.4|1Tim.1.4]]
 </sub></small>

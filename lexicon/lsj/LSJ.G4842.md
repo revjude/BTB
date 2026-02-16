@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>help in conducting</b>, <span class='asgreek'>τὴν</span> <span class='asgreek'>πομπήν</span> [<a href="javascript:void(0)" title=" 4th c.BC: Isaeus Orator 6.50, 5th c.BC: Lysias Orator 13.80; συμπέμψοντες τὴν Πυθαΐδα “SIG” 697 B (Delph., 2nd c.BC). ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.8.22]]
+<small><sub>LSJ Scripture Refs: [[2Cor.8.22|2Cor.8.22]]
 </sub></small>

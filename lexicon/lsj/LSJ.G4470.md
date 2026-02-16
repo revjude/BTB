@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> collectively, <b>rag, lint</b>, [<a href="ja
 $\quad$ $\quad$<b>\_\_II</b> in <i>plural</i> also, <b>rents in the face, wrinkles</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Plutus” 1065. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>metaphorically</i>, <b>rag, remnant</b>, <span class='asgreek'>εἰκάσαι</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>ἐρείπιον</span> <span class='asgreek'>ῥάκει</span> <span class='asgreek'>οἰκίας</span> [<a href="javascript:void(0)" title=" Anonymus cited in 4th c.BC: Aristoteles Philosophus “Rhetorica” 1413a6 ">Refs 4th c.BC+</a>]; of an old seaman, <span class='asgreek'>ἁλίοιο</span> <span class='asgreek'>βίου</span> <span class='asgreek'>ῥ</span>. [<a href="javascript:void(0)" title="“Anthologia Graeca” 9.242 (1st c.AD: Antiphilus Epigrammaticus), compare 7.380 (1st c.BC-1st c.AD: Crinagoras Epigrammaticus), 2nd c.AD: Lucianus Sophista “Tim.” 32.">Refs 1st c.BC+</a>] —The \_Aeolic dialect\_ form <span class='asgreek'>βράκος</span> (which see), used of a garment, lacks the sense 'ragged'.
 
-<small><sub>LSJ Scripture Refs: [[Matt.9.16]]
+<small><sub>LSJ Scripture Refs: [[Matt.9.16|Matt.9.16]]
 </sub></small>

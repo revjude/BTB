@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> of things, <b>preserve, maintain,</b> <span class='asgreek'>ἀνδρὶ</span> <span class='asgreek'>τἀμὰ</span> <span class='asgreek'>δ</span>. <span class='asgreek'>λέχη</span>.. [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Helena” 65 ">Refs 5th c.BC+</a>]; <b>keep in memory,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Memorabilia” 3.5.22; δ. πίστιν τινί [prev. author] “HG” 7.2.17; δ. τὸν πρῶτον λόγον 5th-6th c.BC: Plato Philosophus “Respublica” 395b, compare 4th c.BC: Aristoteles Philosophus “Physica” 189b1; τὰ παλαιά 5th-6th c.BC: Isocrates Orator 10.63 ">Refs 5th c.BC+</a>]:—<i>middle</i>, <b>preserve for oneself, retain,</b> <span class='asgreek'>εὐδαιμονίαν</span>, <span class='asgreek'>εὐτυχίαν</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 3.39, 5.16; δόξαν 5th c.BC: Lysias Orator 2.69; τὴν τῶν Μήδων μαλακίαν 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 8.8.15. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Pet.3.20]]
+<small><sub>LSJ Scripture Refs: [[1Pet.3.20|1Pet.3.20]]
 </sub></small>

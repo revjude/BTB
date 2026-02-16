@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> as official title, <b>chief magistrate,</b> especia
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>governor</b> of a dependency or province, e.g. in the Athenian Empire, [<a href="javascript:void(0)" title=" “IG” 1.62b19, etc. ">Refs</a>]; of a Roman <b>governor</b>, [<a href="javascript:void(0)" title=" “OGI” 441.59">Refs</a>]; = <b>praefectus,</b> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 6.26.5. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> generally, <b>magistrate, official,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aeschines Orator 3.29, etc.">Refs 4th c.BC+</a>]; opposed to <span class='asgreek'>ἰδιώτης</span>, [<a href="javascript:void(0)" title=" “SIG” 672.16 (Delph.)">Refs</a>]; <b>ruler</b> of a synagogue, [<a href="javascript:void(0)" title=" NT.Matt.9.18">NT</a>]; <b>president</b> of a club, [<a href="javascript:void(0)" title=" “PLond.” 3.1178.6 (2nd c.AD).">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.16.11]] ☩ [[Matt.9.18]]
+<small><sub>LSJ Scripture Refs: [[John.16.11|John.16.11]] ☩ [[Matt.9.18|Matt.9.18]]
 </sub></small>

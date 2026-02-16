@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>transitive</i>, <b>make sober again,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Bis Acc.” 17.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Tim.2.26]]
+<small><sub>LSJ Scripture Refs: [[2Tim.2.26|2Tim.2.26]]
 </sub></small>

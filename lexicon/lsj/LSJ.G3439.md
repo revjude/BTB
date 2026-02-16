@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_5</b> name of the foot ¯ ¯ ¯ ?\~X, [<a href="ja
 $\quad$ $\quad$<b>\_\_II</b> <i>adverb</i> -<span class='asgreek'>νῶς</span>, <span class='asgreek'>φέρεται</span> <span class='asgreek'>μ</span>. <span class='asgreek'>ἐν</span> <span class='asgreek'>ἑνὶ</span> <span class='asgreek'>τόπῳ</span> grows <b>only</b> in one place, [<a href="javascript:void(0)" title=" “Periplus Maris Rubri [1st c.AD]” 56, compare 11. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>in a unique manner</b>, [<a href="javascript:void(0)" title=" 6th c.AD: Aëtius Medicus 15.13,14. ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.1.14]]
+<small><sub>LSJ Scripture Refs: [[John.1.14|John.1.14]]
 </sub></small>

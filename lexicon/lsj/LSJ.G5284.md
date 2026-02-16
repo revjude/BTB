@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>sail underground,</b> <span class='asgreek'>ἐς</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>Τίβεριν</span> <span class='asgreek'>δι᾽</span> [<span class='asgreek'>ὑπονόμων</span>] [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Dio Cassius Historicus 49.43. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.27.4]]
+<small><sub>LSJ Scripture Refs: [[Acts.27.4|Acts.27.4]]
 </sub></small>

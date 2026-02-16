@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> in “NT” with <i>dative</i>, <b>take part in, have fellowship with</b>, <span class='asgreek'>ταῖς</span> <span class='asgreek'>ἁμαρτίαις</span> [<a href="javascript:void(0)" title=" NT.Rev.18.4; τοῖς ἔργοις NT.Eph.5.11; σ. μου τῇ θλίψει NT.Phil.4.14. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rev.18.4]] ☩ [[Eph.5.11]] ☩ [[Phil.4.14]]
+<small><sub>LSJ Scripture Refs: [[Rev.18.4|Rev.18.4]] ☩ [[Eph.5.11|Eph.5.11]] ☩ [[Phil.4.14|Phil.4.14]]
 </sub></small>

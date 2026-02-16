@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_III</b> <i>adverb</i> <span class='asgreek'>παντελ�
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> in answers, <b>most certainly</b>, <span class='asgreek'>παντελῶς</span> <span class='asgreek'>γε</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 379c, 485d; π. μὲν οὖν [prev. author] “Prm.” 155c, 160b, “R.” 401a. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> later <span class='asgreek'>εἰς</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>παντελές</span>, ={<span class='asgreek'>παντελῶς</span>}, [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 2.567, NT.Luke.13.11, 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 17.27, 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 7.30, 4th c.AD: Julianus Imperator “Orationes” 2.61c ">NT+1st c.AD+</a>]; = <b>for ever,</b> [<a href="javascript:void(0)" title=" Rev.Bibl. 39.544,546 (from Palmyra), “PLond.” 3.1164f11 (3rd c.AD), etc.">Refs 3rd c.AD+</a>]; <span class='asgreek'>κατὰ</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.90, +others ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.13.11]]
+<small><sub>LSJ Scripture Refs: [[Luke.13.11|Luke.13.11]]
 </sub></small>

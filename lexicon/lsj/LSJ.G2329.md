@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>θέρμαι</span>, <span class='asgreek'>αἱ</span>, <b>hot springs,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 14.455 (from Catana), compare 1055: name of a town in Sicily, 2nd c.BC: Polybius Historicus 1.24.4. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>hot baths,</b> [<a href="javascript:void(0)" title=" POxy. 473.5 (2nd c.AD), etc. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.28.3]]
+<small><sub>LSJ Scripture Refs: [[Acts.28.3|Acts.28.3]]
 </sub></small>

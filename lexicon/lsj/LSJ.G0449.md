@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>not to be washed out,</b> <span class='asgreek'>αἷμα</span>[<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 1459.">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.15.20]]
+<small><sub>LSJ Scripture Refs: [[Matt.15.20|Matt.15.20]]
 </sub></small>

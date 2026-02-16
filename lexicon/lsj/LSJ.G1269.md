@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>bend away from, avoid,</b> <span class='asgreek'>τὰς</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>ὀργάνων</span> <span class='asgreek'>ἐπιβολάς</span> <span class='asgreek'>τι</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 1.23.8; ὀργάς 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Fragmenta - fragment uncertainFragmenta incerta” 27. ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.1.22]]
+<small><sub>LSJ Scripture Refs: [[Luke.1.22|Luke.1.22]]
 </sub></small>

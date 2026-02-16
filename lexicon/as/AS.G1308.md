@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">δια-φέρω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX for **<big>[[H8133|שְׁנָא]]</big>** ([[LXX.Dan.7|Da 7]] only); [[LXX.1Sam.17.39|I Ki 17:39]], [[LXX.Ezra.3.13|Es 3:13]], al. ;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">δια-φέρω </span></span></span> <span class="asetym">  <span class="asseptuagint">\[in LXX for **<big>[[H8133|שְׁנָא]]</big>** ([[LXX.Dan.7.1|Da 7]] only); [[LXX.1Sam.17.39|I Ki 17:39]], [[LXX.Ezra.3.13|Es 3:13]], al. ;\]</span> </span>
 <span class="asbullet"><span class="asbold">1.</span> trans.,</span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> <span class="asitalic">to carry through</span>: seq. <span class="asgreek">διά</span>, [[Mark.11.16|Mk 11:16]];</span>
 $\quad$ <span class="asbullet"><span class="asbold">(b)</span> <span class="asitalic">to carry about, spread abroad</span>: pass., [[Acts.13.49|Ac 13:49]] [[Acts.27.27|27:27]].</span>
@@ -12,7 +12,7 @@ $\quad$ <span class="asbullet"><span class="asbold">(b)</span> <span class="asit
 | - | - |
 | 1 Samuel | [[LXX.1Sam.17.39\|17:39]] |
 | Ezra | [[LXX.Ezra.3.13\|3:13]] |
-| Daniel | [[LXX.Dan.7\|Chapter 7]] |
+| Daniel | [[LXX.Dan.7.1\|7:1]] |
 | Matthew | [[Matt.6.26\|6:26]] · [[Matt.10.31\|10:31]] · [[Matt.12.12\|12:12]] |
 | Mark | [[Mark.11.16\|11:16]] |
 | Luke | [[Luke.12.7\|12:7]] · [[Luke.12.24\|12:24]] |

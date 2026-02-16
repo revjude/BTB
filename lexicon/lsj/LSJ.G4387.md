@@ -37,5 +37,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_B.e</b> <span class='asgreek'>πρῶτο�
 $\quad$ $\quad$<b>\_\_B.IV</b> <i>adverb</i> <span class='asgreek'>πρώτως</span> <b>primarily</b>, first in [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus, π. καὶ κυρίως “EN” 1157a30; opposed to δευτέρως, [prev. work] 1158b31 ">Refs 4th c.BC+</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>καθ᾽</span> <span class='asgreek'>αὑτό</span>, opposed to <span class='asgreek'>κατὰ</span> <span class='asgreek'>συμβεβηκός</span>, [<a href="javascript:void(0)" title=" [prev. author] “Ph.” 192b22, compare 2nd c.AD: Galenus Medicus 1.692, +others, 4th c.AD: Julianus Imperator “Orationes” 5.168b. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_B.IV.2</b> <span class='asgreek'>ὅτε</span> <span class='asgreek'>π</span>. <span class='asgreek'>ἐπεδήμησεν</span>.. when he <b>first</b> visited.., [<a href="javascript:void(0)" title=" “BSA” 27.228 (Sparta, 2nd c.AD).">Refs 2nd c.AD+</a>] —(From <span class='asgreek'>πρῶτος</span> was formed a new \_superlative\_ <span class='asgreek'>πρώτιστος</span>, which see)
 
-<small><sub>LSJ Scripture Refs: [[John.1.15]] ☩ [[Acts.28.7]]
+<small><sub>LSJ Scripture Refs: [[John.1.15|John.1.15]] ☩ [[Acts.28.7|Acts.28.7]]
 </sub></small>

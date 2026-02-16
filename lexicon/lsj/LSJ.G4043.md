@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>walk about while teaching, discourse</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Epistulae” 348c, 3rd c.AD(?): Diogenes Laertius 7.109 ">Refs 5th c.BC+</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>ἐς</span> <span class='asgreek'>τοὺς</span> <span class='asgreek'>ἀκροωμένους</span> <b>dispute, argue</b> with them, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “Vita Apollonii” 1.17, compare 7.22. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, <b>walk</b>, i.e. <b>live</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “περὶ παρρησίας” p.12 O.; κατὰ τὴν παράδοσιν NT.Mark.7.5; ἀτάκτως NT.2Thess.3.6. ">NT+1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.7.5]] ☩ [[2Thess.3.6]]
+<small><sub>LSJ Scripture Refs: [[Mark.7.5|Mark.7.5]] ☩ [[2Thess.3.6|2Thess.3.6]]
 </sub></small>

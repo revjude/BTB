@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>set at naught, treat as of no effect</b>,
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.b</b> <b>reject, deny the validity of</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “περὶ σημείων καὶ σημειώσεων” 30. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, <b>render powerless</b>, <span class='asgreek'>τῷ</span> <span class='asgreek'>λογισμῷ</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>παθῶν</span> <span class='asgreek'>οἶστρον</span>[<a href="javascript:void(0)" title=" LXX.4Mac.2.3.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.15.6]]
+<small><sub>LSJ Scripture Refs: [[Matt.15.6|Matt.15.6]]
 </sub></small>

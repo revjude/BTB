@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>to view from a place,</b> <span class='as
 $\quad$ $\quad$<b>\_\_II</b> rarely, <b>look away, have the back turned,</b> probably in [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 4.16.6; ==ἀφοράω==ῶντας παίειν 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 7.1.36.">Refs 5th c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Heb.12.2]]
+<small><sub>LSJ Scripture Refs: [[Heb.12.2|Heb.12.2]]
 </sub></small>

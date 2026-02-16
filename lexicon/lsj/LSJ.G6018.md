@@ -6,5 +6,5 @@
  <b>consider, reflect,</b> <span class='asgreek'>περί</span> <span class='asgreek'>τινος</span> [<a href="javascript:void(0)" title=" NT.Acts.10.19. ">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Acts.10.19]]
+<small><sub>LSJ Scripture Refs: [[Acts.10.19|Acts.10.19]]
 </sub></small>

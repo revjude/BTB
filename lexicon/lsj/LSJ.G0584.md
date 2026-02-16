@@ -22,5 +22,5 @@ $\quad$ <b>\_\_B</b> <i>middle</i>, <b>show forth, exhibit</b> something of one'
 $\quad$ $\quad$ $\quad$<b>\_\_B.2</b> <i>middle</i> in <i>active</i> sense, <span class='asgreek'>ἀποδεδειγμένοι</span> <span class='asgreek'>ἦσαν</span> <span class='asgreek'>ὅτι</span> <b>had declared</b> that.., [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Anabasis” 5.2.9. ">Refs 5th c.BC+</a>]
 $\quad$ <b>\_\_C</b> <i>passive</i>, see above [<a href="javascript:void(0)" title=" 1.5, 11.1, 2, 3: ">Refs</a>]<i>aorist</i> <span class='asgreek'>ἀπεδείχθην</span> is always <i>passive</i>, as [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.154">Refs 5th c.BC+</a>]; and so mostly <i>perfect</i> <span class='asgreek'>ἀποδέδειγμαι</span>,[<a href="javascript:void(0)" title=" 1.136, 5th c.BC: Antipho Orator 2.4.10, 5th-6th c.BC: Xenophon Historicus “Anabasis” 7.1.26">Refs 5th c.BC+</a>]; but the <i>participle</i> of the latter is sometimes <i>active</i>, see above [<a href="javascript:void(0)" title=" 5th c.BC: Bacchylides Lyricus 2.">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Thess.2.4]]
+<small><sub>LSJ Scripture Refs: [[2Thess.2.4|2Thess.2.4]]
 </sub></small>

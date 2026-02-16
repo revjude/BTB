@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> later, with <i>accusative</i> <i>of things</i>, <span class='asgreek'>==γεμίζω==ίζειν</span> <span class='asgreek'>ὕδωρ</span> (i.e. <span class='asgreek'>τὴν</span> <span class='asgreek'>ὑδρίαν</span>) <b>to fill</b> it <b>full of</b> water, [<a href="javascript:void(0)" title=" 2nd c.AD: Pausanias Periegeta 3.13.3:">Refs 2nd c.AD+</a>] —<i>passive</i>, <span class='asgreek'>οἶνον</span>, <span class='asgreek'>πῦρ</span> <span class='asgreek'>==γεμίζω==ισθείς</span>, [<a href="javascript:void(0)" title="“Anthologia Graeca” 12.85 (1st c.BC: Meleager Epigrammaticus). ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.15.16]]
+<small><sub>LSJ Scripture Refs: [[Luke.15.16|Luke.15.16]]
 </sub></small>

@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>digression</b>, [<a href="javascript:v
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>error</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Cebes Philosophus 25, 2nd c.AD: Diogenes Oenoandensis Epicureus 26 ">Refs 1st c.AD+</a>]; <b>grammatical mistake</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Pronominibus;” 84.11. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> of persons, <span class='asgreek'>==πλάνος==</span>, <span class='asgreek'>ὁ</span>, <b>vagabond,impostor</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Nicostratus Comicus 24, 4th c.BC: Dionysius Comicus 4, 1st c.BC: Diodorus Siculus Historicus 34 / 5.2.14, NT.Matt.27.63. ">NT+4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Tim.4.1]] ☩ [[Matt.27.63]]
+<small><sub>LSJ Scripture Refs: [[1Tim.4.1|1Tim.4.1]] ☩ [[Matt.27.63|Matt.27.63]]
 </sub></small>

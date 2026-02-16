@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>belong, appertain,</b> [<a href="javascript:void
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>absolutely</i>, <b>to be fit</b> or <b>proper,</b> [<a href="javascript:void(0)" title="NT.Eph.5.4, NT.Col.3.18">NT</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>ἀνῆκον</span>, ={<span class='asgreek'>τὸ</span> <span class='asgreek'>προσῆκον</span>}, [<a href="javascript:void(0)" title=" NT.Philm.8. ">NT</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>come back,</b> <span class='asgreek'>εἰς</span> <span class='asgreek'>τοὺς</span> <span class='asgreek'>πρώτους</span> <span class='asgreek'>πάλιν</span> <span class='asgreek'>ἀ</span>. <span class='asgreek'>λόγους</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Theaetetus” 196b.">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eph.5.4]] ☩ [[Col.3.18]]
+<small><sub>LSJ Scripture Refs: [[Eph.5.4|Eph.5.4]] ☩ [[Col.3.18|Col.3.18]]
 </sub></small>

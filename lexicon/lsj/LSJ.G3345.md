@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>μ</span>. <span class='asgre
 $\quad$ $\quad$<b>\_\_III</b> <b>change the posture of</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus 2.62 (\_passive\_), +others ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> of stars and planets, in <i>passive</i>, <b>change</b> their <b>configuration</b>, <span class='asgreek'>πρὸς</span> <span class='asgreek'>ἀλλήλους</span> [<a href="javascript:void(0)" title=" 4th c.AD: Adamantius Physiognomonicus “Vent.” 47. ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Phil.3.21]] ☩ [[1Cor.4.6]]
+<small><sub>LSJ Scripture Refs: [[Phil.3.21|Phil.3.21]] ☩ [[1Cor.4.6|1Cor.4.6]]
 </sub></small>

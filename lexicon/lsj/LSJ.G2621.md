@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_7</b> <b>recline at meals</b>, <span class='asgree
 $\quad$ $\quad$ $\quad$<b>\_\_8</b> of land, <b>lie sloping to the sea</b>, <span class='asgreek'>πρῶνες</span> <span class='asgreek'>ἔξοχοι</span> -<span class='asgreek'>κεινται</span> [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “N.” 4.52. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_9</b> <span class='asgreek'>ἀρετᾷ</span> <span class='asgreek'>κατάκειται</span> <span class='asgreek'>πᾶσαν</span> <span class='asgreek'>ὀργάν</span> <b>is expended</b> in every impulse <b>on</b>.., [<a href="javascript:void(0)" title=" [prev. author] “I.” 1.41. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.1.30]] ☩ [[Luke.5.25]] ☩ [[Mark.14.3]]
+<small><sub>LSJ Scripture Refs: [[Mark.1.30|Mark.1.30]] ☩ [[Luke.5.25|Luke.5.25]] ☩ [[Mark.14.3|Mark.14.3]]
 </sub></small>

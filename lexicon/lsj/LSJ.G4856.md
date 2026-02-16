@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>agree in saying</b>, <span class='asgreek'>ὡ�
 $\quad$ $\quad$<b>\_\_IV</b> <b>to be satisfactory</b>, <span class='asgreek'>==συμφωνέω==εῖ</span> <span class='asgreek'>μοι</span> <span class='asgreek'>πάντα</span>, <span class='asgreek'>ὡς</span> <span class='asgreek'>πρόκειται</span> [<a href="javascript:void(0)" title=" “PAmh.” 2.149.22 (6th c.AD),compare “PLips.” 26.13 (4th c.AD), etc. ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> of remedies, <b>to be suitable</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Archigenes Medicus cited in 6th c.AD: Aëtius Medicus 9.35, 2nd c.AD: Galenus Medicus 11.806. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.20.13]] ☩ [[Acts.5.9]]
+<small><sub>LSJ Scripture Refs: [[Matt.20.13|Matt.20.13]] ☩ [[Acts.5.9|Acts.5.9]]
 </sub></small>

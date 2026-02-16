@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>undramatic,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Demetrius Phalereus Rhetor “Demetrius on Style” 194. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> in punctuation, of a stop in a simple sentence, opposed to <span class='asgreek'>ἐνυπόκριτος</span> (which see), [<a href="javascript:void(0)" title=" Scholia 2nd c.BC: Dionysius Thrax Grammaticus p.24H.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.12.9]] ☩ [[Jas.3.17]]
+<small><sub>LSJ Scripture Refs: [[Rom.12.9|Rom.12.9]] ☩ [[Jas.3.17|Jas.3.17]]
 </sub></small>

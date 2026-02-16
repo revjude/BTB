@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>passive</i>, <b>itch</b>, Paul.[<a href="javascript:void(0)" title=" Aeg. 6.60; κνηθόμενοι τὴν ἀκοήν NT.2Tim.4.3 ">NT</a>]; <b>to be provoked</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Problemata” 957b15. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Tim.4.3]]
+<small><sub>LSJ Scripture Refs: [[2Tim.4.3|2Tim.4.3]]
 </sub></small>

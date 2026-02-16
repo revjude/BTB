@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.1</b> the <b>intestinum jejunum,</b> from its a
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <span class='asgreek'>ν</span>. <span class='asgreek'>κεστρεύς</span>, fish so called because its stomach was always found empty, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Fragmenta” 156, etc.">Refs 5th c.BC+</a>]: hence in Comedy texts, of 'empty bellies', <span class='asgreek'>ἐγὼ</span> <span class='asgreek'>δὲ</span> <span class='asgreek'>κεστρεὺς</span> <span class='asgreek'>==νῆστις==</span> <span class='asgreek'>οἴκαδ᾽</span> <span class='asgreek'>ἀποτρέχω</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Alexander Rhetor 256, etc., compare 2nd c.AD: Athenaeus Epigrammaticus 7.307d. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <span class='asgreek'>Νῆστις</span>, <span class='asgreek'>ἡ</span>, ={<span class='asgreek'>ὕδωρ</span>}, [<a href="javascript:void(0)" title=" 5th c.BC: Empedocles Poeta Philosophus 6.3, compare 2nd c.AD: Alexander Rhetor 322. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.15.32]]
+<small><sub>LSJ Scripture Refs: [[Matt.15.32|Matt.15.32]]
 </sub></small>

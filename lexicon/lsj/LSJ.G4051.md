@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>==περίσσευμα==ωμα</span>}, <b>excrement</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus 1.108, \_falsa lectio\_ in 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.962f. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.8.8]] ☩ [[2Cor.8.14]] ☩ [[Matt.12.34]]
+<small><sub>LSJ Scripture Refs: [[Mark.8.8|Mark.8.8]] ☩ [[2Cor.8.14|2Cor.8.14]] ☩ [[Matt.12.34|Matt.12.34]]
 </sub></small>

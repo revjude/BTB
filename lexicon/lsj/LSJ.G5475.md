@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> a weight,  1/8 obol, [<a href="javascript
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>χαλκοῦ</span> <span class='asgreek'>ἄνθος</span>, particles thrown off by copper when cooling, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “γυναικεῖα” 1.104, 3rd-2nd c.BC: Philo Mechanicus “(Belopoeica) Excerpte aus Philons Mechanik - Ath. Berl. Akad.” 102.34, 1st c.AD: Dioscorides (Dioscurides) Medicus 5.77. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_III.b</b> <span class='asgreek'>χαλκοῦ</span> <span class='asgreek'>λεπίς</span>, small pieces that scale off under the hammer, [<a href="javascript:void(0)" title="[prev. work]78. (Perh. cf. Lith. ">Refs</a>]<b>geležìs</b> 'iron'.)
 
-<small><sub>LSJ Scripture Refs: [[Matt.10.9]] ☩ [[Mark.12.41]]
+<small><sub>LSJ Scripture Refs: [[Matt.10.9|Matt.10.9]] ☩ [[Mark.12.41|Mark.12.41]]
 </sub></small>

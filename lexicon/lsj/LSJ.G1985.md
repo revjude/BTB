@@ -7,5 +7,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_A.2</b>. <b>scout, watch</b>, c.<i>dative</i>, <sp
 $\quad$ $\quad$ $\quad$<b>\_\_A.3</b>. <b>supervisor, inspector</b>, sent by Athens to subject states, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Aves” 1023, “IG” 12.10,11 ">Refs 5th c.BC+</a>]; of <b>municipal</b> <b>officials</b> at Rhodes, [<a href="javascript:void(0)" title="[prev. work]12(1).49.42 (2nd-1st c.BC): generally, “PPetr.” 3 P. 75 (3rd c.BC), etc. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_A.4</b>. <b>ecclesiastical superintendent</b>, <span class='asgreek'>==ἐπίσκοπος==οι</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>διάκονοι</span> [<a href="javascript:void(0)" title=" NT.Phil.1.1, cf. NT.Acts.20.28, NT.1Tim.3.2, etc. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Pet.2.25]] ☩ [[Phil.1.1]] ☩ [[Acts.20.28]] ☩ [[1Tim.3.2]]
+<small><sub>LSJ Scripture Refs: [[1Pet.2.25|1Pet.2.25]] ☩ [[Phil.1.1|Phil.1.1]] ☩ [[Acts.20.28|Acts.20.28]] ☩ [[1Tim.3.2|1Tim.3.2]]
 </sub></small>

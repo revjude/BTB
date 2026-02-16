@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_10</b> <b>freight, cargo,</b> <span class='asgreek
 $\quad$ $\quad$<b>\_\_II</b> <b>filling up, completing,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Trachiniae” 1213 ">Refs 5th c.BC+</a>]; <span class='asgreek'>Ζηνὸς</span> <span class='asgreek'>ἔχεις</span> <span class='asgreek'>κυλίκων</span> <span class='asgreek'>π</span>. hast <b>the task of filling..,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Troades” 824 (Lyric poetry). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>fulfilment,</b> <span class='asgreek'>νόμου</span> [<a href="javascript:void(0)" title=" NT.Rom.13.10. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.9.16]] ☩ [[Rom.11.12]] ☩ [[Eph.3.19]] ☩ [[Col.1.19]] ☩ [[Rom.13.10]]
+<small><sub>LSJ Scripture Refs: [[Matt.9.16|Matt.9.16]] ☩ [[Rom.11.12|Rom.11.12]] ☩ [[Eph.3.19|Eph.3.19]] ☩ [[Col.1.19|Col.1.19]] ☩ [[Rom.13.10|Rom.13.10]]
 </sub></small>

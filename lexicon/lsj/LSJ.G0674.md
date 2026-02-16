@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>cool, chill,</b> <span class='asgreek'>ὄψα</
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>impersonal</i>, <span class='asgreek'>==ἀποψύχω==ψύχει</span> <b>it grows cool,</b> <span class='asgreek'>ἐπειδὰν</span> <span class='asgreek'>==ἀποψύχω==ψύχῃ</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Phaedrus” 242a, cited in 2nd c.AD: Phrynichus Atticista “Praeparatio Sophistica” p.45 5th c.BC: Bacchylides Lyricus, sed to be read ==ἀποψύχω==ψυχῇ (\_aorist 2\_ \_passive\_). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>==ἀποψύχω==ψύχειν</span>· <span class='asgreek'>==ἀποψύχω==πατεῖν</span>, <span class='asgreek'>ἀφοδεύειν</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]; compare <span class='asgreek'>ἀπόψυγμα</span>.
 
-<small><sub>LSJ Scripture Refs: [[Luke.21.26]]
+<small><sub>LSJ Scripture Refs: [[Luke.21.26|Luke.21.26]]
 </sub></small>

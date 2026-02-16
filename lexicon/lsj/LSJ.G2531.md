@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>how</b>, <span class='asgreek'>ὑπομιμνῄσκειν</span> <span class='asgreek'>κ</span>... Aristeas 263,[<a href="javascript:void(0)" title="cf. NT.Acts.15.12. ">NT</a>]
 $\quad$ $\quad$<b>\_\_II</b> of Time, <b>as, when</b>,[<a href="javascript:void(0)" title=" [prev. work] 7.17, LXX.2Mac.1.31, Aristeas 310. (Condemned by 2nd c.AD: Phrynichus Atticista 397, 2nd c.AD: Moeris Grammaticus 212.) ">LXX+2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.15.12]] ☩ [[Acts.15.12]]
+<small><sub>LSJ Scripture Refs: [[John.15.12|John.15.12]] ☩ [[Acts.15.12|Acts.15.12]]
 </sub></small>

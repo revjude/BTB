@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <span class='asgreek'>ἀνοχὴν</spa
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>relief from</b> disease, [<a href="javascript:void(0)" title=" 3rd c.AD: Philumenus Medicus cited in 4th c.AD: Oribasius Medicus “Synopsis” 8.3.4. ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>ἀνατολή</span>}, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 4.157, 5th c.AD(?): Hesychius Legal icographus ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.2.4]]
+<small><sub>LSJ Scripture Refs: [[Rom.2.4|Rom.2.4]]
 </sub></small>

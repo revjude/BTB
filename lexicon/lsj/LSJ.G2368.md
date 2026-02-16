@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>stuff for embalming</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 2.86, 4.71. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rev.5.8]]
+<small><sub>LSJ Scripture Refs: [[Rev.5.8|Rev.5.8]]
 </sub></small>

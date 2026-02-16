@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>borrow jointly</b>, <span class='asgreek'>τινῶν</span> <span class='asgreek'>τριήρεις</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 1.20.14 ">Refs 2nd c.BC+</a>]:— <i>passive</i>, <span class='asgreek'>σιτικὰ</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>συγχρησθέντα</span> [<a href="javascript:void(0)" title=" “PPetr.” 2p.64 (3rd c.BC,compare “Arch.Papyrus” 3.518). ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.4.9]]
+<small><sub>LSJ Scripture Refs: [[John.4.9|John.4.9]]
 </sub></small>

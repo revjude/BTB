@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>illusion, deceit,</b> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus Prot. p.118 4th c.BC: Demosthenes Orator ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jas.1.16]]
+<small><sub>LSJ Scripture Refs: [[Jas.1.16|Jas.1.16]]
 </sub></small>

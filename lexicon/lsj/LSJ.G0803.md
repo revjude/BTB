@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_5</b> <span class='asgreek'>ἀ</span>. <span clas
 $\quad$ $\quad$ $\quad$<b>\_\_6</b> as law-term, <b>security, bond,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 2.13.7">Refs 2nd c.AD+</a>]; <b>pledge</b>, [<a href="javascript:void(0)" title=" “BGU” 1149.24 (1st c.BC)">Refs 1st c.BC+</a>]: in <i>plural</i>, = Latin <i>cautiones,</i> [<a href="javascript:void(0)" title=" 6th c.AD: Justinianus Imperator “Novellae” 72.6. ">Refs 6th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_7</b> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Pythagoras Philosophus ">Refs 4th c.BC+</a>] name for <b>eight,</b> [<a href="javascript:void(0)" title=" Theol.Ar. 56.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.1.4]]
+<small><sub>LSJ Scripture Refs: [[Luke.1.4|Luke.1.4]]
 </sub></small>

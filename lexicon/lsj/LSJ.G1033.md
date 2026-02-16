@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>cavity</b> in a tooth, [<a href="javascript:void
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>moth-eating</b>, in <i>plural</i>, [<a href="javascript:void(0)" title=" LXX.EpJer.12. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>plural</i>, <b>filth, ordure</b>, probably in [<a href="javascript:void(0)" title=" NT.Mark.7.19 ">NT</a>]; compare <span class='asgreek'>βρῶμος</span> (B).
 
-<small><sub>LSJ Scripture Refs: [[Mark.7.19]]
+<small><sub>LSJ Scripture Refs: [[Mark.7.19|Mark.7.19]]
 </sub></small>

@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_III</b> Grammars, <b>indicating nationality</b>, [<a href=
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>dialectal</b>, <span class='asgreek'>ἔθος</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Syntaxi;” 46.1. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <span class='asgreek'>==ἐθνικός==ικός</span>, <span class='asgreek'>ὁ</span>, <b>tax-collector,</b> [<a href="javascript:void(0)" title=" POxy. 126.13 (6th c.AD). ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.5.47]] ☩ [[Gal.2.14]]
+<small><sub>LSJ Scripture Refs: [[Matt.5.47|Matt.5.47]] ☩ [[Gal.2.14|Gal.2.14]]
 </sub></small>

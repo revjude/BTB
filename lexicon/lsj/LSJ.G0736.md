@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>principal pulley</b> in a system, [<a href="javascript:void(0)" title=" 1st c.BC: Vitruvius Scriptor de Architectura Latinus 10.2.9 (in Latin form, = Gk. ἐπάγων).">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.27.40]]
+<small><sub>LSJ Scripture Refs: [[Acts.27.40|Acts.27.40]]
 </sub></small>

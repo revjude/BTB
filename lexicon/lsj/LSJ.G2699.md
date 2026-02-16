@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>face</b> of rock, [<a href="javascript
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>καταγραφή</span>}, <b>profile</b>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus (s.Hymns of see.). ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>mutilation</b>, opposed to true <b>circumcision</b>, a <span class='asgreek'>παρονομασία</span> in [<a href="javascript:void(0)" title=" NT.Phil.3.2. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Phil.3.2]]
+<small><sub>LSJ Scripture Refs: [[Phil.3.2|Phil.3.2]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>testify,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “Fragmenta.” 311 ">Refs 5th c.BC+</a>]:— <i>middle</i>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Tim.5.10]]
+<small><sub>LSJ Scripture Refs: [[1Tim.5.10|1Tim.5.10]]
 </sub></small>

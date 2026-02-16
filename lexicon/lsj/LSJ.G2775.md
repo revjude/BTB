@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>smite on the head,</b> [<a href="javascript:void(0)" title="NT.Mark.12.4. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.12.4]]
+<small><sub>LSJ Scripture Refs: [[Mark.12.4|Mark.12.4]]
 </sub></small>

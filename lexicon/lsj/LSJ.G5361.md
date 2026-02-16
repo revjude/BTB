@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> in <b>NT, loving the brethren,</b> [<a href=
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>φιλάδελφον</span>, <span class='asgreek'>τό</span>, <b>mock orange, Philadelphus coronarius,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Apollodorus Damascenus Mechanicus cited in 2nd c.AD: Athenaeus Epigrammaticus 15.682c. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>φιλάδελφοι</span>, <span class='asgreek'>οἱ</span>, name of fabulous <b>stones,</b> Ps.-[<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Fluv.” 11.4. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Pet.3.8]]
+<small><sub>LSJ Scripture Refs: [[1Pet.3.8|1Pet.3.8]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> (<span class='asgreek'>συντίθεμαι</span>) <b>bound by no covenant, faithless,</b> <span class='asgreek'>ὁ</span> <span class='asgreek'>δῆμός</span> <span class='asgreek'>ἐστιν</span> <span class='asgreek'>πρᾶγμα</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>πάντων</span> <span class='asgreek'>ἀσυνθετώτατον</span>[<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 19.136 (variant{ἀσυνετ-}),cf. NT.Rom.1.31">NT+4th c.BC+</a>]; <b>making no covenants,</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>διατελοῦσι</span>[<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Herc.” 1251.19.">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.1.31]]
+<small><sub>LSJ Scripture Refs: [[Rom.1.31|Rom.1.31]]
 </sub></small>

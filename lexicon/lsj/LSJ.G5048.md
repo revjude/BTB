@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <i>passive</i>, <b>to be made perfect</b>
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <i>passive</i>, <b>die,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 14.628 (from Rhegium). ">Refs</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>intransitive</i>, <b>bring fruit to maturity, come to maturity</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Generatione Animalium” 757b24. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.4.34]] ☩ [[Luke.2.43]] ☩ [[Acts.20.24]] ☩ [[John.19.28]] ☩ [[Heb.11.40]]
+<small><sub>LSJ Scripture Refs: [[John.4.34|John.4.34]] ☩ [[Luke.2.43|Luke.2.43]] ☩ [[Acts.20.24|Acts.20.24]] ☩ [[John.19.28|John.19.28]] ☩ [[Heb.11.40|Heb.11.40]]
 </sub></small>

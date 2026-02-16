@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> ={<span class='asgreek'>λίβανος</spa
 $\quad$ $\quad$<b>\_\_II</b> <b>the frankincensemarket</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Eupolis Comicus 304, Chamaeleon Grammaticus cited in 2nd c.AD: Athenaeus Epigrammaticus 9.374b. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>λιβανωτρίς</span>}, [<a href="javascript:void(0)" title=" NT.Rev.8.3, 5. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rev.8.3]]
+<small><sub>LSJ Scripture Refs: [[Rev.8.3|Rev.8.3]]
 </sub></small>

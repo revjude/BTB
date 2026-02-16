@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>giving of thanks</b>, <span class='asgreek'>εἰς</span> <span class='asgreek'>εὐ</span>. <span class='asgreek'>θεοῦ</span> [<a href="javascript:void(0)" title=" “SIG” 798.5 (Cyzicus, 1st c.AD),compare 1st c.AD: Philo Judaeus 1.60, LXX.Wis.16.28, “Corpus Hermeticum” 1.29, etc.: \_plural\_, ποιεῖσθαι -ίας NT.1Tim.2.1. ">NT+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Tim.2.1]]
+<small><sub>LSJ Scripture Refs: [[1Tim.2.1|1Tim.2.1]]
 </sub></small>

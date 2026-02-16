@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>production</b>, <span class='asgreek'>ἀγαθῶν</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Politica” 1332a18 (\_plural\_). ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.1.14]]
+<small><sub>LSJ Scripture Refs: [[Luke.1.14|Luke.1.14]]
 </sub></small>

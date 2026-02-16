@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>ἤ</span>. <b>smoothness</b>, of pigments, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “de Lapidibus” 62. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b>  <i>adverb</i> -<span class='asgreek'>μως</span> <b>quietly</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Aspasius Philosophus “in Ethica Nicomachea commentaria - pars” 120.13 ">Refs 2nd c.AD+</a>]. (Cf. Lithuanian <i>rìmti</i> 'grow still', Gothic <i>rimis</i> (= <span class='asgreek'>ἡσυχία</span>), Sanskrit <i>ramṇāti</i> 'set at rest'.)
 
-<small><sub>LSJ Scripture Refs: [[1Tim.2.2]]
+<small><sub>LSJ Scripture Refs: [[1Tim.2.2|1Tim.2.2]]
 </sub></small>

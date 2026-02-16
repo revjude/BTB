@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> a sort of <b>valve,</b> [<a href="javascript:void(0)" title=" 2nd-1st c.BC(?): Hero Mechanicus “(Spiritalia) Pneumatica” 1.10.">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.10.29]]
+<small><sub>LSJ Scripture Refs: [[Matt.10.29|Matt.10.29]]
 </sub></small>

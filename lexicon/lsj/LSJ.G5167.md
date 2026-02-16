@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> a kind of fish, the <b>sting-ray,</b> <span class='asgreek'>τρυγόνες</span> <span class='asgreek'>ὀπισθόκεντροι</span> [<a href="javascript:void(0)" title=" 5th c.BC: Epicharmus Comicus 66, compare 4th c.BC: Aristoteles Philosophus “Historia Animalium” 489b31, 4th c.BC: Antiphanes Comicus 26.23, 1st c.AD: Celsus Medicus 6.9.6, 2nd c.AD: Galenus Medicus  Vict. \_Attic dialect\_ 8">Refs 5th c.BC+</a>]; compare <span class='asgreek'>τρυγόνιος</span>. 
 $\quad$ $\quad$<b>\_\_III</b> an oviparous quadruped of uncertain kind, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 540a31. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.2.24]]
+<small><sub>LSJ Scripture Refs: [[Luke.2.24|Luke.2.24]]
 </sub></small>

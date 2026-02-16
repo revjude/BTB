@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>oppose</b>, [<a href="javascript:void(0)" title=
 $\quad$ $\quad$<b>\_\_III</b> <b>check, hold</b> the breath, [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus 1.69 ">Refs 2nd c.AD+</a>]: generally, <b>hinder, thwart</b>, <span class='asgreek'>τισί</span> [<a href="javascript:void(0)" title=" “Sammelb.” 4305 ">Refs</a>]; <span class='asgreek'>τῇ</span> <span class='asgreek'>δικαιοδοσίᾳ</span> <i>falsa lectio</i> in [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 23.1.12 ">Refs 2nd c.BC+</a>]; <b>delay,</b> [<a href="javascript:void(0)" title=" NT.Acts.24.4">NT</a>]:—<i>passive</i>, <span class='asgreek'>ἐνεκοπτόμην</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>ἐλθεῖν</span> [<a href="javascript:void(0)" title=" NT.Rom.15.22, compare 3rd c.AD: Porphyrius Tyrius Philosophus “de Antro Nympharum - Porphyrii Opuscula” 19. ">NT+3rd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <i>intransitive</i>, <b>come to a stop</b>, [<a href="javascript:void(0)" title="Vett. Val. 260.24. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.24.4]] ☩ [[Rom.15.22]]
+<small><sub>LSJ Scripture Refs: [[Acts.24.4|Acts.24.4]] ☩ [[Rom.15.22|Rom.15.22]]
 </sub></small>

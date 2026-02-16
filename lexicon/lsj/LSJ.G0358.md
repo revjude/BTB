@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> of salt itself, salt <b>which is no salt, </b> NT.Mark.9.50.
 
-<small><sub>LSJ Scripture Refs: [[Mark.9.50]]
+<small><sub>LSJ Scripture Refs: [[Mark.9.50|Mark.9.50]]
 </sub></small>

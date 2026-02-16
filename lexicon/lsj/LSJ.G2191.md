@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>proper name</i> of a monster, [<a href="javascript:void(0)" title=" 8th-7th c.BC: Hesiodus Epicus “Theogonia” 297, 5th c.BC: Sophocles Tragicus “Trachiniae” 1099. ">Refs 8th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.28.3]] ☩ [[Matt.3.7]]
+<small><sub>LSJ Scripture Refs: [[Acts.28.3|Acts.28.3]] ☩ [[Matt.3.7|Matt.3.7]]
 </sub></small>

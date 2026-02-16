@@ -14,5 +14,5 @@ $\quad$ $\quad$<b>\_\_III</b> as <i>substantive</i>, <span class='asgreek'>τὰ
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>after-birth,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 1.48,50. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <span class='asgreek'>δευτέρα</span> <span class='asgreek'>σαββάτου</span> (i.e. <span class='asgreek'>ἡμέρα</span>) <b>second day of the week,</b> [<a href="javascript:void(0)" title=" LXX.Ps.47(48) at Title Page ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.14.72]]
+<small><sub>LSJ Scripture Refs: [[Mark.14.72|Mark.14.72]]
 </sub></small>

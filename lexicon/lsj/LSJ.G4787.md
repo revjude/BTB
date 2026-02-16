@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> apparently <i>intransitive</i>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Problemata” 949a19 (uncertain reading). ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.6.12]]
+<small><sub>LSJ Scripture Refs: [[Acts.6.12|Acts.6.12]]
 </sub></small>

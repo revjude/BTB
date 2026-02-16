@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> especially <b>political equality</b> or <b>j
 $\quad$ $\quad$<b>\_\_II</b> <b>fair dealing, impartiality</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus “Μονόστιχοι - Fragmenta Comicorum Graecorum” 259, 2nd c.BC: Polybius Historicus 2.38.8, NT.Col.4.1. ">NT+4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>equiformity</b>, of the earth, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Epicurus Philosophus “De rerum natura - Wien. Stud.” 11.10. (On the accent see Hdn.Gr. 1.83, 2.945 ">Refs 4th c.BC+</a>]; <span class='asgreek'>ἰσοτής</span> is said to be Hellenistic by [<a href="javascript:void(0)" title=" 2nd c.AD: Moeris Grammaticus 202.) ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Col.4.1]]
+<small><sub>LSJ Scripture Refs: [[Col.4.1|Col.4.1]]
 </sub></small>

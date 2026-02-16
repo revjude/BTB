@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>book</b> as the division of a work, <s
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <span class='asgreek'>τὰ</span> <span class='asgreek'>β</span>. <b>place in which books are kept, library</b>, <span class='asgreek'>ἀνεθήκατε</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>β</span>. [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Dio Chrysostomus Sophista 37.8. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <span class='asgreek'>τὰ</span> <span class='asgreek'>β</span>. <span class='asgreek'>τὰ</span> <span class='asgreek'>ἅγια</span> the sacred <b>books</b> or [<a href="javascript:void(0)" title=" “Scriptures”, LXX.1Mac.12.9; τὰ β. τοῦ νόμου [prev. work] 1.56. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.19.7]]
+<small><sub>LSJ Scripture Refs: [[Matt.19.7|Matt.19.7]]
 </sub></small>

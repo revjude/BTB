@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>accrue, enure</b>, <span class='asgreek'>
 $\quad$ $\quad$<b>\_\_II</b> of effects, <b>follow closely upon</b> the cause, <span class='asgreek'>πάντα</span> <span class='asgreek'>σ</span>. <span class='asgreek'>τῷ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>παντὸς</span> <span class='asgreek'>παθήματι</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Politicus” 274a; μετὰ τοῦ ῥήματος.. σ. τὰς ἡδονάς [prev. author] “R.” 464a; σ. τοῖς πλούτοις ἄνοια καὶ μετὰ ταύτης ἀκολασία 5th-6th c.BC: Isocrates Orator 7.4, compare 4th c.BC: Aristoteles Philosophus “Meteorologica” 370b10, 2nd c.AD: Galenus Medicus 18(2).135. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> in the Logic of [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus ">Refs 4th c.BC+</a>], <b>follow necessarily with</b> a term, <b>be involved in</b> it, [<a href="javascript:void(0)" title=" “APr.” 52b11 ">Refs</a>]; <b>to be mutually implied</b>, <span class='asgreek'>σ</span>. <span class='asgreek'>αἱ</span> <span class='asgreek'>ἀρχαί</span> [<a href="javascript:void(0)" title=" “Metaphorical” 1085a16. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.14.51]]
+<small><sub>LSJ Scripture Refs: [[Mark.14.51|Mark.14.51]]
 </sub></small>

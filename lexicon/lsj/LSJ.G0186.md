@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>steadfast, steady</b>, <span class='asgreek'>φιλία</span>[<a href="javascript:void(0)" title=" [prev. work] 12.158 (1st c.BC: Meleager Epigrammaticus); ὁμολογία NT.Heb.10.23; ψυχή 2nd c.AD: Lucianus Sophista “Dem.Enc.” 33">NT+1st c.BC+</a>]; <b>unmoved, tranquil</b>, [<a href="javascript:void(0)" title=" 4th-5th c.AD(?): Nonnus Epicus “Dionysiaca” 35.11, +others">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.10.23]]
+<small><sub>LSJ Scripture Refs: [[Heb.10.23|Heb.10.23]]
 </sub></small>

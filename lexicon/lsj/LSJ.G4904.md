@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> Astrology texts, <b>in co-operation</b>, of planetary influence, [<a href="javascript:void(0)" title=" 2nd c.AD: Vettius Valens Astrologus 55.15 ">Refs 2nd c.AD+</a>]; distinguished from <span class='asgreek'>ὑπουργός</span>, [<a href="javascript:void(0)" title=" 2nd-1st c.BC(?): Serapio Astrologus in “Cat.Codex Astr.” 8(4).226. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>person of the same trade as</b> another, <b>fellowworkman</b>, <b>colleague</b>, with <i>genitive</i> <i>person</i>, [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 19.144, compare “IG” 12.374.87, “PCair.Zen.” 758.8 (3rd c.BC), 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pericles” 31:—in this sense some write σύνεργος, 1st-2nd c.AD: Ammonius Grammaticus “περὶ ὁμοίων καὶ διαφόρων λέξεων” p.126 V., Thom.Mag. p.339 R. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.3.9]] ☩ [[Col.4.11]]
+<small><sub>LSJ Scripture Refs: [[1Cor.3.9|1Cor.3.9]] ☩ [[Col.4.11|Col.4.11]]
 </sub></small>

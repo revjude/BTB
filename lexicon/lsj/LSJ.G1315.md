@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>middle</i>, <b>lay hands on, slay,</b> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 8.21.8, NT.Acts.5.30, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.220b, 2nd-3rd c.AD: Dio Cassius Historicus 72.14. ">NT+2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.5.30]]
+<small><sub>LSJ Scripture Refs: [[Acts.5.30|Acts.5.30]]
 </sub></small>

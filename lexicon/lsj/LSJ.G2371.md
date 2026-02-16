@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>fight desperately</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 17.33 ">Refs 1st c.BC+</a>]; <b>contend obstinately</b>, <span class='asgreek'>τινι</span> [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 5.11. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.12.20]]
+<small><sub>LSJ Scripture Refs: [[Acts.12.20|Acts.12.20]]
 </sub></small>

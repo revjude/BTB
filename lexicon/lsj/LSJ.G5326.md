@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_b</b> <i>plural</i>, <b>phenomena,</b> <span class='asgreek'>τὰ</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>ἀέρι</span> <span class='asgreek'>φ</span>. [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Mundo” 395a29 ">Refs 4th c.BC+</a>]: <i>plural</i>, <b>portents,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 4.62. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>φαντασία</span>}[<a href="javascript:void(0)" title=" 1, 5th-6th c.BC: Plato Philosophus “Protagoras” 356e, “Tht.” 167b, “Prm.” 166a, “R.” 598b, 4th c.BC: Aristoteles Philosophus “de Anima” 428a1, 4th-3rd c.BC: Epicurus Philosophus “Epistulae” 2pp.37,51 ">Refs 5th c.BC+</a>] U.; distinguished from <span class='asgreek'>εἰκών</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Sophista” 236c. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.14.26]]
+<small><sub>LSJ Scripture Refs: [[Matt.14.26|Matt.14.26]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> concrete, <b>prize to be grasped,</b> [<a href="javascript:void(0)" title="NT.Phil.2.6; compare ἅρπαγμα 2.">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Phil.2.6]]
+<small><sub>LSJ Scripture Refs: [[Phil.2.6|Phil.2.6]]
 </sub></small>

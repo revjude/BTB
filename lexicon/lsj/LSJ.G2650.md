@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>remain fixed, continue</b> in a state, <span class='asgreek'>ἐν</span> <span class='asgreek'>τοῖς</span> <span class='asgreek'>ὑπηρετικοῖς</span> <span class='asgreek'>ὅπλοις</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 2.1.18; ἐπὶ τῶν αὐτῶν 2nd c.AD: Galenus Medicus 6.328; ἔν τινι [prev. author] 2.27; ἐπὶ τοῖς ὑπάρχουσι Nymphodorus Historicus 21: \_absolutely\_, τῆς εἰωθυίας ἀρχῆς καταμενούσης 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 3.1.30. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.1.13]]
+<small><sub>LSJ Scripture Refs: [[Acts.1.13|Acts.1.13]]
 </sub></small>

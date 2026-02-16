@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>learned in the law,</b> [<a href="javascript:voi
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>lawyer, notary,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Cicero” 26, 2nd c.AD: Galenus Medicus “περὶ τῆς τάξεως τῶν ἰδίων βιβλίων” 5, “BGU” 326ii22 (2nd c.AD). ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>legal adviser, assessor</b> of a magistrate, Mitteis [<a href="javascript:void(0)" title=" “Chr.” 372 iii 18 (2nd c.AD), etc.">Refs 2nd c.AD+</a>]; <span class='asgreek'>ν</span>. <span class='asgreek'>ἄριστος</span> [<a href="javascript:void(0)" title=" “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 2787 (from Aphrodisias), compare “BGU” 361 iii 2 (2nd c.AD), etc. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Titus.3.9]] ☩ [[Matt.22.35]]
+<small><sub>LSJ Scripture Refs: [[Titus.3.9|Titus.3.9]] ☩ [[Matt.22.35|Matt.22.35]]
 </sub></small>

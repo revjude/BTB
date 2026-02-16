@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> ={<span class='asgreek'>==κτίσμα==ις</span>}[<a href="javascript:void(0)" title=" 11, LXX.Wis.9.2 (\_plural\_), LXX.3Mac.5.11, NT.Jas.1.18. ">LXX+NT</a>]
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>==κτίσμα==ις</span>}[<a href="javascript:void(0)" title=" 1.1, 12th c.AD: Eustathius Episcopus Thessalonicensis 1382.50. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jas.1.18]]
+<small><sub>LSJ Scripture Refs: [[Jas.1.18|Jas.1.18]]
 </sub></small>

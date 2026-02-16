@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>friendly relation between</b> two states,
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>status of an alien,</b> opposed to that of a citizen, <span class='asgreek'>γραφὴ</span> <span class='asgreek'>==ξενία==ίας</span> indictment <b>of an alien for usurping civic rights,</b> [<a href="javascript:void(0)" title=" [prev. author] “Ep.” 3.29 ">Refs</a>]; <span class='asgreek'>==ξενία==ίας</span> <span class='asgreek'>φεύγειν</span> (i.e. <span class='asgreek'>γραφήν</span>) to be so indicted, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Vespae” 718; ἀγωνίσασθαι 5th c.BC: Lysias Orator 13.60; ἁλίσκεσθαι 4th c.BC: Demosthenes Orator 24.131; ==ξενία==ίας γράψασθαί τινα [prev. author] 40.41. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>guest-chamber</b>, [<a href="javascript:void(0)" title=" “PSI” 1.50.16 (4th-5th c.AD) ">Refs 4th c.AD+</a>]; perhaps <b>lodging,</b> [<a href="javascript:void(0)" title=" NT.Acts.28.23. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.28.23]]
+<small><sub>LSJ Scripture Refs: [[Acts.28.23|Acts.28.23]]
 </sub></small>

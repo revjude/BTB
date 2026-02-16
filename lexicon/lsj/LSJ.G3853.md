@@ -14,5 +14,5 @@ $\quad$ $\quad$<b>\_\_IV</b> <b>summon to one's help</b>, especially in politics
 $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> <span class='asgreek'>π</span>. <span class='asgreek'>τὴν</span> <span class='asgreek'>ἀρχήν</span> <b>canvass for</b> office, [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 11.61, compare 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Marius” 5, etc.: \_absolutely\_, π. εἰς ὑπατείαν">Refs 1st c.BC+</a>] <b>to be candidate for</b>.., [<a href="javascript:void(0)" title=" [prev. author] “Caes.” 13, compare “Cat.Mi.” 8; ἐς δημαρχίαν 2nd c.AD: Appianus Historicus “Bella Civilia” 1.21. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_IV.3</b> <span class='asgreek'>ἐκ</span> <span class='asgreek'>μειρακίων</span> <span class='asgreek'>π</span>. <span class='asgreek'>εἰς</span> <span class='asgreek'>ἄνδρα</span> <b>claim</b> one's majority, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 2.10. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.5.28]]
+<small><sub>LSJ Scripture Refs: [[Acts.5.28|Acts.5.28]]
 </sub></small>

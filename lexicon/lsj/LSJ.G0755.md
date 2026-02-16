@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>head-waiter,</b> [<a href="javascript:void(0)" title=" 3rd c.AD: Heliodorus Scriptor Eroticus 7.27.">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.2.9]]
+<small><sub>LSJ Scripture Refs: [[John.2.9|John.2.9]]
 </sub></small>

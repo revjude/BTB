@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>shine, be bright</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hippolytus” 194 (\_anapaest meter\_). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>transitive</i>,= <span class='asgreek'>στιλπνόω</span>, <span class='asgreek'>==στίλβω==ει</span> <span class='asgreek'>πρόσωπον</span> [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 1.84 (variant for{στιλβοῖ}); στίλψασα τὰς παρειὰς ἐντρίμματι 5th c.AD: Aristaenetus Rhetor [same place] ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.9.3]]
+<small><sub>LSJ Scripture Refs: [[Mark.9.3|Mark.9.3]]
 </sub></small>

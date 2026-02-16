@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> = <b>rubus agrestis,</b> [<a href="javascript:void(0)" title="“Corpus Glossariorum Latinorum”">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.25.33]]
+<small><sub>LSJ Scripture Refs: [[Matt.25.33|Matt.25.33]]
 </sub></small>

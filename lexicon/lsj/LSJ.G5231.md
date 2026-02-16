@@ -7,3 +7,6 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>οἱ</span> <span class='asgreek'>ὑ</span>. <span class='asgreek'>πλεονασμοί</span> <b>excessive</b> repetitions, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 12.24.1 ">Refs 2nd c.BC+</a>]; but <span class='asgreek'>μίαν</span> <span class='asgreek'>ὑ</span>. <span class='asgreek'>ποιότητα</span> one <b>supreme</b> quality, [<a href="javascript:void(0)" title=" 4th c.BC: Meno Medicus “Iatrika” 14.18. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> of time, <b>further back,</b> <span class='asgreek'>ἐκ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>ὑ</span>. <span class='asgreek'>χρόνων</span> [<a href="javascript:void(0)" title=" “SIG” 742.58 (Ephesus, 1st c.BC). ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>above,</b> in a document, [<span class='asgreek'>ψηφίσματα</span>] <span class='asgreek'>ὑ</span>. <span class='asgreek'>γεγραμμένα</span> [<a href="javascript:void(0)" title="[prev. work]591.2 (Lampsacus, 2nd c.BC). ">Refs 2nd c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.43.15|LXX.Ezek.43.15]]
+</sub></small>

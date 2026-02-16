@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>belonging to death</b>, <span class='asgr
 $\quad$ $\quad$<b>\_\_II</b> of persons, <b>near death</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Philoctetes” 819; θ. ἤδη ὄντα 5th-6th c.BC: Plato Philosophus “Respublica” 408b ">Refs 5th c.BC+</a>]; <b>liable to the death-penalty,</b> [<a href="javascript:void(0)" title=" Abh.Berl.Akad. 1925(5).21 (from Cyrene). ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>dead</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Ajax” 517; θ. βεβηκότα [prev. author] “OT” 959. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.16.18]]
+<small><sub>LSJ Scripture Refs: [[Mark.16.18|Mark.16.18]]
 </sub></small>

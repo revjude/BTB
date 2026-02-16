@@ -5,5 +5,5 @@
  <b>uncondemned,</b> [<a href="javascript:void(0)" title=" NT.Acts.16.37, 22.25.">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Acts.16.37]]
+<small><sub>LSJ Scripture Refs: [[Acts.16.37|Acts.16.37]]
 </sub></small>

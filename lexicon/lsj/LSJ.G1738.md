@@ -15,5 +15,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>possessed of right</b>, <span class='a
 $\quad$ $\quad$<b>\_\_III</b> <i>adverb</i> -<span class='asgreek'>κως</span> <b>right, with justice, fairly</b>, [<a href="javascript:void(0)" title=" [prev. author] “Pr.” 63, “Ch.” 462 (Lyric poetry), etc.; ὀρθῶς ἐ. τ᾽ ἐπώνυμος [prev. author] “Th.” 405 ">Refs</a>]: <i>superlative</i> <b>-<span class='asgreek'>ώτατα</span></b>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Timaeus” 85b. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>justly, naturally, as one has a right to expect</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 135, 5th c.BC: Euripides Tragicus “Andromache” 920. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.3.8]]
+<small><sub>LSJ Scripture Refs: [[Rom.3.8|Rom.3.8]]
 </sub></small>

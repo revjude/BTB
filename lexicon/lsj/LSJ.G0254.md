@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> collectively, <b>chains, bondage,</b> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 21.3.3. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>link</b> in chain armour, [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Tactica” 3.5.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eph.6.20]]
+<small><sub>LSJ Scripture Refs: [[Eph.6.20|Eph.6.20]]
 </sub></small>

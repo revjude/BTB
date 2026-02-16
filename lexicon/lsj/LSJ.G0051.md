@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>ignorance</b>, <span class='asgreek'>περί</span> <span class='asgreek'>τινος</span>[<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 7.2.4.">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>object of</b> <span class='asgreek'>ἄγνοια</span>, [<a href="javascript:void(0)" title=" 5th-6th c.AD: Damascius Philosophus “de Principiis” 7.">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.9.7]]
+<small><sub>LSJ Scripture Refs: [[Heb.9.7|Heb.9.7]]
 </sub></small>

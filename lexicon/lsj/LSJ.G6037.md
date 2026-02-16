@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b>. <b>sow again, with fresh seed</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “de Causis Plantarum” 2.17.10 (\_passive\_)">Refs 4th c.BC+</a>]; <b>sow after</b>, <span class='asgreek'>ζιζάνια</span> [<a href="javascript:void(0)" title=" NT.Matt.13.25. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.13.25]]
+<small><sub>LSJ Scripture Refs: [[Matt.13.25|Matt.13.25]]
 </sub></small>

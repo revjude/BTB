@@ -13,5 +13,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>suggest, whisper,</b> as a prompter does, <span
 $\quad$ $\quad$<b>\_\_IV</b> <i>middle</i>, <b>appropriate to oneself,</b> <span class='asgreek'>ἀλλότρια</span> [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 17.1.5; δόξαν 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pompeius” 31. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> <b>attempt</b> a work, <span class='asgreek'>σύνταξιν</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ἱστορίαν</span> [<a href="javascript:void(0)" title=" [prev. author] “Dem.” 2. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.6.11]]
+<small><sub>LSJ Scripture Refs: [[Acts.6.11|Acts.6.11]]
 </sub></small>

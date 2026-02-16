@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i> in <i>passive</i>, <b>wallow in</b>, <span class='asgreek'>τοῖς</span> <span class='asgreek'>ἀφροδισίοις</span> [<a href="javascript:void(0)" title=" Anonymus “in EN” 436.7 ">Refs</a>]. [; but <span class='asgreek'>προσκυλῐσασα</span> in [<a href="javascript:void(0)" title=" 4th c.AD(?): Manetho Astrologus 5.200.] ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.27.60]] ☩ [[Mark.15.46]]
+<small><sub>LSJ Scripture Refs: [[Matt.27.60|Matt.27.60]] ☩ [[Mark.15.46|Mark.15.46]]
 </sub></small>

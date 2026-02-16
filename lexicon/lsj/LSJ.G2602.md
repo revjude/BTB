@@ -14,5 +14,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>periodical attack</b> of illness, <b>fit</b>, <
 $\quad$ $\quad$<b>\_\_IV</b> <b>detraction, abuse</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.” 2.56S.: \_plural\_, 1st c.AD: Philo Judaeus 2.571 codices ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_V</b> perhaps <b>outer wrapper</b> [<a href="javascript:void(0)" title="compare (κατάβλημα 11.4)">Refs</a>] of a bandage, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “κατ᾽ ἰητρεῖον” 9. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.11.11]] ☩ [[Matt.13.35]] ☩ [[Eph.1.4]]
+<small><sub>LSJ Scripture Refs: [[Heb.11.11|Heb.11.11]] ☩ [[Matt.13.35|Matt.13.35]] ☩ [[Eph.1.4|Eph.1.4]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> a surgical instrument, [<a href="javascript:void(0)" title=" “Hermes” 38.283. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.6.40]]
+<small><sub>LSJ Scripture Refs: [[Mark.6.40|Mark.6.40]]
 </sub></small>

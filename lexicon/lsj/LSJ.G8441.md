@@ -6,5 +6,5 @@
  <b>a, eighty-four,</b> [<a href="javascript:void(0)" title="NT.Luke.2.37. ">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Luke.2.37]]
+<small><sub>LSJ Scripture Refs: [[Luke.2.37|Luke.2.37]]
 </sub></small>

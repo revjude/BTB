@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>bruise, mortify,</b> [<a href="javascript:void(0)" title=" NT.1Cor.9.27 ">NT</a>]; also, <b>annoy greatly, wear out,</b> <span class='asgreek'>τινα</span> [<a href="javascript:void(0)" title=" NT.Luke.18.5, compare 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.921f (corr. Turnebus for ὑποπιέζω). ">NT+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.9.27]] ☩ [[Luke.18.5]]
+<small><sub>LSJ Scripture Refs: [[1Cor.9.27|1Cor.9.27]] ☩ [[Luke.18.5|Luke.18.5]]
 </sub></small>

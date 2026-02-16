@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>τὰ</span> <span cla
 $\quad$ $\quad$<b>\_\_II</b> <b>picking up scraps, gossiping</b>, <span class='asgreek'>ἄνθρωπος</span> [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 19.5 (\_superlative\_, [prev. work] 4)">Refs 1st c.BC+</a>]; also <span class='asgreek'>πικρὰ</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>σ</span>. <span class='asgreek'>ῥήματα</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.456c. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> as <i>substantive</i>, <b>one who picks up and retails scraps of knowledge, an idle babbler, gossip</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 18.127, NT.Acts.17.18, 2nd c.AD: Athenaeus Epigrammaticus 8.344c. ">NT+4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.17.18]]
+<small><sub>LSJ Scripture Refs: [[Acts.17.18|Acts.17.18]]
 </sub></small>

@@ -6,3 +6,6 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>affliction, distress,</b> [<a href="javascript:void(0)" title=" LXX.Ezek.12.18. ">LXX</a>]
 $\quad$ $\quad$<b>\_\_III</b> Grammars, <b>ecthlipsis, ejection</b> of a letter, as <span class='asgreek'>σκῆπτρον</span>, <span class='asgreek'>σκᾶπτον</span>, [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Conjunctionibus;” 230.10, etc.">Refs 2nd c.AD+</a>]; also, <b>elision,</b> [<a href="javascript:void(0)" title=" 12th c.AD: Eustathius Episcopus Thessalonicensis 984.15 (\_plural\_). ">Refs</a>]
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.12.18|LXX.Ezek.12.18]]
+</sub></small>

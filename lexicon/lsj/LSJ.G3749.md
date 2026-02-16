@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>like earthenware</b>, <span class='asgreek'>ὀστράκινατὸ</span> <span class='asgreek'>δέρμα</span>, ={<span class='asgreek'>ὀστρακόδερμα</span>}, variant in [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Lex.” 6. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Tim.2.20]] ☩ [[2Cor.4.7]]
+<small><sub>LSJ Scripture Refs: [[2Tim.2.20|2Tim.2.20]] ☩ [[2Cor.4.7|2Cor.4.7]]
 </sub></small>

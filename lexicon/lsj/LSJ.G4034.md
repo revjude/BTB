@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> c.<i>accusative</i>, <b>light up</b>, <span class='asgreek'>πολεμίῳ</span> <span class='asgreek'>πυρὶ</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>Ἑλλάδα</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" 4th c.BC: Demades Orator 39 ">Refs 4th c.BC+</a>]; <b>illuminate</b>, <span class='asgreek'>τὰ</span> <span class='asgreek'>κεκρυμμένα</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>ἀδικημάτων</span> <span class='asgreek'>ταῖς</span> <span class='asgreek'>ἀκτῖσι</span> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.634 ">Refs 1st c.AD+</a>]; <b>shine around</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Cicero” 35; φῶς π. τινά NT.Acts.26.13, cf. NT.Luke.2.9 ">NT+1st c.AD+</a>]:—<i>passive</i>, <b>to be illumined</b>, <span class='asgreek'>φωτί</span>, <span class='asgreek'>ὑπὸ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>φλογός</span>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pericles” 39, “Dio” 46; ὑπὸ τῶν ἀστέρων 2nd c.AD: Lucianus Sophista “Dom.” 8. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.26.13]] ☩ [[Luke.2.9]]
+<small><sub>LSJ Scripture Refs: [[Acts.26.13|Acts.26.13]] ☩ [[Luke.2.9|Luke.2.9]]
 </sub></small>

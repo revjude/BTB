@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>of unknown father,</b> like{<span class='asgreek'>σκότιος</span>}, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.288e, “PGrenf.” 2.56.3 (2nd c.AD).">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.7.3]]
+<small><sub>LSJ Scripture Refs: [[Heb.7.3|Heb.7.3]]
 </sub></small>

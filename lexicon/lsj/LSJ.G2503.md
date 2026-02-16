@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>line, stroke</b>, on a sundial, [<a href="javascript:void(0)" title=" “Bull.Soc.Alex.” 4.83 (3rd c.BC). ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> proverbial, of anything very small, <b>smallest letter, jot,</b> [<a href="javascript:void(0)" title="NT.Matt.5.18. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.5.18]]
+<small><sub>LSJ Scripture Refs: [[Matt.5.18|Matt.5.18]]
 </sub></small>

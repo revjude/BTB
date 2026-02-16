@@ -1,4 +1,4 @@
-<span class="asform"><span class="asgreek"><span class="asbold">ἀνά-στασις</span></span>, <span class="asgreek">-εως, ἡ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asref"><span class="asgreek">ἀνίστημι</span></span>),</span>  <span class="asseptuagint">\[in LXX: [[LXX.Zeph.3.8|Ze 3:8]] (**<big>[[H6965|קוּם]]</big>**), [[LXX.Lam.3.63|La 3:63]] (**<big>[[H7012|קִימָה]]</big>**), [[LXX.Ps.67.0|Ps 64 (66) <span class="asitalic">tit.</span>]]**\***, [[LXX.Dan.11.20|Da LXX 11:20]], II Mac 7:14 12:43\*;\]</span> </span>
+<span class="asform"><span class="asgreek"><span class="asbold">ἀνά-στασις</span></span>, <span class="asgreek">-εως, ἡ</span></span> <span class="asetym">  <span class="asderivation">(&lt; <span class="asref"><span class="asgreek">ἀνίστημι</span></span>),</span>  <span class="asseptuagint">\[in LXX: [[LXX.Zeph.3.8|Ze 3:8]] (**<big>[[H6965|קוּם]]</big>**), [[LXX.Lam.3.63|La 3:63]] (**<big>[[H7012|קִימָה]]</big>**), [[LXX.Ps.67.1|Ps 64 (66) <span class="asitalic">tit.</span>]]**\***, [[LXX.Dan.11.20|Da LXX 11:20]], II Mac 7:14 12:43\*;\]</span> </span>
 <span class="asbullet"><span class="asbold">1.</span> <span class="asitalic">a raising up</span>, <span class="asitalic">awakening</span>, <span class="asitalic">rising</span> (in Inscr. of the erection of a monument, v. MM, <span class="asitalic">VGT</span>, s.v.): [[Luke.2.34|Lk 2:34]].</span>
 <span class="asbullet"><span class="asbold">2.</span> <span class="asitalic">a rising from the dead</span> (v. <span class="asitalic">DCG</span>, ii, 605<span class="assuperscript">b</span>);</span>
 $\quad$ <span class="asbullet"><span class="asbold">(a)</span> of Christ: [[Acts.1.22|Ac 1:22]] [[Acts.2.31|2:31]] [[Acts.4.33|4:33]], [[Rom.6.5|Ro 6:5]], [[Phil.3.10|Phl 3:10]], [[1Pet.3.21|I Pe 3:21]]; <span class="asgreek">ἐξ ἀ. νεκρῶν</span>, [[Rom.1.4|Ro 1:4]] (<span class="asitalic">ICC</span>, in l.); <span class="asgreek">ἐκ νεκρῶν</span>, [[1Pet.1.3|I Pe 1:3]];</span>
@@ -10,7 +10,7 @@ $\quad$ <span class="asbullet"><span class="asbold">(c)</span> of the general re
 | Book | Refs |
 | - | - |
 | 1 Kings | [[LXX.1Kgs.17.17\|17:17]] |
-| Psalms | [[LXX.Ps.67.0\|66:1]]**\*** |
+| Psalms | [[LXX.Ps.67.1\|66:1]]**\*** |
 | Lamentations | [[LXX.Lam.3.63\|3:63]] |
 | Daniel | [[LXX.Dan.11.20\|11:20]] |
 | Zephaniah | [[LXX.Zeph.3.8\|3:8]] |

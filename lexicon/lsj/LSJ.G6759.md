@@ -6,3 +6,6 @@
  <b>have pain in the back teeth</b> or <b>gnash</b> them, <span class='asgreek'>γ</span>. <span class='asgreek'>τοὺς</span> <span class='asgreek'>ὀδόντας</span> [<a href="javascript:void(0)" title=" LXX.Sir.30.10. ">LXX</a>]
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> of the teeth, <b>suffer pain</b>,[<a href="javascript:void(0)" title="[prev. work = 2nd-3rd c.AD: Oppianus Anazarbensis Epicus “Halieutica - Poetae Bucolici et Didactici”] LXX.Ezek.18.2. ">LXX+2nd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.18.2|LXX.Ezek.18.2]]
+</sub></small>

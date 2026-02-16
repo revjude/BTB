@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <i>passive</i>, <b>to be folded over</b>, of
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <span class='asgreek'>περιτρέπεται</span>· <span class='asgreek'>ἰλιγγιᾷ</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i> in <i>aorist</i> 2, <b>turn</b> or <b>go round</b>, <span class='asgreek'>περὶ</span> <span class='asgreek'>δ᾽</span> <span class='asgreek'>ἔτραπον</span> <span class='asgreek'>ὧραι</span> [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 10.469. ">Refs 8th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.26.24]]
+<small><sub>LSJ Scripture Refs: [[Acts.26.24|Acts.26.24]]
 </sub></small>

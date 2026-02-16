@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>garfish</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Belone acus, Epicharmus Comicus [same place], 4th c.BC: Aristoteles Philosophus “Fragmenta” 294, 2nd-3rd c.AD: Oppianus Anazarbensis Epicus “Halieutica - Poetae Bucolici et Didactici” 1.172, “C.” 2.392. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.19.24]]
+<small><sub>LSJ Scripture Refs: [[Matt.19.24|Matt.19.24]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> of political affairs, <b>throw into confusio
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>stir up,</b> in <i>passive</i>, [<a href="javascript:void(0)" title=" 5th-6th c.AD: Damascius Philosophus “de Principiis” 29. ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>sound, take the measure of,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.580d,704d. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.3.14]]
+<small><sub>LSJ Scripture Refs: [[Luke.3.14|Luke.3.14]]
 </sub></small>

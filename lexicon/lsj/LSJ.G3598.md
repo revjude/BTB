@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>a way</b> of doing, speaking, etc., <
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b>method, system,</b> [<a href="javascript:void(0)" title=" [prev. author] “Sph.” 218d, 4th c.BC: Aristoteles Philosophus “Analytica Priora” 53a2, +others; ὁδῷ ">Refs 4th c.BC+</a>]<b>methodically, systematically,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 533b, “Stoicorum Veterum Fragmenta” 2.39, etc.; so καθ᾽ ὁδόν 5th-6th c.BC: Plato Philosophus “Respublica” 435a; τὴν διὰ τοῦ στοιχείου ὁ. ἔχων ἔγραφεν [prev. author] “Tht.” 208b (compare διέξοδον 208a). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.4</b> of <b>the Christian Faith and its followers,</b> [<a href="javascript:void(0)" title=" NT.Acts.9.2, 22.4, 24.14">NT</a>]. (Root <b>sed-</b> 'go', in Sanskrit <i>sad-, ā-sad-</i> 'come to', 'reach', OSlavonic <i>choditi</i> 'go'.)
 
-<small><sub>LSJ Scripture Refs: [[Acts.9.2]]
+<small><sub>LSJ Scripture Refs: [[Acts.9.2|Acts.9.2]]
 </sub></small>

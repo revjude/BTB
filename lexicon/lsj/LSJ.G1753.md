@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> Grammars, <b>active force,</b> opposed to <s
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> Rhet., <b>vigour of style,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Rhetorica” 1411b28. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> in the philosophical of [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus, opposed to δύναμις,">Refs 4th c.BC+</a>] <b>actuality, Metaphorical</b>[<a href="javascript:void(0)" title="1048a26, +others">Refs</a>]; opposed to <span class='asgreek'>ὕλη</span>, [<a href="javascript:void(0)" title="[prev. work]1043a20">Refs</a>]; <span class='asgreek'>ἡ</span> <span class='asgreek'>ὡς</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>οὐσία</span>, substance in the sense of <b>actuality,</b> [<a href="javascript:void(0)" title="[prev. work]1042b10">Refs</a>]; opposed to <span class='asgreek'>ἐντελέχεια</span>, as <b>actuality</b> to <b>full reality,</b> [<a href="javascript:void(0)" title="[prev. work]1050a22, 1047a30">Refs</a>]; <span class='asgreek'>ἐνεργείᾳ</span> <b>actually,</b> opposed to <span class='asgreek'>δυνάμει</span>, [<a href="javascript:void(0)" title="[prev. work]1045b19, +others, etc. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eph.1.19]]
+<small><sub>LSJ Scripture Refs: [[Eph.1.19|Eph.1.19]]
 </sub></small>

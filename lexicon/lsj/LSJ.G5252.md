@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> with <i>accusative</i>, <b>overlook, look do
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> with <i>genitive</i>, <b>think slightly of,</b> <span class='asgreek'>δαιμόνων</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Bacchae” 1325; τῶν καθεστώτων νόμων 5th-6th c.BC: Aristophanes Comicus “Nubes” 1400; τοῦ ἐπιτηδεύματος 5th-6th c.BC: Plato Philosophus “Phaedrus” 258b. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>surpass in knowledge,</b> <span class='asgreek'>ὑ</span>. <span class='asgreek'>ἱστορίᾳ</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>δῆμον</span> (variant for{<span class='asgreek'>περιφρ</span>-}) [<a href="javascript:void(0)" title=" 4th c.BC: Aeschines Orator 1.141: with \_accusative\_ \_cognate\_, πάντα ὑ.">Refs 4th c.BC+</a>] <b>excel in</b> all <b>wisdom,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἐπιστολαί” 17. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.12.3]]
+<small><sub>LSJ Scripture Refs: [[Rom.12.3|Rom.12.3]]
 </sub></small>

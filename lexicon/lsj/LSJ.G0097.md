@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>unadulterated, genuine</b>, <span class='asgreek'>χρίματος</span> <span class='asgreek'>ἀδόλοισι</span> <span class='asgreek'>παρηγορίαις</span>[<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 95; στύραξ 1st c.AD: Dioscorides (Dioscurides) Medicus 1.66">Refs 4th c.BC+</a>]; <span class='asgreek'>χρυσός</span> Eupolem. cited in [<a href="javascript:void(0)" title=" 1st c.BC: Alexander Polyhistor Historicus 18; ἀργύριον 2nd c.AD(?): Pollianus Epigrammaticus 3.86">Refs 1st c.BC+</a>]; <span class='asgreek'>σῖτος</span>, <span class='asgreek'>πυρός</span>, [<a href="javascript:void(0)" title=" “PHib.” 1.85, “PGrenf.” 1.18; ἀ. ἀπὸ παντός [prev. work] 2.29.14: \_metaphorically\_, αὔραις ἀδόλοις">Refs</a>] <b>pure</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Supplices” 1029 (Lyric poetry); τὸ λογικὸν ἄ. γάλα NT.1Pet.2.2. ">NT+5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>unpretentious</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pelopidas” 3.">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Pet.2.2]]
+<small><sub>LSJ Scripture Refs: [[1Pet.2.2|1Pet.2.2]]
 </sub></small>

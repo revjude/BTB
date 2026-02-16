@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>at once, </b>[<a href="javascript:void(0)" title=" NT.1Cor.15.6. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.6.10]] ☩ [[Heb.7.27]] ☩ [[1Cor.15.6]]
+<small><sub>LSJ Scripture Refs: [[Rom.6.10|Rom.6.10]] ☩ [[Heb.7.27|Heb.7.27]] ☩ [[1Cor.15.6|1Cor.15.6]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>revel, enjoy oneself,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Alexander Rhetor 25.6. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.10.41]]
+<small><sub>LSJ Scripture Refs: [[Luke.10.41|Luke.10.41]]
 </sub></small>

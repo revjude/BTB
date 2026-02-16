@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>τυφῶσαι</span>· <span class='asgreek'>πνῖξαι</span>, <span class='asgreek'>ἀπολέσαι</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Tim.6.4]]
+<small><sub>LSJ Scripture Refs: [[1Tim.6.4|1Tim.6.4]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>of like soul</b> or <b>mind,</b> [<a href="javascript:void(0)" title="NT.Phil.2.20. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Phil.2.20]]
+<small><sub>LSJ Scripture Refs: [[Phil.2.20|Phil.2.20]]
 </sub></small>

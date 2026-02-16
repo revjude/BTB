@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>religion, service of God</b>, [<a href="javascript:void(0)" title=" LXX.Wis.14.18, NT.Acts.26.5, NT.Jas.1.26; θ. τοῦ θεοῦ μία ἐστί, μὴ εἶναι κακόν “Corpus Hermeticum” 12 near the end ">LXX+NT</a>]; <span class='asgreek'>ἑκατέρα</span> <span class='asgreek'>θ</span>., i.e. Christianity and Paganism, [<a href="javascript:void(0)" title=" 4th c.AD: Themistius Sophista “Orationes” 5.69c ">Refs 4th c.AD+</a>]; <span class='asgreek'>θ</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>ἀγγέλων</span> <b>worshipping</b> of angels, [<a href="javascript:void(0)" title=" NT.Col.2.18. ">NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> in bad sense, <b>religious formalism</b>, <span class='asgreek'>ἀντὶ</span> <span class='asgreek'>ὁσιότητος</span> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.195 ">Refs 1st c.AD+</a>]; <span class='asgreek'>θ</span>. <span class='asgreek'>βιωτική</span> vulgar <b>superstition</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus 1.4. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.26.5]] ☩ [[Jas.1.26]] ☩ [[Col.2.18]]
+<small><sub>LSJ Scripture Refs: [[Acts.26.5|Acts.26.5]] ☩ [[Jas.1.26|Jas.1.26]] ☩ [[Col.2.18|Col.2.18]]
 </sub></small>

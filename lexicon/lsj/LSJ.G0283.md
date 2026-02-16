@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>not to be defiled,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 2.75. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>ὁ</span> <span class='asgreek'>ἀ</span>. <span class='asgreek'>λίθος</span> <b>asbestos,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Fragmenta” 495, 1st c.AD: Dioscorides (Dioscurides) Medicus 5.138, 1st c.AD: Plinius Rerum Naturalium Scriptor “Historia Naturalis” 36.139.">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.13.4]] ☩ [[1Pet.1.4]]
+<small><sub>LSJ Scripture Refs: [[Heb.13.4|Heb.13.4]] ☩ [[1Pet.1.4|1Pet.1.4]]
 </sub></small>

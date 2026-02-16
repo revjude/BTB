@@ -19,5 +19,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>hold fast by, cling to</b>, with <i>g
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> rarely with <i>infinitive</i>, <span class='asgreek'>περιείχετο</span>.. <span class='asgreek'>μένοντας</span> <span class='asgreek'>μὴ</span> <span class='asgreek'>ἐκλιπεῖν</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>τάξιν</span> <b>clung to his resolution</b> that they should stay and not leave their post, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 9.57. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <i>Aeolic dialect</i> <span class='asgreek'>περρέχω</span>, ={<span class='asgreek'>ὑπερέχω</span>}, <span class='asgreek'>ὁπόσον</span> <span class='asgreek'>τῷ</span> <span class='asgreek'>ποδὶ</span> <span class='asgreek'>περρέχει</span> <span class='asgreek'>τᾶς</span> <span class='asgreek'>γᾶς</span>, <span class='asgreek'>τοῦτο</span> <span class='asgreek'>χάρις</span>, i.e. every inch of his stature is grace, [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 30.3. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Pet.2.6]]
+<small><sub>LSJ Scripture Refs: [[1Pet.2.6|1Pet.2.6]]
 </sub></small>

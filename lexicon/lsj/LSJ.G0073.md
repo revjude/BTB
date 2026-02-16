@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.6</b> <b>mental struggle, anxiety</b>, [<a hre
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_III.6.b</b> of speakers, <b>vehemence, power</b>, [<a href="javascript:void(0)" title=" 3rd c.AD: Longinus Rhetor 15.1 compare 26.3. ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> personified, <span class='asgreek'>Ἀγών</span>, <b>divinity of the contest</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Pausanias Periegeta 5.26.3.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Col.2.1]]
+<small><sub>LSJ Scripture Refs: [[Col.2.1|Col.2.1]]
 </sub></small>

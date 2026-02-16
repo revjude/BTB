@@ -31,5 +31,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_B.II.4</b> joined with <span class='asgreek'>δο�
 $\quad$ $\quad$ $\quad$<b>\_\_B.II.5</b> <span class='asgreek'>οὐδαμοῦ</span> <span class='asgreek'>φαίνεσθαι</span> 'to be nowhere', <i>metaphorically</i> from racing, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Phaedo” 72c, compare “Grg.” 456b, 4th c.BC: Demosthenes Orator 18.310. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_B.III</b> <span class='asgreek'>τὰ</span> <span class='asgreek'>φανθέντα</span>, see above [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus 1.4. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.1.79]] ☩ [[Acts.21.3]] ☩ [[Heb.11.3]]
+<small><sub>LSJ Scripture Refs: [[Luke.1.79|Luke.1.79]] ☩ [[Acts.21.3|Acts.21.3]] ☩ [[Heb.11.3|Heb.11.3]]
 </sub></small>

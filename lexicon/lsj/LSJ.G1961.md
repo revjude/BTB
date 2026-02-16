@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b>. <b>abide by</b>, <span class='asgreek'>τα
 $\quad$ $\quad$ $\quad$<b>\_\_5</b>. <b>endure</b>, <span class='asgreek'>τοῖς</span> <span class='asgreek'>συμβεβηκόσι</span> 2nd c.AD: Soranus Medicus 1.3. 
 $\quad$ $\quad$<b>\_\_II</b>. with <i>accusative</i>, <b>await, be</b> <b>in store for</b>, <span class='asgreek'>τινά</span> 5th c.BC: Euripides Tragicus “Supplices” 624 (Lyric poetry), variant in[<a href="javascript:void(0)" title=" [prev. author] “Ph.” 223 (Lyric poetry), cf. Pl. “R.” 361d ">Refs</a>]: with <i>aorist</i> <i>infinitive</i>, <span class='asgreek'>ἐ</span>. <span class='asgreek'>τι</span> <span class='asgreek'>τελεσθῆναι</span> 5th c.BC: Thucydides Historicus 3.2; <span class='asgreek'>μὴ</span> '<span class='asgreek'>πιμεῖναι</span> <span class='asgreek'>τοὐμὸν</span> <span class='asgreek'>ὀξῦναι</span> <span class='asgreek'>στόμα</span> not <b>to wait</b> so as to.., [<a href="javascript:void(0)" title=" S. “Tr.” 1176 ">Refs</a>]: with <i>future</i> <i>infinitive</i>, [<a href="javascript:void(0)" title=" Th. 3.26. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.8.7]]
+<small><sub>LSJ Scripture Refs: [[John.8.7|John.8.7]]
 </sub></small>

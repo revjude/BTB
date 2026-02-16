@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>wand, baton</b> given as a prize, <span class='asgreek'>τιμηθεὶς</span> <span class='asgreek'>χρυσείῳβ</span>. [<a href="javascript:void(0)" title=" “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 3674 (Cyzicus, 2nd c.AD),compare “IG” 14.748 (from Naples). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.9.24]]
+<small><sub>LSJ Scripture Refs: [[1Cor.9.24|1Cor.9.24]]
 </sub></small>

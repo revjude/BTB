@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> later, concrete, <b>authority,</b> [<a href="javascript:void(0)" title=" PMasp. 151.199 (6th c.AD), etc. ">Refs 6th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>proper, legitimate use of a term</b>, [<a href="javascript:void(0)" title=" 5th-6th c.AD: Damascius Philosophus “de Principiis” 306 ">Refs 5th c.AD+</a>]; = Latin <i>proprietas</i>, [<a href="javascript:void(0)" title="Dosith. p.376 K. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eph.1.21]] ☩ [[Col.1.16]]
+<small><sub>LSJ Scripture Refs: [[Eph.1.21|Eph.1.21]] ☩ [[Col.1.16|Col.1.16]]
 </sub></small>

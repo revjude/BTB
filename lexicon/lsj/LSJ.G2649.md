@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>passive</i>, of evidence, <b>to be given 
 $\quad$ $\quad$<b>\_\_II</b> <b>assert concerning</b>, <span class='asgreek'>οὐδὲν</span> <span class='asgreek'>κ</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>οὐ</span> <span class='asgreek'>παρόντων</span> [<a href="javascript:void(0)" title=" 3rd c.AD: Plotinus Philosophus 5.5.13. ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> Astrology texts, <b>exercise malign influence over, 'aspect</b>', [<a href="javascript:void(0)" title=" 2nd c.AD: Vettius Valens Astrologus 104.2. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.26.62]]
+<small><sub>LSJ Scripture Refs: [[Matt.26.62|Matt.26.62]]
 </sub></small>

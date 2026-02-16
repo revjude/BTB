@@ -10,3 +10,6 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>iron stile</b>, used in encaustic paintin
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <span class='asgreek'>==ῥαβδίον==ία</span> <span class='asgreek'>ἀκοντίων</span> perhaps javelin <b>shafts</b>, [<a href="javascript:void(0)" title=" “BCH” 35.16 (Delian inventory). ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> teacher's <b>pointer</b> (or ={<span class='asgreek'>ῥάβδος</span>} 1.7), [<a href="javascript:void(0)" title=" 4th c.BC: Eudemus Philosophus cited in 6th c.AD: Simplicius Philosophus “in Aristotelis Physica commentaria - Comm. in Arist. Graeca” 732.32. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>ἅλιμον</span>}, Ps.-[<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 1.91. ">Refs 1st c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.21.16|LXX.Ezek.21.21]]**\***
+</sub></small>

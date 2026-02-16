@@ -17,5 +17,5 @@ $\quad$ $\quad$<b>\_\_III</b>. <b>onset</b>, [<a href="javascript:void(0)" title
 $\quad$ $\quad$<b>\_\_IV</b>. <span class='asgreek'>ἐν</span> <span class='asgreek'>ἐπιστάσει</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>ἀπολογισμῷ</span>, perhaps of land <b>of which the rent has been raised,</b> [<a href="javascript:void(0)" title=" PTeb. 61(a).163 (2nd c.BC), +others ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_V</b>. [<a href="javascript:void(0)" title=" 5th c.AD: Cypria ἐπίσταἱς, ={ἐπιστασία} 11, “Inscription Cyprian dialect” 144 H. ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.11.28]] ☩ [[Acts.24.12]]
+<small><sub>LSJ Scripture Refs: [[2Cor.11.28|2Cor.11.28]] ☩ [[Acts.24.12|Acts.24.12]]
 </sub></small>

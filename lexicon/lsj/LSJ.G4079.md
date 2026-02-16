@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <span class='asgreek'
 $\quad$ $\quad$<b>\_\_II</b> in <i>plural</i>, of <b>the oars</b> by which the nautilus is said to steer himself, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 622b13 ">Refs 4th c.BC+</a>]; of <b>the long hind legs</b> of the locust and grasshopper, [<a href="javascript:void(0)" title="[prev. work] 532a29, 535b12,compare “IA” 710a3. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>πολύγονον</span> <span class='asgreek'>ἄρρεν</span>}, Ps.-[<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 4.4. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.27.40]]
+<small><sub>LSJ Scripture Refs: [[Acts.27.40|Acts.27.40]]
 </sub></small>

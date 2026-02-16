@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i> in <i>active</i>, <span class='asgreek'>προσέρρηξεν</span> <span class='asgreek'>ὁ</span> <span class='asgreek'>ποταμὸς</span> <span class='asgreek'>τῇ</span> <span class='asgreek'>οἰκίᾳ</span> [<a href="javascript:void(0)" title=" NT.Luke.6.48. ">NT</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>burst</b>, <span class='asgreek'>τὰς</span> <span class='asgreek'>φλέβας</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Aretaeus Medicus “ὀξέων νούσων θεραπευτικόν” 2.2. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.6.48]]
+<small><sub>LSJ Scripture Refs: [[Luke.6.48|Luke.6.48]]
 </sub></small>

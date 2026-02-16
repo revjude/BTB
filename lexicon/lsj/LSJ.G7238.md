@@ -5,3 +5,6 @@
 
  ={<span class='asgreek'>ἐνεχυρασία</span>}, [<a href="javascript:void(0)" title=" LXX.Ezek.18.7, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Coriolanus” 5 (\_plural\_). ">LXX+1st c.AD+</a>]
 
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.18.7|LXX.Ezek.18.7]]
+</sub></small>

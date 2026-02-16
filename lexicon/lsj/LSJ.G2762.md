@@ -19,5 +19,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> ={<span class='asgreek'>κέρας</span
 $\quad$ $\quad$ $\quad$<b>\_\_II.7</b> <i>plural</i>, supposed teat-like <b>projections</b> inside the womb, [<a href="javascript:void(0)" title=" Diocl.fragment 27 ">Refs</a>]; but the <b>Fallopian tubes</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus “de Usu Partium” 14.11, 2nd c.AD: Rufus Medicus “περὶ ὀνομασίας” 194. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>bow made of horn,</b> [<a href="javascript:void(0)" title=" Anthologia Graeca 6.75 (6th c.AD: Paulus Silentiarius Epigrammaticus). ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.5.18]] ☩ [[Luke.16.17]]
+<small><sub>LSJ Scripture Refs: [[Matt.5.18|Matt.5.18]] ☩ [[Luke.16.17|Luke.16.17]]
 </sub></small>

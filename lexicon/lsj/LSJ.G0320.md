@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> Grammars, in textual criticism, <b>reading,</b> <sp
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>πραγματεία</span>}, [<a href="javascript:void(0)" title=" 6th c.AD: Olympiodorus Philosophus “in Aristotelis Meteora commentaria - pars” 3.34. ">Refs 6th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>persuasion,</b> [<a href="javascript:void(0)" title=" 10th c.AD: Suidas Legal icographus (misunderstanding 5th c.BC: Herodotus Historicus 1.116).">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.13.15]]
+<small><sub>LSJ Scripture Refs: [[Acts.13.15|Acts.13.15]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>disputation</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.191, compare 113 (\_plural\_), 1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.” 2p.240S.(\_plural\_), NT.Acts.15.7 (variant), etc. ">NT+1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.15.7]]
+<small><sub>LSJ Scripture Refs: [[Acts.15.7|Acts.15.7]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>fodder, provender,</b> especially for horses and
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.b</b> <b>green crop,</b> [<span class='asgreek'>γῆ</span>] <span class='asgreek'>ἐσπαρμένη</span> <span class='asgreek'>χόρτῳ</span> [<a href="javascript:void(0)" title=" “PTeb.” 27.72 (2nd c.BC), +others ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> poetical, <b>food</b> generally, <span class='asgreek'>δούλιος</span> <span class='asgreek'>χ</span>. [<a href="javascript:void(0)" title=" 6th c.BC: Hipponax Iambographus 35.6, compare 5th c.BC: Euripides Tragicus “Cyclops” 507 (Lyric poetry), 4th c.BC: Crates Thebanus Poeta Philosophus 10">Refs 6th c.BC+</a>]; compare <span class='asgreek'>χορτάζω</span>. (Cf. Latin <i>hortus,</i> Welsh <b>garth</b> 'fold, enclosure', Irish <b>gort</b> 'crop', 'field'.)
 
-<small><sub>LSJ Scripture Refs: [[1Cor.3.12]] ☩ [[Matt.13.26]] ☩ [[1Pet.1.24]] ☩ [[Jas.1.10]]
+<small><sub>LSJ Scripture Refs: [[1Cor.3.12|1Cor.3.12]] ☩ [[Matt.13.26|Matt.13.26]] ☩ [[1Pet.1.24|1Pet.1.24]] ☩ [[Jas.1.10|Jas.1.10]]
 </sub></small>

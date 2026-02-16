@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, of a king, <span clas
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> of the <b>eyes,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Vettius Valens Astrologus 110.22. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>opening for light, door</b> or <b>window,</b> [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Phil.2.15]] ☩ [[Rev.21.11]]
+<small><sub>LSJ Scripture Refs: [[Phil.2.15|Phil.2.15]] ☩ [[Rev.21.11|Rev.21.11]]
 </sub></small>

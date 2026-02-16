@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, of the foetus, [<a href="javascript
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>fold</b> or <b>cling round</b>, <span class='asgreek'>χιτὼν</span>.. <span class='asgreek'>ἀμφὶ</span> <span class='asgreek'>μηρὸν</span> <span class='asgreek'>πτύσσεται</span> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Fragmenta” 872.3 (Lyric poetry). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>middle</i>, <b>fold round oneself, wrap round one</b>, <span class='asgreek'>τι</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Nubes” 267. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.4.20]]
+<small><sub>LSJ Scripture Refs: [[Luke.4.20|Luke.4.20]]
 </sub></small>

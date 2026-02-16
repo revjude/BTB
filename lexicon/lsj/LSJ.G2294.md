@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>that which gives courage</b>, <span class='asgreek'>ὀλολυγμόν</span>.., <span class='asgreek'>==θάρσος==</span> <span class='asgreek'>φίλοις</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Septem contra Thebas” 270, compare 184: \_plural\_, θάρση">Refs 4th c.BC+</a>] <b>grounds of confidence</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Iphigenia Taurica” 1281 (Lyric poetry). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> rarely in bad sense, ={<span class='asgreek'>θράσος</span>}, <b>audacity</b>, <span class='asgreek'>==θάρσος==</span> <span class='asgreek'>ἄητον</span> <span class='asgreek'>ἔχουσα</span> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 21.395 ">Refs 8th c.BC+</a>]; <span class='asgreek'>μυίης</span> <span class='asgreek'>==θάρσος==</span> <span class='asgreek'>ἐνὶ</span> <span class='asgreek'>στήθεσσιν</span> <span class='asgreek'>ἐνῆκεν</span> the <b>reckless persistence</b> of a fly, [<a href="javascript:void(0)" title=" 17.570 ">Refs</a>].—On the different of <span class='asgreek'>==θάρσος==</span> and <span class='asgreek'>θράσος</span>, see at {<span class='asgreek'>θράσος</span>}.
 
-<small><sub>LSJ Scripture Refs: [[Acts.28.15]]
+<small><sub>LSJ Scripture Refs: [[Acts.28.15|Acts.28.15]]
 </sub></small>

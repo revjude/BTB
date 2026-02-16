@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>strict observance of religious duties</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 909e (\_plural\_), etc.">Refs 5th c.BC+</a>]; in <i>plural</i>, <b>purifications, ceremonies</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Isocrates Orator 11.21, 1st c.AD: Josephus Historicus prooem.\_ 10, “BGU” 1198.12, etc.">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Tim.4.12]]
+<small><sub>LSJ Scripture Refs: [[1Tim.4.12|1Tim.4.12]]
 </sub></small>

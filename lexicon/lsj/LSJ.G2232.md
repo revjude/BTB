@@ -14,5 +14,5 @@ $\quad$ $\quad$<b>\_\_III</b> in Prosody, ={<span class='asgreek'>πυρρίχ�
 $\quad$ $\quad$<b>\_\_IV</b> <span class='asgreek'>ἡγεμόνες</span>, <i>Doric dialect</i> <span class='asgreek'>ἁγ</span>-, <span class='asgreek'>αἱ</span>, in Architecture, <b>coping-tiles</b> of the roof, [<a href="javascript:void(0)" title=" “IG” 22.463.70, 1627.303, 4.1484.100 (Epid.). ">Refs</a>]
 $\quad$ $\quad$<b>\_\_V</b> a kind of fish, ={<span class='asgreek'>ἡγητήρ</span>} 2, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.980f. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.27.2]] ☩ [[Acts.23.24]]
+<small><sub>LSJ Scripture Refs: [[Matt.27.2|Matt.27.2]] ☩ [[Acts.23.24|Acts.23.24]]
 </sub></small>

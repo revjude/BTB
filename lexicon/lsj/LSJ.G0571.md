@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.1</b> <i>passive</i>, <b>beyond belief,</b> <s
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <i>active</i>, <b>distrustfully, suspiciously,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 3.83; ἀ. τινὰ διαθεῖναι 4th c.BC: Demosthenes Orator 20.22. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_III.2.b</b> <b>treacherously,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.516.">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.6.6]]
+<small><sub>LSJ Scripture Refs: [[1Cor.6.6|1Cor.6.6]]
 </sub></small>

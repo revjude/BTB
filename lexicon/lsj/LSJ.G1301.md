@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>maintain,</b> <span class='asgreek'>τὴ
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> with predicates, <span class='asgreek'>βοῦς</span> <span class='asgreek'>ἐννέα</span> <span class='asgreek'>ἔτη</span> <span class='asgreek'>δ</span>. <span class='asgreek'>ἀνοχεύτους</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 595b18; ἀβλαβές δ. 2nd c.BC: Polybius Historicus 7.8.7; ἀφλυκταίνωτα δ. τὰ μέρη 1st c.AD: Dioscorides (Dioscurides) Medicus 5.156; δ. τὸν πόλεμον 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Dio” 33. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <span class='asgreek'>δ</span>. <span class='asgreek'>ἑαυτὸν</span> <span class='asgreek'>ἔκ</span> <span class='asgreek'>τινος</span> <b>keep</b> oneself from.., [<a href="javascript:void(0)" title=" NT.Acts.15.29. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.15.29]]
+<small><sub>LSJ Scripture Refs: [[Acts.15.29|Acts.15.29]]
 </sub></small>

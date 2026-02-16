@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_I.4</b> Grammars, <b>usage,</b> of words, <span cl
 $\quad$ $\quad$<b>\_\_II</b> (<span class='asgreek'>χράω</span> (B) A), <b>oracular response,</b> <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>κείνου</span> <span class='asgreek'>χρήσιος</span> at his <b>bidding,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “O.” 13.76. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> (<span class='asgreek'>χράω</span> (B) B), <b>lending, loan,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1131a4, 2nd c.BC: Polybius Historicus 31.23.4, 1st c.AD(?): Pseudo-Phocylidea 106. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.1.26]]
+<small><sub>LSJ Scripture Refs: [[Rom.1.26|Rom.1.26]]
 </sub></small>

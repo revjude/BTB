@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> generally, <b>lead a disorderly life,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Lysias Orator 14.18, 5th-6th c.BC: Xenophon Historicus “Oeconomicus” 7.31: with \_genitive\_, τῆς πατρίου ἀγωγῆς">Refs 5th c.BC+</a>] <b>to desert</b> it, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.235b. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>raise a riot</b> or <b>rebellion</b>, [<a href="javascript:void(0)" title=" “OGI” 200.6 (4th c.AD).">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Thess.3.7]]
+<small><sub>LSJ Scripture Refs: [[2Thess.3.7|2Thess.3.7]]
 </sub></small>

@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>fulfil,</b> <span class='asgreek'>ἡ</sp
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>pay off,</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>χρέος</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 958b. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>ἐ</span>. <span class='asgreek'>λιμένα</span> <span class='asgreek'>πλάτῃ</span> <b>make one's way over,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Orestes” 54. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.13.33]]
+<small><sub>LSJ Scripture Refs: [[Acts.13.33|Acts.13.33]]
 </sub></small>

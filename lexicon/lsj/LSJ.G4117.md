@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>plaited work, wicker-work,</b> [<a href="
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>π</span>. <span class='asgreek'>δικτυοειδές</span> <b>the rete mirabile Galeni,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Herophilus Medicus cited in 2nd c.AD: Galenus Medicus 5.155, 2nd c.AD: Galenus Medicus “de Usu Partium” 9.4, +others ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>complex, combination of words,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Sophista” 262d ">Refs 5th c.BC+</a>]: generally, <b>complex,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.372, 651, 3rd c.AD: Plotinus Philosophus 3.3.4. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Tim.2.9]]
+<small><sub>LSJ Scripture Refs: [[1Tim.2.9|1Tim.2.9]]
 </sub></small>

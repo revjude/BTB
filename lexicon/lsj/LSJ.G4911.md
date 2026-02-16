@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <i>passive</i> <span class='asgreek'>==συνεφ�
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>rise together</b>, <span class='asgreek'>κατά</span> <span class='asgreek'>τινων</span> <b>against</b> them, [<a href="javascript:void(0)" title=" NT.Acts.16.22. ">NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>occur together</b>, <span class='asgreek'>τινι</span> <b>with.. </b>, [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus “Ther.Praef.” ">Refs 1st c.AD+</a>], variant for{<span class='asgreek'>συνυφ</span>-} in [<a href="javascript:void(0)" title=" 3rd c.AD: Porphyrius Tyrius Philosophus “Sententiae ad intelligibilia ducentes” 27. ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.16.22]]
+<small><sub>LSJ Scripture Refs: [[Acts.16.22|Acts.16.22]]
 </sub></small>

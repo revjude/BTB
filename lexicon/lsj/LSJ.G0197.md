@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.b</b> <b>pure-bred, genuine</b>, <spa
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.c</b> Astron., <b>true</b>, opposed to <span class='asgreek'>φαινόμενος</span>, [<a href="javascript:void(0)" title=" 5th c.AD: Proclus Philosophus “Hypotyposis astronomicarum positionum” 4.31. ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>parsimonious, stingy</b>, <span class='asgreek'>ἀ</span>. <span class='asgreek'>τοὺς</span> <span class='asgreek'>τρόπους</span>[<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus 235">Refs 4th c.BC+</a>]. <i>adverb</i> -<span class='asgreek'>βῶς</span>, <span class='asgreek'>διαιτᾶσθαι</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Andocides Orator 4.32.">Refs 5th c.BC+</a>] —Rare except in \_Attic dialect\_, mostly Prose. (The sense points to <span class='asgreek'>ἄκρος</span> as the first part of the word, but -<span class='asgreek'>ῑβης</span> remains uncertain)
 
-<small><sub>LSJ Scripture Refs: [[Acts.18.26]]
+<small><sub>LSJ Scripture Refs: [[Acts.18.26|Acts.18.26]]
 </sub></small>

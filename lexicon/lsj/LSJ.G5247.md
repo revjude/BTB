@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> alone, <b>supremacy, authority, dignity,<
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> of language, <b>periphrasis. prolixity,</b> opposed to <span class='asgreek'>ἔλλειψις</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Politicus” 283c. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> as a title, <b>Excellency,</b> [<a href="javascript:void(0)" title=" 6th c.AD: Justinianus Imperator “Novellae” 25.5; ἡ ὑμετέρα Ὑ. “POxy.” 130.20 (6th c.AD). ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Tim.2.2]]
+<small><sub>LSJ Scripture Refs: [[1Tim.2.2|1Tim.2.2]]
 </sub></small>

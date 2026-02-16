@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_1</b> from fear, <span class='asgreek'>πάντα
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> from cold, <span class='asgreek'>τ</span>. <span class='asgreek'>καὶ</span> <span class='asgreek'>ῥῖγος</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Timaeus” 62b, compare 85e; γίνεται ὁ τ. διὰ κατάψυξιν 4th c.BC: Aristoteles Philosophus “Problemata” 871a33: generally, ἰνῶν ἀτονία καὶ τ. 1st c.BC: Philodemus Philosophus “Academicorum Index” p.76M.; περὶ τ. 2nd c.AD: Galenus Medicus 7.584. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> of earthquakes, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Meteorologica” 366b18, “Mu.” 396a10; σεισμοὶ ἐν γῇ καὶ τρόμοι 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.373d. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.16.8]]
+<small><sub>LSJ Scripture Refs: [[Mark.16.8|Mark.16.8]]
 </sub></small>

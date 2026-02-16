@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_5</b> <i>plural</i>, <b>canvassing,</b> = Latin <i
 $\quad$ $\quad$ $\quad$<b>\_\_6</b> ={<span class='asgreek'>ἐπάγγελμα</span>} 2, <b>subject</b> of a treatise, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus “Libr.Propr.Prooem.” ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_7</b> the <b>curative property claimed</b> for prescriptions or drugs, <span class='asgreek'>ταῖς</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>φαρμάκων</span> <span class='asgreek'>ἐ</span>. their <b>advertised properties,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Herodotus Medicus cited in 4th c.AD: Oribasius Medicus 10.5.1, compare 2nd c.AD: Galenus Medicus 13.504, +others">Refs 1st c.AD+</a>]; <span class='asgreek'>ἐ</span>. <span class='asgreek'>ἐπιτηδεύματος</span> <b>public exercise</b> of a profession, Men.Prot.p.1D.
 
-<small><sub>LSJ Scripture Refs: [[1John.1.5]]
+<small><sub>LSJ Scripture Refs: [[1John.1.5|1John.1.5]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>not offensive,</b> <span class='asgreek'>ὀσμαί</span>[<a href="javascript:void(0)" title=" 2nd c.AD: Aretaeus Medicus “ὀξέων νούσων θεραπευτικόν” 2.3 ">Refs 2nd c.AD+</a>]; of persons, <b>not burdensome,</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>ἑαυτὸν</span> <span class='asgreek'>τηρεῖν</span>, <span class='asgreek'>παρέχειν</span>, [<a href="javascript:void(0)" title=" NT.2Cor.11.9, “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 5361.15 (from Berenice)">NT</a>]. <i>adverb</i> <b>-<span class='asgreek'>ρῶς</span></b> <b>without giving offence,</b> [<a href="javascript:void(0)" title=" 6th c.AD: Simplicius Philosophus “in Epictetum commentaria” p.85D.">Refs 6th c.AD+</a>]; <b>without taking offence,</b> [<a href="javascript:void(0)" title="[prev. work] p.88D.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.11.9]]
+<small><sub>LSJ Scripture Refs: [[2Cor.11.9|2Cor.11.9]]
 </sub></small>

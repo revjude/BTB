@@ -39,5 +39,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_C.3</b> <b>hold, contain</b>, [<a href="javascript
 $\quad$ $\quad$<b>\_\_C.II</b> <i>aorist</i> <i>middle</i>, ={<span class='asgreek'>==κατέχω==</span>} [<a href="javascript:void(0)" title=" 5th c.BC: Bacchylides Lyricus 2, 8th c.BC: Odyssea Homerus Epicus “Odyssey” 3.284. ">Refs 8th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_C.II.2</b> in <i>passive</i> sense, <span class='asgreek'>τεαῖς</span> <span class='asgreek'>ῥιπαῖσι</span> <span class='asgreek'>κατασχόμενος</span> <b>subdued</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “P.” 1.10 ">Refs 5th c.BC+</a>]; <span class='asgreek'>καρδίαν</span> <span class='asgreek'>κατέσχετο</span> <span class='asgreek'>ἔρωτι</span> <b>was seized with, possessed by</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hippolytus” 27 ">Refs 5th c.BC+</a>]; see above[<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus 11.10. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.6.10]]
+<small><sub>LSJ Scripture Refs: [[2Cor.6.10|2Cor.6.10]]
 </sub></small>

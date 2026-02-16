@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>quaternion</b> of parchment, [<a href="javascript:void(0)" title=" “POxy.” 2156.10 (4th-5th c.AD), 12th c.AD: Tzetzes, Joannes Grammaticus “Historiarum variarum chiliades” 9.290 ">Refs 4th c.AD+</a>]; compare <span class='asgreek'>τετράδειον</span>.
 
-<small><sub>LSJ Scripture Refs: [[Acts.12.4]]
+<small><sub>LSJ Scripture Refs: [[Acts.12.4|Acts.12.4]]
 </sub></small>

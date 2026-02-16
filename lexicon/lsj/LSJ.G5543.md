@@ -18,5 +18,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> of a man, <b>strong, able</b> in body for
 $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> of the <b>dead,</b> whence <span class='asgreek'>χρηστὸν</span> <span class='asgreek'>ποιεῖν</span> ={<span class='asgreek'>ἀποκτιννύναι</span>}, in a treaty between the Spartans and Tegea, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Fragmenta” 592. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>adverb</i> <b>-<span class='asgreek'>τῶς</span></b> <b>well, properly,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 4.117, 5th c.BC: Hippocrates Medicus “περὶ ἄρθρων ἐμβολῆς” 32; χ. ἔχειν 5th-6th c.BC: Aristophanes Comicus “Ecclesiazusae” 219; σκευάσαι χ. τοὖψον 2nd c.AD: Alexander Rhetor 149.6.: ironically, χ. τὴν πατρίδα ἐπετρόπευσας 5th c.BC: Herodotus Historicus 3.36. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.6.35]] ☩ [[Eph.4.32]]
+<small><sub>LSJ Scripture Refs: [[Luke.6.35|Luke.6.35]] ☩ [[Eph.4.32|Eph.4.32]]
 </sub></small>

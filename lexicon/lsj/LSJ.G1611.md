@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>entrancement, astonishment,</b> [<a hr
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>trance,</b> [<a href="javascript:void(0)" title=" NT.Acts.10.10, 22.17 ">NT</a>]; <b>ecstasy,</b> [<a href="javascript:void(0)" title=" 3rd c.AD: Plotinus Philosophus 6.9.11; ἔ. καὶ μανία 5th c.AD: Hermias Alexandrinus Philosophus “in Platonis Phaedrum scholia” p.103A. ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.4.b</b> <b>drunken excitement,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Cornutus Philosophus “de Natura Deorum” 30. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.5.26]] ☩ [[Mark.5.42]] ☩ [[Acts.10.10]]
+<small><sub>LSJ Scripture Refs: [[Luke.5.26|Luke.5.26]] ☩ [[Mark.5.42|Mark.5.42]] ☩ [[Acts.10.10|Acts.10.10]]
 </sub></small>

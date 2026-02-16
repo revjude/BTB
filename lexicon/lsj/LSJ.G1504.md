@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>semblance, phantom</b>, [<a href="javascript:voi
 $\quad$ $\quad$<b>\_\_III</b> <b>similitude, comparison</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Nubes” 559, “Ra.” 906, 5th-6th c.BC: Plato Philosophus “Phaedo” 87b, “Men.” 80c, 4th-3rd c.BC: Menander Comicus 536.1; δι᾽ εἰκόνος λέγεσθαι 5th-6th c.BC: Plato Philosophus “Respublica” 487e, compare 4th c.BC: Aristoteles Philosophus “Rhetorica” 1407a11, 4th c.AD: Libanius Sophista “Epistulae” 8.1. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>pattern, archetype</b>, <span class='asgreek'>ποτὶ</span> <span class='asgreek'>τὰν</span> <span class='asgreek'>εἰκόνα</span> [<span class='asgreek'>κόσμος</span>] <span class='asgreek'>ἀπειργασμένος</span> [<a href="javascript:void(0)" title=" 5th-4th c.BC: Timaeus Locrus Philosophus 99d. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.4.4]]
+<small><sub>LSJ Scripture Refs: [[2Cor.4.4|2Cor.4.4]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>integrity, sincerity,</b> [<a href="javascript:void(0)" title="NT.Eph.6.24.">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.2.7]] ☩ [[Eph.6.24]]
+<small><sub>LSJ Scripture Refs: [[Rom.2.7|Rom.2.7]] ☩ [[Eph.6.24|Eph.6.24]]
 </sub></small>

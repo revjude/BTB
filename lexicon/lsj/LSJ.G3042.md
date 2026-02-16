@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>a hungry wretch</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus “Κόλαξ” 78, 3rd c.BC: Posidippus Comicus 26.12, 12th c.AD: Eustathius Episcopus Thessalonicensis 1828.6. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.15.14]] ☩ [[Acts.11.28]]
+<small><sub>LSJ Scripture Refs: [[Luke.15.14|Luke.15.14]] ☩ [[Acts.11.28|Acts.11.28]]
 </sub></small>

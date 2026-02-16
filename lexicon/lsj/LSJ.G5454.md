@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>schoolhouse,</b> [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.8.20]] ☩ [[Luke.9.58]]
+<small><sub>LSJ Scripture Refs: [[Matt.8.20|Matt.8.20]] ☩ [[Luke.9.58|Luke.9.58]]
 </sub></small>

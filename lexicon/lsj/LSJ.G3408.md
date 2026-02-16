@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> physician's <b>fee</b>, <span class='asgreek
 $\quad$ $\quad$<b>\_\_II</b> generally, <b>recompense, reward</b>, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 10.304, etc.; ἀρετῆς μ. 5th-6th c.BC: Plato Philosophus “Respublica” 363d, cf. NT.Matt.5.12, etc. ">NT+8th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> in bad sense, <b>requital</b>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 1261, 5th c.BC: Sophocles Tragicus “Antigone” 221; μ. ἀνδρὶ δυσσεβεῖ 5th c.BC: Euripides Tragicus “Hippolytus” 1050 ">Refs 5th c.BC+</a>]. (Cf. Avest. <b>mīˇžda</b>-, Gothic <i>mizdō</i>, OSlavonic <i>m[icaron]zda</i> 'pay', O[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus ">Refs 5th c.BC+</a>] <b>meord, méd</b> 'meed'.)
 
-<small><sub>LSJ Scripture Refs: [[Matt.5.12]]
+<small><sub>LSJ Scripture Refs: [[Matt.5.12|Matt.5.12]]
 </sub></small>

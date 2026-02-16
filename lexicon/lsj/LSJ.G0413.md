@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>μᾶζα</span>, in Alchemy, of the asem alloy, [<a href="javascript:void(0)" title=" “PHolm.” 2.17, “PLeid.X.” 7 and 39.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.12.33]]
+<small><sub>LSJ Scripture Refs: [[Luke.12.33|Luke.12.33]]
 </sub></small>

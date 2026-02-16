@@ -17,5 +17,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.3.c</b> <b>inquiries concerning the div
 $\quad$ $\quad$<b>\_\_III</b> <i>adverb</i> <span class='asgreek'>θείως</span> <b>by divine providence</b>, <span class='asgreek'>θ</span>. <span class='asgreek'>πως</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 4.2.1, etc.">Refs 5th c.BC+</a>]; <span class='asgreek'>θειοτέρως</span> <b>by special providence</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.122; μᾶλλόν τι καὶ -ότερον [prev. work] 174. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>divinely, excellently</b>, <span class='asgreek'>εὖ</span> <span class='asgreek'>γε</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>θ</span>. [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Theaetetus” 154d; θείως εἰρῆσθαι 4th c.BC: Aristoteles Philosophus “Metaphysica” 1074b9. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Pet.1.4]]
+<small><sub>LSJ Scripture Refs: [[2Pet.1.4|2Pet.1.4]]
 </sub></small>

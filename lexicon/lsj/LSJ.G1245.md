@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>prune,</b> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 2.7.2 (\_passive\_)">Refs 4th c.BC+</a>]; <span class='asgreek'>δένδρα</span> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 2.207. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.3.17]]
+<small><sub>LSJ Scripture Refs: [[Luke.3.17|Luke.3.17]]
 </sub></small>

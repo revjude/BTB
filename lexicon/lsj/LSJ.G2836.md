@@ -15,5 +15,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>womb</b>, [<a href="javascript:void(0)
 $\quad$ $\quad$<b>\_\_III</b> any <b>hollow</b> or <b>cavity</b>, in the earth, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Meteorologica” 349b4, 350b23, +others">Refs 4th c.BC+</a>]; in the clouds,[<a href="javascript:void(0)" title="[prev. work] 369b2, +others ">Refs</a>]
 $\quad$ $\quad$<b>\_\_IV</b> perhaps finger-<b>tip</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Aretaeus Medicus “περὶ αἰτιῶν καὶ σημείων χρονίων παθῶν” 1.8 (\_plural\_). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.16.18]] ☩ [[Phil.3.19]] ☩ [[John.3.4]]
+<small><sub>LSJ Scripture Refs: [[Rom.16.18|Rom.16.18]] ☩ [[Phil.3.19|Phil.3.19]] ☩ [[John.3.4|John.3.4]]
 </sub></small>

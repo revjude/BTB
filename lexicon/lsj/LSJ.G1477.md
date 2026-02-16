@@ -5,5 +5,5 @@
  <b>stay, support</b>, <span class='asgreek'>τῆς</span> <span class='asgreek'>ἀληθείας</span> [<a href="javascript:void(0)" title=" NT.1Tim.3.15. ">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[1Tim.3.15]]
+<small><sub>LSJ Scripture Refs: [[1Tim.3.15|1Tim.3.15]]
 </sub></small>

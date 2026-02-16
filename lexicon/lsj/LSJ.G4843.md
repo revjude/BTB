@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>embrace, include</b>, <span class='asgree
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> in literal sense, <b>embrace,</b> [<a href="javascript:void(0)" title=" NT.Acts.20.10. ">NT</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>middle</i>, <b>take part in together</b>, <span class='asgreek'>τινος</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Dom.” 4 codices ">Refs 2nd c.AD+</a>] <b><span class='asgreek'>==συμπεριλαμβάνω==</span>-<span class='asgreek'>ληπτέον</span></b>, <b>one must include</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 6.6.1. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.20.10]]
+<small><sub>LSJ Scripture Refs: [[Acts.20.10|Acts.20.10]]
 </sub></small>

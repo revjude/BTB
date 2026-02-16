@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <i>metaphorically</i> in <i>passive</i>, 
 $\quad$ $\quad$<b>\_\_III</b> in a pun on <i>significations</i> [<a href="javascript:void(0)" title=" 1, 11.1, and 11.3, ἰδὼν Ὀλυμπιονίκην εἰς ἑταίραν πυκνότερον ἀτενίζοντα, ἴδε ἔφη, κριὸν Ἀρειμάνιον ὡς ὑπὸ τοῦ τυχόντος κορασίου -ίζεται">Refs</a>] see how the ram's <b>neck is being twisted,</b> [<a href="javascript:void(0)" title=" 3rd c.AD(?): Diogenes Laertius 6.61, compare 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.521b; τοὺς πολυπράγμονας ἴδοις ἂν ὑπὸ παντὸς ὁμοίως θεάματος -ιζομένους καὶ περιαγομένους [prev. passage] ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <i>passive</i>, <b>to be laid open,</b> [<a href="javascript:void(0)" title="NT.Heb.4.13">NT</a>]; <span class='asgreek'>τετραχηλισμένα</span>· <span class='asgreek'>πεφανερωμένα</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.4.13]]
+<small><sub>LSJ Scripture Refs: [[Heb.4.13|Heb.4.13]]
 </sub></small>

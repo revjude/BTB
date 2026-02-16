@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>to be a deacon,</b> [<a href="javascript:void(0)" title=" NT.1Tim.3.10, 13. ">NT</a>]
 $\quad$ $\quad$<b>\_\_II</b> c.<i>accusative</i> <i>of things</i>, <b>render a service,</b> <span class='asgreek'>τινὶ</span> <span class='asgreek'>ὅ</span> <span class='asgreek'>τι</span> <span class='asgreek'>ἂν</span> <span class='asgreek'>δεηθῇ</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 4.154, compare 5th-6th c.BC: Plato Philosophus “Politicus” 290a; δ. γάμους 3rd c.BC: Posidippus Comicus 26.19 ">Refs 5th c.BC+</a>]:—<i>passive</i>, <b>to be supplied,</b> <span class='asgreek'>τῇ</span> <span class='asgreek'>πόλει</span> <span class='asgreek'>ἐδιακονήθησαν</span> [<span class='asgreek'>αἱ</span> <span class='asgreek'>πράξεις</span>] [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 50.2; τῶν καλῶς δεδιακονημένων [prev. author] 51.7: with \_dative\_ \_instrumental\_, ἐκπώμασι διακονείσθωσαν “OGI” 383.159 (1st c.BC). ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.4.11]] ☩ [[Matt.20.28]] ☩ [[1Tim.3.10]]
+<small><sub>LSJ Scripture Refs: [[Matt.4.11|Matt.4.11]] ☩ [[Matt.20.28|Matt.20.28]] ☩ [[1Tim.3.10|1Tim.3.10]]
 </sub></small>

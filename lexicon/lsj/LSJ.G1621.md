@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>shake off</b>, <span class='asgreek'>τ�
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>search thoroughly</b>, <span class='asgreek'>τοὺς</span> <span class='asgreek'>βαδίζοντας</span> [<a href="javascript:void(0)" title=" 4th c.BC: Diogenes Cynicus Philosophus “Epistulae - Epistolographi” 37.5. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>make a disturbance</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἐπιδημίαι” 6.2.19 ">Refs 5th c.BC+</a>]; <b>make a thorough search</b>, [<a href="javascript:void(0)" title=" “UPZ” 5.12 (2nd c.BC)">Refs 2nd c.BC+</a>]; <b>kick out</b>, of animals, <span class='asgreek'>εἰς</span> <span class='asgreek'>τοὺς</span> <span class='asgreek'>πλησίον</span> <span class='asgreek'>ἵππους</span> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “Tactica - Griechische Kriegsschriftsteller” 19.2. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.10.14]] ☩ [[Acts.13.51]]
+<small><sub>LSJ Scripture Refs: [[Matt.10.14|Matt.10.14]] ☩ [[Acts.13.51|Acts.13.51]]
 </sub></small>

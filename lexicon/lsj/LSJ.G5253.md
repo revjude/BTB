@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>attic, garret,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Equites” 1001, “Pl.” 811, 4th-3rd c.BC: Menander Comicus “Σαμία” 17, “IG” 22.1638.27; ἄνωθ᾽ ἐξ ὑ. 5th-6th c.BC: Aristophanes Comicus “Ecclesiazusae” 698 (\_anapaest meter\_) ">Refs 5th c.BC+</a>]; of <b>a spare room,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Antipho Orator 1.14. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.1.13]]
+<small><sub>LSJ Scripture Refs: [[Acts.1.13|Acts.1.13]]
 </sub></small>

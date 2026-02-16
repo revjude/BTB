@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> with <i>genitive</i> <i>of things</i> only, 
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> with <i>infinitive</i> with <span class='asgreek'>μή</span>, <span class='asgreek'>μ</span>. <span class='asgreek'>μὴ</span> <span class='asgreek'>πολλάκις</span> <span class='asgreek'>βουλεύεσθαι</span> <b>object</b> that one ought not.., [<a href="javascript:void(0)" title=" [prev. author] 3.42. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_6</b> <i>absolutely</i>, <b>find fault, complain</b>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Supplices” 137 (Lyric poetry); ὅτι 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1162b18. in Law, οἱ μεμφόμενοι">Refs 4th c.BC+</a>] the <b>plaintiffs</b>, [<a href="javascript:void(0)" title=" “GDI” 4998 (from Gortyn). ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.8.8]]
+<small><sub>LSJ Scripture Refs: [[Heb.8.8|Heb.8.8]]
 </sub></small>

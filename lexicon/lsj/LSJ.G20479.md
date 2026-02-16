@@ -4,3 +4,6 @@
 
  <b>of bright purple colour</b>, variant in [<a href="javascript:void(0)" title=" LXX.Ezek.23.12. ">LXX</a>]
 
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.23.12|LXX.Ezek.23.12]]
+</sub></small>

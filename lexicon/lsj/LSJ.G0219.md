@@ -5,5 +5,5 @@
  <b>cock-crow</b>, i.e. third watch of night, [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 7 “fragment” 35, NT.Mark.13.35.">NT+1st c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Mark.13.35]]
+<small><sub>LSJ Scripture Refs: [[Mark.13.35|Mark.13.35]]
 </sub></small>

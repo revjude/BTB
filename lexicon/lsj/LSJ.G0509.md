@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> in narrative or in quiry, <b>from the beginning, fr
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <span class='asgreek'>τὰ</span> <span class='asgreek'>ἄ</span>. <b>higher, more universal principles,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Phaedo” 101d, compare 4th c.BC: Aristoteles Philosophus “Anthologia Graeca” 0.97a33. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>over again, anew, afresh,</b> <span class='asgreek'>φιλίαν</span> <span class='asgreek'>ἄ</span>. <span class='asgreek'>ποιεῖται</span>[<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 1.18.3, 2nd c.AD: Artemidorus Daldianus Onirocriticus 1.14, cf. NT.John.3.3; πάλιν ἄ. NT.Gal.4.9, compare 1st-2nd c.AD: Harpocratio Grammaticus see {ἀνάδικοι κρίσει; κτίστης ἄνωθε γενόμενος} “IG” 7.2712.58.">NT+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.3.3]] ☩ [[Gal.4.9]]
+<small><sub>LSJ Scripture Refs: [[John.3.3|John.3.3]] ☩ [[Gal.4.9|Gal.4.9]]
 </sub></small>

@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <span class='asgreek'
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>lethargic sleep,</b> Archig.and [<a href="javascript:void(0)" title=" 2nd-1st c.BC: Posidonius Historicus cited in 6th c.AD: Aëtius Medicus 6.3. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>baptism,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 18.5.2. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.7.4]] ☩ [[Heb.9.10]]
+<small><sub>LSJ Scripture Refs: [[Mark.7.4|Mark.7.4]] ☩ [[Heb.9.10|Heb.9.10]]
 </sub></small>

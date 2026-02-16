@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>prevail in</b> or <b>among,</b> <span class='asgreek'>ἐν</span> <span class='asgreek'>ταῖς</span> <span class='asgreek'>πόλεσι</span> <span class='asgreek'>ἐνισχύει</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>νόμιμα</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1180b4: \_absolutely\_, [prev. author] “PA” 653a31 +others; τοῦτ᾽ ἐνισχύειν ἑκάστῳ 4th-3rd c.BC: Theophrastus Philosophus “de Sensu” 63, compare 67; παρά τισιν ἐ. ἐν παροιμίας μέρει 1st c.BC: Diodorus Siculus Historicus 20.58 ">Refs 4th c.BC+</a>]; <span class='asgreek'>ἐνίσχυσεν</span> <span class='asgreek'>ὡς</span>.. <b>the opinion prevailed</b> that.., [<a href="javascript:void(0)" title=" [prev. author] 5.57. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.22.43]]
+<small><sub>LSJ Scripture Refs: [[Luke.22.43|Luke.22.43]]
 </sub></small>

@@ -14,5 +14,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>carry off, take away,</b> [<a href="javascript:
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> in <i>passive</i>, <b>to be sublimated,</b>[<a href="javascript:void(0)" title=" Zos.Alch. p.198 5th c.BC: Bacchylides Lyricus ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> in Trag., <b>touch,</b> <span class='asgreek'>χέρα</span> <span class='asgreek'>ἄνακτος</span>.. <span class='asgreek'>τῇδε</span> <span class='asgreek'>β</span>. <span class='asgreek'>χερί</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 35 ">Refs 4th c.BC+</a>]; <b>embrace,</b> <span class='asgreek'>σῶμα</span> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Oedipus Coloneus” 1105.">Refs 5th c.BC+</a>]—Not in <i>Attic dialect</i> Prose: <i>passive</i> first in [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.20.15]] ☩ [[John.12.6]]
+<small><sub>LSJ Scripture Refs: [[John.20.15|John.20.15]] ☩ [[John.12.6|John.12.6]]
 </sub></small>

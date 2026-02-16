@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>metaphorically</i>, <span class='asgre
 $\quad$ $\quad$<b>\_\_III</b><b>remission</b> of debts, <span class='asgreek'>χρημάτων</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" 3rd-2nd c.BC: Phalaris Epistolographus “Epistulae - Epistolographi” 81.1 ">Refs 3rd c.BC+</a>]; of sins, [<a href="javascript:void(0)" title=" NT.Rom.3.25. ">NT</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>neglect</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Appianus Historicus “Βασιλική” 13. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.3.25]]
+<small><sub>LSJ Scripture Refs: [[Rom.3.25|Rom.3.25]]
 </sub></small>

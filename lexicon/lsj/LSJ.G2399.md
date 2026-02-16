@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> generally, <b>raw hand, ignoramus</b>, <
 $\quad$ $\quad$ $\quad$<b>\_\_III.4</b> '<b>average man</b>', opposed to a person of distinction, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.1104a. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <span class='asgreek'>ἰδιῶται</span>, <span class='asgreek'>οἱ</span>, <b>one's own countrymen</b>, opposed to <span class='asgreek'>ξένοι</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Ranae” 459. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.14.16]]
+<small><sub>LSJ Scripture Refs: [[1Cor.14.16|1Cor.14.16]]
 </sub></small>

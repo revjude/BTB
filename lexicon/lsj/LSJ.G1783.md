@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>ἐντεύξεις</
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>petition</b>, [<a href="javascript:void(0)" title=" “PSI” 4.383.6 (3rd c.BC), “PFlor.” 55.18 (1st c.AD), 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Tiberius Gracchus” 11, etc.">Refs 3rd c.BC+</a>]; <b>intercession</b> for a person, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 16.55, 2nd c.BC: Nicander Epicus 5th-6th c.AD: Damascius Philosophus “fragment” 130.7 1st c.AD: Josephus Historicus, NT.1Tim.2.1(\_plural\_). ">NT+2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>reading, study,</b> <span class='asgreek'>ἡ</span> <span class='asgreek'>ἔ</span>. <span class='asgreek'>τῆς</span> <span class='asgreek'>πραγματείας</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 1.1.4, etc. ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Tim.2.1]]
+<small><sub>LSJ Scripture Refs: [[1Tim.2.1|1Tim.2.1]]
 </sub></small>

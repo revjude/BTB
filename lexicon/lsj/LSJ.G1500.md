@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>in vain,</b> [<a href="javascript:void(0)" title=" PLips. 104.29 (1st c.BC), NT.1Cor.15.2, +others ">NT+1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>slightly, moderately</b>, <span class='asgreek'>ἀγγεῖα</span> <span class='asgreek'>εἰ</span>. <span class='asgreek'>πεπυρωμένα</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Agatharchides Geographus 61. (Prob. for ἐϝεκῇ 'at will', compare ἑκών.) ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.15.2]]
+<small><sub>LSJ Scripture Refs: [[1Cor.15.2|1Cor.15.2]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>δ</span>. <span class='asgreek'>τινί</span> <span class='asgreek'>τι</span> <b>talk over</b> a thing <b>with</b> another, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Cyclops” 175 ">Refs 5th c.BC+</a>]:—<i>passive</i>, <b>to be much talked of,</b> [<a href="javascript:void(0)" title="NT.Luke.1.65. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.6.11]] ☩ [[Luke.1.65]]
+<small><sub>LSJ Scripture Refs: [[Luke.6.11|Luke.6.11]] ☩ [[Luke.1.65|Luke.1.65]]
 </sub></small>

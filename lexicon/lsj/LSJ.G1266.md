@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>part, separate,</b> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus 883 ">Refs 4th c.BC+</a>]:—<i>middle</i>, <b>divide</b> or <b>part among themselves,</b> [<a href="javascript:void(0)" title="NT.Matt.27.35; πρὸς ἑαυτούς “PAmh.” 2.152.18 (5th-6th c.AD)">NT+5th c.AD+</a>]:—<i>passive</i>, <b>to be set at variance,</b> [<a href="javascript:void(0)" title="NT.Luke.12.52,53. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.27.35]] ☩ [[Luke.12.52]]
+<small><sub>LSJ Scripture Refs: [[Matt.27.35|Matt.27.35]] ☩ [[Luke.12.52|Luke.12.52]]
 </sub></small>

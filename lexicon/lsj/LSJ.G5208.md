@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.5</b> <i>plural</i>, <b>material resources,</b
 $\quad$ $\quad$<b>\_\_IV</b> <b>sediment,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Fragmenta” 879, cf. Scholia 5th-6th c.BC: Aristophanes Comicus “Plutus” 1086, 1088 (hence ὑλίζω ">Refs 5th c.BC+</a>] (<span class='asgreek'>ἀφ</span>-, <span class='asgreek'>δι</span>-), <span class='asgreek'>ὑλώδης</span> [<a href="javascript:void(0)" title=" 11)">Refs</a>]; <b>mud, slime</b>, [<a href="javascript:void(0)" title=" “UPZ” 70.9 (2nd c.BC)">Refs 2nd c.BC+</a>]; <span class='asgreek'>ὕλῃ</span>, <span class='asgreek'>ὕλει</span>, and <span class='asgreek'>ἰλυῖ</span> are conjecture for <span class='asgreek'>ὕδει</span> in [<a href="javascript:void(0)" title=" 6th c.BC: Theognis Elegiacus 961. ">Refs 6th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> <b>matter</b> excreted from the human body, [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus 1.22, 23, 25, +others; ἡ ὕ. τῶν ἐμπυημάτων 2nd c.AD: Galenus Medicus 18(2).256 ">Refs 2nd c.AD+</a>]; <b>phlegm, catarrh, PMed.</b> in [<a href="javascript:void(0)" title=" “Arch.Papyrus” 4.270 (3rd c.AD). ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jas.3.5]]
+<small><sub>LSJ Scripture Refs: [[Jas.3.5|Jas.3.5]]
 </sub></small>

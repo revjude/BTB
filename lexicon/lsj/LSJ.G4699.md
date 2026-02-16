@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>any spongy substance</b>, <span class='asgreek'>σικυώνης</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “Steril.” 221">Refs 5th c.BC+</a>]; <span class='asgreek'>οἱ</span> <span class='asgreek'>σ</span>. the <b>glands</b> in the throat, <b>tonsils</b>, from their <b>spongy</b> nature and liability to swell, [<a href="javascript:void(0)" title=" [prev. author] “Epid.” 4.7, 2nd c.AD: Galenus Medicus 19.140. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>νήριον</span>}, Ps.-[<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 4.81">Refs 1st c.AD+</a>]. (<b><span class='asgreek'>σφόγγος</span></b> is found in [<a href="javascript:void(0)" title=" “IG” 11 (2). 144 A 37 (Delos, 4th c.BC), “PSI” 6.558.7 (3rd c.BC), “POxy.” 1384.25 (V 2nd c.AD: Apollonius Dyscolus Grammaticus)">Refs 4th c.BC+</a>]; compare <span class='asgreek'>σπογγιά</span>, <span class='asgreek'>σπογγίον</span>.)
 
-<small><sub>LSJ Scripture Refs: [[Matt.27.48]]
+<small><sub>LSJ Scripture Refs: [[Matt.27.48|Matt.27.48]]
 </sub></small>

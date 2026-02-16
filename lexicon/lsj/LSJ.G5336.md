@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>==φάτνη==ωμα</span
 $\quad$ $\quad$<b>\_\_III</b> <b>socket of tooth,</b> [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 2.93. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> the <b>Manger,</b> name of the nebula (star-cluster) between the <span class='asgreek'>ὄνοι</span> in Cancer, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “de Signis Tempestatum” 23, +others, 4th-3rd c.BC: Aratus Epicus 892, 898, 3rd c.BC: Eratosthenes Epicus “Καταστερισμοί” 11, 2nd c.AD: Ptolemaeus Mathematicus “Tetrabiblos” 23. (Later Gr. πάθνη \_accusative\_ to 2nd c.AD: Moeris Grammaticus, but ==φάτνη==η">Refs 4th c.BC+</a>] in Attic and Delian Inscrr., [<a href="javascript:void(0)" title=" “IG” 22.1487.37, 11(2).[same place], “Inscription Déios” 504 A 6, B 9">Refs</a>]: <b>bhndh,</b> cf. Sanskrit <i>badhnāti</i> 'tie', Celt. <b>benn</b> 'wicker chariot'.)
 
-<small><sub>LSJ Scripture Refs: [[Luke.2.7]]
+<small><sub>LSJ Scripture Refs: [[Luke.2.7|Luke.2.7]]
 </sub></small>

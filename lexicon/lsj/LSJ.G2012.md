@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>governor, viceroy,</b> <span class='asgre
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>executor,</b> [<a href="javascript:void(0)" title=" PPetr. 3p.9, +others(3rd c.BC). ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> c.<i>genitive</i> <i>person</i>, <b>trustee, guardian,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 4.76, 5th c.BC: Thucydides Historicus 2.80, etc.; ἐ. τινι παίδων 4th c.BC: Hyperides Orator “Epitaphius” 42: \_absolutely\_, 5th-6th c.BC: Plato Philosophus “Leges” 924b, etc.; ὑπὸ ἐπιτρόπους εἶναι NT.Gal.4.2; καθιστάναι ἐ. “PRyl.” 153.18 (2nd c.AD)">NT+5th c.BC+</a>]: <i>metaphorically</i>, <b>guardian, protector,</b> <span class='asgreek'>θεὸς</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>ἐών</span> [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “O.” 1.106. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.8.3]] ☩ [[Gal.4.2]]
+<small><sub>LSJ Scripture Refs: [[Luke.8.3|Luke.8.3]] ☩ [[Gal.4.2|Gal.4.2]]
 </sub></small>

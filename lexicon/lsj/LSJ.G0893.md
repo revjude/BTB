@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> of things, <b>uncorrupt,</b> <b>pure from al
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <span class='asgreek'>==ἀψευδής==ής</span>, ={<span class='asgreek'>κώνειον</span>}, Ps.-[<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 4.78. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>adverb</i> -<span class='asgreek'>δέως</span>, <i>Attic dialect</i>-<span class='asgreek'>δῶς</span>, <b>really and truly,</b> <span class='asgreek'>οἱ</span> <span class='asgreek'>ἀ</span>. <span class='asgreek'>ἄριστοι</span>[<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 9.58, compare 1st c.AD: Philo Judaeus 1.19, +others, 4th c.AD: Iamblichus Philosophus “de Mysteriis” 2.2">Refs 5th c.BC+</a>]: <i>superlative</i> -<span class='asgreek'>έστατα</span>, <span class='asgreek'>ἐρεῖν</span>[<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.34.">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Titus.1.2]]
+<small><sub>LSJ Scripture Refs: [[Titus.1.2|Titus.1.2]]
 </sub></small>

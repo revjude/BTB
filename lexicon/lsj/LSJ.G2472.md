@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> generally, <b>equal in value</b>: hence, <b>equal</b>, <span class='asgreek'>ἁμάρτημα</span> <span class='asgreek'>ἀκούσιον</span> <span class='asgreek'>ἰ</span>. <span class='asgreek'>ἑκουσίῳ</span> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 2.248; τὸ ἰ. δυσέφικτον ἐν ταῖς ἀμοιβαῖς 2nd c.AD: Herodianus Grammaticus 2.3.6 ">Refs 1st c.AD+</a>]; <span class='asgreek'>ἰ</span>. <span class='asgreek'>μάχη</span> <b>evenly balanced</b>, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 10.1. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> as title of rank at the Ptolemaic court, <span class='asgreek'>τῶν</span> <span class='asgreek'>ἰσοτίμων</span> <span class='asgreek'>τοῖς</span> <span class='asgreek'>πρώτοις</span> <span class='asgreek'>φίλοις</span> [<a href="javascript:void(0)" title=" “PRyl.” 66 \_intransitive\_, 253 (2nd c.BC), “Arch.Papyrus” 6.372. ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Pet.1.1]]
+<small><sub>LSJ Scripture Refs: [[2Pet.1.1|2Pet.1.1]]
 </sub></small>

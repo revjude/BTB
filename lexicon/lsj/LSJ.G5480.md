@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>stamped money, coin,</b> [<a href="javasc
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, <b>mark, stamp, character,</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>μονάδος</span> <span class='asgreek'>σημαντικὸν</span> <span class='asgreek'>χ</span>. [<a href="javascript:void(0)" title=" “Theologumena Arithmeticae” 6. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>endorsement,</b> [<a href="javascript:void(0)" title=" Arch.Papyrus 1.85. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rev.16.2]] ☩ [[Acts.17.29]]
+<small><sub>LSJ Scripture Refs: [[Rev.16.2|Rev.16.2]] ☩ [[Acts.17.29|Acts.17.29]]
 </sub></small>

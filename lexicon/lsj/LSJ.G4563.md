@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, of the thing <b>swept</b>, <span class='asgreek'>κῦμα</span>.. <span class='asgreek'>μεταξὺ</span> <span class='asgreek'>χοιράδων</span> <span class='asgreek'>σαρούμενον</span> [<a href="javascript:void(0)" title=" 3rd c.BC: Lycophron Tragicus 389. Rejected by 2nd c.AD: Phrynichus Atticista 63. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.15.8]] ☩ [[Matt.12.44]]
+<small><sub>LSJ Scripture Refs: [[Luke.15.8|Luke.15.8]] ☩ [[Matt.12.44|Matt.12.44]]
 </sub></small>

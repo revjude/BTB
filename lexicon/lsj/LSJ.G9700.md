@@ -5,3 +5,6 @@
 
  <b>forming a palisade,</b> [<a href="javascript:void(0)" title=" LXX.Ezek.17.17. ">LXX</a>]
 
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.17.17|LXX.Ezek.17.17]]
+</sub></small>

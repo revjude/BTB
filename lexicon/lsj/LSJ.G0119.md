@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> generally, <b>struggle, trial</b>, <span class='asgreek'>ἄ</span>. <span class='asgreek'>ὑπομένειν</span>[<a href="javascript:void(0)" title=" NT.Heb.10.32.">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.10.32]]
+<small><sub>LSJ Scripture Refs: [[Heb.10.32|Heb.10.32]]
 </sub></small>

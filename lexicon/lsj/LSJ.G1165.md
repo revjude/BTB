@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>make trial of, test,</b> [<a href="javascript:void(0)" title=" PHolm. 18.20, 22.29. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>appear,</b> [<a href="javascript:void(0)" title=" 3rd-2nd c.BC: Aristophanes Byzantinus Philosophus “Historiae Animalium Epitome subiunctis Aeliani Timothei aliorumque eclogis - pars” 41.19, 5th c.BC: Hippocrates Medicus “ἐπιστολαί” 19 (in “Hermes” 53.67). ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Col.2.15]] ☩ [[Matt.1.19]]
+<small><sub>LSJ Scripture Refs: [[Col.2.15|Col.2.15]] ☩ [[Matt.1.19|Matt.1.19]]
 </sub></small>

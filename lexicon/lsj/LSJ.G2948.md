@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> generally, <b>deformed, contracted</b>, <spa
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> of things, <b>crooked</b>, <span class='asgreek'>κ</span>. <span class='asgreek'>κυκλάς</span> [<a href="javascript:void(0)" title=" “PLond.” 3.776.10 (6th c.AD). ">Refs 6th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>==κυλλός==ά</span>, <span class='asgreek'>τά</span>, <b>choliambi</b>, [<a href="javascript:void(0)" title=" 3rd c.BC: Herodas Mimographus 8.79. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.15.30]]
+<small><sub>LSJ Scripture Refs: [[Matt.15.30|Matt.15.30]]
 </sub></small>

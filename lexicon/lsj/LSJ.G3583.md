@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>drain dry,</b> <span class='asgreek'>ξη
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, <span class='asgreek'>κακουχεῖ</span> <span class='asgreek'>αὑτὸν</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ξ</span>. [<a href="javascript:void(0)" title=" 3rd c.BC: Teles Philosophus p.34 H. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.b</b> <i>passive</i>, of a paralytic, [<a href="javascript:void(0)" title=" NT.Mark.9.18. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.3.1]] ☩ [[Matt.21.19]] ☩ [[Mark.9.18]]
+<small><sub>LSJ Scripture Refs: [[Mark.3.1|Mark.3.1]] ☩ [[Matt.21.19|Matt.21.19]] ☩ [[Mark.9.18|Mark.9.18]]
 </sub></small>

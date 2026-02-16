@@ -7,3 +7,6 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>bench, seat,</b> in front of a house, [<a href="javascript:void(0)" title=" 3rd c.AD(?): Diogenes Laertius 4.19 ">Refs 3rd c.AD+</a>]; any <b>public bench,</b> [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 13.4.5, 1st-2nd c.AD: Dio Chrysostomus Sophista 28.2 ">Refs 1st c.BC+</a>]; <b>belvedere,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Nicolaus Damascenus Historicus “fragment” 1J. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>parlour</b> or <b>saloon,</b> [<a href="javascript:void(0)" title=" LXX.Ezek.40.44, 1st c.BC: Cicero, M. Tullius Orator et Philosophus “Oralor” 3.5.17, “ND” 1.6.15, 1st c.BC: Vitruvius Scriptor de Architectura Latinus 6.7.3, 7.3.4, “POxy.” 912.13 (3rd c.AD)">LXX+1st c.BC+</a>]; <b>the hall in Pompey's theatre at Rome,</b> where the Senate met, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Brutus” 14, 17. ">Refs 1st c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.40.44|LXX.Ezek.40.44]]
+</sub></small>

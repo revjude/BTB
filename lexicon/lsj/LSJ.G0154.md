@@ -12,5 +12,5 @@ $\quad$ $\quad$<b>\_\_II</b> <i>middle</i>, <b>ask for one's own use, claim</b>,
 $\quad$ $\quad$<b>\_\_III</b> <i>passive</i>, of persons, <b>have a thing begged of</b> one, <span class='asgreek'>==αἰτέω==ηθέντες</span> <span class='asgreek'>χρήματα</span>[<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 8.111, compare 5th c.BC: Thucydides Historicus 2.97, etc.; ==αἰτέω==εύμενος 3rd c.BC: Theocritus Poeta Bucolicus 14.63">Refs 5th c.BC+</a>]: with <i>infinitive</i>, <b>to be asked to</b> do a thing, [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “I.” 8(7).5. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> of things, <b>to be asked</b>, <span class='asgreek'>τὸ</span> <span class='asgreek'>==αἰτέω==εόμενον</span>[<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 8.112">Refs 5th c.BC+</a>]; <span class='asgreek'>ἵπποι</span> <span class='asgreek'>ᾐτημένοι</span> <b>borrowed</b> horses, [<a href="javascript:void(0)" title=" 5th c.BC: Lysias Orator 24.12.">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1John.5.15]] ☩ [[1John.5.15]]
+<small><sub>LSJ Scripture Refs: [[1John.5.15|1John.5.15]] ☩ [[1John.5.15|1John.5.15]]
 </sub></small>

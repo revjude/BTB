@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> in <i>singular</i> or <i>plural</i>, <b>p
 $\quad$ $\quad$<b>\_\_III</b> (from <i>middle</i>) <b>delay,</b> <span class='asgreek'>τοῦ</span> <span class='asgreek'>κακοῦ</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 8.112, cf. Decrees cited in 4th c.BC: Demosthenes Orator 18.29, 2nd c.BC: Polybius Historicus 14.9.8; [τῆς κρίσεως] ὑ. λαβούσης “PEnteux.” 65.3 (3rd c.BC). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> the conic section called <b>hyperbola,</b> because the square of the ordinate is equal to a rectangle with height equal to the abscissa applied to the parameter (as base) but <b>exceeding</b> (<span class='asgreek'>ὑπερβάλλον</span>), i. e. overlapping, that base, [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Biographus Perg. “Con.” 1.12, 5th c.AD: Proclus Philosophus “in primum Euclidis librum commentarius” p.419F. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.7.13]]
+<small><sub>LSJ Scripture Refs: [[Rom.7.13|Rom.7.13]]
 </sub></small>

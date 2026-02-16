@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_6</b> <b>reverse</b> a decision or judgement, Vett
 $\quad$ $\quad$ $\quad$<b>\_\_7</b> in Medicine texts, <b>remove,</b> <span class='asgreek'>νόσον</span>[<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus 2.8. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>build again, remodel,</b> [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 16.1.5">Refs 1st c.BC+</a>]:—also in <i>middle</i>, <b>build,</b> <span class='asgreek'>οἴκους</span>[<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Bellum Judaicum” 6.5.2.">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.15.24]]
+<small><sub>LSJ Scripture Refs: [[Acts.15.24|Acts.15.24]]
 </sub></small>

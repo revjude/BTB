@@ -7,3 +7,6 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>close</b>, <span class='asgreek'>χείλη</span> <span class='asgreek'>ῥαφαῖς</span> [<a href="javascript:void(0)" title=" 7th c.AD: Paulus Aegineta Medicus 6.67 (probably)">Refs 7th c.AD+</a>]; <b>shut off</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ καρδίης” 12 (\_passive\_). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, <b>bring under the yoke, subdue</b>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Fragmenta - American Journal of Philology” 115. ">Refs 4th c.BC+</a>]
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.41.26|LXX.Ezek.41.26]]
+</sub></small>

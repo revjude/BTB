@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>σ</span>. <span class='asgreek'>ἅρμα</span> <b>mount</b> it <b>together</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Charid.” 19. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.15.41]]
+<small><sub>LSJ Scripture Refs: [[Mark.15.41|Mark.15.41]]
 </sub></small>

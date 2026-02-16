@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>part off, divide,</b> of logical division, <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>τἀναντία</span> <span class='asgreek'>ἀ</span>. <span class='asgreek'>τοῖς</span> <span class='asgreek'>ὀνόμασι</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Politicus” 307b:">Refs 5th c.BC+</a>] — in <i>passive</i> [<a href="javascript:void(0)" title=", [prev. work] 276d, 280d. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>passive</i>, <b>to be taken away, subtracted,</b> [<a href="javascript:void(0)" title=" [prev. author] “Lg.” 771c, 848a.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Pet.3.7]]
+<small><sub>LSJ Scripture Refs: [[1Pet.3.7|1Pet.3.7]]
 </sub></small>

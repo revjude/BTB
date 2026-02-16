@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>absolutely</i>, <b>self-control</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Memorabilia” 1.5.1, 5th-6th c.BC: Isocrates Orator 3.44, 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1145b8, +others, LXX.Sir.18.30, NT.Acts.24.25, etc. ">NT+5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.24.25]]
+<small><sub>LSJ Scripture Refs: [[Acts.24.25|Acts.24.25]]
 </sub></small>

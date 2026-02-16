@@ -5,5 +5,5 @@
  ={<span class='asgreek'>καταλιθόω</span>}, [<a href="javascript:void(0)" title=" NT.Luke.20.6. ">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Luke.20.6]]
+<small><sub>LSJ Scripture Refs: [[Luke.20.6|Luke.20.6]]
 </sub></small>

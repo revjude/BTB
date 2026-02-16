@@ -38,5 +38,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_V.5</b> rarely with <i>reflexive</i> sense of <spa
 $\quad$ $\quad$ $\quad$<b>\_\_V.6</b> <b>in one piece with, together with,</b> as in <span class='asgreek'>αὐτόκωπος</span>, <span class='asgreek'>αὐτοχείλης</span>, <span class='asgreek'>αὐτόπρεμνος</span>, <span class='asgreek'>αὐτόρριζος</span>. 
 $\quad$ $\quad$ $\quad$<b>\_\_V.7</b> <b>by itself</b>: hence, <b>only,</b> as in <span class='asgreek'>αὐτόξυλος</span>, <span class='asgreek'>αὐτόποκος</span>.—For <span class='asgreek'>αὐτοῦ</span>, <span class='asgreek'>αὐτῶς</span>, etc., see the respective Arts.
 
-<small><sub>LSJ Scripture Refs: [[Rev.17.11]] ☩ [[Luke.23.12]] ☩ [[Luke.4.15]] ☩ [[Eph.2.10]] ☩ [[Luke.3.16]] ☩ [[Rev.7.2]] ☩ [[2Pet.1.5]] ☩ [[Acts.14.1]]
+<small><sub>LSJ Scripture Refs: [[Rev.17.11|Rev.17.11]] ☩ [[Luke.23.12|Luke.23.12]] ☩ [[Luke.4.15|Luke.4.15]] ☩ [[Eph.2.10|Eph.2.10]] ☩ [[Luke.3.16|Luke.3.16]] ☩ [[Rev.7.2|Rev.7.2]] ☩ [[2Pet.1.5|2Pet.1.5]] ☩ [[Acts.14.1|Acts.14.1]]
 </sub></small>

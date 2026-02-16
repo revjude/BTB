@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>repay twofold,</b> <span class='asgreek'>δ</span>. <span class='asgreek'>==διπλόω==ᾶ</span> <span class='asgreek'>κατὰ</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>ἔργα</span> <span class='asgreek'>αὐτῆς</span> [<a href="javascript:void(0)" title=" NT.Rev.18.6. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rev.18.6]]
+<small><sub>LSJ Scripture Refs: [[Rev.18.6|Rev.18.6]]
 </sub></small>

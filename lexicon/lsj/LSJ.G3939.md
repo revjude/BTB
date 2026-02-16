@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>live in</b> a place <b>as</b> <span class='asgreek'>πάροικος</span>, <span class='asgreek'>οἱ</span> <span class='asgreek'>==παροικέω==οῦντες</span> <span class='asgreek'>ξένοι</span> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 13.47, compare “SIG” 709.9 (Chersonesus, 2nd c.BC)">Refs 2nd c.BC+</a>]; <span class='asgreek'>ὡς</span> <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>ξένης</span> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.416 ">Refs 1st c.AD+</a>]; <b>sojourn in</b>, <span class='asgreek'>Ἱερουσαλήμ</span> [<a href="javascript:void(0)" title=" NT.Luke.24.18. ">NT</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>metaphorically</i>, <span class='asgreek'>τὸν</span> <span class='asgreek'>ἀνθ</span> <span class='asgreek'>ρώπινον</span> <span class='asgreek'>βίον</span> <span class='asgreek'>παρῳκηκότες</span> [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “de Morte - Papiri Ercolanesi” 38. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.24.18]]
+<small><sub>LSJ Scripture Refs: [[Luke.24.18|Luke.24.18]]
 </sub></small>

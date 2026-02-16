@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> of toil, suffering, etc., <b>drain to the
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>squander,</b> <span class='asgreek'>πατρῴαν</span> <span class='asgreek'>κτῆσιν</span> <span class='asgreek'>==ἀντλέω==εῖν</span>[<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Electra” 1291. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>passive</i>, <span class='asgreek'>==ἀντλέω==ούμενος</span> <span class='asgreek'>ὄλβῳ</span> <b>flooded with,</b> [<a href="javascript:void(0)" title=" 4th c.AD(?): Manetho Astrologus 4.92.">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.2.8]]
+<small><sub>LSJ Scripture Refs: [[John.2.8|John.2.8]]
 </sub></small>

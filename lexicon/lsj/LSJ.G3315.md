@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>add as a third constituent</b>, <span cla
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <span class='asgreek'>τὰ</span> <span class='asgreek'>χρήματα</span> <span class='asgreek'>μ</span>. <b>lies on deposit with a stakeholder</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus “Fragmenta” 183. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>lie between</b>, <span class='asgreek'>μονάδος</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>δεκάδος</span> [<a href="javascript:void(0)" title=" “Theologumena Arithmeticae” 44. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.6.17]]
+<small><sub>LSJ Scripture Refs: [[Heb.6.17|Heb.6.17]]
 </sub></small>

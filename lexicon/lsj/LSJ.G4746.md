@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> generally, <b>bed</b>, [<a href="javascript:
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>nest</b> or <b>lair</b> of mice, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Aratus Epicus 1140 ">Refs 4th c.BC+</a>]; of the fish <span class='asgreek'>φυκίς</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 607b21. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>grave</b>, [<a href="javascript:void(0)" title=" “BCH” 13.37 (from Iasus), 22.373 (from Caria), “Ath.Mitt.” 15.277 ([prev. passage]). ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.11.8]]
+<small><sub>LSJ Scripture Refs: [[Mark.11.8|Mark.11.8]]
 </sub></small>

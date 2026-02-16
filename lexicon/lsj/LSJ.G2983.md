@@ -49,5 +49,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_B.4</b> of place, <span class='asgreek'>λ</span>.
 $\quad$ $\quad$ $\quad$<b>\_\_B.5</b> <b>find fault with, censure</b>, <span class='asgreek'>τινος</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 637c, 2nd-3rd c.AD: Philostratus Sophista “Vita Apollonii” 4.22. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_B.6</b> <span class='asgreek'>λαβέσθαι</span> <span class='asgreek'>ἑαυτοῦ</span> <b>check</b> oneself, [<a href="javascript:void(0)" title=" 3rd c.AD: Heliodorus Scriptor Eroticus 2.24. ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.16.19]]
+<small><sub>LSJ Scripture Refs: [[Mark.16.19|Mark.16.19]]
 </sub></small>

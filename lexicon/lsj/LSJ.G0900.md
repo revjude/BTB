@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> in Mathematics texts, <b>add a third dimensi
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>sink deep,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.248, 2.402 ">Refs 1st c.AD+</a>]; <b>sink, crumble,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Apollodorus Damascenus Mechanicus “Abhandlungen der Göttinger Gesellschaft der Wissenschaften (Phil.-hist. Klasse)” 157.8. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>metaphorically</i>, <b>go deeply into a subject,</b> <span class='asgreek'>βαθύνας</span> <span class='asgreek'>θεωρῆσαι</span> [<a href="javascript:void(0)" title=" 5th c.AD: Proclus Philosophus “in Platonis Parmenidem commentarii” p.622 5th c.BC: Sophocles Tragicus ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.6.48]]
+<small><sub>LSJ Scripture Refs: [[Luke.6.48|Luke.6.48]]
 </sub></small>

@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <span class='asgreek'>φαντάζεσθ
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>appear</b> so and so, <b>to be imagined,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Hp.Ma.” 300c; ἡδοναὶ φαντασθεῖσαι [prev. author] “Phlb.” 51a; τῷ νοηθῆναι ἢ φαντασθῆναι 4th c.BC: Aristoteles Philosophus “de Anima” 433b12. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> com. for <span class='asgreek'>συκοφαντεῖσθαι</span>, <b>to be informed against,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Acharnenses” 823 (Megarian dialect φαντάδδομαι). ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.12.21]]
+<small><sub>LSJ Scripture Refs: [[Heb.12.21|Heb.12.21]]
 </sub></small>

@@ -24,3 +24,6 @@ $\quad$ $\quad$<b>\_\_B.IX</b> a <b>bandage,</b> [<a href="javascript:void(0)" t
 $\quad$ $\quad$<b>\_\_B.X</b> ={<span class='asgreek'>εὐρύνοτος</span>}, [<a href="javascript:void(0)" title=" Agathemerus Geographus 2.7. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_B.XI</b> <span class='asgreek'>φ</span>. <span class='asgreek'>ἐν</span> <span class='asgreek'>ὁπλῇ</span>, a disease of the hoof, [<a href="javascript:void(0)" title=" “Hippiatrica” 10. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_B.XII</b> an eye-salve, [<a href="javascript:void(0)" title=" 6th c.AD: Aëtius Medicus 7.116. [In all senses of the word ῑ in \_genitive\_, but \_nominative\_ ==φοῖνιξ==, not φοίνιξ, Hdn.Gr. cited in 4th-5th c.AD: Choeroboscus Grammaticus “in Thd.” 1.292.] ">Refs 4th c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.41.25|LXX.Ezek.41.25]]
+</sub></small>

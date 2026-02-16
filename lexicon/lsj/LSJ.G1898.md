@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>means of bringing</b> or <b>letting in,</b> <span class='asgreek'>ἐπεσαγωγὰς</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>πολεμίων</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 8.92. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.7.19]]
+<small><sub>LSJ Scripture Refs: [[Heb.7.19|Heb.7.19]]
 </sub></small>

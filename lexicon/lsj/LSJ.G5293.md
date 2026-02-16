@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>put after,</b> [<a href="javascript:void(0)" ti
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>take as a minor premiss,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 4.1.61. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>govern the subjunctive,</b> [<a href="javascript:void(0)" title=" EM 471.16. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Phil.3.21]] ☩ [[Eph.1.22]] ☩ [[Col.3.18]] ☩ [[Jas.4.7]]
+<small><sub>LSJ Scripture Refs: [[Phil.3.21|Phil.3.21]] ☩ [[Eph.1.22|Eph.1.22]] ☩ [[Col.3.18|Col.3.18]] ☩ [[Jas.4.7|Jas.4.7]]
 </sub></small>

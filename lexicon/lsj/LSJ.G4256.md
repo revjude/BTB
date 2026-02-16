@@ -5,5 +5,5 @@
  <b>accuse beforehand,</b> <span class='asgreek'>τινὰ</span> <span class='asgreek'>εἶναι</span> [<a href="javascript:void(0)" title=" NT.Rom.3.9. ">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Rom.3.9]]
+<small><sub>LSJ Scripture Refs: [[Rom.3.9|Rom.3.9]]
 </sub></small>

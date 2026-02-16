@@ -21,5 +21,5 @@ $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, of rivers, <b>empty themselves
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <span class='asgreek'>τῶν</span> <span class='asgreek'>ἄλλων</span> [<span class='asgreek'>ζῴων</span>] <span class='asgreek'>τὰ</span> <span class='asgreek'>μὲν</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>ὀδόντας</span> <span class='asgreek'>ἐκδίδωσι</span>..<span class='asgreek'>τὰ</span> <span class='asgreek'>δὲ</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>κέρατα</span>.. <b>run to</b> teeth, etc., [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Problemata” 898a22 ">Refs 4th c.BC+</a>]; <b>find an outlet,</b> <span class='asgreek'>εἰς</span> <span class='asgreek'>κεφαλήν</span> [<a href="javascript:void(0)" title="[prev. work] 29. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>emerge,</b> <span class='asgreek'>τὴν</span> <span class='asgreek'>Ἀφροδίτην</span> <span class='asgreek'>ἐκδοῦναι</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>θαλάσσης</span> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “Philostrati majoris imagines” 2.1 (to be read -δῦναι). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.12.1]]
+<small><sub>LSJ Scripture Refs: [[Mark.12.1|Mark.12.1]]
 </sub></small>

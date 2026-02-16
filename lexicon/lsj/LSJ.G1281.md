@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>gain by trading,</b> [<a href="javascript:void(0)" title="NT.Luke.19.15. ">NT</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>accomplish,</b> <span class='asgreek'>τι</span> <span class='asgreek'>πρὸς</span> <span class='asgreek'>τοὺς</span> <span class='asgreek'>θεούς</span> [<a href="javascript:void(0)" title=" 4th c.AD: Iamblichus Philosophus “de Mysteriis” 5.16. ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.19.15]]
+<small><sub>LSJ Scripture Refs: [[Luke.19.15|Luke.19.15]]
 </sub></small>

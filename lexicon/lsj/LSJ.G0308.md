@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>recover one's sight,</b> [<a href="javascript:vo
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>open one's eyes,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 621b, 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 8.3.29. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>metaphorically</i>, <b>revive,</b> <span class='asgreek'>ᾧ</span> <span class='asgreek'>δῶμ᾽</span> <span class='asgreek'>ἀνέβλεφ᾽</span>[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Bacchae” 1308.">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.9.11]]
+<small><sub>LSJ Scripture Refs: [[John.9.11|John.9.11]]
 </sub></small>

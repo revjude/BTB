@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_b</b> generally, ={<span class='asgreek'>�
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>pudenda muliebria,</b> frequently in Comedy texts poets, who are always punning on the word and its compounds, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Acharnenses” 773 ">Refs 5th c.BC+</a>] {<span class='asgreek'>χοιρόσακον</span>}, etc.; said to be a Corinthian usage, [<a href="javascript:void(0)" title=" 10th c.AD: Suidas Legal icographus ">Refs</a>]
 $\quad$ $\quad$<b>\_\_II</b> a fish of the Nile, [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 17.2.4, 2nd c.AD: Athenaeus Epigrammaticus 7.312a, “Geoponica” 20.7.1, 13">Refs 1st c.BC+</a>] at Title Page (Perh. for <b>ĝhoryo-</b> 'grey', cf. Norse <b>griss</b> 'sucking-pig', OHG <b>grīs</b> 'grey', or[<a href="javascript:void(0)" title="compare 2nd c.AD: Albinus Philosophus ">Refs 2nd c.AD+</a>] <b>de[rmacr]</b> 'pig'.)
 
-<small><sub>LSJ Scripture Refs: [[Matt.8.30]]
+<small><sub>LSJ Scripture Refs: [[Matt.8.30|Matt.8.30]]
 </sub></small>

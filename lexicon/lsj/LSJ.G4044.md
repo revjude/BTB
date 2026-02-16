@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>run into</b>, <span class='asgreek'>τοὺς</span> <span class='asgreek'>ὀδόντας</span> <span class='asgreek'>τῇ</span> <span class='asgreek'>δειρῇ</span> [<a href="javascript:void(0)" title=" 4th c.AD: Libanius Sophista “Descriptiones” 12.2 (\_passive\_)">Refs 4th c.AD+</a>]:—<i>passive</i>, <span class='asgreek'>ἄγκιστρα</span> <span class='asgreek'>περιπαρέντα</span> <span class='asgreek'>τοῖς</span> <span class='asgreek'>ἰχθύσι</span> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 15.10. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Tim.6.10]]
+<small><sub>LSJ Scripture Refs: [[1Tim.6.10|1Tim.6.10]]
 </sub></small>

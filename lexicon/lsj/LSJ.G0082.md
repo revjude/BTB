@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>unintelligible</b>, <span class='asgre
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>unproved,</b> [<a href="javascript:void(0)" title=" Stoic. 2.89. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>adverb</i> -<span class='asgreek'>λως</span> <b>secretly</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 1.92, etc.">Refs 5th c.BC+</a>]: <i>superlative</i> <b>-<span class='asgreek'>ότατα</span></b>[<a href="javascript:void(0)" title=" [prev. author] 7.50.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.14.8]]
+<small><sub>LSJ Scripture Refs: [[1Cor.14.8|1Cor.14.8]]
 </sub></small>

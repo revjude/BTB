@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>resignation</b> of an office, [<a href
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>κώλου</span>, <span class='asgreek'>περιόδου</span>, <b>close</b> or <b>cadence</b> of a phrase, [<a href="javascript:void(0)" title=" 4th c.BC: Demetrius Phalereus Rhetor “Demetrius on Style” 19, cf. Scholia 5th-6th c.BC: Aristophanes Comicus “Nubes” 176">Refs 5th c.BC+</a>]; so in metres, ={<span class='asgreek'>κατάληξις</span>}, [<a href="javascript:void(0)" title=" 7th c.AD: Hephaestio Grammaticus 4 at Title Page ">Refs 7th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>ἀποδυτήριον</span>}, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Hipp.” 5.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Pet.3.21]]
+<small><sub>LSJ Scripture Refs: [[1Pet.3.21|1Pet.3.21]]
 </sub></small>

@@ -24,5 +24,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.8.c</b> <b>precede, go before,</b> <spa
 $\quad$ $\quad$<b>\_\_III</b> <b>repeat from the origin,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Isocrates Orator 6.16; μικρὸν π. [prev. author] 16.24. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> Philos., <b>form a preconception</b> (compare <span class='asgreek'>πρόληψις</span>), <b>prejudge,</b> <span class='asgreek'>οἷα</span> <span class='asgreek'>προειλήφαμεν</span> [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “D.” 3.13, compare “Sign.” 22 ">Refs 1st c.BC+</a>]:—<i>middle</i>, [<a href="javascript:void(0)" title=" [prev. author] “D.” 1.13">Refs</a>]:— <i>passive</i>, [<a href="javascript:void(0)" title=" [prev. author] “Oec.” p.57 1st c.AD: Josephus Historicus ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.14.8]] ☩ [[Gal.6.1]]
+<small><sub>LSJ Scripture Refs: [[Mark.14.8|Mark.14.8]] ☩ [[Gal.6.1|Gal.6.1]]
 </sub></small>

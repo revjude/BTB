@@ -29,5 +29,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.9</b> in Law, <b>depose, aver</b>, [<a href="ja
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.9.b</b> ={<span class='asgreek'>συγκατατίθεμαι</span>}, [<a href="javascript:void(0)" title=" 12th c.AD: Eustathius Episcopus Thessalonicensis 1261.19. ">Refs</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.9.c</b> <b>make</b> a testamentary <b>disposition</b>, [<a href="javascript:void(0)" title=" κ. διαθηκιμαίαν βούλησιν “PMasp.” 151.43, +others (6th c.AD).—Frequently in 8th c.BC: Homerus Epicus and familiar \_Attic dialect\_; rare in Trag. ">Refs 8th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.15.46]]
+<small><sub>LSJ Scripture Refs: [[Mark.15.46|Mark.15.46]]
 </sub></small>

@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_b</b> Astrology texts, of planets, <span c
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>to have legal power</b> to do, with <i>infinitive</i>, Legal cited in [<a href="javascript:void(0)" title=" 4th c.BC: Aeschines Orator 1.35. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>ὁ</span> <span class='asgreek'>κυριεύων</span> (i.e. <span class='asgreek'>λόγος</span>, which is expressed in [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 2.19.1), a logical puzzle, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.615a, 2nd c.AD: Lucianus Sophista “Vit.Auct.” 22, etc., compare “Stoicorum Veterum Fragmenta” 2.93. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.14.9]]
+<small><sub>LSJ Scripture Refs: [[Rom.14.9|Rom.14.9]]
 </sub></small>

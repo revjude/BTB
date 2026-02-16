@@ -5,3 +5,6 @@
 
  <b>made with pivots, turning on them</b>, <span class='asgreek'>θυρώματα</span> [<a href="javascript:void(0)" title=" LXX.Ezek.41.23(24). ">LXX</a>]
 
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.41.23|LXX.Ezek.41.23]]
+</sub></small>

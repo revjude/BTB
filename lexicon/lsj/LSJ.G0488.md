@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> Astrology texts, <b>correspond in ascension,</b> [<a href="javascript:void(0)" title=" Cat.Codex Astr. 8(4).187.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.7.2]] ☩ [[Luke.6.38]]
+<small><sub>LSJ Scripture Refs: [[Matt.7.2|Matt.7.2]] ☩ [[Luke.6.38|Luke.6.38]]
 </sub></small>

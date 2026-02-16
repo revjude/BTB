@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> rarely in bad sense, ={<span class='asgreek'>βωμολοχία</span>}, [<a href="javascript:void(0)" title=" NT.Eph.5.4. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eph.5.4]]
+<small><sub>LSJ Scripture Refs: [[Eph.5.4|Eph.5.4]]
 </sub></small>

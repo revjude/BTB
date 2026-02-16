@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <i>transitive</i>, <b>effect, execute,</b> <span cl
 $\quad$ $\quad$<b>\_\_III</b> in Medicine texts, of sexual intercourse, <span class='asgreek'>τὴν</span> <span class='asgreek'>τοιαύτην</span> <span class='asgreek'>πρᾶξιν</span> -<span class='asgreek'>οῦσι</span> <span class='asgreek'>μετρίως</span> [<a href="javascript:void(0)" title=" Diocl.fragment 141, compare “Catalogus Codicum Astrologorum” 8(4).176: euphemistic for βινεῖν,">Refs</a>] <b>in opere esse,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 4.61; ἐ. τινά 4th c.AD: Alciphro Epistolographus 3.55; ἐρωτικόν τι [prev. author] 1.39. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>operate,</b> in surgery, [<a href="javascript:void(0)" title=" 4th c.AD: Oribasius Medicus 45.18.5, 7th c.AD: Paulus Aegineta Medicus 6.73 ">Refs 4th c.AD+</a>]; <span class='asgreek'>ὁ</span> <span class='asgreek'>==ἐνεργέω==ῶν</span>, <span class='asgreek'>ὁ</span> <span class='asgreek'>==ἐνεργέω==ούμενος</span>, the <b>surgeon,</b> the <b>patient,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 18(2).626,683. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gal.2.8]] ☩ [[Matt.14.2]] ☩ [[Rom.7.5]]
+<small><sub>LSJ Scripture Refs: [[Gal.2.8|Gal.2.8]] ☩ [[Matt.14.2|Matt.14.2]] ☩ [[Rom.7.5|Rom.7.5]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>treat</b> a substance with another, <span
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> of public officers, <b>administer,</b> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 4.26.6, 4.67.9 ">Refs 2nd c.BC+</a>]:—<i>passive</i>, <span class='asgreek'>πολιτεία</span> <span class='asgreek'>ἀρίστη</span> <span class='asgreek'>ἡ</span> <span class='asgreek'>ὑπὸ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>ἀρίστων</span> -<span class='asgreek'>ουμένη</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Politica” 1288a34. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>to be a house-steward,</b> [<a href="javascript:void(0)" title="NT.Luke.16.2. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.16.2]]
+<small><sub>LSJ Scripture Refs: [[Luke.16.2|Luke.16.2]]
 </sub></small>

@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> of things, <span class='asgreek'>στενὴ
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.b</b> <b>contraction</b> of a muscle, [<a href="javascript:void(0)" title=" 2nd c.AD: Antyllus Medicus cited in 4th c.AD: Oribasius Medicus 45.15.5, “Catalogus Codicum Astrologorum” 8(3).147 (\_plural\_) ">Refs 2nd c.AD+</a>]; of the prepuce, [<a href="javascript:void(0)" title=" 7th c.AD: Paulus Aegineta Medicus 6.55. ">Refs 7th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> in Rhet., <b>provisional concession</b> of an adversary's standpoint, [<a href="javascript:void(0)" title=" 2nd c.AD: Hermogenes Rhetor “περὶ ἰδεῶν” 2.1, 7, 2nd c.AD: Aristides Rhetor “τέχναι ῥητορικαί” 1p.491S. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.21.30]]
+<small><sub>LSJ Scripture Refs: [[Acts.21.30|Acts.21.30]]
 </sub></small>

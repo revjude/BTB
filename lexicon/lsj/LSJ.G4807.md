@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>σ</span>. <span class='asgreek'>ἡ</span> <span class='asgreek'>Αἰγυπτία</span>,= <span class='asgreek'>συκόμορος</span>,[<a href="javascript:void(0)" title=" [prev. work] 1.1.7, compare “PCair.Zen.” 83.3 (3rd c.BC), 1st c.BC-1st c.AD: Strabo Geographus 17.2.4, 1st c.BC: Diodorus Siculus Historicus 1.34, NT.Luke.17.6. ">NT+3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>σ</span>. <span class='asgreek'>ἀγρία</span>, ={<span class='asgreek'>βάτος</span>} (A), [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Phanias Historicus 33. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.17.6]]
+<small><sub>LSJ Scripture Refs: [[Luke.17.6|Luke.17.6]]
 </sub></small>

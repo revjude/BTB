@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>the vulva</b>, [<a href="javascript:void(0)" ti
 $\quad$ $\quad$<b>\_\_IV</b> name of an <span class='asgreek'>ὀρχηστικὸν</span> <span class='asgreek'>σχῆμα</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_V</b> <b>ploughing,</b> [<a href="javascript:void(0)" title=" PLond. 5.1796.7 (6th c.AD). ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.9.16]]
+<small><sub>LSJ Scripture Refs: [[Matt.9.16|Matt.9.16]]
 </sub></small>

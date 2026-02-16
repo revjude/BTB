@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> at Sparta, <b>a board of advisers</b> sen
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>officers</b> at Thurii, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Politica” 1307b14. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> = Latin <i>legatus</i>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 6.35.4 ">Refs 2nd c.BC+</a>]; also used to explanation Latin <i>con-sul</i>, [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 4.76. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.11.34]]
+<small><sub>LSJ Scripture Refs: [[Rom.11.34|Rom.11.34]]
 </sub></small>

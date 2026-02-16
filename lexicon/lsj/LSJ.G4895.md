@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> of money, <b>come together, come in</b>, 
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>to be contracted</b>, <span class='asgreek'>σ</span>. <span class='asgreek'>καὶ</span> <span class='asgreek'>ψύχεσθαι</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Meteorologica” 342a19. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> of stars, <b>come into conjunction</b>, [<a href="javascript:void(0)" title=" 4th c.AD(?): Manetho Astrologus 2.423, +others ">Refs 4th c.AD+</a>]; of the moon, <span class='asgreek'>συνιούσης</span>, opposed to <span class='asgreek'>αὐξομένης</span>, [<a href="javascript:void(0)" title=" 6th c.AD: Lydus, Joannes Laurentius Historicus “de Mensibus” 3.11. ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.8.4]]
+<small><sub>LSJ Scripture Refs: [[Luke.8.4|Luke.8.4]]
 </sub></small>

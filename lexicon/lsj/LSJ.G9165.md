@@ -5,3 +5,6 @@
 
  <b>hard-hearted</b>, [<a href="javascript:void(0)" title=" LXX.Ezek.2.4 (variant). ">LXX</a>]
 
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.2.4|LXX.Ezek.2.4]]
+</sub></small>

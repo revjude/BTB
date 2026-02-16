@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>in every way, altogether</b>, <span class='asgreek'>π</span>. <span class='asgreek'>συγγίνεσθαι</span> <span class='asgreek'>ἀήθεα</span> [<a href="javascript:void(0)" title=" 5th c.BC: Empedocles Poeta Philosophus 22.8; οὐδὲν ἦν π. καλόν “Tragica Adespota” 26; π. πάντως 5th-6th c.BC: Plato Philosophus “Timaeus” 29c, “Prm.” 160b, 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1100b20; πάντως καὶ π. 5th-6th c.BC: Plato Philosophus “Philebus” 60c; π. καὶ πανταχοῦ NT.Acts.24.3 ">NT+5th c.BC+</a>]; <span class='asgreek'>οὐ</span> <span class='asgreek'>π</span>. not <b>quite</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Appianus Historicus “Bella Civilia” 1.8, 2nd c.AD: Lucianus Sophista “Tim.” 2. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.24.3]]
+<small><sub>LSJ Scripture Refs: [[Acts.24.3|Acts.24.3]]
 </sub></small>

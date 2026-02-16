@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>fashion, style of dress</b> or <b>equipme
 $\quad$ $\quad$<b>\_\_II</b> <b>tackle</b>, as of a net, [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “P.” 2.80 ">Refs 5th c.BC+</a>]; of a ship, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 14.79, NT.Acts.27.19. ">NT+1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> ={<span class='asgreek'>αἰδοῖον</span>}, [<a href="javascript:void(0)" title="“Anthologia Graeca” 5.241 (3rd c.BC: Eratosthenes Epicus, where σκεϋήν [musical notation], uncertain reading);compare σκεῦος 111. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.27.19]]
+<small><sub>LSJ Scripture Refs: [[Acts.27.19|Acts.27.19]]
 </sub></small>

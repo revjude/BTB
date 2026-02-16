@@ -5,5 +5,5 @@
  <b>boast, brag</b>, [<a href="javascript:void(0)" title=" NT.1Cor.13.4, 2nd c.AD: Marcus Antoninus Imperator 5.5. ">NT+2nd c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[1Cor.13.4]]
+<small><sub>LSJ Scripture Refs: [[1Cor.13.4|1Cor.13.4]]
 </sub></small>

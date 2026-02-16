@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>place of meeting, council-chamber</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 8.79, 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 2.4.23, “POxy.” 717.8 (1st c.BC)">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐν</span> <span class='asgreek'>σ</span>. in <b>court</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Lysias Orator 9.6; ἐνεπρήσθη τὰ σ. τῶν Πυθαγορείων 2nd c.BC: Polybius Historicus 2.39.1. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.5.22]] ☩ [[Mark.13.9]]
+<small><sub>LSJ Scripture Refs: [[Matt.5.22|Matt.5.22]] ☩ [[Mark.13.9|Mark.13.9]]
 </sub></small>

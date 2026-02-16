@@ -22,5 +22,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> (i.e. <span class='asgreek'>νόμισ�
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> (i.e. <span class='asgreek'>κεράμιον</span>) <b>jar,</b> [<a href="javascript:void(0)" title=" POxy. 920.4 (2nd-3rd c.AD), “PStrassb.” 40.48 (6th c.AD)">Refs 2nd c.AD+</a>]; compare <span class='asgreek'>λεπτίον</span>, <span class='asgreek'>λεπτοκεραμεύς</span>. 
 $\quad$ $\quad$ $\quad$<b>\_\_III.4</b> Astron. (i.e. <span class='asgreek'>ἑξηκοστόν</span>), division of a degree, <span class='asgreek'>πρῶτα</span> <span class='asgreek'>λεπτά</span>, = <b>minutes</b>, <span class='asgreek'>δεύτερα</span> <span class='asgreek'>λ</span>., = <b>seconds</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Geminus Astronomicus 18.11, 18 ">Refs 1st c.BC+</a>]; <span class='asgreek'>λεπτά</span> alone, = <b>minutes,</b> [<a href="javascript:void(0)" title=" PLond. 1.98r.47 (1st-2nd c.AD), “POxy.” 1476 (3rd c.AD). ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.21.2]]
+<small><sub>LSJ Scripture Refs: [[Luke.21.2|Luke.21.2]]
 </sub></small>

@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_8</b> <b>shutter</b>, [<a href="javascript:void(0)
 $\quad$ $\quad$ $\quad$<b>\_\_9</b> <b>sheathing-planks</b> for a roof, [<a href="javascript:void(0)" title=" “IG” 22.1668.57">Refs</a>]; but, <b>slabs</b> for closing coffers, [<a href="javascript:void(0)" title="[prev. work]4.1484.57 (Epid., 4th c.BC), 11(2).144 A 42 (Delos, 4th c.BC). ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_10</b> perhaps <b>paving-slab,</b> [<a href="javascript:void(0)" title=" Milet. Ergebnisse 7.60.53. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.3.13]]
+<small><sub>LSJ Scripture Refs: [[2Cor.3.13|2Cor.3.13]]
 </sub></small>

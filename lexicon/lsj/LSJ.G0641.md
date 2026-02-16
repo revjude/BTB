@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>throw aside, set at naught,</b> <span 
 $\quad$ $\quad$<b>\_\_III</b> of words, <b>utter,</b> especially in disparagement, <span class='asgreek'>ἔς</span> <span class='asgreek'>τινα</span>[<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.153, 4.142 (\_passive\_), 8.92: generally, ἀ. ἔπος">Refs 5th c.BC+</a>] <b>let fall</b> a word, [<a href="javascript:void(0)" title=" [prev. author] 6.69; χαμαιπετὲς ἔπος ἀ. 5th c.BC: Pindarus Lyricus “P.” 6.37; λόγον ἀχρεῖον 2nd c.AD(?): Antoninus Liberalis Mythographus 11.3; μηδ᾽ ==ἀπορρίπτω==ρριφθῇ λόγος 4th-5th c.BC: Aeschylus Tragicus “Supplices” 484. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <i>intransitive</i>, <b>throw oneself down, leap off,</b> [<a href="javascript:void(0)" title=" NT.Acts.27.43, 2nd c.AD(?): Charito Scriptor Eroticus 3.5.">NT+2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.27.43]]
+<small><sub>LSJ Scripture Refs: [[Acts.27.43|Acts.27.43]]
 </sub></small>

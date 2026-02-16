@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>test by observation</b> or <b>trial</b
 $\quad$ $\quad$<b>\_\_III</b> <b>observe</b> or <b>keep</b> an engagement, <span class='asgreek'>ὅρκους</span> [<a href="javascript:void(0)" title=" 3rd c.AD: Democritus Epigrammaticus 239; παρακαταθήκας 5th-6th c.BC: Isocrates Orator 1.22; ἀπόρρητα 5th c.BC: Lysias Orator 31.31; εἰρήνην 4th c.BC: Demosthenes Orator 18.89; τὸ πρέπον 1st c.BC: Philodemus Philosophus “περὶ ποιημάτων” 5.35; τὴν πίστιν NT.2Tim.4.7. ">NT+5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>preserve, retain</b>, <span class='asgreek'>τὰς</span> <span class='asgreek'>αἰσθήσεις</span> uncertain in [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Epicurus Philosophus “Epistulae” 1p.5U., compare 2nd c.BC: Demetrius Lacon Philosophus “Herc.” 1055.9,10; ἰδιότητας 1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.” 1.154 5th c.BC: Sophocles Tragicus; τὴν ποιότητα 2nd c.AD: Soranus Medicus 1.51; τὴν τροφὸν ἐπ᾽ ὀλιγοποσίας.. τ. [prev. work] 118, compare 46, +others:—in 1st c.AD: Philo Judaeus 1.125 there is a double use. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Tim.4.7]]
+<small><sub>LSJ Scripture Refs: [[2Tim.4.7|2Tim.4.7]]
 </sub></small>

@@ -6,5 +6,5 @@ Related to: <b> <span class='asgreek'>==ὀλιγοπιστία==</span>-<span 
  <b>of little faith,</b> [<a href="javascript:void(0)" title="NT.Matt.8.26, +others, Sextus Pythagoreus “Sent.” 6. ">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Matt.8.26]]
+<small><sub>LSJ Scripture Refs: [[Matt.8.26|Matt.8.26]]
 </sub></small>

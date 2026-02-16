@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, <b>pull to pieces, at
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> in Medicine texts, <span class='asgreek'>σ</span>. <span class='asgreek'>τὸ</span> <span class='asgreek'>στόμα</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>κοιλίας</span> provoke sickness, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 11.57">Refs 2nd c.AD+</a>]; compare <span class='asgreek'>σπαρακτέον</span>:—<i>passive</i>, <span class='asgreek'>σ</span>. <span class='asgreek'>ἀνημέτως</span> <b>retch</b> without being able to vomit, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “Κωακαὶ προγνώσιες” 546. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_4.b</b> <b>convulse</b>, of an evil spirit, [<a href="javascript:void(0)" title=" NT.Mark.1.26. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.1.26]]
+<small><sub>LSJ Scripture Refs: [[Mark.1.26|Mark.1.26]]
 </sub></small>

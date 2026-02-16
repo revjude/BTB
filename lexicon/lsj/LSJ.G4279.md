@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>canvass for an office before,</b> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Dio Cassius Historicus 39.31. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>middle</i>, <b>announce before,</b> <span class='asgreek'>εὐαγγέλιον</span> [<a href="javascript:void(0)" title=" NT.Rom.1.2 ">NT</a>]:—<i>passive</i>, <b>to be promised before,</b> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Dio Cassius Historicus 42.32, 46.40. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.9.5]] ☩ [[Rom.1.2]]
+<small><sub>LSJ Scripture Refs: [[2Cor.9.5|2Cor.9.5]] ☩ [[Rom.1.2|Rom.1.2]]
 </sub></small>

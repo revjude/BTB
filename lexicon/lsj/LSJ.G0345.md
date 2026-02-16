@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>πᾶν</span> or <span class
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>to be put aside,</b> <span class='asgreek'>ταῦτα</span> <span class='asgreek'>ἀνακείσθω</span>[<a href="javascript:void(0)" title=" 4th c.AD: Themistius Sophista “in Aristotelis Physica paraphrasis - pars” 29.20. ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>lie at table, recline,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Fragmenta” 756, 4th-3rd c.BC: Philippides Comicus 30, 4th c.BC: Aristoteles Philosophus “Categoriae” 6b12, “fragment” 607, 4th-3rd c.BC: Diphilus Comicus 40 Mein. (om. Kock), 2nd c.BC: Polybius Historicus 13.6.8, NT.Matt.9.10, +others; compare 2nd c.AD: Phrynichus Atticista 191.">NT+5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.9.10]]
+<small><sub>LSJ Scripture Refs: [[Matt.9.10|Matt.9.10]]
 </sub></small>

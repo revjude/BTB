@@ -23,5 +23,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.4</b> Latin <i>zona</i>, in in Medicine texts,
 $\quad$ $\quad$ $\quad$<b>\_\_III.5</b> <b>stripes</b> on fish, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 3.28, +others ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <i>plural</i>, an order of divine beings presiding over, or <b>engirdled with</b> cosmic <b>zones</b>, opposed to <span class='asgreek'>ἄζωνοι</span>, [<a href="javascript:void(0)" title=" 5th-6th c.AD: Damascius Philosophus “de Principiis” 96, 5th c.AD: Proclus Philosophus “in Platonis Parmenidem commentarii” p.494S. ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.10.9]]
+<small><sub>LSJ Scripture Refs: [[Matt.10.9|Matt.10.9]]
 </sub></small>

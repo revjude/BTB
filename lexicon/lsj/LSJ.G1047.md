@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>large sum of money</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 11.34.12. (Persian word.) ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.8.27]]
+<small><sub>LSJ Scripture Refs: [[Acts.8.27|Acts.8.27]]
 </sub></small>

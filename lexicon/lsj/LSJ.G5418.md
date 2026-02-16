@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>fence, paling,</b> [<a href="javascript:void(0)"
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>metaphorically</i>, <b>partition,</b> [<a href="javascript:void(0)" title="NT.Eph.2.14. ">NT</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.b</b> nickname of a man <b>with a bristly beard,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Pseudol.” 27. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.21.33]] ☩ [[Eph.2.14]]
+<small><sub>LSJ Scripture Refs: [[Matt.21.33|Matt.21.33]] ☩ [[Eph.2.14|Eph.2.14]]
 </sub></small>

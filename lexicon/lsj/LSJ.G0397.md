@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>feed up,</b> opposed to <span class='asgreek'>ἰσχναίνω</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἄρθρων ἐμβολῆς” 33, 50: \_metaphorically\_, ἀ. μονῳδίαις 5th-6th c.BC: Aristophanes Comicus “Ranae” 944">Refs 5th c.BC+</a>]:—<i>passive</i>, <span class='asgreek'>ἀνατρέφεσθαι</span> <span class='asgreek'>ἐκ</span> <span class='asgreek'>νόσου</span> <b>convalesce,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἀρχαίης ἰητρικῇς” 14 ">Refs 5th c.BC+</a>]; of fish after milting, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 608a2.">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.4.16]]
+<small><sub>LSJ Scripture Refs: [[Luke.4.16|Luke.4.16]]
 </sub></small>

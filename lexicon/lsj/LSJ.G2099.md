@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>proclaimer of oracular messages,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 12(1).675 (from Rhodes). ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.21.8]]
+<small><sub>LSJ Scripture Refs: [[Acts.21.8|Acts.21.8]]
 </sub></small>

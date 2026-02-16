@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_III</b> in <i>plural</i>, <b>incidents, happenings</b>, <s
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>incidents</b> or <b>changes</b> of material bodies, <span class='asgreek'>τὰ</span> <span class='asgreek'>οὐράνια</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" [prev. author] “Ion” 531c, compare “Phd.” 98a; τὰ τῆς σελήνης π. 4th c.BC: Aristoteles Philosophus “Metaphysica” 982b16, compare “Mete.” 363a24, 365a12. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> in Logic, <b>incidents, properties</b>, or <b>accidents</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Phaedrus” 271b, “Prm.” 141d, 157b, 4th c.BC: Aristoteles Philosophus “Analytica Posteriora” 76b13, “Cael.” 310a20 ">Refs 5th c.BC+</a>]; <span class='asgreek'>τὰ</span> <span class='asgreek'>π</span>. <span class='asgreek'>τὰ</span> <span class='asgreek'>αἰσθητά</span>, of colour, etc., [<a href="javascript:void(0)" title=" [prev. author] “Sens.” 445b4. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.1.5]]
+<small><sub>LSJ Scripture Refs: [[2Cor.1.5|2Cor.1.5]]
 </sub></small>

@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>change</b>, <span class='asgreek'>νόη
 $\quad$ $\quad$<b>\_\_II</b> <i>middle</i>, <b>turn oneself round, turn round</b>, <span class='asgreek'>θάμβησεν</span> <span class='asgreek'>δ᾽</span> <span class='asgreek'>Ἀχιλεύς</span>, <span class='asgreek'>μετὰ</span> <span class='asgreek'>δ᾽</span> <span class='asgreek'>ἐτράπετ᾽</span> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 1.199, etc. ">Refs 8th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>middle</i> with <i>aorist 2</i> <i>passive</i> <span class='asgreek'>μετετράπην</span>, <b>look back to, care for, show regard for</b>, with <i>genitive</i>, <span class='asgreek'>Τρώων</span>, <span class='asgreek'>τῶν</span> <span class='asgreek'>οὔ</span> <span class='asgreek'>τι</span> <span class='asgreek'>μετατρέπῃ</span> <span class='asgreek'>οὐδ᾽</span> <span class='asgreek'>ἀλεγίζεις</span> [<a href="javascript:void(0)" title=" 1.160, compare 12.238; σχέτλιος, οὐδὲ μετατρέπεται φιλότητος 9.630: with \_accusative\_, οὐ μετετράπη τὸν λογισμόν LXX.4Mac.7.12.—Not in Prose before Aristeas. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jas.4.9]]
+<small><sub>LSJ Scripture Refs: [[Jas.4.9|Jas.4.9]]
 </sub></small>

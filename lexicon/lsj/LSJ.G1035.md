@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>eating</b>, <span class='asgreek'>παίδων<
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>taste, flavour</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Nicander Epicus “Alexipharmaca” 377. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>corrosion, rust,</b> [<a href="javascript:void(0)" title="NT.Matt.6.19">NT</a>]; <b>decay</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 6.422 (\_plural\_), 12.879. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.6.19]]
+<small><sub>LSJ Scripture Refs: [[Matt.6.19|Matt.6.19]]
 </sub></small>

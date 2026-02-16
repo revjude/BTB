@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>liken, compare,</b> in <i>middle</i>, <span class='asgreek'>τὰς</span> <span class='asgreek'>πάθας</span> <span class='asgreek'>τὰς</span> <span class='asgreek'>Κύρου</span> <span class='asgreek'>τῇσι</span> <span class='asgreek'>ἑωυτοῦ</span> -<span class='asgreek'>ούμενος</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.123:">Refs 5th c.BC+</a>] —later in <i>active</i>, <span class='asgreek'>τίνι</span> <span class='asgreek'>==ὁμοιόω==ώσω</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>γενεὰν</span> <span class='asgreek'>ταύτη</span>; [<a href="javascript:void(0)" title=" NT.Matt.11.16; ἡ πόλις τινὰ Λυκούργῳ κατὰ τὸ ἦθος καὶ τὴν πρᾶξιν ==ὁμοιόω==οῦσα “BSA” 29.35 (Sparta, 4th c.AD). ">NT+4th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>to be like,</b> interpolated in [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 3.45. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.11.16]]
+<small><sub>LSJ Scripture Refs: [[Matt.11.16|Matt.11.16]]
 </sub></small>

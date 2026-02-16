@@ -25,5 +25,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.9</b> Milit., <b>manoeuvre, movement</b>, [<a h
 $\quad$ $\quad$ $\quad$<b>\_\_II.10</b> in Law, = Latin <i>actio,</i> [<a href="javascript:void(0)" title=" 4th-6th c.AD: Codex Justinianus 4.24.1, +others ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>tempo</b>, in music, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 400c (\_plural\_), 4th c.BC: Aristoxenus Musicus “Harmonica” p.34 M., 3rd c.AD(?): Aristides Quintilianus Musicus 1.19">Refs 5th c.BC+</a>]; <b>sequence</b>, of a melody, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoxenus Musicus “Harmonica” p.29 M.">Refs 4th c.BC+</a>]; musical <b>style</b>, [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 14.1.41, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.1141c.">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Tim.3.10]]
+<small><sub>LSJ Scripture Refs: [[2Tim.3.10|2Tim.3.10]]
 </sub></small>

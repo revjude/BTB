@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> later, <b>quarrel, dispute,</b> [<a href="javascript:void(0)" title=" PPetr. 2p.56(3rd c.BC), “PGrenf.” 1.38.8 (2nd-1st c.BC), NT.Heb.12.3, etc. ">NT+3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>right, claim,</b> <span class='asgreek'>τοῦ</span> <span class='asgreek'>αὐτοῦ</span> <span class='asgreek'>λάκκου</span>[<a href="javascript:void(0)" title=" “POxy.” 1892 (6th c.AD).">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.12.3]]
+<small><sub>LSJ Scripture Refs: [[Heb.12.3|Heb.12.3]]
 </sub></small>

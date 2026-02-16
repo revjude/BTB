@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>act of dressing</b>, <span class='asgr
 $\quad$ $\quad$<b>\_\_III</b> (<span class='asgreek'>στέλλω</span> IV) <b>check to motion, pressure</b>, <span class='asgreek'>τοῦ</span> <span class='asgreek'>ἀέρος</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Epicurus Philosophus “De rerum natura - Wien. Stud.” 11.11, compare 14.4. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>reduction, diminution</b>, <span class='asgreek'>τῶν</span> <span class='asgreek'>σιτίων</span> [<a href="javascript:void(0)" title=" 1st c.AD: Herodotus Medicus cited in 6th c.AD: Aëtius Medicus 5.129. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.12.38]]
+<small><sub>LSJ Scripture Refs: [[Mark.12.38|Mark.12.38]]
 </sub></small>

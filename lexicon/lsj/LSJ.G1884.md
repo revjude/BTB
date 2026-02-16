@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>supply, furnish,</b> <span class='asgreek'>ἄκ
 $\quad$ $\quad$<b>\_\_III</b> <i>absolutely</i>, <b>to be sufficient, enough,</b> <span class='asgreek'>ὅσσον</span> <span class='asgreek'>==ἐπαρκέω==εῖ</span> [<a href="javascript:void(0)" title=" 6th c.BC: Solon Lyricus 5.1 (variant{ἀπαρκεῖ})">Refs 6th c.BC+</a>]; <span class='asgreek'>==ἐπαρκέω==έσει</span> <span class='asgreek'>νόμος</span> <span class='asgreek'>ὅδ᾽</span> this law <b>shall prevail,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Antigone” 612 (Lyric poetry). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>stand to the credit of,</b> with <i>dative</i>, <span class='asgreek'>γενεᾷ</span> [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “N.” 6.60. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Tim.5.10]]
+<small><sub>LSJ Scripture Refs: [[1Tim.5.10|1Tim.5.10]]
 </sub></small>

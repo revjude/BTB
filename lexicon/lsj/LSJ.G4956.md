@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_III</b> -<span class='asgreek'>κόν</span>, <span class
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> = <b>minervalicium</b> (probably <b>teacher's fee</b>), [<a href="javascript:void(0)" title=" “Corpus Glossariorum Latinorum” ">Refs</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>productive</b>, <span class='asgreek'>ὑπὸ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>φλεγμονῆς</span> <span class='asgreek'>ταρασσομένην</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>καρδίαν</span> <span class='asgreek'>τοῦδε</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>πάθους</span> <span class='asgreek'>συστατικὴν</span> <span class='asgreek'>γίνεσθαι</span> [<a href="javascript:void(0)" title=" 1st c.AD: Herodotus Medicus in “Rh.Mus.” 58.70. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.3.1]]
+<small><sub>LSJ Scripture Refs: [[2Cor.3.1|2Cor.3.1]]
 </sub></small>

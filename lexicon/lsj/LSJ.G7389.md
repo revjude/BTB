@@ -5,3 +5,6 @@
 
  <b>covering, wrapper, garment</b>, [<a href="javascript:void(0)" title=" LXX.Ezek.13.18, 21, Herod.">LXX</a>]<i>middle</i> in [<a href="javascript:void(0)" title="“Rh.Mus.” 58.100, 3rd-2nd c.BC: Aristophanes Byzantinus Philosophus “Epit.” 9.10. ">Refs 3rd c.BC+</a>]
 
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.13.18|LXX.Ezek.13.18]]
+</sub></small>

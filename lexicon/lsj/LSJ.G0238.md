@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>absolutely</i>, <b>speak figuratively</b> or <b>metaphorically</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Demetrius Phalereus Rhetor “Demetrius on Style” 151, 285">Refs 4th c.BC+</a>]; <b>speak allegorically</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “AJProoem.” ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gal.4.24]]
+<small><sub>LSJ Scripture Refs: [[Gal.4.24|Gal.4.24]]
 </sub></small>

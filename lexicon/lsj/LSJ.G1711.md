@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>a trade</b> or <b>business,</b> [<a href=
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>errand, business</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hyps.fragment” 5.11 (\_anapaest meter\_), 2nd c.AD: Lucianus Sophista “Scyth.” 4 ">Refs 5th c.BC+</a>]; <b>journeying</b>, <span class='asgreek'>πενία</span> <span class='asgreek'>ἀζημίωτος</span> <span class='asgreek'>ἐ</span>. [<a href="javascript:void(0)" title=" 2nd c.AD: Secundus Gnomologus “Sententiae - FPG” 10. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>merchandise</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “de Vectigalibus” 3.2, “Anthologia Graeca” 7.500 (3rd c.BC: Asclepiades Epigrammaticus); αὑτοῦ τὴν ἐ. ἔφασκεν εἶναι 5th c.BC: Lysias Orator 32.25 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>τῇ</span> <span class='asgreek'>==ἐμπορία==ίᾳ</span> <span class='asgreek'>ἢν</span> <span class='asgreek'>ἦγεν</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>τῇ</span>.. <span class='asgreek'>νηΐ</span> Test. cited in [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 35.23. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.22.5]]
+<small><sub>LSJ Scripture Refs: [[Matt.22.5|Matt.22.5]]
 </sub></small>

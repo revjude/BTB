@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>look about for</b>, <span class='asgre
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>admire, respect</b>, <span class='asgreek'>τοὔνδικον</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Oedipus Coloneus” 996 (unless in signification 11.3)">Refs 5th c.BC+</a>]:—<i>passive</i>, <span class='asgreek'>==περιβλέπω==βλέπεσθαι</span> <span class='asgreek'>τίμιον</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Phoenissae” 551, compare 2nd-3rd c.AD: Philostratus Sophista “Heroicus” 15. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <i>middle</i>, <b>look up, consult</b>, <span class='asgreek'>βίβλους</span> [<a href="javascript:void(0)" title=" 3rd-4th c.AD: Zosimus Alchemista p.138 5th c.BC: Bacchylides Lyricus ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.3.5]]
+<small><sub>LSJ Scripture Refs: [[Mark.3.5|Mark.3.5]]
 </sub></small>

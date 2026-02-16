@@ -15,5 +15,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> literary <b>execution,</b> [<a href="java
 $\quad$ $\quad$ $\quad$<b>\_\_II.7</b> <b>production</b> of a play, [<a href="javascript:void(0)" title=" Arg. 4th-3rd c.BC: Menander Comicus “Oxy.” 1235.108. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>guild</b> or <b>company</b> of workmen, <span class='asgreek'>ἡ</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>βαφέων</span>[<a href="javascript:void(0)" title=" Judeich “Altertümer von Hierapolis” 50 ">Refs</a>]; <span class='asgreek'>ἐριοπλυτῶν</span> [<a href="javascript:void(0)" title="[prev. work] 40; ἐ. θρεμματική uncertain meaning, [prev. work]227. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.12.58]]
+<small><sub>LSJ Scripture Refs: [[Luke.12.58|Luke.12.58]]
 </sub></small>

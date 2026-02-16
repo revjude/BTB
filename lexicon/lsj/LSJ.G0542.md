@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>look away from,</b> and so, <b>despise,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.1070f (uncertain reading). (In later Greek ἀφ-, ἀφίδω NT.Phil.2.23.)">NT+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Phil.2.23]]
+<small><sub>LSJ Scripture Refs: [[Phil.2.23|Phil.2.23]]
 </sub></small>

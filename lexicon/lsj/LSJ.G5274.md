@@ -19,5 +19,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> <b>take away, remove,</b> <b>seize,</b> <
 $\quad$ $\quad$ $\quad$<b>\_\_IV.3</b> <b>receive,</b> <span class='asgreek'>ἀποτίσει</span>.. <span class='asgreek'>ὃ</span> <span class='asgreek'>ὑπείληφεν</span>.. <span class='asgreek'>ἀργυρικὸν</span> <span class='asgreek'>κεφάλαιον</span> Mitteis [<a href="javascript:void(0)" title=" “Chr.” 220.21 (1st c.AD),compare “BGU” 709.19 (2nd c.AD). ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_V</b> <span class='asgreek'>ὑ</span>. <span class='asgreek'>ἵππον</span>, as a term of horsemanship, <b>hold up</b> the horse, <b>check</b> him in his course, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “de Equitandi ratione” 7.15, 9.5. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.1.9]]
+<small><sub>LSJ Scripture Refs: [[Acts.1.9|Acts.1.9]]
 </sub></small>

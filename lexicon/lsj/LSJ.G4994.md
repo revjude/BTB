@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> of passions, things, etc., <span class='asgreek'>σ</span>. <span class='asgreek'>τὸ</span> <span class='asgreek'>θυμούμενον</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>γνώμης</span> [<a href="javascript:void(0)" title=" 5th c.BC: Antipho Orator 2.3.3 ">Refs 5th c.BC+</a>]; <span class='asgreek'>οὐ</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>λαγνείαν</span> <span class='asgreek'>λιμῷ</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Memorabilia” 2.1.16 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἀμπνοὰς</span> <span class='asgreek'>σ</span>. to pant less violently, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hercules Furens” 869 (troch.)">Refs 5th c.BC+</a>]; <span class='asgreek'>τῶν</span> <span class='asgreek'>κατὰ</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>πόλιν</span> <span class='asgreek'>τι</span> <span class='asgreek'>ἐς</span> <span class='asgreek'>εὐτέλειαν</span> <span class='asgreek'>σ</span>. to reduce the expenses of government at home, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 8.1. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Titus.2.4]]
+<small><sub>LSJ Scripture Refs: [[Titus.2.4|Titus.2.4]]
 </sub></small>

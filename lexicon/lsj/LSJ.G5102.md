@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>tattoo-mark</b>, [<a href="javascript:void(0)" title="Scholia 2nd c.AD: Hermogenes Rhetor in Rhetores Graeci 7(1).676 W. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>title, section</b>, [<a href="javascript:void(0)" title=" 6th c.AD: Justinianus Imperator “Novellae” 29.4. ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.19.20]]
+<small><sub>LSJ Scripture Refs: [[John.19.20|John.19.20]]
 </sub></small>

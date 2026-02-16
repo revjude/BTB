@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>inquiry, question</b>, [<a href="javascript:void
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>official</b> or <b>judicial inquiry,</b> [<a href="javascript:void(0)" title=" POxy. 97.14 (2nd c.AD). ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> in <i>plural</i>, <b>claims,</b> [<a href="javascript:void(0)" title=" PRyl. 117.14 (3rd c.AD)">Refs 3rd c.AD+</a>]; <b>subjects of dispute</b>, [<a href="javascript:void(0)" title=" “SIG” 785.8 (1st c.AD), NT.Acts.25.19. ">NT+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.15.2]] ☩ [[Acts.25.19]]
+<small><sub>LSJ Scripture Refs: [[Acts.15.2|Acts.15.2]] ☩ [[Acts.25.19|Acts.25.19]]
 </sub></small>

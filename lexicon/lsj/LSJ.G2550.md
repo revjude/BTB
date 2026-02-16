@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>bad manners</b> or <b>habits</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Cynegeticus” 13.16. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> in Medicine texts, <b>malignant character</b>, <span class='asgreek'>τῆς</span> <span class='asgreek'>νόσου</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Epicurus Philosophus “Fragmenta” 471 ">Refs 4th c.BC+</a>]: in <i>plural</i>, <b>malignant diseases</b> or <b>growths</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 3.92 (variant for{τὰ -ήθη}). ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.1.29]]
+<small><sub>LSJ Scripture Refs: [[Rom.1.29|Rom.1.29]]
 </sub></small>

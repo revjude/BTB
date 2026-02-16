@@ -18,5 +18,5 @@ $\quad$ $\quad$<b>\_\_III</b> <i>passive</i>, <b>to be filled, be full of</b>, <
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>to be filled, satisfied, have enough of</b> a thing, <span class='asgreek'>αἱμάτων</span> <span class='asgreek'>γένυσιν</span> <span class='asgreek'>πλησθῆναι</span> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Antigone” 121 ">Refs 5th c.BC+</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>τῆς</span> <span class='asgreek'>νόσου</span> <span class='asgreek'>ξυνουσίᾳ</span> <b>to be wearied of it by</b> being with it, [<a href="javascript:void(0)" title=" [prev. author] “Ph.” 520; ἡδονῶν 5th-6th c.BC: Plato Philosophus “Respublica” 442a, etc. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> of females, <b>become pregnant</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 576b29, 578b32 ">Refs 4th c.BC+</a>]. (Cf. Sanskrit<i>piparti</i> 'fill', <b>pūrṇá</b>-, Latin <i>plenus</i>, Gothic <i>fulls</i>, etc. 'full'.)
 
-<small><sub>LSJ Scripture Refs: [[Luke.1.15]]
+<small><sub>LSJ Scripture Refs: [[Luke.1.15|Luke.1.15]]
 </sub></small>

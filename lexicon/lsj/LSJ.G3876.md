@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>misunderstanding</b>, [<a href="javascrip
 $\quad$ $\quad$<b>\_\_II</b> <b>defect of hearing</b>, [<a href="javascript:void(0)" title=" [prev. author] 7.108. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>unwillingness to hear, disobedience, contumacy,</b> [<a href="javascript:void(0)" title="NT.Rom.5.19, NT.2Cor.10.6. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.5.19]] ☩ [[2Cor.10.6]]
+<small><sub>LSJ Scripture Refs: [[Rom.5.19|Rom.5.19]] ☩ [[2Cor.10.6|2Cor.10.6]]
 </sub></small>

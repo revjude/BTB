@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>unsparing treatment,</b> <span class='asgreek'>σώματος</span>[<a href="javascript:void(0)" title=" NT.Col.2.23.">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Col.2.23]]
+<small><sub>LSJ Scripture Refs: [[Col.2.23|Col.2.23]]
 </sub></small>

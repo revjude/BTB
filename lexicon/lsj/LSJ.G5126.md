@@ -58,5 +58,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_C.VIII.6</b> <span class='asgreek'>ἐν</span> <s
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_C.VIII.6.b</b> <b>in the meantime</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.126, 5th c.BC: Thucydides Historicus 3.72, 5th-6th c.BC: Xenophon Historicus “Memorabilia” 2.1.27. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_C.VIII.7</b> <span class='asgreek'>πρὸς</span> <span class='asgreek'>τούτοις</span> (-<span class='asgreek'>οισι</span>) <b>besides</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 2.51, 5th-6th c.BC: Plato Philosophus “Protagoras” 326a, 5th-6th c.BC: Xenophon Historicus “Memorabilia” 2.4.4, 5th-6th c.BC: Aristophanes Comicus “Plutus” 540. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.2.2]]
+<small><sub>LSJ Scripture Refs: [[Luke.2.2|Luke.2.2]]
 </sub></small>

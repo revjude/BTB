@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>σίνηπι</span> <span class='asgreek'>ἄγριον</span> or <span class='asgreek'>Περσικόν</span>,= <span class='asgreek'>θλάσπι</span>, Ps.-[<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 2.156. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>σ</span>. <span class='asgreek'>κηπαῖον</span>, <b>Brassica nigra</b>, [<a href="javascript:void(0)" title="[prev. work]154. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.13.31]]
+<small><sub>LSJ Scripture Refs: [[Matt.13.31|Matt.13.31]]
 </sub></small>

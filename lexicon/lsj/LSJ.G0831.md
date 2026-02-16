@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>commit a murder,</b> [<a href="javascript:void(0)" title="Scholia 4th-5th c.BC: Aeschylus Tragicus “Eumenides” 42.">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Titus.2.12]]
+<small><sub>LSJ Scripture Refs: [[Titus.2.12|Titus.2.12]]
 </sub></small>

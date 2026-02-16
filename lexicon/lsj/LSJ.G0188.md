@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>ἀκμαίως</span>}, [<a href="javascript:void(0)" title="Cratin.in  “Codex Vat.Gr.” 122">Refs</a>]: perhaps, = <b>much</b>, [<a href="javascript:void(0)" title=" “OGI” 201.13 (from Nubia).">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.15.16]]
+<small><sub>LSJ Scripture Refs: [[Matt.15.16|Matt.15.16]]
 </sub></small>

@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>wash out</b>, <span class='asgreek'>τ
 $\quad$ $\quad$<b>\_\_III</b> <b>fill full of water</b>, <span class='asgreek'>τὴν</span> <span class='asgreek'>πύελον</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Pax” 843. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>clean out</b> a bath, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 15.198. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Pet.3.6]]
+<small><sub>LSJ Scripture Refs: [[2Pet.3.6|2Pet.3.6]]
 </sub></small>

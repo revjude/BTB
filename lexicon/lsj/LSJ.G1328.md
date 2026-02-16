@@ -5,5 +5,5 @@
  <b>interpreter,</b> see reading in [<a href="javascript:void(0)" title=" NT.1Cor.14.28. ">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[1Cor.14.28]]
+<small><sub>LSJ Scripture Refs: [[1Cor.14.28|1Cor.14.28]]
 </sub></small>

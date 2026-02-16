@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>appeal</b> to, <span class='asgreek'>�
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>lay hold of</b>, <span class='asgreek'>τυραννίδος</span> [<a href="javascript:void(0)" title=" 6th c.BC: Solon Lyricus 32.3; βρέφεος χείρεσσι 3rd c.BC: Theocritus Poeta Bucolicus 17.65 ">Refs 6th c.BC+</a>]; <span class='asgreek'>τῆς</span> <span class='asgreek'>θαλάσσης</span> <b>take to</b> the sea, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “Vita Apollonii” 3.23 ">Refs 2nd c.AD+</a>]: <i>active</i>, <span class='asgreek'>==καθάπτω==ν</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>τραχήλου</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 3.20.10 (compare 1.3). ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> <b>to be sensitive in respect of</b>, <span class='asgreek'>ψόφου</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “προρρητικόν” 1.16. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.28.3]]
+<small><sub>LSJ Scripture Refs: [[Acts.28.3|Acts.28.3]]
 </sub></small>

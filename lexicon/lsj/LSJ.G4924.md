@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.b</b> reversely, with the thing as subje
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.c</b> Astrology texts, <b>share the same domicile</b>, <span class='asgreek'>ὅταν</span> <span class='asgreek'>ἡ</span> <span class='asgreek'>Παφίη</span> <span class='asgreek'>Ἑρμῇ</span> <span class='asgreek'>στείχουσα</span> <span class='asgreek'>==συνοικέω==ῇ</span> [<a href="javascript:void(0)" title=" 4th c.AD(?): Manetho Astrologus 5.165. ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> with <i>accusative</i> loci, <b>people</b> or <b>colonize jointly with</b>, <span class='asgreek'>σ</span>. <span class='asgreek'>Κυρηναίοισι</span> <span class='asgreek'>Λιβύην</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 4.159; Τροιζηνίοις Ἀχαιοὶ συνῴκησαν Σύβαριν 4th c.BC: Aristoteles Philosophus “Politica” 1303a29 ">Refs 5th c.BC+</a>]:—<i>passive</i>, of a place, <b>to be thickly peopled</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Oeconomicus” 4.8, 5th-6th c.BC: Plato Philosophus “Critias” 117e, 1st c.BC-1st c.AD: Strabo Geographus 6.2.4, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Numa” 15, etc. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Pet.3.7]]
+<small><sub>LSJ Scripture Refs: [[1Pet.3.7|1Pet.3.7]]
 </sub></small>

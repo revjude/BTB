@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_7.b</b> <i>metaphorically</i>, <span class
 $\quad$ $\quad$ $\quad$<b>\_\_8</b> <b>hinder, bring to a stop,</b> [<a href="javascript:void(0)" title=" PAlex. 4.1 (3rd c.BC), 2nd c.AD: Vettius Valens Astrologus 268.6. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>pause, come to a stop,</b> [<a href="javascript:void(0)" title=" [prev. author] 260.24. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.5.30]]
+<small><sub>LSJ Scripture Refs: [[Matt.5.30|Matt.5.30]]
 </sub></small>

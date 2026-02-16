@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> with <i>genitive</i>, <b>abstain from,</b> <span class='asgreek'>κακότητος</span> [<a href="javascript:void(0)" title=" 5th c.BC: Empedocles Poeta Philosophus 144. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.6.16]]
+<small><sub>LSJ Scripture Refs: [[Matt.6.16|Matt.6.16]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, <span class='asgreek'>τοὺς</sp
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>metaphorically</i>, <b>to be led away likewise,</b> [<a href="javascript:void(0)" title="NT.Gal.2.13, NT.2Pet.3.17. ">NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> ={<span class='asgreek'>συμπεριφέρομαι</span>} (<span class='asgreek'>συμπεριφέρω</span> [<a href="javascript:void(0)" title=" 11.3), NT.Rom.12.16. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gal.2.13]] ☩ [[2Pet.3.17]] ☩ [[Rom.12.16]]
+<small><sub>LSJ Scripture Refs: [[Gal.2.13|Gal.2.13]] ☩ [[2Pet.3.17|2Pet.3.17]] ☩ [[Rom.12.16|Rom.12.16]]
 </sub></small>

@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>==τετράπους=
 $\quad$ $\quad$<b>\_\_II</b> of things, <span class='asgreek'>δίφρος</span> <span class='asgreek'>τ</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Eupolis Comicus 58, “POxy.” 646 (2nd c.AD).compare 5th c.BC: Epicharmus Comicus 149. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>of four feet</b> in length or area, [<a href="javascript:void(0)" title=" “IG” 12.372.10, +others, 5th-6th c.BC: Plato Philosophus “Meno” 83b; πάχος ποήσει τὸ στρῶμα ==τετράπους==πουν “IG” 22.1668.14. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.10.12]]
+<small><sub>LSJ Scripture Refs: [[Acts.10.12|Acts.10.12]]
 </sub></small>

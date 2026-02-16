@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>recorder</b>, of m
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>scholar</b>, <span class='asgreek'>γ</span>. <span class='asgreek'>σαφής</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Fragmenta - American Journal of Philology” 358 (assuming variant). ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>one who traces</b> or <b>marks out</b>, of Egyptian embalmers, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 1.91. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.19.35]]
+<small><sub>LSJ Scripture Refs: [[Acts.19.35|Acts.19.35]]
 </sub></small>

@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>projecting, salient,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus 1.68 ">Refs 2nd c.AD+</a>]; opposed to <span class='asgreek'>κρυπτός</span>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Heliodorus Medicus (?)cited in 4th c.AD: Oribasius Medicus 49.4.23. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.b</b> <i>neuter</i>, <span class='asgreek'>==ἔκθετος==θετον</span>, <span class='asgreek'>τό</span>, ={<span class='asgreek'>ἐκθέτης</span>}, Al.[<a href="javascript:void(0)" title=" LXX.Ezek.42.3. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.7.19]]
+<small><sub>LSJ Scripture Refs: [[Acts.7.19|Acts.7.19]] ☩ [[LXX.Ezek.42.3|LXX.Ezek.42.3]]
 </sub></small>

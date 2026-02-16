@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> generally, <b>paramour</b>, of a sodomite, [<a href="javascript:void(0)" title=" “POxy.” 1160.26 (3rd-4th c.AD). (Cf. ὀμείχω.) ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>idolatrous person,</b> [<a href="javascript:void(0)" title="NT.Jas.4.4. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jas.4.4]]
+<small><sub>LSJ Scripture Refs: [[Jas.4.4|Jas.4.4]]
 </sub></small>

@@ -15,5 +15,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_7</b> Rhet., <b>round</b> a period, etc., <span cl
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>come round</b>, <span class='asgreek'>πάλιν</span> <span class='asgreek'>κύκλῳ</span> <span class='asgreek'>π</span>. <span class='asgreek'>εἰς</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>ἀρχήν</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Meteorologica” 356a8; περιφερομένης καὶ περιαγούσης 4th-3rd c.BC: Epicurus Philosophus “De rerum natura - Wien. Stud.” 11.2. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> with <i>accusative</i> loci, <b>go round</b>, <span class='asgreek'>π</span>. <span class='asgreek'>τὴν</span> <span class='asgreek'>ἐσχατιάν</span> [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 42.5; π. τὰς πόλεις NT.Matt.9.35, compare 4.23, etc. ">NT+4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.9.35]]
+<small><sub>LSJ Scripture Refs: [[Matt.9.35|Matt.9.35]]
 </sub></small>

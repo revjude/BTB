@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>swim</b>, <span class='asgreek'>τοὺς</span> <span class='asgreek'>δυναμένους</span> <span class='asgreek'>==κολυμβάω==ᾶν</span> [<a href="javascript:void(0)" title=" NT.Acts.27.43, compare “Hippiatrica” 26. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.27.43]]
+<small><sub>LSJ Scripture Refs: [[Acts.27.43|Acts.27.43]]
 </sub></small>

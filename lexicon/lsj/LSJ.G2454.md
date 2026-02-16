@@ -5,5 +5,5 @@
  Judaism”, [<a href="javascript:void(0)" title=" LXX.2Mac.2.21, NT.Gal.1.13 ">LXX+NT</a>]:
 
 
-<small><sub>LSJ Scripture Refs: [[Gal.1.13]]
+<small><sub>LSJ Scripture Refs: [[Gal.1.13|Gal.1.13]]
 </sub></small>

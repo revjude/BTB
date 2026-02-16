@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> generally, <b>captain, commander</b>, [<a hr
 $\quad$ $\quad$<b>\_\_II</b> at Athens, <b>one who rented and sub-let tenement-houses</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Sannyrio Comicus 6, 4th c.BC: Hyperides Orator “Fragmenta” 37, 4th-3rd c.BC: Diphilus Comicus 37, compare 5th c.AD(?): Hesychius Legal icographus, 2nd c.AD(?): Pollianus Epigrammaticus 1.75. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> ={<span class='asgreek'>ναύκραρος</span>}, [<a href="javascript:void(0)" title=" [prev. author] 8.108 (assuming variant)">Refs</a>]; compare <span class='asgreek'>ναύκλαρος</span>.
 
-<small><sub>LSJ Scripture Refs: [[Acts.27.11]]
+<small><sub>LSJ Scripture Refs: [[Acts.27.11|Acts.27.11]]
 </sub></small>

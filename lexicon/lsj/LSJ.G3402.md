@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>artist</b> [<a href="javascript:void(0)" title="compare (μίμησις 11), 5th-6th c.BC: Plato Philosophus “Respublica” 602a, +others">Refs 5th c.BC+</a>]; especially <b>one who impersonates</b> characters, as an actor or poet, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Problemata” 918b28, “Po.” 1460a8. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> coupled with <span class='asgreek'>γόης</span>, <b>mere actor, impostor</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 598d, compare “Plt.” 303c, “Sph.” 235a. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.4.16]]
+<small><sub>LSJ Scripture Refs: [[1Cor.4.16|1Cor.4.16]]
 </sub></small>

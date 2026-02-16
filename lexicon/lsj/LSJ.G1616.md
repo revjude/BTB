@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>abundance,</b> <span class='asgreek'>ξύλων</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Herodianus Grammaticus 7.2.4, compare 8.2.6. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>extension,</b> [<a href="javascript:void(0)" title=" 5th-6th c.AD: Damascius Philosophus “de Principiis” 65. ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.26.7]]
+<small><sub>LSJ Scripture Refs: [[Acts.26.7|Acts.26.7]]
 </sub></small>

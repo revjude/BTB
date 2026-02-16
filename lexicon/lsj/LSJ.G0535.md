@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>rounding off,</b> <span class='asgreek'>βαλάνου</span>[<a href="javascript:void(0)" title=" 2nd c.AD: Antyllus Medicus cited in 4th c.AD: Oribasius Medicus 50.3.1.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.14.28]]
+<small><sub>LSJ Scripture Refs: [[Luke.14.28|Luke.14.28]]
 </sub></small>

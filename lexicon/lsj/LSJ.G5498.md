@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>note of hand, bond,</b> [<a href="javascript:void(0)" title=" PRein. 7.22 (2nd c.BC), 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.829a, etc.">Refs 2nd c.BC+</a>]; also <b><span class='asgreek'>==χειρόγραφος==ος</span></b>, <span class='asgreek'>ὁ</span>, [<a href="javascript:void(0)" title=" “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 4629 (from Syria). ">Refs</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>paroxytone</i>, <span class='asgreek'>χειρογράφος</span> [<span class='asgreek'>ᾰ</span>], <span class='asgreek'>ὁ</span>, <b>clerk, amanuensis,</b> [<a href="javascript:void(0)" title=" PTeb. 209 (1st c.BC). ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Col.2.14]]
+<small><sub>LSJ Scripture Refs: [[Col.2.14|Col.2.14]]
 </sub></small>

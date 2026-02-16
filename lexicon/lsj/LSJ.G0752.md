@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>master of a guild</b> or <b>company,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae ad res Romanas pertinentes 1.782 (from Thrace), etc.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.5.22]]
+<small><sub>LSJ Scripture Refs: [[Mark.5.22|Mark.5.22]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>easy to execute</b>, <span class='asgreek'>διίππευσις</span> [<a href="javascript:void(0)" title="[prev. work] 18.4. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Tim.2.21]]
+<small><sub>LSJ Scripture Refs: [[2Tim.2.21|2Tim.2.21]]
 </sub></small>

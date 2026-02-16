@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> [<a href="javascript:void(0)" title=" 8th c.BC: Hom
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> of things, <b>turn out unfavourably</b> to one, <span class='asgreek'>ἀντιστάντος</span> <span class='asgreek'>αὐτῷ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>πράγματος</span>[<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 5.4, compare 38; ἄν τὰ παρ᾽ ὑμῶν τῶν ἀκουόντων ἀντιστῇ 4th c.BC: Demosthenes Orator 19.340. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <i>absolutely</i>, <b>make a stand,</b> <span class='asgreek'>ἀλλ᾽</span> <span class='asgreek'>ἔτ᾽</span> <span class='asgreek'>ἄρ᾽</span> <span class='asgreek'>==ἀνθίστημι==ίσταντο</span>[<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 16.305">Refs 8th c.BC+</a>]; <b>resist, fight on,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 5.72, etc.; ὑπέρ τινος 5th c.BC: Sophocles Tragicus “Ajax” 1231, “Ant.” 518.">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.9.19]]
+<small><sub>LSJ Scripture Refs: [[Rom.9.19|Rom.9.19]]
 </sub></small>

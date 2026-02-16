@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>recline</b> at meals, like{<span class='a
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_5.b</b> <b>take to one's bed</b> in sickness, [<a href="javascript:void(0)" title=" “PMag.Leid.V.” 11.1. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_6</b> <b>recoil,</b> of the arms of torsion-engines, [<a href="javascript:void(0)" title=" 2nd-1st c.BC(?): Hero Mechanicus “Belopoeica” 100.2.">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.6.40]]
+<small><sub>LSJ Scripture Refs: [[Mark.6.40|Mark.6.40]]
 </sub></small>

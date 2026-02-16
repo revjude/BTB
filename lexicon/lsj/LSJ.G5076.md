@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>a leader of four</b> <span class='asgreek'>λόχοι</span>, or 64 men, [<a href="javascript:void(0)" title=" “Rev.Arch.” 3 (1934).40 (Amphipolis, 3rd-2nd c.BC), 6(1935).31 ([prev. passage], 2nd c.BC), 1st c.BC: Asclepiodotus Tacticus “Tact.” 2.8, 2nd c.AD: Arrianus Historicus “Tactica” 10.1, 2nd-3rd c.AD: Aelianus “Tactica - Griechische Kriegsschriftsteller” 9.2. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.14.1]]
+<small><sub>LSJ Scripture Refs: [[Matt.14.1|Matt.14.1]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>hunt after, thirst for</b>, <span class='asgreek'>αἷμα</span>[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Bacchae” 138">Refs 5th c.BC+</a>]; <span class='asgreek'>σὰν</span> (i.e. <span class='asgreek'>Ἀρετᾶς</span>) <span class='asgreek'>ἀ</span>. <span class='asgreek'>δύναμιν</span>[<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Fragmenta” 675.11; ὕπνον “Anthologia Graeca” 7.196 (1st c.BC: Meleager Epigrammaticus), compare 12.125 (1st c.BC: Meleager Epigrammaticus)">Refs 4th c.BC+</a>]; but <span class='asgreek'>==ἀγρεύω==εύειν</span> <span class='asgreek'>τινὰ</span> <span class='asgreek'>λόγῳ</span> <b>to catch</b> by his words, [<a href="javascript:void(0)" title=" NT.Mark.12.13.">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.12.13]]
+<small><sub>LSJ Scripture Refs: [[Mark.12.13|Mark.12.13]]
 </sub></small>

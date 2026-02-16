@@ -7,3 +7,6 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>inequality</b>, <span class='asgreek'>σκολιότητα</span> <span class='asgreek'>ἔχειν</span> <b>to be unequally affected</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “Acut.” (“Sp.”) . ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> of men, <b>crookedness, dishonesty</b>, [<a href="javascript:void(0)" title=" LXX.Ezek.16.5. ">LXX</a>]
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.16.5|LXX.Ezek.16.5]]
+</sub></small>

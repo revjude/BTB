@@ -3,7 +3,7 @@
 <b> <span class='asgreek'>==κραταιότης==</span>-<span class='asgreek'>της</span></b>, <span class='asgreek'>ητος</span>, <span class='asgreek'>ἡ</span>, 
 
 
- ={<span class='asgreek'>κράτος</span>}, [<a href="javascript:void(0)" title=" LXX.Ps.45.3. ">LXX</a>]
+ ={<span class='asgreek'>κράτος</span>}, [<a href="javascript:void(0)" title=" LXX.Ps.45.3 ">LXX</a>]
 
 
 <small><sub>LSJ Scripture Refs: [[LXX.Ps.46.2|LXX.Ps.45.3]]**\***

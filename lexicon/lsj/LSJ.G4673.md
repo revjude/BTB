@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> as nickname of an old man or woman, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Vespae” 1365, 3rd c.BC: Macho Comicus cited in 2nd c.AD: Athenaeus Epigrammaticus 13.580c. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>αἱ</span> <span class='asgreek'>δημόσιαι</span> <span class='asgreek'>σ</span>. uncertain meaning in [<a href="javascript:void(0)" title=" “PLips.” 86.11 (4th c.AD). ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.7.14]]
+<small><sub>LSJ Scripture Refs: [[Luke.7.14|Luke.7.14]]
 </sub></small>

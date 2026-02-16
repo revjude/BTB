@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> <span class='asgreek'>τῷ</span> <span 
 $\quad$ <b>\_\_B</b> causal, in <i>aorist 1</i> <span class='asgreek'>ἀπέβησα</span>, <b>cause to dismount, disembark, land</b> (in which sense <span class='asgreek'>ἀποβιβάζω</span> serves as <i>present</i>), <span class='asgreek'>ἀ</span>. <span class='asgreek'>στρατιήν</span>[<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 5.63, 6.107; ἐς τὴν Ψυττάλειαν [prev. author] 8.95. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_B.II</b> hence, in <i>passive</i>, <span class='asgreek'>τὸ</span> <span class='asgreek'>ἀποβαινόμενον</span> <span class='asgreek'>σκέλος</span> a leg <b>put out so as not to bear the weight</b> of the body, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἄρθρων ἐμβολῆς” 52">Refs 5th c.BC+</a>]:—<i>active</i>, [<a href="javascript:void(0)" title=" [prev. author] “Mochl.” 20.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.21.13]]
+<small><sub>LSJ Scripture Refs: [[Luke.21.13|Luke.21.13]]
 </sub></small>

@@ -9,5 +9,5 @@ combination of: <small>**<big>[[G2955|κύπτω]]</big>** (**<big>[[G2596|κα
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>look down</b> from a window, [<a href="javascript:void(0)" title=" LXX.4Ki.9.32 ">LXX</a>]; <b>stoop down and look</b>, <span class='asgreek'>εἰς</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>βυθόν</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 2.16.22; κ. εἴσω τοῦ Χάσματος 2nd c.AD: Lucianus Sophista “DMort.” 21.1; κ. ἐς τὸ ἄστυ [prev. author] “Pisc.” 39, compare “Icar.” 15. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.8.8]]
+<small><sub>LSJ Scripture Refs: [[John.8.8|John.8.8]]
 </sub></small>

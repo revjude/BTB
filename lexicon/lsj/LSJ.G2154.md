@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <span class='asgreek'>==εὔσημος==
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> of garments, <b>with fine edging</b>, [<a href="javascript:void(0)" title=" “BGU” 1564.11 (2nd c.AD). ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>adverb</i> -<span class='asgreek'>μως</span> <b>clearly, distinctly</b>, <span class='asgreek'>ἔχειν</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Meteorologica” 363a27; μεμνῆσθαι 1st c.BC-1st c.AD: Strabo Geographus 10.2.23; προσανένεγκε “POxy.” 1188.5 (1st c.AD)">Refs 4th c.BC+</a>]: <i>superlative</i> -<span class='asgreek'>ότατα</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.1022a. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.14.9]]
+<small><sub>LSJ Scripture Refs: [[1Cor.14.9|1Cor.14.9]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> as <i>adjective</i>, <b>proconsular,</b> <span class='asgreek'>ἐξουσία</span>[<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 9.16; ἀρχή [prev. author] 11.62.">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.13.7]]
+<small><sub>LSJ Scripture Refs: [[Acts.13.7|Acts.13.7]]
 </sub></small>

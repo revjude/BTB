@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>charitable contribution, alms,</b> [<a href="ja
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>charitable disposition</b>, opposed to <span class='asgreek'>πλεονεξία</span>, [<a href="javascript:void(0)" title=" “Corpus Hermeticum” 13.9. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_IV</b> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Pythagoras Philosophus name for 2, “Theologumena Arithmeticae” 8. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.2.42]] ☩ [[2Cor.13.14]] ☩ [[Rom.15.26]] ☩ [[Heb.13.16]]
+<small><sub>LSJ Scripture Refs: [[Acts.2.42|Acts.2.42]] ☩ [[2Cor.13.14|2Cor.13.14]] ☩ [[Rom.15.26|Rom.15.26]] ☩ [[Heb.13.16|Heb.13.16]]
 </sub></small>

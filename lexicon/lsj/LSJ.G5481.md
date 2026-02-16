@@ -15,5 +15,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>style,</b> frequently in Rhet., <span 
 $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> <b>impress, image,</b> <span class='asgreek'>τῆς</span> <span class='asgreek'>ὑποστάσεως</span> [<span class='asgreek'>τοῦ</span> <span class='asgreek'>θεοῦ</span>] [<a href="javascript:void(0)" title=" NT.Heb.1.3">NT</a>]; <span class='asgreek'>πάθους</span>, <span class='asgreek'>ἀρετῆς</span>, [<a href="javascript:void(0)" title=" 3rd c.AD: Longinus Rhetor 22.1, 4th-5th c.AD: Eunapius Historicus “Fragmenta Historica - HGM” p.243 4th c.BC: Demosthenes Orator: \_absolutely\_, οἱ Σεβάστειοι χ.">Refs 4th c.BC+</a>] the imperial <b>seal,</b> i.e. the emperor himself, [<a href="javascript:void(0)" title=" “IG” 5(2).268.24 (Mantinea, 1st c.BC). ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.7</b> Grammars, <b>typical form,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Syntaxi;” 20.10, 103.23. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.1.3]]
+<small><sub>LSJ Scripture Refs: [[Heb.1.3|Heb.1.3]]
 </sub></small>

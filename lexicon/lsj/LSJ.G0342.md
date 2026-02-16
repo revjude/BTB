@@ -5,5 +5,5 @@
  ={<span class='asgreek'>==ἀνακαίνωσις==ισις</span>}, [<a href="javascript:void(0)" title=" NT.Rom.12.2, “Tit.” 3.5.">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Rom.12.2]]
+<small><sub>LSJ Scripture Refs: [[Rom.12.2|Rom.12.2]]
 </sub></small>

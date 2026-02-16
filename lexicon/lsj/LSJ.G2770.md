@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>absolutely</i>, <b>make profit, gain adva
 $\quad$ $\quad$<b>\_\_II</b> in bad sense, <b>reap</b> disadvantage from a thing, <span class='asgreek'>διπλᾶ</span> <span class='asgreek'>δάκρυα</span> <span class='asgreek'>κ</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Hecuba” 518; ==κερδαίνω==ᾶναι τὸν πολὺ χείρω βίον ἀντὶ θανάτου 5th-6th c.BC: Xenophon Historicus “Apologia Socratis” 9. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>save</b> or <b>spare oneself, avoid</b>, <span class='asgreek'>μεγάλα</span> <span class='asgreek'>κακά</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Philemo Comicus 92.10; ὕβριν NT.Acts.27.21; τὸ μὴ μιανθῆναι τὰς χεῖρας 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 2.3.2; ἐνόχλησιν 3rd c.AD(?): Diogenes Laertius 7.14, compare 4th c.AD: Himerius Sophista “Orationes” 2.26, “Anthologia Graeca” 10.59 (6th c.AD: Palladas Epigrammaticus). ">NT+4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jas.4.13]] ☩ [[Acts.27.21]]
+<small><sub>LSJ Scripture Refs: [[Jas.4.13|Jas.4.13]] ☩ [[Acts.27.21|Acts.27.21]]
 </sub></small>

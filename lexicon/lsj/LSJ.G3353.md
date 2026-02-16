@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>member of a board</b> of officials, fr
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>joint owner</b> of a house, [<a href="javascript:void(0)" title=" “CPHerm.” 119 A iv 20 (3rd c.AD). ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>θεῶν</span> <span class='asgreek'>μέτοχοι</span>, of the demigods, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Fragmenta” 640.20, compare “IG” 14.2117 (from Rome). ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.5.7]]
+<small><sub>LSJ Scripture Refs: [[Luke.5.7|Luke.5.7]]
 </sub></small>

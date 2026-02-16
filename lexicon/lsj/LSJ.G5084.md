@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>vigilance</b>, [<a href="javascript:void(
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>means of keeping</b> or <b>guarding</b>, <span class='asgreek'>τὰς</span> <span class='asgreek'>λιθοτομίας</span>.., <span class='asgreek'>ἀσφαλεστάτην</span> <span class='asgreek'>τ</span>. the quarries.., the most secure <b>place of custody</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 7.86, cf. NT.Acts.4.3, “BGU” 388 iii 7 (2nd c.AD). ">NT+5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>observing, observation</b>, <span class='asgreek'>τῶν</span> <span class='asgreek'>καθόλου</span> <span class='asgreek'>συμβαινόντων</span> (as Empiric term) [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus 1.4, compare 2nd c.AD: Galenus Medicus 15.830, 16.550, 18(2).307, “Sect.Intr.” 4, 2nd c.AD: Sextus Empiricus Philosophus “Πυρρώνειοι ὑποτυπώσεις” 1.23, 2.246, 2nd c.AD: Apollonius Dyscolus Grammaticus “de Syntaxi;” 37.14, etc. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.7.19]] ☩ [[Acts.4.3]]
+<small><sub>LSJ Scripture Refs: [[1Cor.7.19|1Cor.7.19]] ☩ [[Acts.4.3|Acts.4.3]]
 </sub></small>

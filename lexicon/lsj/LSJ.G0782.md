@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> of things, <b>follow eagerly, cleave to,</b>
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>ὅτι</span>.. <b>to be glad</b> that.., [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Plutus” 324. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> with <i>infinitive</i>, <b>to be ready to</b>.., <span class='asgreek'>εὐωχεῖσθαι</span>[<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “Vita Apollonii” 2.7, compare 31, “VS” 2.25.4. ">Refs 2nd c.AD+</a>](<i>active</i> <span class='asgreek'>ἀσπάζω</span> in letters (cf. I. C), [<a href="javascript:void(0)" title=" “POxy.” 1158.18 (3rd c.AD), +others, compare ==ἀσπάζομαι==· ἀσπάζω, 5th c.AD(?): Hesychius Legal icographus ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.16.22]]
+<small><sub>LSJ Scripture Refs: [[Rom.16.22|Rom.16.22]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>poll-tax, </b>[<a href="javascript:void(0)" title=" NT.Matt.17.25. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.22.19]] ☩ [[Matt.17.25]]
+<small><sub>LSJ Scripture Refs: [[Matt.22.19|Matt.22.19]] ☩ [[Matt.17.25|Matt.17.25]]
 </sub></small>

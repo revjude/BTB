@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> of leaves and of the hand, the <b>back</b
 $\quad$ $\quad$<b>\_\_III</b> of the sides of hills, <span class='asgreek'>πρὸς</span> <span class='asgreek'>ἄναντες</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>κατὰ</span> <span class='asgreek'>πρανοῦς</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>πλάγια</span> <span class='asgreek'>ἐλαύνειν</span> <b>down hill,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “de Equitandi ratione” 3.7, compare “An.” 1.5.8, 4.8.28, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Sulla” 18; κατὰ τὰ π. 5th-6th c.BC: Xenophon Historicus “de Equitandi ratione” 8.6 ">Refs 5th c.BC+</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>π</span>., opposed to <span class='asgreek'>τὸ</span> <span class='asgreek'>ὄρθιον</span>, [<a href="javascript:void(0)" title="[prev. passage],compare “Cyr.” 2.2.24. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>convex,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Meteorologica” 350a11. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.1.18]]
+<small><sub>LSJ Scripture Refs: [[Acts.1.18|Acts.1.18]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>tried</b> or <b>approved character,</b> [<a href="javascript:void(0)" title="NT.Phil.2.22, cf. NT.2Cor.2.9. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Phil.2.22]] ☩ [[2Cor.2.9]]
+<small><sub>LSJ Scripture Refs: [[Phil.2.22|Phil.2.22]] ☩ [[2Cor.2.9|2Cor.2.9]]
 </sub></small>

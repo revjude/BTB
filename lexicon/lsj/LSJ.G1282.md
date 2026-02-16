@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>δ</span>. <span class='asgreek'>τοὺς</span> <span class='asgreek'>ὀδόντας</span> <b>gnash</b> the teeth, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Cal.” 24. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>==διαπρίω==πρίεται</span>· <span class='asgreek'>==διαπρίω==γοράζει</span>, <span class='asgreek'>μαίνεται</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.7.54]]
+<small><sub>LSJ Scripture Refs: [[Acts.7.54|Acts.7.54]]
 </sub></small>

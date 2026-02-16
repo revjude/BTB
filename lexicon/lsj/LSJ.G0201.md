@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>audience</b>, [<a href="javascript:void(0)" title=" [prev. author] “Cat.Ma.” 22.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.25.23]]
+<small><sub>LSJ Scripture Refs: [[Acts.25.23|Acts.25.23]]
 </sub></small>

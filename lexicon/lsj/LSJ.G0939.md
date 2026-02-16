@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> Geometry texts, <b>base</b> of a solid o
 $\quad$ $\quad$<b>\_\_IV</b> <b>position, fixedness,</b> opposed to <span class='asgreek'>φορά</span>, <i>etymology</i> of <span class='asgreek'>βέβαιος</span>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Cratylus” 437a. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_V</b> Astrology texts, ={<span class='asgreek'>ὡροσκόπος</span>}, [<a href="javascript:void(0)" title=" 2nd c.AD: Vettius Valens Astrologus 88.6, 4th c.AD: Paulus Alexandrinus Astrologus “T.” 2, “Catalogus Codicum Astrologorum” 8(4).132. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.3.7]]
+<small><sub>LSJ Scripture Refs: [[Acts.3.7|Acts.3.7]]
 </sub></small>

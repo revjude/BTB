@@ -15,5 +15,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b>proclaim, command publicly</b>, <span
 $\quad$ $\quad$ $\quad$<b>\_\_III.4</b> of a cock, <b>crow,</b> [<a href="javascript:void(0)" title=" Anthologia Graeca 5.2 (Antip. Thess.). ">Refs</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>preach, teach publicly,</b> [<a href="javascript:void(0)" title="NT.Matt.3.1, +others ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.10.27]] ☩ [[Matt.3.1]]
+<small><sub>LSJ Scripture Refs: [[Matt.10.27|Matt.10.27]] ☩ [[Matt.3.1|Matt.3.1]]
 </sub></small>

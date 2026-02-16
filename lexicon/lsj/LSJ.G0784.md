@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>ἄσπιλος</span>· <span class='asgreek'>χειμάρρους</span> [<a href="javascript:void(0)" title="(1st c.AD(?): Macedonius Epigrammaticus), 5th c.AD(?): Hesychius Legal icographus ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Tim.6.14]] ☩ [[1Pet.1.19]]
+<small><sub>LSJ Scripture Refs: [[1Tim.6.14|1Tim.6.14]] ☩ [[1Pet.1.19|1Pet.1.19]]
 </sub></small>

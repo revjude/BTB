@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>the organ of smell</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Anima” 425a5, “Pr.” 907b28, NT.1Cor.12.17, “PRyl.” 63.5 (3rd c.AD)">NT+4th c.BC+</a>]; <span class='asgreek'>αἱ</span> <span class='asgreek'>ὀ</span>. [<a href="javascript:void(0)" title=" 2nd c.AD: Herodianus Grammaticus 1.12.2. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.12.17]]
+<small><sub>LSJ Scripture Refs: [[1Cor.12.17|1Cor.12.17]]
 </sub></small>

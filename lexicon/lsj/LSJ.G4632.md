@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>τὸ</span> <span class='asg
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>αἰδοῖον</span>}, [<a href="javascript:void(0)" title=" “APl.” 4.243 (1st c.AD: Antistius Epigrammaticus), 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 17.11. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>sarcophagus,</b> [<a href="javascript:void(0)" title=" Jahresh. 26 “Beibl.” 13 (Ephesus, 2nd c.AD). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.27.17]] ☩ [[Acts.9.15]] ☩ [[2Cor.4.7]] ☩ [[1Thess.4.4]] ☩ [[1Pet.3.7]]
+<small><sub>LSJ Scripture Refs: [[Acts.27.17|Acts.27.17]] ☩ [[Acts.9.15|Acts.9.15]] ☩ [[2Cor.4.7|2Cor.4.7]] ☩ [[1Thess.4.4|1Thess.4.4]] ☩ [[1Pet.3.7|1Pet.3.7]]
 </sub></small>

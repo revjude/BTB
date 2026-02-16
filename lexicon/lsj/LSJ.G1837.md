@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>utter senseless sounds,</b> of idiots, [<a href="javascript:void(0)" title=" Polemo Physiognomonicus 51. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Thess.1.8]]
+<small><sub>LSJ Scripture Refs: [[1Thess.1.8|1Thess.1.8]]
 </sub></small>

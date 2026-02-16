@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_4.b</b> <b>turn out, result</b>, [<a href=
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> of an inheritance, <span class='asgreek'>κ</span>. <span class='asgreek'>εἴς</span> <span class='asgreek'>τινα</span> <b>fall</b> to one's share, [<a href="javascript:void(0)" title=" “NT.1Cor.10.11”, “POxy.” 75 (2nd c.AD), etc. ">NT+2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>transitive</i>, <b>make to come back, bring back</b>, <span class='asgreek'>τινα</span> [<a href="javascript:void(0)" title=" 4th c.AD: Palaephatus Paradoxographus 2; εἰς ἑαυτὸν τὴν ἀρχιερωσύνην Vetus Testamentum Graece redditum “2 Maccabees” 4.24 ">Refs 4th c.AD+</a>] (so <i>intransitive</i> in <i>perfect</i>, <b>return</b>, [<a href="javascript:void(0)" title=" εἰς τὸν αὐτὸν κατηντηκέναι βίον “BGU” 1101.5 (1st c.BC)). ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.10.11]]
+<small><sub>LSJ Scripture Refs: [[1Cor.10.11|1Cor.10.11]]
 </sub></small>

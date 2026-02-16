@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b>. <i>middle</i>, <b>manumit,</b> [<a href="ja
 $\quad$ $\quad$ $\quad$<b>\_\_5</b>. <b>release, discharge</b> a debtor, <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>τᾶν</span> <span class='asgreek'>κοινᾶν</span> <span class='asgreek'>ποθόδων</span> <span class='asgreek'>ἐπιλυθῆμεν</span> (<i>infinitive</i> <i>passive</i>) <span class='asgreek'>τοὺς</span> <span class='asgreek'>ἐρρυτιασμένους</span> “Schwyzer” 104.7 [<a href="javascript:void(0)" title=" (Troezen, 2nd c.BC)">Refs 2nd c.BC+</a>]: <b>pay</b>, with <i>dative</i> <i>person</i>, [<a href="javascript:void(0)" title="[prev. work]12">Refs</a>]:—<i>middle</i>, <b>discharge</b> a debt, <span class='asgreek'>δάνειον</span> “PGrenf.” 1.26.2 [<a href="javascript:void(0)" title=" (2nd c.BC). ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b>. <i>future</i> <i>middle</i> in <i>passive</i> sense, <b>lose strength</b>, <b>give in</b>, [<a href="javascript:void(0)" title=" Lys. 25.33 (uncertain reading). ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.4.34]]
+<small><sub>LSJ Scripture Refs: [[Mark.4.34|Mark.4.34]]
 </sub></small>

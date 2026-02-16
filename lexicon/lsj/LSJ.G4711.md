@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> used to translate the Latin <i>sportula</i>, <span class='asgreek'>σπυρίσι</span> <span class='asgreek'>δειπνίσαι</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 4.10.21 ">Refs 2nd c.AD+</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>σπυρίδος</span> <span class='asgreek'>δεῖπνον</span>, <b>cena e sportula</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Athenaeus Epigrammaticus 8.365a; σφυρίδος δηνάρια πέντε “IG” 12(5) [same place] ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.15.37]] ☩ [[Matt.15.37]]
+<small><sub>LSJ Scripture Refs: [[Matt.15.37|Matt.15.37]] ☩ [[Matt.15.37|Matt.15.37]]
 </sub></small>

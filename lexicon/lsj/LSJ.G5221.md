@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>meet,</b> i.e. <b>reply</b> or <b>obje
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>occur</b> to one, <span class='asgreek'>τῷ</span> <span class='asgreek'>ῥήτορι</span> [<a href="javascript:void(0)" title=" 3rd c.AD: Longinus Rhetor 16.4. ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>fall in with,</b> <span class='asgreek'>ἀνωμαλίᾳ</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 1.6 ">Refs 2nd c.AD+</a>]; <b>correspond with,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Conjunctionibus;” 232.23. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.8.28]]
+<small><sub>LSJ Scripture Refs: [[Matt.8.28|Matt.8.28]]
 </sub></small>

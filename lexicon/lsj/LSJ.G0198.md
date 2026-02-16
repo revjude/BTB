@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>investigate accurately, understand thorou
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>describe accurately</b>, <span class='asgreek'>τι</span> [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “περὶ παρρησίας” p.47 O. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <i>absolutely</i>, <b>to be exact</b>, <span class='asgreek'>ἡ</span> <span class='asgreek'>φύσις</span> <span class='asgreek'>οὐκ</span> <span class='asgreek'>ἀκριβοῖ</span>[<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Generatione Animalium” 778a6; [ὁ ἄνθρωπος] κατὰ τὴν ἁφὴν διαφερόντως ἀκριβοῖ [prev. author] “de An.” 421a22; ἀ. περί τι “GA” 780b26.">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.2.7]]
+<small><sub>LSJ Scripture Refs: [[Matt.2.7|Matt.2.7]]
 </sub></small>

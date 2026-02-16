@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>manifold,</b> <span class='asgreek'>σοφία</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>θεοῦ</span> [<a href="javascript:void(0)" title=" NT.Eph.3.10; φαντασία τῶν οἰνωμένων Anonymus “Incred.” 17; τελετή 5th-6th c.AD: Orphica “Hymni” 6.11. ">NT+5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eph.3.10]]
+<small><sub>LSJ Scripture Refs: [[Eph.3.10|Eph.3.10]]
 </sub></small>

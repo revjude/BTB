@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>secret revealed by God</b>, i.e. <b>relig
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <span class='asgreek'>σύνηθές</span> <span class='asgreek'>τι</span> <span class='asgreek'>μ</span>. some vulgar <b>superstition</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus 1.4. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> Dionysius the tyrant called <b>mouse-holes</b> <span class='asgreek'>==μυστήριον==α</span> (<span class='asgreek'>μῦς</span>, <span class='asgreek'>τηρεῖν</span>), [<a href="javascript:void(0)" title=" 2nd c.AD: Athenaeus Epigrammaticus 3.98d. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.13.11]] ☩ [[1Cor.14.2]] ☩ [[2Thess.2.7]] ☩ [[Eph.6.19]] ☩ [[Col.1.26]] ☩ [[Rev.1.20]]
+<small><sub>LSJ Scripture Refs: [[Matt.13.11|Matt.13.11]] ☩ [[1Cor.14.2|1Cor.14.2]] ☩ [[2Thess.2.7|2Thess.2.7]] ☩ [[Eph.6.19|Eph.6.19]] ☩ [[Col.1.26|Col.1.26]] ☩ [[Rev.1.20|Rev.1.20]]
 </sub></small>

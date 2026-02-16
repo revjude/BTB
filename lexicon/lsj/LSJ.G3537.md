@@ -5,5 +5,5 @@
  (<span class='asgreek'>νίζω</span>) <b>washing-vessel, basin,</b> [<a href="javascript:void(0)" title="NT.John.13.5. ">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[John.13.5]]
+<small><sub>LSJ Scripture Refs: [[John.13.5|John.13.5]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>method of collecting taxes</b> or <b>debts</b> (in form <span class='asgreek'>==μεθοδεία==ία</span>), [<a href="javascript:void(0)" title=" “POxy.” 1134.9 (5th c.AD), 136.18 (6th c.AD). ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eph.4.14]]
+<small><sub>LSJ Scripture Refs: [[Eph.4.14|Eph.4.14]]
 </sub></small>

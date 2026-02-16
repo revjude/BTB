@@ -15,5 +15,5 @@ $\quad$ $\quad$<b>\_\_IV</b> <span class='asgreek'>οἱ</span> <span class='asg
 $\quad$ $\quad$<b>\_\_V</b> <b>conveying</b> <span class='asgreek'>πνεῦμα</span>, <span class='asgreek'>κοιλία</span>, of the left ventricle of the heart (opposed to <span class='asgreek'>αἱματική</span>), [<a href="javascript:void(0)" title=" 3rd c.BC: Erasistratus Medicus cited in [same work] “UP” 6.12, compare “Placita Philosophorum” 4.5.7. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_VI</b> Rhet., <i>adverb</i> -<span class='asgreek'>κῶς</span> <b>in one breath</b> (compare <span class='asgreek'>πνεῦμα</span> VI), <span class='asgreek'>ἀποτείνεσθαι</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Hermogenes Rhetor “περὶ εὑρέσεως” 4.1. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.15.27]] ☩ [[1Cor.2.13]]
+<small><sub>LSJ Scripture Refs: [[Rom.15.27|Rom.15.27]] ☩ [[1Cor.2.13|1Cor.2.13]]
 </sub></small>

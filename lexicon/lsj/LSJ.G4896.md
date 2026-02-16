@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>take part in, attend</b>, <span class=
 $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> <i>absolutely</i>, <span class='asgreek'>αἴ</span> <span class='asgreek'>κα</span>.. <span class='asgreek'>μὴ</span> <span class='asgreek'>συννῇ</span> (<span class='asgreek'>συνῇ</span>) <span class='asgreek'>γνήσια</span> <span class='asgreek'>τέκνα</span> if there <b>are</b> not <b>in addition</b> children of the blood, [<a href="javascript:void(0)" title=" “Leg.Gort.” 10.41; ὅπου κεφαλαλγία σύνεστι 2nd c.AD: Galenus Medicus 16.662. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> of heavenly bodies, <b>to be in conjunction</b>, [<a href="javascript:void(0)" title=" 4th c.AD(?): Manetho Astrologus 1.78, +others, 2nd c.AD: Galenus Medicus 19.552. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.22.11]]
+<small><sub>LSJ Scripture Refs: [[Acts.22.11|Acts.22.11]]
 </sub></small>

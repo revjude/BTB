@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.1</b> of that which one puts on, <span class='
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> of the foot, <span class='asgreek'>ὑποδεδεμένοι</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>ἀριστερὸν</span> <span class='asgreek'>πόδα</span> <b>with</b> the left foot <b>shod,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 3.22, compare 4th c.BC: Aristoteles Philosophus “Fragmenta” 74; θάτερον [πόδα] σανδάλῳ ὑποδεδ. 2nd c.AD: Lucianus Sophista “Hist.Conscr.” 22, compare 2nd-3rd c.AD: Aelianus “Varia Historia” 1.18; ὑποδησάμενοι τοὺς πόδας ἐν ἑτοιμασίᾳ τοῦ εὐαγγελίου NT.Eph.6.15. ">NT+5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <span class='asgreek'>ὑποδῆσαι</span>· <span class='asgreek'>ἐνεχυρασθῆναι</span>, <span class='asgreek'>Ἰταλιῶται</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.12.8]] ☩ [[Eph.6.15]]
+<small><sub>LSJ Scripture Refs: [[Acts.12.8|Acts.12.8]] ☩ [[Eph.6.15|Eph.6.15]]
 </sub></small>

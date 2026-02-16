@@ -5,5 +5,5 @@
  <b>double-tongued, doubtful,</b> [<a href="javascript:void(0)" title=" NT.1Tim.3.8. ">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[1Tim.3.8]]
+<small><sub>LSJ Scripture Refs: [[1Tim.3.8|1Tim.3.8]]
 </sub></small>

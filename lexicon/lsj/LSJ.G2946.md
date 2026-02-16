@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>κυλίστρα</span>}, [<a href="javascript:void(0)" title=" “Hippiatrica” 8">Refs</a>]; variant for {<span class='asgreek'>κυλισμός</span>}, [<a href="javascript:void(0)" title=" NT.2Pet.2.22. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Pet.2.22]]
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.10.13|LXX.Ezek.10.13]] ☩ [[2Pet.2.22|2Pet.2.22]]
 </sub></small>

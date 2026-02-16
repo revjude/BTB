@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>not to be classified under heads, confuse
 $\quad$ $\quad$<b>\_\_II</b> of persons, <b>independent,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Ptolemaeus Mathematicus “Tetrabiblos” 61">Refs 2nd c.AD+</a>]; in bad sense, <b>unruly,</b> [<a href="javascript:void(0)" title=" NT.1Tim.1.9, NT.Titus.1.6 and 10, “PMag.Par.” 1.1367">NT</a>]. <i>adverb</i> <b>-<span class='asgreek'>τως</span></b> <b>impatiently,</b> [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus see at {ἀστέκτως}. ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> of Verbs, <b>having no first aorist,</b> [<a href="javascript:void(0)" title=" AB 1087.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.2.8]] ☩ [[1Tim.1.9]] ☩ [[Titus.1.6]]
+<small><sub>LSJ Scripture Refs: [[Heb.2.8|Heb.2.8]] ☩ [[1Tim.1.9|1Tim.1.9]] ☩ [[Titus.1.6|Titus.1.6]]
 </sub></small>

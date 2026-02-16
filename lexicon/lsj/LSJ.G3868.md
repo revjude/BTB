@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <span class='asgreek'>π</span>. <span cl
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> of medicines, <b>relieve</b>, <span class='asgreek'>ναυσίαν</span> [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 3.70; ὀδόντων ἀλγήματα [prev. work]48. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> with <i>accusative</i> <i>person</i>, <b>intercede for, beg off</b>, especially from punishment, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 3.119, 2nd c.BC: Polybius Historicus 4.51.1; π. τινὰ τιμωρίας 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Sulla” 31 ">Refs 5th c.BC+</a>]; <span class='asgreek'>Θεσσαλοὺς</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>Μηδισμοῦ</span> <span class='asgreek'>π</span>. <b>excuse</b> them <b>from the charge</b> of Medism, [<a href="javascript:void(0)" title=" [prev. author] 2.868d; π. περί τινων 5th-6th c.BC: Xenophon Historicus “Anabasis” 6.6.29. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.25.11]] ☩ [[1Tim.4.7]] ☩ [[Luke.14.18]]
+<small><sub>LSJ Scripture Refs: [[Acts.25.11|Acts.25.11]] ☩ [[1Tim.4.7|1Tim.4.7]] ☩ [[Luke.14.18|Luke.14.18]]
 </sub></small>

@@ -5,3 +5,6 @@
 
  <b>announce before,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aeneas Tacticus 10.5, LXX.Ezek.33.9, 2nd-3rd c.AD: Dio Cassius Historicus 38.13. ">LXX+4th c.BC+</a>]
 
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.33.9|LXX.Ezek.33.9]]
+</sub></small>

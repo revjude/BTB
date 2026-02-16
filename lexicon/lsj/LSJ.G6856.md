@@ -6,5 +6,5 @@
  <b>constant wrangling,</b> [<a href="javascript:void(0)" title=" NT.1Tim.6.5. ">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[1Tim.6.5]]
+<small><sub>LSJ Scripture Refs: [[1Tim.6.5|1Tim.6.5]]
 </sub></small>

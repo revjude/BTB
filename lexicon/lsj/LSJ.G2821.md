@@ -13,5 +13,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>name, appellation</b>, [<a href="javascript:void
 $\quad$ $\quad$<b>\_\_III</b> Grammars, <span class='asgreek'>αἱ</span> <span class='asgreek'>κ</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>ὀνομάτων</span> the <b>nominatives</b>, opposed to <span class='asgreek'>αἱ</span> <span class='asgreek'>πτώσεις</span> (the oblique cases), [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Analytica Priora” 48b41 ">Refs 4th c.BC+</a>]; <span class='asgreek'>ἔχειν</span> <span class='asgreek'>θηλείας</span> <span class='asgreek'>ἢ</span> <span class='asgreek'>ἄρρενος</span> <span class='asgreek'>κλῆσιν</span> the <b>nominative form</b> of.., [<a href="javascript:void(0)" title=" [prev. author] “SE” 173b40, compare 182a18. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_IV</b> = Latin <i>classis</i>, [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 4.18. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.7.20]]
+<small><sub>LSJ Scripture Refs: [[1Cor.7.20|1Cor.7.20]]
 </sub></small>

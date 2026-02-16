@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> in the Logic of [<a href="javascript:void(0)
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>solution</b> of a problem, etc., [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Romulus” 12. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> (from <i>passive</i>) <b>retrogression,</b> [<a href="javascript:void(0)" title=" [prev. author] 2.76d">Refs</a>]; <b>retirement, departure,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 19.4.1">Refs 1st c.AD+</a>]; <b>death</b> [<a href="javascript:void(0)" title="compare (ἀναλύω 111), NT.2Tim.4.6.">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Tim.4.6]]
+<small><sub>LSJ Scripture Refs: [[2Tim.4.6|2Tim.4.6]]
 </sub></small>

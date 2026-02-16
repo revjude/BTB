@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> as <i>substantive</i> <span class='asgreek'>λ</span>., <span class='asgreek'>ὁ</span>, <b>railer</b>, [<a href="javascript:void(0)" title=" NT.1Cor.5.11, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.177d: τὸ λ., ={λοιδορία}, 4th c.BC: Aristoteles Philosophus “Physiognomonica” 808b37, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.810d; ==λοίδορος==α “Anthologia Graeca” 5.175 (1st c.BC: Meleager Epigrammaticus). ">NT+4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.5.11]]
+<small><sub>LSJ Scripture Refs: [[1Cor.5.11|1Cor.5.11]]
 </sub></small>

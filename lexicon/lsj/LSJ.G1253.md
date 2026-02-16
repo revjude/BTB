@@ -13,5 +13,5 @@ $\quad$ $\quad$<b>\_\_V</b> <b>separation</b> of tumour from bloodvessels, [<a h
 $\quad$ $\quad$ $\quad$<b>\_\_V.2</b> <b>secretion,</b> <span class='asgreek'>οὔρων</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Aretaeus Medicus “περὶ αἰτιῶν καὶ σημείων ὀξέων παθῶν” 1.9, compare 2nd c.AD: Galenus Medicus 6.382. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_VI</b> <b>a bandage,</b> [<a href="javascript:void(0)" title=" [prev. author] 18(1).777. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.5.14]] ☩ [[1Cor.12.10]] ☩ [[Rom.14.1]]
+<small><sub>LSJ Scripture Refs: [[Heb.5.14|Heb.5.14]] ☩ [[1Cor.12.10|1Cor.12.10]] ☩ [[Rom.14.1|Rom.14.1]]
 </sub></small>

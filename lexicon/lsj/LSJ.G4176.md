@@ -16,5 +16,5 @@ $\quad$ $\quad$<b>\_\_B.V</b> in Law, <b>execute according to custom,</b> <span 
 $\quad$ $\quad$<b>\_\_B.VI</b> <b>deal with,</b> in private affairs, <span class='asgreek'>ἀλλήλοις</span> [<a href="javascript:void(0)" title=" “PHib.” 1.63.11 (3rd c.BC)">Refs 3rd c.BC+</a>]; <span class='asgreek'>πρὸς</span> [<span class='asgreek'>τοὺς</span> <span class='asgreek'>θεοὺς</span>] <span class='asgreek'>ὁσίως</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>δικαίως</span> [<a href="javascript:void(0)" title=" “UPZ” 144.14, compare 110.78 (2nd c.BC), LXX.2Mac.11.25, Aristeas 31, NT.Acts.23.1; π. πᾶσαν πολιτείαν κατὰ τὸν ἰουδαϊσμόν “BCH” 56.293 (Stobi, 1st-2nd c.AD)">NT+2nd c.BC+</a>]; <b>behave,</b> [<a href="javascript:void(0)" title="NT.Phil.1.27. ">NT</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_B.VI.b</b> <i>metaphorically</i>, <b>arrange, bring about,</b> <span class='asgreek'>συνοδίαν</span>, <span class='asgreek'>γάμον</span>, [<a href="javascript:void(0)" title=" 2nd c.AD(?): Charito Scriptor Eroticus 1.1, 2.2. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.23.1]] ☩ [[Phil.1.27]]
+<small><sub>LSJ Scripture Refs: [[Acts.23.1|Acts.23.1]] ☩ [[Phil.1.27|Phil.1.27]]
 </sub></small>

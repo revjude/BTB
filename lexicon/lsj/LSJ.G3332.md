@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>repeal</b>, <span class='asgreek'>ψήφισμα</span> <span class='asgreek'>μ</span>. [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 19.174. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i>, <b>depart</b>, <span class='asgreek'>ἐκεῖθεν</span> [<a href="javascript:void(0)" title=" NT.Matt.13.53, compare 19.1. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.13.53]]
+<small><sub>LSJ Scripture Refs: [[Matt.13.53|Matt.13.53]]
 </sub></small>

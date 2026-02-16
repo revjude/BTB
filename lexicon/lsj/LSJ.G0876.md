@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>ἀφρὸς</span> <span cla
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>αἵματος</span>, ={<span class='asgreek'>σπέρμα</span>},[<a href="javascript:void(0)" title=" Diog.Apoll.A 24 4th c.BC: Demosthenes Orator ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> a kind of <span class='asgreek'>ἀφύη</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 569a29, b28, 2nd c.AD: Athenaeus Epigrammaticus 7.325b; Ionic, \_accusative\_ to 4th c.BC: Archestratus Epicus “fragment” 9.2, but compare 5th c.AD(?): Hesychius Legal icographus see {ἀφύων τιμή}">Refs 4th c.BC+</a>]. (<b>ṃbhrós,</b> cf. Sanskrit <i>abhrám</i> 'cloud', Latin <i>imber.</i>)
 
-<small><sub>LSJ Scripture Refs: [[Luke.9.39]]
+<small><sub>LSJ Scripture Refs: [[Luke.9.39|Luke.9.39]]
 </sub></small>

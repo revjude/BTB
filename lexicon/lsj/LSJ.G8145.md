@@ -5,3 +5,6 @@
 
  (<span class='asgreek'>ἐλαύνω</span>) <b>rower</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 34.3.8, LXX.Ezek.27.8, “PSI” 4.289.18 (3rd c.AD)">LXX+2nd c.BC+</a>]; <span class='asgreek'>κ</span>. <span class='asgreek'>πολύπους</span> <b>nautilus</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Clearchus Historicus 47. ">Refs 4th c.BC+</a>]
 
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.27.8|LXX.Ezek.27.8]]
+</sub></small>

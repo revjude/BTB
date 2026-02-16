@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> with <i>accusative</i> <i>of things</i>, <b>
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> with <i>accusative</i> et <i>infinitive</i>, <b>agree</b> that.., [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Oedipus Tyrannus” 553, 5th-6th c.BC: Plato Philosophus “Leges” 831b, etc.">Refs 5th c.BC+</a>]; <span class='asgreek'>σ</span>. <span class='asgreek'>τῷ</span> <span class='asgreek'>νόμῳ</span> <span class='asgreek'>ὅτι</span> <span class='asgreek'>καλός</span>, ={<span class='asgreek'>σ</span>. <span class='asgreek'>τὸν</span> <span class='asgreek'>νόμον</span> <span class='asgreek'>καλὸν</span> <span class='asgreek'>εἶναι</span>}, [<a href="javascript:void(0)" title=" NT.Rom.7.16. ">NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> with <i>infinitive</i> <i>future</i>, <b>promise</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 5.2.5. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.7.16]]
+<small><sub>LSJ Scripture Refs: [[Rom.7.16|Rom.7.16]]
 </sub></small>

@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> T<b>-square,</b> [<a href="javascript:void(0
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> Phoenician for <span class='asgreek'>βοὸς</span> <span class='asgreek'>κεφαλή</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <i>metaphorically</i>, <span class='asgreek'>τὸ</span> <span class='asgreek'>==α, Ἀλφα==</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>ὦ</span> the <b>first</b> and last, [<a href="javascript:void(0)" title=" NT.Rev.1.8, +others">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rev.1.8]]
+<small><sub>LSJ Scripture Refs: [[Rev.1.8|Rev.1.8]]
 </sub></small>

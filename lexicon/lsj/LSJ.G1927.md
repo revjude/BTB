@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_III</b>. of foreigners, <b>come to stay in a city, reside 
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b>. <i>absolutely</i>,<b>stay in a</b> <b>place, be in town</b>, [<a href="javascript:void(0)" title=" ὅσοι ξένοι ==ἐπιδημέω==οῦσιν 5th c.BC: Lysias Orator 12.35, compare “Inscription Prien.” 108.286 (2nd c.BC), NT.Acts.17.21; Πρωταγόρας ἐπιδεδήμηκε; 5th-6th c.BC: Plato Philosophus “Prt.” 309d: \_metaphorically\_, ἐ. θίασος Μουσῶν Aristophanes Comicus [{5-6th c.BC}] “Thesmophoriazusae” 40 ">NT+6th c.BC+</a>]. 
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b>. <span class='asgreek'>ἐ</span>. <span class='asgreek'>τινί</span> <b>visit</b> a person, [<a href="javascript:void(0)" title=" “PLond.” 2.416.5 (4th c.AD). ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.17.21]]
+<small><sub>LSJ Scripture Refs: [[Acts.17.21|Acts.17.21]]
 </sub></small>

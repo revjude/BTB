@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>transitive</i>, <b>let shine forth,</b> <span class='asgreek'>φέγγος</span> poetical <b>de herb.</b>[<a href="javascript:void(0)" title=" 24. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.28.1]] ☩ [[Luke.23.54]]
+<small><sub>LSJ Scripture Refs: [[Matt.28.1|Matt.28.1]] ☩ [[Luke.23.54|Luke.23.54]]
 </sub></small>

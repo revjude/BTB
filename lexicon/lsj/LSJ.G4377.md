@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>issue directions</b> or <b>orders</b>, <s
 $\quad$ $\quad$<b>\_\_II</b> with <i>accusative</i> <i>of things</i>, <b>pronounce, utter</b>, <span class='asgreek'>τήνδε</span> <span class='asgreek'>π</span>. <span class='asgreek'>φάτιν</span> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Electra” 1213; τὰ ὑπογεγραμμένα “IG” 7.2713.7 (Acraeph., 1st c.AD)">Refs 5th c.BC+</a>]; <b>address</b> or <b>dedicate</b> a book, <span class='asgreek'>τινι</span> [<a href="javascript:void(0)" title=" 1st c.BC: Cicero, M. Tullius Orator et Philosophus “Epistulae ad Atticum” 16.11.4, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Lucullus” 1, 2nd c.AD: Athenaeus Epigrammaticus 7.313f, etc. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>make a report,</b> [<a href="javascript:void(0)" title=" POxy. 475,476 (2nd c.AD)">Refs 2nd c.AD+</a>]; <span class='asgreek'>περί</span> <span class='asgreek'>τινος</span> Wilcken [<a href="javascript:void(0)" title=" “Chr.” 27.15 (2nd c.AD): \_absolutely\_, “OGI” 572.43 (Myra, 2nd-3rd c.AD). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.11.16]] ☩ [[Acts.22.2]]
+<small><sub>LSJ Scripture Refs: [[Matt.11.16|Matt.11.16]] ☩ [[Acts.22.2|Acts.22.2]]
 </sub></small>

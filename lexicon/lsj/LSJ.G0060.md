@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_III</b> generally, <b>proper to the</b> <span class='asgre
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <span class='asgreek'>==ἀγοραῖος==</span>, <span class='asgreek'>ὁ</span>, = <b>tabellio, notary</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Aristides Rhetor “Orationes” 50(26).94, “Edict.Diocl.” 7.41, “Corpus Glossariorum Latinorum” ">Refs 2nd c.AD+</a>]; also, <b>pleader, advocate</b>, in <i>plural</i>, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “Vita Apollonii” 6.36. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_III.2.b</b> <span class='asgreek'>==ἀγοραῖος==</span>, <span class='asgreek'>ἡ</span>, <b>market-day,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae ad res Romanas pertinentes 4.1381 (from Lydia). (The distinction ἀγόραιος">Refs</a>] <b>vulgar</b>, <span class='asgreek'>==ἀγοραῖος==</span> <b>public speaker</b>, drawn by [<a href="javascript:void(0)" title=" 5th c.AD(?): Ammonius Epigrammaticus, etc., is probably fictitious.)">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.17.5]] ☩ [[Acts.19.38]]
+<small><sub>LSJ Scripture Refs: [[Acts.17.5|Acts.17.5]] ☩ [[Acts.19.38|Acts.19.38]]
 </sub></small>

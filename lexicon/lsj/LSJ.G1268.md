@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>set in order, govern,</b> <span class='asgreek'>ἄστυ</span> [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “P.” 4.261, compare 8.62. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.4.17]]
+<small><sub>LSJ Scripture Refs: [[Acts.4.17|Acts.4.17]]
 </sub></small>

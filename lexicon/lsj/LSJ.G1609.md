@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>spit</b> in token of disgust, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Vespae” 792. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>spit at, abominate,</b> [<a href="javascript:void(0)" title="NT.Gal.4.14. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gal.4.14]]
+<small><sub>LSJ Scripture Refs: [[Gal.4.14|Gal.4.14]]
 </sub></small>

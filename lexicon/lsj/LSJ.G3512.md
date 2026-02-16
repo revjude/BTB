@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>modern in style,</b> <span class='asgreek'>κάτοπτρον</span> [<a href="javascript:void(0)" title=" “POxy.” 1449.56 (3rd c.AD). ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Tim.2.22]]
+<small><sub>LSJ Scripture Refs: [[2Tim.2.22|2Tim.2.22]]
 </sub></small>

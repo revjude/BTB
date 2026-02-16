@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>altogether, absolutely</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 503a ">Refs 5th c.BC+</a>]; <span class='asgreek'>οὐ</span> <span class='asgreek'>π</span>. <span class='asgreek'>ᾔσθησαι</span> not <b>at all</b>, [<a href="javascript:void(0)" title=" [prev. author] “Prm.” 128b. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.1.28]]
+<small><sub>LSJ Scripture Refs: [[Mark.1.28|Mark.1.28]]
 </sub></small>

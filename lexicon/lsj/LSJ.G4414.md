@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> ={<span class='asgreek'>λοχαγός</spa
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>man in the uneven rows in a</b> <span class='asgreek'>λόχος</span>, opposed to <span class='asgreek'>ἐπιστάτης</span>, [<a href="javascript:void(0)" title=" 1st c.BC: Asclepiodotus Tacticus “Tact.” 2.3, etc. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>chief</b> or <b>leader</b> of a party, [<a href="javascript:void(0)" title=" NT.Acts.24.5; π. τοῦ χοροῦ τῶν μαθητῶν 3rd c.AD: Porphyrius Tyrius Philosophus “adversus Christianos - Abh. Berl. Akad.” 26.1 ">NT+3rd c.AD+</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>τοῦ</span> <span class='asgreek'>θητικοῦ</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>οἰκετικοῦ</span>[<a href="javascript:void(0)" title=" Men.Prot. p.8 4th c.BC: Demosthenes Orator ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.24.5]]
+<small><sub>LSJ Scripture Refs: [[Acts.24.5|Acts.24.5]]
 </sub></small>

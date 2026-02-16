@@ -5,5 +5,5 @@
  <b>evil report, slander</b>, [<a href="javascript:void(0)" title=" LXX.Wis.1.11, NT.1Pet.2.1 (\_plural\_). ">LXX+NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[1Pet.2.1]]
+<small><sub>LSJ Scripture Refs: [[1Pet.2.1|1Pet.2.1]]
 </sub></small>

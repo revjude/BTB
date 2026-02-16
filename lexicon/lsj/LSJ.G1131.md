@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_10</b> <b>scalped,</b> [<a href="javascript:void(0
 $\quad$ $\quad$ $\quad$<b>\_\_11</b> <span class='asgreek'>γυμνή</span>· <span class='asgreek'>ἄνηβος</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_12</b> proverbial of impossibilities, <span class='asgreek'>γυμνῷ</span> <span class='asgreek'>φυλακὴν</span> <span class='asgreek'>ἐπιτάττεις</span> [<a href="javascript:void(0)" title=" 5th c.BC: Pherecrates Comicus 144, 4th-3rd c.BC: Philemo Comicus 12 ">Refs 5th c.BC+</a>]. (Akin to Sanskrit <i>nagnás,</i> Latin <i>nādus,</i> etc.; compare <span class='asgreek'>λυγνός</span>.)
 
-<small><sub>LSJ Scripture Refs: [[1Cor.15.37]]
+<small><sub>LSJ Scripture Refs: [[1Cor.15.37|1Cor.15.37]]
 </sub></small>

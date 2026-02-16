@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> as law-term, <span class='asgreek'>ἀ</span>. <spa
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>absolutely</i>, <b>get clear off, be acquitted,</b> opposed to <span class='asgreek'>ἁλίσκομαι</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 2.174, 5th-6th c.BC: Plato Philosophus “Apologia” 35c, 4th c.BC: Demosthenes Orator 18.103; κἂν.. εἰσέλθῃ φεύγων οὐκ ==ἀποφεύγω==φεύγει 5th-6th c.BC: Aristophanes Comicus “Vespae” 579. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> of a woman in child-birth, <b>bring to birth,</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>τὸ</span> <span class='asgreek'>παιδίον</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>τῷ</span> <span class='asgreek'>τόκῳ</span>[<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “γυναικεῖα” 1.25; also ἀ. τοῦ παιδίου [prev. work] 33: \_intransitive\_, ἢν τὰ ὕστερα μὴ δύνηται ==ἀποφεύγω==φυγεῖν [prev. author] “Nat.Mul.” 56.">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Pet.1.4]]
+<small><sub>LSJ Scripture Refs: [[2Pet.1.4|2Pet.1.4]]
 </sub></small>

@@ -5,3 +5,6 @@
 
  <i>passive</i>, <b>to be utterly dishonoured,</b> [<a href="javascript:void(0)" title=" LXX.Ezek.16.61. ">LXX</a>]
 
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.16.61|LXX.Ezek.16.61]]
+</sub></small>

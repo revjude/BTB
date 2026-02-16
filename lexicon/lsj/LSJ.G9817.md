@@ -5,3 +5,6 @@
 
  ={<span class='asgreek'>ὠρυγή</span>}, [<a href="javascript:void(0)" title=" LXX.Ezek.19.7. ">LXX</a>]
 
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.19.7|LXX.Ezek.19.7]]
+</sub></small>

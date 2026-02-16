@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> Astrology texts, <b>encounter</b> of a heave
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>retort, answer,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 11.202 ">Refs 2nd c.AD+</a>]; <span class='asgreek'>πρός</span> <span class='asgreek'>τι</span>[<a href="javascript:void(0)" title=" [prev. work] 7.278, 2nd c.AD: Apollonius Dyscolus Grammaticus “de Syntaxi;” 305.19. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>counter-treatment,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus 2.41. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.12.13]]
+<small><sub>LSJ Scripture Refs: [[John.12.13|John.12.13]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>preaching,</b> [<a href="javascript:void(0)" title="NT.Luke.11.32, +others ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.11.32]]
+<small><sub>LSJ Scripture Refs: [[Luke.11.32|Luke.11.32]]
 </sub></small>

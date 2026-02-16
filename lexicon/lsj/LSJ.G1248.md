@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>attendance on a duty, ministration,</b> [
 $\quad$ $\quad$<b>\_\_II</b> <b>body of servants</b> or <b>attendants,</b> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 15.25.21. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>instruments of service,</b> ={<span class='asgreek'>διακόνημα</span>}[<a href="javascript:void(0)" title=" 11, 4th c.BC: Moschio Tragicus cited in 2nd c.AD: Athenaeus Epigrammaticus 5.208b. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.6.1]]
+<small><sub>LSJ Scripture Refs: [[Acts.6.1|Acts.6.1]]
 </sub></small>

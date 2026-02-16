@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> military <b>'command', force occupying a district,</b> [<a href="javascript:void(0)" title=" 3rd-2nd c.BC: Philo Mechanicus “(Belopoeica) Excerpte aus Philons Mechanik - Ath. Berl. Akad.” 96.49 (\_plural\_). ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.23.34]]
+<small><sub>LSJ Scripture Refs: [[Acts.23.34|Acts.23.34]]
 </sub></small>

@@ -15,5 +15,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>accompany, result, accrue,</b> <span class='asgr
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <span class='asgreek'>τὰ</span> <span class='asgreek'>ἐπακολουθοῦντα</span> <span class='asgreek'>σημεῖα</span> <b>confirmatory, authenticating</b> signs [<a href="javascript:void(0)" title="compare(1.7), NT.Mark.16.20. ">NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> of the offspring of cattle, <span class='asgreek'>πρόβατα</span> <span class='asgreek'>σὺν</span> <span class='asgreek'>τοῖς</span> -<span class='asgreek'>οῦσι</span> <span class='asgreek'>ἄρνασι</span> [<a href="javascript:void(0)" title=" “POxy.” 245.11 (1st c.AD), compare 244.9 (1st c.AD). ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.16.20]]
+<small><sub>LSJ Scripture Refs: [[Mark.16.20|Mark.16.20]]
 </sub></small>

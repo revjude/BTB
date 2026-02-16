@@ -13,5 +13,5 @@ $\quad$ $\quad$<b>\_\_A.III</b> euphemistic (like <span class='asgreek'>ἀρι�
 $\quad$ $\quad$ $\quad$<b>\_\_A.III.2</b> euphemistic of <b>bad</b> omens, opposed to <span class='asgreek'>οἱ</span> <span class='asgreek'>δεξιοὶ</span> <span class='asgreek'>φύσιν</span>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 490, compare “SIG” 1167.3 (Ephesus, 6th-5th c.BC). ">Refs 6th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_A.III.3</b> Astron., <b>southerly</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Cleomedes Astronomus 1.1. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.20.21]]
+<small><sub>LSJ Scripture Refs: [[Matt.20.21|Matt.20.21]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>charity, alms</b>, [<a href="javascript:void(0)" title=" LXX.Tob.4.7, NT.Matt.6.2, 3rd c.AD(?): Diogenes Laertius 5.17. ">LXX+NT+3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.6.2]]
+<small><sub>LSJ Scripture Refs: [[Matt.6.2|Matt.6.2]]
 </sub></small>

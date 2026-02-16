@@ -23,5 +23,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.4.g</b> in metric, <b>resolution</b> of
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>divorce</b>, [<a href="javascript:void(0)" title=" NT.1Cor.7.27; λ. γάμου 6th c.AD: Justinianus Imperator “Novellae” 140 “Prooem.”, compare at Title Page ">NT+6th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> ={<span class='asgreek'>δόρπου</span> <span class='asgreek'>λ</span>}., <b>place</b> for banqueting [<a href="javascript:void(0)" title="compare (κατάλυσις 11), 5th c.BC: Pindarus Lyricus “O.” 10(11).47. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.7.27]]
+<small><sub>LSJ Scripture Refs: [[1Cor.7.27|1Cor.7.27]]
 </sub></small>

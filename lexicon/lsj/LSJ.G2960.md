@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> especially <b>belonging to the Lord (Christ</b>): K. <span class='asgreek'>δεῖπνον</span> <b>the Lord's Supper</b>, [<a href="javascript:void(0)" title=" NT.1Cor.11.20 ">NT</a>]; <span class='asgreek'>ἡ</span> K. <span class='asgreek'>ἡμέρα</span> <b>the Lord's day,</b> [<a href="javascript:void(0)" title=" NT.Rev. 1.10 ">NT</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>Κυριακόν</span> (i.e. <span class='asgreek'>δῶμα</span>) <b>the Lord's house</b>, Edict.Maximiniap.[<a href="javascript:void(0)" title=" 4th c.AD: Eusebius Caesariensis Scriptor Ecclesiasticus “Praeparatio Evangelica” 9.10. ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>substantive</i> <span class='asgreek'>κυριακός</span>, <span class='asgreek'>ὁ</span>, spirit invoked in magic, [<a href="javascript:void(0)" title=" “PMag.Par.” 1.916. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.11.20]]
+<small><sub>LSJ Scripture Refs: [[1Cor.11.20|1Cor.11.20]]
 </sub></small>

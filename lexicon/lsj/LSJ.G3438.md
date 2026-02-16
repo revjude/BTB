@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>stopping-place, station</b>, [<a href="javascrip
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>monastery</b>, [<a href="javascript:void(0)" title=" 6th c.AD: Justinianus Imperator “Novellae” 133.1, etc. ">Refs 6th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>appearance</b> in a court of law, [<a href="javascript:void(0)" title=" “PHib.” 93.2, 111.31 (3rd c.BC). ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.14.2]]
+<small><sub>LSJ Scripture Refs: [[John.14.2|John.14.2]]
 </sub></small>

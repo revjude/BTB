@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> c.<i>genitive</i>, <b>to be partner</b> o
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>come to terms</b>, <span class='asgreek'>μοι</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Symposium” 218e. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>passive</i>, <b>have communication with</b>, <span class='asgreek'>λέχει</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Andromache” 38, compare 217: \_metaphorically\_, ἀλλήλοις 5th-6th c.BC: Plato Philosophus “Leges” 673d ">Refs 5th c.BC+</a>]; <span class='asgreek'>ξανθῷ</span> <span class='asgreek'>χρώματι</span> -<span class='asgreek'>ωθέν</span>, i.e. <b>tinged with</b> yellow, [<a href="javascript:void(0)" title=" [prev. author] “Ti.” 59b. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.15.11]] ☩ [[Acts.10.15]]
+<small><sub>LSJ Scripture Refs: [[Matt.15.11|Matt.15.11]] ☩ [[Acts.10.15|Acts.10.15]]
 </sub></small>

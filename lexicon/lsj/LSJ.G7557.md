@@ -7,3 +7,6 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> of persons, <b>wearing such a garment</b>, <span class='asgreek'>εὐ</span>. <span class='asgreek'>τις</span> <b>a grandee</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 2.346 (\_plural\_), 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.57a, compare 2nd c.AD: Lucianus Sophista “Somn.” 16, “Demon.” 15, 4th c.AD: Alciphro Epistolographus 3.42. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, <b>pompous</b>, <span class='asgreek'>διηγήματα</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.547e ">Refs 1st c.AD+</a>]; but <span class='asgreek'>εὐ</span>. <span class='asgreek'>λόγοι</span> <b>equivocal, lascivious</b> stories, [<a href="javascript:void(0)" title=" 2nd c.AD: Athenaeus Epigrammaticus 10.453a. ">Refs 2nd c.AD+</a>]
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.23.12|LXX.Ezek.23.12]]
+</sub></small>

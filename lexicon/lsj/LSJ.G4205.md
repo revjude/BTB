@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>sodomite,</b> [<a href="javascript:void(0
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> in LXX and <b>NT, fornicator,</b> [<a href="javascript:void(0)" title=" LXX.Sir.23.16, NT.1Cor.5.9, +others ">LXX+NT</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>idolater,</b> [<a href="javascript:void(0)" title=" 10th c.AD: Suidas Legal icographus ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.5.9]]
+<small><sub>LSJ Scripture Refs: [[1Cor.5.9|1Cor.5.9]]
 </sub></small>

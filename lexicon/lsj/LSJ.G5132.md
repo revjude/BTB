@@ -18,5 +18,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.7</b> <b>part of the liver,</b> [<a href="java
 $\quad$ $\quad$ $\quad$<b>\_\_III.8</b> <b>shoulder-blade,</b> [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 2.177. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.9</b> <b>grinding surface of the teeth,</b>[<a href="javascript:void(0)" title=" [prev. work] 93, 2nd c.AD: Rufus Medicus “περὶ ὀνομασίας” 54 ">Refs 2nd c.AD+</a>]. (The word is shortened from <span class='asgreek'>τε==τράπεζα==</span>; hence the question <span class='asgreek'>καὶ</span> <span class='asgreek'>πόθεν</span> <span class='asgreek'>ἐγὼ</span> <span class='asgreek'>τρίπουν</span> <span class='asgreek'>τ</span>. <span class='asgreek'>λήψομα</span>; as if this were an absurdity, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Fragmenta” 530; τ. τρισκελεῖς 5th c.BC: Cratinus Comicus 301:">Refs 5th c.BC+</a>] —so <span class='asgreek'>τρίπεζα</span>, <span class='asgreek'>τρέπεδδα</span> (which see), of three-legged tables.)
 
-<small><sub>LSJ Scripture Refs: [[1Cor.10.21]] ☩ [[Matt.21.12]] ☩ [[Luke.19.23]]
+<small><sub>LSJ Scripture Refs: [[1Cor.10.21|1Cor.10.21]] ☩ [[Matt.21.12|Matt.21.12]] ☩ [[Luke.19.23|Luke.19.23]]
 </sub></small>

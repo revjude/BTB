@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>ἡ</span> <span class='asgreek'>κ</span>. <b>camelry</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.80 ">Refs 5th c.BC+</a>]. (Semitic word, cf. Hebrew <b>gāmāl.</b>)
 
-<small><sub>LSJ Scripture Refs: [[Matt.23.24]]
+<small><sub>LSJ Scripture Refs: [[Matt.23.24|Matt.23.24]]
 </sub></small>

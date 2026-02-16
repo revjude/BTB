@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>absolutely</i>, <b>to be quarrelsome</b> or <b>perverse,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.359. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.9.2]]
+<small><sub>LSJ Scripture Refs: [[2Cor.9.2|2Cor.9.2]]
 </sub></small>

@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_8</b>. in <i>passive</i>, of the sea, <span class=
 $\quad$ $\quad$<b>\_\_II</b>. <b>overturn</b>: hence <i>proverbial</i>, <span class='asgreek'>ὅλην</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>ἅμαξαν</span> <span class='asgreek'>ἐπεσπάσω</span> you <b>have \`upset</b> the apple-cart', [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Pseudol.” 32. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b>. <i>middle</i>, <b>draw the prepuce forward, become as</b> <b>if uncircumcised</b>, <span class='asgreek'>μὴ</span> <span class='asgreek'>==ἐπισπάω==σπάσθω</span> [<a href="javascript:void(0)" title=" NT.1Cor.7.18 ">NT</a>]; of the nurse, <span class='asgreek'>==ἐπισπάω==σπάσθω</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>ἀκροποσθίαν</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus 1.113. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.7.18]]
+<small><sub>LSJ Scripture Refs: [[1Cor.7.18|1Cor.7.18]]
 </sub></small>

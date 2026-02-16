@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>text</b> of a manuscript, opposed to marg
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_4.b</b> <b>manuscript</b>, [<a href="javascript:void(0)" title=" [prev. author] 16.468 (assuming variant). ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>background</b> of puppet-theatre, [<a href="javascript:void(0)" title=" 2nd-1st c.BC(?): Hero Mechanicus “Automatopoetica” 30.1, +others ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.22.7]]
+<small><sub>LSJ Scripture Refs: [[Acts.22.7|Acts.22.7]]
 </sub></small>

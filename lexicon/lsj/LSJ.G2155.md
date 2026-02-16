@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>compassionate</b>, [<a href="javascript:void(0)" title=" LXX.PrMan.7, NT.Eph.4.32, NT.1Pet.3.8, “PMag. Leid.V.” 9.3, “PMasp.” 20.11 (6th c.AD). ">LXX+NT+6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eph.4.32]] ☩ [[1Pet.3.8]]
+<small><sub>LSJ Scripture Refs: [[Eph.4.32|Eph.4.32]] ☩ [[1Pet.3.8|1Pet.3.8]]
 </sub></small>

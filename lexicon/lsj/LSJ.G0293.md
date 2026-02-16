@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_1.b</b> <i>metaphorically</i>, of <b>the g
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>fetter, bond,</b> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 81. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> of <b>encircling</b> walls, <span class='asgreek'>==ἀμφίβληστρον==α</span> <span class='asgreek'>τοίχων</span>[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Iphigenia Taurica” 96.">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.4.18]]
+<small><sub>LSJ Scripture Refs: [[Matt.4.18|Matt.4.18]]
 </sub></small>

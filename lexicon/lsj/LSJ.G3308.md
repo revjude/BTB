@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>pursuit, ambition</b>, especially in <i>p
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <span class='asgreek'>Κηΐα</span> <span class='asgreek'>μ</span>. the Cean poet's <b>fancy</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Bacchylides Lyricus 18.11. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>anxious mind</b>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 460 (Lyric poetry)">Refs 4th c.BC+</a>]. (Cf. Sanskrit <i>smárati</i> 'remember', Latin <i>memor.</i>)
 
-<small><sub>LSJ Scripture Refs: [[Matt.13.22]]
+<small><sub>LSJ Scripture Refs: [[Matt.13.22|Matt.13.22]]
 </sub></small>

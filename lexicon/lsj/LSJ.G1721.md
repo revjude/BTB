@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>planted</b>, <span class='asgreek'>Χωρίον</span> [<a href="javascript:void(0)" title=" “PHamb.” 23.16 (6th c.AD)">Refs 6th c.AD+</a>]; <span class='asgreek'>ἐλαῖαι</span> [<a href="javascript:void(0)" title=" “BGU” 241.28 (2nd c.AD). ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>implanted</b>, <span class='asgreek'>λόγος</span> [<a href="javascript:void(0)" title=" NT.Jas.1.21. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jas.1.21]]
+<small><sub>LSJ Scripture Refs: [[Jas.1.21|Jas.1.21]]
 </sub></small>

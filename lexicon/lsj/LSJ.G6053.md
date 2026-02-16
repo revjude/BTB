@@ -7,5 +7,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> of Time, <b>later, younger</b>, [<a href="javascript:void(0)" title=" 3rd c.BC: Callimachus Epicus “Hymnus in Cererem” 131. ">Refs 3rd c.BC+</a>] <i>adverb</i> <span class='asgreek'>κατωτέρω</span>, see at {<span class='asgreek'>κάτω</span>}.
 
-<small><sub>LSJ Scripture Refs: [[Eph.4.9]]
+<small><sub>LSJ Scripture Refs: [[Eph.4.9|Eph.4.9]]
 </sub></small>

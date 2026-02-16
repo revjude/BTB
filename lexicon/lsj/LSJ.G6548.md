@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> with an <i>adjective</i>, <span class='a
 $\quad$ $\quad$ $\quad$<b>\_\_III.4</b> <b>closely fitting,</b> <span class='asgreek'>καθηλῶσαί</span> <span class='asgreek'>τί</span> <span class='asgreek'>τινι</span>[<a href="javascript:void(0)" title=" 2nd c.AD: Polyaenus Historicus 3.11.13. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <i>neuter</i> <i>plural</i> <span class='asgreek'>ἄρτια</span>, ={<u><span class='asgreek'>ἀρτίως</span></u>}[<a href="javascript:void(0)" title=" 2, “Anthologia Graeca” 6.234 (1st c.BC: Erycius Epigrammaticus).">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Tim.3.17]]
+<small><sub>LSJ Scripture Refs: [[2Tim.3.17|2Tim.3.17]]
 </sub></small>

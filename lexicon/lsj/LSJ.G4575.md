@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> name of month, “Augustus”, in Egyptia
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <span class='asgreek'>σεβαστή</span>, <span class='asgreek'>ἡ</span> (i.e. <span class='asgreek'>ἡμέρα</span>), the <b>Emperor's day</b>, the day on which his birthday or accession day was celebrated every month, [<a href="javascript:void(0)" title=" “OGI” 658 (Egypt, 1st c.BC), “POxy.” 288.32 (1st c.AD), “PMich.Teb.” 123r iv 30 (1st c.AD), etc. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <span class='asgreek'>Σεβαστά</span>, <span class='asgreek'>τά</span>,= <span class='asgreek'>Σεβαστεῖα</span> [<a href="javascript:void(0)" title=" 11, “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 2810 b. 13 (p.1112) (from Aphrodisias),compare “IG” 3.129, 14.748, “SIG” 1065.5 (Cos, 1st c.AD). ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.25.21]]
+<small><sub>LSJ Scripture Refs: [[Acts.25.21|Acts.25.21]]
 </sub></small>

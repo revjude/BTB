@@ -13,5 +13,5 @@ $\quad$ $\quad$<b>\_\_VII</b> <b>weight, influence,</b> [<a href="javascript:voi
 $\quad$ $\quad$<b>\_\_VIII</b> Grammars, <b>stress</b> of accent, [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Syntaxi;” 98.1. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IX</b> in Music, ={<span class='asgreek'>βαρύτης</span>}, <b>low pitch,</b> [<a href="javascript:void(0)" title=" 3rd c.AD(?): Aristides Quintilianus Musicus 1.11. ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.4.17]]
+<small><sub>LSJ Scripture Refs: [[2Cor.4.17|2Cor.4.17]]
 </sub></small>

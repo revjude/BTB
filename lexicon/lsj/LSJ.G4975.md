@@ -15,5 +15,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_IV.3</b> used in affirmative answers, <b>I suppose
 $\quad$ $\quad$<b>\_\_V</b> <b>perhaps</b>, <span class='asgreek'>ὑποδραμὼν</span> <span class='asgreek'>σ</span>. <span class='asgreek'>φασεῖ</span> (<span class='asgreek'>φάσει</span> codices) [<a href="javascript:void(0)" title=" Dius cited in 5th c.AD: Stobaeus, Joannes 4.21.17. ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_VI</b> ={<span class='asgreek'>σχέδην</span>}, <span class='asgreek'>ἠκολούθει</span> <span class='asgreek'>σ</span>. [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Bellum Judaicum” 1.17.2 ">Refs 1st c.AD+</a>] (unless = followed <b>at no long distance</b>).
 
-<small><sub>LSJ Scripture Refs: [[Acts.13.44]]
+<small><sub>LSJ Scripture Refs: [[Acts.13.44|Acts.13.44]]
 </sub></small>

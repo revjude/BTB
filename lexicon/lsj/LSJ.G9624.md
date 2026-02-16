@@ -5,3 +5,6 @@
 
  (<span class='asgreek'>φάτνη</span>) <b>roof, ceil,</b> [<a href="javascript:void(0)" title=" LXX.3Ki.7.40(3) ">LXX</a>]:—<i>passive</i>,[<a href="javascript:void(0)" title="LXX.Ezek.41.15. ">LXX</a>]
 
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.41.15|LXX.Ezek.41.15]]
+</sub></small>

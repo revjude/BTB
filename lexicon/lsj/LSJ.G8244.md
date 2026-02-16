@@ -20,5 +20,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_III.2.g</b> of reasoning, <b>weak, loose</
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b>weakly, sickly</b>, -<span class='asgreek'>κῶς</span> <span class='asgreek'>ἔχειν</span> to be <b>ill</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hermippus Comicus 58, Pseudo-Herodotus Historicus “Vitae Homeri” 34, 2nd c.AD: Lucianus Sophista “DDeor.” 9.1; - κῶς διάκειται “PCair.Zen.” 263.3 (3rd c.BC). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <i>adverb</i> -<span class='asgreek'>κῶς</span>, see supr. I, II, III.
 
-<small><sub>LSJ Scripture Refs: [[1Cor.6.9]]
+<small><sub>LSJ Scripture Refs: [[1Cor.6.9|1Cor.6.9]]
 </sub></small>

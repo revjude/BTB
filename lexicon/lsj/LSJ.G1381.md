@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.c</b> <b>examine and admit</b> boys <
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.2.d</b> <b>test</b> an orator's <b>right to speak</b> [<a href="javascript:void(0)" title="compare (δοκιμασία 4), “Anecdota Graeca - Bekker” 310. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> with <i>infinitive</i>, <b>think fit</b> to do, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Bis Acc.” 31, 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 2.7.4, etc.">Refs 1st c.AD+</a>]: with <i>negative</i>, <b>refuse</b> to do, [<a href="javascript:void(0)" title=" NT.Rom.1.28: \_absolutely\_, “BGU” 248.19 (1st c.AD), etc. ">NT+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.1.28]]
+<small><sub>LSJ Scripture Refs: [[Rom.1.28|Rom.1.28]]
 </sub></small>

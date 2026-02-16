@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>feminine</i> <span class='asgreek'>μεσῖτις</span>, <span class='asgreek'>ιδος</span>, <span class='asgreek'>φιλίας</span> <span class='asgreek'>μεσῖτιν</span> <span class='asgreek'>τράπεζαν</span> <span class='asgreek'>παραθέμενοι</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Am.” 27; φιλίας μ. ἡδονή [prev. work] 54. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>in a middle position</b>, of a limb, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 18(2).861. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gal.3.19]] ☩ [[1Tim.2.5]]
+<small><sub>LSJ Scripture Refs: [[Gal.3.19|Gal.3.19]] ☩ [[1Tim.2.5|1Tim.2.5]]
 </sub></small>

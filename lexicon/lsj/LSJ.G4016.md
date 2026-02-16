@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_IV.3</b> <b>use circumlocution</b>, <span class='a
 $\quad$ $\quad$<b>\_\_V</b> <b>throw beyond, beat in throwing</b>: hence generally, <b>excel, surpass</b>, <span class='asgreek'>μνηστῆρας</span> <span class='asgreek'>δώροισι</span> [<a href="javascript:void(0)" title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 15.17 ">Refs 8th c.BC+</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>ἀρετῇ</span> <b>to be superior</b> in.., [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 23.276. ">Refs 8th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_VI</b> <span class='asgreek'>π</span>. <span class='asgreek'>τὸ</span> <span class='asgreek'>λουτρόν</span> <b>take</b> a bath, [<a href="javascript:void(0)" title=" 3rd c.AD: Cassius Medicus “Physici et Medici Graeci Minores” 5; π. πρὸς λουτρόν [prev. passage] ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.25.36]]
+<small><sub>LSJ Scripture Refs: [[Matt.25.36|Matt.25.36]]
 </sub></small>

@@ -24,5 +24,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_IV.3</b> <i>comparative</i> <span class='asgreek'>
 $\quad$ $\quad$ $\quad$<b>\_\_IV.4</b> regular <i>comparative</i> <span class='asgreek'>φιλώτερος</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Memorabilia” 3.11.18 codices, 3rd c.BC: Callimachus Epicus “Fragmenta” 146. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_IV.5</b> also as <i>comparative</i>, <span class='asgreek'>μᾶλλον</span> <span class='asgreek'>==φίλος==</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Choephori” 219, 5th c.BC: Sophocles Tragicus “Philoctetes” 886; φ. μᾶλλον 4th-3rd c.BC: Theophrastus Philosophus “de Causis Plantarum” 6.1.4 ">Refs 5th c.BC+</a>]; <i>superlative</i>, <span class='asgreek'>μάλιστα</span> <span class='asgreek'>φ</span>. [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 8.1.17. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.14.10]]
+<small><sub>LSJ Scripture Refs: [[Luke.14.10|Luke.14.10]]
 </sub></small>

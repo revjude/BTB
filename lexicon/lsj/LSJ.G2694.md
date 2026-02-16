@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>drag out</b>, <span class='asgreek'>οὐ
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <i>passive</i>, <b>to be reduced</b>, [<a href="javascript:void(0)" title=" σωμάτων λοιμῷ -συρέντων 4th c.AD: Libanius Sophista “Orationes” 61.19 ">Refs 4th c.AD+</a>] (variant{<span class='asgreek'>συρέντων</span>}). 
 $\quad$ $\quad$<b>\_\_II</b> <b>draw down, launch</b>, [<a href="javascript:void(0)" title=" τὸ σκαφίδιον 4th c.AD: Alciphro Epistolographus 1.1 ">Refs 4th c.AD+</a>]; <span class='asgreek'>τοὺς</span> <span class='asgreek'>φελλοὺς</span> <span class='asgreek'>κ</span>. <span class='asgreek'>ὑφάλους</span>, of a net, [<a href="javascript:void(0)" title="[prev. passage] ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.12.58]]
+<small><sub>LSJ Scripture Refs: [[Luke.12.58|Luke.12.58]]
 </sub></small>

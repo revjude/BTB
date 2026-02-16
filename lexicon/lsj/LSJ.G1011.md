@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_B.3</b> with <i>accusative</i> <i>of things</i>, <
 $\quad$ $\quad$ $\quad$<b>\_\_B.4</b> with <i>infinitive</i>, <b>resolve</b> to do, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 3.134, 5th-6th c.BC: Plato Philosophus “Charmides” 176c. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_B.5</b> rarely followed by Relat., <span class='asgreek'>β</span>. <span class='asgreek'>ὅ</span> <span class='asgreek'>τι</span> <span class='asgreek'>ποιήσεις</span> [<a href="javascript:void(0)" title="[prev. passage]">Refs</a>]; <span class='asgreek'>β</span>. <span class='asgreek'>ὅπως</span>.. with <i>subjunctive</i>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 1.4.13 ">Refs 5th c.BC+</a>]; <span class='asgreek'>β</span>. <span class='asgreek'>πῶς</span> <span class='asgreek'>τις</span>, with <i>future</i>, [<a href="javascript:void(0)" title=" [prev. author] “An.” 3.4.40; πῶς καὶ τί πρακτέον εἴη 2nd c.BC: Polybius Historicus 1.33.3; ἵνα NT.John.12.10. ">NT+2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.12.10]]
+<small><sub>LSJ Scripture Refs: [[John.12.10|John.12.10]]
 </sub></small>

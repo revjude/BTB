@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_b</b> generally, <b>fashion,</b> <span cla
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>build</b> or <b>found upon,</b> <span class='asgreek'>ἔργα</span> <span class='asgreek'>ἐπί</span> <span class='asgreek'>τι</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 8.7.15; οἰ. τέχνην ἔπεσιν 5th-6th c.BC: Aristophanes Comicus “Pax” 749. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, <b>build up, edify,</b> [<a href="javascript:void(0)" title=" NT.1Cor.8.1, 10.23, etc. ">NT</a>]; <span class='asgreek'>οἰ</span>. <span class='asgreek'>εἰς</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>ἕνα</span> [<a href="javascript:void(0)" title=" NT.1Thess.5.11: but also in bad sense, ==οἰκοδομέω==ηθήσεται εἰς τὸ ἐσθίειν">NT</a>] <b>will be emboldened,</b> [<a href="javascript:void(0)" title=" NT.1Cor.8.10 ">NT</a>]; compare <span class='asgreek'>ἀνοικοδομέω</span>.
 
-<small><sub>LSJ Scripture Refs: [[1Cor.8.1]] ☩ [[1Thess.5.11]] ☩ [[1Cor.8.10]]
+<small><sub>LSJ Scripture Refs: [[1Cor.8.1|1Cor.8.1]] ☩ [[1Thess.5.11|1Thess.5.11]] ☩ [[1Cor.8.10|1Cor.8.10]]
 </sub></small>

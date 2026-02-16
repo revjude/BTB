@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> Boeotian measure, containing nine Attic choenices, i.e. about two gallons, <span class='asgreek'>κ</span>. <span class='asgreek'>σίτου</span> [<a href="javascript:void(0)" title=" “IG” 7.2712.65, compare 5th c.BC: Strattis Comicus 13, 4th c.BC: Aristoteles Philosophus “Historia Animalium” 629a13, 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.16.9]]
+<small><sub>LSJ Scripture Refs: [[Matt.16.9|Matt.16.9]]
 </sub></small>

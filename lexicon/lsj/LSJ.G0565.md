@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> with <i>participle</i>, <span class='asgreek
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>spread abroad,</b> <span class='asgreek'>ἀπῆλθεν</span> <span class='asgreek'>ἡ</span> <span class='asgreek'>ἀκοὴ</span> <span class='asgreek'>αὐτοῦ</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>Συρίαν</span>[<a href="javascript:void(0)" title=" NT.Matt.4.24. ">NT</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>depart from life,</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>κάτω</span>[<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Alcestis” 379, compare 5th c.BC: Sophocles Tragicus “Antigone” 818(Lyric poetry): \_absolutely\_, 3rd c.AD(?): Diogenes Laertius 3.6, “Anthologia Graeca” 11.335, compare 1st c.AD: Philo Judaeus 1.513, 3rd c.AD: Plotinus Philosophus 4.7.15; εἰς τοὺς θεούς “PPetr.” 2p.45 (3rd c.BC).">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.4.24]]
+<small><sub>LSJ Scripture Refs: [[Matt.4.24|Matt.4.24]]
 </sub></small>

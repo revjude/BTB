@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> generally, <b>teach, instruct</b>, with <i>infinitive</i>, <span class='asgreek'>ἐμύησάς</span> <span class='asgreek'>τινα</span> <span class='asgreek'>ἰδεῖν</span> [<a href="javascript:void(0)" title=" “Anthologia Graeca” 7.385 (1st c.AD: Philippus Epigrammaticus); ἀλλά μ᾽ ἀνὴρ ἐμύησ᾽ Ἑλικωνίδα (i.e. εἶναι) [prev. work] 9.162 ">Refs 1st c.AD+</a>]:—<i>passive</i>, <span class='asgreek'>μεμύημαι</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>χορτάζεσθαι</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>πεινᾶν</span> [<a href="javascript:void(0)" title=" NT.Phil.4.12; κυβερνᾶν μυηθήσομαι 4th c.AD: Alciphro Epistolographus 2.4.21. ">NT+4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Phil.4.12]]
+<small><sub>LSJ Scripture Refs: [[Phil.4.12|Phil.4.12]]
 </sub></small>

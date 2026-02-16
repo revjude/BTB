@@ -20,5 +20,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_8</b> <span class='asgreek'>ῥακτηρίοις
 $\quad$ $\quad$ $\quad$<b>\_\_9</b> Astron., <b>cardinal point</b> on the ecliptic, [<a href="javascript:void(0)" title=" 2nd c.AD: Ptolemaeus Mathematicus “Tetrabiblos” 74, 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 5.12, 2nd c.AD: Vettius Valens Astrologus 50.18, etc. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_10</b> <b>hard knot</b> in stone, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 5.2.3 ">Refs 4th c.BC+</a>]; <b>flaw</b> in crystals, [<a href="javascript:void(0)" title=" 1st c.AD: Plinius Rerum Naturalium Scriptor “Historia Naturalis” 37.28. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.15.56]]
+<small><sub>LSJ Scripture Refs: [[1Cor.15.56|1Cor.15.56]]
 </sub></small>

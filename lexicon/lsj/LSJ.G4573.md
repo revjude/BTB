@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> later, ={<span class='asgreek'>σέβομαι</span>}, <span class='asgreek'>ξεῖνον</span> <span class='asgreek'>θανόντα</span> [<a href="javascript:void(0)" title=" 5th-6th c.AD: Orphica “Argonautica” 550; θεόν 4th c.AD: Julianus Imperator “contra Galilaeos” 354b. ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.1.25]]
+<small><sub>LSJ Scripture Refs: [[Rom.1.25|Rom.1.25]]
 </sub></small>

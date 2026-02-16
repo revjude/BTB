@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>transitive</i>, <b>compare, liken,</b> [<a href="javascript:void(0)" title="Diom. p.365K. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.14.70]] ☩ [[Matt.23.27]]
+<small><sub>LSJ Scripture Refs: [[Mark.14.70|Mark.14.70]] ☩ [[Matt.23.27|Matt.23.27]]
 </sub></small>

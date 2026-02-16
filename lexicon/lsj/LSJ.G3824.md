@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_III</b> in “NT.”,
 $\quad$ $\quad$ $\quad$<b>\_\_III.1</b> <b>resurrection,</b> [<a href="javascript:void(0)" title="NT.Matt.19.28. ">NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>regeneration</b> by baptism, <span class='asgreek'>διὰ</span> <span class='asgreek'>λουτροῦ</span> <span class='asgreek'>παλιγγενεσίας</span> [<a href="javascript:void(0)" title=" NT.Titus.3.5. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.19.28]] ☩ [[Titus.3.5]]
+<small><sub>LSJ Scripture Refs: [[Matt.19.28|Matt.19.28]] ☩ [[Titus.3.5|Titus.3.5]]
 </sub></small>

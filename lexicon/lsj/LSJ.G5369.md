@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>wont to bring delight,</b> <span class='asgreek'>Βάκχοιο</span> <span class='asgreek'>νᾶμα</span> [<a href="javascript:void(0)" title=" “Anthologia Graeca” 10.118. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Tim.3.4]]
+<small><sub>LSJ Scripture Refs: [[2Tim.3.4|2Tim.3.4]]
 </sub></small>

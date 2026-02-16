@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>obtuseness, blindness</b>, <span class='asgreek'>τῆς</span> <span class='asgreek'>καρδίας</span> [<a href="javascript:void(0)" title=" NT.Mark.3.5, NT.Eph.4.18: \_absolutely\_, NT.Rom.11.25. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.3.5]] ☩ [[Eph.4.18]] ☩ [[Rom.11.25]]
+<small><sub>LSJ Scripture Refs: [[Mark.3.5|Mark.3.5]] ☩ [[Eph.4.18|Eph.4.18]] ☩ [[Rom.11.25|Rom.11.25]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> a kind of <b>woman's shoe,</b> [<a href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 7.93. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.6.22]]
+<small><sub>LSJ Scripture Refs: [[John.6.22|John.6.22]]
 </sub></small>

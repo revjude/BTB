@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>contend against</b>, <span class='asgreek'>τὴν</span> <span class='asgreek'>ἀλήθειαν</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 13.5.5, compare 12.25d. 6. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>win by a struggle</b>, <span class='asgreek'>βασιλείας</span> [<a href="javascript:void(0)" title=" NT.Heb.11.33. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.11.33]]
+<small><sub>LSJ Scripture Refs: [[Heb.11.33|Heb.11.33]]
 </sub></small>

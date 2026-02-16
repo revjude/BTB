@@ -29,5 +29,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_A0.IV.3</b> <b>whereas,</b> [<a href="javascript:v
 $\quad$ $\quad$<b>\_\_A0.V</b> <span class='asgreek'>ἀφ᾽</span> <span class='asgreek'>οὗπερ</span> <b>from the time that..,</b> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Persae” 177. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_A0.VI</b> <span class='asgreek'>ἐφ᾽</span> <span class='asgreek'>ᾧ</span>, see at {<span class='asgreek'>ἐπί</span>} [<a href="javascript:void(0)" title=" 5th c.BC: Bacchylides Lyricus 111.3. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.13.8]] ☩ [[Luke.10.1]] ☩ [[Rom.6.10]] ☩ [[Gal.2.20]]
+<small><sub>LSJ Scripture Refs: [[Matt.13.8|Matt.13.8]] ☩ [[Luke.10.1|Luke.10.1]] ☩ [[Rom.6.10|Rom.6.10]] ☩ [[Gal.2.20|Gal.2.20]]
 </sub></small>

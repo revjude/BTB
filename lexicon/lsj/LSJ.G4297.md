@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>military promotion,</b> [<a href="javascr
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>process,</b> <span class='asgreek'>κατὰ</span> <span class='asgreek'>==προκοπή==κοπήν</span> by <b>process of time</b> or <b>growth,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus 1.43. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> in Mathematics texts, <b>progression</b> of numbers, <span class='asgreek'>μέχρις</span> <span class='asgreek'>ἂν</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>τετράδα</span> <span class='asgreek'>ἡ</span> <span class='asgreek'>π</span>. <span class='asgreek'>ἔλθῃ</span> [<a href="javascript:void(0)" title=" “Theologumena Arithmeticae” 21. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Phil.1.12]]
+<small><sub>LSJ Scripture Refs: [[Phil.1.12|Phil.1.12]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> Astrology texts, <b>to be also configurate</b>, of planets, [<a href="javascript:void(0)" title=" 2nd c.BC(?): Nechepso Astrologus cited in 2nd c.AD: Vettius Valens Astrologus 279.3, “Catalogus Codicum Astrologorum” 2.187. ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.2.4]]
+<small><sub>LSJ Scripture Refs: [[Heb.2.4|Heb.2.4]]
 </sub></small>

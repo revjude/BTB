@@ -12,5 +12,5 @@ $\quad$ $\quad$<b>\_\_III</b> <i>aorist 2</i> <span class='asgreek'>ἐξέδυ
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <i>perfect</i> and <i>aorist 2</i> with <i>accusative</i>, <b>escape, shun,</b> <span class='asgreek'>νῶ</span>ϊ<span class='asgreek'>ν</span> <span class='asgreek'>δ᾽</span> <span class='asgreek'>ἐκδῦμεν</span> <span class='asgreek'>ὄλεθρον</span> [grant] us <b>to escape..,</b> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 16.99; ἐκδεδυκέναι τὰς λῃτουργίας 4th c.BC: Demosthenes Orator 20.1; τὸν φθόνον ἐκδύς 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pompeius” 30; τὴν ἀληθινὴν οὐσίαν ἐκδεδυκέναι ταῦτα 3rd c.AD: Plotinus Philosophus 6.6.8. ">Refs 8th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <i>absolutely</i>, <b>escape,</b> [<a href="javascript:void(0)" title=" 6th c.BC: Theognis Elegiacus 358 ">Refs 6th c.BC+</a>]; <b>escape one's memory,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus Alcaeus2.147e. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.5.4]]
+<small><sub>LSJ Scripture Refs: [[2Cor.5.4|2Cor.5.4]]
 </sub></small>

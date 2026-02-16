@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>speak beside</b> the purpose, <b>wander in one'
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>speak incidentally</b>, <span class='asgreek'>μῦθον</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.653e ">Refs 1st c.AD+</a>]:—<i>passive</i>, <b>to be cited</b>, <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>παραδείγματος</span> [<a href="javascript:void(0)" title=" 4th c.BC: Aeneas Tacticus 4.7. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b>add</b> to what one has said, [<a href="javascript:void(0)" title=" “BGU” 665 ii 15 (1st c.AD). ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.27.8]]
+<small><sub>LSJ Scripture Refs: [[Acts.27.8|Acts.27.8]]
 </sub></small>

@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>figure, comparison,</b> [<a href="javascript:void(0)" title="NT.John.10.6, +others ">NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>digression, incidental remark</b>, [<a href="javascript:void(0)" title=" 3rd c.BC: Herodas Mimographus 2.61, 5th c.AD(?): Hesychius Legal icographus, 9th c.AD: Photius Legal icographus, etc. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.10.6]]
+<small><sub>LSJ Scripture Refs: [[John.10.6|John.10.6]]
 </sub></small>

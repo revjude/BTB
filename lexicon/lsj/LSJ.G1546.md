@@ -22,5 +22,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_VIII.2</b> <b>cargo thrown overboard, jetsam,</b> 
 $\quad$ $\quad$<b>\_\_IX</b> in Music, <b>interval of five</b> <span class='asgreek'>διέσεις</span>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.1141b, Bacchius Musicus “Εἰσαγωγὴ τέχνης μουσικῆς” 42, 3rd c.AD(?): Aristides Quintilianus Musicus 1.10. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_X</b> ={<span class='asgreek'>==ἐκβολή==άς</span>} I, [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 14.5.28. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.27.18]]
+<small><sub>LSJ Scripture Refs: [[Acts.27.18|Acts.27.18]]
 </sub></small>

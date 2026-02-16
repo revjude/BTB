@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>gold thread,</b> [<a href="javascript:voi
 $\quad$ $\quad$<b>\_\_II</b> as a term of endearment, <b>my little treasure!</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Lysistrata” 930, compare “Ap” 11.232 (Callias argument). ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> ={<span class='asgreek'>τὸ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>παιδίων</span> <span class='asgreek'>αἰδοῖον</span>}, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Pet.3.3]]
+<small><sub>LSJ Scripture Refs: [[1Pet.3.3|1Pet.3.3]]
 </sub></small>

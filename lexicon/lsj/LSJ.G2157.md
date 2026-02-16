@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> of the body, [<a href="javascript:void(0)" title=" NT.1Cor.12.23 ">NT</a>]; <span class='asgreek'>ἡ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>σώματος</span> <span class='asgreek'>εὐ</span>. [<a href="javascript:void(0)" title=" “IGRom.” 4.1029.35 (Astypalaea, 1st c.BC). ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>proper treatment, adequate maintenance,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 9(1).189 (from Tithora). ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.12.23]]
+<small><sub>LSJ Scripture Refs: [[1Cor.12.23|1Cor.12.23]]
 </sub></small>

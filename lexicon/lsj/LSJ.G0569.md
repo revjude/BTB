@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>to be faithless,</b> <span class='asgr
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <span class='asgreek'>νεκρὸς</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>θάνατον</span> <span class='asgreek'>==ἀπιστέω==ούμενος</span> <b>belying</b> death, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Polemo Sophista “Callimachus” 55. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>σῶμ᾽</span> <span class='asgreek'>οὐκ</span> <span class='asgreek'>==ἀπιστέω==ήσω</span> <span class='asgreek'>χθονί</span>, i.e. [<a href="javascript:void(0)" title=" 1 ">Refs</a>]<b>will</b> not <b>hesitate to commit</b> it.., [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Heraclidae” 1024; τούτῳ ἠπίστησεν ἀποθανοῦσαν ἑαυτὴν ἐπιτρέψαι 5th c.BC: Lysias Orator 31.21.">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.16.16]] ☩ [[2Tim.2.13]]
+<small><sub>LSJ Scripture Refs: [[Mark.16.16|Mark.16.16]] ☩ [[2Tim.2.13|2Tim.2.13]]
 </sub></small>

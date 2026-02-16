@@ -12,5 +12,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>occasion, motive</b>, <span class='asgreek'>==�
 $\quad$ $\quad$<b>\_\_IV</b> <b>head, category</b> under which a thing comes, [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 23.75. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_V</b> <b>case in dispute</b>, <span class='asgreek'>ἡ</span> <span class='asgreek'>αἰ</span>. <span class='asgreek'>τοῦ</span> <span class='asgreek'>ἀνθρώπου</span> <span class='asgreek'>μετὰ</span> <span class='asgreek'>τῆς</span> <span class='asgreek'>γυναικός</span>[<a href="javascript:void(0)" title=" NT.Matt.10.10.">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.10.10]]
+<small><sub>LSJ Scripture Refs: [[Matt.10.10|Matt.10.10]]
 </sub></small>

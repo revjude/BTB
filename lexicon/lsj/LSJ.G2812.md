@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> generally, <b>cheat, knave</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Ajax” 1135; κακῶν ἀλλοτρίων κ. 4th c.BC: Demosthenes Orator 45.59. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.10.8]]
+<small><sub>LSJ Scripture Refs: [[John.10.8|John.10.8]]
 </sub></small>

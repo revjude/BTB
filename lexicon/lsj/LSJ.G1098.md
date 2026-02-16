@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>grape-juice</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 6.575. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>sweetness</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Problemata” 931a18. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.2.13]]
+<small><sub>LSJ Scripture Refs: [[Acts.2.13|Acts.2.13]]
 </sub></small>

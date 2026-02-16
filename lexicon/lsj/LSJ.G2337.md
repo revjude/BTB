@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_I</b> of the mother or nurse, <b>suckle</b>, [<a href="jav
 $\quad$ $\quad$<b>\_\_II</b> of the young animal, <b>suck</b>, [<a href="javascript:void(0)" title=" [prev. author] “GA” 733b29, etc.; ἐλέφαντος ὁ σκύμνος θ. τῷ στόματι [prev. author] “HA” 578a22 ">Refs</a>]; <span class='asgreek'>==θηλάζω==ν</span> <span class='asgreek'>χοῖρος</span> a <b>sucking</b> pig, [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 14.15 ">Refs 3rd c.BC+</a>]; seldom of an infant, [<a href="javascript:void(0)" title=" 5th-6th c.AD: Orphica “Fragmenta” 49.87. ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> with <i>accusative</i>, <span class='asgreek'>λεαίνας</span> <span class='asgreek'>μασδὸν</span> <span class='asgreek'>ἐθήλαξεν</span> [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 3.16; ἐὰν μὴ τύχῃ τεθηλακὼς ὁ ὄνος ἵππον 4th c.BC: Aristoteles Philosophus “Historia Animalium” 577b16. (Written θελάσζ- “PSI” 4.368.19 (3rd c.BC).) ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.23.29]]
+<small><sub>LSJ Scripture Refs: [[Luke.23.29|Luke.23.29]]
 </sub></small>

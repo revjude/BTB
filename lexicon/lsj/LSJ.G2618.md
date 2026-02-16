@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> of hot winds, <b>parch</b>, <span class='asg
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, <span class='asgreek'>ὁ</span> <span class='asgreek'>ἔρως</span> <span class='asgreek'>ἐμέ</span>.. <span class='asgreek'>κατακέκαυκεν</span> [<a href="javascript:void(0)" title=" “Lyrica Alexandrina Adespota” 8 ">Refs</a>] (<b>c</b>):—<i>passive</i>, <span class='asgreek'>τὰ</span> <span class='asgreek'>στόματα</span> -<span class='asgreek'>κάεται</span> <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>τέχνην</span> [<a href="javascript:void(0)" title=" 4th c.BC: Anaxandrides Comicus 33.6; -καίομαι καταλελειμμένη “Lyrica Alexandrina Adespota” 1.24. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, of fire, <span class='asgreek'>κατὰ</span> <span class='asgreek'>πῦρ</span> <span class='asgreek'>ἐκάη</span> <b>had burnt down, burnt out</b>, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 9.212. ">Refs 8th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.3.15]]
+<small><sub>LSJ Scripture Refs: [[1Cor.3.15|1Cor.3.15]]
 </sub></small>

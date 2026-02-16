@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> in [<a href="javascript:void(0)" title=" 3rd c.BC: 
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>white spots</b> on the fingernails, [<a href="javascript:void(0)" title=" 3rd c.AD: Alexander Aphrodisiensis Philosophus “προβλήματα ἀνέκδοτα” 2.58. ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> In [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus ==ψευδῶς== is frequently opposed to ἀληθές, “Grg.” 505e, “R.” 382d, “Euthd.” 272b, +others">Refs 5th c.BC+</a>]; so almost like an <i>adjective</i> (compare <span class='asgreek'>ψευδής</span> [near the start]), <span class='asgreek'>ὄνομα</span> <span class='asgreek'>==ψευδῶς==</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ἀληθὲς</span> <span class='asgreek'>λέγειν</span> [<a href="javascript:void(0)" title=" “Cra.” 385c; παράδοξόν τε καὶ ==ψευδῶς== ὄνομα “Plt.” 281b: compare 5th c.BC: Euripides Tragicus “Heraclidae” 462 codices ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.1.25]] ☩ [[Rev.21.27]]
+<small><sub>LSJ Scripture Refs: [[Rom.1.25|Rom.1.25]] ☩ [[Rev.21.27|Rev.21.27]]
 </sub></small>

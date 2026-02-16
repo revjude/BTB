@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_III</b> <i>metaphorically</i>, <b>withdraw, retire,</b> <s
 $\quad$ $\quad$<b>\_\_IV</b> ={<span class='asgreek'>συγχωρέω</span>}, <span class='asgreek'>πάντες</span> <span class='asgreek'>ἀνεχώρησαν</span> <span class='asgreek'>συμπεραίνεσθαι</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>μίασμα</span> [<a href="javascript:void(0)" title=" 6th c.AD: Procopius Caesariensis Historicus “Historia Arcana” 10. ">Refs 6th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> <b>strike, refuse to work,</b> [<a href="javascript:void(0)" title=" PTeb. 26.18, 41.4, +others; ἀνακεχωρηκότα σώματα [prev. work]5.6.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.2.14]]
+<small><sub>LSJ Scripture Refs: [[Matt.2.14|Matt.2.14]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>collective view, table,</b> <span class='
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>plural</i>, <b>successive additions,</b> [<a href="javascript:void(0)" title=" [prev. author] “Alm.” 2.7. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> Astrology texts, <b>aggregation</b> of planets in contact, [<a href="javascript:void(0)" title=" 3rd c.AD: Porphyrius Tyrius Philosophus “in Ptolemaei Tetrabiblon” 188. ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Thess.2.1]]
+<small><sub>LSJ Scripture Refs: [[2Thess.2.1|2Thess.2.1]]
 </sub></small>

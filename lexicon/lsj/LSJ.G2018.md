@@ -25,5 +25,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b>impend, threaten,</b> <span class='as
 $\quad$ $\quad$ $\quad$<b>\_\_III.4</b> of phrases, <b>to be applied,</b> <span class='asgreek'>ἡ</span> <span class='asgreek'>λέξις</span> -<span class='asgreek'>φέρεται</span> <span class='asgreek'>τοῖς</span> <span class='asgreek'>πράγμασιν</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.41c ">Refs 1st c.AD+</a>]; but <span class='asgreek'>οἱ</span> <span class='asgreek'>διὰ</span> <span class='asgreek'>μακροῦ</span> -<span class='asgreek'>φερόμενοι</span> <span class='asgreek'>λόγοι</span> sustained <b>outbursts,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Demetrius Phalereus Rhetor “Demetrius on Style” 196. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.5</b> Grammars, <b>follow,</b> of letters in a word, [<a href="javascript:void(0)" title=" 2nd c.BC: Dionysius Thrax Grammaticus 633.2, 7th c.AD: Hephaestio Grammaticus 1.4, +others, etc. ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.3.5]]
+<small><sub>LSJ Scripture Refs: [[Rom.3.5|Rom.3.5]]
 </sub></small>

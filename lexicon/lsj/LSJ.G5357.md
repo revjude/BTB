@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.c</b> <span class='asgreek'>τὸ</span>
 $\quad$ $\quad$<b>\_\_II</b> from its broad flat shape, <span class='asgreek'>φιάλη</span> <span class='asgreek'>Ἄρεως</span> <i>metaphorically</i> for <span class='asgreek'>ἀσπίς</span>, <b>shield,</b> cited from [<a href="javascript:void(0)" title=" Timaeus Grammaticus (“fragment” 22) by 4th c.BC: Antiphanes Comicus 112, compare 4th c.BC: Anaxandrides Comicus 80, 4th c.BC: Aristoteles Philosophus “Rhetorica” 1412b35. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>ornament used in a coffered ceiling,</b> [<a href="javascript:void(0)" title=" 2nd c.BC: Agatharchides Geographus 102 ">Refs 2nd c.BC+</a>].—The form <b><span class='asgreek'>φιέλη</span></b> was less <i>Attic dialect</i>, [<a href="javascript:void(0)" title="Moer. p.389 P. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rev.5.8]]
+<small><sub>LSJ Scripture Refs: [[Rev.5.8|Rev.5.8]]
 </sub></small>

@@ -5,5 +5,5 @@
  <b>fifteenth</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Problemata” 941b14, 1st c.BC: Diodorus Siculus Historicus 12.81, NT.Luke.3.1; π. τόκοι “Supp.epigram” 4.664.17 (Ilium, 1st c.BC). ">NT+4th c.BC+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Luke.3.1]]
+<small><sub>LSJ Scripture Refs: [[Luke.3.1|Luke.3.1]]
 </sub></small>

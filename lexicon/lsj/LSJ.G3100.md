@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>transitive</i>, <b>make a disciple of, instruct</b>, <span class='asgreek'>πάντα</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>ἔθνη</span> [<a href="javascript:void(0)" title=" NT.Matt.28.19, cf. NT.Acts.14.21 ">NT</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" NT.Matt.13.52. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.28.19]] ☩ [[Acts.14.21]] ☩ [[Matt.13.52]]
+<small><sub>LSJ Scripture Refs: [[Matt.28.19|Matt.28.19]] ☩ [[Acts.14.21|Acts.14.21]] ☩ [[Matt.13.52|Matt.13.52]]
 </sub></small>

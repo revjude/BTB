@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>memorandum, reminder</b>, <span class='asgreek'>μνημόσυνα</span> <span class='asgreek'>γράψομαι</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Vespae” 538; τουτὶ.. ἔστω τὸ μ. μοι [prev. work] 559. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>mark, scar</b>, <span class='asgreek'>μ</span>. <span class='asgreek'>ὑποκαταλιπεῖν</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “προρρητικόν” 2.20. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.26.13]] ☩ [[Acts.10.4]]
+<small><sub>LSJ Scripture Refs: [[Matt.26.13|Matt.26.13]] ☩ [[Acts.10.4|Acts.10.4]]
 </sub></small>

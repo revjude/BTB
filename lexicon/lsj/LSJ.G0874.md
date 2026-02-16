@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_6</b> <b>aptitude, inclination,</b> <span class='a
 $\quad$ $\quad$<b>\_\_II</b> Stoic term for <b>repulsion</b> (opposed to <span class='asgreek'>ὁρμή</span>), [<a href="javascript:void(0)" title=" 3rd c.BC: Chrysippus Stoicus 3.42, compare 40, 6th c.AD: Simplicius Philosophus “in Epictetum commentaria” p.22D. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>release</b> of water from sluice, [<a href="javascript:void(0)" title=" “PAmh.” 2.143.17 (4th c.AD).">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.5.12]] ☩ [[Rom.7.8]]
+<small><sub>LSJ Scripture Refs: [[2Cor.5.12|2Cor.5.12]] ☩ [[Rom.7.8|Rom.7.8]]
 </sub></small>

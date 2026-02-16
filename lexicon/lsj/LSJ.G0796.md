@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>light</b> of a lamp, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Fragmenta - American Journal of Philology” 386, NT.Luke.11.36. ">NT+4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>metaphorically</i>, <span class='asgreek'>ἀστραπήν</span> <span class='asgreek'>τιν᾽</span> <span class='asgreek'>ὀμμάτων</span> <b>flashing</b> of the eyes, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Fragmenta” 474; βλέπων ἀστραπάς 5th-6th c.BC: Aristophanes Comicus “Acharnenses” 566">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐκτυφλοῦν</span> <span class='asgreek'>τιν᾽</span> <span class='asgreek'>ἀστραπὴ</span> [<span class='asgreek'>εἰμί</span>] [<a href="javascript:void(0)" title=" 4th c.BC: Antiphanes Comicus 195.4, compare 3rd c.AD(?): Achilles Tatius Astronomus 6.6.">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.11.36]]
+<small><sub>LSJ Scripture Refs: [[Luke.11.36|Luke.11.36]]
 </sub></small>

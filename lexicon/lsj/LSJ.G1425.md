@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>active</i>, <b>slow of understanding</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Vettius Valens Astrologus 345.26. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Pet.3.16]]
+<small><sub>LSJ Scripture Refs: [[2Pet.3.16|2Pet.3.16]]
 </sub></small>

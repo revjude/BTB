@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>of the age to take part in the festival of</b> <span class='asgreek'>χόες</span>, [<a href="javascript:void(0)" title=" “IG” 3.1342. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.15.47]]
+<small><sub>LSJ Scripture Refs: [[1Cor.15.47|1Cor.15.47]]
 </sub></small>

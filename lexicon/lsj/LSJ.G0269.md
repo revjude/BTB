@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_I</b> <b>with whom no one fights, unconquerable,</b> of pe
 $\quad$ $\quad$<b>\_\_II</b> <i>active</i>, <b>not having fought, taking no part in the battle,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 4.1.16">Refs 5th c.BC+</a>]; <span class='asgreek'>ἄ</span>. <span class='asgreek'>διάγειν</span> to remain <b>without</b> <b>fighting,</b> [<a href="javascript:void(0)" title=" [prev. author] “HG” 4.4.9: ἄμαχον, τό,">Refs</a>] <b>non-combatants,</b> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “Tactica - Griechische Kriegsschriftsteller” 2.2, compare 2nd-3rd c.AD: Dio Cassius Historicus 53.12; ἄ. νίκη ">Refs 2nd c.AD+</a>]<b>gained without fighting,</b> [<a href="javascript:void(0)" title=" 4th-5th c.AD: Eunapius Historicus “Vitae Sophistarum” p.472 5th c.BC: Bacchylides Lyricus ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>disinclined to fight, not contentious,</b> [<a href="javascript:void(0)" title=" NT.1Tim.3.3, NT.Titus.3.2, compare “Inscription Cos” 325; ἄ. ἐβίωσα “Epigr Gr.” 387.6 (Apamea Cibotus).">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Tim.3.3]] ☩ [[Titus.3.2]]
+<small><sub>LSJ Scripture Refs: [[1Tim.3.3|1Tim.3.3]] ☩ [[Titus.3.2|Titus.3.2]]
 </sub></small>

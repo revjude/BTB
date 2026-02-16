@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>scourge, plague</b>, <span class='asgreek'>==μάστιξ==ιξ</span> <span class='asgreek'>Διός</span> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 12.37, 13.812; ==μάστιξ==ιγι θείᾳ.. ἐλαύνομαι 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 682; πληγεὶς θεοῦ ==μάστιξ==ιγι [prev. author] “Th.” 608 ">Refs 8th c.BC+</a>]; <span class='asgreek'>διπλῇ</span> <span class='asgreek'>μ</span>., <span class='asgreek'>τὴν</span> <span class='asgreek'>Ἄρης</span> <span class='asgreek'>φιλεῖ</span>, i.e. fire and sword, [<a href="javascript:void(0)" title=" [prev. author] “Ag.” 642 ">Refs</a>]; <span class='asgreek'>μ</span>. [<span class='asgreek'>Θεοῦ</span>], of sickness, [<a href="javascript:void(0)" title=" NT.Mark.5.34, compare 3.10 (\_plural\_)">NT</a>]; but <span class='asgreek'>==μάστιξ==ιξ</span> <span class='asgreek'>Πειθοῦς</span> the <b>lash</b> of eloquence, [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “P.” 4.219:">Refs 5th c.BC+</a>] — \_Ionic dialect\_ <span class='asgreek'>==μάστιξ==ις</span> (which see): <span class='asgreek'>==μάστιξ==ιγξ</span> is not found.
 
-<small><sub>LSJ Scripture Refs: [[Mark.5.34]]
+<small><sub>LSJ Scripture Refs: [[Mark.5.34|Mark.5.34]]
 </sub></small>

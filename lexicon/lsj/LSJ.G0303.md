@@ -25,5 +25,5 @@ $\quad$ <b>\_\_G</b> <span class='asgreek'>ἄνα</span>, written with <i>anast
 $\quad$ $\quad$ $\quad$<b>\_\_G.2</b> <i>apocopation</i> <span class='asgreek'>ἄν</span> after <span class='asgreek'>ὤρνυτο</span>, <span class='asgreek'>ὦρτο</span>, <b>and up stood.. arose,</b> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 3.268, 23.837, etc. ">Refs 8th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_G.3</b> when used as <i>preposition</i> <span class='asgreek'>==ἀνά==</span> never suffers anastrophe.
 
-<small><sub>LSJ Scripture Refs: [[Luke.9.14]] ☩ [[Matt.20.10]] ☩ [[Rev.21.21]]
+<small><sub>LSJ Scripture Refs: [[Luke.9.14|Luke.9.14]] ☩ [[Matt.20.10|Matt.20.10]] ☩ [[Rev.21.21|Rev.21.21]]
 </sub></small>

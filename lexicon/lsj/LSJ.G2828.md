@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>nuptial bed</b>, [<a href="javascript:
 $\quad$ $\quad$<b>\_\_III</b> <b>company</b> of people <b>sitting at meals,</b> [<a href="javascript:void(0)" title="NT.Luke.9.14">NT</a>]; <b>banquet</b>, <span class='asgreek'>εὐωχίαι</span> <span class='asgreek'>τε</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>κ</span>. [<a href="javascript:void(0)" title=" 1st c.AD: Onosander (Onasander) Tacticus 35.5 ">Refs 1st c.AD+</a>]; <b>room for company</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Am.” 12. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>way of lying, decubitus</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἐπιδημίαι” 7.25; τὸ σχῆμα τῆς κ. 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Sertorius” 26. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.9.14]]
+<small><sub>LSJ Scripture Refs: [[Luke.9.14|Luke.9.14]]
 </sub></small>

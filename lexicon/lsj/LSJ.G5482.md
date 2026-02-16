@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> collectively, ={<span class='asgreek'>�
 $\quad$ $\quad$<b>\_\_IV</b> a seafish, one of the <b>breams, Sargus,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Diphilus Siphnius Rerum Naturalium Scriptor cited in Ath 8.355e, 2nd-3rd c.AD: Oppianus Anazarbensis Epicus “Halieutica - Poetae Bucolici et Didactici” 1.173 ">Refs 3rd c.BC+</a>]; also a fish of the Red Sea, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “De Natura Animalium - Ar.Byzantine Epit.” 12.25. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_V</b> name of a <b>bandage,</b> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Heliodorus Medicus cited in 4th c.AD: Oribasius Medicus 48.31 at Title Page, 2nd c.AD: Soranus Medicus “de fasciis - Opera Hippocratis et Galeni” 17, 2nd c.AD: Galenus Medicus 18 (1).777. (2nd c.AD: Phrynichus Atticista 43 gives ἡ χ.">Refs 1st c.AD+</a>] in <i>signification</i> 1, and in [<a href="javascript:void(0)" title=" “PS” p.125B. gives ὁ χ. in signification 11, compare 2nd c.AD(?): Pollianus Epigrammaticus 1.162; but this distinction is not observed by later writers.) ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.19.43]]
+<small><sub>LSJ Scripture Refs: [[Luke.19.43|Luke.19.43]]
 </sub></small>

@@ -5,5 +5,5 @@
  <b>mockery, mocking</b>, [<a href="javascript:void(0)" title=" LXX.Sir.27.28, +others, NT.Heb.11.36 (\_plural\_). ">LXX+NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Heb.11.36]]
+<small><sub>LSJ Scripture Refs: [[Heb.11.36|Heb.11.36]]
 </sub></small>

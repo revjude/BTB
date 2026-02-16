@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>rouse</b> or <b>stir oneself, be excit
 $\quad$ $\quad$<b>\_\_III</b> <i>intransitive</i> in <i>active</i>, <b>arouse oneself</b>, [<a href="javascript:void(0)" title=" 5th-4th c.BC: Aesopus Fabularum Scriptor 16b. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> in <span class='asgreek'>ἀμφὶ</span> <span class='asgreek'>πυρὴν</span>.. <span class='asgreek'>ἔγρετο</span> <span class='asgreek'>λαός</span> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 7.434, 24.789, ἔγρ. is for ἤγρ- ">Refs 8th c.BC+</a>] (<span class='asgreek'>ἀγείρω</span>); so in [<a href="javascript:void(0)" title=" 3rd c.BC: Maiistas Epicus 52. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.10.8]] ☩ [[1Cor.15.42]] ☩ [[Jas.5.15]] ☩ [[John.2.19]]
+<small><sub>LSJ Scripture Refs: [[Matt.10.8|Matt.10.8]] ☩ [[1Cor.15.42|1Cor.15.42]] ☩ [[Jas.5.15|Jas.5.15]] ☩ [[John.2.19|John.2.19]]
 </sub></small>

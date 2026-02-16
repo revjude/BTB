@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>impute</b>, [<a href="javascript:void(0)" title=" “BGU” 140.32 (2nd c.AD)">Refs 2nd c.AD+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" NT.Rom.5.13. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.5.13]]
+<small><sub>LSJ Scripture Refs: [[Rom.5.13|Rom.5.13]]
 </sub></small>

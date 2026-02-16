@@ -5,5 +5,5 @@
  <b>earnest expectation,</b> [<a href="javascript:void(0)" title="NT.Rom.8.19, NT.Phil.1.20.">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Rom.8.19]] ☩ [[Phil.1.20]]
+<small><sub>LSJ Scripture Refs: [[Rom.8.19|Rom.8.19]] ☩ [[Phil.1.20|Phil.1.20]]
 </sub></small>

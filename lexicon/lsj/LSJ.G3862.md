@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>that which is handed down</b> or <b>beque
 $\quad$ $\quad$<b>\_\_II</b> <b>surrender</b>, <span class='asgreek'>πόλεως</span> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 3.53 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἐκ</span> <span class='asgreek'>παραδόσεως</span>, opposed to <span class='asgreek'>κατὰ</span> <span class='asgreek'>κράτος</span>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 9.25.5 ">Refs 2nd c.BC+</a>]; <b>giving up to punishment</b> or <b>torture</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Isocrates Orator 17.16; π. ἐπὶ θανάτῳ 1st c.BC: Dionysius Halicarnassensis 7.36. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> Astrology texts, <b>handing over</b>, <span class='asgreek'>τῶν</span> <span class='asgreek'>χρόνων</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Vettius Valens Astrologus 141.4. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.15.2]] ☩ [[Mark.7.3]]
+<small><sub>LSJ Scripture Refs: [[Matt.15.2|Matt.15.2]] ☩ [[Mark.7.3|Mark.7.3]]
 </sub></small>

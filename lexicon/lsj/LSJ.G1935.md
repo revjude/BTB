@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b>. <span class='asgreek'>αἱ</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>δᾷδες</span> the <b>funeral</b> torches, [<a href="javascript:void(0)" title=" 4th c.AD: Libanius Sophista “Declamationes” 40.15 ">Refs 4th c.AD+</a>]; but <span class='asgreek'>ἐ</span>. <span class='asgreek'>ἐπιστολή</span> <b>deadly</b>, [<a href="javascript:void(0)" title="[prev. work] 2.28. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.4.9]]
+<small><sub>LSJ Scripture Refs: [[1Cor.4.9|1Cor.4.9]]
 </sub></small>

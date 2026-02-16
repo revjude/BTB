@@ -14,5 +14,5 @@ $\quad$ $\quad$<b>\_\_II</b> = Latin <i>colonia,</i> [<a href="javascript:void(0
 &nbsp;&nbsp;= Latin <i>colonia</i>, [<a href="javascript:void(0)" title=" “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 2811b (from Aphrodisias), “POxy.” 653 (2nd c.AD)">Refs 2nd c.AD+</a>], etc.;.
 
 
-<small><sub>LSJ Scripture Refs: [[Acts.16.12]]
+<small><sub>LSJ Scripture Refs: [[Acts.16.12|Acts.16.12]]
 </sub></small>

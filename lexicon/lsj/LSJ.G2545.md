@@ -14,5 +14,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>burn and destroy</b> (in war), <span class='asg
 $\quad$ $\quad$<b>\_\_IV</b> of surgeons, <b>cauterize</b>, <span class='asgreek'>ὤμους</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἄρθρων ἐμβολῆς” 11 ">Refs 5th c.BC+</a>]:—in <i>passive</i>, [<a href="javascript:void(0)" title=" [prev. author] “Aph.” 6.60: \_absolutely\_, τέμνειν καὶ κάειν">Refs</a>] <b>to use</b> knife and <b>cautery</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Gorgias” 480c, 521e, 5th-6th c.BC: Xenophon Historicus “Anabasis” 5.8.18, etc.: rarely reversed, κέαντες ἢ τεμόντες 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 849. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_V</b> <b>burn</b> or <b>bake</b> pottery, <span class='asgreek'>κανθάρους</span> uncertain in [<a href="javascript:void(0)" title=" 5th c.BC: Phrynichus Comicus 15. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.3.15]]
+<small><sub>LSJ Scripture Refs: [[1Cor.3.15|1Cor.3.15]]
 </sub></small>

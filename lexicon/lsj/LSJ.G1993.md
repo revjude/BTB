@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b>. of flute-players, <span class='asgreek'>ἐ</span>. <span class='asgreek'>ἑαυτὸν</span> <span class='asgreek'>φορβειᾷ</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>αὐλοῖς</span> <b>put on the mouthpiece</b> and flutes, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.713d">Refs 1st c.AD+</a>]; but <span class='asgreek'>ὁ</span> <span class='asgreek'>αὐλὸς</span> <span class='asgreek'>ἐ</span>. [<a href="javascript:void(0)" title=" [prev. author] Alcaeus2 ">Refs</a>]: hence, <b>gag</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Merc.” “Cond.” 7. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b>. <b>throw on his face</b>, <span class='asgreek'>τινά</span> [<a href="javascript:void(0)" title=" [prev. author] “Pr.Im.” 10, “Cal.” 12. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Titus.1.11]]
+<small><sub>LSJ Scripture Refs: [[Titus.1.11|Titus.1.11]]
 </sub></small>

@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>lack of acquaintance</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Tim.” 42. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>being unknown, obscurity</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Menexenus” 238d.">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.15.34]]
+<small><sub>LSJ Scripture Refs: [[1Cor.15.34|1Cor.15.34]]
 </sub></small>

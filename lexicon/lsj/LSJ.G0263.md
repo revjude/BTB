@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>substantive</i> <span class='asgreek'>ἀμάραντον</span>, <span class='asgreek'>τό</span> (but in Latin <i>amarantus</i>), <b>never-fading flower,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 14.607e (from Carales), 2nd c.AD(?): Pollianus Epigrammaticus 1.229">Refs 2nd c.AD+</a>]; ={<span class='asgreek'>ἑλίχρυσον</span>}, [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 4.57">Refs 1st c.AD+</a>]; ={<span class='asgreek'>κενταύρειον</span> <span class='asgreek'>μικρόν</span>}, Ps.-[<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 3.7">Refs 1st c.AD+</a>]; ={<span class='asgreek'>χρυσοκόμη</span>}. [<a href="javascript:void(0)" title=" [prev. author] 4.55.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Pet.1.4]]
+<small><sub>LSJ Scripture Refs: [[1Pet.1.4|1Pet.1.4]]
 </sub></small>

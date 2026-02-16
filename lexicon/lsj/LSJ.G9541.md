@@ -5,3 +5,6 @@
 
  <b>exaltation,</b> [<a href="javascript:void(0)" title=" LXX.Ezek.47.11. ">LXX</a>]
 
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.47.11|LXX.Ezek.47.11]]
+</sub></small>

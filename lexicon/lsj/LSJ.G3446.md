@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>form, semblance,</b> [<a href="javascript:void(0)" title="NT.Rom.2.20, NT.2Tim.3.5. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.2.20]] ☩ [[2Tim.3.5]]
+<small><sub>LSJ Scripture Refs: [[Rom.2.20|Rom.2.20]] ☩ [[2Tim.3.5|2Tim.3.5]]
 </sub></small>

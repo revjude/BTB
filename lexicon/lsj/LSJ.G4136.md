@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>assurance given,</b> [<a href="javascript:void(0)" title=" 4th-6th c.AD: Codex Justinianus 1.1.5.4. ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Thess.1.5]] ☩ [[Col.2.2]] ☩ [[Heb.6.11]]
+<small><sub>LSJ Scripture Refs: [[1Thess.1.5|1Thess.1.5]] ☩ [[Col.2.2|Col.2.2]] ☩ [[Heb.6.11|Heb.6.11]]
 </sub></small>

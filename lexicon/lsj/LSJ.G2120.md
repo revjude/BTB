@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>convenient situation</b>, <span class=
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>opportune supply</b>, <span class='asgreek'>ὑδάτων</span>, of rainfall or irrigation, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “de Causis Plantarum” 3.23.4 (\_plural\_), 1st c.BC: Diodorus Siculus Historicus 1.52. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>wealth, prosperity</b>, <span class='asgreek'>αἱ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>βίων</span> <span class='asgreek'>εὐ</span>. [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 1.59.7, compare 13.9.2 (conjecture), etc.">Refs 2nd c.BC+</a>]; <span class='asgreek'>εὐ</span>. <span class='asgreek'>οὐκ</span> <span class='asgreek'>ἔχει</span> he has no <b>property</b>, [<a href="javascript:void(0)" title=" “BGU” 665ii4 (1st c.AD). ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.26.16]]
+<small><sub>LSJ Scripture Refs: [[Matt.26.16|Matt.26.16]]
 </sub></small>

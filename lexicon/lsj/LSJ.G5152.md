@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>τ</span>. (i.e. <span class='asgreek'>οἴκημα</span>) <b>the third story,</b> [<a href="javascript:void(0)" title=" NT.Acts.20.9">NT</a>]:—also <b><span class='asgreek'>τριστέγη</span></b>, <span class='asgreek'>ἡ</span>, [<a href="javascript:void(0)" title=" 2nd c.AD: Artemidorus Daldianus Onirocriticus 4.46. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.20.9]]
+<small><sub>LSJ Scripture Refs: [[Acts.20.9|Acts.20.9]]
 </sub></small>

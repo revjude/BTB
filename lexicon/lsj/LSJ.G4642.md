@@ -18,5 +18,5 @@ $\quad$ $\quad$<b>\_\_III</b> <i>adverb</i>, -<span class='asgreek'>ρῶς</spa
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>hardly, with difficulty</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Fragmenta” 282.9. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <b>harshly, obstinately</b>, <span class='asgreek'>σ</span>. <span class='asgreek'>διαμάχεσθαι</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 629a ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἀπειλεῖν</span>[<a href="javascript:void(0)" title=" [prev. work] 885d; τὰ μαλακὰ σ. καὶ τὰ σκληρὰ μαλακῶς λέγειν 4th c.BC: Aristoteles Philosophus “Rhetorica” 1408b9; σ. αὐλεῖν [prev. author] “Aud.” 803a20. (Prob. \_cognate\_ with σκέλλω.) ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jas.3.4]]
+<small><sub>LSJ Scripture Refs: [[Jas.3.4|Jas.3.4]]
 </sub></small>

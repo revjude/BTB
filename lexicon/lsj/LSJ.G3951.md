@@ -6,5 +6,5 @@ Included with: <b> <span class='asgreek'>==παροτρύνω==</span>-<span cl
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> in Medicine texts, <b>displace</b> the uterus, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “γυναικεῖα” 2.138. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.13.50]]
+<small><sub>LSJ Scripture Refs: [[Acts.13.50|Acts.13.50]]
 </sub></small>

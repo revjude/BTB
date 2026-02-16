@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> in <i>plural</i>, <span class='asgreek'>ἄ</span>. <span class='asgreek'>χρυσοχο</span>ϊ<span class='asgreek'>κά</span> <b>slag</b> from gold-smelting, [<a href="javascript:void(0)" title=" “PHolm.” 5.7.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.3.12]]
+<small><sub>LSJ Scripture Refs: [[Matt.3.12|Matt.3.12]]
 </sub></small>

@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_5</b> ={<span class='asgreek'>τὸ</span> <span c
 $\quad$ $\quad$<b>\_\_II</b> <b>indulgence, licence,</b> <span class='asgreek'>ἡδονῶν</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica” 561a; ἡ τῶν γυναικῶν παρ᾽ ὑμῖν ἄ. [prev. author] “Lg.” 637c, compare 4th c.BC: Aristoteles Philosophus “Politica” 1270a1; δούλων [prev. work] 1313b35">Refs 5th c.BC+</a>]; <b>relaxation of custody,</b> [<a href="javascript:void(0)" title=" NT.Acts.24.23. ">NT</a>]
 $\quad$ $\quad$<b>\_\_III</b> of musical pitch, [<a href="javascript:void(0)" title=" 3rd c.AD(?): Aristides Quintilianus Musicus 1.5 ">Refs 3rd c.AD+</a>]; of an unaccented syllable, [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “περὶ ποιημάτων” 2.18.">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.8.13]] ☩ [[Acts.24.23]]
+<small><sub>LSJ Scripture Refs: [[2Cor.8.13|2Cor.8.13]] ☩ [[Acts.24.23|Acts.24.23]]
 </sub></small>

@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>passive</i> also, <b>grow above,</b> <span class='asgreek'>ὑπεραύξονται</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>ἀμπέλων</span> [<a href="javascript:void(0)" title="Scholia 5th-6th c.BC: Aristophanes Comicus “Vespae” 1282. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>intransitive</i> in <i>active</i>, <b>grow</b> or <b>abound exceedingly,</b> <span class='asgreek'>==ὑπεραυξάνω==ήσας</span> (of a fish) Callisth. cited in [<a href="javascript:void(0)" title=" 5th c.AD: Stobaeus, Joannes 4.36.16; ==ὑπεραυξάνω==άνει ἡ πίστις ὑμῶν NT.2Thess.1.3. ">NT+5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Thess.1.3]]
+<small><sub>LSJ Scripture Refs: [[2Thess.1.3|2Thess.1.3]]
 </sub></small>

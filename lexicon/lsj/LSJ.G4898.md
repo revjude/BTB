@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>σ</span>. <span class='asgreek'>συντάγματα</span> <b>portable</b> handbooks, <b>vade-mecums</b>, [<a href="javascript:void(0)" title=" 7th c.AD: Paulus Aegineta Medicus “Prooem.”; σ. κολλούριον 6th c.AD: Aëtius Medicus 7.103. ">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.19.29]]
+<small><sub>LSJ Scripture Refs: [[Acts.19.29|Acts.19.29]]
 </sub></small>

@@ -5,3 +5,6 @@
 
  <i>passive</i>, <b>have the flesh stripped off,</b> [<a href="javascript:void(0)" title=" LXX.Ezek.24.4. ">LXX</a>]
 
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.24.4|LXX.Ezek.24.4]]
+</sub></small>

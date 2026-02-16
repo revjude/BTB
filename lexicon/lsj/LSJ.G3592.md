@@ -23,5 +23,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> <i>accusative</i> <i>neuter</i> <span cla
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_IV.2.b</b> <b>therefore, on this account,</b> <span class='asgreek'>τόδε</span> <span class='asgreek'>χώεο</span> [<a href="javascript:void(0)" title=" 23.213 ">Refs</a>]: so also <i>accusative</i> <i>plural</i> <i>neuter</i>, <span class='asgreek'>τάδε</span> <span class='asgreek'>γηθήσειε</span> <b>on this account,</b> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 9.77. ">Refs 8th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_IV.3</b> <i>dative</i> <i>plural</i> <i>neuter</i>, <span class='asgreek'>τοισίδε</span> <b>in</b> or <b>with these words,</b> <span class='asgreek'>τοισίδε</span> <span class='asgreek'>ἀμείβεται</span> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.120 ">Refs 5th c.BC+</a>]; <span class='asgreek'>τοισίδε</span> <span class='asgreek'>προέχει</span> <b>in these respects,</b> [<a href="javascript:void(0)" title="[prev. work] 32. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jas.4.13]]
+<small><sub>LSJ Scripture Refs: [[Jas.4.13|Jas.4.13]]
 </sub></small>

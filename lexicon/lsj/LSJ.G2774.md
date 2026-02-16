@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.5.b</b> <b>sum total,</b> [<a href="jav
 $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> <b>crown, completion</b> of a thing, <span class='asgreek'>τὸ</span> <span class='asgreek'>μὲν</span> <span class='asgreek'>κ</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>ἀδικημάτων</span> the <b>crowning act</b> of wrong, [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 27.7; δύο ταῦτα ὡσπερεὶ κ. ἐφ᾽ ἅπασι.. ἐπέθηκε [prev. author] 21.18. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.7</b> <b>chapter, section, PGnom.Prooem.</b>, [<a href="javascript:void(0)" title=" 5th c.AD: Ammonius Philosophus “in Aristotelis de Interpretatione commentarius - pars” 1.17, +others, Chor.in “Hermes” 17.223">Refs 5th c.AD+</a>]; distinguished from <span class='asgreek'>τίτλος</span>, [<a href="javascript:void(0)" title=" 10th c.AD: Suidas Legal icographus s.Hymns of see. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.22.28]]
+<small><sub>LSJ Scripture Refs: [[Acts.22.28|Acts.22.28]]
 </sub></small>

@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>plural</i>, as <i>substantive</i>, <span class='asgreek'>οἱ</span> <span class='asgreek'>ἐ</span>., ={<span class='asgreek'>θεοί</span>}, [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 25.5, 2nd c.BC: Moschus Bucolicus 2.21 ">Refs 3rd c.BC+</a>]; opposed to <span class='asgreek'>ἐπίγειοι</span>, [<a href="javascript:void(0)" title=" NT.Phil.2.11; so ἤδη ἐ. εἶ 2nd c.AD: Lucianus Sophista “DDeor.” 4.3 ">NT+2nd c.AD+</a>]; <span class='asgreek'>τὰ</span> <span class='asgreek'>ἐ</span>., ={<span class='asgreek'>τὰ</span> <span class='asgreek'>μετέωρα</span>}, variant in [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Apologia” 19b (ἐ. σώματα NT.1Cor.15.40). ">NT+5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>up to heaven,</b> <span class='asgreek'>ἔπτατ᾽</span> <span class='asgreek'>ἐπουρανίη</span> variant in [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Aratus Epicus 134. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.18.35]] ☩ [[Phil.2.11]] ☩ [[1Cor.15.40]]
+<small><sub>LSJ Scripture Refs: [[Matt.18.35|Matt.18.35]] ☩ [[Phil.2.11|Phil.2.11]] ☩ [[1Cor.15.40|1Cor.15.40]]
 </sub></small>

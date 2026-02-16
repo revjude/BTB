@@ -5,5 +5,5 @@
  <b>expelled from the synagogue,</b> [<a href="javascript:void(0)" title="NT.John.9.22, etc.">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[John.9.22]]
+<small><sub>LSJ Scripture Refs: [[John.9.22|John.9.22]]
 </sub></small>

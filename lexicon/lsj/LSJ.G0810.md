@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>profligacy,</b> [<a href="javascript:void(0)" title="NT.Eph.5.18, +others: \_plural\_, ἐν ==ἀσωτία==ις καὶ κραιπάλαις 2nd c.AD: Herodianus Grammaticus 2.5.1.">NT+2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eph.5.18]]
+<small><sub>LSJ Scripture Refs: [[Eph.5.18|Eph.5.18]]
 </sub></small>

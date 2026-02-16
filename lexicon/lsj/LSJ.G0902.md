@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>measuring-rod,</b> <span class='asgreek'>β</span>. <span class='asgreek'>δικαίῳ</span> <span class='asgreek'>ἑξαπήχει</span> [<a href="javascript:void(0)" title=" “PFlor.” 37.3 (5th-6th c.AD),compare “BGU” 1094.12 (6th c.AD). ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.12.13]]
+<small><sub>LSJ Scripture Refs: [[John.12.13|John.12.13]]
 </sub></small>

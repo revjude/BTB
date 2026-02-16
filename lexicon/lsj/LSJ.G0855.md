@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>in secret,</b> <span class='asgreek'>==ἄφαντος==α</span> <span class='asgreek'>βρέμειν</span>[<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “P.” 11.30. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>obscure,</b> [<a href="javascript:void(0)" title=" [prev. author] “N.” 8.34">Refs</a>]; <span class='asgreek'>θεοῖς</span> <span class='asgreek'>δῆλος</span> <span class='asgreek'>θνητοῖσι</span> <span class='asgreek'>δ᾽</span> <span class='asgreek'>ἄ</span>. Epimenid.II.—poetical and late Prose, <span class='asgreek'>ἄ</span>. <span class='asgreek'>γενέσθαι</span>[<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 3.60, 4.65, NT.Luke.24.31; τὰ ==ἄφαντος==α φήναντες 2nd c.AD: Aristides Rhetor 1.260 1st c.AD: Josephus Historicus, cf. Scholia 4th-3rd c.BC: Aratus Epicus 899.">NT+4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.24.31]]
+<small><sub>LSJ Scripture Refs: [[Luke.24.31|Luke.24.31]]
 </sub></small>

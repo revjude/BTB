@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>youthful spirit, impetuosity,</b> [<a hre
 $\quad$ $\quad$<b>\_\_II</b> collective, ={<span class='asgreek'>νεολαία</span>}, <b>body of youth,</b> especially of military or athletic age, [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “I.” 8(7).75, 5th c.BC: Herodotus Historicus 4.3, 9.12, 5th c.BC: Thucydides Historicus 2.8, 20, etc. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> in Crete, <b><span class='asgreek'>νεότας</span></b>, <span class='asgreek'>ἁ</span>, <i>accusative</i> <span class='asgreek'>νεότα</span>, <i>genitive</i> <span class='asgreek'>νεότας</span>, <b>board of officials representing the</b> <span class='asgreek'>νέοι</span> [<a href="javascript:void(0)" title="compare (νέος 1.1), “GDI” 5012.6, “SIG” 525.9 (Gortyn, 3rd c.BC). ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.10.20]]
+<small><sub>LSJ Scripture Refs: [[Mark.10.20|Mark.10.20]]
 </sub></small>

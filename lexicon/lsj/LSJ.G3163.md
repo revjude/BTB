@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>mode of fighting, way of battle</b>, <span class
 $\quad$ $\quad$<b>\_\_III</b> <b>field of battle</b>, interpolated in [<a href="javascript:void(0)" title=" [prev. author] “An.” 2.2.6, 5.5.4. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_IV</b> in Logic, <b>contradiction, inconsistency</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Epictetus Philosophus “Enchiridion” 52.1, 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 7.392. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Titus.3.9]]
+<small><sub>LSJ Scripture Refs: [[Titus.3.9|Titus.3.9]]
 </sub></small>

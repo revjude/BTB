@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>strenuously</b>, [<a href="javascript:voi
 $\quad$ $\quad$ $\quad$<b>\_\_6</b> <b>peremptorily</b>, -<span class='asgreek'>ώτερον</span> <span class='asgreek'>ἐπιστεῖλαι</span>, <span class='asgreek'>γράψαι</span>, [<a href="javascript:void(0)" title=" “PLille” 1.3i14 (3rd c.BC), “PPetr.” 2p.22, 3p.132 (compare p. x) (3rd c.BC). ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> of the voice, <b>well-pitched</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Generatione Animalium” 786b8. (Sts. as variant in codices for ἔντονος, 2nd c.BC: Polybius Historicus [same place] ">Refs 4th c.BC+</a>]; <span class='asgreek'>==εὐτόνως==ος</span> is perhaps <i>falsa lectio</i> for{<span class='asgreek'>ἔντονον</span>} in [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Fragmenta” 966.) ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.23.10]]
+<small><sub>LSJ Scripture Refs: [[Luke.23.10|Luke.23.10]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>that is no mother, unmotherly,</b> <span class='asgreek'>μήτηρ</span> <span class='asgreek'>==ἀμήτωρ==</span>[<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Electra” 1154 ">Refs 5th c.BC+</a>]; of dam mounted by her foal, [<a href="javascript:void(0)" title=" 3rd c.AD: Oppianus Apamensis Epicus “Cynegetica” 1.261">Refs 3rd c.AD+</a>]; <b>childless,</b> [<a href="javascript:void(0)" title=" epigram Gr. 365 (from Cotiaeum).">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.7.3]]
+<small><sub>LSJ Scripture Refs: [[Heb.7.3|Heb.7.3]]
 </sub></small>

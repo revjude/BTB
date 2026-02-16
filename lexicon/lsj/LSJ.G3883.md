@@ -12,5 +12,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>difference between</b> things, <span class='asgr
 $\quad$ $\quad$<b>\_\_III</b> <b>variety, variation</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 2.3.2; μεγεθῶν 4th-3rd c.BC: Epicurus Philosophus “Epistulae” 1p.15U. (\_plural\_), +others, compare 3rd c.BC: Chrysippus Stoicus 3.182, NT.Jas.1.17, 2nd c.AD: Cleomedes Astronomus 1.7; γραμμῶν καὶ γωνιῶν “Theologumena Arithmeticae” 63 ">NT+4th c.BC+</a>]; <b>change</b> of meaning, <span class='asgreek'>==παραλλαγή==αγῶν</span> <span class='asgreek'>κατὰ</span> <span class='asgreek'>σύμβολον</span> <span class='asgreek'>γινομένων</span> [<a href="javascript:void(0)" title=" 3rd c.BC: Chrysippus Stoicus 2.258, compare 3.33. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>frenzy, madness</b>, <span class='asgreek'>ἐν</span> <span class='asgreek'>π</span>. <span class='asgreek'>γενέσθαι</span> [<a href="javascript:void(0)" title=" LXX.4Ki.9.20 ">LXX</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>ψυχῆς</span> <b>perturbation</b> of soul, [<a href="javascript:void(0)" title=" 4th c.AD: Iamblichus Philosophus “de vita Pythagorica” 25.111. ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jas.1.17]]
+<small><sub>LSJ Scripture Refs: [[Jas.1.17|Jas.1.17]]
 </sub></small>

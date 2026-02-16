@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>departure,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 2.2.4, NT.Acts.20.29. ">NT+1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>ἱκεσία</span>}, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Supplices” 483.">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.20.29]]
+<small><sub>LSJ Scripture Refs: [[Acts.20.29|Acts.20.29]]
 </sub></small>

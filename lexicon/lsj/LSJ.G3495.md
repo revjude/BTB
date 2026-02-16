@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>ὁ</span> <span class='asgreek'>ἐμὸς</span> <span class='asgreek'>ν</span>. my <b>young man,</b> i.e. <b>servant,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Alex.” 53; perhaps also, “PCair.Zen.” 18.6 (3rd c.BC), NT.Mark.14.51: \_plural\_, uncertain meaning, “PCair.Zen.” 153 (3rd c.BC, written νενίσκοις). ">NT+3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.19.20]] ☩ [[Mark.14.51]]
+<small><sub>LSJ Scripture Refs: [[Matt.19.20|Matt.19.20]] ☩ [[Mark.14.51|Mark.14.51]]
 </sub></small>

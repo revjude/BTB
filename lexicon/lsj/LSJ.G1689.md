@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_b</b> <span class='asgreek'>ἐ</span>. <span class='asgreek'>εἰς</span> <b>consider</b>, <span class='asgreek'>τὰ</span> <span class='asgreek'>πετεινὰ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>οὐρανοῦ</span> [<a href="javascript:void(0)" title=" NT.Matt.6.26 ">NT</a>]; <b>look into</b> a matter, [<a href="javascript:void(0)" title=" “PTeb.” 28.15 (2nd c.BC). ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> simply, <b>look</b>, <span class='asgreek'>ποῖ</span> <span class='asgreek'>==ἐμβλέπω==βλέψασα</span>..; [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Electra” 995 ">Refs 5th c.BC+</a>]; <span class='asgreek'>δεινὸν</span> <span class='asgreek'>ἐ</span>. [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Ion” 535e, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pyrrhus” 34, etc.">Refs 5th c.BC+</a>]; <span class='asgreek'>πῦρ</span> <span class='asgreek'>ἐ</span>. [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista “Philostrati majoris imagines” 1.28; ἱρὰ ἐς λῷον -οντα 3rd c.BC: Herodas Mimographus 4.80. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.8.25]] ☩ [[Matt.6.26]]
+<small><sub>LSJ Scripture Refs: [[Mark.8.25|Mark.8.25]] ☩ [[Matt.6.26|Matt.6.26]]
 </sub></small>

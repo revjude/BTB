@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>go past, pass by,</b> [<a href="javascript:void(0)" title=" PPetr. 2p.36 (3rd c.BC) ">Refs 3rd c.BC+</a>]; <span class='asgreek'>τὸν</span> <span class='asgreek'>χάρακα</span> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 3.99.5; παρὰ τὸ χεῖλος [prev. author] 3.14.6; ὑπὸ λόφον τινά [prev. author] 2.27.5; διὰ τῶν σπορίμων NT.Mark.2.23 (variant διαπ-), compare 9.30 ">NT+2nd c.BC+</a>]; of stars, <b>pass through</b> the zodiac, [<a href="javascript:void(0)" title=" “Catalogus Codicum Astrologorum” 8(4).210. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.2.23]]
+<small><sub>LSJ Scripture Refs: [[Mark.2.23|Mark.2.23]]
 </sub></small>

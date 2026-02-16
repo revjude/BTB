@@ -24,5 +24,5 @@ $\quad$ <b>\_\_B</b> <i>active</i>, <b>kindle, set on fire</b> (i.e. by <b>conta
 $\quad$ $\quad$<b>\_\_B.II</b> <span class='asgreek'>ἅ</span>. <span class='asgreek'>πῦρ</span> <b>kindle</b> a fire, [<a href="javascript:void(0)" title="[prev. work] 503">Refs</a>]:—<i>passive</i>, <span class='asgreek'>ἄνθρακες</span> <span class='asgreek'>ἡμμένοι</span> <b>red-hot</b> embers, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 4.100; δᾷδ᾽ ἐνεγκάτω τις ἡμμένην 5th-6th c.BC: Aristophanes Comicus “Nubes” 1490, compare “Pl.” 301. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_B.III</b> <b>cook,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Alexander Rhetor 124.1.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.7.1]]
+<small><sub>LSJ Scripture Refs: [[1Cor.7.1|1Cor.7.1]]
 </sub></small>

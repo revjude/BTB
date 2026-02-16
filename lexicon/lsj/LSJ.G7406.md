@@ -17,5 +17,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.2</b>. <b>probably, reasonably</b>, [<a href="
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b>. <b>with moderation</b>, <b>mildly, kindly</b>, [<a href="javascript:void(0)" title=" οὐκ ἐ. ἐντυγχάνων οὐδὲ πρᾴως Plutarchus Biographus et Philosophus [{1-2nd c.AD}] “Pyrrhus” 23 ">Refs 1st c.AD+</a>]; <span class='asgreek'>ἐ</span>. [<a href="javascript:void(0)" title=" ἔχειν πρός τινα Isocrates Orator [{5-6th c.BC}] 15.4 ">Refs 6th c.BC+</a>]: <i>comparative</i> [<a href="javascript:void(0)" title=" -έστερον, διακείμενοι [prev\. author] 8.61 ">Refs</a>]. 
 $\quad$ $\quad$ $\quad$<b>\_\_III.4</b>. <b>generally, usually</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pel.” 18, 4th c.AD: Julianus Imperator “Mis.” 348c, 4th c.AD: Libanius Sophista “Or.” 11.19, +others ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jas.3.17]]
+<small><sub>LSJ Scripture Refs: [[Jas.3.17|Jas.3.17]]
 </sub></small>

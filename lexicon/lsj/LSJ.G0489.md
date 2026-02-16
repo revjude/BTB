@@ -5,5 +5,5 @@
  <b>requital, recompense,</b> [<a href="javascript:void(0)" title="NT.Rom.1.27, NT.2Cor.6.13.">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Rom.1.27]] ☩ [[2Cor.6.13]]
+<small><sub>LSJ Scripture Refs: [[Rom.1.27|Rom.1.27]] ☩ [[2Cor.6.13|2Cor.6.13]]
 </sub></small>

@@ -8,5 +8,5 @@ Greek of: <small>**<big>[[H2132G|זַיִת]]</big>**</small>
 
 $\quad$ $\quad$<b>\_\_II</b> <b>the Mount of Olives, Olivet,</b> [<a href="javascript:void(0)" title=" NT.Acts.1.12, +others, 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 7.9.2. ">NT+1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[LXX.Exod.23.11|LXX.Exod.23.11]] ☩ [[Acts.1.12]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.23.11|LXX.Exod.23.11]] ☩ [[Acts.1.12|Acts.1.12]]
 </sub></small>

@@ -14,5 +14,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>leave alone</b>, opposed to <span cla
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_III.2.b</b> <b>leave undisputed</b>, <span class='asgreek'>τὰς</span> <span class='asgreek'>παραλλαγάς</span> [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “περὶ σημείων καὶ σημειώσεων” 24 ">Refs 1st c.BC+</a>]: hence, <b>admit, allow the truth of</b> a doctrine, [<a href="javascript:void(0)" title=" [prev. author] “Po.” 5.34, 2nd c.BC: Demetrius Lacon Philosophus “Herc.” 1055.13">Refs 2nd c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “de Pietate - Herkulanische Studien” 80. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_III.2.c</b> <b>omit</b>, with <i>infinitive</i>, [<a href="javascript:void(0)" title=" 3rd c.AD: Alexander Aphrodisiensis Philosophus “in Aristotelis Sophisticos Elenchos commentarium - pars” 118.10. ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.4.1]]
+<small><sub>LSJ Scripture Refs: [[Heb.4.1|Heb.4.1]]
 </sub></small>

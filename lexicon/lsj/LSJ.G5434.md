@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>undershrub,</b> opposed to <span class='asgreek'>δένδρα</span>, <span class='asgreek'>θάμνος</span>, <span class='asgreek'>πόα</span>, defined as <span class='asgreek'>τὸ</span> <span class='asgreek'>ἀπὸ</span> <span class='asgreek'>ῥίζης</span> <span class='asgreek'>πολυστέλεχες</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>πολύκλαδον</span>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 1.3.1. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.28.3]]
+<small><sub>LSJ Scripture Refs: [[Acts.28.3|Acts.28.3]]
 </sub></small>

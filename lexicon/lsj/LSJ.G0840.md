@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_b</b> in moral sense, <b>rigorous, austere,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Ethica Eudemia” 1240a2; τοῖς βίοις 2nd c.BC: Polybius Historicus 4.20.7 (\_superlative\_),compare 1st c.BC: Philodemus Philosophus “περὶ τοῦ καθ᾽ Ὅμηρον ἀγαθοῦ βασιλέως” p.23 O. (\_comparative\_)">Refs 4th c.BC+</a>]; <span class='asgreek'>αὐ</span>. <span class='asgreek'>καὶ</span> <span class='asgreek'>αὐθάδης</span>[<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 6.27, compare “Stoicorum Veterum Fragmenta” 3.162">Refs 1st c.BC+</a>], Vett. Val.75.11; <b>strict, exacting,</b> [<a href="javascript:void(0)" title="NT.Luke.19.21, “PTeb.” 315.19 (2nd c.AD)">NT+2nd c.AD+</a>]; <span class='asgreek'>αὐστηρότερον</span>, <span class='asgreek'>τό</span>, <b>excessive rigour</b>, [<a href="javascript:void(0)" title=" “BGU” 140.18 (2nd c.AD)">Refs 2nd c.AD+</a>]. <i>adverb</i> <b>-<span class='asgreek'>ρῶς</span></b>[<a href="javascript:void(0)" title=" 1st c.BC(?): Satyrus Epigrammaticus “Vit.Eur. fragment” 39 iv 19:">Refs 1st c.BC+</a>] <i>comparative</i> <b>-<span class='asgreek'>ότερον</span></b> [<a href="javascript:void(0)" title="LXX.2Mac.14.30.">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.19.21]]
+<small><sub>LSJ Scripture Refs: [[Luke.19.21|Luke.19.21]]
 </sub></small>

@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>minister of education</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 811d, +others ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>corrector, chastiser,</b> [<a href="javascript:void(0)" title="NT.Heb.12.9. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.12.9]]
+<small><sub>LSJ Scripture Refs: [[Heb.12.9|Heb.12.9]]
 </sub></small>

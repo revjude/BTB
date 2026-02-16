@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>ἀλάλητα</span>· <span class='asgreek'>ξύλα</span> <span class='asgreek'>ποταμόκλυστα</span>, <span class='asgreek'>γομφώδη</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.8.26]]
+<small><sub>LSJ Scripture Refs: [[Rom.8.26|Rom.8.26]]
 </sub></small>

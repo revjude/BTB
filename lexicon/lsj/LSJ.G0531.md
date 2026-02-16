@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>inviolable,</b> <span class='asgreek'>κ�
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>permanent, perpetual,</b> <span class='asgreek'>ἱερωσύνη</span>[<a href="javascript:void(0)" title=" NT.Heb.7.24. ">NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>active</i>, <b>not transgressing,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 18.8.2; ἀ. τῶν καθηκόντων 5th c.AD: Hierocles Platonicus Philosophus “in Carmen Aureum - FPG” 10p.435M.">Refs 1st c.AD+</a>] <i>adverb</i> <b>-<span class='asgreek'>τως</span></b>[<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 2.15.1.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.7.24]]
+<small><sub>LSJ Scripture Refs: [[Heb.7.24|Heb.7.24]]
 </sub></small>

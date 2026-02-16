@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>leave traces behind</b>, [<a href="javasc
 $\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, <b>to be left behind</b> in a race, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 8.59. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>leave residual symptoms</b> or <b>sequelae</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἐπιδημίαι” 6.2.6, 6.7.7. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.27.46]]
+<small><sub>LSJ Scripture Refs: [[Matt.27.46|Matt.27.46]]
 </sub></small>

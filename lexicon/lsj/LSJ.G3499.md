@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>mortify,</b> <span class='asgreek'>==νεκρόω==ώσατε</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>μέλη</span> [<a href="javascript:void(0)" title=" NT.Col.3.5. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.4.19]] ☩ [[Col.3.5]]
+<small><sub>LSJ Scripture Refs: [[Rom.4.19|Rom.4.19]] ☩ [[Col.3.5|Col.3.5]]
 </sub></small>

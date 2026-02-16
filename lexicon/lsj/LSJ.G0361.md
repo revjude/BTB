@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> in moral sense, <b>blameless,</b> [<a href="
 $\quad$ $\quad$<b>\_\_II</b> of things, <b>not done by fault, done unavoidably,</b> <span class='asgreek'>συμφορά</span>[<a href="javascript:void(0)" title=" 5th c.BC: Antipho Orator 3.2.11. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>unfailing,</b> [<a href="javascript:void(0)" title=" 2nd-4th c.AD(?): Dionysius Byzantius Geographus 17.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[John.8.7]]
+<small><sub>LSJ Scripture Refs: [[John.8.7|John.8.7]]
 </sub></small>

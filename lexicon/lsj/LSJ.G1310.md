@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>call, name,</b> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Aratus Epicus 221 ">Refs 4th c.BC+</a>]:—<i>middle</i>, [<a href="javascript:void(0)" title=" [prev. author] 442 (variant), 2nd c.AD: Dionysius Periegeta 50. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.1.45]]
+<small><sub>LSJ Scripture Refs: [[Mark.1.45|Mark.1.45]]
 </sub></small>

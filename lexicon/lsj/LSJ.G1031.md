@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>gnash</b> or <b>grind</b> the teeth, <span class='asgreek'>τοὺς</span> <span class='asgreek'>ὀδόντας</span> <span class='asgreek'>βρύχει</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “γυναικεῖα” 1.7, etc., compare “Anthologia Graeca” 15.51 (1st c.BC: Archias); τὸ στόμα β. 2nd c.AD: Babrius Fabularum Scriptor 95.45; β. τοὺς ὀδόντας ἐπί τινα NT.Acts.7.54 ">NT+5th c.BC+</a>]; also <span class='asgreek'>βρύχει</span> alone, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “γυναικεῖα” 2.120 ">Refs 5th c.BC+</a>]; also <i>intransitive</i>, <span class='asgreek'>οἱ</span> <span class='asgreek'>ὀδόντες</span> <span class='asgreek'>βρύχουσι</span>[<a href="javascript:void(0)" title=" [prev. work] 1.36; βρῦκον στόμα 2nd c.BC: Nicander Epicus “Alexipharmaca” 226, compare “Th.” 207, +others">Refs 2nd c.BC+</a>]:—<i>middle</i>, <span class='asgreek'>βρύχονται</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἱερῆς νούσου” 1 (probably). ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.7.54]]
+<small><sub>LSJ Scripture Refs: [[Acts.7.54|Acts.7.54]]
 </sub></small>

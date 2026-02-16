@@ -36,5 +36,5 @@ $\quad$ $\quad$<b>\_\_D.V</b> to add strength, <b>thoroughly, out and out,</b> <
 $\quad$ $\quad$<b>\_\_D.VI</b> of mixture, <b>between, partly,</b> especially in <i>adjective</i>, as <span class='asgreek'>==διά==λευκος</span>, <span class='asgreek'>==διά==χρυσος</span>, <span class='asgreek'>==διά==χλωρος</span>, etc. 
 $\quad$ $\quad$<b>\_\_D.VII</b> of leaving an <b>interval</b> or <b>breach,</b> <span class='asgreek'>διαλείπω</span>, <span class='asgreek'>διαναπαύω</span>. (Cogn. with <span class='asgreek'>δύο</span>, <span class='asgreek'>δίς</span>.)
 
-<small><sub>LSJ Scripture Refs: [[Mark.2.1]] ☩ [[Matt.1.22]] ☩ [[Acts.15.27]] ☩ [[2Cor.10.9]]
+<small><sub>LSJ Scripture Refs: [[Mark.2.1|Mark.2.1]] ☩ [[Matt.1.22|Matt.1.22]] ☩ [[Acts.15.27|Acts.15.27]] ☩ [[2Cor.10.9|2Cor.10.9]]
 </sub></small>

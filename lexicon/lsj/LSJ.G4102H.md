@@ -21,5 +21,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_IV.2</b> in Egypt, <b>safe-conduct, safeguard</b>,
 $\quad$ $\quad$<b>\_\_V</b> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Pythagoras Philosophus ">Refs 4th c.BC+</a>] name for <b>ten,</b> [<a href="javascript:void(0)" title=" Theol.Ar. 59, 60. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_VI</b> personified, = Latin [<a href="javascript:void(0)" title=" “Fides”, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Numa” 16, 2nd c.AD: Appianus Historicus “Bella Civilia” 1.16, 2nd-3rd c.AD: Dio Cassius Historicus 45.17 ">Refs 1st c.AD+</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>δημοσία</span>, = <b>Fides publica</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 2.75. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.13.13]]
+<small><sub>LSJ Scripture Refs: [[1Cor.13.13|1Cor.13.13]]
 </sub></small>

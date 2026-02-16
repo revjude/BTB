@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>death,</b> <span class='asgreek'>τὴν</span> <span class='asgreek'>ν</span>. <span class='asgreek'>τοῦ</span> <span class='asgreek'>Ἰησοῦ</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>τῷ</span> <span class='asgreek'>σώματι</span> <span class='asgreek'>περιφέροντες</span> [<a href="javascript:void(0)" title=" NT.2Cor.4.10. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.4.19]] ☩ [[2Cor.4.10]]
+<small><sub>LSJ Scripture Refs: [[Rom.4.19|Rom.4.19]] ☩ [[2Cor.4.10|2Cor.4.10]]
 </sub></small>

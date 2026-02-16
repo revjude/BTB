@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>abundance</b>, [<a href="javascript:void(0)" title=" NT.2Cor.8.20. (In 8th c.BC: Homerus Epicus variant for{ἀνδροτής}, which see)">NT+8th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.8.20]]
+<small><sub>LSJ Scripture Refs: [[2Cor.8.20|2Cor.8.20]]
 </sub></small>

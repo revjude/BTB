@@ -60,5 +60,5 @@ $\quad$ <b>\_\_B</b><b> <span class='asgreek'>==ἄν==</span></b>, [<span class
 $\quad$ <b>\_\_C</b><b> <span class='asgreek'>==ἄν==</span></b> or <span class='asgreek'>ἀν</span>, Epic form of <span class='asgreek'>ἀνά</span>, (which see) 
 $\quad$ <b>\_\_D</b><b> <span class='asgreek'>==ἄν==</span></b>, shortened from <span class='asgreek'>==ἄν==α</span>, see entry <span class='asgreek'>ἀνά</span> G.
 
-<small><sub>LSJ Scripture Refs: [[Mark.6.56]] ☩ [[John.20.23]]
+<small><sub>LSJ Scripture Refs: [[Mark.6.56|Mark.6.56]] ☩ [[John.20.23|John.20.23]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> Rhet., <b>practice</b>: hence, <b>arrangement, disposition,</b> <span class='asgreek'>τοῦ</span> <span class='asgreek'>διηγήματος</span> Theo [<a href="javascript:void(0)" title=" “Prog.” 4, compare 4th-5th c.AD: Aphthonius Rhetor “Προ==γυμνασία==άσματα - Rhet.” 6. ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Tim.4.8]]
+<small><sub>LSJ Scripture Refs: [[1Tim.4.8|1Tim.4.8]]
 </sub></small>

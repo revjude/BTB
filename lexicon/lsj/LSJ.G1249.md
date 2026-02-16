@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>attendant</b> or <b>official</b> in a temple or religious guild, [<a href="javascript:void(0)" title=" “Inscription Magn.” 109,217, “IG” 9(1).486 (Acarnania, 2nd-1st c.BC), 4.774.12 (Troezen, 3rd c.BC): \_feminine\_, “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum” 3037 (Metropolis in Lydia)">Refs 3rd c.BC+</a>]:—especially in the Christian church, <b>deacon,</b> [<a href="javascript:void(0)" title=" NT.1Tim.3.8, etc., “POxy.” 1162.3 (4th c.AD)">NT+4th c.AD+</a>]: <i>feminine</i>, <b>deaconess,</b> [<a href="javascript:void(0)" title="NT.Rom.16.1. ">NT</a>]
 $\quad$ $\quad$<b>\_\_II</b> as <i>adjective</i>, <b>servile, menial,</b> <span class='asgreek'>ἐπιστήμη</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Politicus” 290c ">Refs 5th c.BC+</a>]: irregular <i>comparative</i> <span class='asgreek'>διᾱκονέστερος</span> [<a href="javascript:void(0)" title=" 5th c.BC: Epicharmus Comicus 159 Ahr. (Cf. ἐγ-κονέω, ἀ-κονιτί.) ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Tim.3.8]] ☩ [[Rom.16.1]]
+<small><sub>LSJ Scripture Refs: [[1Tim.3.8|1Tim.3.8]] ☩ [[Rom.16.1|Rom.16.1]]
 </sub></small>

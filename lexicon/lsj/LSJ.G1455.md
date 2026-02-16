@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> of a child, ={<span class='asgreek'>εἰσποιητός</span>}, [<a href="javascript:void(0)" title=" 4th c.BC: Hyperides Orator “Fragmenta” 56. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.20.20]]
+<small><sub>LSJ Scripture Refs: [[Luke.20.20|Luke.20.20]]
 </sub></small>

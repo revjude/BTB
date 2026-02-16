@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_IV</b> [<a href="javascript:void(0)" title=" 4th-5th c.BC:
 $\quad$ $\quad$<b>\_\_V</b> <span class='asgreek'>Γάμος</span> personified, [<a href="javascript:void(0)" title=" 3rd c.BC: Philoxenus Epigrammaticus 13, 4th c.AD: Libanius Sophista “Orationes” 5.27. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_VI</b> name of month at Epidaurus, [<a href="javascript:void(0)" title=" “IG” 4.1485,1492">Refs</a>]. (Perh. akin to Sanskrit <i>jāmís</i> 'brother or sister', Latin <i>geminus.</i>)
 
-<small><sub>LSJ Scripture Refs: [[Matt.22.2]]
+<small><sub>LSJ Scripture Refs: [[Matt.22.2|Matt.22.2]]
 </sub></small>

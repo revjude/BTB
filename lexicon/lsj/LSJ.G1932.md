@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b>. <b>equity</b>, opposed to strict law, [<a h
 $\quad$ $\quad$ $\quad$<b>\_\_3</b>. of persons, <b>reasonableness, fairness</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 3.40, 48, 5.86, 5th-6th c.BC: Plato Philosophus “Lg.” 735a, etc.; ἐ. καὶ πρᾳότης Plutarchus Biographus et Philosophus [{1-2nd c.AD}] “Pericles” 39, compare “NT.2Cor.10.1”">NT+5th c.BC+</a>]; also, <b>goodness, virtuousness</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Lysias Orator 16.11, 4th c.BC: Demosthenes Orator 21.207, 4th c.BC: Aristoteles Philosophus “EN” 1175b24: \_plural\_, joined with χάριτες, 5th-6th c.BC: Isocrates Orator 4.63, compare 15.149. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b>. personified, [<a href="javascript:void(0)" title="“Clemency”, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Caes.” 57. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.10.1]]
+<small><sub>LSJ Scripture Refs: [[2Cor.10.1|2Cor.10.1]]
 </sub></small>

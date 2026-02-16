@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>observe strictly</b>, <span class='asgree
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>watch one's opportunity</b>, <span class='asgreek'>==συντηρέω==οῦντα</span> <span class='asgreek'>παίειν</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Marcellus” 12. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>watch over, protect</b>, <span class='asgreek'>τοῖς</span> <span class='asgreek'>φυλακίταις</span> (i.e. <span class='asgreek'>συντάξαι</span>) <span class='asgreek'>==συντηρέω==ῆσαι</span> <span class='asgreek'>τὰ</span>.. <span class='asgreek'>γενήματα</span> [<a href="javascript:void(0)" title=" “BGU” 1851.8 (1st c.BC). ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.2.19]] ☩ [[Matt.9.17]]
+<small><sub>LSJ Scripture Refs: [[Luke.2.19|Luke.2.19]] ☩ [[Matt.9.17|Matt.9.17]]
 </sub></small>

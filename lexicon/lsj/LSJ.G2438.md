@@ -21,5 +21,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_i</b> <b>cord</b>, [<a href="javascript:vo
 $\quad$ $\quad$<b>\_\_II</b> <b>diseased condition of the uvula</b>, [<a href="javascript:void(0)" title=" [prev. author] 17(1).379. ">Refs</a>]
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>ἱμάντες</span>, in Architecture texts, <b>planks</b> laid on rafters, [<a href="javascript:void(0)" title=" “IG” 12.372.82, 373.236, +others, 22.1668.55, 1672.305">Refs</a>]; on <span class='asgreek'>στρωτῆρες</span> (which see), [<a href="javascript:void(0)" title="[prev. work]463.66. (Cf.Sanskrit ">Refs</a>]<b>sināti</b> 'bind', Latin <i>saeta.</i>) [?\~X ¯, usually; but also <span class='asgreek'>ῑ</span> in <i>Epic dialect</i>, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 8.544, etc.: in derivations and compounds always ῐ.] ">Refs 8th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.1.7]] ☩ [[Acts.22.25]]
+<small><sub>LSJ Scripture Refs: [[Mark.1.7|Mark.1.7]] ☩ [[Acts.22.25|Acts.22.25]]
 </sub></small>

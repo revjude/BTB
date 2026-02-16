@@ -14,5 +14,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>stand over. shield, protect,</b> with <i>dative
 $\quad$ $\quad$<b>\_\_IV</b> in <i>perfect</i>, <b>to be higher than,</b> <span class='asgreek'>δύο</span> [<span class='asgreek'>ἐσχάρας</span>] <span class='asgreek'>ὑπερβεβηκυίας</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>ἐν</span> <span class='asgreek'>τῷ</span> <span class='asgreek'>μεταφρένῳ</span> <span class='asgreek'>ἐσχάραν</span> [<a href="javascript:void(0)" title=" 7th c.AD: Paulus Aegineta Medicus 6.44. ">Refs 7th c.AD+</a>]
 $\quad$ <b>\_\_B</b> Causal in <i>aorist</i> 1, <b>put over,</b> <span class='asgreek'>ὑπερβησάτω</span> <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>τὰς</span> <span class='asgreek'>δεξιὰς</span> <span class='asgreek'>πλευρὰς</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>κνήμην</span>, as a direction to one mounting a horse, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “de Equitandi ratione” 7.2. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Thess.4.6]]
+<small><sub>LSJ Scripture Refs: [[1Thess.4.6|1Thess.4.6]]
 </sub></small>

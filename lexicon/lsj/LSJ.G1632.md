@@ -18,5 +18,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <b>lie languidly</b>, [<a href="javascrip
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <i>metaphorically</i>, of Time, <span class='asgreek'>ἐ</span>. <span class='asgreek'>κατὰ</span> <span class='asgreek'>τὴν</span> <span class='asgreek'>χρονικὴν</span> <span class='asgreek'>παράτασιν</span> [<a href="javascript:void(0)" title=" 5th c.AD: Proclus Philosophus “Inst.” 55. ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> <b>extend</b>, of a piece of land, [<a href="javascript:void(0)" title=" “CPR” 1.8, +others (1st c.AD). ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.23.35]] ☩ [[Matt.23.35]] ☩ [[Matt.9.17]] ☩ [[Acts.1.18]]
+<small><sub>LSJ Scripture Refs: [[Matt.23.35|Matt.23.35]] ☩ [[Matt.23.35|Matt.23.35]] ☩ [[Matt.9.17|Matt.9.17]] ☩ [[Acts.1.18|Acts.1.18]]
 </sub></small>

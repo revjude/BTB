@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> of crabs' eyes, <b>turn sideways</b>, [<
 $\quad$ $\quad$ $\quad$<b>\_\_III.4</b> <b>kneel</b>, <span class='asgreek'>ὅταν</span> <span class='asgreek'>==κατακλίνω==κλιθῇ</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>γόνατα</span> [<span class='asgreek'>κάμηλος</span>] [<a href="javascript:void(0)" title="[prev. work] 499a17. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.5</b> with <i>dative</i>, <b>to be set under, made subject to</b>, <span class='asgreek'>ὅταν</span> <span class='asgreek'>==κατακλίνω==κλιθῇ</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>θητικὸν</span> <span class='asgreek'>τῷ</span> <span class='asgreek'>προπολεμοῦντι</span> [<a href="javascript:void(0)" title=" 5th c.AD: Hermias Alexandrinus Philosophus “in Platonis Phaedrum scholia” p.157 4th-5th c.BC: Aeschylus Tragicus ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.9.14]]
+<small><sub>LSJ Scripture Refs: [[Luke.9.14|Luke.9.14]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>reverence, piety</b>, <span class='asgree
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_3.b</b> astitle, <span class='asgreek'>ἡ</span> <span class='asgreek'>σὴ</span> <span class='asgreek'>εὐ</span>. your <b>reverence,</b> [<a href="javascript:void(0)" title=" PFlor. 73.7 (6th c.AD). ">Refs 6th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> in bad sense, <b>over-caution, timidity</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Fabius Maximus” 1, 2.432e; εὐλαβίη γὰρ ἀπειρίη 2nd c.AD: Aretaeus Medicus “ὀξέων νούσων θεραπευτικόν” 1.2. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.5.7]]
+<small><sub>LSJ Scripture Refs: [[Heb.5.7|Heb.5.7]]
 </sub></small>

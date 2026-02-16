@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b>. <b>requisition</b>, <span class='asgreek'>�
 $\quad$ $\quad$ $\quad$<b>\_\_5</b>. <i>metaphorically</i> in <i>passive</i>, <b>to be imminent</b>, <span class='asgreek'>οὐ</span> <span class='asgreek'>βραχὺς</span> <span class='asgreek'>ἐπέρριπτο</span> <span class='asgreek'>κίνδυνος</span> [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 2.594. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b>. <b>throw out opinions</b>, <span class='asgreek'>ἀδιορίστως</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>περὶ</span> <span class='asgreek'>τῶν</span> <span class='asgreek'>λοιπῶν</span>, variant for -, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Metaphysica” 986a34. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Pet.5.7]]
+<small><sub>LSJ Scripture Refs: [[1Pet.5.7|1Pet.5.7]]
 </sub></small>

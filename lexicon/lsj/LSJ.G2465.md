@@ -5,5 +5,5 @@
  <b>like an angel,</b> [<a href="javascript:void(0)" title="NT.Luke.20.36, 5th c.AD: Hierocles Platonicus Philosophus “in Carmen Aureum - FPG” 4p.425M. ">NT+5th c.AD+</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Luke.20.36]]
+<small><sub>LSJ Scripture Refs: [[Luke.20.36|Luke.20.36]]
 </sub></small>

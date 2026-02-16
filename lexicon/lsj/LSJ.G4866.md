@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>impress by practice upon</b>, <span class='asgreek'>μεταφορᾶς</span> <span class='asgreek'>μνήμῃ</span> <span class='asgreek'>συνηθλημένης</span> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 3.4. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Phil.4.3]]
+<small><sub>LSJ Scripture Refs: [[Phil.4.3|Phil.4.3]]
 </sub></small>

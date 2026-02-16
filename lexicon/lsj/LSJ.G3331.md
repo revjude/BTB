@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> Grammars, <b>change</b> of a letter, [<a hre
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>plagiarism</b>, opposed to <span class='asgreek'>μίμησις</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Demetrius Phalereus Rhetor “Demetrius on Style” 112. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>power</b> or <b>right of changing sides</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 5.29. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.7.12]]
+<small><sub>LSJ Scripture Refs: [[Heb.7.12|Heb.7.12]]
 </sub></small>

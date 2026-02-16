@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <i>absolutely</i>, <b>one who kills himself, suicid
 $\quad$ $\quad$<b>\_\_III</b> as <i>adjective</i>, <b>murderous,</b> especially of murder <b>committed by one's own hand</b> or <b>by kinsmen,</b> <span class='asgreek'>αὐ</span>. <span class='asgreek'>θάνατος</span>, <span class='asgreek'>σφαγή</span>, <span class='asgreek'>μοῖρα</span>, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Phoenissae” 880, “Or.” 947, “Med.” 1281 (Lyric poetry)">Refs 5th c.BC+</a>]; <span class='asgreek'>πληγέντες</span> <span class='asgreek'>==αὐτόχειρ==χειρι</span> <span class='asgreek'>σὺν</span> <span class='asgreek'>μιάσματι</span>, of brothers smitten by <b>mutual slaughter,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Antigone” 172; φόνος 5th-6th c.BC: Plato Philosophus “Respublica” 615c. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <span class='asgreek'>==αὐτόχειρ==χειρα</span> <span class='asgreek'>γράμματα</span> <b>written with one's own hand, autograph,</b> [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Dio Cassius Historicus 59.4.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.27.19]]
+<small><sub>LSJ Scripture Refs: [[Acts.27.19|Acts.27.19]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>not capable of expression</b> or <b>calculation,</b> <span class='asgreek'>δύναμις</span>[<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus ">Refs 1st c.AD+</a>]<b>Eup.Praef.;</b> <span class='asgreek'>ἰδιότης</span>[<a href="javascript:void(0)" title=" 1st-2nd c.AD: Heliodorus Medicus cited in Scholia 4th c.AD: Oribasius Medicus 45.2.">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Pet.1.8]]
+<small><sub>LSJ Scripture Refs: [[1Pet.1.8|1Pet.1.8]]
 </sub></small>

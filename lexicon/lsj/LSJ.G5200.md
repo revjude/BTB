@@ -23,5 +23,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.8</b> of the vowels <span class='asgreek'>α</s
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.8.b</b> of <span class='asgreek'>στοιχεῖα</span>, <b>liquid</b> (<i>i.e. </i> <span class='asgreek'>λ</span> <span class='asgreek'>μ</span> <span class='asgreek'>ν</span> <span class='asgreek'>ρ</span>), [<a href="javascript:void(0)" title=" 2nd c.BC: Dionysius Thrax Grammaticus 632.9, 7th c.AD: Hephaestio Grammaticus 1.3, +others ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>adverb</i> <span class='asgreek'>ὑγρῶς</span>, see above [<a href="javascript:void(0)" title=" 11.1 and 5 ">Refs</a>]; also <span class='asgreek'>ὑγρότερον</span> <span class='asgreek'>δαπανᾶν</span> spend <b>more freely,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “περὶ οἰκονομίας” p.73J. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.23.31]]
+<small><sub>LSJ Scripture Refs: [[Luke.23.31|Luke.23.31]]
 </sub></small>

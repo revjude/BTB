@@ -24,5 +24,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.5</b> <span class='asgreek'>οὕτως</span>
 $\quad$ $\quad$<b>\_\_IV</b> <b>understand, take</b> in a certain sense, [<a href="javascript:void(0)" title=" 4th c.AD: Julianus Imperator “Orationes” 4.147a; especially in Scholl., as Scholia 5th c.BC: Euripides Tragicus “Orestes” 333">Refs 5th c.BC+</a>]; <span class='asgreek'>τι</span> <span class='asgreek'>ἐπί</span> <span class='asgreek'>τινος</span> [<a href="javascript:void(0)" title="Scholia 5th c.BC: Euripides Tragicus “Hippolytus” 73. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_V</b> Astrology texts, <b>aspect mutually</b>, of signs equidistant from an equinoctial sign, [<a href="javascript:void(0)" title=" 2nd c.AD: Dorotheus Astrologus 189, 7th c.AD: Hephaestio Grammaticus Astr. 2.2">Refs 2nd c.AD+</a>]; also, ={<span class='asgreek'>ὑπακούειν</span>} (which see), [<a href="javascript:void(0)" title=" [prev. author] 1.9.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.12.19]]
+<small><sub>LSJ Scripture Refs: [[Matt.12.19|Matt.12.19]]
 </sub></small>

@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>resist,</b> <span class='asgreek'>ἀντ
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> of circumstances, <b>to be adverse,</b> <span class='asgreek'>τινί</span>[<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 16.2.1, etc.: \_absolutely\_, τῆς τύχης -ούσης [prev. work] 28.2">Refs 2nd c.BC+</a>]; of contrary winds, [<a href="javascript:void(0)" title=" 4.44.9">Refs</a>]; <b>tell against, conflict with</b> (fact or theory), [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “περὶ σημείων καὶ σημειώσεων” 8, +others ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>to fall in a contrary direction,</b> <span class='asgreek'>αἱ</span> <span class='asgreek'>σκιαί</span>[<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 2.1.19.">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.7.51]]
+<small><sub>LSJ Scripture Refs: [[Acts.7.51|Acts.7.51]]
 </sub></small>

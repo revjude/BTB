@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>choice</b>, <span class='asgreek'>οἶνος</span>, <span class='asgreek'>πυρός</span>, [<a href="javascript:void(0)" title=" “PStrassb.” 1.9 (6th c.AD), “PFlor.” 30.30 (4th c.AD). ">Refs 4th c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>according to taste</b>, <span class='asgreek'>λαχανόσπερμον</span> <span class='asgreek'>λαμβάνειν</span> <span class='asgreek'>εὐ</span>. [<a href="javascript:void(0)" title=" “PFay.” 90.17 (3rd c.AD). ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.5.9]] ☩ [[Rom.12.2]] ☩ [[Heb.12.28]]
+<small><sub>LSJ Scripture Refs: [[2Cor.5.9|2Cor.5.9]] ☩ [[Rom.12.2|Rom.12.2]] ☩ [[Heb.12.28|Heb.12.28]]
 </sub></small>

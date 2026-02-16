@@ -24,5 +24,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_16</b> <b>run to excess,</b> <span class='asgreek'
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_16.b</b> Geometry texts, as <i>passive</i> of <span class='asgreek'>ἐκβάλλω</span>, <b>to be produced,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Archimedes Geometra “περὶ ἑλίκων” 14. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_17</b> <b>die,</b> <span class='asgreek'>χθὼν</span> <span class='asgreek'>ἐκπιπτόντων</span> [<a href="javascript:void(0)" title=" “Not.Scav.” 1923.35 ">Refs</a>] (unless, = <b>rubbish</b> heap).
 
-<small><sub>LSJ Scripture Refs: [[Rom.9.6]]
+<small><sub>LSJ Scripture Refs: [[Rom.9.6|Rom.9.6]]
 </sub></small>

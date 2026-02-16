@@ -15,5 +15,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_B.II.3</b> <b>surpass, excel,</b> [<a href="javasc
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_B.II.3.b</b> rarely with <i>accusative</i> <i>person</i>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Anabasis” 3.2.19 (nisi secl. [ἡμᾶς])">Refs 5th c.BC+</a>]:—<i>passive</i>, <b>to be excelled,</b> <span class='asgreek'>οὐθὲν</span> <span class='asgreek'>π</span>. <span class='asgreek'>ὑπὸ</span> <span class='asgreek'>τοῦ</span> <span class='asgreek'>Διός</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.1038d ">Refs 1st c.AD+</a>]; <b>to be in worse case,</b> [<a href="javascript:void(0)" title="NT.Rom.3.9. ">NT</a>]
 $\quad$ $\quad$<b>\_\_B.III</b> <i>impersonal</i>, <span class='asgreek'>οὔ</span> <span class='asgreek'>τι</span> <span class='asgreek'>προέχει</span> <b>it is of</b> no <b>advantage,</b> with <i>infinitive</i>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 9.27. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.3.9]]
+<small><sub>LSJ Scripture Refs: [[Rom.3.9|Rom.3.9]]
 </sub></small>

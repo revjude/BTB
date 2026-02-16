@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.1</b> <b>pimple</b> or <b>tubercle</b> in the f
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>small cyst,</b> such as grows on the eyelid, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 19.437, 2nd c.AD(?): Pollianus Epigrammaticus 4.198, etc. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>a knot</b> or <b>hard lump;</b> in an egg, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 560a28; in coal, 4th-3rd c.BC: Theophrastus Philosophus “de Signis Tempestatum” 25; in ivory, 2nd-3rd c.AD: Philostratus Sophista “Vita Apollonii” 2.13; λίθοι χαλάζης ">Refs 4th c.BC+</a>]<b>crystals,</b> [<a href="javascript:void(0)" title=" 1 “Enoch” 14.9,10">Refs</a>]. (Cf. Sloven. <b>žled,</b> Little Russian <b>oželeda</b> 'sleet, ice'.)
 
-<small><sub>LSJ Scripture Refs: [[Rev.8.7]]
+<small><sub>LSJ Scripture Refs: [[Rev.8.7|Rev.8.7]]
 </sub></small>

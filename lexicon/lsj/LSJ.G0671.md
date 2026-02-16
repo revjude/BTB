@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>consumption, using up,</b> [<a href="javascript:void(0)" title="NT.Col.2.22.">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Col.2.22]]
+<small><sub>LSJ Scripture Refs: [[Col.2.22|Col.2.22]]
 </sub></small>

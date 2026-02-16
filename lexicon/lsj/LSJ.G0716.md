@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> <i>metaphorically</i>, <span class='asgreek'
 $\quad$ $\quad$<b>\_\_II</b> <b>a mountain district in Attica,</b> where omens from lightning were watched for: hence proverbial, <span class='asgreek'>ὁπόταν</span> <span class='asgreek'>δἰ</span> <span class='asgreek'>Ἅρματος</span> <span class='asgreek'>ἀστράψη</span>, i.e. <b>seldom</b> or <b>never,</b> [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 9.2.11">Refs 1st c.BC+</a>]; <span class='asgreek'>δι᾽</span> <span class='asgreek'>Ἅρματος</span> alone, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.679c. ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Pythagoras Philosophus ">Refs 4th c.BC+</a>] name for <b>unity,</b> [<a href="javascript:void(0)" title=" Theol.Ar. 6.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.8.28]]
+<small><sub>LSJ Scripture Refs: [[Acts.8.28|Acts.8.28]]
 </sub></small>

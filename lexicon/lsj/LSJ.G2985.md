@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_A.II</b> <b>torch-race</b>, ={<span class='asgreek'>λαμ
 $\quad$ $\quad$ $\quad$<b>\_\_A.II.2</b> <i>metaphorically</i>, of life, <span class='asgreek'>λαμπάδα</span> <span class='asgreek'>γὰρ</span> <span class='asgreek'>ζωᾶς</span> <span class='asgreek'>με</span> <span class='asgreek'>δραμεῖν</span>.. <span class='asgreek'>ἤθελε</span> <span class='asgreek'>δαίμων</span> [<a href="javascript:void(0)" title=" “epigram Gr.” 231 (from Chios)">Refs</a>]; <span class='asgreek'>καθάπερ</span> <span class='asgreek'>λαμπάδα</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>βίον</span> <span class='asgreek'>παραδιδόντας</span> <span class='asgreek'>ἄλλοις</span> <span class='asgreek'>ἐξ</span> <span class='asgreek'>ἄλλων</span> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Leges” 776b. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_A.III</b> ={<span class='asgreek'>λυχνὶς</span> <span class='asgreek'>ἀγρία</span>}, Ps.-[<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 3.101. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.25.3]]
+<small><sub>LSJ Scripture Refs: [[Matt.25.3|Matt.25.3]]
 </sub></small>

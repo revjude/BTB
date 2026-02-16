@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b>. <b>stock</b> or <b>store of provisions</b>,[<a href="javascript:void(0)" title=" [prev. work] 7.1.9, 4th c.BC: Demosthenes Orator 34.7, 1st c.AD: Josephus Historicus “Bellum Judaicum” 3.5.3, NT.Luke.9.12">NT+4th c.BC+</a>]; <span class='asgreek'>ἔχοντες</span> <span class='asgreek'>ἐπισιτις</span> <span class='asgreek'>μὸν</span> <span class='asgreek'>ἡμερῶν</span> <span class='asgreek'>μ</span> Philipp. cited in [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 18.157; ἐ. ἀννώνης “OGI” 200.15 (Axum, 4th c.AD): in \_plural\_, 2nd c.AD: Herodianus Grammaticus 6.7.1. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.9.12]]
+<small><sub>LSJ Scripture Refs: [[Luke.9.12|Luke.9.12]]
 </sub></small>

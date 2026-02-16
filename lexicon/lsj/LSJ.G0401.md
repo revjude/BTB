@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <span class='asgreek'>ἡ</span> <span class
 $\quad$ $\quad$<b>\_\_II</b> <b>expanse</b> of water, e.g. <b>estuary,</b> [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 3.1.9: \_plural\_, ἀ. θαλάττης ">Refs 1st c.BC+</a>]<b>inundations,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Maximus Tyrius Sophista 38.3; ἀνάχυσιν λαμβανούσης τῆς θαλάσσης 1st c.BC(?): Ocellus Lucanus Philosophus 3.4. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> an expectorant, ={<span class='asgreek'>σύμφυτον</span>}, Ps.-[<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 4.9.">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Pet.4.4]]
+<small><sub>LSJ Scripture Refs: [[1Pet.4.4|1Pet.4.4]]
 </sub></small>

@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <span class='asgreek'
 $\quad$ $\quad$<b>\_\_II</b> <b>bestrew with</b> a thing, <span class='asgreek'>ἅλω</span> <span class='asgreek'>οἰνάροις</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Babrius Fabularum Scriptor [prev. cited] ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>metaphorically</i> in <i>perfect</i> <i>passive</i>, <b>to be subject to</b>.., <span class='asgreek'>τῶν</span> <span class='asgreek'>τοῖς</span> <span class='asgreek'>θεοῖς</span> <span class='asgreek'>κλήρων</span> <span class='asgreek'>ὑπεστρωμένων</span> [<a href="javascript:void(0)" title=" 5th-6th c.AD: Damascius Philosophus “de Principiis” 398, compare 5th c.AD: Proclus Philosophus “Inst.” 132 ">Refs 5th c.AD+</a>]: so in <i>active</i>, <b>subject,</b> <span class='asgreek'>πάντα</span> -<span class='asgreek'>στρώσαντες</span> <span class='asgreek'>ἑαυτοῖς</span> [<a href="javascript:void(0)" title="[prev. work] 121. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.19.36]]
+<small><sub>LSJ Scripture Refs: [[Luke.19.36|Luke.19.36]]
 </sub></small>

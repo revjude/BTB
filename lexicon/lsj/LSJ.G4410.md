@@ -5,5 +5,5 @@
  <b>the first seat</b> in a public place, [<a href="javascript:void(0)" title=" NT.Matt.23.6 (\_plural\_). ">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Matt.23.6]]
+<small><sub>LSJ Scripture Refs: [[Matt.23.6|Matt.23.6]]
 </sub></small>

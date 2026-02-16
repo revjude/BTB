@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> with <i>genitive</i>, <span class='asgreek'>
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>illegal,</b> <span class='asgreek'>κατοχή</span>[<a href="javascript:void(0)" title=" “POxy.” 237 vii 11 (2nd c.AD). ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> (<span class='asgreek'>νόμος</span>[<a href="javascript:void(0)" title=" 11)">Refs</a>] <b>unmusical,</b> <span class='asgreek'>νόμος</span> <span class='asgreek'>ἄ</span>.[<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 1142 (Lyric poetry).">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.9.21]] ☩ [[Rom.2.12]]
+<small><sub>LSJ Scripture Refs: [[1Cor.9.21|1Cor.9.21]] ☩ [[Rom.2.12|Rom.2.12]]
 </sub></small>

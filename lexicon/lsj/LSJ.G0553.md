@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>misunderstand, misinterpret,</b> [<a href="javascript:void(0)" title=" 2nd c.BC: Hipparchus Astronomicus 1.6.11, +others ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_II.b</b> <b>understand</b> a word <b>from</b> the context, [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Conjunctionibus;” 226.20.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Phil.3.20]]
+<small><sub>LSJ Scripture Refs: [[Phil.3.20|Phil.3.20]]
 </sub></small>

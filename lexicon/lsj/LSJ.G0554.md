@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>strip off for oneself, despoil,</b> <span class='asgreek'>τινά</span> [<a href="javascript:void(0)" title="[prev. work] 2.15.">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Col.3.9]]
+<small><sub>LSJ Scripture Refs: [[Col.3.9|Col.3.9]]
 </sub></small>

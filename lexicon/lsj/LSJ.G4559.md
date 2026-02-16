@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>fleshly, of the flesh, Ep. Hebrew </b>[<a
 $\quad$ $\quad$<b>\_\_II</b> <b>fleshy, corpulent</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Fragmenta” 711, 5th c.BC: Eupolis Comicus 387; σώματα 5th-6th c.BC: Plato Philosophus “Leges” 906c. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>==σαρκικός==ινος</span> <span class='asgreek'>ἤτοι</span> <span class='asgreek'>γυργαθός</span>, perhaps ={<span class='asgreek'>σαργάνη</span>}[<a href="javascript:void(0)" title=" 2, “Edict.Diocl.” 32.18. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.7.14]]
+<small><sub>LSJ Scripture Refs: [[Rom.7.14|Rom.7.14]]
 </sub></small>

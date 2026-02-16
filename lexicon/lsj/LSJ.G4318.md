@@ -16,5 +16,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>accession, addition,</b> [<a href="javascript:v
 $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>increase of rent,</b> [<a href="javascript:void(0)" title=" PTeb. 72.449 (2nd c.BC). ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>surface</b> of a stone <b>intended for application</b> to another, [<a href="javascript:void(0)" title=" “IG” 22.244.102 (\_plural\_). ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.5.2]] ☩ [[Eph.2.18]]
+<small><sub>LSJ Scripture Refs: [[Rom.5.2|Rom.5.2]] ☩ [[Eph.2.18|Eph.2.18]]
 </sub></small>

@@ -13,5 +13,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <span class='asgreek'>τῶν</span> <spa
 $\quad$ $\quad$<b>\_\_III</b> <i>middle</i> [<a href="javascript:void(0)" title=" in signification 1.1, σ. λογάριον “PFay.” 109.6 (1st c.AD),compare “POxy.” 113.27 (2nd c.AD). ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <i>middle</i>, <b>annul jointly with</b> another, <span class='asgreek'>ἐφ᾽</span> <span class='asgreek'>ᾧ</span> <span class='asgreek'>συναρεῖταί</span> <span class='asgreek'>μοι</span> <span class='asgreek'>ἣν</span> <span class='asgreek'>ἔχει</span> <span class='asgreek'>ἡμῶν</span> <span class='asgreek'>συνοικεσίου</span> <span class='asgreek'>συγγραφήν</span> [<a href="javascript:void(0)" title=" “PTeb.” 809.4 (2nd c.BC),compare “PRein.” 31.8 (2nd c.BC), “BGU” [prev. cited] (1st c.AD), “PLips.” [prev. cited] (2nd c.AD), “CPR” 23.17 (2nd c.AD)">Refs 2nd c.BC+</a>]:— <i>passive</i>, [<a href="javascript:void(0)" title=" “PRein.” 8.7 (2nd c.BC). ">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.18.23]] ☩ [[Matt.18.24]]
+<small><sub>LSJ Scripture Refs: [[Matt.18.23|Matt.18.23]] ☩ [[Matt.18.24|Matt.18.24]]
 </sub></small>

@@ -5,5 +5,5 @@
  <b>eye-service,</b> [<a href="javascript:void(0)" title="NT.Eph.6.6: in \_plural\_, NT.Col.3.22. ">NT</a>]
 
 
-<small><sub>LSJ Scripture Refs: [[Eph.6.6]] ☩ [[Col.3.22]]
+<small><sub>LSJ Scripture Refs: [[Eph.6.6|Eph.6.6]] ☩ [[Col.3.22|Col.3.22]]
 </sub></small>

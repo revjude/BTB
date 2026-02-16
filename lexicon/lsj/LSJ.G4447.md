@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <span class='asgreek'>π</span>. <span class='asgreek'>πόλεμος</span> <b>bitter, obstinate</b> war, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 35.1.6, 1st c.BC: Diodorus Siculus Historicus 31.40. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <span class='asgreek'>π</span>. <span class='asgreek'>ἀσπαστικόν</span> <b>fiery</b> greeting, [<a href="javascript:void(0)" title=" “PMag.Par.” 1.638. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rev.9.17]]
+<small><sub>LSJ Scripture Refs: [[Rev.9.17|Rev.9.17]]
 </sub></small>

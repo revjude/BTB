@@ -21,5 +21,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_B.II.11</b> <b>relieve,</b> [<a href="javascript:v
 $\quad$ $\quad$<b>\_\_B.III</b> <i>intransitive</i>, <b>loose from moorings, weigh anchor,</b> and so, <b>depart, go away,</b> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 3.69.14, 2nd c.AD: Babrius Fabularum Scriptor 42.8, etc.: \_metaphorically\_, of death, ἐς θεοὺς ἀνέλυσα “epigram Gr.” 340.7 (from Macestus)">Refs 2nd c.BC+</a>]: <i>absolutely</i>, <b>die,</b> [<a href="javascript:void(0)" title="NT.Phil.1.23, “IG” 14.1794; ἀ. ἐκ τοῦ ζῆν 2nd c.AD: Diogenes Oenoandensis Epicureus 2. ">NT+2nd c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_B.III.2</b> <b>return,</b> [<a href="javascript:void(0)" title="NT.Luke.12.36; ἐξ ᾅδου LXX.Wis.2.1.">LXX+NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Phil.1.23]] ☩ [[Luke.12.36]]
+<small><sub>LSJ Scripture Refs: [[Phil.1.23|Phil.1.23]] ☩ [[Luke.12.36|Luke.12.36]]
 </sub></small>

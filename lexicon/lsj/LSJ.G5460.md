@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>metaphorically</i>, <b>clear, distinct,</b> <span class='asgreek'>λόγος</span> [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.9b (\_comparative\_, assuming variant)">Refs 1st c.AD+</a>]; also in moral sense, [<a href="javascript:void(0)" title=" 5th c.AD: Hierocles Platonicus Philosophus “in Carmen Aureum - FPG” 3p.424M.; ὅταν ὁ ὀφθαλμός σου ἁπλοῦς ᾖ, καὶ ὅλον τὸ σῶμά σου φ. ἐστιν NT.Luke.11.34, compare 36. ">NT+5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.11.34]]
+<small><sub>LSJ Scripture Refs: [[Luke.11.34|Luke.11.34]]
 </sub></small>

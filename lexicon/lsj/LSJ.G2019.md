@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>call out, proclaim, exclaim,</b> <span cl
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>respond,</b> in ritual, [<a href="javascript:void(0)" title=" LXX.2Mac.1.23. ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <b>subjoin, add as a finishing touch,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Demetrius Phalereus Rhetor “Demetrius on Style” 107 ">Refs 4th c.BC+</a>]:—<i>passive</i>,[<a href="javascript:void(0)" title=" [prev. work] 110, 2nd c.AD: Hermogenes Rhetor “περὶ εὑρέσεως” 4.9. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.23.21]]
+<small><sub>LSJ Scripture Refs: [[Luke.23.21|Luke.23.21]]
 </sub></small>

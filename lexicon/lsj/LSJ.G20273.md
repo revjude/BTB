@@ -4,3 +4,6 @@
 
  <b>keep the Sabbath</b>, [<a href="javascript:void(0)" title=" LXX.Ezek.21.23(28), 12th c.AD: Tzetzes, Joannes Grammaticus “Historiarum variarum chiliades” 10.675. ">LXX</a>]
 
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.21.18|LXX.Ezek.21.23]]**\***
+</sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>blow gently,</b> [<a href="javascript:void(0)" title=" NT.Acts.27.13. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.27.13]]
+<small><sub>LSJ Scripture Refs: [[Acts.27.13|Acts.27.13]]
 </sub></small>

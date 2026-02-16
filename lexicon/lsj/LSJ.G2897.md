@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>intoxication</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus “Κόλαξ” 47, 4th c.AD: Alciphro Epistolographus 1.37, 4th c.AD: Themistius Sophista “Orationes” 2.36a. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>drunken headache</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “Aër.” 3, 4th c.BC: Aristoteles Philosophus “Problemata” 873a37, etc. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.21.34]]
+<small><sub>LSJ Scripture Refs: [[Luke.21.34|Luke.21.34]]
 </sub></small>

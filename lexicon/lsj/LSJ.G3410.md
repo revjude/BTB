@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>contract</b>, <span class='asgreek'>μι�
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>rent,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 12(7).55.15 (Amorgos, 4th-3rd c.BC), “Tab.Heracl.” 1.128. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>that which is let for hire, hired house,</b> [<a href="javascript:void(0)" title=" NT.Acts.28.30. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.28.30]]
+<small><sub>LSJ Scripture Refs: [[Acts.28.30|Acts.28.30]]
 </sub></small>

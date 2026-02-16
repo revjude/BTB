@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>outline,</b> <span class='asgreek'>σκιὰ</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ὑ</span>. [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus “Fragmenta” 7 H.; πρὸς ἣν ἕκαστος ἔχει παρασκευὴν τὸν τακτικὸν δεῖ ὑπογραμμὸν τιθέναι τοῦ πλήθους 2nd-3rd c.AD: Aelianus “Tactica - Griechische Kriegsschriftsteller” 8.1. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Pet.2.21]]
+<small><sub>LSJ Scripture Refs: [[1Pet.2.21|1Pet.2.21]]
 </sub></small>

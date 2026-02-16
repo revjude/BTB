@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>the Advent</b> of Christ, [<a href="javascript:void(0)" title=" NT.Acts.7.52. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.7.52]]
+<small><sub>LSJ Scripture Refs: [[Acts.7.52|Acts.7.52]]
 </sub></small>

@@ -5,3 +5,6 @@
 
  <b>grievous of tongue,</b> variant for{<span class='asgreek'>βαθυ</span>-}, [<a href="javascript:void(0)" title=" LXX.Ezek.3.5. ">LXX</a>]
 
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.3.5|LXX.Ezek.3.5]]
+</sub></small>

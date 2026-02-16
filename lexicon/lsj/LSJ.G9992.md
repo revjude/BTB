@@ -8,5 +8,5 @@ Included with: <b> <span class='asgreek'>==τυπικῶς==</span>-<span class=
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>typicum, = figuratum,</b> [<a href="javascript:void(0)" title="“Corpus Glossariorum Latinorum”">Refs</a>]; <span class='asgreek'>τὰ</span> <span class='asgreek'>τ</span>. perhaps <b>seals</b> on a will, [<a href="javascript:void(0)" title=" “PMasp.” 154v. 20 (6th c.AD). ">Refs 6th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <i>adverb</i> <b>-<span class='asgreek'>κῶς</span></b> <b>by way of example,</b> [<a href="javascript:void(0)" title=" NT.1Cor.10.11. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.10.11]]
+<small><sub>LSJ Scripture Refs: [[1Cor.10.11|1Cor.10.11]]
 </sub></small>

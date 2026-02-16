@@ -10,5 +10,5 @@ $\quad$ $\quad$<b>\_\_II</b> with <i>accusative</i> of that from which the fruit
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> proverbial, <span class='asgreek'>ἐρήμας</span> <span class='asgreek'>τρυγᾶν</span> (i.e. <span class='asgreek'>ἀμπέλους</span>) <b>strip</b> unwatched <b>vines,</b> of one who is bold where there is nothing to fear, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Ecclesiazusae” 886, “V.” 634, ubi see Scholia ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <i>metaphorically</i>, with <i>accusative</i> <i>person</i>, <b>strip</b> one, i. e. <b>rob</b> him, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “DMeretr.” 1.2 ">Refs 2nd c.AD+</a>]: with <i>accusative</i> <i>of things</i>, <b>rob,</b> <span class='asgreek'>βίᾳ</span> <span class='asgreek'>τρυγήσαντες</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>περιστερεῶνα</span> [<a href="javascript:void(0)" title=" “BGU” 1855.13 (1st c.BC). ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.6.44]]
+<small><sub>LSJ Scripture Refs: [[Luke.6.44|Luke.6.44]]
 </sub></small>

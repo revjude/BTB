@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b>. <b>bear witness in favour of</b>, <span cla
 $\quad$ $\quad$<b>\_\_II</b>. Astrology texts, <b>support</b> <b>by aspect</b>, [<a href="javascript:void(0)" title=" Vett.Val. 111.31, “PMag.Leid.W.” 24.16 (2nd-3rd c.AD). ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b>. in <i>middle</i>, <b>adjure</b>, <span class='asgreek'>τισὶ</span> <span class='asgreek'>μὴ</span> <span class='asgreek'>ποιέειν</span> <span class='asgreek'>τι</span> 5th c.BC: Herodotus Historicus 5.93 (as variant for{<span class='asgreek'>ἐπιμαρτύρομαι</span>}).
 
-<small><sub>LSJ Scripture Refs: [[1Pet.5.12]]
+<small><sub>LSJ Scripture Refs: [[1Pet.5.12|1Pet.5.12]]
 </sub></small>

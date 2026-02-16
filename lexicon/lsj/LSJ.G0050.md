@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>absolutely</i>, <b>go wrong, make a false step</b>, first in [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ ἄρθρων ἐμβολῆς” 46, 5th c.BC: Antipho Orator 5.44 (uncertain reading), Isocrates 8.39">Refs 5th c.BC+</a>]; <i>participle</i> <span class='asgreek'>==ἀγνοέω==ῶν</span> <b>ignorantly, by mistake</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Anabasis” 7.3.38, 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1110b27; ==ἀγνοέω==ήσαντες 5th-6th c.BC: Andocides Orator 4.5">Refs 5th c.BC+</a>]: in moral sense, <b>to be ignorant of what is right, act amiss</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 5.11.5, cf. NT.Heb. 5.2">NT+2nd c.BC+</a>]:—<i>middle</i>, <b>fail to recognize</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 14.630.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.9.32]]
+<small><sub>LSJ Scripture Refs: [[Mark.9.32|Mark.9.32]]
 </sub></small>

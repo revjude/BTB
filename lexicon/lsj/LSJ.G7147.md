@@ -5,3 +5,6 @@
 
  <b>squeeze</b> or <b>strain out,</b> variant in [<a href="javascript:void(0)" title=" LXX.Ezek.23.34, 1st c.AD: Dioscorides (Dioscurides) Medicus 4.150 (to be read ἐκσπογγίσας). ">LXX+1st c.AD+</a>]
 
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.23.34|LXX.Ezek.23.34]]
+</sub></small>

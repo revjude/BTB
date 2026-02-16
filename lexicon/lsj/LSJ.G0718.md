@@ -18,5 +18,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <i>impersonal</i>, <span class='asgreek'>
 $\quad$ $\quad$ $\quad$<b>\_\_II.4</b> <i>participle</i> <span class='asgreek'>==ἁρμόζω==ν</span>, <span class='asgreek'>ουσα</span>, <span class='asgreek'>ον</span>, <b>fitting, suitable,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “P.” 4.129">Refs 5th c.BC+</a>]; <span class='asgreek'>ἡ</span> <span class='asgreek'>ἁρμόζουσα</span> <span class='asgreek'>ἀπόφασις</span> the <b>appropriate</b> verdict, [<a href="javascript:void(0)" title=" 3rd c.BC: Archimedes Geometra “περὶ σφαίρας καὶ κυλίνδρου” 1">Refs 3rd c.BC+</a>] <b>Praef.;</b> <span class='asgreek'>ἀλλήλοις</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Laches” 188d, +others: with \_genitive\_, 2nd c.BC: Polybius Historicus 1.44.1; πρός τι 5th-6th c.BC: Xenophon Historicus “Memorabilia” 4.3.5, etc. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>to be in tune,</b> <span class='asgreek'>λύραν</span> <span class='asgreek'>ἐπίτειν᾽</span> <span class='asgreek'>ἕως</span> <span class='asgreek'>ἂν</span> <span class='asgreek'>ἁρμόσῃ</span>[<a href="javascript:void(0)" title=" 3rd c.BC: Macho Comicus 2.9.">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.11.2]]
+<small><sub>LSJ Scripture Refs: [[2Cor.11.2|2Cor.11.2]]
 </sub></small>

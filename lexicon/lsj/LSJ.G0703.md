@@ -15,5 +15,5 @@ $\quad$ $\quad$<b>\_\_V</b> <span class='asgreek'>ἡ</span> <span class='asgree
 $\quad$ $\quad$<b>\_\_VI</b> an <b>engine of war,</b> [<a href="javascript:void(0)" title=" 2nd c.BC: Athenaeus Mechanicus 38.11. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_VII</b> a <b>plaster,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Andromachus Poeta Medicus cited in 2nd c.AD: Galenus Medicus 13.531.">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Pet.2.9]] ☩ [[2Pet.1.3]]
+<small><sub>LSJ Scripture Refs: [[1Pet.2.9|1Pet.2.9]] ☩ [[2Pet.1.3|2Pet.1.3]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>talk nonsense</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Astrampsychus Onirocriticus “Oracula” 74.9.">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Phil.4.10]]
+<small><sub>LSJ Scripture Refs: [[Phil.4.10|Phil.4.10]]
 </sub></small>

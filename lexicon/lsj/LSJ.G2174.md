@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <span class='asgreek'>εὐψύχει</span> <b>farewell</b>! a common <i>inscription</i> on tombs, [<a href="javascript:void(0)" title=" “IG” 12(2).393 (from Mytilene), etc. ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <span class='asgreek'>εὐψυχεῖν</span>, ={<span class='asgreek'>χαίρειν</span>}, in a letter of condolence, [<a href="javascript:void(0)" title=" “POxy.” 115.1 (2nd c.AD). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Phil.2.19]]
+<small><sub>LSJ Scripture Refs: [[Phil.2.19|Phil.2.19]]
 </sub></small>

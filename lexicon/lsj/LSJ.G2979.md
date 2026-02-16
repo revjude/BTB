@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>absolutely</i>, <b>kick, struggle</b>, [<a href="javascript:void(0)" title=" Batrachomyomachia 90 ">Refs</a>]; of horses, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Eq. Mag.” 1.4: frequently in proverbial λ. ποτὶ κέντρον, πρὸς κέντρα">Refs 5th c.BC+</a>], <b>kick</b> against the pricks, [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “P.” 2.95, 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 1624, 5th c.BC: Euripides Tragicus “Bacchae” 795, NT.Acts.26.14, etc.; so πρὸς κῦμα λ. 5th c.BC: Euripides Tragicus “Iphigenia Taurica” 1396. ">NT+5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.26.14]]
+<small><sub>LSJ Scripture Refs: [[Acts.26.14|Acts.26.14]]
 </sub></small>

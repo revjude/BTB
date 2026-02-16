@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>passive</i>, <b>to be made a show of, held up to shame,</b> [<a href="javascript:void(0)" title="NT.Heb.10.33. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.10.33]]
+<small><sub>LSJ Scripture Refs: [[Heb.10.33|Heb.10.33]]
 </sub></small>

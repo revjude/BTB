@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> with <i>genitive</i>, <b>rule over</b>, <span class='asgreek'>ἡ</span> <span class='asgreek'>γῆ</span> <span class='asgreek'>κ</span>. <span class='asgreek'>τῶν</span> <span class='asgreek'>λοιπῶν</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Vettius Valens Astrologus 344.29. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Col.2.18]]
+<small><sub>LSJ Scripture Refs: [[Col.2.18|Col.2.18]]
 </sub></small>

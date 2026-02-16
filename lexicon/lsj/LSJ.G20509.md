@@ -4,3 +4,6 @@
 
  <b>inspect the liver for soothsaying</b>, [<a href="javascript:void(0)" title=" LXX.Ezek.21.21 (26). ">LXX</a>]
 
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.21.16|LXX.Ezek.21.21]]**\***
+</sub></small>

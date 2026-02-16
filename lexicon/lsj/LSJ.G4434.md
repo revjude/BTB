@@ -9,5 +9,5 @@ $\quad$ $\quad$<b>\_\_II</b> as <i>adjective</i>, <b>beggarly</b>, <span class='
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <i>comparative</i> <span class='asgreek'>πτωχότερος</span> [<a href="javascript:void(0)" title=" 4th c.BC: Timocles Comicus 6.10 ">Refs 4th c.BC+</a>]; proverbial, <span class='asgreek'>π</span>. <span class='asgreek'>κίγκλου</span> 'as poor as a church mouse', [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus 221; irregular πτωχίστερος 5th-6th c.BC: Aristophanes Comicus “Acharnenses” 425 ">Refs 5th c.BC+</a>]: <i>superlative</i> <span class='asgreek'>πτωχότατος</span> [<a href="javascript:void(0)" title=" “Anthologia Graeca” 10.50 (6th c.AD: Palladas Epigrammaticus). ">Refs 6th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <i>adverb</i> -<span class='asgreek'>χῶς</span> <b>poorly, scantily</b>, <span class='asgreek'>ἠροτρία</span> <span class='asgreek'>π</span>. <span class='asgreek'>μέν</span>, <span class='asgreek'>ἀλλ᾽</span> <span class='asgreek'>ἀναγκαίως</span> [<a href="javascript:void(0)" title=" 2nd c.AD: Babrius Fabularum Scriptor 55.2. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.12.42]] ☩ [[Matt.5.3]] ☩ [[Luke.6.20]] ☩ [[Gal.4.9]]
+<small><sub>LSJ Scripture Refs: [[Mark.12.42|Mark.12.42]] ☩ [[Matt.5.3|Matt.5.3]] ☩ [[Luke.6.20|Luke.6.20]] ☩ [[Gal.4.9|Gal.4.9]]
 </sub></small>

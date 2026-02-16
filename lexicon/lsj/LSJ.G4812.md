@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>rob, despoil</b>, <span class='asgreek'>τὸν</span> <span class='asgreek'>οἶκον</span> [<a href="javascript:void(0)" title=" 5th c.AD: Aristaenetus Rhetor 2.22. ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Col.2.8]]
+<small><sub>LSJ Scripture Refs: [[Col.2.8|Col.2.8]]
 </sub></small>

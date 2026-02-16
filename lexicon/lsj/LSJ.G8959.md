@@ -5,3 +5,6 @@
 
  <b>excrement</b>, [<a href="javascript:void(0)" title=" LXX.Ezek.32.6. ">LXX</a>]
 
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.32.6|LXX.Ezek.32.6]]
+</sub></small>

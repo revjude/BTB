@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>succour</b>, <span class='asgreek'>εὑρήσεται</span> <span class='asgreek'>τ</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 3.148 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἡ</span> <span class='asgreek'>ἀφ᾽</span> <span class='asgreek'>ὑμῶν</span> <span class='asgreek'>τ</span>. [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 1.69, compare 5.112; τ. ποιεῖσθαί τινι [prev. author] 1.124 ">Refs 5th c.BC+</a>]; <span class='asgreek'>τ</span>. <span class='asgreek'>τοῦ</span> <span class='asgreek'>τεθνεῶτος</span> <b>due</b> to him, [<a href="javascript:void(0)" title=" 5th c.BC: Antipho Orator 1.5. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> of <b>medical and</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ διαίτης ὀξέων” 18 (\_plural\_); compare τιμωρέω 11.2. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.10.29]]
+<small><sub>LSJ Scripture Refs: [[Heb.10.29|Heb.10.29]]
 </sub></small>

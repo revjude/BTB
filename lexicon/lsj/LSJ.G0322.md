@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>notify,</b> especially <b>proclaim</b> any one a
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>dedicate,</b> <span class='asgreek'>τῷ</span> <span class='asgreek'>Διὶ</span> <span class='asgreek'>ταῦρον</span>[<a href="javascript:void(0)" title=" “SIG” 589.6 (5th c.BC: Magnes Comicus Mae., 2nd c.BC)">Refs 5th c.BC+</a>]; <span class='asgreek'>τὴν</span> <span class='asgreek'>Πιερίδα</span> <span class='asgreek'>ταῖς</span> <span class='asgreek'>θεαῖς</span>[<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 9.2.25; θέατρον 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pompeius” 52; ἱερά “Anthologia Graeca” 9.340. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>πόλεμον</span> <b>declare</b> war, [<a href="javascript:void(0)" title=" “SIG” 742.12 (Ephesus, 1st c.BC).">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.10.1]]
+<small><sub>LSJ Scripture Refs: [[Luke.10.1|Luke.10.1]]
 </sub></small>

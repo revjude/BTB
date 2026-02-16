@@ -15,5 +15,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>an officer who had the custody of the 
 $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> <span class='asgreek'>νυκτερινὸς</span> <span class='asgreek'>σ</span>. <b>superintendent of police</b> at Alexandria, [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 17.1.12. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.7</b> ={<span class='asgreek'>φαλαγγάρχης</span>} (which see), [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Tactica” 10.7, 2nd-3rd c.AD: Aelianus “Tactica - Griechische Kriegsschriftsteller” 9.8. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.16.20]] ☩ [[Luke.22.52]] ☩ [[Acts.4.1]]
+<small><sub>LSJ Scripture Refs: [[Acts.16.20|Acts.16.20]] ☩ [[Luke.22.52|Luke.22.52]] ☩ [[Acts.4.1|Acts.4.1]]
 </sub></small>

@@ -19,5 +19,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_B.3</b> <b>obtain</b> a decision, <b>win</b> a law
 $\quad$ $\quad$<b>\_\_B.II</b> <b>bring back for oneself,</b> <span class='asgreek'>ὀπίσω</span>[<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.152; ἀ. σημεῖα τοῦ θυμῷ μάχεσθαι 5th-6th c.BC: Xenophon Historicus “Agesilaus” 6.2">Refs 5th c.BC+</a>]; <span class='asgreek'>ἀ</span>. <span class='asgreek'>βίον</span> <span class='asgreek'>μητρί</span>, i.e. <b>return to</b> her alive, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Phoenissae” 1161; νόστον [prev. author] “IA” 298 (Lyric poetry). ">Refs 5th c.BC+</a>]
 $\quad$ <b>\_\_C</b> Intr. in <i>active</i>, <b>be off,</b> <span class='asgreek'>ἀπόφερ᾽</span> <span class='asgreek'>ἐς</span> <span class='asgreek'>κόρακας</span>[<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Pax” 1221.">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.15.1]]
+<small><sub>LSJ Scripture Refs: [[Mark.15.1|Mark.15.1]]
 </sub></small>

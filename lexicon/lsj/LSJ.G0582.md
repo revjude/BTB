@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> generally, <span class='asgreek'>ἐξ</span
 $\quad$ $\quad$<b>\_\_II</b> as <i>Attic dialect</i> law-term, <b>copy of a declaration</b> made before a magistrate, <b>deposition</b> or <b>information</b> laid, [<a href="javascript:void(0)" title=" 5th c.BC: Lysias Orator 9.3, 29.1, Legal cited in 4th c.BC: Demosthenes Orator 35.51">Refs 5th c.BC+</a>]; <span class='asgreek'>ποιεῖσθαι</span> <span class='asgreek'>ἀ</span>., ={<span class='asgreek'>ἀπογράφειν</span>}, [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 53.1; τινὸς κατά τινος 5th-6th c.BC: Andocides Orator 1.23, cf. Harp.(which see) ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> any <b>written declaration</b> before a magistrate, <span class='asgreek'>ἀ</span>. <span class='asgreek'>ποιείσθωσαν</span> <span class='asgreek'>δηλοῦντες</span> <span class='asgreek'>κτλ</span>.[<a href="javascript:void(0)" title=" “POxy.” 237 vii33 (1st c.AD), etc.">Refs 1st c.AD+</a>]; especially <b>declaration</b> of property or persons liable to taxation, [<a href="javascript:void(0)" title=" “BGU” 1147.26 (1st c.BC), etc.">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.2.2]]
+<small><sub>LSJ Scripture Refs: [[Luke.2.2|Luke.2.2]]
 </sub></small>

@@ -11,5 +11,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_5</b> a magician's <b>fee,</b> [<a href="javascrip
 $\quad$ $\quad$ $\quad$<b>\_\_6</b> <b>gratuity</b> to tax-farmers, [<a href="javascript:void(0)" title=" “UPZ” 112v3 (\_plural\_). ">Refs</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_7</b> ={<span class='asgreek'>ὄψον</span>} [<a href="javascript:void(0)" title=" I.1 (cf. Latin ">Refs</a>]<b>obsonium</b>), <span class='asgreek'>τῶν</span> <span class='asgreek'>ἀνηλωμάτων</span> <span class='asgreek'>πάντων</span> <span class='asgreek'>σίτου</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>ὀψωνίων</span> [<a href="javascript:void(0)" title="[prev. work] 91.13 (2nd c.BC).">Refs 2nd c.BC+</a>]—The word is rejected by [<a href="javascript:void(0)" title=" 2nd c.AD: Phrynichus Atticista 393. First used by 4th-3rd c.BC: Menander Comicus 1051 (no context); ᾔτησεν εἰς ὀ. τριώβολον Thugenides Comicus 2. Glossed ὀψωνία, also (in \_plural\_) κέρδη, χαρίσματα, by 9th c.AD: Photius Legal icographus, etc. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.6.23]]
+<small><sub>LSJ Scripture Refs: [[Rom.6.23|Rom.6.23]]
 </sub></small>

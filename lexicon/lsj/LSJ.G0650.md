@@ -10,5 +10,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_4</b> with <i>accusative</i> <i>of things</i> only
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <span class='asgreek'>τὸ</span> <span class='asgreek'>σαφές</span> <span class='asgreek'>μ᾽</span> <span class='asgreek'>==ἀποστερέω==εῖ</span> certainty <b>fails</b> me, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Helena” 577. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_II</b> in Logic, <b>draw a negative conclusion,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Analytica Priora” 44b23. (ἀποστέρω">Refs 4th c.BC+</a>] is <i>falsa lectio</i> in [<a href="javascript:void(0)" title=" 5th-6th c.BC: Isocrates Orator 12.243.)">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.6.7]]
+<small><sub>LSJ Scripture Refs: [[1Cor.6.7|1Cor.6.7]]
 </sub></small>

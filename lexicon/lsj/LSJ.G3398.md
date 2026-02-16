@@ -21,5 +21,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_III.5.c</b> <span class='asgreek'>παρ�
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_III.5.d</b> <span class='asgreek'>μετὰ</span> <span class='asgreek'>μικρόν</span> <b>a little</b> after, [<a href="javascript:void(0)" title=" NT.Matt.26.73. ">NT</a>]
 $\quad$ $\quad$<b>\_\_IV</b> besides regular <i>comparative</i> and <i>superlative</i> <span class='asgreek'>μικρότερος</span>, -<span class='asgreek'>ότατος</span> [<a href="javascript:void(0)" title="(5th-6th c.BC: Aristophanes Comicus “Equites” 789, 4th c.BC: Demosthenes Orator “Prooemia” 48, etc.), there are the irregular ἐλάσσων, ἐλάχιστος, from ἐλαχύς, and μείων, μεῖστος, also μειότερος">Refs 5th c.BC+</a>]; see at {<span class='asgreek'>μείων</span>. [<span class='asgreek'>ῑ</span>} by nature; <span class='asgreek'>ῐ</span> only in late Poetry, epigram cited in [<a href="javascript:void(0)" title=" 2nd c.AD: Phlegon Trallianus Paradoxographus “fragment” 36.17 1st c.AD: Josephus Historicus]">Refs 1st c.AD+</a>] (Perh. cf. Latin <i>mīca</i>, <b>mīcidus</b>, OHG. <b>smāhi</b>, ONorse <b>smár</b> 'little'.)
 
-<small><sub>LSJ Scripture Refs: [[LXX.Exod.17.4|LXX.Exod.17.4]] ☩ [[Matt.26.73]]
+<small><sub>LSJ Scripture Refs: [[LXX.Exod.17.4|LXX.Exod.17.4]] ☩ [[Matt.26.73|Matt.26.73]]
 </sub></small>

@@ -15,5 +15,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_4.e</b> <b>leading, principal,</b> <span c
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_4.f</b> in Medicine texts, <span class='asgreek'>π</span>. <span class='asgreek'>αἴτιον</span> <b>predisposing</b> cause, [<a href="javascript:void(0)" title=" 1st c.AD: Athenaeus Medicus cited in 2nd c.AD: Galenus Medicus 15.112, compare 7.10, +others">Refs 1st c.AD+</a>]; <span class='asgreek'>π</span>. <span class='asgreek'>αἰτίαι</span> <b>antecedent</b> causes, [<a href="javascript:void(0)" title=" 3rd c.BC: Chrysippus Stoicus 2.264. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b> <i>aorist</i> <i>participle</i>, <span class='asgreek'>ὁ</span> -<span class='asgreek'>ησάμενος</span> the <b>former</b> <span class='asgreek'>ἡγεμών</span>, [<a href="javascript:void(0)" title=" “PLips.” 63.6 (4th c.AD), etc. ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.12.10]]
+<small><sub>LSJ Scripture Refs: [[Rom.12.10|Rom.12.10]]
 </sub></small>

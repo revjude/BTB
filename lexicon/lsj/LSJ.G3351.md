@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> later <i>intransitive</i> in <i>active</i>, [<a href="javascript:void(0)" title=" “SIG” 880.45 (3rd c.AD). ">Refs 3rd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.7.4]]
+<small><sub>LSJ Scripture Refs: [[Acts.7.4|Acts.7.4]]
 </sub></small>

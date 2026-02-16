@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>συνίζησις</span>}, [<a href="javascript:void(0)" title=" “Anecdota Graeca - MSS. Bibl. Oxon.” 4.326. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.6.15]]
+<small><sub>LSJ Scripture Refs: [[2Cor.6.15|2Cor.6.15]]
 </sub></small>

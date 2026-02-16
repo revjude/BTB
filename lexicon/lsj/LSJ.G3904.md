@@ -12,5 +12,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> frequently in military sense (see. above 
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> generally, <b>power, means</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 1.1 ">Refs 5th c.BC+</a>]; <b>natural equipment</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 1.2.30, 2.19.30; φύσις καὶ π. [prev. work] 4.8.42, compare 1.6.37 ">Refs 2nd c.AD+</a>]; of the <b>physical constitution</b> of a new-born infant, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 6.32 ">Refs 2nd c.AD+</a>]; of mental faculties, <b>predisposition</b>, <span class='asgreek'>δύναμις</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>π</span>. [<a href="javascript:void(0)" title=" 3rd c.AD: Plotinus Philosophus 4.6.3. ">Refs 3rd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> among the Jews, <b>the day of Preparation</b>, before the sabbath of the Passover, [<a href="javascript:void(0)" title=" NT.Mark.15.42, NT.John.19.14, 31, etc.; ἡμέρα ==παρασκευή==ῆς NT.Luke.23.54. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.15.42]] ☩ [[John.19.14]] ☩ [[Luke.23.54]]
+<small><sub>LSJ Scripture Refs: [[Mark.15.42|Mark.15.42]] ☩ [[John.19.14|John.19.14]] ☩ [[Luke.23.54|Luke.23.54]]
 </sub></small>

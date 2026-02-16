@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>oblong shield (shaped like a door)</b>, [<a href
 $\quad$ $\quad$<b>\_\_III</b> <b>disk</b> forming part of <span class='asgreek'>καθετήρ</span>, [<a href="javascript:void(0)" title=" “IG” 11(2).287 B 68 (Delos, 3rd c.BC). ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> in Mathematics texts, <b>oval</b>, [<a href="javascript:void(0)" title=" 5th c.AD: Proclus Philosophus “in primum Euclidis librum commentarius” 1 “Deff.” 3,8. ">Refs 5th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eph.6.16]]
+<small><sub>LSJ Scripture Refs: [[Eph.6.16|Eph.6.16]]
 </sub></small>

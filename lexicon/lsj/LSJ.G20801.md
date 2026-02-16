@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>brood of young birds,</b> [<a href="javas
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>lair,</b> <span class='asgreek'>ἐφ᾽</span> <span class='asgreek'>ἧς</span> <span class='asgreek'>ἀλώπηξ</span> <span class='asgreek'>νοσσιὴν</span> <span class='asgreek'>πεποίηται</span> [<a href="javascript:void(0)" title=" 3rd c.BC: Herodas Mimographus 7.72. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>beehive,</b> [<a href="javascript:void(0)" title=" LXX.4Mac.14.19. ">LXX</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.13.34]]
+<small><sub>LSJ Scripture Refs: [[Luke.13.34|Luke.13.34]]
 </sub></small>

@@ -5,5 +5,5 @@
  <b>shedding of blood</b>, NT.Heb.9.22.
 
 
-<small><sub>LSJ Scripture Refs: [[Heb.9.22]]
+<small><sub>LSJ Scripture Refs: [[Heb.9.22|Heb.9.22]]
 </sub></small>

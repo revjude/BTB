@@ -11,5 +11,5 @@ $\quad$ $\quad$<b>\_\_III</b> <b>doer,</b> [<a href="javascript:void(0)" title="
 $\quad$ $\quad$<b>\_\_IV</b> <b>producer,</b> [<a href="javascript:void(0)" title=" τῶν ἐν τῷ κόσμῳ γινομένων 1st c.AD: Heraclitus 75; [Αἰὼν] θείας φύσεως ἐ. “SIG” 1125.12 (from Eleusis). ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_V</b> a sort of <b>capstan</b> or <b>windlass,</b> [<a href="javascript:void(0)" title=" 3rd-2nd c.BC: Bito Mechanicus 58.12, 1st c.BC: Vitruvius Scriptor de Architectura Latinus 10.2.7, +others, 4th c.AD: Oribasius Medicus 49.4.1. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.10.10]] ☩ [[2Tim.2.15]] ☩ [[2Cor.11.13]] ☩ [[Luke.13.27]]
+<small><sub>LSJ Scripture Refs: [[Matt.10.10|Matt.10.10]] ☩ [[2Tim.2.15|2Tim.2.15]] ☩ [[2Cor.11.13|2Cor.11.13]] ☩ [[Luke.13.27|Luke.13.27]]
 </sub></small>

@@ -8,5 +8,5 @@ combination of: <small>**<big>[[G4053|περισσός]]</big>** (**<big>[[G522
  <i>adverb</i> <b>superabundantly,</b> [<a href="javascript:void(0)" title="NT.Eph.3.20, NT.1Thess.3.10 ">NT</a>] (variant <span class='asgreek'>==ὑπερεκπερισσοῦ==περισσῶς</span>).
 
 
-<small><sub>LSJ Scripture Refs: [[Eph.3.20]] ☩ [[1Thess.3.10]]
+<small><sub>LSJ Scripture Refs: [[Eph.3.20|Eph.3.20]] ☩ [[1Thess.3.10|1Thess.3.10]]
 </sub></small>

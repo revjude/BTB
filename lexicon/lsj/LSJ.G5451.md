@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>generation, production,</b> [<a href="jav
 $\quad$ $\quad$<b>\_\_II</b> <b>growth, habit of a plant,</b> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “Historia Plantarum” 3.8.4. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>plantation</b> or simply <b>a plant,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Moschio Tragicus cited in 2nd c.AD: Athenaeus Epigrammaticus 5.207d, NT.Matt.15.13, “OGI” 606.7 (Abila, 1st c.AD). ">NT+4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.15.13]]
+<small><sub>LSJ Scripture Refs: [[Matt.15.13|Matt.15.13]]
 </sub></small>

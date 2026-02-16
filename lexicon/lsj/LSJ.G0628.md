@@ -7,5 +7,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_I.2</b> with <i>accusative</i> <i>person</i>, <b>w
 $\quad$ $\quad$ $\quad$<b>\_\_I.3</b> with <i>accusative</i> <i>person</i> et <i>of things</i>, <span class='asgreek'>ὄφρα</span> <span class='asgreek'>τάχιστα</span> <span class='asgreek'>Πάτροκλον</span> <span class='asgreek'>λούσειαν</span> <span class='asgreek'>ἄπο</span> <span class='asgreek'>βρότον</span> <b>might wash</b> the gore <b>off</b> him, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 18.345: with \_genitive\_ \_of things\_, καί μ᾽ ἀπέλουσε λύθρου “epigram Gr.” 314.6 (from Smyrna). ">Refs 8th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_I.4</b> <span class='asgreek'>==ἀπολούω==λουσέμεναι</span>· <span class='asgreek'>κολ</span>[<span class='asgreek'>λ</span>]<span class='asgreek'>οβώσειν</span> [<a href="javascript:void(0)" title="(5th c.AD: Cypria), 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]; compare <span class='asgreek'>==ἀπολούω==λέπω</span>.
 
-<small><sub>LSJ Scripture Refs: [[Acts.22.16]]
+<small><sub>LSJ Scripture Refs: [[Acts.22.16|Acts.22.16]]
 </sub></small>

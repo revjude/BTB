@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>Indian bdellium, Balsamodendron Mukul</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Anabasis” 6.22.4. (The originally form must have been μύρρα, from 3rd c.BC: Phoenix Iambographus ">Refs 3rd c.BC+</a>] <b>môrâh</b>; compare <span class='asgreek'>κιννάμωμον</span>.)
 
-<small><sub>LSJ Scripture Refs: [[John.19.39]]
+<small><sub>LSJ Scripture Refs: [[John.19.39|John.19.39]]
 </sub></small>

@@ -5,5 +5,5 @@
  <b>make additions to a will,</b> NT.Gal.3.15.
 
 
-<small><sub>LSJ Scripture Refs: [[Gal.3.15]]
+<small><sub>LSJ Scripture Refs: [[Gal.3.15|Gal.3.15]]
 </sub></small>

@@ -21,5 +21,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_III.2</b> <b>draw a line of</b> wall, trench, etc.
 $\quad$ $\quad$ $\quad$<b>\_\_III.3</b> <span class='asgreek'>κολῳὸν</span> <span class='asgreek'>ἐλαύνειν</span> <b>prolong, keep up</b> the brawl, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 1.575. ">Refs 8th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_III.4</b> <span class='asgreek'>ἐξ</span> <span class='asgreek'>ὄσσων</span> <span class='asgreek'>ἐς</span> <span class='asgreek'>γαῖαν</span> <span class='asgreek'>ἐ</span>. <span class='asgreek'>δάκρυ</span> [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Supplices” 96. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Jas.3.4]]
+<small><sub>LSJ Scripture Refs: [[Jas.3.4|Jas.3.4]]
 </sub></small>

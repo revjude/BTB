@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>not an object of knowledge, unknowable</b
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> as the name of a divinity at Athens, <span class='asgreek'>νὴ</span> <span class='asgreek'>τὸν</span> <span class='asgreek'>Ἄγνωστον</span> Ps.-[<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Philopatr.” 9, cf. NT.Acts.17.23; in \_plural\_, θεῶν.. ὀνομαζομένων ἀ. 2nd c.AD: Pausanias Periegeta 1.1.4. ">NT+2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <i>active</i>, <b>notknowing, ignorant of</b>, <span class='asgreek'>ψευδέων</span>[<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “O.” 6.67 (variant{ἄγνωτον}),compare 2nd c.AD: Lucianus Sophista “Halc.” 3. ">Refs 5th c.BC+</a>]<i>adverb</i> -<span class='asgreek'>τως</span> <b>inconsiderately</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “περὶ παρρησίας” p.29 O.">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.17.23]]
+<small><sub>LSJ Scripture Refs: [[Acts.17.23|Acts.17.23]]
 </sub></small>

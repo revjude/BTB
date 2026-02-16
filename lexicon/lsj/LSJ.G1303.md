@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_B.5</b> <b>compose, make,</b> <span class='asgreek
 $\quad$ $\quad$ $\quad$<b>\_\_B.6</b> <b>set forth, recite,</b> <span class='asgreek'>λόγους</span>, <span class='asgreek'>δημηγορίαν</span>, etc., [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 3.108.2, 1st c.BC: Dionysius Halicarnassensis 11.7, compare 1st c.BC: Diodorus Siculus Historicus 12.17; πολλοὺς ἐπαίνους τινῶν 1st c.BC: Dionysius Halicarnassensis 3.17; δ. ῥῆσιν ἐφ᾽ ἑαυτοῦ 2nd c.AD: Lucianus Sophista “Herm.” 1. ">Refs 2nd c.BC+</a>]
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_B.6.b</b> Grammars, <span class='asgreek'>διατιθέναι</span> and -<span class='asgreek'>τίθεσθαι</span> <b>to act</b> and <b>be acted upon,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Syntaxi;” 12.15 ">Refs 2nd c.AD+</a>]; <span class='asgreek'>τὸ</span> <span class='asgreek'>διατιθέν</span> and <span class='asgreek'>τὸ</span> <span class='asgreek'>διατιθέμενον</span> <b>subject</b> and <b>object,</b> [<a href="javascript:void(0)" title="[prev. work] 127.22. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.9.16]] ☩ [[Acts.3.25]]
+<small><sub>LSJ Scripture Refs: [[Heb.9.16|Heb.9.16]] ☩ [[Acts.3.25|Acts.3.25]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> as title, [<a href="javascript:void(0)" title=" “PGiss.” 55.5 (6th c.AD).">Refs 6th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.12.10]]
+<small><sub>LSJ Scripture Refs: [[Heb.12.10|Heb.12.10]]
 </sub></small>

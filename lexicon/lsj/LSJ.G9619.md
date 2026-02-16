@@ -16,5 +16,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <span class='asgreek'>ἐπὶ</span> <sp
 $\quad$ $\quad$<b>\_\_III</b> <b>dye, paint, colour,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Empedocles Poeta Philosophus 23.3, 5th c.BC: Herodotus Historicus 1.98, 4th-5th c.BC: Aeschylus Tragicus “Fragmenta - American Journal of Philology” 134, 5th-6th c.BC: Aristophanes Comicus “Ecclesiazusae” 735, 5th-6th c.BC: Plato Philosophus “Respublica” 420c, “Plt.” 277c, “PCair.Zen.” 789.13 (3rd c.BC), etc. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_IV</b> <b>chemical reagent,</b> [<a href="javascript:void(0)" title=" PLeid.X. 25, “PHolm.” 13.46, 22.10, 2nd c.AD: Pseudo-Democritus Alchemista cited in Zos.Alch. p.160 5th c.BC: Bacchylides Lyricus ">Refs 5th c.BC+</a>]; <b>used by tanners,</b> [<a href="javascript:void(0)" title="Scholia 5th-6th c.BC: Aristophanes Comicus “Equites” 44, 368 ">Refs 5th c.BC+</a>].—Cf. <span class='asgreek'>φαρμάσσω</span>. [<span class='asgreek'>μ</span>; but <span class='asgreek'>μᾱ</span> in <span class='asgreek'>φαρμακός</span>.]
 
-<small><sub>LSJ Scripture Refs: [[Rev.9.21]]
+<small><sub>LSJ Scripture Refs: [[Rev.9.21|Rev.9.21]]
 </sub></small>

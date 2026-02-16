@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>active</i>, <b>not having seen, without experience of,</b> <span class='asgreek'>παντὸς</span> <span class='asgreek'>κακοῦ</span>, <span class='asgreek'>δεινοῦ</span>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 2.21.2, 3.108.6: \_absolutely\_, 2nd c.AD: Lucianus Sophista “Halc.” 3.">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.11.27]]
+<small><sub>LSJ Scripture Refs: [[Heb.11.27|Heb.11.27]]
 </sub></small>

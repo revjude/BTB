@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <i>plural</i>, = Latin [<a href="javascript:void(0)" title=" “Fetiales”, [prev. author] 2.279b. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.5.9]]
+<small><sub>LSJ Scripture Refs: [[Matt.5.9|Matt.5.9]]
 </sub></small>

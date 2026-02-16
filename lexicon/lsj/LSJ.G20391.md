@@ -5,3 +5,6 @@
  <b>to be delighted,</b> [<a href="javascript:void(0)" title=" Corp.Herm. 1.30. ">Refs</a>]
 
 $\quad$ $\quad$<b>\_\_II</b> <b>show rejoicing,</b> [<a href="javascript:void(0)" title=" LXX.Ezek.23.41 (variant). ">LXX</a>]
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.23.41|LXX.Ezek.23.41]]
+</sub></small>

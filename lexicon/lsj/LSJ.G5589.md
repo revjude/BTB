@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> of stomachic residue after emesis, [<a href="javascript:void(0)" title=" 2nd c.AD: Archigenes Medicus cited in 4th c.AD: Oribasius Medicus 8.23.5. ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.15.27]]
+<small><sub>LSJ Scripture Refs: [[Matt.15.27|Matt.15.27]]
 </sub></small>

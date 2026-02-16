@@ -15,5 +15,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> <b>take back,</b> [<a href="javascript:vo
 $\quad$ $\quad$ $\quad$<b>\_\_II.7</b> <b>experience, suffer,</b> <span class='asgreek'>πάθος</span>, <span class='asgreek'>ταραχάς</span>, [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Ir.” p.82 W., “D.” 1.13; σῆψιν 6th c.AD: Aëtius Medicus 13.3. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>wait for,</b> [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 1.52.8.">Refs 2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.28.7]]
+<small><sub>LSJ Scripture Refs: [[Acts.28.7|Acts.28.7]]
 </sub></small>

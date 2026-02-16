@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> with <i>genitive</i>, <span class='asgreek'>τὸ</span> <span class='asgreek'>δαιμόνιον</span> <span class='asgreek'>παίδων</span> <span class='asgreek'>ἐξισχῦον</span> fate <b>prevailing over</b> the children, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “Varia Historia” 6.13, compare 7th c.AD: Stephanus Medicus “in Hp.” 1.71D. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>middle</i>, of flames, <b>gather force,</b> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “de Igne” 71. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Eph.3.18]]
+<small><sub>LSJ Scripture Refs: [[Eph.3.18|Eph.3.18]]
 </sub></small>

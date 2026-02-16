@@ -20,5 +20,5 @@ $\quad$ $\quad$<b>\_\_V</b> <b>take words in another sense</b>, <span class='asg
 $\quad$ $\quad$ $\quad$<b>\_\_V.2</b> <b>translate, interpret</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.480 (\_passive\_). ">Refs 1st c.AD+</a>]
 $\quad$ $\quad$<b>\_\_VI</b> in the Logic of [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus, τὸ μεταλαμβανόμενον">Refs 4th c.BC+</a>] <b>proposition substituted</b> for the original thesis in hypothetical reasoning, [<a href="javascript:void(0)" title=" “APr.” 41a39. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.2.46]]
+<small><sub>LSJ Scripture Refs: [[Acts.2.46|Acts.2.46]]
 </sub></small>

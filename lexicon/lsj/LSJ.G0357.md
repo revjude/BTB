@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>calculate, consider,</b> [<a href="javasc
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> followed by a Conjunction, <span class='asgreek'>ἀ</span>. <span class='asgreek'>ὡς</span>.. <b>calculate</b> or <b>reflect</b> that, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 8.83, 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 2.4.23, etc.">Refs 5th c.BC+</a>]; <b>take into account,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Herc.” 1251.5. ">Refs 1st c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>recapitulate,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Hyperides Orator “adv. Philippum” 4.">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.12.3]]
+<small><sub>LSJ Scripture Refs: [[Heb.12.3|Heb.12.3]]
 </sub></small>

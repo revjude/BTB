@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>abuse</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 8.11.8, compare “POxy.” 410.77, NT.Col.3.8, 1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.” 1.176S., etc.">NT+2nd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Col.3.8]]
+<small><sub>LSJ Scripture Refs: [[Col.3.8|Col.3.8]]
 </sub></small>

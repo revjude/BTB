@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> <b>brace</b> a ship, so as to make her seaworthy [<a href="javascript:void(0)" title="compare (ὑπόζωμα 11), “IG” [same place], 2nd c.BC: Polybius Historicus [same place], NT.Acts.27.17; ὑπέζωται “IG” 22.1621.68. ">NT+2nd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <span class='asgreek'>ὑπεζῶσθαι</span>· <span class='asgreek'>τὸ</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>ἄνδρας</span> <span class='asgreek'>ἐλθεῖν</span>, <span class='asgreek'>Φιλητᾶς</span>, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>] (probably = <b>come to man's estate</b>).
 
-<small><sub>LSJ Scripture Refs: [[Acts.27.17]]
+<small><sub>LSJ Scripture Refs: [[Acts.27.17|Acts.27.17]]
 </sub></small>

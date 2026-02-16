@@ -17,5 +17,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_II.5</b> <b>occupation, concern,</b> <span class='
 $\quad$ $\quad$ $\quad$<b>\_\_II.6</b> <b>return, way back,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 631a26, compare “Pr.” 940b23. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.7</b> <b>recourse,</b> <span class='asgreek'>ἀ</span>. <span class='asgreek'>λαμβάνειν</span> <span class='asgreek'>πρός</span> <span class='asgreek'>τι</span>[<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.112c.">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Gal.1.13]] ☩ [[Eph.4.22]]
+<small><sub>LSJ Scripture Refs: [[Gal.1.13|Gal.1.13]] ☩ [[Eph.4.22|Eph.4.22]]
 </sub></small>

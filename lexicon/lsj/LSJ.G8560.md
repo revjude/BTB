@@ -22,5 +22,5 @@ $\quad$ $\quad$<b>\_\_V</b> <i>neuter</i> <span class='asgreek'>ὅ</span> <span
 $\quad$ $\quad$<b>\_\_VI</b> <span class='asgreek'>ἐξ</span> <span class='asgreek'>ὅτου</span> <b>from which time</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Oedipus Coloneus” 345, “Tr.” 326, 5th-6th c.BC: Aristophanes Comicus “Nubes” 528, 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 8.2.16, etc.; ἐξ ὅτου περ 5th-6th c.BC: Aristophanes Comicus “Acharnenses” 596 ">Refs 5th c.BC+</a>]; <span class='asgreek'>ἀπ᾽</span> <span class='asgreek'>ὅτευ</span> <b>since</b>.., [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.7, compare “SIG” 45.18 (Halic., 5th c.BC)">Refs 5th c.BC+</a>]; so <span class='asgreek'>ἕως</span> <span class='asgreek'>ὅτου</span> <b>until..,</b> [<a href="javascript:void(0)" title="NT.Luke.13.8. ">NT</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_VI.2</b> <b>from what cause</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Trachiniae” 671, 5th c.BC: Euripides Tragicus “Cyclops” 639. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.13.8]]
+<small><sub>LSJ Scripture Refs: [[Luke.13.8|Luke.13.8]]
 </sub></small>

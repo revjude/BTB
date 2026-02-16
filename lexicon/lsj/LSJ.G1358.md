@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i>, <b>undermine, ruin,</
 $\quad$ $\quad$<b>\_\_II</b> <b>worm out,</b> <span class='asgreek'>ἀπόρρητα</span> [<a href="javascript:void(0)" title=" 3rd c.BC: Bato Comicus 6; τὰ βουλευόμενα 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.87c. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b> <i>passive</i>, <b>to be shut up in a funeral vault,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 4.43. ">Refs 1st c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.24.43]]
+<small><sub>LSJ Scripture Refs: [[Matt.24.43|Matt.24.43]]
 </sub></small>

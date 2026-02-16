@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>bending</b> of the knee joint, [<a href="
 $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_2.b</b> <span class='asgreek'>==κλάσις==ιν</span> <span class='asgreek'>λαβεῖν</span> <b>to be deflected</b>, [<a href="javascript:void(0)" title=" 3rd c.AD: Plotinus Philosophus 6.9.8 ">Refs 3rd c.AD+</a>]; <span class='asgreek'>ὅταν</span> <span class='asgreek'>==κλάσις==ιν</span> <span class='asgreek'>ποιῇ</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>γωνίαν</span>, of a bandage. Erot. see at {<span class='asgreek'>σκέπαρνος</span>}; of the labyrinth of the ear, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus “de Usu Partium” 8.6. ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_II</b> <b>modulation</b> of the voice, [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.276, 2.266. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.24.35]]
+<small><sub>LSJ Scripture Refs: [[Luke.24.35|Luke.24.35]]
 </sub></small>

@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <i>metaphorically</i> in <b>NT,</b> [<a href="javascript:void(0)" title="NT.Col.1.7, NT.Rev.6.11, +others">NT</a>] (The statement of Moeris [<a href="javascript:void(0)" title=" p.273 P., ὁμόδουλος Ἀττικῶς, ==σύνδουλος==ος Ἑλληνικῶς, is incorrect: 2nd c.AD(?): Pollianus Epigrammaticus 3.82 ">Refs 2nd c.AD+</a>] distinguishes <span class='asgreek'>ς</span>. 'slave of the same master' from <span class='asgreek'>ὁμόδουλος</span> 'companion in slavery'.)
 
-<small><sub>LSJ Scripture Refs: [[Matt.18.29]] ☩ [[Col.1.7]] ☩ [[Rev.6.11]]
+<small><sub>LSJ Scripture Refs: [[Matt.18.29|Matt.18.29]] ☩ [[Col.1.7|Col.1.7]] ☩ [[Rev.6.11|Rev.6.11]]
 </sub></small>

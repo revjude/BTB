@@ -5,5 +5,5 @@
  <b>putting off</b> (like clothes), NT.Col.2.11.
 
 
-<small><sub>LSJ Scripture Refs: [[Col.2.11]]
+<small><sub>LSJ Scripture Refs: [[Col.2.11|Col.2.11]]
 </sub></small>

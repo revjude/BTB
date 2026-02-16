@@ -7,5 +7,5 @@
 $\quad$ $\quad$<b>\_\_II</b> as <i>substantive</i>, <span class='asgreek'>==ἄσβεστος==</span> (i.e. <span class='asgreek'>τίτανος</span>), <span class='asgreek'>ἡ</span>, <b>unslaked lime,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus 5.115, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Sertorius” 17, “Eum.” 16; ἄ. κονία 3rd c.BC: Lycophron Tragicus cited in 4th c.AD: Oribasius Medicus 8.25.16. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> a mineral or gem, [<a href="javascript:void(0)" title=" 1st c.AD: Plinius Rerum Naturalium Scriptor “Historia Naturalis” 37.146">Refs 1st c.AD+</a>]. <span class='asgreek'>ἀσβεστώδης</span>· <b>tofus,</b> [<a href="javascript:void(0)" title="“Corpus Glossariorum Latinorum”">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.9.43]]
+<small><sub>LSJ Scripture Refs: [[Mark.9.43|Mark.9.43]]
 </sub></small>

@@ -7,5 +7,5 @@
 $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>take off</b> a covering, <span class='asgreek'>τὴν</span> <span class='asgreek'>στέγην</span>[<a href="javascript:void(0)" title=" NT.Mark.2.4. ">NT</a>]
 $\quad$ $\quad$<b>\_\_II</b> ={<span class='asgreek'>ἀποστέγω</span>} [<a href="javascript:void(0)" title=" 1, ">Refs</a>]<b>cover closely,</b> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “de Causis Plantarum” 5.6.5, 4th c.BC: Aristoteles Philosophus “Problemata” 924a37.">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.2.4]]
+<small><sub>LSJ Scripture Refs: [[Mark.2.4|Mark.2.4]]
 </sub></small>

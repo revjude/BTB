@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> generally, <b>overthrow, subjugation</b>, [<
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>reduction, diminution</b>, opposed to <span class='asgreek'>πρόσθεσις</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Physica” 207a23 ">Refs 4th c.BC+</a>]: in Medicine texts, <b>bringing down superfluous flesh, lowering, reducing</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἐπιδημίαι” 6.3.1, compare 2nd c.AD: Galenus Medicus 17(2).368; τῶν σωμάτων 4th c.BC: Aristoteles Philosophus “de Generatione Animalium” 738a31; τῶν ὄγκων 5th-6th c.BC: Plato Philosophus “Timaeus” 58e. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> <b>eclipse</b> of sun or moon (with reference to the magical process of <b>drawing down</b> those bodies), [<a href="javascript:void(0)" title="Scholia 3rd c.BC: Apollonius Rhodius Epicus 3.533 (\_plural\_). ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.10.8]]
+<small><sub>LSJ Scripture Refs: [[2Cor.10.8|2Cor.10.8]]
 </sub></small>

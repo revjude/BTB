@@ -34,5 +34,5 @@ $\quad$ <b>\_\_C</b> <i>passive</i>, <b>to be drawn</b> or <b>wrenched</b>, <spa
 $\quad$ $\quad$ $\quad$<b>\_\_C.2</b> <b>to be drawn</b> or <b>to flow at a place</b>, of streams, [<a href="javascript:void(0)" title=" 3rd c.BC: Lycophron Tragicus 702; πρὸς ἀντολίην ἕ. αἶα 2nd c.AD: Dionysius Periegeta 1086. ">Refs 3rd c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_C.3</b> <b>to be drawn</b> or <b>contracted</b>, <span class='asgreek'>εἱλκύσθη</span> <span class='asgreek'>ἐπὶ</span> <span class='asgreek'>τὰ</span> <span class='asgreek'>δεξιὰ</span> <span class='asgreek'>τράχηλος</span> [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἐπιδημίαι” 4.14. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.16.19]]
+<small><sub>LSJ Scripture Refs: [[Acts.16.19|Acts.16.19]]
 </sub></small>

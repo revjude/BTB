@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> frequently in oaths, <span class='asgreek'>�
 $\quad$ $\quad$<b>\_\_II</b> in answers, <b>yes</b>, <span class='asgreek'>τοῦτ᾽</span> <span class='asgreek'>ἐτήτυμο</span>; Answ. <span class='asgreek'>ν</span>. [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Persae” 738 (troch.), compare 5th c.BC: Sophocles Tragicus “Electra” 845 (Lyric poetry), 5th-6th c.BC: Plato Philosophus “Theaetetus” 193a, “Grg.” 448b, etc.; doubled, 5th-6th c.BC: Aristophanes Comicus “Nubes” 1468, 3rd c.BC: Callimachus Epicus “Fragmenta” 1.56 P., NT.Matt.5.37. ">NT+5th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <span class='asgreek'>ν</span>. followed by <span class='asgreek'>ἀλλά</span>, etc., to mark a qualified assent, <b>yes</b>, but.., [<a href="javascript:void(0)" title=" 4th c.BC: Aeschines Orator 3.84 ">Refs 4th c.BC+</a>]; <span class='asgreek'>ν</span>., <span class='asgreek'>κατὰ</span> <span class='asgreek'>σχολήν</span> <span class='asgreek'>γε</span> <span class='asgreek'>ἴσως</span>· <span class='asgreek'>οὐ</span> <span class='asgreek'>μήν</span>.. [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Sophista” 226e, compare “R.” 415e. ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.5.37]]
+<small><sub>LSJ Scripture Refs: [[Matt.5.37|Matt.5.37]]
 </sub></small>

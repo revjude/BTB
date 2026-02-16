@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>creation</b>, <span class='asgreek'>κ</s
 $\quad$ $\quad$<b>\_\_II</b> <b>created thing, creature</b>, [<a href="javascript:void(0)" title=" LXX.Jdt.9.12, NT.Mark.16.15, NT.Rom.8.19, etc.: in \_plural\_, LXX.Tob.8.5. ">LXX+NT</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>authority created</b> or <b>ordained</b>, [<a href="javascript:void(0)" title=" NT.1Pet.2.13. ">NT</a>]
 
-<small><sub>LSJ Scripture Refs: [[Rom.1.20]] ☩ [[Mark.10.6]] ☩ [[Mark.16.15]] ☩ [[Rom.8.19]] ☩ [[1Pet.2.13]]
+<small><sub>LSJ Scripture Refs: [[Rom.1.20|Rom.1.20]] ☩ [[Mark.10.6|Mark.10.6]] ☩ [[Mark.16.15|Mark.16.15]] ☩ [[Rom.8.19|Rom.8.19]] ☩ [[1Pet.2.13|1Pet.2.13]]
 </sub></small>

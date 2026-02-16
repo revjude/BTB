@@ -12,5 +12,5 @@ $\quad$ $\quad$<b>\_\_II</b> <b>send back,</b> [<a href="javascript:void(0)" tit
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> <b>refer,</b> <span class='asgreek'>τὰ</span> <span class='asgreek'>εἰς</span> <span class='asgreek'>τὸ</span> <span class='asgreek'>θεἰον</span> -<span class='asgreek'>όμενα</span>[<a href="javascript:void(0)" title=" “OGI” 194, compare 1st c.BC: Diodorus Siculus Historicus 4.43">Refs 1st c.BC+</a>]; <b>ascribe,</b> <span class='asgreek'>τι</span> <span class='asgreek'>ἐπί</span> <span class='asgreek'>τι</span>[<a href="javascript:void(0)" title=" 5th-6th c.AD: Damascius Philosophus “de Principiis” 37; τίτινι “Corpus Hermeticum” 18.12. ">Refs 5th c.AD+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.3</b> <b>throw back</b> the accent, of enclitics, Hdn.Gr.2.828.
 
-<small><sub>LSJ Scripture Refs: [[Luke.23.7]]
+<small><sub>LSJ Scripture Refs: [[Luke.23.7|Luke.23.7]]
 </sub></small>

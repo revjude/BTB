@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$ $\quad$<b>\_\_B.III.b</b> applied to [<a href="javascrip
 $\quad$ $\quad$<b>\_\_B.IV</b> <b>catalogue, inventory,</b> [<a href="javascript:void(0)" title=" “Corpus Glossariorum Latinorum”, 2nd c.AD: Suetonius Grammaticus et Historicus Latinus “Grammars ” 8 (\_plural\_). ">Refs 2nd c.AD+</a>]
 $\quad$ $\quad$<b>\_\_B.V</b> <b>drop-pearl</b>, [<a href="javascript:void(0)" title=" 1st c.AD: Plinius Rerum Naturalium Scriptor “Historia Naturalis” 9.113, 1st c.AD: Juvenalis, D. Junius Poeta Latinus 6.459. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Heb.11.1]]
+<small><sub>LSJ Scripture Refs: [[Heb.11.1|Heb.11.1]]
 </sub></small>

@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> ={<span class='asgreek'>ψήφισμα</spa
 $\quad$ $\quad$<b>\_\_II</b> in LXX, <i>the Jewish congregation,.</i>[<a href="javascript:void(0)" title="LXX.Deut. 31.30, +others ">LXX</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b> in <b>NT, the Church,</b> as a body of Christians, [<a href="javascript:void(0)" title=" NT.Matt.16.18, NT.1Cor.11.22; ἡ κατ᾽ οἶκόν τινος ἐ. NT.Rom.16.5 ">NT</a>]; as a building, [<a href="javascript:void(0)" title=" “Codex Justinianus [4th-6th c.AD]” 1.1.5 “Intr.”, etc. ">Refs</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.16.18]] ☩ [[1Cor.11.22]] ☩ [[Rom.16.5]]
+<small><sub>LSJ Scripture Refs: [[Matt.16.18|Matt.16.18]] ☩ [[1Cor.11.22|1Cor.11.22]] ☩ [[Rom.16.5|Rom.16.5]]
 </sub></small>

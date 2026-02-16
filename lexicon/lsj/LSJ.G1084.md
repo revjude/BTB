@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>generable</b>, opposed to <span class='asgreek'>φθαρτός</span>, [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Metaphysica” 1027a29 (variant)">Refs 4th c.BC+</a>]; <span class='asgreek'>ὑλὴ</span> <span class='asgreek'>γ</span>. matter <b>for generation</b>, [<a href="javascript:void(0)" title="[prev. work] 1042b6. ">Refs</a>] <i>adverb</i> -<span class='asgreek'>τῶς</span> <b>by means of generation</b>, [<a href="javascript:void(0)" title=" 4th c.AD: Iamblichus Philosophus “de Mysteriis” 1.18. ">Refs 4th c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Matt.11.11]] ☩ [[Luke.7.28]]
+<small><sub>LSJ Scripture Refs: [[Matt.11.11|Matt.11.11]] ☩ [[Luke.7.28|Luke.7.28]]
 </sub></small>

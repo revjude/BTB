@@ -7,5 +7,5 @@
 
 $\quad$ <b>\_\_A</b> <span class='asgreek'>παριστᾶται</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Parmenides Poeta Philosophus 16.2 ">Refs 4th c.BC+</a>]; compare <span class='asgreek'>παραστάνω</span>.
 
-<small><sub>LSJ Scripture Refs: [[Rom.6.13]]
+<small><sub>LSJ Scripture Refs: [[Rom.6.13|Rom.6.13]]
 </sub></small>

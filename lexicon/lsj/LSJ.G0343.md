@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> <b>remove a covering,</b> <span class='asgreek'>βλεφάρων</span> <span class='asgreek'>μὴ</span> <span class='asgreek'>ἀνακαλυφθέντων</span>[<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Sensu” 444b25, cf. NT.2Cor.3.14.">NT+4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[2Cor.3.14]]
+<small><sub>LSJ Scripture Refs: [[2Cor.3.14|2Cor.3.14]]
 </sub></small>

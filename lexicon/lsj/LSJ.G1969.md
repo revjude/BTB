@@ -8,5 +8,5 @@ $\quad$ $\quad$<b>\_\_II</b>. <b>punish, chastise</b>, especially with words, <b
 $\quad$ $\quad$ $\quad$<b>\_\_II.2</b>. <span class='asgreek'>ἐ</span>. <span class='asgreek'>τινί</span> <span class='asgreek'>τι</span> <b>cast</b> a thing <b>in</b> one's <b>teeth</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 3.142, 7.136 ">Refs 5th c.BC+</a>]; <span class='asgreek'>τὴν</span>.. <span class='asgreek'>αὐθαδίαν</span>.. <span class='asgreek'>μὴ</span> '<span class='asgreek'>πίπλησσέ</span> <span class='asgreek'>μοι</span> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Prometheus Vinctus” 80; ἐ. τινὶ τοῦτο, ὅτι.. 5th-6th c.BC: Plato Philosophus “Protagoras” 319d: with \_accusative\_ \_of things\_ only, τί τόδ᾽ ἐπέπληξα; 5th c.BC: Sophocles Tragicus “Oedipus Coloneus” 1730 (Lyric poetry): \_absolutely\_, [prev. author] “Aj.” 288, 5th-6th c.BC: Xenophon Historicus “Oeconomicus” 13.12, etc. ">Refs 5th c.BC+</a>]
 $\quad$ $\quad$<b>\_\_III</b>. <i>intransitive</i>, <b>fall upon</b>, <span class='asgreek'>ἀρούραις</span> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Aratus Epicus 1095. ">Refs 4th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Tim.5.1]]
+<small><sub>LSJ Scripture Refs: [[1Tim.5.1|1Tim.5.1]]
 </sub></small>

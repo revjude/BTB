@@ -6,5 +6,5 @@
 
 $\quad$ $\quad$<b>\_\_II</b> epithet of Hades, [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Trachiniae” 501 (Lyric poetry). ">Refs 5th c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Mark.1.35]]
+<small><sub>LSJ Scripture Refs: [[Mark.1.35|Mark.1.35]]
 </sub></small>

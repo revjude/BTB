@@ -5,3 +5,6 @@
 
  <b>great of flesh</b>, [<a href="javascript:void(0)" title=" LXX.Ezek.16.26. ">LXX</a>]
 
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.16.26|LXX.Ezek.16.26]]
+</sub></small>

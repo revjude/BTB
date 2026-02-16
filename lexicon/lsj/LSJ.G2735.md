@@ -8,5 +8,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_2</b> <b>that which is done rightly, virtuous acti
 $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>perfection</b>, <span class='asgreek'>τέλος</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>πέρας</span> <span class='asgreek'>καὶ</span> <span class='asgreek'>κ</span>. [<a href="javascript:void(0)" title=" 5th c.AD: Hermias Alexandrinus Philosophus “in Platonis Phaedrum scholia” p.173 4th-5th c.BC: Aeschylus Tragicus, compare 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 9.16. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_4</b> Grammars, <b>correct use</b>, opposed to <span class='asgreek'>βαρβαρισμός</span>, [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.124. ">Refs 1st c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Acts.24.2]]
+<small><sub>LSJ Scripture Refs: [[Acts.24.2|Acts.24.2]]
 </sub></small>

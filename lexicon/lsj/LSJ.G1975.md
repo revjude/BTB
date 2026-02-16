@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b>. Astron., <b>reach</b>, <span class='asgreek
 $\quad$ $\quad$ $\quad$<b>\_\_4</b>. <span class='asgreek'>ἐ</span>. <span class='asgreek'>τὸν</span> <span class='asgreek'>ἱστόν</span>, ={<span class='asgreek'>ἐποίχομαι</span>} (which see), [<a href="javascript:void(0)" title=" 4th c.BC: Ephorus Historicus 5J. ">Refs 4th c.BC+</a>]
 $\quad$ $\quad$ $\quad$<b>\_\_5</b>. <b>take legal proceedings against</b> a person, [<a href="javascript:void(0)" title=" “PHib.” 1.96.10 (3rd c.BC), etc. ">Refs 3rd c.BC+</a>]
 
-<small><sub>LSJ Scripture Refs: [[Luke.8.4]]
+<small><sub>LSJ Scripture Refs: [[Luke.8.4|Luke.8.4]]
 </sub></small>

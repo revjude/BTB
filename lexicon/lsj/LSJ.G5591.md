@@ -9,5 +9,5 @@ $\quad$ $\quad$ $\quad$<b>\_\_3</b> <b>brave,</b> [<a href="javascript:void(0)" 
 $\quad$ $\quad$<b>\_\_II</b> <b>for the soul</b> or <b>spirit</b> of one deceased, <span class='asgreek'>ψ</span>. <span class='asgreek'>δῶρα</span> <span class='asgreek'>διδούς</span>, i.e. to Hermes, [<a href="javascript:void(0)" title=" “epigram Gr.” 815.4 (from Crete). ">Refs</a>]
 $\quad$ $\quad$<b>\_\_III</b> <b>cooling,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Vettius Valens Astrologus 6.27 (assuming variant). ">Refs 2nd c.AD+</a>]
 
-<small><sub>LSJ Scripture Refs: [[1Cor.2.14]]
+<small><sub>LSJ Scripture Refs: [[1Cor.2.14|1Cor.2.14]]
 </sub></small>

@@ -5,3 +5,6 @@
 
  <b>hard, bold of face</b>, [<a href="javascript:void(0)" title=" LXX.Ezek.2.4 codex A (also Thd.[prev. passage]). ">LXX</a>]
 
+
+<small><sub>LSJ Scripture Refs: [[LXX.Ezek.2.4|LXX.Ezek.2.4]]
+</sub></small>
