@@ -20,7 +20,7 @@ Then the earth shook and quaked; the foundations of the heavens trembled; they w
 | to \<the> him  |**<big>&#8207;[[H9005\|לֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.7|<< 2 Samuel 22:7]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.9|2 Samuel 22:9 >>]]</td></tr></table>
 
-[^1]: ==K==: and it shook  | **<big>[[H1607|תִּגְעַשׁ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> t.ga.'ash<small><sup>[[HVqw3fs]]</sup></small> 
-[^2]: ==K==: and it shook  | **<big>[[H1607|תִּגְעַשׁ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> t.ga.'ash<small><sup>[[HVqw3fs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וִַתְגָּעַ֤שׁ</big></span>**
+[^1]: and it shook  | **<big>[[H1607|תִּגְעַשׁ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> t.ga.'ash<small><sup>[[HVqw3fs]]</sup></small> | K
+[^2]: and it shook  | **<big>[[H1607|תִּגְעַשׁ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> t.ga.'ash<small><sup>[[HVqw3fs]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וִַתְגָּעַ֤שׁ</big></span>**
 

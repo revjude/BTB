@@ -17,7 +17,7 @@ Israel again set out and pitched his tent beyond the Tower of Eder.
 | Eder  |**<big>&#8207;[[H4029\|עֵֽדֶר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'E.der<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.20|<< Genesis 35:20]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.22|Genesis 35:22 >>]]</td></tr></table>
 
-[^1]: ==K==: tent his  | **<big>[[H9023|ה]]</big><big>[[H0168G|אָהֳלֹ]]</big> ** | 'o.ho.Lo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: tent his  | **<big>[[H9023|ה]]</big><big>[[H0168G|אָהֳלֹ]]</big> ** | 'o.ho.Lo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>אָֽהֳלֹ֔ה</big></span>**
+[^1]: tent his  | **<big>[[H9023|ה]]</big><big>[[H0168G|אָהֳלֹ]]</big> ** | 'o.ho.Lo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: tent his  | **<big>[[H9023|ה]]</big><big>[[H0168G|אָהֳלֹ]]</big> ** | 'o.ho.Lo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>אָֽהֳלֹ֔ה</big></span>**
 

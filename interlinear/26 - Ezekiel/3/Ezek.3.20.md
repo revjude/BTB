@@ -33,7 +33,7 @@ Now if a righteous man turns from his righteousness and commits iniquity, and I 
 | I will require  |**<big>&#8207;[[H1245\|אֲבַקֵּֽשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.va.Kesh<small><sup>[[HVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.19|<< Ezekiel 3:19]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.21|Ezekiel 3:21 >>]]</td></tr></table>
 
-[^1]: ==K==: righteousness his  | **<big>[[H9023|וֹ]]</big><big>[[H6666|צִדְקָת]]</big> ** | tzid.ko.Ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: righteousness his  | **<big>[[H9023|וֹ]]</big><big>[[H6666|צִדְקָת]]</big> ** | tzid.ko.Ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>צִדְקֹתָו֙</big></span>**
+[^1]: righteousness his  | **<big>[[H9023|וֹ]]</big><big>[[H6666|צִדְקָת]]</big> ** | tzid.ko.Ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: righteousness his  | **<big>[[H9023|וֹ]]</big><big>[[H6666|צִדְקָת]]</big> ** | tzid.ko.Ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>צִדְקֹתָו֙</big></span>**
 

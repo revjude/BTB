@@ -19,6 +19,6 @@ You took your embroidered garments to cover them, and you set My oil and incense
 | \<to> before them  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.17|<< Ezekiel 16:17]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.19|Ezekiel 16:19 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>נָתַ֖תְּי</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>נָתַתִּי</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>נָתַ֖תְּי</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>נָתַתִּי</big></span>**
 

@@ -26,7 +26,7 @@ But when the Moabites came to the camp of Israel, the Israelites rose up and att
 | Moab  |**<big>&#8207;[[H4124G\|מוֹאָֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.23|<< 2 Kings 3:23]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.25|2 Kings 3:25 >>]]</td></tr></table>
 
-[^1]: ==K==: and they went  | **<big>[[H0935G|יָּבוֹ]]</big><big>[[H9001|וַ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> ya.bo<small><sup>[[HVqw3mp]]</sup></small> 
-[^2]: ==K==: and they went  | **<big>[[H0935G|יָּבוֹ]]</big><big>[[H9001|וַ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> ya.bo<small><sup>[[HVqw3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וַיַּבּוּ\־</big></span>**
+[^1]: and they went  | **<big>[[H0935G|יָּבוֹ]]</big><big>[[H9001|וַ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> ya.bo<small><sup>[[HVqw3mp]]</sup></small> | K
+[^2]: and they went  | **<big>[[H0935G|יָּבוֹ]]</big><big>[[H9001|וַ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> ya.bo<small><sup>[[HVqw3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וַיַּבּוּ\־</big></span>**
 

@@ -26,6 +26,6 @@ Then the king crossed over to Gilgal, and Chimham crossed over with him. All the
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.39|<< 2 Samuel 19:39]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.41|2 Samuel 19:41 >>]]</td></tr></table>
 
-[^1]: ==K==: and they brought over  | **<big>[[H5674C|יַּעֲבִרוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> y.'e.vi.ru<small><sup>[[HVhw3mp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>וֶיעֱבִ֣רוּ</big></span>**
+[^1]: and they brought over  | **<big>[[H5674C|יַּעֲבִרוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> y.'e.vi.ru<small><sup>[[HVhw3mp]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>וֶיעֱבִ֣רוּ</big></span>**
 

@@ -22,6 +22,6 @@ So she left him, and after she had shut the door behind her and her sons, they k
 | [was] pouring out  |**<big>&#8207;[[H3332G\|מוֹצָֽקֶת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^1] [^2] | mei.tza.ket<small><sup>[[HVhrfsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.4|<< 2 Kings 4:4]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.6|2 Kings 4:6 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>מֹיצָֽקֶת\׃</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>מֵיצָקֶת\׃</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>מֹיצָֽקֶת\׃</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>מֵיצָקֶת\׃</big></span>**
 

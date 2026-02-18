@@ -28,6 +28,6 @@ then as surely as I live, declares the Lord GOD, even if Noah, Daniel, and Job w
 | own life their  |**<big>&#8207;[[H5315H\|נַפְשָֽׁ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| naf.Sha<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.19|<< Ezekiel 14:19]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.21|Ezekiel 14:21 >>]]</td></tr></table>
 
-[^1]: ==K==: Daniel  | **<big>[[H1840G|דָּנִאֵל]]</big> ** | da.ni.'el<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>דָּנִאֵ֣ל</big></span>**
+[^1]: Daniel  | **<big>[[H1840G|דָּנִאֵל]]</big> ** | da.ni.'el<small><sup>[[HNpm]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>דָּנִאֵ֣ל</big></span>**
 

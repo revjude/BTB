@@ -19,6 +19,6 @@ For the Avenger of bloodshed remembers; He does not ignore the cry of the afflic
 | humble [people]  [^1]|**<big>&#8207;[[H6035\|עֲנָוִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^2] | a.ni.yim<small><sup>[[HAampa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.11|<< Psalms 9:11]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.13|Psalms 9:13 >>]]</td></tr></table>
 
-[^1]: ==K==: afflicted [people]  | **<big>[[H9016|׃]]</big><big>[[H6041|עֲנִיִּים]]</big> ** | a.ni.yim<small><sup>[[HAampa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>עֲנָיִֽים\׃</big></span>**
+[^1]: afflicted [people]  | **<big>[[H9016|׃]]</big><big>[[H6041|עֲנִיִּים]]</big> ** | a.ni.yim<small><sup>[[HAampa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>עֲנָיִֽים\׃</big></span>**
 

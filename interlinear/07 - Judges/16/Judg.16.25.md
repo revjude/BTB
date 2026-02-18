@@ -29,12 +29,12 @@ And while their hearts were merry, they said, “Call for Samson to entertain us
 | the pillars  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5982G\|עַמּוּדִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.mu.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.24|<< Judges 16:24]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.26|Judges 16:26 >>]]</td></tr></table>
 
-[^1]: ==K==: for  | **<big>[[H3588A|כִּי]]</big> ** | ki<small><sup>[[HR]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>כְּי</big></span>**
-[^3]: ==K==: it was good  | **<big>[[H2895|טוֹב]]</big> ** | tov<small><sup>[[HVhi3ms]]</sup></small> 
-[^4]: ==K==: it was good  | **<big>[[H2895|טוֹב]]</big> ** | tov<small><sup>[[HVhi3ms]]</sup></small> 
-[^5]: ==L== spelled: **<span class="ashebrew"><big>ט֣וֹב</big></span>**
-[^6]: ==K==: the prisoners  | **<big>[[H0615|אֲסיּרִ֗ים]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'a.si.rim<small><sup>[[HNcmpa]]</sup></small> 
-[^7]: ==K==: the prisoners  | **<big>[[H0615|אֲסיּרִ֗ים]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'a.si.rim<small><sup>[[HNcmpa]]</sup></small> 
-[^8]: ==L== spelled: **<span class="ashebrew"><big>הָאֲסיּרִ֗ים</big></span>**
+[^1]: for  | **<big>[[H3588A|כִּי]]</big> ** | ki<small><sup>[[HR]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>כְּי</big></span>**
+[^3]: it was good  | **<big>[[H2895|טוֹב]]</big> ** | tov<small><sup>[[HVhi3ms]]</sup></small> | K
+[^4]: it was good  | **<big>[[H2895|טוֹב]]</big> ** | tov<small><sup>[[HVhi3ms]]</sup></small> | K
+[^5]: L spelled: **<span class="ashebrew"><big>ט֣וֹב</big></span>**
+[^6]: the prisoners  | **<big>[[H0615|אֲסיּרִ֗ים]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'a.si.rim<small><sup>[[HNcmpa]]</sup></small> | K
+[^7]: the prisoners  | **<big>[[H0615|אֲסיּרִ֗ים]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'a.si.rim<small><sup>[[HNcmpa]]</sup></small> | K
+[^8]: L spelled: **<span class="ashebrew"><big>הָאֲסיּרִ֗ים</big></span>**
 

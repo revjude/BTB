@@ -29,7 +29,7 @@ Now Abishai, the brother of Joab and son of Zeruiah, was chief of the Three, and
 | among the three  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H7969\|שְּׁלֹשָֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> she.lo.Shah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.17|<< 2 Samuel 23:17]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.19|2 Samuel 23:19 >>]]</td></tr></table>
 
-[^1]: ==K==: the third  | **<big>[[H7992|שְּׁלֹשִׁי]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> she.lo.shi<small><sup>[[HAobsa]]</sup></small> 
-[^2]: ==K==: the third  | **<big>[[H7992|שְּׁלֹשִׁי]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> she.lo.shi<small><sup>[[HAobsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הַשְּׁלֹשָׁ֔י</big></span>**
+[^1]: the third  | **<big>[[H7992|שְּׁלֹשִׁי]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> she.lo.shi<small><sup>[[HAobsa]]</sup></small> | K
+[^2]: the third  | **<big>[[H7992|שְּׁלֹשִׁי]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> she.lo.shi<small><sup>[[HAobsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הַשְּׁלֹשָׁ֔י</big></span>**
 

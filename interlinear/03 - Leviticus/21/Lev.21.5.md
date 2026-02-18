@@ -22,6 +22,6 @@ Priests must not make bald spots on their heads, shave off the edges of their be
 | cut[s]  |**<big>&#8207;[[H8296B\|שָׂרָֽטֶת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sa.Ra.tet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.21.4|<< Leviticus 21:4]]</td><td align="center" style="border:none;">[[Lev.21|Leviticus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.21.6|Leviticus 21:6 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>יִקְרְחֻ֤ה</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>יִקְרְחָה</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>יִקְרְחֻ֤ה</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>יִקְרְחָה</big></span>**
 

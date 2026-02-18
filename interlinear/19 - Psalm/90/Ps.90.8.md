@@ -16,6 +16,6 @@ You have set our iniquities before You, our secret sins in the light of Your pre
 | face your  |**<big>&#8207;[[H6440G\|פָּנֶֽי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| pa.Nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.90.7|<< Psalms 90:7]]</td><td align="center" style="border:none;">[[Ps.90|Psalms 90]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.90.9|Psalms 90:9 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>שַׁתָּ֣</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>שַׁתָּ</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>שַׁתָּ֣</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>שַׁתָּ</big></span>**
 

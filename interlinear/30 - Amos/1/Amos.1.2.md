@@ -23,5 +23,5 @@ He said: “The LORD roars from Zion and raises His voice from Jerusalem; the pa
 | \<the> Carmel  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3760G\|כַּרְמֶֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> kar.Mel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.1.1|<< Amos 1:1]]</td><td align="center" style="border:none;">[[Amos.1|Amos 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.1.3|Amos 1:3 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>מִצִּיּ֣וֹן</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>מִצִּיּ֣וֹן</big></span>**
 

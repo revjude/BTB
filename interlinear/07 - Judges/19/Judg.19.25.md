@@ -32,7 +32,7 @@ But the men would not listen to him. So the Levite took his concubine and sent h
 | the dawn  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7837\|שָּֽׁחַר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Sha.char<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.24|<< Judges 19:24]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.26|Judges 19:26 >>]]</td></tr></table>
 
-[^1]: ==K==: when came up  | **<big>[[H5927L|עֲלוֹת]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HR]]</sup></small> 'a.lot<small><sup>[[HVqcc]]</sup></small> 
-[^2]: ==K==: when came up  | **<big>[[H5927L|עֲלוֹת]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HR]]</sup></small> 'a.lot<small><sup>[[HVqcc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בַּעֲל֥וֹת</big></span>**
+[^1]: when came up  | **<big>[[H5927L|עֲלוֹת]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HR]]</sup></small> 'a.lot<small><sup>[[HVqcc]]</sup></small> | K
+[^2]: when came up  | **<big>[[H5927L|עֲלוֹת]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HR]]</sup></small> 'a.lot<small><sup>[[HVqcc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בַּעֲל֥וֹת</big></span>**
 

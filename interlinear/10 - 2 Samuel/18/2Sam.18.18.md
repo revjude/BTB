@@ -39,8 +39,8 @@ During his lifetime, Absalom had set up for himself a pillar in the King’s Val
 | \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.17|<< 2 Samuel 18:17]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.19|2 Samuel 18:19 >>]]</td></tr></table>
 
-[^1]: ==K==: in life his  | **<big>[[H9023|ו]]</big><big>[[H2416E|חַיָּ]]</big><big>[[H9003|בְ]]</big> ** | ve.<small><sup>[[HR]]</sup></small> cha.ya<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: in life his  | **<big>[[H9023|ו]]</big><big>[[H2416E|חַיָּ]]</big><big>[[H9003|בְ]]</big> ** | ve.<small><sup>[[HR]]</sup></small> cha.ya<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: in life his  | **<big>[[H9023|ו]]</big><big>[[H2416E|חַיָּ]]</big><big>[[H9003|בְ]]</big> ** | ve.<small><sup>[[HR]]</sup></small> cha.ya<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>בְחַיָּ/ו֙</big></span>**
+[^1]: in life his  | **<big>[[H9023|ו]]</big><big>[[H2416E|חַיָּ]]</big><big>[[H9003|בְ]]</big> ** | ve.<small><sup>[[HR]]</sup></small> cha.ya<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: in life his  | **<big>[[H9023|ו]]</big><big>[[H2416E|חַיָּ]]</big><big>[[H9003|בְ]]</big> ** | ve.<small><sup>[[HR]]</sup></small> cha.ya<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: in life his  | **<big>[[H9023|ו]]</big><big>[[H2416E|חַיָּ]]</big><big>[[H9003|בְ]]</big> ** | ve.<small><sup>[[HR]]</sup></small> cha.ya<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>בְחַיָּ/ו֙</big></span>**
 

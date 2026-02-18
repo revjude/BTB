@@ -28,7 +28,7 @@ Solomon had twelve governors over all Israel to provide food for the king and hi
 | to supply  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3557\|כַלְכֵּֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> khal.Kel<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.6|<< 1 Kings 4:6]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.8|1 Kings 4:8 >>]]</td></tr></table>
 
-[^1]: ==K==: one  | **<big>[[H0259|אֶחָד]]</big> ** | 'e.chad<small><sup>[[HNcfsa]]</sup></small> 
-[^2]: ==K==: one  | **<big>[[H0259|אֶחָד]]</big> ** | 'e.chad<small><sup>[[HNcfsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>ָאֶחָ֖ד</big></span>**
+[^1]: one  | **<big>[[H0259|אֶחָד]]</big> ** | 'e.chad<small><sup>[[HNcfsa]]</sup></small> | K
+[^2]: one  | **<big>[[H0259|אֶחָד]]</big> ** | 'e.chad<small><sup>[[HNcfsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>ָאֶחָ֖ד</big></span>**
 

@@ -23,7 +23,7 @@ But which of them has stood in the council of the LORD to see and hear His word?
 | and has he listened?  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085G\|יִּשְׁמָֽע]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Ma'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.17|<< Jeremiah 23:17]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.19|Jeremiah 23:19 >>]]</td></tr></table>
 
-[^1]: ==K==: word my  | **<big>[[H9020|י]]</big><big>[[H1697G|דְּבָרִ]]</big> ** | de.va.r<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> 
-[^2]: ==K==: word my  | **<big>[[H9020|י]]</big><big>[[H1697G|דְּבָרִ]]</big> ** | de.va.r<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>דְּבָרֹ֖י</big></span>**
+[^1]: word my  | **<big>[[H9020|י]]</big><big>[[H1697G|דְּבָרִ]]</big> ** | de.va.r<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^2]: word my  | **<big>[[H9020|י]]</big><big>[[H1697G|דְּבָרִ]]</big> ** | de.va.r<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>דְּבָרֹ֖י</big></span>**
 

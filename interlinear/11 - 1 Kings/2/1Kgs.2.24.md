@@ -30,6 +30,6 @@ And now, as surely as the LORD lives—the One who established me, who set me on
 | Adonijah  |**<big>&#8207;[[H0138G\|אֲדֹנִיָּֽהוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.do.ni.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.23|<< 1 Kings 2:23]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.25|1 Kings 2:25 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וַיּֽוֹשִׁיבַ֙י/נִי֙</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וַיּוֹשִׁיבִי/נִי</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וַיּֽוֹשִׁיבַ֙י/נִי֙</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וַיּוֹשִׁיבִי/נִי</big></span>**
 

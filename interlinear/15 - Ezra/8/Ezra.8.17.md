@@ -32,10 +32,10 @@ And I sent them to Iddo, the leader at Casiphia, with a message for him and his 
 | God our  |**<big>&#8207;[[H0430G\|אֱלֹהֵֽי]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.16|<< Ezra 8:16]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.18|Ezra 8:18 >>]]</td></tr></table>
 
-[^1]: ==K==: and I sent out !  | **<big>[[H9012|ה]]</big><big>[[H3318H|אוֹצִאָ]]</big><big>[[H9001|וָ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> 'o.tzi.'a<small><sup>[[HVhw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> 
-[^2]: ==K==: and I sent out !  | **<big>[[H9012|ה]]</big><big>[[H3318H|אוֹצִאָ]]</big><big>[[H9001|וָ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> 'o.tzi.'a<small><sup>[[HVhw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וָאֲוַּצֶ֤א/ה</big></span>**
-[^4]: ==K==: those appointed  | **<big>[[H5414H|נְּתוּנִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ne.tu.nim<small><sup>[[HVqsmpa]]</sup></small> 
-[^5]: ==K==: those appointed  | **<big>[[H5414H|נְּתוּנִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ne.tu.nim<small><sup>[[HVqsmpa]]</sup></small> 
-[^6]: ==L== spelled: **<span class="ashebrew"><big>הַנְּתִונִים֙</big></span>**
+[^1]: and I sent out !  | **<big>[[H9012|ה]]</big><big>[[H3318H|אוֹצִאָ]]</big><big>[[H9001|וָ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> 'o.tzi.'a<small><sup>[[HVhw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | K
+[^2]: and I sent out !  | **<big>[[H9012|ה]]</big><big>[[H3318H|אוֹצִאָ]]</big><big>[[H9001|וָ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> 'o.tzi.'a<small><sup>[[HVhw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וָאֲוַּצֶ֤א/ה</big></span>**
+[^4]: those appointed  | **<big>[[H5414H|נְּתוּנִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ne.tu.nim<small><sup>[[HVqsmpa]]</sup></small> | K
+[^5]: those appointed  | **<big>[[H5414H|נְּתוּנִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ne.tu.nim<small><sup>[[HVqsmpa]]</sup></small> | K
+[^6]: L spelled: **<span class="ashebrew"><big>הַנְּתִונִים֙</big></span>**
 

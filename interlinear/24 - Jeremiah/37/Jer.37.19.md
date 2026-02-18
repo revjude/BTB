@@ -24,7 +24,7 @@ Where are your prophets who prophesied to you, claiming, ‘The king of Babylon 
 | \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2063\|זֹּֽאת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.37.18|<< Jeremiah 37:18]]</td><td align="center" style="border:none;">[[Jer.37|Jeremiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.37.20|Jeremiah 37:20 >>]]</td></tr></table>
 
-[^1]: ==K==: and where [is]? he  | **<big>[[H9043|וֹ]]</big><big>[[H0335|אַיּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ai.y<small><sup>[[HTi]]</sup></small> ov<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: and where [is]? he  | **<big>[[H9043|וֹ]]</big><big>[[H0335|אַיּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ai.y<small><sup>[[HTi]]</sup></small> ov<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְאַיֵּ/ו֙</big></span>**
+[^1]: and where [is]? he  | **<big>[[H9043|וֹ]]</big><big>[[H0335|אַיּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ai.y<small><sup>[[HTi]]</sup></small> ov<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: and where [is]? he  | **<big>[[H9043|וֹ]]</big><big>[[H0335|אַיּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ai.y<small><sup>[[HTi]]</sup></small> ov<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְאַיֵּ/ו֙</big></span>**
 

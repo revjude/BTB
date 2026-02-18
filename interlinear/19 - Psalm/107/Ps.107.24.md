@@ -16,5 +16,5 @@ They saw the works of the LORD, and His wonders in the deep.
 | in [the] deep  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H4688\|מְצוּלָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^1] | bi<small><sup>[[HR]]</sup></small> m.tzu.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.23|<< Psalms 107:23]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.25|Psalms 107:25 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>בִּמְצוּלָֽה\׃\ \׆</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>בִּמְצוּלָֽה\׃\ \׆</big></span>**
 

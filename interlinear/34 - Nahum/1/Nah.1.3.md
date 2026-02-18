@@ -25,7 +25,7 @@ The LORD is slow to anger and great in power; the LORD will by no means leave th
 | feet his  |**<big>&#8207;[[H7272\|רַגְלָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| rag.La<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.1.2|<< Nahum 1:2]]</td><td align="center" style="border:none;">[[Nah.1|Nahum 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.1.4|Nahum 1:4 >>]]</td></tr></table>
 
-[^1]: ==K==: and great of  | **<big>[[H1419A|גְדוֹל]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ge.dol-<small><sup>[[HAabsc]]</sup></small> 
-[^2]: ==K==: and great of  | **<big>[[H1419A|גְדוֹל]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ge.dol-<small><sup>[[HAabsc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וּגְדָול\־</big></span>**
+[^1]: and great of  | **<big>[[H1419A|גְדוֹל]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ge.dol-<small><sup>[[HAabsc]]</sup></small> | K
+[^2]: and great of  | **<big>[[H1419A|גְדוֹל]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ge.dol-<small><sup>[[HAabsc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וּגְדָול\־</big></span>**
 

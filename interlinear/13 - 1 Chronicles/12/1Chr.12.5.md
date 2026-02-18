@@ -16,7 +16,7 @@ Eluzai, Jerimoth, Bealiah, Shemariah, and Shephatiah the Haruphite;
 | the Haruphite  [^2]|**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2741\|חֲרוּפִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | ha.<small><sup>[[HTd]]</sup></small> cha.ri.fi<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.4|<< 1 Chronicles 12:4]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.6|1 Chronicles 12:6 >>]]</td></tr></table>
 
-[^1]: ==K==: the Hariphite  | **<big>[[H9016|׃]]</big><big>[[H2741|חֲרִיפִי]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> cha.ri.fi<small><sup>[[HNgbsa]]</sup></small> 
-[^2]: ==K==: the Hariphite  | **<big>[[H9016|׃]]</big><big>[[H2741|חֲרִיפִי]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> cha.ri.fi<small><sup>[[HNgbsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הַחֲריּפִֽי\׃</big></span>**
+[^1]: the Hariphite  | **<big>[[H9016|׃]]</big><big>[[H2741|חֲרִיפִי]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> cha.ri.fi<small><sup>[[HNgbsa]]</sup></small> | K
+[^2]: the Hariphite  | **<big>[[H9016|׃]]</big><big>[[H2741|חֲרִיפִי]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> cha.ri.fi<small><sup>[[HNgbsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הַחֲריּפִֽי\׃</big></span>**
 

@@ -16,10 +16,10 @@ but showing loving devotion to a thousand generations of those who love Me and k
 | commandments my  [^5]|**<big>&#8207;[[H4687\|מִצְוֹתָֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**[^6] | mitz.vo.<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.9|<< Deuteronomy 5:9]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.11|Deuteronomy 5:11 >>]]</td></tr></table>
 
-[^1]: ==P== spelled: **<span class="ashebrew"><big>וְעֹ֤שֶׂה</big></span>**
-[^2]: ==P== spelled: **<span class="ashebrew"><big>חֶ֙סֶד֙</big></span>**
-[^3]: ==B== spelled: **<span class="ashebrew"><big>לַֽאֲלָפִ֔ים</big></span>**
-[^4]: ==K==: commandment his  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H4687|מִצְוֹת]]</big> ** | mitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^5]: ==K==: commandment his  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H4687|מִצְוֹת]]</big> ** | mitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^6]: ==L== spelled: **<span class="ashebrew"><big>מִצְוֹתָֽו\׃\ \ס</big></span>**
+[^1]: P spelled: **<span class="ashebrew"><big>וְעֹ֤שֶׂה</big></span>**
+[^2]: P spelled: **<span class="ashebrew"><big>חֶ֙סֶד֙</big></span>**
+[^3]: B spelled: **<span class="ashebrew"><big>לַֽאֲלָפִ֔ים</big></span>**
+[^4]: commandment his  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H4687|מִצְוֹת]]</big> ** | mitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^5]: commandment his  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H4687|מִצְוֹת]]</big> ** | mitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^6]: L spelled: **<span class="ashebrew"><big>מִצְוֹתָֽו\׃\ \ס</big></span>**
 

@@ -18,6 +18,6 @@
 | [are] days? his  |**<big>&#8207;[[H3117G\|יָמָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.Ma<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.30|<< Job 6:30]]</td><td align="center" style="border:none;">[[Job.7|Job 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.7.2|Job 7:2 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>עֲלֵ\־</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>עַל</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>עֲלֵ\־</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>עַל</big></span>**
 

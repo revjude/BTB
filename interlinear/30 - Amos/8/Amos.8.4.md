@@ -17,6 +17,6 @@ Hear this, you who trample the needy, who do away with the poor of the land,
 | [the] land  |**<big>&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.8.3|<< Amos 8:3]]</td><td align="center" style="border:none;">[[Amos.8|Amos 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.8.5|Amos 8:5 >>]]</td></tr></table>
 
-[^1]: ==K==: [the] humble [people] of  | **<big>[[H6035|עַנְוֵי]]</big> ** | an.vei-<small><sup>[[HAampc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>עֲנִוֵּי\־</big></span>**
+[^1]: [the] humble [people] of  | **<big>[[H6035|עַנְוֵי]]</big> ** | an.vei-<small><sup>[[HAampc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>עֲנִוֵּי\־</big></span>**
 

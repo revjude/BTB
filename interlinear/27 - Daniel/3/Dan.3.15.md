@@ -50,6 +50,6 @@ Now when you hear the sound of the horn, flute, zither, lyre, harp, pipes, and a
 | hands my  |**<big>&#8207;[[H3028\|יְדָֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.Da<small><sup>[[ANcmpc]]</sup></small> i<small><sup>[[ASp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.14|<< Daniel 3:14]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.16|Daniel 3:16 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>קַיתְרֹ֣ס</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>קִיתָרֹס</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>קַיתְרֹ֣ס</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>קִיתָרֹס</big></span>**
 

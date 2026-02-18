@@ -32,7 +32,7 @@ The soul who sins is the one who will die. A son will not bear the iniquity of h
 | it will be  |**<big>&#8207;[[H1961\|תִּֽהְיֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Tih.Yeh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.19|<< Ezekiel 18:19]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.21|Ezekiel 18:21 >>]]</td></tr></table>
 
-[^1]: ==K==: a wicked [person]  | **<big>[[H7563|רָשָׁע]]</big> ** | ra.sha'<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==K==: a wicked [person]  | **<big>[[H7563|רָשָׁע]]</big> ** | ra.sha'<small><sup>[[HNcbsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>ָרָשָׁ֖ע</big></span>**
+[^1]: a wicked [person]  | **<big>[[H7563|רָשָׁע]]</big> ** | ra.sha'<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: a wicked [person]  | **<big>[[H7563|רָשָׁע]]</big> ** | ra.sha'<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>ָרָשָׁ֖ע</big></span>**
 

@@ -27,8 +27,8 @@ A copy of the text of the edict was to be issued in every province and published
 | from enemies their  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0341\|אֹיְבֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'o.ye.vei.<small><sup>[[HVqrmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.8.12|<< Esther 8:12]]</td><td align="center" style="border:none;">[[Esth.8|Esther 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.8.14|Esther 8:14 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>הַיְּהוּדִ֤יים</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>הַיְּהוּדִיִּים</big></span>**
-[^3]: ==K==: ready  | **<big>[[H6259|עֲתוּדִים]]</big> ** | a.tu.dim<small><sup>[[HAampa]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>עֲתִודִים֙</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>הַיְּהוּדִ֤יים</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>הַיְּהוּדִיִּים</big></span>**
+[^3]: ready  | **<big>[[H6259|עֲתוּדִים]]</big> ** | a.tu.dim<small><sup>[[HAampa]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>עֲתִודִים֙</big></span>**
 

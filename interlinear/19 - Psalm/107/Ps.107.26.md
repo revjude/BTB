@@ -21,5 +21,5 @@ They mounted up to the heavens, then sunk to the depths; their courage melted in
 | it melted  |**<big>&#8207;[[H4127\|תִתְמוֹגָֽג]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^1] | tit.mo.Gag<small><sup>[[HVti3fs]]</sup></small> | <abbr title="Leningrad Biblia (allepo benchayim)">LB(ah)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.25|<< Psalms 107:25]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.27|Psalms 107:27 >>]]</td></tr></table>
 
-[^1]: ==AH== spelled: **<span class="ashebrew"><big>תִתְמוֹגָֽג\׃\ \׆</big></span>**
+[^1]: AH spelled: **<span class="ashebrew"><big>תִתְמוֹגָֽג\׃\ \׆</big></span>**
 

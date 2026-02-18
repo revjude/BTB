@@ -20,7 +20,7 @@ And he brought into the house of the LORD the silver and gold and the articles t
 | and utensils  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3627\|כֵלִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khe.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.14|<< 1 Kings 15:14]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.16|1 Kings 15:16 >>]]</td></tr></table>
 
-[^1]: ==K==: and own holy thing his  | **<big>[[H9023|וֹ]]</big><big>[[H6944G|קָדְשׁ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ka.de.sho<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: and own holy thing his  | **<big>[[H9023|וֹ]]</big><big>[[H6944G|קָדְשׁ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ka.de.sho<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְקָדְשֵׁ֖/ו</big></span>**
+[^1]: and own holy thing his  | **<big>[[H9023|וֹ]]</big><big>[[H6944G|קָדְשׁ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ka.de.sho<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: and own holy thing his  | **<big>[[H9023|וֹ]]</big><big>[[H6944G|קָדְשׁ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ka.de.sho<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְקָדְשֵׁ֖/ו</big></span>**
 

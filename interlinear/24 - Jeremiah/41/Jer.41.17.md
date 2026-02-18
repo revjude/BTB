@@ -21,6 +21,6 @@ And they went and stayed in Geruth Chimham, near Bethlehem, in order to proceed 
 | Egypt  |**<big>&#8207;[[H4714G\|מִצְרָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.41.16|<< Jeremiah 41:16]]</td><td align="center" style="border:none;">[[Jer.41|Jeremiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.18|Jeremiah 41:18 >>]]</td></tr></table>
 
-[^1]: ==K==: like them  | **<big>[[H9038|הֶם]]</big><big>[[H3644G|כְּמוֹ]]</big> ** | khe.mo.<small><sup>[[HR]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>כִּמְוהָ֔ם</big></span>**
+[^1]: like them  | **<big>[[H9038|הֶם]]</big><big>[[H3644G|כְּמוֹ]]</big> ** | khe.mo.<small><sup>[[HR]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>כִּמְוהָ֔ם</big></span>**
 

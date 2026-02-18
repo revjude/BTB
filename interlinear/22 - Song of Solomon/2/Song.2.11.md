@@ -18,7 +18,7 @@ For now the winter is past; the rain is over and gone.
 | \<for> itself  |**<big>&#8207;[[H9005\|לֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.2.10|<< Song of Solomon 2:10]]</td><td align="center" style="border:none;">[[Song.2|Song of Solomon 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.2.12|Song of Solomon 2:12 >>]]</td></tr></table>
 
-[^1]: ==K==: the winter  | **<big>[[H5638|סְּתָו]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> se.tav<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==K==: the winter  | **<big>[[H5638|סְּתָו]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> se.tav<small><sup>[[HNcbsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הַסְּתָ֖ו</big></span>**
+[^1]: the winter  | **<big>[[H5638|סְּתָו]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> se.tav<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: the winter  | **<big>[[H5638|סְּתָו]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> se.tav<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הַסְּתָ֖ו</big></span>**
 

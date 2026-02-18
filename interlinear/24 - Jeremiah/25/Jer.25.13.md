@@ -31,6 +31,6 @@ I will bring upon that land all the words I have pronounced against it, all that
 | the nations  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1471A\|גּוֹיִֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.12|<< Jeremiah 25:12]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.14|Jeremiah 25:14 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וְהֵֽבֵאיתִי֙</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וְהֵבֵאיתִי</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וְהֵֽבֵאיתִי֙</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וְהֵבֵאיתִי</big></span>**
 

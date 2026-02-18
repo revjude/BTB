@@ -21,9 +21,9 @@ Moab is put to shame, for it has been shattered. Wail and cry out! Declare by th
 | Moab  |**<big>&#8207;[[H4124G\|מוֹאָֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.19|<< Jeremiah 48:19]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.21|Jeremiah 48:21 >>]]</td></tr></table>
 
-[^1]: ==K==: wail  | **<big>[[H3213|הֵילִילִי]]</big> ** | hei.li.li<small><sup>[[HVhv2fs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>הֵילִ֣יליּ\׀</big></span>**
-[^3]: ==K==: and cry out  | **<big>[[H2199|זְעָקִי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ze.'a.ki<small><sup>[[HVhv2fs]]</sup></small> 
-[^4]: ==K==: and cry out  | **<big>[[H2199|זְעָקִי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ze.'a.ki<small><sup>[[HVhv2fs]]</sup></small> 
-[^5]: ==L== spelled: **<span class="ashebrew"><big>וּֽזְעָ֑קיּ</big></span>**
+[^1]: wail  | **<big>[[H3213|הֵילִילִי]]</big> ** | hei.li.li<small><sup>[[HVhv2fs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>הֵילִ֣יליּ\׀</big></span>**
+[^3]: and cry out  | **<big>[[H2199|זְעָקִי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ze.'a.ki<small><sup>[[HVhv2fs]]</sup></small> | K
+[^4]: and cry out  | **<big>[[H2199|זְעָקִי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ze.'a.ki<small><sup>[[HVhv2fs]]</sup></small> | K
+[^5]: L spelled: **<span class="ashebrew"><big>וּֽזְעָ֑קיּ</big></span>**
 

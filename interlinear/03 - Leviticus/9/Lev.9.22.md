@@ -22,7 +22,7 @@ Aaron lifted up his hands toward the people and blessed them. And having made th
 | and the peace offerings  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8002\|שְּׁלָמִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> she.la.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.9.21|<< Leviticus 9:21]]</td><td align="center" style="border:none;">[[Lev.9|Leviticus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.9.23|Leviticus 9:23 >>]]</td></tr></table>
 
-[^1]: ==K==: hand his  | **<big>[[H9023|וֹ]]</big><big>[[H3027S|יָד]]</big> ** | ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: hand his  | **<big>[[H9023|וֹ]]</big><big>[[H3027S|יָד]]</big> ** | ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>יָדָ֛ו</big></span>**
+[^1]: hand his  | **<big>[[H9023|וֹ]]</big><big>[[H3027S|יָד]]</big> ** | ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: hand his  | **<big>[[H9023|וֹ]]</big><big>[[H3027S|יָד]]</big> ** | ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>יָדָ֛ו</big></span>**
 

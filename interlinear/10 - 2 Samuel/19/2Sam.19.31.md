@@ -21,7 +21,7 @@ Now Barzillai the Gileadite had come down from Rogelim to cross the Jordan with 
 | the Jordan  [^2]|**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3383\|יַּרְדֵּֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | ha.<small><sup>[[HTd]]</sup></small> vai.yar.den<small><sup>[[HNpl]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.30|<< 2 Samuel 19:30]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.32|2 Samuel 19:32 >>]]</td></tr></table>
 
-[^1]: ==K==: at the Jordan  | **<big>[[H9016|׃]]</big><big>[[H3383|יַּרְדֵּן]]</big><big>[[H9003|בַּ]]</big> ** | va<small><sup>[[HRd]]</sup></small> i.yar.den<small><sup>[[HNpl]]</sup></small> 
-[^2]: ==K==: at the Jordan  | **<big>[[H9016|׃]]</big><big>[[H3383|יַּרְדֵּן]]</big><big>[[H9003|בַּ]]</big> ** | va<small><sup>[[HRd]]</sup></small> i.yar.den<small><sup>[[HNpl]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בַיַּרְדֵּֽן\׃</big></span>**
+[^1]: at the Jordan  | **<big>[[H9016|׃]]</big><big>[[H3383|יַּרְדֵּן]]</big><big>[[H9003|בַּ]]</big> ** | va<small><sup>[[HRd]]</sup></small> i.yar.den<small><sup>[[HNpl]]</sup></small> | K
+[^2]: at the Jordan  | **<big>[[H9016|׃]]</big><big>[[H3383|יַּרְדֵּן]]</big><big>[[H9003|בַּ]]</big> ** | va<small><sup>[[HRd]]</sup></small> i.yar.den<small><sup>[[HNpl]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בַיַּרְדֵּֽן\׃</big></span>**
 

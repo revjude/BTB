@@ -32,5 +32,5 @@ And they sang responsively with praise and thanksgiving to the LORD: “For He i
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.3.10|<< Ezra 3:10]]</td><td align="center" style="border:none;">[[Ezra.3|Ezra 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.3.12|Ezra 3:12 >>]]</td></tr></table>
 
-[^1]: ==AH== spelled: **<span class="ashebrew"><big>תְרוּעָ֨ה</big></span>**
+[^1]: AH spelled: **<span class="ashebrew"><big>תְרוּעָ֨ה</big></span>**
 

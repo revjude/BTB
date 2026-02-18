@@ -24,7 +24,7 @@ I summon a bird of prey from the east, a man for My purpose from a far-off land.
 | I will accomplish it  |**<big>&#8207;[[H6213A\|אֶעֱשֶֽׂ]]&#8207;&#8207;[[H9034\|נָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'e.'e.Se.<small><sup>[[HVqi1cs]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.46.10|<< Isaiah 46:10]]</td><td align="center" style="border:none;">[[Isa.46|Isaiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.46.12|Isaiah 46:12 >>]]</td></tr></table>
 
-[^1]: ==K==: purpose his  | **<big>[[H9023|וֹ]]</big><big>[[H6098|עֲצָת]]</big> ** | a.tza.t<small><sup>[[HNcfsc]]</sup></small> ov<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: purpose his  | **<big>[[H9023|וֹ]]</big><big>[[H6098|עֲצָת]]</big> ** | a.tza.t<small><sup>[[HNcfsc]]</sup></small> ov<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>עֲצָתִ֑ו</big></span>**
+[^1]: purpose his  | **<big>[[H9023|וֹ]]</big><big>[[H6098|עֲצָת]]</big> ** | a.tza.t<small><sup>[[HNcfsc]]</sup></small> ov<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: purpose his  | **<big>[[H9023|וֹ]]</big><big>[[H6098|עֲצָת]]</big> ** | a.tza.t<small><sup>[[HNcfsc]]</sup></small> ov<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>עֲצָתִ֑ו</big></span>**
 

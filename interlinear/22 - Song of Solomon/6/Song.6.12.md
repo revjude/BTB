@@ -16,8 +16,8 @@ Before I realized it, my desire had set me among the royal chariots of my people
 | people of - prince  [^3]|**<big>&#8207;[[H5971A\|עַמִּי]]&#8207;&#8207;[[H9014\|־]]&#8207;&#8207;[[H5081H\|נָדִֽיב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^4] | 'a.mi<small><sup>[[HNcbsc]]</sup></small> - na.Dav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad (allepo + Variant)">L(a+V)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.6.11|<< Song of Solomon 6:11]]</td><td align="center" style="border:none;">[[Song.6|Song of Solomon 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.6.13|Song of Solomon 6:13 >>]]</td></tr></table>
 
-[^1]: ==V==: Aminadav  | **<big>[[H9016|׃]]</big><big>[[H5993|עַמִּינָדִֽיב]]</big> ** | 'a.mina.Dav<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==V==: Aminadav  | **<big>[[H9016|׃]]</big><big>[[H5993|עַמִּינָדִֽיב]]</big> ** | 'a.mina.Dav<small><sup>[[HNpm]]</sup></small> 
-[^3]: ==V==: Aminadav  | **<big>[[H9016|׃]]</big><big>[[H5993|עַמִּינָדִֽיב]]</big> ** | 'a.mina.Dav<small><sup>[[HNpm]]</sup></small> 
-[^4]: ==A== spelled: **<span class="ashebrew"><big>עַמִּי/נָדִֽיב\׃</big></span>**
+[^1]: Aminadav  | **<big>[[H9016|׃]]</big><big>[[H5993|עַמִּינָדִֽיב]]</big> ** | 'a.mina.Dav<small><sup>[[HNpm]]</sup></small> | V
+[^2]: Aminadav  | **<big>[[H9016|׃]]</big><big>[[H5993|עַמִּינָדִֽיב]]</big> ** | 'a.mina.Dav<small><sup>[[HNpm]]</sup></small> | V
+[^3]: Aminadav  | **<big>[[H9016|׃]]</big><big>[[H5993|עַמִּינָדִֽיב]]</big> ** | 'a.mina.Dav<small><sup>[[HNpm]]</sup></small> | V
+[^4]: A spelled: **<span class="ashebrew"><big>עַמִּי/נָדִֽיב\׃</big></span>**
 

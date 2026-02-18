@@ -18,6 +18,6 @@ For the choirmaster. A Psalm of David. O LORD, the king rejoices in Your strengt
 | exceedingly  |**<big>&#8207;[[H3966\|מְאֹֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.21.0|<< Psalms 21:0]]</td><td align="center" style="border:none;">[[Ps.21|Psalms 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.21.2|Psalms 21:2 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>יָּ֥גֶיל</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>יָּ֥גֶיל</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>יָּ֥גֶיל</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>יָּ֥גֶיל</big></span>**
 

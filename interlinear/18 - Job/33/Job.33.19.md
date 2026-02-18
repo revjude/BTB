@@ -17,7 +17,7 @@ A man is also chastened on his bed with pain and constant distress in his bones,
 | [is] constant  |**<big>&#8207;[[H0386\|אֵתָֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.Tan<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.18|<< Job 33:18]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.20|Job 33:20 >>]]</td></tr></table>
 
-[^1]: ==K==: and [the] strife of  | **<big>[[H7379|רִיב]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> riv<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==K==: and [the] strife of  | **<big>[[H7379|רִיב]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> riv<small><sup>[[HNcbsc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְרֹ֖יב</big></span>**
+[^1]: and [the] strife of  | **<big>[[H7379|רִיב]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> riv<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: and [the] strife of  | **<big>[[H7379|רִיב]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> riv<small><sup>[[HNcbsc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְרֹ֖יב</big></span>**
 

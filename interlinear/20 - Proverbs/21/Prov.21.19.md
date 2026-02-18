@@ -17,6 +17,6 @@ Better to live in the desert than with a contentious and ill-tempered wife.
 | and anger  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H3708A\|כָֽעַס]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Kha.'as<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.18|<< Proverbs 21:18]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.20|Proverbs 21:20 >>]]</td></tr></table>
 
-[^1]: ==K==: contentions  | **<big>[[H4066|מְדוֹנִים]]</big> ** | me.do.nim<small><sup>[[HNcmpa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>מִדְוָנִ֣ים</big></span>**
+[^1]: contentions  | **<big>[[H4066|מְדוֹנִים]]</big> ** | me.do.nim<small><sup>[[HNcmpa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>מִדְוָנִ֣ים</big></span>**
 

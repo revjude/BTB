@@ -27,5 +27,5 @@ And said, O man greatly beloved, fear not: peace [be] unto thee, be strong, yea,
 | you have strengthened me  |**<big>&#8207;[[H2388G\|חִזַּקְתָּֽ]]&#8207;&#8207;[[H9030\|נִי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| chi.zak.Ta.<small><sup>[[HVpp2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.10.18|<< Daniel 10:18]]</td><td align="center" style="border:none;">[[Dan.10|Daniel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.10.20|Daniel 10:20 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>וּֽכְ/דַבְּר֤/וֹ</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>וּֽכְ/דַבְּר֤/וֹ</big></span>**
 

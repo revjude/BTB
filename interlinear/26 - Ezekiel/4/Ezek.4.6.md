@@ -31,7 +31,7 @@ When you have completed these days, lie down again, but on your right side, and 
 | to you  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| La<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.4.5|<< Ezekiel 4:5]]</td><td align="center" style="border:none;">[[Ezek.4|Ezekiel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.4.7|Ezekiel 4:7 >>]]</td></tr></table>
 
-[^1]: ==K==: \<the> right  | **<big>[[H3227A|יְמוֹנִי]]</big><big>[[H9009|הַ]]</big> ** | ha<small><sup>[[HTd]]</sup></small> y.mo.ni<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==K==: \<the> right  | **<big>[[H3227A|יְמוֹנִי]]</big><big>[[H9009|הַ]]</big> ** | ha<small><sup>[[HTd]]</sup></small> y.mo.ni<small><sup>[[HNcbsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הַיְמָונִי֙</big></span>**
+[^1]: \<the> right  | **<big>[[H3227A|יְמוֹנִי]]</big><big>[[H9009|הַ]]</big> ** | ha<small><sup>[[HTd]]</sup></small> y.mo.ni<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: \<the> right  | **<big>[[H3227A|יְמוֹנִי]]</big><big>[[H9009|הַ]]</big> ** | ha<small><sup>[[HTd]]</sup></small> y.mo.ni<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הַיְמָונִי֙</big></span>**
 

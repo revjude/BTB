@@ -31,5 +31,5 @@ The Israelites who were present in Jerusalem celebrated the Feast of Unleavened 
 | to Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.30.20|<< 2 Chronicles 30:20]]</td><td align="center" style="border:none;">[[2Chr.30|2 Chronicles 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.30.22|2 Chronicles 30:22 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>בִּירוּשָׁלִַ֜ם</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>בִּירוּשָׁלִַ֜ם</big></span>**
 

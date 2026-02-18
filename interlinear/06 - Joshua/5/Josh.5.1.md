@@ -47,7 +47,7 @@ Now when all the Amorite kings west of the Jordan and all the Canaanite kings al
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.24|<< Joshua 4:24]]</td><td align="center" style="border:none;">[[Josh.5|Joshua 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.5.2|Joshua 5:2 >>]]</td></tr></table>
 
-[^1]: ==K==: passing over we  | **<big>[[H9045|נוּ]]</big><big>[[H5674A|עָבְרָ]]</big> ** | a.ve.ra.<small><sup>[[HVqcc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> 
-[^2]: ==K==: passing over we  | **<big>[[H9045|נוּ]]</big><big>[[H5674A|עָבְרָ]]</big> ** | a.ve.ra.<small><sup>[[HVqcc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>עָבְרָ֑נו</big></span>**
+[^1]: passing over we  | **<big>[[H9045|נוּ]]</big><big>[[H5674A|עָבְרָ]]</big> ** | a.ve.ra.<small><sup>[[HVqcc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | K
+[^2]: passing over we  | **<big>[[H9045|נוּ]]</big><big>[[H5674A|עָבְרָ]]</big> ** | a.ve.ra.<small><sup>[[HVqcc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>עָבְרָ֑נו</big></span>**
 

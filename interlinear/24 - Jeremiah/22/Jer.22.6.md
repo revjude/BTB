@@ -30,6 +30,6 @@ For this is what the LORD says concerning the house of the king of Judah: “You
 | they are inhabited  [^1]|**<big>&#8207;[[H3427\|נוֹשָֽׁבוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^2] | no.sha.vah<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.5|<< Jeremiah 22:5]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.7|Jeremiah 22:7 >>]]</td></tr></table>
 
-[^1]: ==K==: [is] inhabited  | **<big>[[H9016|׃]]</big><big>[[H3427|נוֹשָׁבָה]]</big> ** | no.sha.vah<small><sup>[[HVNp3fs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>נוֹשָֽׁבֻה\׃</big></span>**
+[^1]: [is] inhabited  | **<big>[[H9016|׃]]</big><big>[[H3427|נוֹשָׁבָה]]</big> ** | no.sha.vah<small><sup>[[HVNp3fs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>נוֹשָֽׁבֻה\׃</big></span>**
 

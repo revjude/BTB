@@ -28,7 +28,7 @@ cross south of the Ascent of Akrabbim, continue to Zin, and go south of Kadesh-b
 | Azmon towards  |**<big>&#8207;[[H6111\|עַצְמֹֽנָ]]&#8207;&#8207;[[H9011\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'atz.Mo.na<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.3|<< Numbers 34:3]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.34.5|Numbers 34:5 >>]]</td></tr></table>
 
-[^1]: ==K==: and it will be  | **<big>[[H1961|הָיָה]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> 
-[^2]: ==K==: and it will be  | **<big>[[H1961|הָיָה]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְהָיֻה֙</big></span>**
+[^1]: and it will be  | **<big>[[H1961|הָיָה]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> | K
+[^2]: and it will be  | **<big>[[H1961|הָיָה]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְהָיֻה֙</big></span>**
 

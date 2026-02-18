@@ -26,8 +26,8 @@ He said: “The LORD came from Sinai and dawned upon us from Seir; He shone fort
 | for \<the> them  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9038\|מוֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> mo<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.1|<< Deuteronomy 33:1]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.3|Deuteronomy 33:3 >>]]</td></tr></table>
 
-[^1]: ==K==: fiery law  | **<big>[[H0799|אֵשְׁדָּת]]</big> ** | 'e.she.dat<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==K==: fiery law  | **<big>[[H0799|אֵשְׁדָּת]]</big> ** | 'e.she.dat<small><sup>[[HNcbsa]]</sup></small> 
-[^3]: ==K==: fiery law  | **<big>[[H0799|אֵשְׁדָּת]]</big> ** | 'e.she.dat<small><sup>[[HNcbsa]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>אֵ֥שׁדָּ֖ת</big></span>**
+[^1]: fiery law  | **<big>[[H0799|אֵשְׁדָּת]]</big> ** | 'e.she.dat<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: fiery law  | **<big>[[H0799|אֵשְׁדָּת]]</big> ** | 'e.she.dat<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: fiery law  | **<big>[[H0799|אֵשְׁדָּת]]</big> ** | 'e.she.dat<small><sup>[[HNcbsa]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>אֵ֥שׁדָּ֖ת</big></span>**
 

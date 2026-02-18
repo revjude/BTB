@@ -19,6 +19,6 @@ It is better to be lowly in spirit among the humble than to divide the spoil wit
 | proud [people]  |**<big>&#8207;[[H1343\|גֵּאִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ge.'Im<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.18|<< Proverbs 16:18]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.20|Proverbs 16:20 >>]]</td></tr></table>
 
-[^1]: ==K==: afflicted [people]  | **<big>[[H6041|עֲנִיִּים]]</big> ** | a.ni.yim<small><sup>[[HAampa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>עֲנָיִ֑ים</big></span>**
+[^1]: afflicted [people]  | **<big>[[H6041|עֲנִיִּים]]</big> ** | a.ni.yim<small><sup>[[HAampa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>עֲנָיִ֑ים</big></span>**
 

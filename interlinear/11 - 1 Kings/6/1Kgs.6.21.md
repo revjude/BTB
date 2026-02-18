@@ -24,7 +24,7 @@ So Solomon overlaid the inside of the temple with pure gold, and he extended gol
 | gold  |**<big>&#8207;[[H2091\|זָהָֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.20|<< 1 Kings 6:20]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.22|1 Kings 6:22 >>]]</td></tr></table>
 
-[^1]: ==K==: with chains of  | **<big>[[H7572|רַתִּיקוֹת]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> ra.ti.kot<small><sup>[[HNcfpc]]</sup></small> 
-[^2]: ==K==: with chains of  | **<big>[[H7572|רַתִּיקוֹת]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> ra.ti.kot<small><sup>[[HNcfpc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בְּרַתּיּק֤וֹת</big></span>**
+[^1]: with chains of  | **<big>[[H7572|רַתִּיקוֹת]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> ra.ti.kot<small><sup>[[HNcfpc]]</sup></small> | K
+[^2]: with chains of  | **<big>[[H7572|רַתִּיקוֹת]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> ra.ti.kot<small><sup>[[HNcfpc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בְּרַתּיּק֤וֹת</big></span>**
 

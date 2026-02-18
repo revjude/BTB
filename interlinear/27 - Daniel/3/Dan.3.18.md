@@ -27,10 +27,10 @@ But even if He does not, let it be known to you, O king, that we will not serve 
 | we will pay homage  |**<big>&#8207;[[H5457\|נִסְגֻּֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| nis.Gud<small><sup>[[AVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.17|<< Daniel 3:17]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.19|Daniel 3:19 >>]]</td></tr></table>
 
-[^1]: ==K==: to gods your  | **<big>[[H9021|ךְ֙]]</big><big>[[H0426|אלָהָיִ]]</big><big>[[H9005|לֵֽ]]</big> ** | le.<small><sup>[[AR]]</sup></small> la.ha.yi<small><sup>[[HNcmpc]]</sup></small> Kh<small><sup>[[HSp2ms]]</sup></small> 
-[^2]: ==K==: to gods your  | **<big>[[H9021|ךְ֙]]</big><big>[[H0426|אלָהָיִ]]</big><big>[[H9005|לֵֽ]]</big> ** | le.<small><sup>[[AR]]</sup></small> la.ha.yi<small><sup>[[HNcmpc]]</sup></small> Kh<small><sup>[[HSp2ms]]</sup></small> 
-[^3]: ==K==: to gods your  | **<big>[[H9021|ךְ֙]]</big><big>[[H0426|אלָהָיִ]]</big><big>[[H9005|לֵֽ]]</big> ** | le.<small><sup>[[AR]]</sup></small> la.ha.yi<small><sup>[[HNcmpc]]</sup></small> Kh<small><sup>[[HSp2ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>לֵֽאלָהָי/ךְ֙</big></span>**
-[^5]: ==L== spelled: **<span class="asaramaic"><big>אִיתַ֣ינָא</big></span>**
-[^6]: ==K== spelled: **<span class="asaramaic"><big>אִיתַיְנָא</big></span>**
+[^1]: to gods your  | **<big>[[H9021|ךְ֙]]</big><big>[[H0426|אלָהָיִ]]</big><big>[[H9005|לֵֽ]]</big> ** | le.<small><sup>[[AR]]</sup></small> la.ha.yi<small><sup>[[HNcmpc]]</sup></small> Kh<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: to gods your  | **<big>[[H9021|ךְ֙]]</big><big>[[H0426|אלָהָיִ]]</big><big>[[H9005|לֵֽ]]</big> ** | le.<small><sup>[[AR]]</sup></small> la.ha.yi<small><sup>[[HNcmpc]]</sup></small> Kh<small><sup>[[HSp2ms]]</sup></small> | K
+[^3]: to gods your  | **<big>[[H9021|ךְ֙]]</big><big>[[H0426|אלָהָיִ]]</big><big>[[H9005|לֵֽ]]</big> ** | le.<small><sup>[[AR]]</sup></small> la.ha.yi<small><sup>[[HNcmpc]]</sup></small> Kh<small><sup>[[HSp2ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>לֵֽאלָהָי/ךְ֙</big></span>**
+[^5]: L spelled: **<span class="asaramaic"><big>אִיתַ֣ינָא</big></span>**
+[^6]: K spelled: **<span class="asaramaic"><big>אִיתַיְנָא</big></span>**
 

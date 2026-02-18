@@ -16,7 +16,7 @@ or you may learn his ways and entangle yourself in a snare.
 | for self your  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5315I\|נַפְשֶֽׁ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> naf.She.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.24|<< Proverbs 22:24]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.26|Proverbs 22:26 >>]]</td></tr></table>
 
-[^1]: ==K==: way his  | **<big>[[H9023|וֹ]]</big><big>[[H0734|אָרְחָת]]</big> ** | 'a.re.cha.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: way his  | **<big>[[H9023|וֹ]]</big><big>[[H0734|אָרְחָת]]</big> ** | 'a.re.cha.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>אֹֽרְחֹתָ֑ו</big></span>**
+[^1]: way his  | **<big>[[H9023|וֹ]]</big><big>[[H0734|אָרְחָת]]</big> ** | 'a.re.cha.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: way his  | **<big>[[H9023|וֹ]]</big><big>[[H0734|אָרְחָת]]</big> ** | 'a.re.cha.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>אֹֽרְחֹתָ֑ו</big></span>**
 

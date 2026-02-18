@@ -8,18 +8,18 @@ After then the two days He went forth from there and went away into <the> Galile
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| After |**<big>[[G3326\|Μετὰ]]</big>**  |Meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |**<big>[[G3588\|τὰς]]</big>**  |tas <small><sup>[[T-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| two |**<big>[[G1417\|δύο]]</big>**  |duo <small><sup>[[A-NUI]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| days |**<big>[[G2250\|ἡμέρας]]</big>**  |hēmeras <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| He went forth |**<big>[[G1831\|ἐξῆλθεν]]</big>**  |exēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| from there |**<big>[[G1564\|ἐκεῖθεν]]</big>**  |ekeithen <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| went away [^1] |**<big>[[G0565\|ἀπῆλθεν]]</big>**  |apēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| into |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| \<the> |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Galilee. |**<big>[[G1056G\|Γαλιλαίαν.]]</big>**  |Galilaian <small><sup>[[N-ASF-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| After |**<big>[[G3326\|Μετὰ]]</big>**  |Meta <small><sup>[[PREP]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|τὰς]]</big>**  |tas <small><sup>[[T-APF]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| two |**<big>[[G1417\|δύο]]</big>**  |duo <small><sup>[[A-NUI]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| days |**<big>[[G2250\|ἡμέρας]]</big>**  |hēmeras <small><sup>[[N-APF]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| He went forth |**<big>[[G1831\|ἐξῆλθεν]]</big>**  |exēlthen <small><sup>[[V-2AAI-3S]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| from there |**<big>[[G1564\|ἐκεῖθεν]]</big>**  |ekeithen <small><sup>[[ADV]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small>  | <abbr title="TR+Byz">K</abbr> | |
+| went away [^1] |**<big>[[G0565\|ἀπῆλθεν]]</big>**  |apēlthen <small><sup>[[V-2AAI-3S]]</sup></small>  | <abbr title="TR+Byz">K</abbr> | |
+| into |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Galilee. |**<big>[[G1056G\|Γαλιλαίαν.]]</big>**  |Galilaian <small><sup>[[N-ASF-L]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.42|<< John 4:42]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.44|John 4:44 >>]]</td></tr></table>
 
 [^1]: Extra Text:  **<big><span class='asgreek'>καὶ</span></big>**   **<big><span class='asgreek'>ἀπῆλθεν</span></big>**   (<i>kai apēlthen</i>) 'and went away' is only in traditional manuscripts (TR+Byz)

@@ -30,6 +30,6 @@ So David ran away and escaped. And he went to Samuel at Ramah and told him all t
 | at Naioth  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5121\|נָֽיוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^1] [^2] | be.<small><sup>[[HR]]</sup></small> noit<small><sup>[[HNpl]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.19.17|<< 1 Samuel 19:17]]</td><td align="center" style="border:none;">[[1Sam.19|1 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19.19|1 Samuel 19:19 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>בְּנָֽוֹית\׃</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>בְּנֹוִית\׃</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>בְּנָֽוֹית\׃</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>בְּנֹוִית\׃</big></span>**
 

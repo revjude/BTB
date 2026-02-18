@@ -30,8 +30,8 @@ She also said to her father, “Let me do this one thing: Let me wander for two 
 | and companions my  [^3]|**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7464\|רֵעוֹתָֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^4] | ve.<small><sup>[[HC]]</sup></small> ra.'i.t<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.36|<< Judges 11:36]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.38|Judges 11:38 >>]]</td></tr></table>
 
-[^1]: ==K==: and companions my  | **<big>[[H9016|׃]]</big><big>[[H9020|י]]</big><big>[[H7474|רֵעְיֹתָ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ra.'i.t<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> 
-[^2]: ==K==: and companions my  | **<big>[[H9016|׃]]</big><big>[[H9020|י]]</big><big>[[H7474|רֵעְיֹתָ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ra.'i.t<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> 
-[^3]: ==K==: and companions my  | **<big>[[H9016|׃]]</big><big>[[H9020|י]]</big><big>[[H7474|רֵעְיֹתָ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ra.'i.t<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וְרֵעֹיתָֽ/י\׃</big></span>**
+[^1]: and companions my  | **<big>[[H9016|׃]]</big><big>[[H9020|י]]</big><big>[[H7474|רֵעְיֹתָ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ra.'i.t<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^2]: and companions my  | **<big>[[H9016|׃]]</big><big>[[H9020|י]]</big><big>[[H7474|רֵעְיֹתָ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ra.'i.t<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^3]: and companions my  | **<big>[[H9016|׃]]</big><big>[[H9020|י]]</big><big>[[H7474|רֵעְיֹתָ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ra.'i.t<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וְרֵעֹיתָֽ/י\׃</big></span>**
 

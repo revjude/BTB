@@ -25,7 +25,7 @@ Instead of the thornbush, the cypress will grow, and instead of the brier, the m
 | it will be cut down  |**<big>&#8207;[[H3772I\|יִכָּרֵֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yi.ka.Ret<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.55.12|<< Isaiah 55:12]]</td><td align="center" style="border:none;">[[Isa.55|Isaiah 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.56.1|Isaiah 56:1 >>]]</td></tr></table>
 
-[^1]: ==K==: in place of  | **<big>[[H8478H|תַּחַת]]</big> ** | ta.chat<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==K==: in place of  | **<big>[[H8478H|תַּחַת]]</big> ** | ta.chat<small><sup>[[HNcbsc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>ְתַ֥חַת</big></span>**
+[^1]: in place of  | **<big>[[H8478H|תַּחַת]]</big> ** | ta.chat<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: in place of  | **<big>[[H8478H|תַּחַת]]</big> ** | ta.chat<small><sup>[[HNcbsc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>ְתַ֥חַת</big></span>**
 

@@ -37,5 +37,5 @@ And she said, I will surely go with thee: notwithstanding the journey that thou 
 | Kedesh towards  |**<big>&#8207;[[H6943G\|קֶֽדְשָׁ]]&#8207;&#8207;[[H9011\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ked.sha<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.8|<< Judges 4:8]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.10|Judges 4:10 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>וַתֵּ֥לֶךְ</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>וַתֵּ֥לֶךְ</big></span>**
 

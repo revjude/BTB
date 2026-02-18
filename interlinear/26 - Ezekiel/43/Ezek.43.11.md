@@ -42,13 +42,13 @@ and if they are ashamed of all they have done, then make known to them the desig
 | \<obj.> them  |**<big>&#8207;[[H0853\|אוֹתָֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.10|<< Ezekiel 43:10]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.12|Ezekiel 43:12 >>]]</td></tr></table>
 
-[^1]: ==K==: design its  | **<big>[[H9023|וֹ]]</big><big>[[H6699|צוּרָת]]</big> ** | tzu.ro.Ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: design its  | **<big>[[H9023|וֹ]]</big><big>[[H6699|צוּרָת]]</big> ** | tzu.ro.Ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>צֽוּרֹתָ֡ו</big></span>**
-[^4]: ==K==: designs my  | **<big>[[H9020|י]]</big><big>[[H6699|צוֹרָתִ]]</big> ** | tzu.ro.ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> 
-[^5]: ==K==: designs my  | **<big>[[H9020|י]]</big><big>[[H6699|צוֹרָתִ]]</big> ** | tzu.ro.ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> 
-[^6]: ==L== spelled: **<span class="ashebrew"><big>צ֨וּרֹתָ֤י</big></span>**
-[^7]: ==K==: law its  | **<big>[[H9023|וֹ]]</big><big>[[H8451|תּוֹרֹת]]</big> ** | to.ro.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^8]: ==K==: law its  | **<big>[[H9023|וֹ]]</big><big>[[H8451|תּוֹרֹת]]</big> ** | to.ro.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^9]: ==L== spelled: **<span class="ashebrew"><big>תּוֹרֹתוֹ</big></span>**
+[^1]: design its  | **<big>[[H9023|וֹ]]</big><big>[[H6699|צוּרָת]]</big> ** | tzu.ro.Ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: design its  | **<big>[[H9023|וֹ]]</big><big>[[H6699|צוּרָת]]</big> ** | tzu.ro.Ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>צֽוּרֹתָ֡ו</big></span>**
+[^4]: designs my  | **<big>[[H9020|י]]</big><big>[[H6699|צוֹרָתִ]]</big> ** | tzu.ro.ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^5]: designs my  | **<big>[[H9020|י]]</big><big>[[H6699|צוֹרָתִ]]</big> ** | tzu.ro.ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^6]: L spelled: **<span class="ashebrew"><big>צ֨וּרֹתָ֤י</big></span>**
+[^7]: law its  | **<big>[[H9023|וֹ]]</big><big>[[H8451|תּוֹרֹת]]</big> ** | to.ro.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^8]: law its  | **<big>[[H9023|וֹ]]</big><big>[[H8451|תּוֹרֹת]]</big> ** | to.ro.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^9]: L spelled: **<span class="ashebrew"><big>תּוֹרֹתוֹ</big></span>**
 

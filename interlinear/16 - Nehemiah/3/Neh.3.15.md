@@ -39,7 +39,7 @@ The Fountain Gate was repaired by Shallun son of Col-hozeh, ruler of the distric
 | David  |**<big>&#8207;[[H1732\|דָּוִֽיד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.14|<< Nehemiah 3:14]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.16|Nehemiah 3:16 >>]]</td></tr></table>
 
-[^1]: ==K==: so they may set up  | **<big>[[H5975G|יַעֲמִידוּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ya.'a.mi.du<small><sup>[[HVhu3mp]]</sup></small> 
-[^2]: ==K==: so they may set up  | **<big>[[H5975G|יַעֲמִידוּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ya.'a.mi.du<small><sup>[[HVhu3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְיַעֲמִיד֙ו</big></span>**
+[^1]: so they may set up  | **<big>[[H5975G|יַעֲמִידוּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ya.'a.mi.du<small><sup>[[HVhu3mp]]</sup></small> | K
+[^2]: so they may set up  | **<big>[[H5975G|יַעֲמִידוּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ya.'a.mi.du<small><sup>[[HVhu3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְיַעֲמִיד֙ו</big></span>**
 

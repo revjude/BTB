@@ -29,6 +29,6 @@ Its leaves were beautiful, its fruit was abundant, and upon it was food for all.
 | \<the> flesh  |**<big>&#8207;[[H1321\|בִּשְׂרָֽ]]&#8207;&#8207;[[H9010\|א]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| bis.Ra<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.11|<< Daniel 4:11]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.13|Daniel 4:13 >>]]</td></tr></table>
 
-[^1]: ==K==: they nested  | **<big>[[H1753|יְדֻרוּן]]</big> ** | ye.du.run<small><sup>[[AVqi3mp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="asaramaic"><big>יְדֻרָון֙</big></span>**
+[^1]: they nested  | **<big>[[H1753|יְדֻרוּן]]</big> ** | ye.du.run<small><sup>[[AVqi3mp]]</sup></small> | K
+[^2]: L spelled: **<span class="asaramaic"><big>יְדֻרָון֙</big></span>**
 

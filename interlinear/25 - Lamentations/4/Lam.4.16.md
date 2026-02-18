@@ -23,7 +23,7 @@ The presence of the LORD has scattered them; He regards them no more. The priest
 | they showed favor to  |**<big>&#8207;[[H2603A\|חָנָֽנוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| cha.Na.nu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.15|<< Lamentations 4:15]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.17|Lamentations 4:17 >>]]</td></tr></table>
 
-[^1]: ==K==: elders  | **<big>[[H2205G|זְקֵנִים]]</big> ** | ze.ke.nim<small><sup>[[HAampa]]</sup></small> 
-[^2]: ==K==: elders  | **<big>[[H2205G|זְקֵנִים]]</big> ** | ze.ke.nim<small><sup>[[HAampa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>זְקֵנִ֖ים</big></span>**
+[^1]: elders  | **<big>[[H2205G|זְקֵנִים]]</big> ** | ze.ke.nim<small><sup>[[HAampa]]</sup></small> | K
+[^2]: elders  | **<big>[[H2205G|זְקֵנִים]]</big> ** | ze.ke.nim<small><sup>[[HAampa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>זְקֵנִ֖ים</big></span>**
 

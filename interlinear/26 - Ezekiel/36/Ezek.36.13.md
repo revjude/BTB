@@ -23,9 +23,9 @@ For this is what the Lord GOD says: Because people say to you, ‘You devour men
 | you have been  |**<big>&#8207;[[H1961\|הָיִֽית]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.Yit<small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.12|<< Ezekiel 36:12]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.14|Ezekiel 36:14 >>]]</td></tr></table>
 
-[^1]: ==K==: you  | **<big>[[H0859B|אָתִּי]]</big> ** | 'a.ti<small><sup>[[HPp2fs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אָ֑תְּי</big></span>**
-[^3]: ==K==: nation your  | **<big>[[H9022|ךְ]]</big><big>[[H1471A|גּוֹיֵ]]</big> ** | go.ye<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> 
-[^4]: ==K==: nation your  | **<big>[[H9022|ךְ]]</big><big>[[H1471A|גּוֹיֵ]]</big> ** | go.ye<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> 
-[^5]: ==L== spelled: **<span class="ashebrew"><big>גּוֹיִַ֖ךְ</big></span>**
+[^1]: you  | **<big>[[H0859B|אָתִּי]]</big> ** | 'a.ti<small><sup>[[HPp2fs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אָ֑תְּי</big></span>**
+[^3]: nation your  | **<big>[[H9022|ךְ]]</big><big>[[H1471A|גּוֹיֵ]]</big> ** | go.ye<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
+[^4]: nation your  | **<big>[[H9022|ךְ]]</big><big>[[H1471A|גּוֹיֵ]]</big> ** | go.ye<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
+[^5]: L spelled: **<span class="ashebrew"><big>גּוֹיִַ֖ךְ</big></span>**
 

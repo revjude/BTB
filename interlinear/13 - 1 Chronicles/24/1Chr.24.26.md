@@ -17,5 +17,5 @@ The sons of Merari: Mahli and Mushi. The son of Jaaziah: Beno.
 | Beno  [^1]|**<big>&#8207;[[H1121B\|בְנֽוֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.No<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad (Formatting)">L(F)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.24.25|<< 1 Chronicles 24:25]]</td><td align="center" style="border:none;">[[1Chr.24|1 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.27|1 Chronicles 24:27 >>]]</td></tr></table>
 
-[^1]: ==F==: son his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H1121A|בְנֽ]]</big> ** | ve.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
+[^1]: son his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H1121A|בְנֽ]]</big> ** | ve.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | F
 

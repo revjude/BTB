@@ -22,6 +22,6 @@ Whoever slanders his neighbor in secret, I will put to silence; the one with hau
 | I will be able  |**<big>&#8207;[[H3201\|אוּכָֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'u.Khal<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.101.4|<< Psalms 101:4]]</td><td align="center" style="border:none;">[[Ps.101|Psalms 101]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.101.6|Psalms 101:6 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>מְלָושְׁנִ֬י</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>מְלוֹשְׁנִי</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>מְלָושְׁנִ֬י</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>מְלוֹשְׁנִי</big></span>**
 

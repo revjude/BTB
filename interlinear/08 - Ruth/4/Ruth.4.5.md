@@ -28,6 +28,6 @@ Then Boaz said, “On the day you buy the land from Naomi and also from Ruth the
 | inheritance his  |**<big>&#8207;[[H5159\|נַחֲלָתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| na.cha.la.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.4|<< Ruth 4:4]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.6|Ruth 4:6 >>]]</td></tr></table>
 
-[^1]: ==K==: I have acquired  | **<big>[[H7069|קָנִיתִי]]</big> ** | ka.ni.ti<small><sup>[[HVqp1cs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>קָנִ֔יתָי</big></span>**
+[^1]: I have acquired  | **<big>[[H7069|קָנִיתִי]]</big> ** | ka.ni.ti<small><sup>[[HVqp1cs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>קָנִ֔יתָי</big></span>**
 

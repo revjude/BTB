@@ -24,8 +24,8 @@ Jehoshaphat built ships of Tarshish to go to Ophir for gold, but they never set 
 | Geber  |**<big>&#8207;[[H6100\|גָּֽבֶר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ga.ver<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.47|<< 1 Kings 22:47]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.49|1 Kings 22:49 >>]]</td></tr></table>
 
-[^1]: ==K==: he tithed  | **<big>[[H6237|עָשָׂר]]</big> ** | a.sar<small><sup>[[HVqp3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>עָשָׂר֩</big></span>**
-[^3]: ==K==: it was broken  | **<big>[[H7665|נִשְׁבְּרָה]]</big> ** | nish.be.rah<small><sup>[[HVNp3fs]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>נִשְׁבְּרֻ֥ה</big></span>**
+[^1]: he tithed  | **<big>[[H6237|עָשָׂר]]</big> ** | a.sar<small><sup>[[HVqp3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>עָשָׂר֩</big></span>**
+[^3]: it was broken  | **<big>[[H7665|נִשְׁבְּרָה]]</big> ** | nish.be.rah<small><sup>[[HVNp3fs]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>נִשְׁבְּרֻ֥ה</big></span>**
 

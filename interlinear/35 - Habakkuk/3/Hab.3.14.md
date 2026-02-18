@@ -21,7 +21,7 @@ With his own spear You pierced his head, when his warriors stormed out to scatte
 | in the secret place  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4565\|מִּסְתָּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> mis.Tar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.13|<< Habakkuk 3:13]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.15|Habakkuk 3:15 >>]]</td></tr></table>
 
-[^1]: ==K==: warrior his  | **<big>[[H9023|וֹ]]</big><big>[[H6518|פְּרָז]]</big> ** | pe.ra.zo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: warrior his  | **<big>[[H9023|וֹ]]</big><big>[[H6518|פְּרָז]]</big> ** | pe.ra.zo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>פְּרָזָ֔ו</big></span>**
+[^1]: warrior his  | **<big>[[H9023|וֹ]]</big><big>[[H6518|פְּרָז]]</big> ** | pe.ra.zo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: warrior his  | **<big>[[H9023|וֹ]]</big><big>[[H6518|פְּרָז]]</big> ** | pe.ra.zo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>פְּרָזָ֔ו</big></span>**
 

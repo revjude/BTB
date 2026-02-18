@@ -27,6 +27,6 @@ Then all the troops who were with him marched up and approached the city. They a
 | \<the> Ai  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5857G\|עָֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ai<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.10|<< Joshua 8:10]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.12|Joshua 8:12 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>בֵּינָ֥ו</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>בֵּינוֹ</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>בֵּינָ֥ו</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>בֵּינוֹ</big></span>**
 

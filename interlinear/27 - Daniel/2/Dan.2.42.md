@@ -24,11 +24,11 @@ And as the toes of the feet were partly iron and partly clay, so this kingdom wi
 | breakable  |**<big>&#8207;[[H8406\|תְבִירָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| te.vi.Rah<small><sup>[[AVQrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.41|<< Daniel 2:41]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.43|Daniel 2:43 >>]]</td></tr></table>
 
-[^1]: ==K==: some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big> ** | mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> 
-[^2]: ==K==: some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big> ** | mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="asaramaic"><big>מִנְּהֵ֥ון</big></span>**
-[^4]: ==K==: and some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> 
-[^5]: ==K==: and some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> 
-[^6]: ==K==: and some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> 
-[^7]: ==L== spelled: **<span class="asaramaic"><big>וּמִנְּ/הֵ֣ון</big></span>**
+[^1]: some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big> ** | mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
+[^2]: some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big> ** | mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="asaramaic"><big>מִנְּהֵ֥ון</big></span>**
+[^4]: and some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
+[^5]: and some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
+[^6]: and some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
+[^7]: L spelled: **<span class="asaramaic"><big>וּמִנְּ/הֵ֣ון</big></span>**
 

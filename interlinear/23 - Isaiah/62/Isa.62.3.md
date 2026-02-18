@@ -19,7 +19,7 @@ You will be a crown of glory in the hand of the LORD, a royal diadem in the palm
 | God your  |**<big>&#8207;[[H0430G\|אֱלֹהָֽיִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.lo.Ha.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.62.2|<< Isaiah 62:2]]</td><td align="center" style="border:none;">[[Isa.62|Isaiah 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.62.4|Isaiah 62:4 >>]]</td></tr></table>
 
-[^1]: ==K==: and a headdress of  | **<big>[[H6797|צְנוֹף]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> tze.nof<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==K==: and a headdress of  | **<big>[[H6797|צְנוֹף]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> tze.nof<small><sup>[[HNcbsc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וּצְנִ֥וף</big></span>**
+[^1]: and a headdress of  | **<big>[[H6797|צְנוֹף]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> tze.nof<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: and a headdress of  | **<big>[[H6797|צְנוֹף]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> tze.nof<small><sup>[[HNcbsc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וּצְנִ֥וף</big></span>**
 

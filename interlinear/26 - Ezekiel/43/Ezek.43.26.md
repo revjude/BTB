@@ -19,7 +19,7 @@ For seven days the priests are to make atonement for the altar and cleanse it; s
 | hands its  [^2]|**<big>&#8207;[[H3027R\|יָדָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | ya.do<small><sup>[[HNcbdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.25|<< Ezekiel 43:25]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.27|Ezekiel 43:27 >>]]</td></tr></table>
 
-[^1]: ==K==: hand its  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H3027R|יָד]]</big> ** | ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: hand its  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H3027R|יָד]]</big> ** | ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>יָדָֽו\׃</big></span>**
+[^1]: hand its  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H3027R|יָד]]</big> ** | ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: hand its  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H3027R|יָד]]</big> ** | ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>יָדָֽו\׃</big></span>**
 

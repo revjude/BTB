@@ -23,7 +23,7 @@ You have enlarged the nation and increased its joy. The people rejoice before Yo
 | plunder  |**<big>&#8207;[[H7998\|שָׁלָֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sha.Lal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9.2|<< Isaiah 9:2]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.4|Isaiah 9:4 >>]]</td></tr></table>
 
-[^1]: ==K==: not  | **<big>[[H3808|לֹא]]</big> ** | lo'<small><sup>[[HTn]]</sup></small> 
-[^2]: ==K==: not  | **<big>[[H3808|לֹא]]</big> ** | lo'<small><sup>[[HTn]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>לֹ֖א</big></span>**
+[^1]: not  | **<big>[[H3808|לֹא]]</big> ** | lo'<small><sup>[[HTn]]</sup></small> | K
+[^2]: not  | **<big>[[H3808|לֹא]]</big> ** | lo'<small><sup>[[HTn]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>לֹ֖א</big></span>**
 

@@ -17,7 +17,7 @@ The slacker does not plow in season; at harvest time he looks, but nothing is th
 | and nothing  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H0369\|אָֽיִן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'A.yin<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.3|<< Proverbs 20:3]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.5|Proverbs 20:5 >>]]</td></tr></table>
 
-[^1]: ==K==: he asks  | **<big>[[H7592|יִשְׁאַל]]</big> ** | yish.'al<small><sup>[[HVqi3ms]]</sup></small> 
-[^2]: ==K==: he asks  | **<big>[[H7592|יִשְׁאַל]]</big> ** | yish.'al<small><sup>[[HVqi3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>יְשָׁאַ֖ל</big></span>**
+[^1]: he asks  | **<big>[[H7592|יִשְׁאַל]]</big> ** | yish.'al<small><sup>[[HVqi3ms]]</sup></small> | K
+[^2]: he asks  | **<big>[[H7592|יִשְׁאַל]]</big> ** | yish.'al<small><sup>[[HVqi3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>יְשָׁאַ֖ל</big></span>**
 

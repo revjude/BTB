@@ -16,6 +16,6 @@ Test me, O LORD, and try me; examine my heart and mind.
 | and heart my  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3820A\|לִבִּֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li.B<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.26.1|<< Psalms 26:1]]</td><td align="center" style="border:none;">[[Ps.26|Psalms 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.26.3|Psalms 26:3 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>צָרְופָ֖ה</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>צְרוֹפָה</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>צָרְופָ֖ה</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>צְרוֹפָה</big></span>**
 

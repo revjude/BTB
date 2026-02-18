@@ -18,13 +18,13 @@ The father of a righteous man will greatly rejoice, and he who fathers a wise so
 | in him  |**<big>&#8207;[[H9003\|בּֽ]]&#8207;&#8207;[[H8055\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| b<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.23|<< Proverbs 23:23]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.25|Proverbs 23:25 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>גִּ֣ול</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>גּוֹל</big></span>**
-[^3]: ==L== spelled: **<span class="ashebrew"><big>יָ֭גִול</big></span>**
-[^4]: ==K== spelled: **<span class="ashebrew"><big>יָגוֹל</big></span>**
-[^5]: ==K==: [one who] begets  | **<big>[[H3205|יוֹלֵד]]</big> ** | yo.led<small><sup>[[HVqrmsa]]</sup></small> 
-[^6]: ==K==: [one who] begets  | **<big>[[H3205|יוֹלֵד]]</big> ** | yo.led<small><sup>[[HVqrmsa]]</sup></small> 
-[^7]: ==L== spelled: **<span class="ashebrew"><big>ְיוֹלֵ֥ד</big></span>**
-[^8]: ==K==: and he rejoices  | **<big>[[H8055|יִשְׂמַח]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yis.mach-<small><sup>[[HVqu3ms]]</sup></small> 
-[^9]: ==L== spelled: **<span class="ashebrew"><big>ויִשְׂמַח\־</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>גִּ֣ול</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>גּוֹל</big></span>**
+[^3]: L spelled: **<span class="ashebrew"><big>יָ֭גִול</big></span>**
+[^4]: K spelled: **<span class="ashebrew"><big>יָגוֹל</big></span>**
+[^5]: [one who] begets  | **<big>[[H3205|יוֹלֵד]]</big> ** | yo.led<small><sup>[[HVqrmsa]]</sup></small> | K
+[^6]: [one who] begets  | **<big>[[H3205|יוֹלֵד]]</big> ** | yo.led<small><sup>[[HVqrmsa]]</sup></small> | K
+[^7]: L spelled: **<span class="ashebrew"><big>ְיוֹלֵ֥ד</big></span>**
+[^8]: and he rejoices  | **<big>[[H8055|יִשְׂמַח]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yis.mach-<small><sup>[[HVqu3ms]]</sup></small> | K
+[^9]: L spelled: **<span class="ashebrew"><big>ויִשְׂמַח\־</big></span>**
 

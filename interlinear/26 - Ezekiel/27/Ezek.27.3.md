@@ -35,7 +35,7 @@ Tell Tyre, who dwells at the gateway to the sea, merchant of the peoples on many
 | beauty  |**<big>&#8207;[[H3308\|יֹֽפִי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yo.fi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.2|<< Ezekiel 27:2]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.4|Ezekiel 27:4 >>]]</td></tr></table>
 
-[^1]: ==K==: that sits  | **<big>[[H3427|יֹּשַׁבְתִּי]]</big><big>[[H9009|הַ]]</big> ** | hai.<small><sup>[[HTd]]</sup></small> yo.she.vo.tei<small><sup>[[HVqrfsc]]</sup></small> 
-[^2]: ==K==: that sits  | **<big>[[H3427|יֹּשַׁבְתִּי]]</big><big>[[H9009|הַ]]</big> ** | hai.<small><sup>[[HTd]]</sup></small> yo.she.vo.tei<small><sup>[[HVqrfsc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הַיֹּשֶׁ֙בֶת֙י</big></span>**
+[^1]: that sits  | **<big>[[H3427|יֹּשַׁבְתִּי]]</big><big>[[H9009|הַ]]</big> ** | hai.<small><sup>[[HTd]]</sup></small> yo.she.vo.tei<small><sup>[[HVqrfsc]]</sup></small> | K
+[^2]: that sits  | **<big>[[H3427|יֹּשַׁבְתִּי]]</big><big>[[H9009|הַ]]</big> ** | hai.<small><sup>[[HTd]]</sup></small> yo.she.vo.tei<small><sup>[[HVqrfsc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הַיֹּשֶׁ֙בֶת֙י</big></span>**
 

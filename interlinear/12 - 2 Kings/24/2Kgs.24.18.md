@@ -27,6 +27,6 @@ Zedekiah was twenty-one years old when he became king, and he reigned in Jerusal
 | from Libnah  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3841H\|לִּבְנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> liv.Nah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.24.17|<< 2 Kings 24:17]]</td><td align="center" style="border:none;">[[2Kgs.24|2 Kings 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.24.19|2 Kings 24:19 >>]]</td></tr></table>
 
-[^1]: ==K==: [was] Hamital  | **<big>[[H2537|חֲמִיטַל]]</big> ** | cha.mi.tal<small><sup>[[HNpf]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>חֲמיּטַ֥ל</big></span>**
+[^1]: [was] Hamital  | **<big>[[H2537|חֲמִיטַל]]</big> ** | cha.mi.tal<small><sup>[[HNpf]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>חֲמיּטַ֥ל</big></span>**
 

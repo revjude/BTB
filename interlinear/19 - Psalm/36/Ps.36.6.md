@@ -20,6 +20,6 @@ Your righteousness is like the highest mountains; Your judgments are like the de
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.36.5|<< Psalms 36:5]]</td><td align="center" style="border:none;">[[Ps.36|Psalms 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.36.7|Psalms 36:7 >>]]</td></tr></table>
 
-[^1]: ==P==: and judgments your  | **<big>[[H9021|ךָ]]</big><big>[[H4941G|מִ֖שְפָטֶ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> Mish.pa.te.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^2]: ==P==: and judgments your  | **<big>[[H9021|ךָ]]</big><big>[[H4941G|מִ֖שְפָטֶ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> Mish.pa.te.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
+[^1]: and judgments your  | **<big>[[H9021|ךָ]]</big><big>[[H4941G|מִ֖שְפָטֶ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> Mish.pa.te.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | P
+[^2]: and judgments your  | **<big>[[H9021|ךָ]]</big><big>[[H4941G|מִ֖שְפָטֶ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> Mish.pa.te.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | P
 

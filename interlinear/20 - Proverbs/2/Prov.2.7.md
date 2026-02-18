@@ -16,6 +16,6 @@ He stores up sound wisdom for the upright; He is a shield to those who walk with
 | integrity  |**<big>&#8207;[[H8537\|תֹֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Tom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.2.6|<< Proverbs 2:6]]</td><td align="center" style="border:none;">[[Prov.2|Proverbs 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.2.8|Proverbs 2:8 >>]]</td></tr></table>
 
-[^1]: ==K==: and he stores up  | **<big>[[H6845|צָפַן]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> tza.fan<small><sup>[[HVqu3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>וִצְפֹּ֣ן</big></span>**
+[^1]: and he stores up  | **<big>[[H6845|צָפַן]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> tza.fan<small><sup>[[HVqu3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>וִצְפֹּ֣ן</big></span>**
 

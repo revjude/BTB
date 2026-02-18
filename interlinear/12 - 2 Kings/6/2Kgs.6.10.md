@@ -27,8 +27,8 @@ So the king of Israel sent word to the place the man of God had pointed out. Tim
 | two [times]  |**<big>&#8207;[[H8147\|שְׁתָּֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| she.Ta.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.9|<< 2 Kings 6:9]]</td><td align="center" style="border:none;">[[2Kgs.6|2 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.6.11|2 Kings 6:11 >>]]</td></tr></table>
 
-[^1]: ==K==: and he warned her  | **<big>[[H9034|הּ]]</big><big>[[H2094B|הִזְהִירָ]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> hiz.hi.ra<small><sup>[[HVhq3ms]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> 
-[^2]: ==K==: and he warned her  | **<big>[[H9034|הּ]]</big><big>[[H2094B|הִזְהִירָ]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> hiz.hi.ra<small><sup>[[HVhq3ms]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> 
-[^3]: ==K==: and he warned her  | **<big>[[H9034|הּ]]</big><big>[[H2094B|הִזְהִירָ]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> hiz.hi.ra<small><sup>[[HVhq3ms]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וְהִזְהִירֹ֖/ה</big></span>**
+[^1]: and he warned her  | **<big>[[H9034|הּ]]</big><big>[[H2094B|הִזְהִירָ]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> hiz.hi.ra<small><sup>[[HVhq3ms]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | K
+[^2]: and he warned her  | **<big>[[H9034|הּ]]</big><big>[[H2094B|הִזְהִירָ]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> hiz.hi.ra<small><sup>[[HVhq3ms]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | K
+[^3]: and he warned her  | **<big>[[H9034|הּ]]</big><big>[[H2094B|הִזְהִירָ]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> hiz.hi.ra<small><sup>[[HVhq3ms]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וְהִזְהִירֹ֖/ה</big></span>**
 

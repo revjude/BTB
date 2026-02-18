@@ -34,8 +34,8 @@ On the fifteenth day of the eighth month, a month of his own choosing, Jeroboam 
 | to make smoke  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6999H\|הַקְטִֽיר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> hak.Tir<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.12.32|<< 1 Kings 12:32]]</td><td align="center" style="border:none;">[[1Kgs.12|1 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.13.1|1 Kings 13:1 >>]]</td></tr></table>
 
-[^1]: ==K==: \<from> \<to> alone  | **<big>[[H0905J|בַד]]</big><big>[[H9005|לְּ]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> li.<small><sup>[[HR]]</sup></small> bad<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==K==: \<from> \<to> alone  | **<big>[[H0905J|בַד]]</big><big>[[H9005|לְּ]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> li.<small><sup>[[HR]]</sup></small> bad<small><sup>[[HNcbsa]]</sup></small> 
-[^3]: ==K==: \<from> \<to> alone  | **<big>[[H0905J|בַד]]</big><big>[[H9005|לְּ]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> li.<small><sup>[[HR]]</sup></small> bad<small><sup>[[HNcbsa]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>מִלִּ/בֹּ֑ד</big></span>**
+[^1]: \<from> \<to> alone  | **<big>[[H0905J|בַד]]</big><big>[[H9005|לְּ]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> li.<small><sup>[[HR]]</sup></small> bad<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: \<from> \<to> alone  | **<big>[[H0905J|בַד]]</big><big>[[H9005|לְּ]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> li.<small><sup>[[HR]]</sup></small> bad<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: \<from> \<to> alone  | **<big>[[H0905J|בַד]]</big><big>[[H9005|לְּ]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> li.<small><sup>[[HR]]</sup></small> bad<small><sup>[[HNcbsa]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>מִלִּ/בֹּ֑ד</big></span>**
 

@@ -33,6 +33,6 @@ I will make them one nation in the land, on the mountains of Israel, and one kin
 | again  |**<big>&#8207;[[H5750\|עֽוֹד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.21|<< Ezekiel 37:21]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.23|Ezekiel 37:23 >>]]</td></tr></table>
 
-[^1]: ==K==: it will become  | **<big>[[H1961|יִהְיֶה]]</big> ** | yih.yeh-<small><sup>[[HVqi3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יִֽהְיֻה\־</big></span>**
+[^1]: it will become  | **<big>[[H1961|יִהְיֶה]]</big> ** | yih.yeh-<small><sup>[[HVqi3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יִֽהְיֻה\־</big></span>**
 

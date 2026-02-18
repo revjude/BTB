@@ -32,6 +32,6 @@ That same day King Xerxes awarded Queen Esther the estate of Haman, the enemy of
 | to her  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| La<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.7.10|<< Esther 7:10]]</td><td align="center" style="border:none;">[[Esth.8|Esther 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.8.2|Esther 8:2 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>הַיְּהוּדִ֑יים</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>הַיְּהוּדִיִּים</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>הַיְּהוּדִ֑יים</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>הַיְּהוּדִיִּים</big></span>**
 

@@ -43,6 +43,6 @@ All his brothers and sisters and prior acquaintances came and dined with him in 
 | one  |**<big>&#8207;[[H0259\|אֶחָֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.42.10|<< Job 42:10]]</td><td align="center" style="border:none;">[[Job.42|Job 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42.12|Job 42:12 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>אַחְיֹתָ֜יו</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>אַחְיֹתָיו</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>אַחְיֹתָ֜יו</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>אַחְיֹתָיו</big></span>**
 

@@ -17,5 +17,5 @@ It is better not to vow than to make a vow and not fulfill it.
 | you will pay  |**<big>&#8207;[[H7999A\|תְשַׁלֵּֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| te.sha.Lem<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5.4|<< Ecclesiastes 5:4]]</td><td align="center" style="border:none;">[[Eccl.5|Ecclesiastes 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5.6|Ecclesiastes 5:6 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>מִשֶּׁ/תִּדּ֖וֹר</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>מִשֶּׁ/תִּדּ֖וֹר</big></span>**
 

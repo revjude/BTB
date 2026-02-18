@@ -16,7 +16,7 @@ but showing loving devotion to a thousand generations of those who love Me and k
 | commandments my  |**<big>&#8207;[[H4687\|מִצְוֹתָֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mitz.vo.Ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.5|<< Exodus 20:5]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20.7|Exodus 20:7 >>]]</td></tr></table>
 
-[^1]: ==P== spelled: **<span class="ashebrew"><big>וְעֹ֤שֶׂה</big></span>**
-[^2]: ==P== spelled: **<span class="ashebrew"><big>חֶ֙סֶד֙</big></span>**
-[^3]: ==P== spelled: **<span class="ashebrew"><big>לַאֲלָפִ֔ים</big></span>**
+[^1]: P spelled: **<span class="ashebrew"><big>וְעֹ֤שֶׂה</big></span>**
+[^2]: P spelled: **<span class="ashebrew"><big>חֶ֙סֶד֙</big></span>**
+[^3]: P spelled: **<span class="ashebrew"><big>לַאֲלָפִ֔ים</big></span>**
 

@@ -26,8 +26,8 @@ So you were adorned with gold and silver, and your clothing was made of fine lin
 | into kingship  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H4410\|מְלוּכָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> m.lu.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.12|<< Ezekiel 16:12]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.14|Ezekiel 16:14 >>]]</td></tr></table>
 
-[^1]: ==K==: [was] fine linen  | **<big>[[H8336B|שֵׁשִׁי]]</big> ** | she.shi<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>שֵׁ֤שׁי</big></span>**
-[^3]: ==L== spelled: **<span class="ashebrew"><big>אָכָ֑לְתְּי</big></span>**
-[^4]: ==K== spelled: **<span class="ashebrew"><big>אָכָלְתִּי</big></span>**
+[^1]: [was] fine linen  | **<big>[[H8336B|שֵׁשִׁי]]</big> ** | she.shi<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>שֵׁ֤שׁי</big></span>**
+[^3]: L spelled: **<span class="ashebrew"><big>אָכָ֑לְתְּי</big></span>**
+[^4]: K spelled: **<span class="ashebrew"><big>אָכָלְתִּי</big></span>**
 

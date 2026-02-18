@@ -33,5 +33,5 @@ But God struck down some of the people of Beth-shemesh because they looked insid
 | great  |**<big>&#8207;[[H1419A\|גְדוֹלָֽה]]&#8207; </big>**[^1] | ge.do.Lah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad Biblia (allepo benchayim)">LB(ah)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.18|<< 1 Samuel 6:18]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.20|1 Samuel 6:20 >>]]</td></tr></table>
 
-[^1]: ==AH== spelled: **<span class="ashebrew"><big>גְדוֹלָֽה\׃</big></span>**
+[^1]: AH spelled: **<span class="ashebrew"><big>גְדוֹלָֽה\׃</big></span>**
 

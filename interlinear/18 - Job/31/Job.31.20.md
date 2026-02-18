@@ -17,7 +17,7 @@ if his heart has not blessed me for warming him with the fleece of my sheep,
 | he warmed himself  |**<big>&#8207;[[H2552\|יִתְחַמָּֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yit.cha.Mam<small><sup>[[HVti3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.19|<< Job 31:19]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.21|Job 31:21 >>]]</td></tr></table>
 
-[^1]: ==K==: loin his  | **<big>[[H9023|וֹ]]</big><big>[[H2504|חֲלָצ]]</big> ** | cha.la.tzo<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: loin his  | **<big>[[H9023|וֹ]]</big><big>[[H2504|חֲלָצ]]</big> ** | cha.la.tzo<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>חֲלָצָ֑ו</big></span>**
+[^1]: loin his  | **<big>[[H9023|וֹ]]</big><big>[[H2504|חֲלָצ]]</big> ** | cha.la.tzo<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: loin his  | **<big>[[H9023|וֹ]]</big><big>[[H2504|חֲלָצ]]</big> ** | cha.la.tzo<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>חֲלָצָ֑ו</big></span>**
 

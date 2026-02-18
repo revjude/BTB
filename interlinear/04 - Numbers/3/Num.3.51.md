@@ -25,6 +25,6 @@ And Moses gave the redemption money to Aaron and his sons in obedience to the wo
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.50|<< Numbers 3:50]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.1|Numbers 4:1 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>הַפְּדֻיִ֛ם</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>הַפְּדֻיִ֛ם</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>הַפְּדֻיִ֛ם</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>הַפְּדֻיִ֛ם</big></span>**
 

@@ -21,8 +21,8 @@ As for you, O king, the Most High God gave your father Nebuchadnezzar sovereignt
 | father your  |**<big>&#8207;[[H0002\|אֲבֽ]]&#8207;&#8207;[[H9021\|וּךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Vu<small><sup>[[ANcbsc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.17|<< Daniel 5:17]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.19|Daniel 5:19 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>אַ֖נְתְּה</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>אַנְתָּה</big></span>**
-[^3]: ==L== spelled: **<span class="asaramaic"><big>עִלָּיאָ֔</big></span>**
-[^4]: ==K== spelled: **<span class="asaramaic"><big>עִלָּיָא</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>אַ֖נְתְּה</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>אַנְתָּה</big></span>**
+[^3]: L spelled: **<span class="asaramaic"><big>עִלָּיאָ֔</big></span>**
+[^4]: K spelled: **<span class="asaramaic"><big>עִלָּיָא</big></span>**
 

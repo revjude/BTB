@@ -33,15 +33,15 @@ Remember that you were a slave in the land of Egypt, and that the LORD your God 
 | the sabbath  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7676\|שַׁבָּֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Bat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.14|<< Deuteronomy 5:14]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.16|Deuteronomy 5:16 >>]]</td></tr></table>
 
-[^1]: ==P== spelled: **<span class="ashebrew"><big>וְזָכַרְתָּ֞</big></span>**
-[^2]: ==P== spelled: **<span class="ashebrew"><big>עֶ֥בֶד</big></span>**
-[^3]: ==P== spelled: **<span class="ashebrew"><big>הָיִ֣יתָ\׀</big></span>**
-[^4]: ==P== spelled: **<span class="ashebrew"><big>מִצְרַ֗יִם</big></span>**
-[^5]: ==P== spelled: **<span class="ashebrew"><big>וַיֹּצִאֲ/ךָ֩</big></span>**
-[^6]: ==P== spelled: **<span class="ashebrew"><big>יְהוָ֨ה</big></span>**
-[^7]: ==P== spelled: **<span class="ashebrew"><big>אֱלֹהֶ֤יךָ</big></span>**
-[^8]: ==P== spelled: **<span class="ashebrew"><big>מִשָּׁם֙</big></span>**
-[^9]: ==P== spelled: **<span class="ashebrew"><big>בְּיָ֤ד</big></span>**
-[^10]: ==P== spelled: **<span class="ashebrew"><big>חֲזָקָה֙</big></span>**
-[^11]: ==P== spelled: **<span class="ashebrew"><big>נְטוּיָ֔ה</big></span>**
+[^1]: P spelled: **<span class="ashebrew"><big>וְזָכַרְתָּ֞</big></span>**
+[^2]: P spelled: **<span class="ashebrew"><big>עֶ֥בֶד</big></span>**
+[^3]: P spelled: **<span class="ashebrew"><big>הָיִ֣יתָ\׀</big></span>**
+[^4]: P spelled: **<span class="ashebrew"><big>מִצְרַ֗יִם</big></span>**
+[^5]: P spelled: **<span class="ashebrew"><big>וַיֹּצִאֲ/ךָ֩</big></span>**
+[^6]: P spelled: **<span class="ashebrew"><big>יְהוָ֨ה</big></span>**
+[^7]: P spelled: **<span class="ashebrew"><big>אֱלֹהֶ֤יךָ</big></span>**
+[^8]: P spelled: **<span class="ashebrew"><big>מִשָּׁם֙</big></span>**
+[^9]: P spelled: **<span class="ashebrew"><big>בְּיָ֤ד</big></span>**
+[^10]: P spelled: **<span class="ashebrew"><big>חֲזָקָה֙</big></span>**
+[^11]: P spelled: **<span class="ashebrew"><big>נְטוּיָ֔ה</big></span>**
 

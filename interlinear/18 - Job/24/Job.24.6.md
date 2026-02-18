@@ -16,6 +16,6 @@ They gather fodder in the fields and glean the vineyards of the wicked.
 | they glean  |**<big>&#8207;[[H3953\|יְלַקֵּֽשׁוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.la.Ke.shu<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.5|<< Job 24:5]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.7|Job 24:7 >>]]</td></tr></table>
 
-[^1]: ==K==: they cause to harvest  | **<big>[[H7114B|יַקְצִירוּ]]</big> ** | yak.tzi.ru<small><sup>[[HVhi3mp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יִקְצֹ֑ירוּ</big></span>**
+[^1]: they cause to harvest  | **<big>[[H7114B|יַקְצִירוּ]]</big> ** | yak.tzi.ru<small><sup>[[HVhi3mp]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יִקְצֹ֑ירוּ</big></span>**
 

@@ -18,6 +18,6 @@ I know that thou canst do every [thing], and [that] no thought can be withholden
 | a purpose  |**<big>&#8207;[[H4209\|מְזִמָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.zi.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.42.1|<< Job 42:1]]</td><td align="center" style="border:none;">[[Job.42|Job 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42.3|Job 42:3 >>]]</td></tr></table>
 
-[^1]: ==K==: you know  | **<big>[[H3045|יָדַעְתָּ]]</big> ** | ya.da'.ta<small><sup>[[HVqp2ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יָ֭דַעְתִּ</big></span>**
+[^1]: you know  | **<big>[[H3045|יָדַעְתָּ]]</big> ** | ya.da'.ta<small><sup>[[HVqp2ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יָ֭דַעְתִּ</big></span>**
 

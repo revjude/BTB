@@ -17,7 +17,7 @@ Because God has unstrung my bow and afflicted me, they have cast off restraint i
 | they have sent away  |**<big>&#8207;[[H7971G\|שִׁלֵּֽחוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| shi.Le.chu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.10|<< Job 30:10]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.12|Job 30:12 >>]]</td></tr></table>
 
-[^1]: ==K==: string his  | **<big>[[H9023|וֹ]]</big><big>[[H3499B|יִתְר]]</big> ** | yit.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: string his  | **<big>[[H9023|וֹ]]</big><big>[[H3499B|יִתְר]]</big> ** | yit.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>יִתְרִ֣ו</big></span>**
+[^1]: string his  | **<big>[[H9023|וֹ]]</big><big>[[H3499B|יִתְר]]</big> ** | yit.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: string his  | **<big>[[H9023|וֹ]]</big><big>[[H3499B|יִתְר]]</big> ** | yit.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>יִתְרִ֣ו</big></span>**
 

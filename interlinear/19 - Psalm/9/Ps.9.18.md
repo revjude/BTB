@@ -19,6 +19,6 @@ For the needy will not always be forgotten; nor the hope of the oppressed foreve
 | for ever  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H5703\|עַֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'Ad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.17|<< Psalms 9:17]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.19|Psalms 9:19 >>]]</td></tr></table>
 
-[^1]: ==K==: humble [people]  | **<big>[[H6035|עֲנָוִים]]</big> ** | a.na.vim<small><sup>[[HAampa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>עֲ֝נִו֗יִּם</big></span>**
+[^1]: humble [people]  | **<big>[[H6035|עֲנָוִים]]</big> ** | a.na.vim<small><sup>[[HAampa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>עֲ֝נִו֗יִּם</big></span>**
 

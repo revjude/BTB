@@ -20,7 +20,7 @@ They were also the chief officers for King Solomon: 250 supervisors.
 | over the people  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H5971A\|עָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8.9|<< 2 Chronicles 8:9]]</td><td align="center" style="border:none;">[[2Chr.8|2 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.8.11|2 Chronicles 8:11 >>]]</td></tr></table>
 
-[^1]: ==K==: the garrisons  | **<big>[[H5333|נְּצִיבִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ne.tzi.vim<small><sup>[[HNcmpa]]</sup></small> 
-[^2]: ==K==: the garrisons  | **<big>[[H5333|נְּצִיבִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ne.tzi.vim<small><sup>[[HNcmpa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הַנִּצָּיבִ֛ים</big></span>**
+[^1]: the garrisons  | **<big>[[H5333|נְּצִיבִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ne.tzi.vim<small><sup>[[HNcmpa]]</sup></small> | K
+[^2]: the garrisons  | **<big>[[H5333|נְּצִיבִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ne.tzi.vim<small><sup>[[HNcmpa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הַנִּצָּיבִ֛ים</big></span>**
 

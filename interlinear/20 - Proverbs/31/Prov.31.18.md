@@ -18,7 +18,7 @@ She sees that her gain is good, and her lamp is not extinguished at night.
 | lamp her  |**<big>&#8207;[[H5216A\|נֵרָֽ]]&#8207;&#8207;[[H9024\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ne.Ra<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.17|<< Proverbs 31:17]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.19|Proverbs 31:19 >>]]</td></tr></table>
 
-[^1]: ==K==: in the night  | **<big>[[H3915|לַּיִל]]</big><big>[[H9003|בַ]]</big> ** | va.<small><sup>[[HRd]]</sup></small> la.yil<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==K==: in the night  | **<big>[[H3915|לַּיִל]]</big><big>[[H9003|בַ]]</big> ** | va.<small><sup>[[HRd]]</sup></small> la.yil<small><sup>[[HNcbsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בַלַּ֣יְלָ</big></span>**
+[^1]: in the night  | **<big>[[H3915|לַּיִל]]</big><big>[[H9003|בַ]]</big> ** | va.<small><sup>[[HRd]]</sup></small> la.yil<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: in the night  | **<big>[[H3915|לַּיִל]]</big><big>[[H9003|בַ]]</big> ** | va.<small><sup>[[HRd]]</sup></small> la.yil<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בַלַּ֣יְלָ</big></span>**
 

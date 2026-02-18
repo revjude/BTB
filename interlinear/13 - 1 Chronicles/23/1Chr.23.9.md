@@ -20,6 +20,6 @@ The sons of Shimei: Shelomoth, Haziel, and Haran—three in all. These were the 
 | of Ladan  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3936H\|לַעְדָּֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> la'.Dan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.23.8|<< 1 Chronicles 23:8]]</td><td align="center" style="border:none;">[[1Chr.23|1 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.23.10|1 Chronicles 23:10 >>]]</td></tr></table>
 
-[^1]: ==K==: Shelomoth  | **<big>[[H8013G|שְׁלֹמוֹת]]</big> ** | she.lo.mot<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>שְׁלֹמִ֧ות</big></span>**
+[^1]: Shelomoth  | **<big>[[H8013G|שְׁלֹמוֹת]]</big> ** | she.lo.mot<small><sup>[[HNpm]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>שְׁלֹמִ֧ות</big></span>**
 

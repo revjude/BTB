@@ -29,6 +29,6 @@ and Mordecai told him all that had happened to him, including the exact amount o
 | to destroy them  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0006\|אַבְּדָֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.be.Da<small><sup>[[HVpcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.4.6|<< Esther 4:6]]</td><td align="center" style="border:none;">[[Esth.4|Esther 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.4.8|Esther 4:8 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>בַּיְּהוּדִ֖יים</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>בַּיְּהוּדִיִּים</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>בַּיְּהוּדִ֖יים</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>בַּיְּהוּדִיִּים</big></span>**
 

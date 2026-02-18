@@ -18,7 +18,7 @@ Do not slander a servant to his master, or he will curse you, and you will bear 
 | and you will be held guilty  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0816\|אָשָֽׁמְתָּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Sha.me.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.9|<< Proverbs 30:9]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.11|Proverbs 30:11 >>]]</td></tr></table>
 
-[^1]: ==K==: master his  | **<big>[[H9023|וֹ]]</big><big>[[H0113|אֲדֹנ]]</big> ** | 'a.do.no<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: master his  | **<big>[[H9023|וֹ]]</big><big>[[H0113|אֲדֹנ]]</big> ** | 'a.do.no<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>אֲדֹנָ֑ו</big></span>**
+[^1]: master his  | **<big>[[H9023|וֹ]]</big><big>[[H0113|אֲדֹנ]]</big> ** | 'a.do.no<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: master his  | **<big>[[H9023|וֹ]]</big><big>[[H0113|אֲדֹנ]]</big> ** | 'a.do.no<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>אֲדֹנָ֑ו</big></span>**
 

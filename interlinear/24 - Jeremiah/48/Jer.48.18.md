@@ -24,7 +24,7 @@ Come down from your glory; sit on parched ground, O daughter dwelling in Dibon, 
 | strongholds your  |**<big>&#8207;[[H4013\|מִבְצָרָֽיִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| miv.tza.Ra.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.17|<< Jeremiah 48:17]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.19|Jeremiah 48:19 >>]]</td></tr></table>
 
-[^1]: ==K==: O inhabitants  | **<big>[[H3427|יֹשְׁבֶי]]</big> ** | yo.she.vei<small><sup>[[HVqrmpc]]</sup></small> 
-[^2]: ==K==: O inhabitants  | **<big>[[H3427|יֹשְׁבֶי]]</big> ** | yo.she.vei<small><sup>[[HVqrmpc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>יּשְׁבִ֣י</big></span>**
+[^1]: O inhabitants  | **<big>[[H3427|יֹשְׁבֶי]]</big> ** | yo.she.vei<small><sup>[[HVqrmpc]]</sup></small> | K
+[^2]: O inhabitants  | **<big>[[H3427|יֹשְׁבֶי]]</big> ** | yo.she.vei<small><sup>[[HVqrmpc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>יּשְׁבִ֣י</big></span>**
 

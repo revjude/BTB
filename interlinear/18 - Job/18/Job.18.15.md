@@ -18,5 +18,5 @@ Fire resides in his tent; burning sulfur rains down on his dwelling.
 | sulfur  |**<big>&#8207;[[H1614\|גָפְרִֽית]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ga.fe.Rit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.18.14|<< Job 18:14]]</td><td align="center" style="border:none;">[[Job.18|Job 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.18.16|Job 18:16 >>]]</td></tr></table>
 
-[^1]: ==BH== spelled: **<span class="ashebrew"><big>מִבְּלִי\־</big></span>**
+[^1]: BH spelled: **<span class="ashebrew"><big>מִבְּלִי\־</big></span>**
 

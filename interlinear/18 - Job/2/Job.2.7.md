@@ -24,7 +24,7 @@ So Satan went out from the presence of the LORD and infected Job with terrible b
 | scalp his  |**<big>&#8207;[[H6936\|קָדְקֳדֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ka.de.ko.D<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.2.6|<< Job 2:6]]</td><td align="center" style="border:none;">[[Job.2|Job 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.2.8|Job 2:8 >>]]</td></tr></table>
 
-[^1]: ==K==: to  | **<big>[[H5704|עַד]]</big> ** | ad<small><sup>[[HR]]</sup></small> 
-[^2]: ==K==: to  | **<big>[[H5704|עַד]]</big> ** | ad<small><sup>[[HR]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>ְעַ֥ד</big></span>**
+[^1]: to  | **<big>[[H5704|עַד]]</big> ** | ad<small><sup>[[HR]]</sup></small> | K
+[^2]: to  | **<big>[[H5704|עַד]]</big> ** | ad<small><sup>[[HR]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>ְעַ֥ד</big></span>**
 

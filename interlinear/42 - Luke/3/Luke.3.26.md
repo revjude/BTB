@@ -8,18 +8,18 @@ the son of Maath, the son of Mattathias, the son of Semein, the son of Josech, t
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Maath |**<big>[[G3092\|Μάαθ]]</big>**  |Maath <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Mattathias |**<big>[[G3161H\|Ματταθίου]]</big>**  |Mattathiou <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Semein |**<big>[[G4584\|Σεμεῒν]]</big>**  [^1] |Semein <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Josech [^2] |**<big>[[G6044\|Ἰωσὴχ]]</big>**  |Iōsēch <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of Joda [^3] |**<big>[[G6043\|Ἰωδὰ]]</big>**  |Iōda <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Maath |**<big>[[G3092\|Μάαθ]]</big>**  |Maath <small><sup>[[N-GSM-P]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Mattathias |**<big>[[G3161H\|Ματταθίου]]</big>**  |Mattathiou <small><sup>[[N-GSM-P]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Semein |**<big>[[G4584\|Σεμεῒν]]</big>**  [^1] |Semein <small><sup>[[N-GSM-P]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Josech [^2] |**<big>[[G6044\|Ἰωσὴχ]]</big>**  |Iōsēch <small><sup>[[N-GSM-P]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of Joda [^3] |**<big>[[G6043\|Ἰωδὰ]]</big>**  |Iōda <small><sup>[[N-GSM-P]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.25|<< Luke 3:25]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.27|Luke 3:27 >>]]</td></tr></table>
 
-[^1]: ==Tyn+WH== spelled: **<big><span class='asgreek'>Σεμεεὶν</span></big>**
-[^2]: ==TR+Byz==: of Joseph | **<big>[[G2501|Ἰωσήφ]]</big>** | Iōsēph<small><sup>[[N-GSM-P]]</sup></small>
-[^3]: ==TR+Byz==: of Judah | **<big>[[G2455|Ἰούδα]]</big>** | Iouda<small><sup>[[N-GSM-P]]</sup></small>
+[^1]: Tyn+WH spelled: **<big><span class='asgreek'>Σεμεεὶν</span></big>**
+[^2]: of Joseph | **<big>[[G2501\|Ἰωσήφ]]</big>** | Iōsēph <sup><small>[[N-GSM-P]]</small></sup> | TR+Byz
+[^3]: of Judah | **<big>[[G2455\|Ἰούδα]]</big>** | Iouda <sup><small>[[N-GSM-P]]</small></sup> | TR+Byz

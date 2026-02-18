@@ -36,6 +36,6 @@ Do not be like your fathers, to whom the former prophets proclaimed that this is
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.1.3|<< Zechariah 1:3]]</td><td align="center" style="border:none;">[[Zech.1|Zechariah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.1.5|Zechariah 1:5 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וּמַֽעֲלְילֵי/כֶ֖ם</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וּמַעֲלִילֵי/כֶם</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וּמַֽעֲלְילֵי/כֶ֖ם</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וּמַעֲלִילֵי/כֶם</big></span>**
 

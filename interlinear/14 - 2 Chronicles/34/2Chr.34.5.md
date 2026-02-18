@@ -20,7 +20,7 @@ Then he burned the bones of the priests on their altars. So he cleansed Judah an
 | Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.4|<< 2 Chronicles 34:4]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.6|2 Chronicles 34:6 >>]]</td></tr></table>
 
-[^1]: ==K==: altars  | **<big>[[H4196|מִזְבְּחוֹתָים]]</big> ** | miz.be.cho.taim<small><sup>[[HNcfpc]]</sup></small> 
-[^2]: ==K==: altars  | **<big>[[H4196|מִזְבְּחוֹתָים]]</big> ** | miz.be.cho.taim<small><sup>[[HNcfpc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>מִזְבְּחוֹתָ֑ים</big></span>**
+[^1]: altars  | **<big>[[H4196|מִזְבְּחוֹתָים]]</big> ** | miz.be.cho.taim<small><sup>[[HNcfpc]]</sup></small> | K
+[^2]: altars  | **<big>[[H4196|מִזְבְּחוֹתָים]]</big> ** | miz.be.cho.taim<small><sup>[[HNcfpc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>מִזְבְּחוֹתָ֑ים</big></span>**
 

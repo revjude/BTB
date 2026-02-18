@@ -17,6 +17,6 @@ For whoever finds me finds life and obtains the favor of the LORD.
 | from Yahweh  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.34|<< Proverbs 8:34]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.36|Proverbs 8:36 >>]]</td></tr></table>
 
-[^1]: ==K==: [are] finders of  | **<big>[[H4672|מֹצְאֵי]]</big> ** | mo.tze.'ei<small><sup>[[HVqrmsc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>מָצָ֣אי</big></span>**
+[^1]: [are] finders of  | **<big>[[H4672|מֹצְאֵי]]</big> ** | mo.tze.'ei<small><sup>[[HVqrmsc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>מָצָ֣אי</big></span>**
 

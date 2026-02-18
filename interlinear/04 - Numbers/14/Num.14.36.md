@@ -31,7 +31,7 @@ So the men Moses had sent to spy out the land, who had returned and made the who
 | the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.35|<< Numbers 14:35]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.37|Numbers 14:37 >>]]</td></tr></table>
 
-[^1]: ==K==: and they grumbled  | **<big>[[H3885B|יִּלּוֹנוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yi.lo.nu<small><sup>[[HVNw3mp]]</sup></small> 
-[^2]: ==K==: and they grumbled  | **<big>[[H3885B|יִּלּוֹנוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yi.lo.nu<small><sup>[[HVNw3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וַיַּלִּ֤ונוּ</big></span>**
+[^1]: and they grumbled  | **<big>[[H3885B|יִּלּוֹנוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yi.lo.nu<small><sup>[[HVNw3mp]]</sup></small> | K
+[^2]: and they grumbled  | **<big>[[H3885B|יִּלּוֹנוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yi.lo.nu<small><sup>[[HVNw3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וַיַּלִּ֤ונוּ</big></span>**
 

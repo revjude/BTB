@@ -33,7 +33,7 @@ Jonathan, however, had not heard that his father had bound the people with the o
 | eyes his  |**<big>&#8207;[[H5869A\|עֵינָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'ei.Na<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.26|<< 1 Samuel 14:26]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.28|1 Samuel 14:28 >>]]</td></tr></table>
 
-[^1]: ==K==: and they saw  | **<big>[[H7200G|תָּרֹאנָה]]</big><big>[[H9001|וַ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> ta.ro.nah<small><sup>[[HVqw2fp]]</sup></small> 
-[^2]: ==K==: and they saw  | **<big>[[H7200G|תָּרֹאנָה]]</big><big>[[H9001|וַ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> ta.ro.nah<small><sup>[[HVqw2fp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וַתָּרֹ֖אְנָה</big></span>**
+[^1]: and they saw  | **<big>[[H7200G|תָּרֹאנָה]]</big><big>[[H9001|וַ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> ta.ro.nah<small><sup>[[HVqw2fp]]</sup></small> | K
+[^2]: and they saw  | **<big>[[H7200G|תָּרֹאנָה]]</big><big>[[H9001|וַ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> ta.ro.nah<small><sup>[[HVqw2fp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וַתָּרֹ֖אְנָה</big></span>**
 

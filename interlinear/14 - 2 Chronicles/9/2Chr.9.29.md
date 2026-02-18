@@ -33,6 +33,6 @@ As for the rest of the acts of Solomon, from beginning to end, are they not writ
 | Nebat  |**<big>&#8207;[[H5028\|נְבָֽט]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ne.Vat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.28|<< 2 Chronicles 9:28]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.30|2 Chronicles 9:30 >>]]</td></tr></table>
 
-[^1]: ==K==: Iddi  | **<big>[[H3260|יֶעְדִּי]]</big> ** | ye'.di<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יֶעְדֹּ֣י</big></span>**
+[^1]: Iddi  | **<big>[[H3260|יֶעְדִּי]]</big> ** | ye'.di<small><sup>[[HNpm]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יֶעְדֹּ֣י</big></span>**
 

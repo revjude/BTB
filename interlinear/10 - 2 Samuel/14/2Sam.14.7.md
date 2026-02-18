@@ -43,6 +43,6 @@ Now the whole clan has risen up against your maidservant and said, ‘Hand over 
 | the ground  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0127I\|אֲדָמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.da.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.6|<< 2 Samuel 14:6]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.8|2 Samuel 14:8 >>]]</td></tr></table>
 
-[^1]: ==K==: to establish  | **<big>[[H9014|־]]</big><big>[[H7760H|שׂוּם]]</big> ** | som-<small><sup>[[HVqcc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>שִׂום\־</big></span>**
+[^1]: to establish  | **<big>[[H9014|־]]</big><big>[[H7760H|שׂוּם]]</big> ** | som-<small><sup>[[HVqcc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>שִׂום\־</big></span>**
 

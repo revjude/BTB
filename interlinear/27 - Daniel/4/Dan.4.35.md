@@ -30,8 +30,8 @@ All the peoples of the earth are counted as nothing, and He does as He pleases w
 | have you done  |**<big>&#8207;[[H5648\|עֲבַֽדְתְּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Vadt<small><sup>[[AVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.34|<< Daniel 4:34]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.36|Daniel 4:36 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>דָּאְרֵ֤י</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>דָּאֲרֵי</big></span>**
-[^3]: ==L== spelled: **<span class="asaramaic"><big>וְדָאְרֵ֖י</big></span>**
-[^4]: ==K== spelled: **<span class="asaramaic"><big>וְדָאֲרֵי</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>דָּאְרֵ֤י</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>דָּאֲרֵי</big></span>**
+[^3]: L spelled: **<span class="asaramaic"><big>וְדָאְרֵ֖י</big></span>**
+[^4]: K spelled: **<span class="asaramaic"><big>וְדָאֲרֵי</big></span>**
 

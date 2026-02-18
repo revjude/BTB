@@ -26,7 +26,7 @@ For the Midianites came with their livestock and their tents like a great swarm 
 | to destroy it  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7843\|שַׁחֲתָֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> sha.cha.Ta<small><sup>[[HVpcc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.4|<< Judges 6:4]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.6|Judges 6:6 >>]]</td></tr></table>
 
-[^1]: ==K==: they came  | **<big>[[H0935G|יָבֹאוּ]]</big> ** | ya.vo.'u<small><sup>[[HVqi3mp]]</sup></small> 
-[^2]: ==K==: they came  | **<big>[[H0935G|יָבֹאוּ]]</big> ** | ya.vo.'u<small><sup>[[HVqi3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>יּבָ֤אוּ</big></span>**
+[^1]: they came  | **<big>[[H0935G|יָבֹאוּ]]</big> ** | ya.vo.'u<small><sup>[[HVqi3mp]]</sup></small> | K
+[^2]: they came  | **<big>[[H0935G|יָבֹאוּ]]</big> ** | ya.vo.'u<small><sup>[[HVqi3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>יּבָ֤אוּ</big></span>**
 

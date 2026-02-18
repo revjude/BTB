@@ -20,6 +20,6 @@ These men were appointed from the congregation; they were the leaders of the tri
 | they  |**<big>&#8207;[[H1992\|הֵֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.15|<< Numbers 1:15]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.17|Numbers 1:17 >>]]</td></tr></table>
 
-[^1]: ==K==: [were the people] called  | **<big>[[H7148|קְרִיאֵי]]</big> ** | ke.ri.'ei<small><sup>[[HTn]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>קְריּאֵ֣י</big></span>**
+[^1]: [were the people] called  | **<big>[[H7148|קְרִיאֵי]]</big> ** | ke.ri.'ei<small><sup>[[HTn]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>קְריּאֵ֣י</big></span>**
 

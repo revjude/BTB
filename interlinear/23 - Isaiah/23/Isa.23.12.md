@@ -27,6 +27,6 @@ He said, “You shall rejoice no more, O oppressed Virgin Daughter of Sidon. Get
 | to \<the> you  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| La<small><sup>[[HRd]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.23.11|<< Isaiah 23:11]]</td><td align="center" style="border:none;">[[Isa.23|Isaiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.23.13|Isaiah 23:13 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>כִּתִּיים֙</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>כִּתִּיִּים</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>כִּתִּיים֙</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>כִּתִּיִּים</big></span>**
 

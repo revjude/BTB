@@ -27,6 +27,6 @@ So Joseph’s master took him and had him thrown into the prison where the king�
 | the prison  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5470\|סֹּֽהַר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> So.har<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.19|<< Genesis 39:19]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.21|Genesis 39:21 >>]]</td></tr></table>
 
-[^1]: ==K==: [those] imprisoned of  | **<big>[[H0631|אֲסוּרֵי]]</big> ** | 'a.su.rei<small><sup>[[HVqsmpc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אֲסִורֵ֥י</big></span>**
+[^1]: [those] imprisoned of  | **<big>[[H0631|אֲסוּרֵי]]</big> ** | 'a.su.rei<small><sup>[[HVqsmpc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אֲסִורֵ֥י</big></span>**
 

@@ -24,8 +24,8 @@ the Avvites made Nibhaz and Tartak, and the Sepharvites burned their children in
 | Sepharvaim  [^3]|**<big>&#8207;[[H5617\|סְפַרְוָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^4] | se.fa.rim<small><sup>[[HNpl]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.30|<< 2 Kings 17:30]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.32|2 Kings 17:32 >>]]</td></tr></table>
 
-[^1]: ==K==: [the] god of  | **<big>[[H0433|אֱלֹהַּ]]</big> ** | 'e.lo.ah<small><sup>[[HNcmsc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אֱלֹהֵ֥</big></span>**
-[^3]: ==K==: Sepharim  | **<big>[[H9016|׃]]</big><big>[[H5617|סְפָרִים]]</big> ** | se.fa.rim<small><sup>[[HNpl]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>סְפַרְיִָֽם\׃</big></span>**
+[^1]: [the] god of  | **<big>[[H0433|אֱלֹהַּ]]</big> ** | 'e.lo.ah<small><sup>[[HNcmsc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אֱלֹהֵ֥</big></span>**
+[^3]: Sepharim  | **<big>[[H9016|׃]]</big><big>[[H5617|סְפָרִים]]</big> ** | se.fa.rim<small><sup>[[HNpl]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>סְפַרְיִָֽם\׃</big></span>**
 

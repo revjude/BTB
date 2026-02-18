@@ -25,6 +25,6 @@ As a well gushes its water, so she pours out her evil. Violence and destruction 
 | and wound[s]  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4347\|מַכָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.6|<< Jeremiah 6:6]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.8|Jeremiah 6:8 >>]]</td></tr></table>
 
-[^1]: ==K==: a cistern  | **<big>[[H0953A|בְּוֵר]]</big> ** | be.ver<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>בַּ֙וִר֙</big></span>**
+[^1]: a cistern  | **<big>[[H0953A|בְּוֵר]]</big> ** | be.ver<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>בַּ֙וִר֙</big></span>**
 

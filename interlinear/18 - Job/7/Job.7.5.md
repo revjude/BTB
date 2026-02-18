@@ -18,7 +18,7 @@ My flesh is clothed with worms and encrusted with dirt; my skin is cracked and f
 | and it has run  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3988B\|יִּמָּאֵֽס]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ma.'Es<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.7.4|<< Job 7:4]]</td><td align="center" style="border:none;">[[Job.7|Job 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.7.6|Job 7:6 >>]]</td></tr></table>
 
-[^1]: ==K==: and clod[s] of  | **<big>[[H1487|גִישׁ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> gish<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==K==: and clod[s] of  | **<big>[[H1487|גִישׁ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> gish<small><sup>[[HNcbsc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְג֣יּשׁ</big></span>**
+[^1]: and clod[s] of  | **<big>[[H1487|גִישׁ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> gish<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: and clod[s] of  | **<big>[[H1487|גִישׁ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> gish<small><sup>[[HNcbsc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְג֣יּשׁ</big></span>**
 

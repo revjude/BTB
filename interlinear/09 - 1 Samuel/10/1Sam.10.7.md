@@ -24,6 +24,6 @@ When these signs have come, do as the occasion demands, for God is with you.
 | [is] with you  |**<big>&#8207;[[H5973A\|עִמָּֽ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'i.Ma<small><sup>[[HRd]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.10.6|<< 1 Samuel 10:6]]</td><td align="center" style="border:none;">[[1Sam.10|1 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.10.8|1 Samuel 10:8 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>תָבֹ֛אינָה</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>תְבֹאֶינָה</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>תָבֹ֛אינָה</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>תְבֹאֶינָה</big></span>**
 

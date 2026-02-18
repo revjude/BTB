@@ -28,5 +28,5 @@ At that time the LORD said to me, “Chisel out two stone tablets like the origi
 | wood  |**<big>&#8207;[[H6086G\|עֵֽץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'Etz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.29|<< Deuteronomy 9:29]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10.2|Deuteronomy 10:2 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>לוּחֹ֤ת</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>לוּחֹ֤ת</big></span>**
 

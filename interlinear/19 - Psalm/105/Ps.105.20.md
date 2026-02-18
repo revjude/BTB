@@ -16,5 +16,5 @@ The king sent and released him; the ruler of peoples set him free.
 | and he set free him  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H6605A\|יְפַתְּחֵֽ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> y.fa.te.Che.<small><sup>[[HVpw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.19|<< Psalms 105:19]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.21|Psalms 105:21 >>]]</td></tr></table>
 
-[^1]: ==BH== spelled: **<span class="ashebrew"><big>וַיַתִּירֵ֑/הוּ</big></span>**
+[^1]: BH spelled: **<span class="ashebrew"><big>וַיַתִּירֵ֑/הוּ</big></span>**
 

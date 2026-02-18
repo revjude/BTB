@@ -26,7 +26,7 @@ For when I brought your fathers out of the land of Egypt, I did not merely comma
 | and sacrifice  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H2077\|זָֽבַח]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Za.vach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.21|<< Jeremiah 7:21]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.23|Jeremiah 7:23 >>]]</td></tr></table>
 
-[^1]: ==K==: brought out  | **<big>[[H3318H|הוֹצִיא]]</big> ** | ho.tzi'<small><sup>[[HVhp3ms]]</sup></small> 
-[^2]: ==K==: brought out  | **<big>[[H3318H|הוֹצִיא]]</big> ** | ho.tzi'<small><sup>[[HVhp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הוֹצִיאִ֥</big></span>**
+[^1]: brought out  | **<big>[[H3318H|הוֹצִיא]]</big> ** | ho.tzi'<small><sup>[[HVhp3ms]]</sup></small> | K
+[^2]: brought out  | **<big>[[H3318H|הוֹצִיא]]</big> ** | ho.tzi'<small><sup>[[HVhp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הוֹצִיאִ֥</big></span>**
 

@@ -26,5 +26,5 @@ He caused their chariot wheels to wobble, so that they had difficulty driving. �
 | against Egypt  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4714G\|מִצְרָֽיִם]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**[^1] | be.<small><sup>[[HR]]</sup></small> mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad Biblia (benchayim allepo)">LB(ha)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14.24|<< Exodus 14:24]]</td><td align="center" style="border:none;">[[Exod.14|Exodus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14.26|Exodus 14:26 >>]]</td></tr></table>
 
-[^1]: ==HA== spelled: **<span class="ashebrew"><big>בְּמִצְרָֽיִם\׃\ \פ</big></span>**
+[^1]: HA spelled: **<span class="ashebrew"><big>בְּמִצְרָֽיִם\׃\ \פ</big></span>**
 

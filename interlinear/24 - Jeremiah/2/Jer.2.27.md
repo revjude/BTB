@@ -28,7 +28,7 @@ say to a tree, ‘You are my father,’ and to a stone, ‘You gave me birth.’
 | and save us  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3467\|הוֹשִׁיעֵֽ]]&#8207;&#8207;[[H9035\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ho.shi.'E.<small><sup>[[HVhv2ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.26|<< Jeremiah 2:26]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.28|Jeremiah 2:28 >>]]</td></tr></table>
 
-[^1]: ==K==: you gave birth to me  | **<big>[[H9030|נִי]]</big><big>[[H3205|יְלִדְתִּ]]</big> ** | ye.lid.ti.<small><sup>[[HVqp2fs]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> 
-[^2]: ==K==: you gave birth to me  | **<big>[[H9030|נִי]]</big><big>[[H3205|יְלִדְתִּ]]</big> ** | ye.lid.ti.<small><sup>[[HVqp2fs]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>יְלִדְתָּ֔ניּ</big></span>**
+[^1]: you gave birth to me  | **<big>[[H9030|נִי]]</big><big>[[H3205|יְלִדְתִּ]]</big> ** | ye.lid.ti.<small><sup>[[HVqp2fs]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | K
+[^2]: you gave birth to me  | **<big>[[H9030|נִי]]</big><big>[[H3205|יְלִדְתִּ]]</big> ** | ye.lid.ti.<small><sup>[[HVqp2fs]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>יְלִדְתָּ֔ניּ</big></span>**
 

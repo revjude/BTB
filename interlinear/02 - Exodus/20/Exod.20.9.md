@@ -16,9 +16,9 @@ Six days you shall labor and do all your work,
 | work your  |**<big>&#8207;[[H4399\|מְלַאכְתֶּֽ]]&#8207;&#8207;[[H9021\|ךָ֒]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^5] | me.lakh.te.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.8|<< Exodus 20:8]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20.10|Exodus 20:10 >>]]</td></tr></table>
 
-[^1]: ==P== spelled: **<span class="ashebrew"><big>שֵׁ֣שֶׁת</big></span>**
-[^2]: ==P== spelled: **<span class="ashebrew"><big>יָמִ֣ים</big></span>**
-[^3]: ==P== spelled: **<span class="ashebrew"><big>תַּֽעֲבֹד֮</big></span>**
-[^4]: ==P== spelled: **<span class="ashebrew"><big>וְעָשִׂ֣יתָ</big></span>**
-[^5]: ==P== spelled: **<span class="ashebrew"><big>מְלַאכְתֶּךָ֒\׃</big></span>**
+[^1]: P spelled: **<span class="ashebrew"><big>שֵׁ֣שֶׁת</big></span>**
+[^2]: P spelled: **<span class="ashebrew"><big>יָמִ֣ים</big></span>**
+[^3]: P spelled: **<span class="ashebrew"><big>תַּֽעֲבֹד֮</big></span>**
+[^4]: P spelled: **<span class="ashebrew"><big>וְעָשִׂ֣יתָ</big></span>**
+[^5]: P spelled: **<span class="ashebrew"><big>מְלַאכְתֶּךָ֒\׃</big></span>**
 

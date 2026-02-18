@@ -28,8 +28,8 @@ Wherever the sons of men or beasts of the field or birds of the air dwell, He ha
 | \<the> gold  |**<big>&#8207;[[H1722\|דַהֲבָֽ]]&#8207;&#8207;[[H9010\|א]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| da.ha.Va<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.37|<< Daniel 2:37]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.39|Daniel 2:39 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>דָֽאְרִ֣ין</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>דָאֲרִין</big></span>**
-[^3]: ==K==: you  | **<big>[[H9014|־]]</big><big>[[H0607|אַנְתָּה]]</big> ** | 'an.tah-<small><sup>[[APp2ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="asaramaic"><big>אַנְתְּה\־</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>דָֽאְרִ֣ין</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>דָאֲרִין</big></span>**
+[^3]: you  | **<big>[[H9014|־]]</big><big>[[H0607|אַנְתָּה]]</big> ** | 'an.tah-<small><sup>[[APp2ms]]</sup></small> | K
+[^4]: L spelled: **<span class="asaramaic"><big>אַנְתְּה\־</big></span>**
 

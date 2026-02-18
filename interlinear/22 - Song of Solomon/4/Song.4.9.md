@@ -19,7 +19,7 @@ You have captured my heart, my sister, my bride; you have stolen my heart with o
 | from necklaces your  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6677B\|צַּוְּרֹנָֽיִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> tza.ve.ro.Na.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.4.8|<< Song of Solomon 4:8]]</td><td align="center" style="border:none;">[[Song.4|Song of Solomon 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.4.10|Song of Solomon 4:10 >>]]</td></tr></table>
 
-[^1]: ==K==: with one  | **<big>[[H0259|אַחַד]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'a.chad<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==K==: with one  | **<big>[[H0259|אַחַד]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'a.chad<small><sup>[[HNcbsc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בְּאַחַ֣ד</big></span>**
+[^1]: with one  | **<big>[[H0259|אַחַד]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'a.chad<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: with one  | **<big>[[H0259|אַחַד]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'a.chad<small><sup>[[HNcbsc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בְּאַחַ֣ד</big></span>**
 

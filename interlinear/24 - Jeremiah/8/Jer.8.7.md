@@ -28,7 +28,7 @@ Even the stork in the sky knows her appointed seasons. The turtledove, the swift
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.6|<< Jeremiah 8:6]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.8|Jeremiah 8:8 >>]]</td></tr></table>
 
-[^1]: ==K==: and a swallow  | **<big>[[H5483A|סוּס]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> sus<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==K==: and a swallow  | **<big>[[H5483A|סוּס]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> sus<small><sup>[[HNcbsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְסִוס֙</big></span>**
+[^1]: and a swallow  | **<big>[[H5483A|סוּס]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> sus<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: and a swallow  | **<big>[[H5483A|סוּס]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> sus<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְסִוס֙</big></span>**
 

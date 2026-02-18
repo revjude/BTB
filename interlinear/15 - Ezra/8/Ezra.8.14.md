@@ -17,7 +17,7 @@ and from the descendants of Bigvai, both Uthai and Zaccur, and with them 70 men.
 | the males  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2145\|זְּכָרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ze.kha.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.13|<< Ezra 8:13]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.15|Ezra 8:15 >>]]</td></tr></table>
 
-[^1]: ==K==: and Zabud  | **<big>[[H2072|זָבוּד]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> za.vud<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==K==: and Zabud  | **<big>[[H2072|זָבוּד]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> za.vud<small><sup>[[HNpm]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְזַבּ֑וּד</big></span>**
+[^1]: and Zabud  | **<big>[[H2072|זָבוּד]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> za.vud<small><sup>[[HNpm]]</sup></small> | K
+[^2]: and Zabud  | **<big>[[H2072|זָבוּד]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> za.vud<small><sup>[[HNpm]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְזַבּ֑וּד</big></span>**
 

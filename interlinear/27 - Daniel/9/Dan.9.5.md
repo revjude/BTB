@@ -17,6 +17,6 @@ we have sinned and done wrong. We have acted wickedly and rebelled. We have turn
 | and from judgments your  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4941G\|מִּשְׁפָּטֶֽי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> mish.pa.Tei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.4|<< Daniel 9:4]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.6|Daniel 9:6 >>]]</td></tr></table>
 
-[^1]: ==K==: and we have acted wickedly  | **<big>[[H7561|הִרְשַׁעְנוּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> hir.sha'.nu<small><sup>[[HVhp1cp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>והִרְשַׁ֣עְנוּ</big></span>**
+[^1]: and we have acted wickedly  | **<big>[[H7561|הִרְשַׁעְנוּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> hir.sha'.nu<small><sup>[[HVhp1cp]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>והִרְשַׁ֣עְנוּ</big></span>**
 

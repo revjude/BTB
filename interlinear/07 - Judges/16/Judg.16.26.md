@@ -27,8 +27,8 @@ Samson said to the servant who held his hand, “Lead me where I can feel the pi
 | on them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.25|<< Judges 16:25]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.27|Judges 16:27 >>]]</td></tr></table>
 
-[^1]: ==K==: and let touch me  | **<big>[[H9030|נִי]]</big><big>[[H3237|הֵימִשֵׁ]]</big><big>[[H9002|וְ]]</big> ** | va.<small><sup>[[HC]]</sup></small> hei.mi.she.<small><sup>[[HVhv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> 
-[^2]: ==K==: and let touch me  | **<big>[[H9030|נִי]]</big><big>[[H3237|הֵימִשֵׁ]]</big><big>[[H9002|וְ]]</big> ** | va.<small><sup>[[HC]]</sup></small> hei.mi.she.<small><sup>[[HVhv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> 
-[^3]: ==K==: and let touch me  | **<big>[[H9030|נִי]]</big><big>[[H3237|הֵימִשֵׁ]]</big><big>[[H9002|וְ]]</big> ** | va.<small><sup>[[HC]]</sup></small> hei.mi.she.<small><sup>[[HVhv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וַהֲימִשֵׁ֙/נִי֙</big></span>**
+[^1]: and let touch me  | **<big>[[H9030|נִי]]</big><big>[[H3237|הֵימִשֵׁ]]</big><big>[[H9002|וְ]]</big> ** | va.<small><sup>[[HC]]</sup></small> hei.mi.she.<small><sup>[[HVhv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | K
+[^2]: and let touch me  | **<big>[[H9030|נִי]]</big><big>[[H3237|הֵימִשֵׁ]]</big><big>[[H9002|וְ]]</big> ** | va.<small><sup>[[HC]]</sup></small> hei.mi.she.<small><sup>[[HVhv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | K
+[^3]: and let touch me  | **<big>[[H9030|נִי]]</big><big>[[H3237|הֵימִשֵׁ]]</big><big>[[H9002|וְ]]</big> ** | va.<small><sup>[[HC]]</sup></small> hei.mi.she.<small><sup>[[HVhv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וַהֲימִשֵׁ֙/נִי֙</big></span>**
 

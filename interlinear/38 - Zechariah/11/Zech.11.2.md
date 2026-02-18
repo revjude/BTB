@@ -25,7 +25,7 @@ Wail, O cypress, for the cedar has fallen; the majestic trees are ruined! Wail, 
 | of the vintage  [^2]|**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1210\|בָּצִֽיר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | ha.<small><sup>[[HTd]]</sup></small> ba.tzur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.11.1|<< Zechariah 11:1]]</td><td align="center" style="border:none;">[[Zech.11|Zechariah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.11.3|Zechariah 11:3 >>]]</td></tr></table>
 
-[^1]: ==K==: \<the> older  | **<big>[[H9016|׃]]</big><big>[[H1208|בָּצוּר]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ba.tzur<small><sup>[[HAamsa]]</sup></small> 
-[^2]: ==K==: \<the> older  | **<big>[[H9016|׃]]</big><big>[[H1208|בָּצוּר]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ba.tzur<small><sup>[[HAamsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הַבָּצִֽור\׃</big></span>**
+[^1]: \<the> older  | **<big>[[H9016|׃]]</big><big>[[H1208|בָּצוּר]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ba.tzur<small><sup>[[HAamsa]]</sup></small> | K
+[^2]: \<the> older  | **<big>[[H9016|׃]]</big><big>[[H1208|בָּצוּר]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ba.tzur<small><sup>[[HAamsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הַבָּצִֽור\׃</big></span>**
 

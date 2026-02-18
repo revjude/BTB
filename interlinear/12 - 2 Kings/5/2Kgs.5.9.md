@@ -18,8 +18,8 @@ So Naaman came with his horses and chariots and stood at the door of Elisha’s 
 | of Elisha  |**<big>&#8207;[[H9005\|לֶ]]&#8207;&#8207;[[H0477\|אֱלִישָֽׁע]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'e.li.Sha'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.8|<< 2 Kings 5:8]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.10|2 Kings 5:10 >>]]</td></tr></table>
 
-[^1]: ==K==: with horse his  | **<big>[[H9023|וֹ]]</big><big>[[H5483M|סוּס]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> su.so<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: with horse his  | **<big>[[H9023|וֹ]]</big><big>[[H5483M|סוּס]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> su.so<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: with horse his  | **<big>[[H9023|וֹ]]</big><big>[[H5483M|סוּס]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> su.so<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>בְּסוּסָ֣/ו</big></span>**
+[^1]: with horse his  | **<big>[[H9023|וֹ]]</big><big>[[H5483M|סוּס]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> su.so<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: with horse his  | **<big>[[H9023|וֹ]]</big><big>[[H5483M|סוּס]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> su.so<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: with horse his  | **<big>[[H9023|וֹ]]</big><big>[[H5483M|סוּס]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> su.so<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>בְּסוּסָ֣/ו</big></span>**
 

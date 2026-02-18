@@ -35,6 +35,6 @@ And you, Ezra, according to the wisdom of your God, which you possess, are to ap
 | you will instruct  |**<big>&#8207;[[H3046\|תְּהוֹדְעֽוּן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| te.hod.'Un<small><sup>[[AVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.24|<< Ezra 7:24]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.26|Ezra 7:26 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>דָּאְנִין֙</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>דָּאֲנִין</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>דָּאְנִין֙</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>דָּאֲנִין</big></span>**
 

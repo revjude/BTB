@@ -28,6 +28,6 @@ Set thee up waymarks, make thee high heaps: set thine heart toward the highway, 
 | these  |**<big>&#8207;[[H0428\|אֵֽלֶּה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.20|<< Jeremiah 31:20]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.22|Jeremiah 31:22 >>]]</td></tr></table>
 
-[^1]: ==K==: [which] I went  | **<big>[[H1980G|הָלָכְתִּי]]</big> ** | ha.la.khe.ti<small><sup>[[HVqp1cs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>הָלָ֑כְתְּי</big></span>**
+[^1]: [which] I went  | **<big>[[H1980G|הָלָכְתִּי]]</big> ** | ha.la.khe.ti<small><sup>[[HVqp1cs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>הָלָ֑כְתְּי</big></span>**
 

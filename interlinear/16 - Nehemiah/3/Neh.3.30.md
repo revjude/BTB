@@ -28,7 +28,7 @@ Next to him, Hananiah son of Shelemiah, as well as Hanun the sixth son of Zalaph
 | room his  |**<big>&#8207;[[H5393\|נִשְׁכָּתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| nish.ka.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.29|<< Nehemiah 3:29]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.31|Nehemiah 3:31 >>]]</td></tr></table>
 
-[^1]: ==K==: after me  | **<big>[[H9030|י]]</big><big>[[H0310A|אַחֲרַ]]</big> ** | 'a.cha.re<small><sup>[[HAcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> 
-[^2]: ==K==: after me  | **<big>[[H9030|י]]</big><big>[[H0310A|אַחֲרַ]]</big> ** | 'a.cha.re<small><sup>[[HAcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>אַחֲרָ֨י</big></span>**
+[^1]: after me  | **<big>[[H9030|י]]</big><big>[[H0310A|אַחֲרַ]]</big> ** | 'a.cha.re<small><sup>[[HAcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^2]: after me  | **<big>[[H9030|י]]</big><big>[[H0310A|אַחֲרַ]]</big> ** | 'a.cha.re<small><sup>[[HAcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>אַחֲרָ֨י</big></span>**
 

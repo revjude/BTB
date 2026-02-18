@@ -18,5 +18,5 @@ Folly is joy to one who lacks judgment, but a man of understanding walks a strai
 | to walk  |**<big>&#8207;[[H1980I\|לָֽכֶת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| La.khet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.20|<< Proverbs 15:20]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.22|Proverbs 15:22 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>יְיַשֶּׁר\־</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>יְיַשֶּׁר\־</big></span>**
 

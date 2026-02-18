@@ -30,7 +30,7 @@ So they said to the messengers who had come, “Tell the men of Jabesh-gilead: �
 | and they were glad  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8055\|יִּשְׂמָֽחוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yis.Ma.chu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.11.8|<< 1 Samuel 11:8]]</td><td align="center" style="border:none;">[[1Sam.11|1 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.11.10|1 Samuel 11:10 >>]]</td></tr></table>
 
-[^1]: ==K==: at [the] heat of  | **<big>[[H2527|חֹם]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> chom<small><sup>[[HVqcc]]</sup></small> 
-[^2]: ==K==: at [the] heat of  | **<big>[[H2527|חֹם]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> chom<small><sup>[[HVqcc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בְּחֹ֣ם</big></span>**
+[^1]: at [the] heat of  | **<big>[[H2527|חֹם]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> chom<small><sup>[[HVqcc]]</sup></small> | K
+[^2]: at [the] heat of  | **<big>[[H2527|חֹם]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> chom<small><sup>[[HVqcc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בְּחֹ֣ם</big></span>**
 

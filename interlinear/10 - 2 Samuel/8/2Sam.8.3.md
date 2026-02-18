@@ -22,9 +22,9 @@ David also defeated Hadadezer son of Rehob, king of Zobah, who had marched out t
 | at [the] river - Euphrates  [^4]|**<big>&#8207;[[H9003\|בִּֽ]]&#8207;&#8207;[[H5104G\|נְהַר]]&#8207;&#8207;[[H9014\|־]]&#8207;&#8207;[[H6578\|פְּרָֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^5] | bi<small><sup>[[HR]]</sup></small> n.har<small><sup>[[HNcmsc]]</sup></small> - pe.Rat<small><sup>[[HNpl]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.8.2|<< 2 Samuel 8:2]]</td><td align="center" style="border:none;">[[2Sam.8|2 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.8.4|2 Samuel 8:4 >>]]</td></tr></table>
 
-[^1]: ==K==: at [the] river  | **<big>[[H9016|׃]]</big><big>[[H5104G|נְהַר]]</big><big>[[H9003|בִּֽ]]</big> ** | bi<small><sup>[[HR]]</sup></small> n.har-<small><sup>[[HNpl]]</sup></small> 
-[^2]: ==K==: at [the] river  | **<big>[[H9016|׃]]</big><big>[[H5104G|נְהַר]]</big><big>[[H9003|בִּֽ]]</big> ** | bi<small><sup>[[HR]]</sup></small> n.har-<small><sup>[[HNpl]]</sup></small> 
-[^3]: ==K==: at [the] river  | **<big>[[H9016|׃]]</big><big>[[H5104G|נְהַר]]</big><big>[[H9003|בִּֽ]]</big> ** | bi<small><sup>[[HR]]</sup></small> n.har-<small><sup>[[HNpl]]</sup></small> 
-[^4]: ==K==: at [the] river  | **<big>[[H9016|׃]]</big><big>[[H5104G|נְהַר]]</big><big>[[H9003|בִּֽ]]</big> ** | bi<small><sup>[[HR]]</sup></small> n.har-<small><sup>[[HNpl]]</sup></small> 
-[^5]: ==L== spelled: **<span class="ashebrew"><big>בִּֽנְהַר\־\׃</big></span>**
+[^1]: at [the] river  | **<big>[[H9016|׃]]</big><big>[[H5104G|נְהַר]]</big><big>[[H9003|בִּֽ]]</big> ** | bi<small><sup>[[HR]]</sup></small> n.har-<small><sup>[[HNpl]]</sup></small> | K
+[^2]: at [the] river  | **<big>[[H9016|׃]]</big><big>[[H5104G|נְהַר]]</big><big>[[H9003|בִּֽ]]</big> ** | bi<small><sup>[[HR]]</sup></small> n.har-<small><sup>[[HNpl]]</sup></small> | K
+[^3]: at [the] river  | **<big>[[H9016|׃]]</big><big>[[H5104G|נְהַר]]</big><big>[[H9003|בִּֽ]]</big> ** | bi<small><sup>[[HR]]</sup></small> n.har-<small><sup>[[HNpl]]</sup></small> | K
+[^4]: at [the] river  | **<big>[[H9016|׃]]</big><big>[[H5104G|נְהַר]]</big><big>[[H9003|בִּֽ]]</big> ** | bi<small><sup>[[HR]]</sup></small> n.har-<small><sup>[[HNpl]]</sup></small> | K
+[^5]: L spelled: **<span class="ashebrew"><big>בִּֽנְהַר\־\׃</big></span>**
 

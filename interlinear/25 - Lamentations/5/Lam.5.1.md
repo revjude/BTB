@@ -19,7 +19,7 @@ Remember, O LORD, what has happened to us. Look and see our disgrace!
 | reproach our  |**<big>&#8207;[[H2781\|חֶרְפָּתֵֽ]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| cher.pa.Te.<small><sup>[[HNcfsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.22|<< Lamentations 4:22]]</td><td align="center" style="border:none;">[[Lam.5|Lamentations 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.5.2|Lamentations 5:2 >>]]</td></tr></table>
 
-[^1]: ==K==: look  | **<big>[[H5027|הַבֵּיט]]</big> ** | ha.beit<small><sup>[[HVhv2ms]]</sup></small> 
-[^2]: ==K==: look  | **<big>[[H5027|הַבֵּיט]]</big> ** | ha.beit<small><sup>[[HVhv2ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הַבִּ֖יטָ</big></span>**
+[^1]: look  | **<big>[[H5027|הַבֵּיט]]</big> ** | ha.beit<small><sup>[[HVhv2ms]]</sup></small> | K
+[^2]: look  | **<big>[[H5027|הַבֵּיט]]</big> ** | ha.beit<small><sup>[[HVhv2ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הַבִּ֖יטָ</big></span>**
 

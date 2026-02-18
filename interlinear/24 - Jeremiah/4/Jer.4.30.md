@@ -32,7 +32,7 @@ And you, O devastated one, what will you do, though you dress yourself in scarle
 | they seek  |**<big>&#8207;[[H1245\|יְבַקֵּֽשׁוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.va.Ke.shu<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.29|<< Jeremiah 4:29]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.31|Jeremiah 4:31 >>]]</td></tr></table>
 
-[^1]: ==K==: and you  | **<big>[[H0859B|אַתִּי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'a.ti<small><sup>[[HPp2fs]]</sup></small> 
-[^2]: ==K==: and you  | **<big>[[H0859B|אַתִּי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'a.ti<small><sup>[[HPp2fs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְאַ֨תְּי</big></span>**
+[^1]: and you  | **<big>[[H0859B|אַתִּי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'a.ti<small><sup>[[HPp2fs]]</sup></small> | K
+[^2]: and you  | **<big>[[H0859B|אַתִּי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'a.ti<small><sup>[[HPp2fs]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְאַ֨תְּי</big></span>**
 

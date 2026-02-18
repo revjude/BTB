@@ -20,7 +20,7 @@ when your dread comes like a storm, and your destruction like a whirlwind, when 
 | and distress  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6695B\|צוּקָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tzu.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.26|<< Proverbs 1:26]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.28|Proverbs 1:28 >>]]</td></tr></table>
 
-[^1]: ==K==: like a devastating storm  | **<big>[[H7584|שַׁאֲוָה]]</big><big>[[H9004|כְ]]</big> ** | khe.<small><sup>[[HR]]</sup></small> sha.'a.vah<small><sup>[[HNcfsa]]</sup></small> 
-[^2]: ==K==: like a devastating storm  | **<big>[[H7584|שַׁאֲוָה]]</big><big>[[H9004|כְ]]</big> ** | khe.<small><sup>[[HR]]</sup></small> sha.'a.vah<small><sup>[[HNcfsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>כְשֹׁאָ֨וה\׀</big></span>**
+[^1]: like a devastating storm  | **<big>[[H7584|שַׁאֲוָה]]</big><big>[[H9004|כְ]]</big> ** | khe.<small><sup>[[HR]]</sup></small> sha.'a.vah<small><sup>[[HNcfsa]]</sup></small> | K
+[^2]: like a devastating storm  | **<big>[[H7584|שַׁאֲוָה]]</big><big>[[H9004|כְ]]</big> ** | khe.<small><sup>[[HR]]</sup></small> sha.'a.vah<small><sup>[[HNcfsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>כְשֹׁאָ֨וה\׀</big></span>**
 

@@ -18,7 +18,7 @@ and Darius the Mede received the kingdom at the age of sixty-two.
 | and two  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8648\|תַרְתֵּֽין]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> tar.Tein<small><sup>[[AAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.30|<< Daniel 5:30]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.1|Daniel 6:1 >>]]</td></tr></table>
 
-[^1]: ==K==: Mede the  | **<big>[[H9010|א]]</big><big>[[H4076G|מָֽדָיָ֔]]</big> ** | ma.da.ya<small><sup>[[ANgbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> 
-[^2]: ==K==: Mede the  | **<big>[[H9010|א]]</big><big>[[H4076G|מָֽדָיָ֔]]</big> ** | ma.da.ya<small><sup>[[ANgbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="asaramaic"><big>מָֽדָיאָ֔</big></span>**
+[^1]: Mede the  | **<big>[[H9010|א]]</big><big>[[H4076G|מָֽדָיָ֔]]</big> ** | ma.da.ya<small><sup>[[ANgbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | K
+[^2]: Mede the  | **<big>[[H9010|א]]</big><big>[[H4076G|מָֽדָיָ֔]]</big> ** | ma.da.ya<small><sup>[[ANgbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | K
+[^3]: L spelled: **<span class="asaramaic"><big>מָֽדָיאָ֔</big></span>**
 

@@ -29,7 +29,7 @@ I came to the exiles at Tel-abib who dwelt by the River Kebar. And for seven day
 | in midst of them  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8432\|תוֹכָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> to.Kha<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.14|<< Ezekiel 3:14]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.16|Ezekiel 3:16 >>]]</td></tr></table>
 
-[^1]: ==K==: and where  | **<big>[[H0834A|אֲשֶׁר]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> 
-[^2]: ==K==: and where  | **<big>[[H0834A|אֲשֶׁר]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וָֽאֵשֵׁ֔ר</big></span>**
+[^1]: and where  | **<big>[[H0834A|אֲשֶׁר]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | K
+[^2]: and where  | **<big>[[H0834A|אֲשֶׁר]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וָֽאֵשֵׁ֔ר</big></span>**
 

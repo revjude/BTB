@@ -36,5 +36,5 @@ But Amasa wallowed in his blood in the middle of the road, and when the man saw 
 | and he stopped  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5975G\|עָמָֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Mad<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.11|<< 2 Samuel 20:11]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.13|2 Samuel 20:13 >>]]</td></tr></table>
 
-[^1]: ==BH== spelled: **<span class="ashebrew"><big>הַֽמְּסִלָּ֑ה</big></span>**
+[^1]: BH spelled: **<span class="ashebrew"><big>הַֽמְּסִלָּ֑ה</big></span>**
 

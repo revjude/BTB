@@ -17,6 +17,6 @@ There are three things too wonderful for me, four that I cannot understand:
 | I know them  |**<big>&#8207;[[H3045\|יְדַעְתִּֽי]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.da'.Ti<small><sup>[[HVqp1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.17|<< Proverbs 30:17]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.19|Proverbs 30:19 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וְ֝אַרְבָּעָ֗</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וְאַרְבָּע</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וְ֝אַרְבָּעָ֗</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וְאַרְבָּע</big></span>**
 

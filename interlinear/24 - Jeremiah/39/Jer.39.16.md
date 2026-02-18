@@ -36,6 +36,6 @@ Go and speak to Ebedmelech the Ethiopian, saying, Thus saith the LORD of hosts, 
 | \<the> that  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.39.15|<< Jeremiah 39:15]]</td><td align="center" style="border:none;">[[Jer.39|Jeremiah 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.39.17|Jeremiah 39:17 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>מֵבִ֨י</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>מֵבִי</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>מֵבִ֨י</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>מֵבִי</big></span>**
 

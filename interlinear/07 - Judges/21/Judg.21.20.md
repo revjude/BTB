@@ -18,7 +18,7 @@ So they commanded the Benjamites: “Go, hide in the vineyards
 | in the vineyards  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3754\|כְּרָמִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> ke.ra.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.19|<< Judges 21:19]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.21|Judges 21:21 >>]]</td></tr></table>
 
-[^1]: ==K==: and he commanded  | **<big>[[H6680|יְצַו]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> y.tzav<small><sup>[[HVpw3ms]]</sup></small> 
-[^2]: ==K==: and he commanded  | **<big>[[H6680|יְצַו]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> y.tzav<small><sup>[[HVpw3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וַיְצַוֻּ֕</big></span>**
+[^1]: and he commanded  | **<big>[[H6680|יְצַו]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> y.tzav<small><sup>[[HVpw3ms]]</sup></small> | K
+[^2]: and he commanded  | **<big>[[H6680|יְצַו]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> y.tzav<small><sup>[[HVpw3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וַיְצַוֻּ֕</big></span>**
 

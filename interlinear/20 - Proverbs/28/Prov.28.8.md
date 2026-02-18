@@ -17,7 +17,7 @@ He who increases his wealth by interest and usury lays it up for one who is kind
 | he gathers it  |**<big>&#8207;[[H6908\|יִקְבְּצֶֽ]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yik.be.Tze.<small><sup>[[HVqi3ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.7|<< Proverbs 28:7]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.9|Proverbs 28:9 >>]]</td></tr></table>
 
-[^1]: ==K==: and by usury  | **<big>[[H8636|תַרְבִּית]]</big><big>[[H9003|בְ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> tar.bit<small><sup>[[HNcfsa]]</sup></small> 
-[^2]: ==K==: and by usury  | **<big>[[H8636|תַרְבִּית]]</big><big>[[H9003|בְ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> tar.bit<small><sup>[[HNcfsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְב/תַרְבִּ֑ית</big></span>**
+[^1]: and by usury  | **<big>[[H8636|תַרְבִּית]]</big><big>[[H9003|בְ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> tar.bit<small><sup>[[HNcfsa]]</sup></small> | K
+[^2]: and by usury  | **<big>[[H8636|תַרְבִּית]]</big><big>[[H9003|בְ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> tar.bit<small><sup>[[HNcfsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְב/תַרְבִּ֑ית</big></span>**
 

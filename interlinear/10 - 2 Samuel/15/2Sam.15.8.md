@@ -27,6 +27,6 @@ For your servant made a vow while dwelling in Geshur of Aram, saying: ‘If inde
 | in Hebron  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2275A\|חֶבְרוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> chev.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Based on Greek sources">X</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.7|<< 2 Samuel 15:7]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.9|2 Samuel 15:9 >>]]</td></tr></table>
 
-[^1]: ==K==: he will bring back  | **<big>[[H7725H|יָשִׁיב]]</big> ** | ye.shiv<small><sup>[[HVhi3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יָשֹׁ֨יב</big></span>**
+[^1]: he will bring back  | **<big>[[H7725H|יָשִׁיב]]</big> ** | ye.shiv<small><sup>[[HVhi3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יָשֹׁ֨יב</big></span>**
 

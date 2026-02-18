@@ -33,6 +33,6 @@ He carried into exile all Jerusalem—all the commanders and mighty men of valor
 | the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.24.13|<< 2 Kings 24:13]]</td><td align="center" style="border:none;">[[2Kgs.24|2 Kings 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.24.15|2 Kings 24:15 >>]]</td></tr></table>
 
-[^1]: ==K==: ten  | **<big>[[H6235|עֲשָׂרָה]]</big> ** | a.sa.rah<small><sup>[[HNcfsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>עֲשֶׂ֤רֶה</big></span>**
+[^1]: ten  | **<big>[[H6235|עֲשָׂרָה]]</big> ** | a.sa.rah<small><sup>[[HNcfsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>עֲשֶׂ֤רֶה</big></span>**
 

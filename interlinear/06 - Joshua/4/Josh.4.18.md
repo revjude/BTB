@@ -35,7 +35,7 @@ When the priests carrying the ark of the covenant of the LORD came up out of the
 | banks its  |**<big>&#8207;[[H1415\|גְּדוֹתָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ge.do.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.17|<< Joshua 4:17]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4.19|Joshua 4:19 >>]]</td></tr></table>
 
-[^1]: ==K==: when came up  | **<big>[[H5927G|עֲלוֹת]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HR]]</sup></small> 'a.lot<small><sup>[[HVqcc]]</sup></small> 
-[^2]: ==K==: when came up  | **<big>[[H5927G|עֲלוֹת]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HR]]</sup></small> 'a.lot<small><sup>[[HVqcc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בַּעֲל֨וֹת</big></span>**
+[^1]: when came up  | **<big>[[H5927G|עֲלוֹת]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HR]]</sup></small> 'a.lot<small><sup>[[HVqcc]]</sup></small> | K
+[^2]: when came up  | **<big>[[H5927G|עֲלוֹת]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HR]]</sup></small> 'a.lot<small><sup>[[HVqcc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בַּעֲל֨וֹת</big></span>**
 

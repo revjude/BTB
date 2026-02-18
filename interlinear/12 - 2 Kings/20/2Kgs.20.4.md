@@ -21,6 +21,6 @@ Before Isaiah had left the middle courtyard, the word of the LORD came to him, s
 | \<to> saying  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0559\|אמֹֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.20.3|<< 2 Kings 20:3]]</td><td align="center" style="border:none;">[[2Kgs.20|2 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.20.5|2 Kings 20:5 >>]]</td></tr></table>
 
-[^1]: ==K==: the city  | **<big>[[H5892B|עִיר]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'ir<small><sup>[[HNcfsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>הָעֵ֖יר</big></span>**
+[^1]: the city  | **<big>[[H5892B|עִיר]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'ir<small><sup>[[HNcfsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>הָעֵ֖יר</big></span>**
 

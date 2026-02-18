@@ -22,6 +22,6 @@ Yes, it is true that I am a kinsman-redeemer, but there is a redeemer nearer tha
 | more than I  |**<big>&#8207;[[H4480A\|מִמֶּֽ]]&#8207;&#8207;[[H9030\|נִּי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.Me.<small><sup>[[HRd]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.3.11|<< Ruth 3:11]]</td><td align="center" style="border:none;">[[Ruth.3|Ruth 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.3.13|Ruth 3:13 >>]]</td></tr></table>
 
-[^1]: ==K==: if  | **<big>[[H0518B|אִם]]</big> ** | 'im<small><sup>[[HTc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אם</big></span>**
+[^1]: if  | **<big>[[H0518B|אִם]]</big> ** | 'im<small><sup>[[HTc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אם</big></span>**
 

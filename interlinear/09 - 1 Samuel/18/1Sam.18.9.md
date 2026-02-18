@@ -18,6 +18,6 @@ And from that day forward Saul kept a jealous eye on David.
 | and onwards  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H1973\|הָֽלְאָה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Hal.'ah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.18.8|<< 1 Samuel 18:8]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.10|1 Samuel 18:10 >>]]</td></tr></table>
 
-[^1]: ==K==: iniquity  | **<big>[[H5771H|עֲוֹן]]</big> ** | a.von<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>עוֵֹ֣ן</big></span>**
+[^1]: iniquity  | **<big>[[H5771H|עֲוֹן]]</big> ** | a.von<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>עוֵֹ֣ן</big></span>**
 

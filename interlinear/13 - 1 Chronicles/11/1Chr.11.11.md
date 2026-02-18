@@ -30,7 +30,7 @@ This is the list of David’s mighty men: Jashobeam son of Hachmoni was chief of
 | one  |**<big>&#8207;[[H0259\|אֶחָֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.Chat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.10|<< 1 Chronicles 11:10]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.12|1 Chronicles 11:12 >>]]</td></tr></table>
 
-[^1]: ==K==: the thirty  | **<big>[[H7970|שְּׁלוֹשִׁים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> she.lo.shim<small><sup>[[HNcmpa]]</sup></small> 
-[^2]: ==K==: the thirty  | **<big>[[H7970|שְּׁלוֹשִׁים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> she.lo.shim<small><sup>[[HNcmpa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הַשָּׁ֣לִושִׁ֔ים</big></span>**
+[^1]: the thirty  | **<big>[[H7970|שְּׁלוֹשִׁים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> she.lo.shim<small><sup>[[HNcmpa]]</sup></small> | K
+[^2]: the thirty  | **<big>[[H7970|שְּׁלוֹשִׁים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> she.lo.shim<small><sup>[[HNcmpa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הַשָּׁ֣לִושִׁ֔ים</big></span>**
 

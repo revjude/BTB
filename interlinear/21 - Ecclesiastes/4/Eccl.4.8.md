@@ -41,7 +41,7 @@ There is a man all alone, without even a son or brother. And though there is no 
 | it  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.4.7|<< Ecclesiastes 4:7]]</td><td align="center" style="border:none;">[[Eccl.4|Ecclesiastes 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.4.9|Ecclesiastes 4:9 >>]]</td></tr></table>
 
-[^1]: ==K==: eyes his  | **<big>[[H9023|ו]]</big><big>[[H5869A|עֵינָי]]</big> ** | ei.na<small><sup>[[HNcbdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: eyes his  | **<big>[[H9023|ו]]</big><big>[[H5869A|עֵינָי]]</big> ** | ei.na<small><sup>[[HNcbdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>עֵינ֖יוֹ</big></span>**
+[^1]: eyes his  | **<big>[[H9023|ו]]</big><big>[[H5869A|עֵינָי]]</big> ** | ei.na<small><sup>[[HNcbdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: eyes his  | **<big>[[H9023|ו]]</big><big>[[H5869A|עֵינָי]]</big> ** | ei.na<small><sup>[[HNcbdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>עֵינ֖יוֹ</big></span>**
 

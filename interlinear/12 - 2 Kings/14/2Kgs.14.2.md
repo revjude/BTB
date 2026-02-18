@@ -26,6 +26,6 @@ He was twenty-five years old when he became king, and he reigned in Jerusalem tw
 | Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14.1|<< 2 Kings 14:1]]</td><td align="center" style="border:none;">[[2Kgs.14|2 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14.3|2 Kings 14:3 >>]]</td></tr></table>
 
-[^1]: ==K==: [was] Jehoaddin  | **<big>[[H3086|יְהוֹעַדִּין]]</big> ** | ye.ho.'a.din<small><sup>[[HNpf]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יְהֽוֹעַדָּ֖ין</big></span>**
+[^1]: [was] Jehoaddin  | **<big>[[H3086|יְהוֹעַדִּין]]</big> ** | ye.ho.'a.din<small><sup>[[HNpf]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יְהֽוֹעַדָּ֖ין</big></span>**
 

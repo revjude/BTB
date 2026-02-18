@@ -27,7 +27,7 @@ Guard your steps when you go to the house of God. Draw near to listen rather tha
 | evil  |**<big>&#8207;[[H7451H\|רָֽע]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.4.16|<< Ecclesiastes 4:16]]</td><td align="center" style="border:none;">[[Eccl.5|Ecclesiastes 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5.2|Ecclesiastes 5:2 >>]]</td></tr></table>
 
-[^1]: ==K==: feet your  | **<big>[[H9021|ךָ]]</big><big>[[H7272|רַגְלֶי]]</big> ** | rag.lei.<small><sup>[[HNcbdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^2]: ==K==: feet your  | **<big>[[H9021|ךָ]]</big><big>[[H7272|רַגְלֶי]]</big> ** | rag.lei.<small><sup>[[HNcbdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>רַגְלְיךָ֗</big></span>**
+[^1]: feet your  | **<big>[[H9021|ךָ]]</big><big>[[H7272|רַגְלֶי]]</big> ** | rag.lei.<small><sup>[[HNcbdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: feet your  | **<big>[[H9021|ךָ]]</big><big>[[H7272|רַגְלֶי]]</big> ** | rag.lei.<small><sup>[[HNcbdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>רַגְלְיךָ֗</big></span>**
 

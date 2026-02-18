@@ -18,9 +18,9 @@ So I went down to the potter’s house and saw him working at the wheel.
 | the stones  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0070\|אָבְנָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.ve.Na.yim<small><sup>[[HNcmda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.2|<< Jeremiah 18:2]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.4|Jeremiah 18:4 >>]]</td></tr></table>
 
-[^1]: ==K==: and there! he  | **<big>[[H9043|הוּ]]</big><big>[[H2009|הִנֵּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> hi.ne.<small><sup>[[HTj]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: and there! he  | **<big>[[H9043|הוּ]]</big><big>[[H2009|הִנֵּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> hi.ne.<small><sup>[[HTj]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: and there! he  | **<big>[[H9043|הוּ]]</big><big>[[H2009|הִנֵּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> hi.ne.<small><sup>[[HTj]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==K==: and there! he  | **<big>[[H9043|הוּ]]</big><big>[[H2009|הִנֵּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> hi.ne.<small><sup>[[HTj]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> 
-[^5]: ==L== spelled: **<span class="ashebrew"><big>וְהִנֵּ/ה֛וּ</big></span>**
+[^1]: and there! he  | **<big>[[H9043|הוּ]]</big><big>[[H2009|הִנֵּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> hi.ne.<small><sup>[[HTj]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: and there! he  | **<big>[[H9043|הוּ]]</big><big>[[H2009|הִנֵּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> hi.ne.<small><sup>[[HTj]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: and there! he  | **<big>[[H9043|הוּ]]</big><big>[[H2009|הִנֵּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> hi.ne.<small><sup>[[HTj]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: and there! he  | **<big>[[H9043|הוּ]]</big><big>[[H2009|הִנֵּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> hi.ne.<small><sup>[[HTj]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | K
+[^5]: L spelled: **<span class="ashebrew"><big>וְהִנֵּ/ה֛וּ</big></span>**
 

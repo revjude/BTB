@@ -32,6 +32,6 @@ At this, Nebuchadnezzar was filled with rage, and the expression on his face cha
 | to heat it  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0228\|מֵזְיֵֽ]]&#8207;&#8207;[[H9033\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[AR]]</sup></small> me.ze.Ye<small><sup>[[AVqcc]]</sup></small> h<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.18|<< Daniel 3:18]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.20|Daniel 3:20 >>]]</td></tr></table>
 
-[^1]: ==K==: they were changed  | **<big>[[H8133|אֶשְׁתַּנּוּ]]</big> ** | 'esh.ta.nu<small><sup>[[AVPp3mp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="asaramaic"><big>אֶשְׁתַּנִּ֔ו</big></span>**
+[^1]: they were changed  | **<big>[[H8133|אֶשְׁתַּנּוּ]]</big> ** | 'esh.ta.nu<small><sup>[[AVPp3mp]]</sup></small> | K
+[^2]: L spelled: **<span class="asaramaic"><big>אֶשְׁתַּנִּ֔ו</big></span>**
 

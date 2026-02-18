@@ -36,6 +36,6 @@ And Jehoiada the priest ordered the commanders of hundreds in charge of the army
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.11.14|<< 2 Kings 11:14]]</td><td align="center" style="border:none;">[[2Kgs.11|2 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11.16|2 Kings 11:16 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>הַמֵּיא֣וֹת\׀</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>הַמֵּיאוֹת</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>הַמֵּיא֣וֹת\׀</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>הַמֵּיאוֹת</big></span>**
 

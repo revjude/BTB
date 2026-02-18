@@ -18,7 +18,7 @@ And they answered, Thy servant our father [is] in good health, he [is] yet alive
 | and they bowed down  [^2]|**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7812\|יִּֽשְׁתַּחֲוּֽוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | va<small><sup>[[Hc]]</sup></small> i.yish.ta.chu<small><sup>[[HVvw3mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.27|<< Genesis 43:27]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.29|Genesis 43:29 >>]]</td></tr></table>
 
-[^1]: ==K==: and he bowed down  | **<big>[[H9016|׃]]</big><big>[[H7812|יִּשְׁתַּחוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yish.ta.chu<small><sup>[[HVvw3ms]]</sup></small> 
-[^2]: ==K==: and he bowed down  | **<big>[[H9016|׃]]</big><big>[[H7812|יִּשְׁתַּחוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yish.ta.chu<small><sup>[[HVvw3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וַיִּֽשְׁתַּחֲוֻּֽ\׃</big></span>**
+[^1]: and he bowed down  | **<big>[[H9016|׃]]</big><big>[[H7812|יִּשְׁתַּחוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yish.ta.chu<small><sup>[[HVvw3ms]]</sup></small> | K
+[^2]: and he bowed down  | **<big>[[H9016|׃]]</big><big>[[H7812|יִּשְׁתַּחוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yish.ta.chu<small><sup>[[HVvw3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וַיִּֽשְׁתַּחֲוֻּֽ\׃</big></span>**
 

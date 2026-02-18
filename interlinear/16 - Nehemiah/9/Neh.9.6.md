@@ -38,6 +38,6 @@ You alone are the LORD. You created the heavens, the highest heavens with all th
 | [are] bowing down  |**<big>&#8207;[[H7812\|מִשְׁתַּחֲוִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mish.ta.cha.Vim<small><sup>[[HVtrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.5|<< Nehemiah 9:5]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.7|Nehemiah 9:7 >>]]</td></tr></table>
 
-[^1]: ==K==: you  | **<big>[[H0859C|אַתְּ]]</big> ** | 'at<small><sup>[[HPp2fs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אַתָּ֣</big></span>**
+[^1]: you  | **<big>[[H0859C|אַתְּ]]</big> ** | 'at<small><sup>[[HPp2fs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אַתָּ֣</big></span>**
 

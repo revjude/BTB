@@ -34,6 +34,6 @@ Then Ebed-melech took the men with him and went to the king’s palace, to a pla
 | with ropes  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2256M\|חֲבָלִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> cha.va.Lim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.10|<< Jeremiah 38:10]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.12|Jeremiah 38:12 >>]]</td></tr></table>
 
-[^1]: ==K==: the clothes  | **<big>[[H5499|סְּחָבוֹת]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> se.cha.Vot<small><sup>[[HNcfpa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>הסְחָב֔וֹת</big></span>**
+[^1]: the clothes  | **<big>[[H5499|סְּחָבוֹת]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> se.cha.Vot<small><sup>[[HNcfpa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>הסְחָב֔וֹת</big></span>**
 

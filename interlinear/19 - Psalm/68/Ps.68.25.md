@@ -17,5 +17,5 @@ The singers lead the way, the musicians follow after, among the maidens playing 
 | playing tambourines  |**<big>&#8207;[[H8608\|תּוֹפֵפֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| to.fe.Fot<small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.24|<< Psalms 68:24]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.26|Psalms 68:26 >>]]</td></tr></table>
 
-[^1]: ==S==: and [were] behind  | **<big>[[H0310A|אַחַ֣ר]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'a.Char<small><sup>[[HAcmsa]]</sup></small> 
+[^1]: and [were] behind  | **<big>[[H0310A|אַחַ֣ר]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'a.Char<small><sup>[[HAcmsa]]</sup></small> | S
 

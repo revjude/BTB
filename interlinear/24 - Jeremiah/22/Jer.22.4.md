@@ -32,8 +32,8 @@ For if you will indeed carry out these commands, then kings who sit on David’s
 | and people his  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5971A\|עַמּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.3|<< Jeremiah 22:3]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.5|Jeremiah 22:5 >>]]</td></tr></table>
 
-[^1]: ==K==: and servant his  | **<big>[[H9023|וֹ]]</big><big>[[H5650|עַבְדּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'av.da<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: and servant his  | **<big>[[H9023|וֹ]]</big><big>[[H5650|עַבְדּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'av.da<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: and servant his  | **<big>[[H9023|וֹ]]</big><big>[[H5650|עַבְדּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'av.da<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וַעֲבָדָ֖/ו</big></span>**
+[^1]: and servant his  | **<big>[[H9023|וֹ]]</big><big>[[H5650|עַבְדּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'av.da<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: and servant his  | **<big>[[H9023|וֹ]]</big><big>[[H5650|עַבְדּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'av.da<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: and servant his  | **<big>[[H9023|וֹ]]</big><big>[[H5650|עַבְדּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'av.da<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וַעֲבָדָ֖/ו</big></span>**
 

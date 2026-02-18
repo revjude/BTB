@@ -23,5 +23,5 @@ Then Laban declared, “This mound is a witness between you and me this day.” 
 | Galeed  |**<big>&#8207;[[H1567\|גַּלְעֵֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| gal.'Ed<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.47|<< Genesis 31:47]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.49|Genesis 31:49 >>]]</td></tr></table>
 
-[^1]: ==BH== spelled: **<span class="ashebrew"><big>קָרָא\־</big></span>**
+[^1]: BH spelled: **<span class="ashebrew"><big>קָרָא\־</big></span>**
 

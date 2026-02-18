@@ -37,8 +37,8 @@ Because you did not remember the days of your youth, but enraged Me with all the
 | abominations your  |**<big>&#8207;[[H8441\|תּוֹעֲבֹתָֽיִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| to.'a.vo.Ta.yi<small><sup>[[HNcfpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.42|<< Ezekiel 16:42]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.44|Ezekiel 16:44 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>זָכַרְתּיְ֙</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>זָכַרְתִּי</big></span>**
-[^3]: ==L== spelled: **<span class="ashebrew"><big>עָשִׂית֙י</big></span>**
-[^4]: ==K== spelled: **<span class="ashebrew"><big>עָשִׂיתִי</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>זָכַרְתּיְ֙</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>זָכַרְתִּי</big></span>**
+[^3]: L spelled: **<span class="ashebrew"><big>עָשִׂית֙י</big></span>**
+[^4]: K spelled: **<span class="ashebrew"><big>עָשִׂיתִי</big></span>**
 

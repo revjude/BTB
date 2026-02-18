@@ -23,7 +23,7 @@ And Saul waited seven days for the time appointed by Samuel, but Samuel did not 
 | from with \<the> him  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5921A\|עָלָֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.7|<< 1 Samuel 13:7]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.9|1 Samuel 13:9 >>]]</td></tr></table>
 
-[^1]: ==K==: and he waited  | **<big>[[H3176G|יִּיחֶל]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yi.chel<small><sup>[[HVNw3ms]]</sup></small> 
-[^2]: ==K==: and he waited  | **<big>[[H3176G|יִּיחֶל]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yi.chel<small><sup>[[HVNw3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וַיֹּ֣יחֶל\׀</big></span>**
+[^1]: and he waited  | **<big>[[H3176G|יִּיחֶל]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yi.chel<small><sup>[[HVNw3ms]]</sup></small> | K
+[^2]: and he waited  | **<big>[[H3176G|יִּיחֶל]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yi.chel<small><sup>[[HVNw3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וַיֹּ֣יחֶל\׀</big></span>**
 

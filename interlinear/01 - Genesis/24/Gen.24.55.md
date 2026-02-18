@@ -21,5 +21,5 @@ But her brother and mother said, “Let the girl remain with us ten days or so. 
 | she will go  |**<big>&#8207;[[H1980G\|תֵּלֵֽךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| te.Lekh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.54|<< Genesis 24:54]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.56|Genesis 24:56 >>]]</td></tr></table>
 
-[^1]: ==S==: and after  | **<big>[[H0310A|אַחַ֖ר]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'a.Char<small><sup>[[HAcmsa]]</sup></small> 
+[^1]: and after  | **<big>[[H0310A|אַחַ֖ר]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'a.Char<small><sup>[[HAcmsa]]</sup></small> | S
 

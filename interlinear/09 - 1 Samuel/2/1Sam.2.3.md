@@ -25,8 +25,8 @@ Do not boast so proudly, or let arrogance come from your mouth, for the LORD is 
 | deeds  |**<big>&#8207;[[H5949\|עֲלִלֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| a.li.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.2|<< 1 Samuel 2:2]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.4|1 Samuel 2:4 >>]]</td></tr></table>
 
-[^1]: ==K==: and not  | **<big>[[H3808|לֹא]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> lo'<small><sup>[[HTn]]</sup></small> 
-[^2]: ==K==: and not  | **<big>[[H3808|לֹא]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> lo'<small><sup>[[HTn]]</sup></small> 
-[^3]: ==K==: and not  | **<big>[[H3808|לֹא]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> lo'<small><sup>[[HTn]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וְלֹ֥א</big></span>**
+[^1]: and not  | **<big>[[H3808|לֹא]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> lo'<small><sup>[[HTn]]</sup></small> | K
+[^2]: and not  | **<big>[[H3808|לֹא]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> lo'<small><sup>[[HTn]]</sup></small> | K
+[^3]: and not  | **<big>[[H3808|לֹא]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> lo'<small><sup>[[HTn]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וְלֹ֥א</big></span>**
 

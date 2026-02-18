@@ -34,6 +34,6 @@ So King Uzziah was a leper until the day of his death. He lived in isolation, le
 | the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.20|<< 2 Chronicles 26:20]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.22|2 Chronicles 26:22 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>הַֽחָפְשִׁות֙</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>הַחָפְשׁוּת</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>הַֽחָפְשִׁות֙</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>הַחָפְשׁוּת</big></span>**
 

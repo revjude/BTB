@@ -24,9 +24,9 @@ My people are lost sheep; their shepherds have led them astray, causing them to 
 | resting place their  |**<big>&#8207;[[H7258\|רִבְצָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| riv.Tza<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.5|<< Jeremiah 50:5]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.7|Jeremiah 50:7 >>]]</td></tr></table>
 
-[^1]: ==K==: it has become  | **<big>[[H1961|הָיָה]]</big> ** | ha.yah<small><sup>[[HVqp3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>הָיֻ֣ה</big></span>**
-[^3]: ==K==: backsliding  | **<big>[[H7726|שׁוֹבֵבִים]]</big> ** | shoe.vim<small><sup>[[HAampa]]</sup></small> 
-[^4]: ==K==: backsliding  | **<big>[[H7726|שׁוֹבֵבִים]]</big> ** | shoe.vim<small><sup>[[HAampa]]</sup></small> 
-[^5]: ==L== spelled: **<span class="ashebrew"><big>שֽׁוֹבְב֑יּם</big></span>**
+[^1]: it has become  | **<big>[[H1961|הָיָה]]</big> ** | ha.yah<small><sup>[[HVqp3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>הָיֻ֣ה</big></span>**
+[^3]: backsliding  | **<big>[[H7726|שׁוֹבֵבִים]]</big> ** | shoe.vim<small><sup>[[HAampa]]</sup></small> | K
+[^4]: backsliding  | **<big>[[H7726|שׁוֹבֵבִים]]</big> ** | shoe.vim<small><sup>[[HAampa]]</sup></small> | K
+[^5]: L spelled: **<span class="ashebrew"><big>שֽׁוֹבְב֑יּם</big></span>**
 

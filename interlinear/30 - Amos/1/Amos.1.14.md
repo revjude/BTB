@@ -22,5 +22,5 @@ So I will kindle a fire in the walls of Rabbah to consume its citadels amid war 
 | a storm-wind  |**<big>&#8207;[[H5492A\|סוּפָֽה]]&#8207; </big>**[^1] | su.Fah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.1.13|<< Amos 1:13]]</td><td align="center" style="border:none;">[[Amos.1|Amos 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.1.15|Amos 1:15 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>סוּפָֽה\׃</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>סוּפָֽה\׃</big></span>**
 

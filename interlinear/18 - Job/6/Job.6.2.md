@@ -18,8 +18,8 @@ Oh that my grief were throughly weighed, and my calamity laid in the balances to
 | together  |**<big>&#8207;[[H3162A\|יָֽחַד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ya.chad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.1|<< Job 6:1]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.3|Job 6:3 >>]]</td></tr></table>
 
-[^1]: ==K==: and destruction my  | **<big>[[H9020|י]]</big><big>[[H1962|הַיָּתִ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> hai.ya.t<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> 
-[^2]: ==K==: and destruction my  | **<big>[[H9020|י]]</big><big>[[H1962|הַיָּתִ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> hai.ya.t<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> 
-[^3]: ==K==: and destruction my  | **<big>[[H9020|י]]</big><big>[[H1962|הַיָּתִ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> hai.ya.t<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וְ֝הַיָּתִ֗/י</big></span>**
+[^1]: and destruction my  | **<big>[[H9020|י]]</big><big>[[H1962|הַיָּתִ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> hai.ya.t<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^2]: and destruction my  | **<big>[[H9020|י]]</big><big>[[H1962|הַיָּתִ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> hai.ya.t<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^3]: and destruction my  | **<big>[[H9020|י]]</big><big>[[H1962|הַיָּתִ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> hai.ya.t<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וְ֝הַיָּתִ֗/י</big></span>**
 

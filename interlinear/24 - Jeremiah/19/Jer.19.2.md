@@ -26,6 +26,6 @@ and go out to the Valley of Ben-hinnom near the entrance of the Potsherd Gate. P
 | to you  |**<big>&#8207;[[H0413\|אֵלֶֽי]]&#8207;&#8207;[[H9031\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.Lei.<small><sup>[[HRd]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.19.1|<< Jeremiah 19:1]]</td><td align="center" style="border:none;">[[Jer.19|Jeremiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.19.3|Jeremiah 19:3 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>הַֽחַרְסִ֑ות</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>הַחֲרָסוּת</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>הַֽחַרְסִ֑ות</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>הַחֲרָסוּת</big></span>**
 

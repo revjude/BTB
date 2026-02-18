@@ -24,5 +24,5 @@ O that you were to me like a brother who nursed at my mother’s breasts! If I f
 | \<to> me  |**<big>&#8207;[[H9005\|לִֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| L<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.7.13|<< Song of Solomon 7:13]]</td><td align="center" style="border:none;">[[Song.8|Song of Solomon 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.8.2|Song of Solomon 8:2 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>אֶשָּׁ֣קְךָ֔</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>אֶשָּׁ֣קְךָ֔</big></span>**
 

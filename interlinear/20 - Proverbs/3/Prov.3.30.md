@@ -19,6 +19,6 @@ Do not accuse a man without cause, when he has done you no harm.
 | evil  |**<big>&#8207;[[H7451C\|רָעָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ra.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.29|<< Proverbs 3:29]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.31|Proverbs 3:31 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>תָּרִ֣וב</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>תָּרוֹב</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>תָּרִ֣וב</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>תָּרוֹב</big></span>**
 

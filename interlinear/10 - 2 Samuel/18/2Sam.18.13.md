@@ -23,8 +23,8 @@ If I had jeopardized my own life—and nothing is hidden from the king—you wou
 | from in front  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H5048\|נֶּֽגֶד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ne.ged<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.12|<< 2 Samuel 18:12]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.14|2 Samuel 18:14 >>]]</td></tr></table>
 
-[^1]: ==K==: on life his  | **<big>[[H9023|וֹ]]</big><big>[[H5315H|נַפְשׁ]]</big><big>[[H9003|בְ]]</big> ** | ve.<small><sup>[[HR]]</sup></small> naf.sh<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: on life his  | **<big>[[H9023|וֹ]]</big><big>[[H5315H|נַפְשׁ]]</big><big>[[H9003|בְ]]</big> ** | ve.<small><sup>[[HR]]</sup></small> naf.sh<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: on life his  | **<big>[[H9023|וֹ]]</big><big>[[H5315H|נַפְשׁ]]</big><big>[[H9003|בְ]]</big> ** | ve.<small><sup>[[HR]]</sup></small> naf.sh<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>בְנַפְשִׁ/ו֙</big></span>**
+[^1]: on life his  | **<big>[[H9023|וֹ]]</big><big>[[H5315H|נַפְשׁ]]</big><big>[[H9003|בְ]]</big> ** | ve.<small><sup>[[HR]]</sup></small> naf.sh<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: on life his  | **<big>[[H9023|וֹ]]</big><big>[[H5315H|נַפְשׁ]]</big><big>[[H9003|בְ]]</big> ** | ve.<small><sup>[[HR]]</sup></small> naf.sh<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: on life his  | **<big>[[H9023|וֹ]]</big><big>[[H5315H|נַפְשׁ]]</big><big>[[H9003|בְ]]</big> ** | ve.<small><sup>[[HR]]</sup></small> naf.sh<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>בְנַפְשִׁ/ו֙</big></span>**
 

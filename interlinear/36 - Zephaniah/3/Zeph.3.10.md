@@ -18,5 +18,5 @@ From beyond the rivers of Cush My worshipers, My scattered people, will bring Me
 | offering my  |**<big>&#8207;[[H4503G\|מִנְחָתִֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| min.cha.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.9|<< Zephaniah 3:9]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.11|Zephaniah 3:11 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>פּוּצַ֔י</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>פּוּצַ֔י</big></span>**
 

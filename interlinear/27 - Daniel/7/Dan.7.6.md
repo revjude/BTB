@@ -34,7 +34,7 @@ Next, as I watched, suddenly another beast appeared. It was like a leopard, and 
 | to it  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| La<small><sup>[[AR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.5|<< Daniel 7:5]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.7|Daniel 7:7 >>]]</td></tr></table>
 
-[^1]: ==K==: sides its  | **<big>[[H9024|הּ]]</big><big>[[H1355|גַּבַּיַּ]]</big> ** | ga.bai.ya<small><sup>[[ANcbsc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> 
-[^2]: ==K==: sides its  | **<big>[[H9024|הּ]]</big><big>[[H1355|גַּבַּיַּ]]</big> ** | ga.bai.ya<small><sup>[[ANcbsc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="asaramaic"><big>גַּבַּ֑יהּ</big></span>**
+[^1]: sides its  | **<big>[[H9024|הּ]]</big><big>[[H1355|גַּבַּיַּ]]</big> ** | ga.bai.ya<small><sup>[[ANcbsc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | K
+[^2]: sides its  | **<big>[[H9024|הּ]]</big><big>[[H1355|גַּבַּיַּ]]</big> ** | ga.bai.ya<small><sup>[[ANcbsc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | K
+[^3]: L spelled: **<span class="asaramaic"><big>גַּבַּ֑יהּ</big></span>**
 

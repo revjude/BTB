@@ -24,6 +24,6 @@ And Jezebel’s body will lie like dung in the field on the plot of ground at Je
 | [is] Jezebel  |**<big>&#8207;[[H0348\|אִיזָֽבֶל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'i.Za.vel<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.36|<< 2 Kings 9:36]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.1|2 Kings 10:1 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וְֽהָיְתָ֞</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וְהָיָת</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וְֽהָיְתָ֞</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וְהָיָת</big></span>**
 

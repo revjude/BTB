@@ -24,6 +24,6 @@ So he changed his behavior before them and feigned madness in their hands; he sc
 | beard his  |**<big>&#8207;[[H2206\|זְקָנֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ze.ka.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.21.12|<< 1 Samuel 21:12]]</td><td align="center" style="border:none;">[[1Sam.21|1 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.21.14|1 Samuel 21:14 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וַיְתָו֙</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וַיְתַו</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וַיְתָו֙</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וַיְתַו</big></span>**
 

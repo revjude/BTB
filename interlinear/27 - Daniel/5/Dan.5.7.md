@@ -41,9 +41,9 @@ The king called out for the enchanters, astrologers, and diviners to be brought 
 | he will rule  |**<big>&#8207;[[H7981\|יִשְׁלַֽט]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yish.Lat<small><sup>[[AVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.6|<< Daniel 5:6]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.8|Daniel 5:8 >>]]</td></tr></table>
 
-[^1]: ==K==: Chaldeans the  | **<big>[[H9010|א]]</big><big>[[H3779|כַּשְׂדָּיֵ]]</big> ** | kas.di<small><sup>[[ANgmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> 
-[^2]: ==K==: Chaldeans the  | **<big>[[H9010|א]]</big><big>[[H3779|כַּשְׂדָּיֵ]]</big> ** | kas.di<small><sup>[[ANgmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>כַּשְׂדָּיאֵ֖</big></span>**
-[^4]: ==L== spelled: **<span class="asaramaic"><big>וְהַֽמְונִכָ֤/א</big></span>**
-[^5]: ==K== spelled: **<span class="asaramaic"><big>וְהַמּוֹנְכָ/א</big></span>**
+[^1]: Chaldeans the  | **<big>[[H9010|א]]</big><big>[[H3779|כַּשְׂדָּיֵ]]</big> ** | kas.di<small><sup>[[ANgmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | K
+[^2]: Chaldeans the  | **<big>[[H9010|א]]</big><big>[[H3779|כַּשְׂדָּיֵ]]</big> ** | kas.di<small><sup>[[ANgmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>כַּשְׂדָּיאֵ֖</big></span>**
+[^4]: L spelled: **<span class="asaramaic"><big>וְהַֽמְונִכָ֤/א</big></span>**
+[^5]: K spelled: **<span class="asaramaic"><big>וְהַמּוֹנְכָ/א</big></span>**
 

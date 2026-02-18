@@ -16,5 +16,5 @@ Be exalted, O LORD, in Your strength; we will sing and praise Your power.
 | might your  |**<big>&#8207;[[H1369\|גְּבוּרָתֶֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ge.vu.ra.Te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.21.12|<< Psalms 21:12]]</td><td align="center" style="border:none;">[[Ps.21|Psalms 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.22.0|Psalms 22:0 >>]]</td></tr></table>
 
-[^1]: ==BH== spelled: **<span class="ashebrew"><big>בְעֻזֶּ֑/ךָ</big></span>**
+[^1]: BH spelled: **<span class="ashebrew"><big>בְעֻזֶּ֑/ךָ</big></span>**
 

@@ -35,6 +35,6 @@ Look to the mountains—the feet of one who brings good news, who proclaims peac
 | it will be cut off  |**<big>&#8207;[[H3772I\|נִכְרָֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| nikh.Rat<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.1.14|<< Nahum 1:14]]</td><td align="center" style="border:none;">[[Nah.1|Nahum 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.2.1|Nahum 2:1 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>לַֽעֲבָור\־</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>לַעֲבוֹר</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>לַֽעֲבָור\־</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>לַעֲבוֹר</big></span>**
 

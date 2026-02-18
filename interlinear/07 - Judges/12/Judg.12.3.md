@@ -31,5 +31,5 @@ When I saw that you would not save me, I risked my life and crossed over to the 
 | against \<the> me  |**<big>&#8207;[[H9003\|בִּֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| B<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.12.2|<< Judges 12:2]]</td><td align="center" style="border:none;">[[Judg.12|Judges 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.12.4|Judges 12:4 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>מוֹשִׁ֗יעַ</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>מוֹשִׁ֗יעַ</big></span>**
 

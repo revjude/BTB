@@ -26,7 +26,7 @@ Then Samuel said unto Saul, Stay, and I will tell thee what the LORD hath said t
 | speak  |**<big>&#8207;[[H1696G\|דַּבֵּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| da.Ber<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.15|<< 1 Samuel 15:15]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.17|1 Samuel 15:17 >>]]</td></tr></table>
 
-[^1]: ==K==: and they said  | **<big>[[H0559|יֹּאמְרוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.me.ru<small><sup>[[HVqw3mp]]</sup></small> 
-[^2]: ==K==: and they said  | **<big>[[H0559|יֹּאמְרוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.me.ru<small><sup>[[HVqw3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וַיֹּ֥אמֶרו</big></span>**
+[^1]: and they said  | **<big>[[H0559|יֹּאמְרוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.me.ru<small><sup>[[HVqw3mp]]</sup></small> | K
+[^2]: and they said  | **<big>[[H0559|יֹּאמְרוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.me.ru<small><sup>[[HVqw3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וַיֹּ֥אמֶרו</big></span>**
 

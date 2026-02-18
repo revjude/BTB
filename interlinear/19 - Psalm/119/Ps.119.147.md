@@ -15,8 +15,8 @@ I rise before dawn and cry for help; in Your word I have put my hope.
 | I hope  |**<big>&#8207;[[H3176H\|יִחָֽלְתִּי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yi.Chal.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.146|<< Psalms 119:146]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.148|Psalms 119:148 >>]]</td></tr></table>
 
-[^1]: ==K==: for words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דְבָרֶי]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> d.va.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^2]: ==K==: for words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דְבָרֶי]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> d.va.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^3]: ==K==: for words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דְבָרֶי]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> d.va.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>לִדְבָרְי/ךָ֥</big></span>**
+[^1]: for words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דְבָרֶי]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> d.va.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: for words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דְבָרֶי]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> d.va.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^3]: for words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דְבָרֶי]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> d.va.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>לִדְבָרְי/ךָ֥</big></span>**
 

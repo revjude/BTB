@@ -21,8 +21,8 @@ The altar hearth shall be square at its four corners, twelve cubits long and twe
 | sides its  |**<big>&#8207;[[H7253\|רְבָעָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| re.va.'A<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.15|<< Ezekiel 43:15]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.17|Ezekiel 43:17 >>]]</td></tr></table>
 
-[^1]: ==K==: and the altar hearth  | **<big>[[H0741|אֲרִאֵיל]]</big><big>[[H9009|הָ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.ri.'eil<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==K==: and the altar hearth  | **<big>[[H0741|אֲרִאֵיל]]</big><big>[[H9009|הָ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.ri.'eil<small><sup>[[HNcbsa]]</sup></small> 
-[^3]: ==K==: and the altar hearth  | **<big>[[H0741|אֲרִאֵיל]]</big><big>[[H9009|הָ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.ri.'eil<small><sup>[[HNcbsa]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וְהָ/אֲרִאיֵ֗ל</big></span>**
+[^1]: and the altar hearth  | **<big>[[H0741|אֲרִאֵיל]]</big><big>[[H9009|הָ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.ri.'eil<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: and the altar hearth  | **<big>[[H0741|אֲרִאֵיל]]</big><big>[[H9009|הָ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.ri.'eil<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: and the altar hearth  | **<big>[[H0741|אֲרִאֵיל]]</big><big>[[H9009|הָ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.ri.'eil<small><sup>[[HNcbsa]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וְהָ/אֲרִאיֵ֗ל</big></span>**
 

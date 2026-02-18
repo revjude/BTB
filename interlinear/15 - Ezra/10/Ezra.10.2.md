@@ -32,6 +32,6 @@ Then Shecaniah son of Jehiel, an Elamite, said to Ezra: “We have been unfaithf
 | this  |**<big>&#8207;[[H2063\|זֹֽאת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.1|<< Ezra 10:1]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.3|Ezra 10:3 >>]]</td></tr></table>
 
-[^1]: ==K==: Olam  | **<big>[[H5867B|עוֹלָם]]</big> ** | o.lam<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>עֵולָם֙</big></span>**
+[^1]: Olam  | **<big>[[H5867B|עוֹלָם]]</big> ** | o.lam<small><sup>[[HNpm]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>עֵולָם֙</big></span>**
 

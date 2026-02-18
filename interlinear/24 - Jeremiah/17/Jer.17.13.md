@@ -26,8 +26,8 @@ O LORD, the hope of Israel, all who abandon You will be put to shame. All who tu
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.12|<< Jeremiah 17:12]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.14|Jeremiah 17:14 >>]]</td></tr></table>
 
-[^1]: ==K==: departers my  | **<big>[[H9020|י]]</big><big>[[H3249|יִסּוֹרַ]]</big> ** | yi.so.ra<small><sup>[[HAampc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> 
-[^2]: ==K==: departers my  | **<big>[[H9020|י]]</big><big>[[H3249|יִסּוֹרַ]]</big> ** | yi.so.ra<small><sup>[[HAampc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> 
-[^3]: ==K==: departers my  | **<big>[[H9020|י]]</big><big>[[H3249|יִסּוֹרַ]]</big> ** | yi.so.ra<small><sup>[[HAampc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>יְסוּרַי֙</big></span>**
+[^1]: departers my  | **<big>[[H9020|י]]</big><big>[[H3249|יִסּוֹרַ]]</big> ** | yi.so.ra<small><sup>[[HAampc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^2]: departers my  | **<big>[[H9020|י]]</big><big>[[H3249|יִסּוֹרַ]]</big> ** | yi.so.ra<small><sup>[[HAampc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^3]: departers my  | **<big>[[H9020|י]]</big><big>[[H3249|יִסּוֹרַ]]</big> ** | yi.so.ra<small><sup>[[HAampc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>יְסוּרַי֙</big></span>**
 

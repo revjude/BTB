@@ -20,7 +20,7 @@ Under their wings on their four sides they had human hands. All four living crea
 | [belonged] to [the] four of them  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0702\|אַרְבַּעְתָּֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'ar.ba'.Ta<small><sup>[[HAcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.7|<< Ezekiel 1:7]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.9|Ezekiel 1:9 >>]]</td></tr></table>
 
-[^1]: ==K==: and hands of its  | **<big>[[H9023|וֹ]]</big><big>[[H3027G|יָד]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: and hands of its  | **<big>[[H9023|וֹ]]</big><big>[[H3027G|יָד]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וִידֵ֣/ו</big></span>**
+[^1]: and hands of its  | **<big>[[H9023|וֹ]]</big><big>[[H3027G|יָד]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: and hands of its  | **<big>[[H9023|וֹ]]</big><big>[[H3027G|יָד]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וִידֵ֣/ו</big></span>**
 

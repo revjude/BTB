@@ -23,8 +23,8 @@ You should have kept your feet from going bare and your throat from being thirst
 | I will walk  |**<big>&#8207;[[H1980G\|אֵלֵֽךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.Lekh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.24|<< Jeremiah 2:24]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.26|Jeremiah 2:26 >>]]</td></tr></table>
 
-[^1]: ==K==: and threshing floor your  | **<big>[[H9022|ךְ]]</big><big>[[H1637|גוֹרְנֵ]]</big><big>[[H9002|וְ]]</big> ** | u.<small><sup>[[HC]]</sup></small> go.ro.ne<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> 
-[^2]: ==K==: and threshing floor your  | **<big>[[H9022|ךְ]]</big><big>[[H1637|גוֹרְנֵ]]</big><big>[[H9002|וְ]]</big> ** | u.<small><sup>[[HC]]</sup></small> go.ro.ne<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> 
-[^3]: ==K==: and threshing floor your  | **<big>[[H9022|ךְ]]</big><big>[[H1637|גוֹרְנֵ]]</big><big>[[H9002|וְ]]</big> ** | u.<small><sup>[[HC]]</sup></small> go.ro.ne<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וּגְורֹנֵ֖/ךְ</big></span>**
+[^1]: and threshing floor your  | **<big>[[H9022|ךְ]]</big><big>[[H1637|גוֹרְנֵ]]</big><big>[[H9002|וְ]]</big> ** | u.<small><sup>[[HC]]</sup></small> go.ro.ne<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
+[^2]: and threshing floor your  | **<big>[[H9022|ךְ]]</big><big>[[H1637|גוֹרְנֵ]]</big><big>[[H9002|וְ]]</big> ** | u.<small><sup>[[HC]]</sup></small> go.ro.ne<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
+[^3]: and threshing floor your  | **<big>[[H9022|ךְ]]</big><big>[[H1637|גוֹרְנֵ]]</big><big>[[H9002|וְ]]</big> ** | u.<small><sup>[[HC]]</sup></small> go.ro.ne<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וּגְורֹנֵ֖/ךְ</big></span>**
 

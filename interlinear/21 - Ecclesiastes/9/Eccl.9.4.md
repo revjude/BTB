@@ -27,6 +27,6 @@ There is hope, however, for anyone who is among the living; for even a live dog 
 | \<the> dead  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4191\|מֵּֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Met<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.3|<< Ecclesiastes 9:3]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.5|Ecclesiastes 9:5 >>]]</td></tr></table>
 
-[^1]: ==K==: he is chosen  | **<big>[[H0977|יִבָּחֵר]]</big> ** | yi.ba.cher<small><sup>[[HVPi3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יְבֻחַ֔ר</big></span>**
+[^1]: he is chosen  | **<big>[[H0977|יִבָּחֵר]]</big> ** | yi.ba.cher<small><sup>[[HVPi3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יְבֻחַ֔ר</big></span>**
 

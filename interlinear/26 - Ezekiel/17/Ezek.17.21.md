@@ -26,7 +26,7 @@ All his choice troops will fall by the sword, and those who survive will be scat
 | I have spoken  |**<big>&#8207;[[H1696G\|דִּבַּֽרְתִּי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| di.Bar.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.20|<< Ezekiel 17:20]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17.22|Ezekiel 17:22 >>]]</td></tr></table>
 
-[^1]: ==K==: fugitive his  | **<big>[[H9023|וֹ]]</big><big>[[H4015|מִבְרָח]]</big> ** | miv.ra.cho<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: fugitive his  | **<big>[[H9023|וֹ]]</big><big>[[H4015|מִבְרָח]]</big> ** | miv.ra.cho<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>מִבְרָחָ֤ו</big></span>**
+[^1]: fugitive his  | **<big>[[H9023|וֹ]]</big><big>[[H4015|מִבְרָח]]</big> ** | miv.ra.cho<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: fugitive his  | **<big>[[H9023|וֹ]]</big><big>[[H4015|מִבְרָח]]</big> ** | miv.ra.cho<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>מִבְרָחָ֤ו</big></span>**
 

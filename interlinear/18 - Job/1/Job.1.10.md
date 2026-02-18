@@ -27,6 +27,6 @@ Have You not placed a hedge on every side around him and his household and all t
 | in the land  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.1.9|<< Job 1:9]]</td><td align="center" style="border:none;">[[Job.1|Job 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.1.11|Job 1:11 >>]]</td></tr></table>
 
-[^1]: ==K==: you  | **<big>[[H0859C|אַתְּ]]</big> ** | 'at<small><sup>[[HPp2fs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אַ֠תָּ</big></span>**
+[^1]: you  | **<big>[[H0859C|אַתְּ]]</big> ** | 'at<small><sup>[[HPp2fs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אַ֠תָּ</big></span>**
 

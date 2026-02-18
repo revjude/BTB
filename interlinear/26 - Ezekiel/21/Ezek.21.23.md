@@ -22,6 +22,6 @@ It will seem like a false omen to the eyes of those who have sworn allegiance to
 | to be seized  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H8610\|הִתָּפֵֽשׂ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> hi.ta.Fes<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.22|<< Ezekiel 21:22]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.24|Ezekiel 21:24 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>כִּקְסָום\־</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>כִּקְסוֹם</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>כִּקְסָום\־</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>כִּקְסוֹם</big></span>**
 

@@ -23,7 +23,7 @@ Shout for joy, O heavens; rejoice, O earth; break forth in song, O mountains! Fo
 | he has compassion on  |**<big>&#8207;[[H7355\|יְרַחֵֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.ra.Chem<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.12|<< Isaiah 49:12]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.14|Isaiah 49:14 >>]]</td></tr></table>
 
-[^1]: ==K==: let them break forth  | **<big>[[H6476|יִפְצְחוּ]]</big> ** | yif.tze.chu<small><sup>[[HVqi3mp]]</sup></small> 
-[^2]: ==K==: let them break forth  | **<big>[[H6476|יִפְצְחוּ]]</big> ** | yif.tze.chu<small><sup>[[HVqi3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>יּפִצְח֥וּ</big></span>**
+[^1]: let them break forth  | **<big>[[H6476|יִפְצְחוּ]]</big> ** | yif.tze.chu<small><sup>[[HVqi3mp]]</sup></small> | K
+[^2]: let them break forth  | **<big>[[H6476|יִפְצְחוּ]]</big> ** | yif.tze.chu<small><sup>[[HVqi3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>יּפִצְח֥וּ</big></span>**
 

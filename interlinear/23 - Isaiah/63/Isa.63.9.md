@@ -26,7 +26,7 @@ In all their distress, He too was afflicted, and the Angel of His Presence saved
 | antiquity  |**<big>&#8207;[[H5769J\|עוֹלָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.8|<< Isaiah 63:8]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.10|Isaiah 63:10 >>]]</td></tr></table>
 
-[^1]: ==K==: not  | **<big>[[H3808|לֹא]]</big> ** | lo'<small><sup>[[HTn]]</sup></small> 
-[^2]: ==K==: not  | **<big>[[H3808|לֹא]]</big> ** | lo'<small><sup>[[HTn]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>לֹ֣א</big></span>**
+[^1]: not  | **<big>[[H3808|לֹא]]</big> ** | lo'<small><sup>[[HTn]]</sup></small> | K
+[^2]: not  | **<big>[[H3808|לֹא]]</big> ** | lo'<small><sup>[[HTn]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>לֹ֣א</big></span>**
 

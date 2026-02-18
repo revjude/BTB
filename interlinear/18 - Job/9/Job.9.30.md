@@ -17,7 +17,7 @@ If I should wash myself with snow and cleanse my hands with lye,
 | hands my  |**<big>&#8207;[[H3709G\|כַּפָּֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ka.Pa<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.29|<< Job 9:29]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.31|Job 9:31 >>]]</td></tr></table>
 
-[^1]: ==K==: in  | **<big>[[H1119|בְמוֹ]]</big> ** | ve.mov<small><sup>[[HR]]</sup></small> 
-[^2]: ==K==: in  | **<big>[[H1119|בְמוֹ]]</big> ** | ve.mov<small><sup>[[HR]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בְמֵו\־</big></span>**
+[^1]: in  | **<big>[[H1119|בְמוֹ]]</big> ** | ve.mov<small><sup>[[HR]]</sup></small> | K
+[^2]: in  | **<big>[[H1119|בְמוֹ]]</big> ** | ve.mov<small><sup>[[HR]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בְמֵו\־</big></span>**
 

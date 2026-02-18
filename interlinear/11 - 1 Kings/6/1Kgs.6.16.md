@@ -28,6 +28,6 @@ He partitioned off the twenty cubits at the rear of the temple with cedar boards
 | the holy places  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6944H\|קֳּדָשִֽׁים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.da.Shim<small><sup>[[HNtmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.15|<< 1 Kings 6:15]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.17|1 Kings 6:17 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>מִֽיַּרְכְּותֵ֤י</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>מִיַּרְכּוֹתֵי</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>מִֽיַּרְכְּותֵ֤י</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>מִיַּרְכּוֹתֵי</big></span>**
 

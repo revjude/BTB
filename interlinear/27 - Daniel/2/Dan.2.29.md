@@ -27,6 +27,6 @@ As you lay on your bed, O king, your thoughts turned to the future, and the Reve
 | it will be  |**<big>&#8207;[[H1934\|לֶהֱוֵֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.he.Ve'<small><sup>[[AVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.28|<< Daniel 2:28]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.30|Daniel 2:30 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>אַ֣נְתְּה</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>אַנְתָּה</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>אַ֣נְתְּה</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>אַנְתָּה</big></span>**
 

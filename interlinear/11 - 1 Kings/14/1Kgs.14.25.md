@@ -21,6 +21,6 @@ In the fifth year of Rehoboam’s reign, Shishak king of Egypt attacked Jerusale
 | Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.24|<< 1 Kings 14:24]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.26|1 Kings 14:26 >>]]</td></tr></table>
 
-[^1]: ==K==: Shushak  | **<big>[[H7895|שׁוּשַׁק]]</big> ** | shu.shak<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>שִׁושַׁ֥ק</big></span>**
+[^1]: Shushak  | **<big>[[H7895|שׁוּשַׁק]]</big> ** | shu.shak<small><sup>[[HNpm]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>שִׁושַׁ֥ק</big></span>**
 

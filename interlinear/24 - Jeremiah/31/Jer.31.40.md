@@ -32,7 +32,7 @@ The whole valley of the dead bodies and ashes, and all the fields as far as the 
 | for ever  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5769G\|עוֹלָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.39|<< Jeremiah 31:39]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.1|Jeremiah 32:1 >>]]</td></tr></table>
 
-[^1]: ==K==: the terraced fields  | **<big>[[H8309|שְּׁרֵמוֹת]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> she.re.mot<small><sup>[[HNcfpa]]</sup></small> 
-[^2]: ==K==: the terraced fields  | **<big>[[H8309|שְּׁרֵמוֹת]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> she.re.mot<small><sup>[[HNcfpa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הַשְּׁרֵמוֹת֩</big></span>**
+[^1]: the terraced fields  | **<big>[[H8309|שְּׁרֵמוֹת]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> she.re.mot<small><sup>[[HNcfpa]]</sup></small> | K
+[^2]: the terraced fields  | **<big>[[H8309|שְּׁרֵמוֹת]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> she.re.mot<small><sup>[[HNcfpa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הַשְּׁרֵמוֹת֩</big></span>**
 

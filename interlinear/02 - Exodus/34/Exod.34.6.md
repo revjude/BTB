@@ -25,5 +25,5 @@ Then the LORD passed in front of Moses and called out: “The LORD, the LORD God
 | and faithfulness  |**<big>&#8207;[[H9002\|וֶ]]&#8207;&#8207;[[H0571G\|אֱמֶֽת]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**[^1] | ve.<small><sup>[[HC]]</sup></small> 'e.Met<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.5|<< Exodus 34:5]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.7|Exodus 34:7 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>וֶאֱמֶֽת\׃</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>וֶאֱמֶֽת\׃</big></span>**
 

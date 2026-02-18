@@ -32,8 +32,8 @@ A river of fire was flowing, coming out from His presence. Thousands upon thousa
 | they were opened  |**<big>&#8207;[[H6606\|פְּתִֽיחוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| pe.Ti.chu<small><sup>[[AVQp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.9|<< Daniel 7:9]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.11|Daniel 7:11 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>אַלְפִים֙</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>אַלְפִים</big></span>**
-[^3]: ==L== spelled: **<span class="asaramaic"><big>רִבְוָ֖ן</big></span>**
-[^4]: ==K== spelled: **<span class="asaramaic"><big>רִבְּוָן</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>אַלְפִים֙</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>אַלְפִים</big></span>**
+[^3]: L spelled: **<span class="asaramaic"><big>רִבְוָ֖ן</big></span>**
+[^4]: K spelled: **<span class="asaramaic"><big>רִבְּוָן</big></span>**
 

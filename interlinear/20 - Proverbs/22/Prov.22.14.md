@@ -18,6 +18,6 @@ The mouth of an adulteress is a deep pit; he who is under the wrath of the LORD 
 | there  |**<big>&#8207;[[H8033G\|שָֽׁם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.13|<< Proverbs 22:13]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.15|Proverbs 22:15 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>יִפָּול\־</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>יִפּוֹל</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>יִפָּול\־</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>יִפּוֹל</big></span>**
 

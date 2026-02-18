@@ -20,6 +20,6 @@ Do not tell it in Gath; do not weep at all. Roll in the dust in Beth-leaphrah.
 | roll yourself  [^1]|**<big>&#8207;[[H6428\|הִתְפַּלָּֽשִׁי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^2] | hit.pa.la.she.ti<small><sup>[[HVtv2fs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.9|<< Micah 1:9]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.11|Micah 1:11 >>]]</td></tr></table>
 
-[^1]: ==K==: I have rolled myself  | **<big>[[H9016|׃]]</big><big>[[H6428|הִתְפַּלָּשְׁתִּי]]</big> ** | hit.pa.la.she.ti<small><sup>[[HVtp1cs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>הִתְפַּלָּֽשִׁתי\׃</big></span>**
+[^1]: I have rolled myself  | **<big>[[H9016|׃]]</big><big>[[H6428|הִתְפַּלָּשְׁתִּי]]</big> ** | hit.pa.la.she.ti<small><sup>[[HVtp1cs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>הִתְפַּלָּֽשִׁתי\׃</big></span>**
 

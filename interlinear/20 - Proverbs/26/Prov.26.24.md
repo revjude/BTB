@@ -16,8 +16,8 @@ A hateful man disguises himself with his speech, but he lays up deceit in his he
 | deceit  |**<big>&#8207;[[H4820\|מִרְמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mir.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.23|<< Proverbs 26:23]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.25|Proverbs 26:25 >>]]</td></tr></table>
 
-[^1]: ==K==: with lip his  | **<big>[[H9023|וֹ]]</big><big>[[H8193G|שְׂפָת]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> s.fa.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: with lip his  | **<big>[[H9023|וֹ]]</big><big>[[H8193G|שְׂפָת]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> s.fa.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: with lip his  | **<big>[[H9023|וֹ]]</big><big>[[H8193G|שְׂפָת]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> s.fa.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>בִּ֭שְׂפָתָ/ו</big></span>**
+[^1]: with lip his  | **<big>[[H9023|וֹ]]</big><big>[[H8193G|שְׂפָת]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> s.fa.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: with lip his  | **<big>[[H9023|וֹ]]</big><big>[[H8193G|שְׂפָת]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> s.fa.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: with lip his  | **<big>[[H9023|וֹ]]</big><big>[[H8193G|שְׂפָת]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> s.fa.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>בִּ֭שְׂפָתָ/ו</big></span>**
 

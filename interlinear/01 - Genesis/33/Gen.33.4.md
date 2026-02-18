@@ -19,6 +19,6 @@ Esau, however, ran to him and embraced him, threw his arms around his neck, and 
 | and they wept  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1058\|יִּבְכּֽוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiv.Ku<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.33.3|<< Genesis 33:3]]</td><td align="center" style="border:none;">[[Gen.33|Genesis 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.33.5|Genesis 33:5 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>צַוָּארָ֖ו</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>צַוָּארוֹ</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>צַוָּארָ֖ו</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>צַוָּארוֹ</big></span>**
 

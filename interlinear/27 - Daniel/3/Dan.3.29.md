@@ -44,6 +44,6 @@ Therefore I decree that the people of any nation or language who say anything of
 | like this  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H1836\|דְנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ki<small><sup>[[AR]]</sup></small> d.Nah<small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.28|<< Daniel 3:28]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.30|Daniel 3:30 >>]]</td></tr></table>
 
-[^1]: ==K==: negligence  | **<big>[[H7955|שֵׁלָה]]</big> ** | she.lah<small><sup>[[ANcbsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="asaramaic"><big>שָׁלֻה֙</big></span>**
+[^1]: negligence  | **<big>[[H7955|שֵׁלָה]]</big> ** | she.lah<small><sup>[[ANcbsa]]</sup></small> | K
+[^2]: L spelled: **<span class="asaramaic"><big>שָׁלֻה֙</big></span>**
 

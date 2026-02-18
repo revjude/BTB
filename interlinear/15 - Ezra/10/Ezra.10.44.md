@@ -20,6 +20,6 @@ All these men had married foreign women, and some of them had children by these 
 | children  |**<big>&#8207;[[H1121A\|בָּנִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ba.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.43|<< Ezra 10:43]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.1.1|Nehemiah 1:1 >>]]</td></tr></table>
 
-[^1]: ==K==: [the] takers  | **<big>[[H5375U|נֹשְׂאֵי]]</big> ** | na.se.'u<small><sup>[[HVqrmpc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>נָשְׂא֖וּ</big></span>**
+[^1]: [the] takers  | **<big>[[H5375U|נֹשְׂאֵי]]</big> ** | na.se.'u<small><sup>[[HVqrmpc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>נָשְׂא֖וּ</big></span>**
 

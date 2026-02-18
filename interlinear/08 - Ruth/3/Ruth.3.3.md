@@ -24,10 +24,10 @@ Therefore wash yourself, put on perfume, and wear your best clothes. Go down to 
 | and to drink  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8354\|שְׁתּֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> sh.Tot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.3.2|<< Ruth 3:2]]</td><td align="center" style="border:none;">[[Ruth.3|Ruth 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.3.4|Ruth 3:4 >>]]</td></tr></table>
 
-[^1]: ==K==: garment your  | **<big>[[H9022|ךְ]]</big><big>[[H8071|שִׂמְלֹתֵ]]</big> ** | sim.lo.te<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> 
-[^2]: ==K==: garment your  | **<big>[[H9022|ךְ]]</big><big>[[H8071|שִׂמְלֹתֵ]]</big> ** | sim.lo.te<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>שִׂמְלֹתִַ֛ךְ</big></span>**
-[^4]: ==K==: and I will go down  | **<big>[[H3381|יָרַדְתִּי]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ya.rad.ti<small><sup>[[HVqq1cs]]</sup></small> 
-[^5]: ==K==: and I will go down  | **<big>[[H3381|יָרַדְתִּי]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ya.rad.ti<small><sup>[[HVqq1cs]]</sup></small> 
-[^6]: ==L== spelled: **<span class="ashebrew"><big>וְיָרַ֣דְתְּי</big></span>**
+[^1]: garment your  | **<big>[[H9022|ךְ]]</big><big>[[H8071|שִׂמְלֹתֵ]]</big> ** | sim.lo.te<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
+[^2]: garment your  | **<big>[[H9022|ךְ]]</big><big>[[H8071|שִׂמְלֹתֵ]]</big> ** | sim.lo.te<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>שִׂמְלֹתִַ֛ךְ</big></span>**
+[^4]: and I will go down  | **<big>[[H3381|יָרַדְתִּי]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ya.rad.ti<small><sup>[[HVqq1cs]]</sup></small> | K
+[^5]: and I will go down  | **<big>[[H3381|יָרַדְתִּי]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ya.rad.ti<small><sup>[[HVqq1cs]]</sup></small> | K
+[^6]: L spelled: **<span class="ashebrew"><big>וְיָרַ֣דְתְּי</big></span>**
 

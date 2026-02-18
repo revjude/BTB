@@ -21,6 +21,6 @@ With a measuring rod he measured the east side to be five hundred cubits long.
 | all around  |**<big>&#8207;[[H5439G\|סָבִֽיב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sa.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.15|<< Ezekiel 42:15]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.17|Ezekiel 42:17 >>]]</td></tr></table>
 
-[^1]: ==K==: cubits  | **<big>[[H0520A|אַמּוֹת]]</big> ** | 'e.mot<small><sup>[[HNcfpa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אֵמ֥וֹת</big></span>**
+[^1]: cubits  | **<big>[[H0520A|אַמּוֹת]]</big> ** | 'e.mot<small><sup>[[HNcfpa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אֵמ֥וֹת</big></span>**
 

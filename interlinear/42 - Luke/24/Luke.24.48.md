@@ -8,9 +8,9 @@ You yourselves now are witnesses of these things,<br><table width="100%" border=
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| You yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
-| are |**<big>[[G1510\|ἐστε]]</big>**  |este <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="Tyn+SBL+Treg+TR+Byz">ko</abbr> | |
-| witnesses |**<big>[[G3144\|μάρτυρες]]</big>**  |martures <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of these things, |**<big>[[G3778\|τούτων,]]</big>**  |toutōn <small><sup>[[D-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| You yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small>  | <abbr title="TR+Byz">k</abbr> | |
+| are |**<big>[[G1510\|ἐστε]]</big>**  |este <small><sup>[[V-PAI-2P]]</sup></small>  | <abbr title="Tyn+SBL+Treg+TR+Byz">ko</abbr> | |
+| witnesses |**<big>[[G3144\|μάρτυρες]]</big>**  |martures <small><sup>[[N-NPM]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of these things, |**<big>[[G3778\|τούτων,]]</big>**  |toutōn <small><sup>[[D-GPN]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.47|<< Luke 24:47]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.49|Luke 24:49 >>]]</td></tr></table>

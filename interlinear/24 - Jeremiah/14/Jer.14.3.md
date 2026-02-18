@@ -27,7 +27,7 @@ The nobles send their servants for water; they go to the cisterns, but find no w
 | head their  |**<big>&#8207;[[H7218A\|רֹאשָֽׁ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ro.Sha<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.14.2|<< Jeremiah 14:2]]</td><td align="center" style="border:none;">[[Jer.14|Jeremiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.14.4|Jeremiah 14:4 >>]]</td></tr></table>
 
-[^1]: ==K==: small [ones] their  | **<big>[[H9028|הֶם]]</big><big>[[H6810|צְעוֹרֵי]]</big> ** | tze.'o.rei.<small><sup>[[HAampc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> 
-[^2]: ==K==: small [ones] their  | **<big>[[H9028|הֶם]]</big><big>[[H6810|צְעוֹרֵי]]</big> ** | tze.'o.rei.<small><sup>[[HAampc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>צְעִורֵיהֶ֖ם</big></span>**
+[^1]: small [ones] their  | **<big>[[H9028|הֶם]]</big><big>[[H6810|צְעוֹרֵי]]</big> ** | tze.'o.rei.<small><sup>[[HAampc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^2]: small [ones] their  | **<big>[[H9028|הֶם]]</big><big>[[H6810|צְעוֹרֵי]]</big> ** | tze.'o.rei.<small><sup>[[HAampc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>צְעִורֵיהֶ֖ם</big></span>**
 

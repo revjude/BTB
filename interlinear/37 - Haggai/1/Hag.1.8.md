@@ -21,7 +21,7 @@ Go up into the hills, bring down lumber, and build the house, so that I may take
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.1.7|<< Haggai 1:7]]</td><td align="center" style="border:none;">[[Hag.1|Haggai 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.1.9|Haggai 1:9 >>]]</td></tr></table>
 
-[^1]: ==K==: so I may be honored  | **<big>[[H3513G|אֶכָּבֵד]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'e.ka.ved<small><sup>[[HVNu1cs]]</sup></small> 
-[^2]: ==K==: so I may be honored  | **<big>[[H3513G|אֶכָּבֵד]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'e.ka.ved<small><sup>[[HVNu1cs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְאֶכָּבְדָ֖</big></span>**
+[^1]: so I may be honored  | **<big>[[H3513G|אֶכָּבֵד]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'e.ka.ved<small><sup>[[HVNu1cs]]</sup></small> | K
+[^2]: so I may be honored  | **<big>[[H3513G|אֶכָּבֵד]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'e.ka.ved<small><sup>[[HVNu1cs]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְאֶכָּבְדָ֖</big></span>**
 

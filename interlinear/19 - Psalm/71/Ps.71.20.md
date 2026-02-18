@@ -21,10 +21,10 @@ Though You have shown me many troubles and misfortunes, You will revive me once 
 | you will bring up me  |**<big>&#8207;[[H5927H\|תַּעֲלֵֽ]]&#8207;&#8207;[[H9030\|נִי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ta.'a.Le.<small><sup>[[HVhi2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.71.19|<< Psalms 71:19]]</td><td align="center" style="border:none;">[[Ps.71|Psalms 71]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.21|Psalms 71:21 >>]]</td></tr></table>
 
-[^1]: ==K==: you have made see us  | **<big>[[H9035|נוּ]]</big><big>[[H7200G|הִרְאִיתַ]]</big> ** | hir.'i.Ta.<small><sup>[[HVhp2ms]]</sup></small> ni<small><sup>[[HSp1bp]]</sup></small> 
-[^2]: ==K==: you have made see us  | **<big>[[H9035|נוּ]]</big><big>[[H7200G|הִרְאִיתַ]]</big> ** | hir.'i.Ta.<small><sup>[[HVhp2ms]]</sup></small> ni<small><sup>[[HSp1bp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הִרְאִיתַ֨נִו\׀</big></span>**
-[^4]: ==K==: you will preserve alive us  | **<big>[[H9035|נוּ]]</big><big>[[H2421|תְּחַיֵּי]]</big> ** | te.chai.Yei.<small><sup>[[HVpi2ms]]</sup></small> ni<small><sup>[[HSp1bp]]</sup></small> 
-[^5]: ==K==: you will preserve alive us  | **<big>[[H9035|נוּ]]</big><big>[[H2421|תְּחַיֵּי]]</big> ** | te.chai.Yei.<small><sup>[[HVpi2ms]]</sup></small> ni<small><sup>[[HSp1bp]]</sup></small> 
-[^6]: ==L== spelled: **<span class="ashebrew"><big>תְּחַיֵּ֑ינִו</big></span>**
+[^1]: you have made see us  | **<big>[[H9035|נוּ]]</big><big>[[H7200G|הִרְאִיתַ]]</big> ** | hir.'i.Ta.<small><sup>[[HVhp2ms]]</sup></small> ni<small><sup>[[HSp1bp]]</sup></small> | K
+[^2]: you have made see us  | **<big>[[H9035|נוּ]]</big><big>[[H7200G|הִרְאִיתַ]]</big> ** | hir.'i.Ta.<small><sup>[[HVhp2ms]]</sup></small> ni<small><sup>[[HSp1bp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הִרְאִיתַ֨נִו\׀</big></span>**
+[^4]: you will preserve alive us  | **<big>[[H9035|נוּ]]</big><big>[[H2421|תְּחַיֵּי]]</big> ** | te.chai.Yei.<small><sup>[[HVpi2ms]]</sup></small> ni<small><sup>[[HSp1bp]]</sup></small> | K
+[^5]: you will preserve alive us  | **<big>[[H9035|נוּ]]</big><big>[[H2421|תְּחַיֵּי]]</big> ** | te.chai.Yei.<small><sup>[[HVpi2ms]]</sup></small> ni<small><sup>[[HSp1bp]]</sup></small> | K
+[^6]: L spelled: **<span class="ashebrew"><big>תְּחַיֵּ֑ינִו</big></span>**
 

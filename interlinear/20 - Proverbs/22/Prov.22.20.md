@@ -16,6 +16,6 @@ Have I not written for you thirty sayings about counsel and knowledge,
 | and knowledge  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H1847\|דָֽעַת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Da.'at<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.19|<< Proverbs 22:19]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.21|Proverbs 22:21 >>]]</td></tr></table>
 
-[^1]: ==K==: three days ago  | **<big>[[H8032|שִׁלְשׁוֹם]]</big> ** | shil.shom<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>שָׁלִשִׁ֑ום</big></span>**
+[^1]: three days ago  | **<big>[[H8032|שִׁלְשׁוֹם]]</big> ** | shil.shom<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>שָׁלִשִׁ֑ום</big></span>**
 

@@ -22,10 +22,10 @@ So all the king’s wise men came in, but they could not read the inscription or
 | to king the  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4430\|מַלְכָּֽ]]&#8207;&#8207;[[H9010\|א]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[AR]]</sup></small> mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.7|<< Daniel 5:7]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.9|Daniel 5:9 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>עָֽלִּ֔לין</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>עָלֲלִין</big></span>**
-[^3]: ==K==: and interpretation the  | **<big>[[H9010|א]]</big><big>[[H6591|פִשְׁרָ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> fish.ra<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> 
-[^4]: ==K==: and interpretation the  | **<big>[[H9010|א]]</big><big>[[H6591|פִשְׁרָ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> fish.ra<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> 
-[^5]: ==K==: and interpretation the  | **<big>[[H9010|א]]</big><big>[[H6591|פִשְׁרָ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> fish.ra<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> 
-[^6]: ==L== spelled: **<span class="asaramaic"><big>וּפִשְׁרֵ֖/אּ</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>עָֽלִּ֔לין</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>עָלֲלִין</big></span>**
+[^3]: and interpretation the  | **<big>[[H9010|א]]</big><big>[[H6591|פִשְׁרָ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> fish.ra<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | K
+[^4]: and interpretation the  | **<big>[[H9010|א]]</big><big>[[H6591|פִשְׁרָ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> fish.ra<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | K
+[^5]: and interpretation the  | **<big>[[H9010|א]]</big><big>[[H6591|פִשְׁרָ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> fish.ra<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | K
+[^6]: L spelled: **<span class="asaramaic"><big>וּפִשְׁרֵ֖/אּ</big></span>**
 

@@ -21,5 +21,5 @@ The LORD was angry enough with Aaron to destroy him, but at that time I also pra
 | \<the> that  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1931\|הִֽוא]]&#8207; </big>**[^1] | ha.<small><sup>[[HTd]]</sup></small> Hiv'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.19|<< Deuteronomy 9:19]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.21|Deuteronomy 9:21 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>הַהִֽוא\׃</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>הַהִֽוא\׃</big></span>**
 

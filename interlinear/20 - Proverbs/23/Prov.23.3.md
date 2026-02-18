@@ -16,6 +16,6 @@ Do not crave his delicacies, for that food is deceptive.
 | lies  |**<big>&#8207;[[H3577\|כְּזָבִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ke.za.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.2|<< Proverbs 23:2]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.4|Proverbs 23:4 >>]]</td></tr></table>
 
-[^1]: ==K==: you mark out  | **<big>[[H8376|תְּתָאוּ]]</big> ** | tit.'o<small><sup>[[HVpj2mp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>תִּ֭תְאָו</big></span>**
+[^1]: you mark out  | **<big>[[H8376|תְּתָאוּ]]</big> ** | tit.'o<small><sup>[[HVpj2mp]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>תִּ֭תְאָו</big></span>**
 

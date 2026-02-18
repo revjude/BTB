@@ -28,6 +28,6 @@ and I weighed out to them the contribution of silver and gold and the articles t
 | who were found  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4672\|נִּמְצָאִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> nim.tza.'Im<small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.24|<< Ezra 8:24]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.26|Ezra 8:26 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וָאֶשְׁקֳולָ֣/ה</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וָאֶשְׁקוֹלָ/ה</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וָאֶשְׁקֳולָ֣/ה</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וָאֶשְׁקוֹלָ/ה</big></span>**
 

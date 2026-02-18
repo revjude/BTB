@@ -20,7 +20,7 @@ Shimri and Jeuel from the Elizaphanites; Zechariah and Mattaniah from the Asaphi
 | and Mattaniah  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4983J\|מַתַּנְיָֽהוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.tan.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.12|<< 2 Chronicles 29:12]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.14|2 Chronicles 29:14 >>]]</td></tr></table>
 
-[^1]: ==K==: and Jeuel  | **<big>[[H3273L|יעוּאֵל]]</big><big>[[H9002|וִ]]</big> ** | vi.<small><sup>[[HC]]</sup></small> 'u.'el<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==K==: and Jeuel  | **<big>[[H3273L|יעוּאֵל]]</big><big>[[H9002|וִ]]</big> ** | vi.<small><sup>[[HC]]</sup></small> 'u.'el<small><sup>[[HNpm]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וִיעִואֵ֑ל</big></span>**
+[^1]: and Jeuel  | **<big>[[H3273L|יעוּאֵל]]</big><big>[[H9002|וִ]]</big> ** | vi.<small><sup>[[HC]]</sup></small> 'u.'el<small><sup>[[HNpm]]</sup></small> | K
+[^2]: and Jeuel  | **<big>[[H3273L|יעוּאֵל]]</big><big>[[H9002|וִ]]</big> ** | vi.<small><sup>[[HC]]</sup></small> 'u.'el<small><sup>[[HNpm]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וִיעִואֵ֑ל</big></span>**
 

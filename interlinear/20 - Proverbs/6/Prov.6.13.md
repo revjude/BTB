@@ -16,12 +16,12 @@ winking his eyes, speaking with his feet, and pointing with his fingers.
 | with fingers his  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0676\|אֶצְבְּעֹתָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'etz.be.'o.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.12|<< Proverbs 6:12]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.14|Proverbs 6:14 >>]]</td></tr></table>
 
-[^1]: ==K==: with eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869A|עֵינ]]</big><big>[[H9003|בְּ֭]]</big> ** | Be.<small><sup>[[HR]]</sup></small> 'ei.na<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: with eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869A|עֵינ]]</big><big>[[H9003|בְּ֭]]</big> ** | Be.<small><sup>[[HR]]</sup></small> 'ei.na<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: with eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869A|עֵינ]]</big><big>[[H9003|בְּ֭]]</big> ** | Be.<small><sup>[[HR]]</sup></small> 'ei.na<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>בְּ֭עֵינָ/ו</big></span>**
-[^5]: ==K==: with foot his  | **<big>[[H9023|וֹ]]</big><big>[[H7272|רַגְל]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> rag.La<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^6]: ==K==: with foot his  | **<big>[[H9023|וֹ]]</big><big>[[H7272|רַגְל]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> rag.La<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^7]: ==K==: with foot his  | **<big>[[H9023|וֹ]]</big><big>[[H7272|רַגְל]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> rag.La<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^8]: ==L== spelled: **<span class="ashebrew"><big>בְּרַגְלָ֑/ו</big></span>**
+[^1]: with eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869A|עֵינ]]</big><big>[[H9003|בְּ֭]]</big> ** | Be.<small><sup>[[HR]]</sup></small> 'ei.na<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: with eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869A|עֵינ]]</big><big>[[H9003|בְּ֭]]</big> ** | Be.<small><sup>[[HR]]</sup></small> 'ei.na<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: with eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869A|עֵינ]]</big><big>[[H9003|בְּ֭]]</big> ** | Be.<small><sup>[[HR]]</sup></small> 'ei.na<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>בְּ֭עֵינָ/ו</big></span>**
+[^5]: with foot his  | **<big>[[H9023|וֹ]]</big><big>[[H7272|רַגְל]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> rag.La<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^6]: with foot his  | **<big>[[H9023|וֹ]]</big><big>[[H7272|רַגְל]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> rag.La<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^7]: with foot his  | **<big>[[H9023|וֹ]]</big><big>[[H7272|רַגְל]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> rag.La<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^8]: L spelled: **<span class="ashebrew"><big>בְּרַגְלָ֑/ו</big></span>**
 

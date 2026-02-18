@@ -18,7 +18,7 @@ Do not gloat when your enemy falls, and do not let your heart rejoice when he st
 | heart your  |**<big>&#8207;[[H3820A\|לִבֶּֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| li.Be.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.16|<< Proverbs 24:16]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.18|Proverbs 24:18 >>]]</td></tr></table>
 
-[^1]: ==K==: enemies your  | **<big>[[H9021|ךָ]]</big><big>[[H0341|אוֹיְבֶי]]</big> ** | 'oy.vei.<small><sup>[[HVqrmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^2]: ==K==: enemies your  | **<big>[[H9021|ךָ]]</big><big>[[H0341|אוֹיְבֶי]]</big> ** | 'oy.vei.<small><sup>[[HVqrmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>אֽ֭וֹיִבְיךָ</big></span>**
+[^1]: enemies your  | **<big>[[H9021|ךָ]]</big><big>[[H0341|אוֹיְבֶי]]</big> ** | 'oy.vei.<small><sup>[[HVqrmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: enemies your  | **<big>[[H9021|ךָ]]</big><big>[[H0341|אוֹיְבֶי]]</big> ** | 'oy.vei.<small><sup>[[HVqrmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>אֽ֭וֹיִבְיךָ</big></span>**
 

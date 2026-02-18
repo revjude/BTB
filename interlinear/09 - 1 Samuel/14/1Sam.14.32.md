@@ -25,10 +25,10 @@ So they rushed greedily to the plunder, taking sheep, cattle, and calves. They s
 | the blood  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1818\|דָּֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.31|<< 1 Samuel 14:31]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.33|1 Samuel 14:33 >>]]</td></tr></table>
 
-[^1]: ==K==: and it did  | **<big>[[H6213A|יַּעַשׂ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.'as<small><sup>[[HVqw3ms]]</sup></small> 
-[^2]: ==K==: and it did  | **<big>[[H6213A|יַּעַשׂ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.'as<small><sup>[[HVqw3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וַיַּ֤עַשׂ</big></span>**
-[^4]: ==K==: plunder  | **<big>[[H7998|שָׁלָל]]</big> ** | sha.lal<small><sup>[[HNcbsa]]</sup></small> 
-[^5]: ==K==: plunder  | **<big>[[H7998|שָׁלָל]]</big> ** | sha.lal<small><sup>[[HNcbsa]]</sup></small> 
-[^6]: ==L== spelled: **<span class="ashebrew"><big>ַשָּׁלָ֔ל</big></span>**
+[^1]: and it did  | **<big>[[H6213A|יַּעַשׂ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.'as<small><sup>[[HVqw3ms]]</sup></small> | K
+[^2]: and it did  | **<big>[[H6213A|יַּעַשׂ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.'as<small><sup>[[HVqw3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וַיַּ֤עַשׂ</big></span>**
+[^4]: plunder  | **<big>[[H7998|שָׁלָל]]</big> ** | sha.lal<small><sup>[[HNcbsa]]</sup></small> | K
+[^5]: plunder  | **<big>[[H7998|שָׁלָל]]</big> ** | sha.lal<small><sup>[[HNcbsa]]</sup></small> | K
+[^6]: L spelled: **<span class="ashebrew"><big>ַשָּׁלָ֔ל</big></span>**
 

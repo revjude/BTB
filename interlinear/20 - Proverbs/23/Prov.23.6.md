@@ -19,6 +19,6 @@ Do not eat the bread of a stingy man, and do not crave his delicacies;
 | for dainties his  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4303\|מַטְעַמֹּתָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mat.'a.mo.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.5|<< Proverbs 23:5]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.7|Proverbs 23:7 >>]]</td></tr></table>
 
-[^1]: ==K==: you mark out  | **<big>[[H8376|תְּתָאוּ]]</big> ** | tit.'av<small><sup>[[HVtj2ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>תִּ֝תְאָ֗ו</big></span>**
+[^1]: you mark out  | **<big>[[H8376|תְּתָאוּ]]</big> ** | tit.'av<small><sup>[[HVtj2ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>תִּ֝תְאָ֗ו</big></span>**
 

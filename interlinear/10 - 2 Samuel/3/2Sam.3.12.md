@@ -31,7 +31,7 @@ Then Abner sent messengers on his behalf to say to David, “To whom does the la
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.11|<< 2 Samuel 3:11]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.13|2 Samuel 3:13 >>]]</td></tr></table>
 
-[^1]: ==K==: in place of himself  | **<big>[[H9033|וֹ]]</big><big>[[H8478I|תַּחַת]]</big> ** | ta.cha.to<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: in place of himself  | **<big>[[H9033|וֹ]]</big><big>[[H8478I|תַּחַת]]</big> ** | ta.cha.to<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>תַּחְתָּ֥ו</big></span>**
+[^1]: in place of himself  | **<big>[[H9033|וֹ]]</big><big>[[H8478I|תַּחַת]]</big> ** | ta.cha.to<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: in place of himself  | **<big>[[H9033|וֹ]]</big><big>[[H8478I|תַּחַת]]</big> ** | ta.cha.to<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>תַּחְתָּ֥ו</big></span>**
 

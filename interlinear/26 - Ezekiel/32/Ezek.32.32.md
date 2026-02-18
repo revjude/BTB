@@ -28,10 +28,10 @@ For I will spread My terror in the land of the living, so that Pharaoh and all h
 | Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.31|<< Ezekiel 32:31]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.1|Ezekiel 33:1 >>]]</td></tr></table>
 
-[^1]: ==K==: terror his  | **<big>[[H9023|וֹ]]</big><big>[[H2851|חִתִּית]]</big> ** | chi.ti.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: terror his  | **<big>[[H9023|וֹ]]</big><big>[[H2851|חִתִּית]]</big> ** | chi.ti.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>חִתִּיתִ֖ו</big></span>**
-[^4]: ==K==: multitude his  | **<big>[[H9023|ה]]</big><big>[[H1995A|הֲמוֹנֹ֔]]</big> ** | ha.mo.No<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^5]: ==K==: multitude his  | **<big>[[H9023|ה]]</big><big>[[H1995A|הֲמוֹנֹ֔]]</big> ** | ha.mo.No<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^6]: ==L== spelled: **<span class="ashebrew"><big>הֲמוֹנֹ֔ה</big></span>**
+[^1]: terror his  | **<big>[[H9023|וֹ]]</big><big>[[H2851|חִתִּית]]</big> ** | chi.ti.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: terror his  | **<big>[[H9023|וֹ]]</big><big>[[H2851|חִתִּית]]</big> ** | chi.ti.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>חִתִּיתִ֖ו</big></span>**
+[^4]: multitude his  | **<big>[[H9023|ה]]</big><big>[[H1995A|הֲמוֹנֹ֔]]</big> ** | ha.mo.No<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^5]: multitude his  | **<big>[[H9023|ה]]</big><big>[[H1995A|הֲמוֹנֹ֔]]</big> ** | ha.mo.No<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^6]: L spelled: **<span class="ashebrew"><big>הֲמוֹנֹ֔ה</big></span>**
 

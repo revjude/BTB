@@ -18,7 +18,7 @@ for riches are not forever, nor does a crown endure to every generation.
 | and a generation  [^2]|**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H1755\|דֽוֹר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | ve.<small><sup>[[HC]]</sup></small> dor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.23|<< Proverbs 27:23]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.25|Proverbs 27:25 >>]]</td></tr></table>
 
-[^1]: ==K==: a generation  | **<big>[[H9016|׃]]</big><big>[[H1755|דּוֹר]]</big> ** | dor<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==K==: a generation  | **<big>[[H9016|׃]]</big><big>[[H1755|דּוֹר]]</big> ** | dor<small><sup>[[HNcbsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>ָדֽוֹר\׃</big></span>**
+[^1]: a generation  | **<big>[[H9016|׃]]</big><big>[[H1755|דּוֹר]]</big> ** | dor<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: a generation  | **<big>[[H9016|׃]]</big><big>[[H1755|דּוֹר]]</big> ** | dor<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>ָדֽוֹר\׃</big></span>**
 

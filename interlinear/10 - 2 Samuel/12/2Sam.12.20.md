@@ -29,7 +29,7 @@ Then David got up from the ground, washed and anointed himself, changed his clot
 | and he ate  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0398\|יֹּאכַֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Khal<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.12.19|<< 2 Samuel 12:19]]</td><td align="center" style="border:none;">[[2Sam.12|2 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.12.21|2 Samuel 12:21 >>]]</td></tr></table>
 
-[^1]: ==K==: garment his  | **<big>[[H9023|וֹ]]</big><big>[[H8071|שִׂמְלָת]]</big> ** | sim.lo.t<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: garment his  | **<big>[[H9023|וֹ]]</big><big>[[H8071|שִׂמְלָת]]</big> ** | sim.lo.t<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>שִׂמְלֹתָ֔ו</big></span>**
+[^1]: garment his  | **<big>[[H9023|וֹ]]</big><big>[[H8071|שִׂמְלָת]]</big> ** | sim.lo.t<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: garment his  | **<big>[[H9023|וֹ]]</big><big>[[H8071|שִׂמְלָת]]</big> ** | sim.lo.t<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>שִׂמְלֹתָ֔ו</big></span>**
 

@@ -20,6 +20,6 @@ I will make you a perpetual desolation, and your cities will not be inhabited. T
 | [am] Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.35.8|<< Ezekiel 35:8]]</td><td align="center" style="border:none;">[[Ezek.35|Ezekiel 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.35.10|Ezekiel 35:10 >>]]</td></tr></table>
 
-[^1]: ==K==: they will dwell  | **<big>[[H3427|תֵישַׁבְנָה]]</big> ** | tei.shav.nah<small><sup>[[HVqi2fp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>תָישֹׁ֑בְנָה</big></span>**
+[^1]: they will dwell  | **<big>[[H3427|תֵישַׁבְנָה]]</big> ** | tei.shav.nah<small><sup>[[HVqi2fp]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>תָישֹׁ֑בְנָה</big></span>**
 

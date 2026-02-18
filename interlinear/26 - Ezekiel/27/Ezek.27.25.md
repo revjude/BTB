@@ -19,5 +19,5 @@ The ships of Tarshish carried your merchandise. And you were filled with heavy c
 | [the] seas  |**<big>&#8207;[[H3220G\|יַמִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.24|<< Ezekiel 27:24]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.26|Ezekiel 27:26 >>]]</td></tr></table>
 
-[^1]: ==AH== spelled: **<span class="ashebrew"><big>בְּלֵ֥ב</big></span>**
+[^1]: AH spelled: **<span class="ashebrew"><big>בְּלֵ֥ב</big></span>**
 

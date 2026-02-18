@@ -27,7 +27,7 @@ In the eleventh year, in the month of Bul, the eighth month, the temple was fini
 | years  |**<big>&#8207;[[H8141\|שָׁנִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.37|<< 1 Kings 6:37]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.1|1 Kings 7:1 >>]]</td></tr></table>
 
-[^1]: ==K==: plan its  | **<big>[[H9023|וֹ]]</big><big>[[H4941J|מִשְׁפָּט]]</big> ** | mish.pa.to<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: plan its  | **<big>[[H9023|וֹ]]</big><big>[[H4941J|מִשְׁפָּט]]</big> ** | mish.pa.to<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>מִשְׁפָּטָ֑ו</big></span>**
+[^1]: plan its  | **<big>[[H9023|וֹ]]</big><big>[[H4941J|מִשְׁפָּט]]</big> ** | mish.pa.to<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: plan its  | **<big>[[H9023|וֹ]]</big><big>[[H4941J|מִשְׁפָּט]]</big> ** | mish.pa.to<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>מִשְׁפָּטָ֑ו</big></span>**
 

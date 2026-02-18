@@ -20,7 +20,7 @@ The LORD decrees His loving devotion by day, and at night His song is with me as
 | life my  |**<big>&#8207;[[H2416E\|חַיָּֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| chai.Ya<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.42.7|<< Psalms 42:7]]</td><td align="center" style="border:none;">[[Ps.42|Psalms 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.42.9|Psalms 42:9 >>]]</td></tr></table>
 
-[^1]: ==K==: song his  | **<big>[[H9023|הּ]]</big><big>[[H7892A|שִׁירָ]]</big> ** | shi.R<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: song his  | **<big>[[H9023|הּ]]</big><big>[[H7892A|שִׁירָ]]</big> ** | shi.R<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>שִׁירֹ֣ה</big></span>**
+[^1]: song his  | **<big>[[H9023|הּ]]</big><big>[[H7892A|שִׁירָ]]</big> ** | shi.R<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: song his  | **<big>[[H9023|הּ]]</big><big>[[H7892A|שִׁירָ]]</big> ** | shi.R<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>שִׁירֹ֣ה</big></span>**
 

@@ -42,7 +42,7 @@ Therefore this is what the LORD says: You have not obeyed Me; you have not procl
 | the earth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.16|<< Jeremiah 34:16]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34.18|Jeremiah 34:18 >>]]</td></tr></table>
 
-[^1]: ==K==: into a terror  | **<big>[[H2113|זְוָעָה]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> z.va.'ah<small><sup>[[HNcfsa]]</sup></small> 
-[^2]: ==K==: into a terror  | **<big>[[H2113|זְוָעָה]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> z.va.'ah<small><sup>[[HNcfsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>לְזַוֲעָ֔ה</big></span>**
+[^1]: into a terror  | **<big>[[H2113|זְוָעָה]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> z.va.'ah<small><sup>[[HNcfsa]]</sup></small> | K
+[^2]: into a terror  | **<big>[[H2113|זְוָעָה]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> z.va.'ah<small><sup>[[HNcfsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>לְזַוֲעָ֔ה</big></span>**
 

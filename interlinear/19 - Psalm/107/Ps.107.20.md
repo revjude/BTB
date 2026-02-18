@@ -15,5 +15,5 @@ He sent forth His word and healed them; He rescued them from the Pit.
 | from pits their  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7825\|שְּׁחִיתוֹתָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^1] | mi.<small><sup>[[HR]]</sup></small> she.chi.to.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad Aleppo BenChayim (biblia)">LAH(b)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.19|<< Psalms 107:19]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.21|Psalms 107:21 >>]]</td></tr></table>
 
-[^1]: ==B== spelled: **<span class="ashebrew"><big>מִשְּׁחִיתוֹתָֽ/ם\׃\ \׆</big></span>**
+[^1]: B spelled: **<span class="ashebrew"><big>מִשְּׁחִיתוֹתָֽ/ם\׃\ \׆</big></span>**
 

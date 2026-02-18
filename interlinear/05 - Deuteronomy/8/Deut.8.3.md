@@ -42,5 +42,5 @@ He humbled you, and in your hunger He gave you manna to eat, which neither you n
 | \<the> humankind  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0120G\|אָדָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8.2|<< Deuteronomy 8:2]]</td><td align="center" style="border:none;">[[Deut.8|Deuteronomy 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.8.4|Deuteronomy 8:4 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>אֶת\־</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>אֶת\־</big></span>**
 

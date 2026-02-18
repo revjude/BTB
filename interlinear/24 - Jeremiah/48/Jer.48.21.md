@@ -21,6 +21,6 @@ Judgment has come upon the high plain—upon Holon, Jahzah, and Mephaath,
 | Mephaath  [^1]|**<big>&#8207;[[H4158\|מֵיפָֽעַת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^2] | mo.fa.'at<small><sup>[[HNpl]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.20|<< Jeremiah 48:20]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.22|Jeremiah 48:22 >>]]</td></tr></table>
 
-[^1]: ==K==: Mophaath  | **<big>[[H9016|׃]]</big><big>[[H4158|מוֹפָעַת]]</big> ** | mo.fa.'at<small><sup>[[HNpl]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>מֵופָֽעַת\׃</big></span>**
+[^1]: Mophaath  | **<big>[[H9016|׃]]</big><big>[[H4158|מוֹפָעַת]]</big> ** | mo.fa.'at<small><sup>[[HNpl]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>מֵופָֽעַת\׃</big></span>**
 

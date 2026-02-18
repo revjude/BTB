@@ -38,7 +38,7 @@ Therefore, as surely as I live,” declares the LORD of Hosts, the God of Israel
 | they will take possession of them  |**<big>&#8207;[[H5157\|יִנְחָלֽוּ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yin.cha.Lu<small><sup>[[HVqi3mp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.2.8|<< Zephaniah 2:8]]</td><td align="center" style="border:none;">[[Zeph.2|Zephaniah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.2.10|Zephaniah 2:10 >>]]</td></tr></table>
 
-[^1]: ==K==: [the] nation  | **<big>[[H1471A|גּוֹי]]</big> ** | goy<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==K==: [the] nation  | **<big>[[H1471A|גּוֹי]]</big> ** | goy<small><sup>[[HNcbsc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>גּוֹיִ֖</big></span>**
+[^1]: [the] nation  | **<big>[[H1471A|גּוֹי]]</big> ** | goy<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: [the] nation  | **<big>[[H1471A|גּוֹי]]</big> ** | goy<small><sup>[[HNcbsc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>גּוֹיִ֖</big></span>**
 

@@ -28,8 +28,8 @@ And let them deliver it into the hands of the supervisors of those doing the wor
 | the house  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1004B\|בָּֽיִת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.22.4|<< 2 Kings 22:4]]</td><td align="center" style="border:none;">[[2Kgs.22|2 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.22.6|2 Kings 22:6 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וְיִתְּנֻ֗/הֻ</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וְיִתְּנֹ/ה</big></span>**
-[^3]: ==K==: in [the] house of  | **<big>[[H1004B|בֵית]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> veit<small><sup>[[HNcbsc]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>בבֵּ֣ית</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וְיִתְּנֻ֗/הֻ</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וְיִתְּנֹ/ה</big></span>**
+[^3]: in [the] house of  | **<big>[[H1004B|בֵית]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> veit<small><sup>[[HNcbsc]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>בבֵּ֣ית</big></span>**
 

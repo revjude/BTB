@@ -26,7 +26,7 @@ When Gehazi went in and stood before his master, Elisha asked him, “Gehazi, wh
 | and where?  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H0575\|אָֽנָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'A.nah<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.24|<< 2 Kings 5:24]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.26|2 Kings 5:26 >>]]</td></tr></table>
 
-[^1]: ==K==: from where?  | **<big>[[H0575|אָן]]</big><big>[[H9006|מֵ]]</big> ** | me.<small><sup>[[HR]]</sup></small> 'an<small><sup>[[HTi]]</sup></small> 
-[^2]: ==K==: from where?  | **<big>[[H0575|אָן]]</big><big>[[H9006|מֵ]]</big> ** | me.<small><sup>[[HR]]</sup></small> 'an<small><sup>[[HTi]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>מֵאִַ֖ן</big></span>**
+[^1]: from where?  | **<big>[[H0575|אָן]]</big><big>[[H9006|מֵ]]</big> ** | me.<small><sup>[[HR]]</sup></small> 'an<small><sup>[[HTi]]</sup></small> | K
+[^2]: from where?  | **<big>[[H0575|אָן]]</big><big>[[H9006|מֵ]]</big> ** | me.<small><sup>[[HR]]</sup></small> 'an<small><sup>[[HTi]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>מֵאִַ֖ן</big></span>**
 

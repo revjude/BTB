@@ -26,6 +26,6 @@ And on account of the king of Assyria, he removed the Sabbath canopy they had bu
 | Assyria  |**<big>&#8207;[[H0804G\|אַשּֽׁוּר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Shur<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.16.17|<< 2 Kings 16:17]]</td><td align="center" style="border:none;">[[2Kgs.16|2 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.16.19|2 Kings 16:19 >>]]</td></tr></table>
 
-[^1]: ==K==: [the] covered structure of  | **<big>[[H4329|מִיסַךְ]]</big> ** | mi.sakh<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>מיּסַ֨ךְ</big></span>**
+[^1]: [the] covered structure of  | **<big>[[H4329|מִיסַךְ]]</big> ** | mi.sakh<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>מיּסַ֨ךְ</big></span>**
 

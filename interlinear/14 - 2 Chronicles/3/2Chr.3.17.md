@@ -27,7 +27,7 @@ Then he set up the pillars in front of the temple, one on the south and one on t
 | Boaz  |**<big>&#8207;[[H1162H\|בֹּֽעַז]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Bo.'az<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3.16|<< 2 Chronicles 3:16]]</td><td align="center" style="border:none;">[[2Chr.3|2 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.4.1|2 Chronicles 4:1 >>]]</td></tr></table>
 
-[^1]: ==K==: the south [one]  | **<big>[[H3227H|יְמִינִי]]</big><big>[[H9009|הַ]]</big> ** | ha<small><sup>[[HTd]]</sup></small> y.mi.ni<small><sup>[[HNgbsa]]</sup></small> 
-[^2]: ==K==: the south [one]  | **<big>[[H3227H|יְמִינִי]]</big><big>[[H9009|הַ]]</big> ** | ha<small><sup>[[HTd]]</sup></small> y.mi.ni<small><sup>[[HNgbsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הַיְמָינִי֙</big></span>**
+[^1]: the south [one]  | **<big>[[H3227H|יְמִינִי]]</big><big>[[H9009|הַ]]</big> ** | ha<small><sup>[[HTd]]</sup></small> y.mi.ni<small><sup>[[HNgbsa]]</sup></small> | K
+[^2]: the south [one]  | **<big>[[H3227H|יְמִינִי]]</big><big>[[H9009|הַ]]</big> ** | ha<small><sup>[[HTd]]</sup></small> y.mi.ni<small><sup>[[HNgbsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הַיְמָינִי֙</big></span>**
 

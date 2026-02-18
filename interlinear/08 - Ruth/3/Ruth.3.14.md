@@ -27,10 +27,10 @@ So she lay down at his feet until morning, but she got up before anyone else cou
 | the threshing floor  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1637\|גֹּֽרֶן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Go.ren<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.3.13|<< Ruth 3:13]]</td><td align="center" style="border:none;">[[Ruth.3|Ruth 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.3.15|Ruth 3:15 >>]]</td></tr></table>
 
-[^1]: ==K==: foot his  | **<big>[[H9023|וֹ]]</big><big>[[H4772|מַרְגְּלֹת]]</big> ** | mar.ge.la.ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: foot his  | **<big>[[H9023|וֹ]]</big><big>[[H4772|מַרְגְּלֹת]]</big> ** | mar.ge.la.ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>מַרְגְּלוֹתָו֙</big></span>**
-[^4]: ==K==: \<in> before  | **<big>[[H2958|טְרוֹם]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> t.rom<small><sup>[[HNcbsa]]</sup></small> 
-[^5]: ==K==: \<in> before  | **<big>[[H2958|טְרוֹם]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> t.rom<small><sup>[[HNcbsa]]</sup></small> 
-[^6]: ==L== spelled: **<span class="ashebrew"><big>בְּטֶ֛רֶום</big></span>**
+[^1]: foot his  | **<big>[[H9023|וֹ]]</big><big>[[H4772|מַרְגְּלֹת]]</big> ** | mar.ge.la.ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: foot his  | **<big>[[H9023|וֹ]]</big><big>[[H4772|מַרְגְּלֹת]]</big> ** | mar.ge.la.ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>מַרְגְּלוֹתָו֙</big></span>**
+[^4]: \<in> before  | **<big>[[H2958|טְרוֹם]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> t.rom<small><sup>[[HNcbsa]]</sup></small> | K
+[^5]: \<in> before  | **<big>[[H2958|טְרוֹם]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> t.rom<small><sup>[[HNcbsa]]</sup></small> | K
+[^6]: L spelled: **<span class="ashebrew"><big>בְּטֶ֛רֶום</big></span>**
 

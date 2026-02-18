@@ -25,7 +25,7 @@ I will make them a horror to all the kingdoms of the earth because of what Manas
 | in Jerusalem  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3389\|ירוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.3|<< Jeremiah 15:3]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.5|Jeremiah 15:5 >>]]</td></tr></table>
 
-[^1]: ==K==: into a terror  | **<big>[[H2113|זְוָעָה]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> z.va.'ah<small><sup>[[HNcfsa]]</sup></small> 
-[^2]: ==K==: into a terror  | **<big>[[H2113|זְוָעָה]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> z.va.'ah<small><sup>[[HNcfsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>לְזַֽוֲעָ֔ה</big></span>**
+[^1]: into a terror  | **<big>[[H2113|זְוָעָה]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> z.va.'ah<small><sup>[[HNcfsa]]</sup></small> | K
+[^2]: into a terror  | **<big>[[H2113|זְוָעָה]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> z.va.'ah<small><sup>[[HNcfsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>לְזַֽוֲעָ֔ה</big></span>**
 

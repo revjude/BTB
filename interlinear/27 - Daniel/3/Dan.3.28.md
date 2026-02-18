@@ -42,7 +42,7 @@ Nebuchadnezzar declared, “Blessed be the God of Shadrach, Meshach, and Abedneg
 | to own God their  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0426\|אלָֽהֲ]]&#8207;&#8207;[[H9028\|הֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[AR]]</sup></small> La.ha.<small><sup>[[HNcbsc]]</sup></small> Hon<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.27|<< Daniel 3:27]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.29|Daniel 3:29 >>]]</td></tr></table>
 
-[^1]: ==K==: bodies their  | **<big>[[H9028|הוֹן]]</big><big>[[H1655|גֶשְׁמֵי]]</big> ** | gesh.mei.<small><sup>[[ANcmpc]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> 
-[^2]: ==K==: bodies their  | **<big>[[H9028|הוֹן]]</big><big>[[H1655|גֶשְׁמֵי]]</big> ** | gesh.mei.<small><sup>[[ANcmpc]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="asaramaic"><big>גֶשְׁמְיה֗וֹן</big></span>**
+[^1]: bodies their  | **<big>[[H9028|הוֹן]]</big><big>[[H1655|גֶשְׁמֵי]]</big> ** | gesh.mei.<small><sup>[[ANcmpc]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
+[^2]: bodies their  | **<big>[[H9028|הוֹן]]</big><big>[[H1655|גֶשְׁמֵי]]</big> ** | gesh.mei.<small><sup>[[ANcmpc]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="asaramaic"><big>גֶשְׁמְיה֗וֹן</big></span>**
 

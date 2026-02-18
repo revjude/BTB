@@ -17,6 +17,6 @@ Then the trees said to the grapevine, ‘Come and reign over us.’
 | over us  |**<big>&#8207;[[H5921A\|עָלֵֽי]]&#8207;&#8207;[[H9035\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Lei.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.11|<< Judges 9:11]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.13|Judges 9:13 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>מָלְוכִ֥י</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>מָלוֹכִי</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>מָלְוכִ֥י</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>מָלוֹכִי</big></span>**
 

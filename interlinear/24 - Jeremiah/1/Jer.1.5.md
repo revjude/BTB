@@ -25,6 +25,6 @@ Before I formed thee in the belly I knew thee; and before thou camest forth out 
 | I appointed you  |**<big>&#8207;[[H5414H\|נְתַתִּֽי]]&#8207;&#8207;[[H9031\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ne.ta.Ti.<small><sup>[[HVqp1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.1.4|<< Jeremiah 1:4]]</td><td align="center" style="border:none;">[[Jer.1|Jeremiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.1.6|Jeremiah 1:6 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>אֶצָּורְךָ֤</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>אֶצּוֹרְךָ</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>אֶצָּורְךָ֤</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>אֶצּוֹרְךָ</big></span>**
 

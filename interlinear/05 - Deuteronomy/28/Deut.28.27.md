@@ -21,8 +21,8 @@ The LORD will afflict you with the boils of Egypt, with tumors and scabs and itc
 | to be healed  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7495\|הֵרָפֵֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> he.ra.Fe'<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.26|<< Deuteronomy 28:26]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.28|Deuteronomy 28:28 >>]]</td></tr></table>
 
-[^1]: ==K==: and with \<the> tumors  | **<big>[[H6076B|עֳפָלִים]]</big><big>[[H9003|בָ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> vo.<small><sup>[[HRd]]</sup></small> 'o.fa.lim<small><sup>[[HNcmpa]]</sup></small> 
-[^2]: ==K==: and with \<the> tumors  | **<big>[[H6076B|עֳפָלִים]]</big><big>[[H9003|בָ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> vo.<small><sup>[[HRd]]</sup></small> 'o.fa.lim<small><sup>[[HNcmpa]]</sup></small> 
-[^3]: ==K==: and with \<the> tumors  | **<big>[[H6076B|עֳפָלִים]]</big><big>[[H9003|בָ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> vo.<small><sup>[[HRd]]</sup></small> 'o.fa.lim<small><sup>[[HNcmpa]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וּבַ/עְפֹלִ֔ים</big></span>**
+[^1]: and with \<the> tumors  | **<big>[[H6076B|עֳפָלִים]]</big><big>[[H9003|בָ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> vo.<small><sup>[[HRd]]</sup></small> 'o.fa.lim<small><sup>[[HNcmpa]]</sup></small> | K
+[^2]: and with \<the> tumors  | **<big>[[H6076B|עֳפָלִים]]</big><big>[[H9003|בָ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> vo.<small><sup>[[HRd]]</sup></small> 'o.fa.lim<small><sup>[[HNcmpa]]</sup></small> | K
+[^3]: and with \<the> tumors  | **<big>[[H6076B|עֳפָלִים]]</big><big>[[H9003|בָ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> vo.<small><sup>[[HRd]]</sup></small> 'o.fa.lim<small><sup>[[HNcmpa]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וּבַ/עְפֹלִ֔ים</big></span>**
 

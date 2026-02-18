@@ -33,7 +33,7 @@ He said furthermore unto me, Son of man, seest thou what they do? [even] the gre
 | great  |**<big>&#8207;[[H1419A\|גְּדֹלֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ge.do.Lot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.8.5|<< Ezekiel 8:5]]</td><td align="center" style="border:none;">[[Ezek.8|Ezekiel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.8.7|Ezekiel 8:7 >>]]</td></tr></table>
 
-[^1]: ==K==: what [are] they  | **<big>[[H9048|הֶם]]</big><big>[[H4100|מֵ]]</big> ** | me.<small><sup>[[HPi]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> 
-[^2]: ==K==: what [are] they  | **<big>[[H9048|הֶם]]</big><big>[[H4100|מֵ]]</big> ** | me.<small><sup>[[HPi]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>םָ֣הֵ֣ם</big></span>**
+[^1]: what [are] they  | **<big>[[H9048|הֶם]]</big><big>[[H4100|מֵ]]</big> ** | me.<small><sup>[[HPi]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^2]: what [are] they  | **<big>[[H9048|הֶם]]</big><big>[[H4100|מֵ]]</big> ** | me.<small><sup>[[HPi]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>םָ֣הֵ֣ם</big></span>**
 

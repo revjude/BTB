@@ -35,7 +35,7 @@ Suddenly another beast appeared, which looked like a bear. It was raised up on o
 | much  |**<big>&#8207;[[H7690\|שַׂגִּֽיא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sa.Gi'<small><sup>[[AAabsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.4|<< Daniel 7:4]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.6|Daniel 7:6 >>]]</td></tr></table>
 
-[^1]: ==K==: teeth its  | **<big>[[H9024|הּ]]</big><big>[[H8128|שִׁנַּיַּ]]</big> ** | shi.nai.ya<small><sup>[[ANcfpc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> 
-[^2]: ==K==: teeth its  | **<big>[[H9024|הּ]]</big><big>[[H8128|שִׁנַּיַּ]]</big> ** | shi.nai.ya<small><sup>[[ANcfpc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="asaramaic"><big>שִׁנַּ֑יהּ</big></span>**
+[^1]: teeth its  | **<big>[[H9024|הּ]]</big><big>[[H8128|שִׁנַּיַּ]]</big> ** | shi.nai.ya<small><sup>[[ANcfpc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | K
+[^2]: teeth its  | **<big>[[H9024|הּ]]</big><big>[[H8128|שִׁנַּיַּ]]</big> ** | shi.nai.ya<small><sup>[[ANcfpc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | K
+[^3]: L spelled: **<span class="asaramaic"><big>שִׁנַּ֑יהּ</big></span>**
 

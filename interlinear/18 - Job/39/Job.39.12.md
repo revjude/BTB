@@ -17,6 +17,6 @@ Can you trust him to bring in your grain and gather it to your threshing floor?
 | it will gather  |**<big>&#8207;[[H0622\|יֶאֱסֹֽף]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.'e.Sof<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.11|<< Job 39:11]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.13|Job 39:13 >>]]</td></tr></table>
 
-[^1]: ==K==: it will come back  | **<big>[[H7725G|יָשׁוּב]]</big> ** | ya.shuv<small><sup>[[HVqi3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יָשִׁ֣וב</big></span>**
+[^1]: it will come back  | **<big>[[H7725G|יָשׁוּב]]</big> ** | ya.shuv<small><sup>[[HVqi3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יָשִׁ֣וב</big></span>**
 

@@ -20,5 +20,5 @@ And the angel of the LORD said unto him, Why askest thou thus after my name, see
 | [is] incomprehensible  |**<big>&#8207;[[H6383\|פֶ֛לִאי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Fe.li<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.17|<< Judges 13:17]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.19|Judges 13:19 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>לוֹ֙</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>לוֹ֙</big></span>**
 

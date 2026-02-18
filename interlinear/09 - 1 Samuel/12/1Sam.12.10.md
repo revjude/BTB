@@ -29,7 +29,7 @@ Then they cried out to the LORD and said, ‘We have sinned, for we have forsake
 | so we may serve you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5647G\|נַעַבְדֶֽ]]&#8207;&#8207;[[H9031\|ךָּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> na.'av.De.<small><sup>[[HVqu1cp]]</sup></small> ka<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.12.9|<< 1 Samuel 12:9]]</td><td align="center" style="border:none;">[[1Sam.12|1 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.12.11|1 Samuel 12:11 >>]]</td></tr></table>
 
-[^1]: ==K==: and he said  | **<big>[[H0559|יֹּאמֶר]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.mer<small><sup>[[HVqw3ms]]</sup></small> 
-[^2]: ==K==: and he said  | **<big>[[H0559|יֹּאמֶר]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.mer<small><sup>[[HVqw3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וַיֹּאמְרֻ֣</big></span>**
+[^1]: and he said  | **<big>[[H0559|יֹּאמֶר]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.mer<small><sup>[[HVqw3ms]]</sup></small> | K
+[^2]: and he said  | **<big>[[H0559|יֹּאמֶר]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.mer<small><sup>[[HVqw3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וַיֹּאמְרֻ֣</big></span>**
 

@@ -24,8 +24,8 @@ You will be pledged in marriage to a woman, but another man will violate her. Yo
 | you will put to use it  |**<big>&#8207;[[H2490I\|תְחַלְּלֶּֽ]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^4] | te.chal.le.Le.<small><sup>[[HVpi2ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.29|<< Deuteronomy 28:29]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.31|Deuteronomy 28:31 >>]]</td></tr></table>
 
-[^1]: ==K==: he will rape her  | **<big>[[H9034|נָּה]]</big><big>[[H7693|יִשְׁגָּלֶ]]</big> ** | yish.ga.le.<small><sup>[[HVqi3ms]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> 
-[^2]: ==K==: he will rape her  | **<big>[[H9034|נָּה]]</big><big>[[H7693|יִשְׁגָּלֶ]]</big> ** | yish.ga.le.<small><sup>[[HVqi3ms]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>יִשְׁגָּלֶ֔נָּה</big></span>**
-[^4]: ==ABH== spelled: **<span class="ashebrew"><big>תְחַלְּלֶֽנּוּ\׃</big></span>**
+[^1]: he will rape her  | **<big>[[H9034|נָּה]]</big><big>[[H7693|יִשְׁגָּלֶ]]</big> ** | yish.ga.le.<small><sup>[[HVqi3ms]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | K
+[^2]: he will rape her  | **<big>[[H9034|נָּה]]</big><big>[[H7693|יִשְׁגָּלֶ]]</big> ** | yish.ga.le.<small><sup>[[HVqi3ms]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>יִשְׁגָּלֶ֔נָּה</big></span>**
+[^4]: ABH spelled: **<span class="ashebrew"><big>תְחַלְּלֶֽנּוּ\׃</big></span>**
 

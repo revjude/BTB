@@ -18,5 +18,5 @@ By warfare and exile You contended with her and removed her with a fierce wind, 
 | [the] east wind  |**<big>&#8207;[[H6921\|קָדִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ka.Dim<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.27.7|<< Isaiah 27:7]]</td><td align="center" style="border:none;">[[Isa.27|Isaiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.27.9|Isaiah 27:9 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>בְּסַאסְּאָ֖ה</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>בְּסַאסְּאָ֖ה</big></span>**
 

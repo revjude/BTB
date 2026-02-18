@@ -25,6 +25,6 @@ But after you, there will arise another kingdom, inferior to yours. Next, a thir
 | earth the  |**<big>&#8207;[[H0772I\|אַרְעָֽ]]&#8207;&#8207;[[H9010\|א]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'ar.'A<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.38|<< Daniel 2:38]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.40|Daniel 2:40 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>תְלִיתָיאָ֤</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>תְלִיתָיָא</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>תְלִיתָיאָ֤</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>תְלִיתָיָא</big></span>**
 

@@ -30,6 +30,6 @@ He also struck down an Egyptian, a huge man. Although the Egyptian had a spear i
 | with own spear his  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2595\|חֲנִיתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> cha.ni.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.20|<< 2 Samuel 23:20]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.22|2 Samuel 23:22 >>]]</td></tr></table>
 
-[^1]: ==K==: who  | **<big>[[H0834A|אֲשֶׁר]]</big> ** | 'a.Sher<small><sup>[[HTr]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אִ֣שׁר</big></span>**
+[^1]: who  | **<big>[[H0834A|אֲשֶׁר]]</big> ** | 'a.Sher<small><sup>[[HTr]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אִ֣שׁר</big></span>**
 

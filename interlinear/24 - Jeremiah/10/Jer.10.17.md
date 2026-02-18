@@ -15,6 +15,6 @@ Gather up your belongings from this land, you who live under siege.
 | in the siege  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4692\|מָּצֽוֹר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> ma.Tzor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.16|<< Jeremiah 10:16]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.18|Jeremiah 10:18 >>]]</td></tr></table>
 
-[^1]: ==K==: O [you who] dwell  | **<big>[[H3427|יֹשַׁבְתִּי]]</big> ** | yo.shav.ti<small><sup>[[HVqrfsc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יֹשֶׁ֖בֶתי</big></span>**
+[^1]: O [you who] dwell  | **<big>[[H3427|יֹשַׁבְתִּי]]</big> ** | yo.shav.ti<small><sup>[[HVqrfsc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יֹשֶׁ֖בֶתי</big></span>**
 

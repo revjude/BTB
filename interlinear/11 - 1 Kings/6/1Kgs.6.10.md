@@ -24,7 +24,7 @@ He built chambers all along the temple, each five cubits high and attached to th
 | cedar\<s>  |**<big>&#8207;[[H0730\|אֲרָזִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'a.ra.Zim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.9|<< 1 Kings 6:9]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.11|1 Kings 6:11 >>]]</td></tr></table>
 
-[^1]: ==K==: the bed  | **<big>[[H3326B|יָּצוֹעַ]]</big><big>[[H9009|הַ]]</big> ** | hai.<small><sup>[[HTd]]</sup></small> ya.tzo.a'<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==K==: the bed  | **<big>[[H3326B|יָּצוֹעַ]]</big><big>[[H9009|הַ]]</big> ** | hai.<small><sup>[[HTd]]</sup></small> ya.tzo.a'<small><sup>[[HNcbsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הַיָּצִ֙ועַ֙</big></span>**
+[^1]: the bed  | **<big>[[H3326B|יָּצוֹעַ]]</big><big>[[H9009|הַ]]</big> ** | hai.<small><sup>[[HTd]]</sup></small> ya.tzo.a'<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: the bed  | **<big>[[H3326B|יָּצוֹעַ]]</big><big>[[H9009|הַ]]</big> ** | hai.<small><sup>[[HTd]]</sup></small> ya.tzo.a'<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הַיָּצִ֙ועַ֙</big></span>**
 

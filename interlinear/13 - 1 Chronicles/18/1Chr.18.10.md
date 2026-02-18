@@ -37,6 +37,6 @@ he sent his son Hadoram to greet King David and bless him for fighting and defea
 | and bronze  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H5178A\|נְחֹֽשֶׁת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ne.Cho.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.18.9|<< 1 Chronicles 18:9]]</td><td align="center" style="border:none;">[[1Chr.18|1 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.18.11|1 Chronicles 18:11 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>לִשְׁאָול\־</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>לִשְׁאוֹל</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>לִשְׁאָול\־</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>לִשְׁאוֹל</big></span>**
 

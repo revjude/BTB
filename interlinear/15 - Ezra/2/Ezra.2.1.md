@@ -27,6 +27,6 @@ Now these are the people of the province who came up from the captivity of the e
 | to own city his  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5892B\|עִירֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'i.R<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.1.11|<< Ezra 1:11]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.2|Ezra 2:2 >>]]</td></tr></table>
 
-[^1]: ==K==: Nebuchadnezzar  | **<big>[[H5020|נְבוּכַדְנֶצּוֹר]]</big> ** | ne.vu.khad.ne.tzor<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>נְבוּכַדְנֶצַּ֥ור</big></span>**
+[^1]: Nebuchadnezzar  | **<big>[[H5020|נְבוּכַדְנֶצּוֹר]]</big> ** | ne.vu.khad.ne.tzor<small><sup>[[HNpm]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>נְבוּכַדְנֶצַּ֥ור</big></span>**
 

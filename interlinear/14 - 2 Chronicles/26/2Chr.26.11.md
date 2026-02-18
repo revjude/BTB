@@ -30,6 +30,6 @@ Uzziah had an army ready for battle that went out to war by assigned divisions, 
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּֽלֶךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.10|<< 2 Chronicles 26:10]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.12|2 Chronicles 26:12 >>]]</td></tr></table>
 
-[^1]: ==K==: Jeuel  | **<big>[[H3273K|יְעוּאֵל]]</big> ** | ye.'u.'el<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יְעִואֵ֣ל</big></span>**
+[^1]: Jeuel  | **<big>[[H3273K|יְעוּאֵל]]</big> ** | ye.'u.'el<small><sup>[[HNpm]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יְעִואֵ֣ל</big></span>**
 

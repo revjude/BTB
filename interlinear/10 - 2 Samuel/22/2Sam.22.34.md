@@ -16,7 +16,7 @@ He makes my feet like those of a deer and stations me upon the heights.
 | he makes stand firm me  |**<big>&#8207;[[H5975G\|יַעֲמִדֵֽ]]&#8207;&#8207;[[H9030\|נִי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.'a.mi.De.<small><sup>[[HVhi3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.33|<< 2 Samuel 22:33]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.35|2 Samuel 22:35 >>]]</td></tr></table>
 
-[^1]: ==K==: feet his  | **<big>[[H9023|ו]]</big><big>[[H7272|רַגְלָי]]</big> ** | rag.la<small><sup>[[HNcbdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: feet his  | **<big>[[H9023|ו]]</big><big>[[H7272|רַגְלָי]]</big> ** | rag.la<small><sup>[[HNcbdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>רַגְלַ֖יו</big></span>**
+[^1]: feet his  | **<big>[[H9023|ו]]</big><big>[[H7272|רַגְלָי]]</big> ** | rag.la<small><sup>[[HNcbdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: feet his  | **<big>[[H9023|ו]]</big><big>[[H7272|רַגְלָי]]</big> ** | rag.la<small><sup>[[HNcbdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>רַגְלַ֖יו</big></span>**
 

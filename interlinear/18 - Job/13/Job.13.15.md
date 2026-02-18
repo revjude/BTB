@@ -19,7 +19,7 @@ Though He slay me, I will hope in Him. I will still defend my ways to His face.
 | I will argue  |**<big>&#8207;[[H3198\|אוֹכִֽיחַ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'o.Khi.ach<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.13.14|<< Job 13:14]]</td><td align="center" style="border:none;">[[Job.13|Job 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.13.16|Job 13:16 >>]]</td></tr></table>
 
-[^1]: ==K==: toward  | **<big>[[H0413|לֹא]]</big> ** | lo'<small><sup>[[HR]]</sup></small> 
-[^2]: ==K==: toward  | **<big>[[H0413|לֹא]]</big> ** | lo'<small><sup>[[HR]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>לֹ֣א</big></span>**
+[^1]: toward  | **<big>[[H0413|לֹא]]</big> ** | lo'<small><sup>[[HR]]</sup></small> | K
+[^2]: toward  | **<big>[[H0413|לֹא]]</big> ** | lo'<small><sup>[[HR]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>לֹ֣א</big></span>**
 

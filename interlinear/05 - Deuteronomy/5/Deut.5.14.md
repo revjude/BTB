@@ -36,9 +36,9 @@ but the seventh day is a Sabbath to the LORD your God, on which you must not do 
 | like you  |**<big>&#8207;[[H3644G\|כָּמֽ֑וֹ]]&#8207;&#8207;[[H9031\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^5] | ka.Mo.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.13|<< Deuteronomy 5:13]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.15|Deuteronomy 5:15 >>]]</td></tr></table>
 
-[^1]: ==P== spelled: **<span class="ashebrew"><big>הַשְּׁבִיעִ֜י</big></span>**
-[^2]: ==P== spelled: **<span class="ashebrew"><big>שַׁבָּ֣ת\׀</big></span>**
-[^3]: ==B== spelled: **<span class="ashebrew"><big>לַיהוָ֖ה</big></span>**
-[^4]: ==P== spelled: **<span class="ashebrew"><big>אֱלֹהֶ֗יךָ</big></span>**
-[^5]: ==P== spelled: **<span class="ashebrew"><big>כָּמ֑וֹךָ\׃</big></span>**
+[^1]: P spelled: **<span class="ashebrew"><big>הַשְּׁבִיעִ֜י</big></span>**
+[^2]: P spelled: **<span class="ashebrew"><big>שַׁבָּ֣ת\׀</big></span>**
+[^3]: B spelled: **<span class="ashebrew"><big>לַיהוָ֖ה</big></span>**
+[^4]: P spelled: **<span class="ashebrew"><big>אֱלֹהֶ֗יךָ</big></span>**
+[^5]: P spelled: **<span class="ashebrew"><big>כָּמ֑וֹךָ\׃</big></span>**
 

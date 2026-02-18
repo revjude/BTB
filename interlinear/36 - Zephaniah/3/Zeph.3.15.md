@@ -23,5 +23,5 @@ The LORD has taken away your punishment; He has turned back your enemy. Israel�
 | again  |**<big>&#8207;[[H5750\|עֽוֹד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.14|<< Zephaniah 3:14]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.16|Zephaniah 3:16 >>]]</td></tr></table>
 
-[^1]: ==V==: you will see  | **<big>[[H7200G|תִֽרְאִ֥י]]</big> ** | tir.'I<small><sup>[[HVqi2fs]]</sup></small> 
+[^1]: you will see  | **<big>[[H7200G|תִֽרְאִ֥י]]</big> ** | tir.'I<small><sup>[[HVqi2fs]]</sup></small> | V
 

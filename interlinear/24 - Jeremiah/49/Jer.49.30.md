@@ -29,7 +29,7 @@ Run! Escape quickly! Lie low, O residents of Hazor,” declares the LORD, “for
 | a purpose  |**<big>&#8207;[[H4284\|מַחֲשָׁבָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ma.cha.sha.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.29|<< Jeremiah 49:29]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.31|Jeremiah 49:31 >>]]</td></tr></table>
 
-[^1]: ==K==: on them  | **<big>[[H9038|הֶם]]</big><big>[[H5921A|עֲלֵי]]</big> ** | 'a.lei.<small><sup>[[HRd]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> 
-[^2]: ==K==: on them  | **<big>[[H9038|הֶם]]</big><big>[[H5921A|עֲלֵי]]</big> ** | 'a.lei.<small><sup>[[HRd]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>עֲלֵיהֶ֖ם</big></span>**
+[^1]: on them  | **<big>[[H9038|הֶם]]</big><big>[[H5921A|עֲלֵי]]</big> ** | 'a.lei.<small><sup>[[HRd]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^2]: on them  | **<big>[[H9038|הֶם]]</big><big>[[H5921A|עֲלֵי]]</big> ** | 'a.lei.<small><sup>[[HRd]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>עֲלֵיהֶ֖ם</big></span>**
 

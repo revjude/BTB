@@ -28,8 +28,8 @@ The rings of the breastpiece shall be tied to the rings of the ephod with a cord
 | the ephod  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0646\|אֵפֽוֹד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.Fod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.27|<< Exodus 28:27]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.29|Exodus 28:29 >>]]</td></tr></table>
 
-[^1]: ==K==: from ring its  | **<big>[[H9023|וֹ]]</big><big>[[H2885|טַּבְּעֹת]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> ta.be.'o.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: from ring its  | **<big>[[H9023|וֹ]]</big><big>[[H2885|טַּבְּעֹת]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> ta.be.'o.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: from ring its  | **<big>[[H9023|וֹ]]</big><big>[[H2885|טַּבְּעֹת]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> ta.be.'o.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>מִֽטַּבְּעֹתָ֞/ו</big></span>**
+[^1]: from ring its  | **<big>[[H9023|וֹ]]</big><big>[[H2885|טַּבְּעֹת]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> ta.be.'o.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: from ring its  | **<big>[[H9023|וֹ]]</big><big>[[H2885|טַּבְּעֹת]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> ta.be.'o.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: from ring its  | **<big>[[H9023|וֹ]]</big><big>[[H2885|טַּבְּעֹת]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> ta.be.'o.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>מִֽטַּבְּעֹתָ֞/ו</big></span>**
 

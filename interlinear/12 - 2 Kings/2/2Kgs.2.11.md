@@ -27,5 +27,5 @@ As they were walking along and talking together, suddenly a chariot of fire with
 | the heavens  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8064\|שָּׁמָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.2.10|<< 2 Kings 2:10]]</td><td align="center" style="border:none;">[[2Kgs.2|2 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.2.12|2 Kings 2:12 >>]]</td></tr></table>
 
-[^1]: ==H== spelled: **<span class="ashebrew"><big>בַּֽסְּעָרָ֖ה</big></span>**
+[^1]: H spelled: **<span class="ashebrew"><big>בַּֽסְּעָרָ֖ה</big></span>**
 

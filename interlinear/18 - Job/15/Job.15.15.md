@@ -18,8 +18,8 @@ If God puts no trust in His holy ones, if even the heavens are not pure in His e
 | in view his  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H5869H\|עֵינָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> 'ei.Na<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.14|<< Job 15:14]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.16|Job 15:16 >>]]</td></tr></table>
 
-[^1]: ==K==: in holy [one] his  | **<big>[[H9023|וֹ]]</big><big>[[H6918G|קְדֹשׁ]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> k.do.sho<small><sup>[[HAamsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: in holy [one] his  | **<big>[[H9023|וֹ]]</big><big>[[H6918G|קְדֹשׁ]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> k.do.sho<small><sup>[[HAamsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: in holy [one] his  | **<big>[[H9023|וֹ]]</big><big>[[H6918G|קְדֹשׁ]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> k.do.sho<small><sup>[[HAamsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>בִּ֭קְדֹשָׁ/ו</big></span>**
+[^1]: in holy [one] his  | **<big>[[H9023|וֹ]]</big><big>[[H6918G|קְדֹשׁ]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> k.do.sho<small><sup>[[HAamsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: in holy [one] his  | **<big>[[H9023|וֹ]]</big><big>[[H6918G|קְדֹשׁ]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> k.do.sho<small><sup>[[HAamsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: in holy [one] his  | **<big>[[H9023|וֹ]]</big><big>[[H6918G|קְדֹשׁ]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> k.do.sho<small><sup>[[HAamsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>בִּ֭קְדֹשָׁ/ו</big></span>**
 

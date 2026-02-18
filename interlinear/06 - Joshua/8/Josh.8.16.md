@@ -23,7 +23,7 @@ Then all the men of Ai were summoned to pursue them, and they followed Joshua an
 | the city  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5892B\|עִֽיר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.15|<< Joshua 8:15]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.17|Joshua 8:17 >>]]</td></tr></table>
 
-[^1]: ==K==: [was] in the city  | **<big>[[H5892B|עִיר]]</big><big>[[H9003|בָּ]]</big> ** | ba.<small><sup>[[HRd]]</sup></small> 'ir<small><sup>[[HNcfsa]]</sup></small> 
-[^2]: ==K==: [was] in the city  | **<big>[[H5892B|עִיר]]</big><big>[[H9003|בָּ]]</big> ** | ba.<small><sup>[[HRd]]</sup></small> 'ir<small><sup>[[HNcfsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בָּעַ֔יר</big></span>**
+[^1]: [was] in the city  | **<big>[[H5892B|עִיר]]</big><big>[[H9003|בָּ]]</big> ** | ba.<small><sup>[[HRd]]</sup></small> 'ir<small><sup>[[HNcfsa]]</sup></small> | K
+[^2]: [was] in the city  | **<big>[[H5892B|עִיר]]</big><big>[[H9003|בָּ]]</big> ** | ba.<small><sup>[[HRd]]</sup></small> 'ir<small><sup>[[HNcfsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בָּעַ֔יר</big></span>**
 

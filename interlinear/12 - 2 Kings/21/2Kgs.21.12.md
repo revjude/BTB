@@ -28,7 +28,7 @@ this is what the LORD, the God of Israel, says: ‘Behold, I am bringing such ca
 | ears his  |**<big>&#8207;[[H0241G\|אָזְנָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.ze.Na<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.21.11|<< 2 Kings 21:11]]</td><td align="center" style="border:none;">[[2Kgs.21|2 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.21.13|2 Kings 21:13 >>]]</td></tr></table>
 
-[^1]: ==K==: [those who] hear of it  | **<big>[[H9033|ו]]</big><big>[[H8085G|שֹׁמְעָי]]</big> ** | sho.me.'a<small><sup>[[HVqrmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: [those who] hear of it  | **<big>[[H9033|ו]]</big><big>[[H8085G|שֹׁמְעָי]]</big> ** | sho.me.'a<small><sup>[[HVqrmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>שֹׁ֣מְעָ֔יּו</big></span>**
+[^1]: [those who] hear of it  | **<big>[[H9033|ו]]</big><big>[[H8085G|שֹׁמְעָי]]</big> ** | sho.me.'a<small><sup>[[HVqrmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: [those who] hear of it  | **<big>[[H9033|ו]]</big><big>[[H8085G|שֹׁמְעָי]]</big> ** | sho.me.'a<small><sup>[[HVqrmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>שֹׁ֣מְעָ֔יּו</big></span>**
 

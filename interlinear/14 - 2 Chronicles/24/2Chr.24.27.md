@@ -27,6 +27,6 @@ The accounts of the sons of Joash and the many pronouncements about him, and of 
 | in place of him  |**<big>&#8207;[[H8478H\|תַּחְתָּֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tach.Ta<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.26|<< 2 Chronicles 24:26]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.1|2 Chronicles 25:1 >>]]</td></tr></table>
 
-[^1]: ==K==: and [the] abundance of  | **<big>[[H7230|רֹב]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> rov<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>וִ֧רֶ֞ב</big></span>**
+[^1]: and [the] abundance of  | **<big>[[H7230|רֹב]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> rov<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>וִ֧רֶ֞ב</big></span>**
 

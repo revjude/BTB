@@ -28,6 +28,6 @@ So now, my lord the king, do not take to heart the report that all the sons of t
 | he has died  |**<big>&#8207;[[H4191\|מֵֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Met<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.32|<< 2 Samuel 13:32]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.34|2 Samuel 13:34 >>]]</td></tr></table>
 
-[^1]: ==K==: except  | **<big>[[H9014|־]]</big><big>[[H0518B|אִם]]</big> ** | 'im-<small><sup>[[HTc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אִם\־</big></span>**
+[^1]: except  | **<big>[[H9014|־]]</big><big>[[H0518B|אִם]]</big> ** | 'im-<small><sup>[[HTc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אִם\־</big></span>**
 

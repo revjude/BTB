@@ -27,6 +27,6 @@ These are the commandments and statutes and ordinances that the LORD your God ha
 | to take possession of it  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3423H\|רִשְׁתָּֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> rish.Ta<small><sup>[[HVqcc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.33|<< Deuteronomy 5:33]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.2|Deuteronomy 6:2 >>]]</td></tr></table>
 
-[^1]: ==P==: and  | **<big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 
-[^2]: ==P==: and  | **<big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 
+[^1]: and  | **<big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> | P
+[^2]: and  | **<big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> | P
 

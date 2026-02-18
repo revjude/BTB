@@ -31,6 +31,6 @@ And Saul asked him, “Why have you and the son of Jesse conspired against me? Y
 | \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.22.12|<< 1 Samuel 22:12]]</td><td align="center" style="border:none;">[[1Sam.22|1 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.22.14|1 Samuel 22:14 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>אֵלָו֙</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>אֵלוֹ</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>אֵלָו֙</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>אֵלוֹ</big></span>**
 

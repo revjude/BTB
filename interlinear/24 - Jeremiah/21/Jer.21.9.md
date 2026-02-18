@@ -28,7 +28,7 @@ Whoever stays in this city will die by sword and famine and plague, but whoever 
 | to plunder  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7998\|שָׁלָֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> sha.Lal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.21.8|<< Jeremiah 21:8]]</td><td align="center" style="border:none;">[[Jer.21|Jeremiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.21.10|Jeremiah 21:10 >>]]</td></tr></table>
 
-[^1]: ==K==: he will live  | **<big>[[H2421|יִחְיֶה]]</big> ** | yich.yeh<small><sup>[[HVqi3ms]]</sup></small> 
-[^2]: ==K==: he will live  | **<big>[[H2421|יִחְיֶה]]</big> ** | yich.yeh<small><sup>[[HVqi3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>יְחָיָ֔ה</big></span>**
+[^1]: he will live  | **<big>[[H2421|יִחְיֶה]]</big> ** | yich.yeh<small><sup>[[HVqi3ms]]</sup></small> | K
+[^2]: he will live  | **<big>[[H2421|יִחְיֶה]]</big> ** | yich.yeh<small><sup>[[HVqi3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>יְחָיָ֔ה</big></span>**
 

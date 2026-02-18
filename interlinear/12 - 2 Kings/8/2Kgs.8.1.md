@@ -36,6 +36,6 @@ Now Elisha had said to the woman whose son he had restored to life, “Arise, yo
 | years  |**<big>&#8207;[[H8141\|שָׁנִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.7.20|<< 2 Kings 7:20]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.2|2 Kings 8:2 >>]]</td></tr></table>
 
-[^1]: ==K==: you  | **<big>[[H0859B|אַתִּי]]</big> ** | 'a.ti<small><sup>[[HPp2fs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אַ֣תְּי</big></span>**
+[^1]: you  | **<big>[[H0859B|אַתִּי]]</big> ** | 'a.ti<small><sup>[[HPp2fs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אַ֣תְּי</big></span>**
 

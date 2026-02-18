@@ -34,5 +34,5 @@ Soon the daughter of Pharaoh went down to bathe in the Nile, and her attendants 
 | and fetched it she  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|תִּקָּחֶֽ]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**[^1] | va.<small><sup>[[Hc]]</sup></small> ti.ka.Che.<small><sup>[[HVqw3fs]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.4|<< Exodus 2:4]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.6|Exodus 2:6 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>וַתִּקָּחֶֽ/הָ\׃</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>וַתִּקָּחֶֽ/הָ\׃</big></span>**
 

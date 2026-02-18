@@ -38,6 +38,6 @@ Thus saith the LORD of hosts, the God of Israel; Behold, I will bring upon this 
 | words my  |**<big>&#8207;[[H1697G\|דְּבָרָֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| de.va.Ra<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.19.14|<< Jeremiah 19:14]]</td><td align="center" style="border:none;">[[Jer.19|Jeremiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.20.1|Jeremiah 20:1 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>מֵבִ֜י</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>מֵבִי</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>מֵבִ֜י</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>מֵבִי</big></span>**
 

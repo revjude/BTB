@@ -35,6 +35,6 @@ while he himself went a day’s journey into the wilderness. He sat down under a
 | more than ancestors my  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0001G\|אֲבֹתָֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.vo.Ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.19.3|<< 1 Kings 19:3]]</td><td align="center" style="border:none;">[[1Kgs.19|1 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.19.5|1 Kings 19:5 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>אֶחָ֑ת</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>אֶחָת</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>אֶחָ֑ת</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>אֶחָת</big></span>**
 

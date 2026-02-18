@@ -41,7 +41,7 @@ To the Levites who taught all Israel and were holy to the LORD, Josiah said: “
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.2|<< 2 Chronicles 35:2]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.4|2 Chronicles 35:4 >>]]</td></tr></table>
 
-[^1]: ==K==: the teachers  | **<big>[[H4000|מְּבוּנִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> me.vu.nim<small><sup>[[HNcmpa]]</sup></small> 
-[^2]: ==K==: the teachers  | **<big>[[H4000|מְּבוּנִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> me.vu.nim<small><sup>[[HNcmpa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הַמְּבִונִ֨ים</big></span>**
+[^1]: the teachers  | **<big>[[H4000|מְּבוּנִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> me.vu.nim<small><sup>[[HNcmpa]]</sup></small> | K
+[^2]: the teachers  | **<big>[[H4000|מְּבוּנִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> me.vu.nim<small><sup>[[HNcmpa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הַמְּבִונִ֨ים</big></span>**
 

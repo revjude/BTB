@@ -37,7 +37,7 @@ Then tell them that this is what the LORD of Hosts, the God of Israel, says: ‘
 | over them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.43.9|<< Jeremiah 43:9]]</td><td align="center" style="border:none;">[[Jer.43|Jeremiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.43.11|Jeremiah 43:11 >>]]</td></tr></table>
 
-[^1]: ==K==: state tent his  | **<big>[[H9023|וֹ]]</big><big>[[H8237|שַׁפְרוּר]]</big> ** | shaf.ru.ro<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: state tent his  | **<big>[[H9023|וֹ]]</big><big>[[H8237|שַׁפְרוּר]]</big> ** | shaf.ru.ro<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>שַׁפְרִור֖וֹ</big></span>**
+[^1]: state tent his  | **<big>[[H9023|וֹ]]</big><big>[[H8237|שַׁפְרוּר]]</big> ** | shaf.ru.ro<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: state tent his  | **<big>[[H9023|וֹ]]</big><big>[[H8237|שַׁפְרוּר]]</big> ** | shaf.ru.ro<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>שַׁפְרִור֖וֹ</big></span>**
 

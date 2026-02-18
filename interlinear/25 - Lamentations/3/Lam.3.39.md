@@ -17,7 +17,7 @@ Why should any mortal man complain, in view of his sins?
 | sins his  [^2]|**<big>&#8207;[[H2399\|חֲטָאָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**[^3] | chet.'o<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.38|<< Lamentations 3:38]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.40|Lamentations 3:40 >>]]</td></tr></table>
 
-[^1]: ==K==: sin his  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H2399|חֶטְא]]</big> ** | chet.'o<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: sin his  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H2399|חֶטְא]]</big> ** | chet.'o<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>חֲטָאָֽו\׃\ \ס</big></span>**
+[^1]: sin his  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H2399|חֶטְא]]</big> ** | chet.'o<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: sin his  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H2399|חֶטְא]]</big> ** | chet.'o<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>חֲטָאָֽו\׃\ \ס</big></span>**
 

@@ -24,8 +24,8 @@ But when you built your mounds at the head of every street and made your lofty s
 | [the] hire of a prostitute  |**<big>&#8207;[[H0868\|אֶתְנָֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'et.Nan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.30|<< Ezekiel 16:30]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.32|Ezekiel 16:32 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>עָשִׂ֖יתי</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>עָשִׂיתִי</big></span>**
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הָיִ֥יתי</big></span>**
-[^4]: ==K== spelled: **<span class="ashebrew"><big>הָיִיתי</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>עָשִׂ֖יתי</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>עָשִׂיתִי</big></span>**
+[^3]: L spelled: **<span class="ashebrew"><big>הָיִ֥יתי</big></span>**
+[^4]: K spelled: **<span class="ashebrew"><big>הָיִיתי</big></span>**
 

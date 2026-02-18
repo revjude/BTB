@@ -27,6 +27,6 @@ The battle spread over the whole countryside, and that day the forest devoured m
 | \<the> that  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.7|<< 2 Samuel 18:7]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.9|2 Samuel 18:9 >>]]</td></tr></table>
 
-[^1]: ==K==: scattered  | **<big>[[H6327A|נָפֹצֵית]]</big> ** | na.fo.tzeit<small><sup>[[HVNrfpa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>נָפֹ֖צֶית</big></span>**
+[^1]: scattered  | **<big>[[H6327A|נָפֹצֵית]]</big> ** | na.fo.tzeit<small><sup>[[HVNrfpa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>נָפֹ֖צֶית</big></span>**
 

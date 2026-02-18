@@ -41,6 +41,6 @@ The man replied, “Even if a thousand shekels of silver were weighed out into m
 | \<in> Absalom  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0053\|אַבְשָׁלֽוֹם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'av.sha.Lom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.11|<< 2 Samuel 18:11]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.13|2 Samuel 18:13 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וְלֻ֨א</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וְלֹא</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וְלֻ֨א</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וְלֹא</big></span>**
 

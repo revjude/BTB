@@ -19,8 +19,8 @@ Let death seize them by surprise; let them go down to Sheol alive, for evil is w
 | in inner being their  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7130H\|קִרְבָּֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> kir.Ba<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.55.14|<< Psalms 55:14]]</td><td align="center" style="border:none;">[[Ps.55|Psalms 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.55.16|Psalms 55:16 >>]]</td></tr></table>
 
-[^1]: ==K==: desolation  | **<big>[[H3451|יַשִּׁימָוֶת]]</big> ** | ya.shi.ma.vet<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==K==: desolation  | **<big>[[H3451|יַשִּׁימָוֶת]]</big> ** | ya.shi.ma.vet<small><sup>[[HNcbsa]]</sup></small> 
-[^3]: ==K==: desolation  | **<big>[[H3451|יַשִּׁימָוֶת]]</big> ** | ya.shi.ma.vet<small><sup>[[HNcbsa]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>יַשִּׁימָוֶת</big></span>**
+[^1]: desolation  | **<big>[[H3451|יַשִּׁימָוֶת]]</big> ** | ya.shi.ma.vet<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: desolation  | **<big>[[H3451|יַשִּׁימָוֶת]]</big> ** | ya.shi.ma.vet<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: desolation  | **<big>[[H3451|יַשִּׁימָוֶת]]</big> ** | ya.shi.ma.vet<small><sup>[[HNcbsa]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>יַשִּׁימָוֶת</big></span>**
 

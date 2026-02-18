@@ -33,5 +33,5 @@ These are the words of Amos, who was among the sheepherders of Tekoa—what he s
 | the earthquake  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7494\|רָֽעַשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ra.'ash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3.21|<< Joel 3:21]]</td><td align="center" style="border:none;">[[Amos.1|Amos 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.1.2|Amos 1:2 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>עֻזִּיָּ֣ה</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>עֻזִּיָּ֣ה</big></span>**
 

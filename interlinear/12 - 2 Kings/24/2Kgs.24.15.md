@@ -29,6 +29,6 @@ Nebuchadnezzar carried away Jehoiachin to Babylon, as well as the king’s mothe
 | Babylon towards  |**<big>&#8207;[[H0894\|בָּבֶֽלָ]]&#8207;&#8207;[[H9011\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.Ve.la<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.24.14|<< 2 Kings 24:14]]</td><td align="center" style="border:none;">[[2Kgs.24|2 Kings 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.24.16|2 Kings 24:16 >>]]</td></tr></table>
 
-[^1]: ==K==: [the] citizens of  | **<big>[[H0193B|אֱוִלֵי]]</big> ** | 'e.vi.lei<small><sup>[[HNcmpc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אֵולֵ֣י</big></span>**
+[^1]: [the] citizens of  | **<big>[[H0193B|אֱוִלֵי]]</big> ** | 'e.vi.lei<small><sup>[[HNcmpc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אֵולֵ֣י</big></span>**
 

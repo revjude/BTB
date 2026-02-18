@@ -28,7 +28,7 @@ When he lies down, note the place where he lies. Then go in and uncover his feet
 | you will do !  |**<big>&#8207;[[H6213A\|תַּעַשִֽׂי]]&#8207;&#8207;[[H9013\|ן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | ta.'a.Si<small><sup>[[HVqi2fs]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.3.3|<< Ruth 3:3]]</td><td align="center" style="border:none;">[[Ruth.3|Ruth 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.3.5|Ruth 3:5 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וְשָׁכָ֑בְתְּי</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וְשָׁכָבְתִּי</big></span>**
-[^3]: ==ABH== spelled: **<span class="ashebrew"><big>תַּעֲשִֽׂין\׃</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וְשָׁכָ֑בְתְּי</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וְשָׁכָבְתִּי</big></span>**
+[^3]: ABH spelled: **<span class="ashebrew"><big>תַּעֲשִֽׂין\׃</big></span>**
 

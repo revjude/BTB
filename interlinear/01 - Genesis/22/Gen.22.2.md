@@ -39,5 +39,5 @@ And he said, Take now thy son, thine only [son] Isaac, whom thou lovest, and get
 | to you  |**<big>&#8207;[[H0413\|אֵלֶֽי]]&#8207;&#8207;[[H9031\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.Lei.<small><sup>[[HRd]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.22.1|<< Genesis 22:1]]</td><td align="center" style="border:none;">[[Gen.22|Genesis 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.22.3|Genesis 22:3 >>]]</td></tr></table>
 
-[^1]: ==BH== spelled: **<span class="ashebrew"><big>בִּנְךָ֙</big></span>**
+[^1]: BH spelled: **<span class="ashebrew"><big>בִּנְךָ֙</big></span>**
 

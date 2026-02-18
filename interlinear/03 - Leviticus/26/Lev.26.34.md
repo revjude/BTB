@@ -27,5 +27,5 @@ Then the land shall enjoy its Sabbaths all the days it lies desolate, while you 
 | sabbaths its  |**<big>&#8207;[[H7676\|שַׁבְּתֹתֶֽי]]&#8207;&#8207;[[H9024\|הָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sha.be.to.Tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.33|<< Leviticus 26:33]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.35|Leviticus 26:35 >>]]</td></tr></table>
 
-[^1]: ==A== spelled: **<span class="ashebrew"><big>הֳשַּׁמָּ֔ה</big></span>**
+[^1]: A spelled: **<span class="ashebrew"><big>הֳשַּׁמָּ֔ה</big></span>**
 

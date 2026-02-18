@@ -20,5 +20,5 @@ For they have gone up to Assyria like a wild donkey on its own. Ephraim has hire
 | lovers  |**<big>&#8207;[[H0158\|אֲהָבִֽים]]&#8207; </big>**[^1] | 'a.ha.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.8.8|<< Hosea 8:8]]</td><td align="center" style="border:none;">[[Hos.8|Hosea 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.8.10|Hosea 8:10 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>אֲהָבִֽים\׃</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>אֲהָבִֽים\׃</big></span>**
 

@@ -40,7 +40,7 @@ The astrologers answered the king, “No one on earth can do what the king reque
 | and Chaldean  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3779\|כַשְׂדָּֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> khas.Dai<small><sup>[[HNgbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.9|<< Daniel 2:9]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.11|Daniel 2:11 >>]]</td></tr></table>
 
-[^1]: ==K==: Chaldeans the  | **<big>[[H9010|א]]</big><big>[[H3779|כַשְׂדָּיֵ]]</big> ** | khas.da.ye<small><sup>[[ANgmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> 
-[^2]: ==K==: Chaldeans the  | **<big>[[H9010|א]]</big><big>[[H3779|כַשְׂדָּיֵ]]</big> ** | khas.da.ye<small><sup>[[ANgmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>כַשְׂדָּיאֵ֤</big></span>**
+[^1]: Chaldeans the  | **<big>[[H9010|א]]</big><big>[[H3779|כַשְׂדָּיֵ]]</big> ** | khas.da.ye<small><sup>[[ANgmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | K
+[^2]: Chaldeans the  | **<big>[[H9010|א]]</big><big>[[H3779|כַשְׂדָּיֵ]]</big> ** | khas.da.ye<small><sup>[[ANgmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>כַשְׂדָּיאֵ֤</big></span>**
 

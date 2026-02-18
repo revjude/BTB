@@ -31,6 +31,6 @@ And if any man said to him, “The fat must be burned first; then you may take w
 | by force  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H2394\|חָזְקָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> cha.ze.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.15|<< 1 Samuel 2:15]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.17|1 Samuel 2:17 >>]]</td></tr></table>
 
-[^1]: ==K==: to him  | **<big>[[H9033|וֹ]]</big><big>[[H9005|ל]]</big> ** | lo<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>לוֹ֙</big></span>**
+[^1]: to him  | **<big>[[H9033|וֹ]]</big><big>[[H9005|ל]]</big> ** | lo<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>לוֹ֙</big></span>**
 

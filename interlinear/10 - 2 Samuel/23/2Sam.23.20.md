@@ -34,9 +34,9 @@ And Benaiah son of Jehoiada was a man of valor from Kabzeel, a man of many explo
 | the snow  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7950\|שָּֽׁלֶג]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Sha.leg<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.19|<< 2 Samuel 23:19]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.21|2 Samuel 23:21 >>]]</td></tr></table>
 
-[^1]: ==K==: living  | **<big>[[H2416A|חַי]]</big> ** | chai<small><sup>[[HAabsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>חַ֛יִ</big></span>**
-[^3]: ==K==: the lion  | **<big>[[H0738B|אֲרִיַּה]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'a.ri.yah<small><sup>[[HNcbsa]]</sup></small> 
-[^4]: ==K==: the lion  | **<big>[[H0738B|אֲרִיַּה]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'a.ri.yah<small><sup>[[HNcbsa]]</sup></small> 
-[^5]: ==L== spelled: **<span class="ashebrew"><big>הָאֲרִ֛יה</big></span>**
+[^1]: living  | **<big>[[H2416A|חַי]]</big> ** | chai<small><sup>[[HAabsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>חַ֛יִ</big></span>**
+[^3]: the lion  | **<big>[[H0738B|אֲרִיַּה]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'a.ri.yah<small><sup>[[HNcbsa]]</sup></small> | K
+[^4]: the lion  | **<big>[[H0738B|אֲרִיַּה]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'a.ri.yah<small><sup>[[HNcbsa]]</sup></small> | K
+[^5]: L spelled: **<span class="ashebrew"><big>הָאֲרִ֛יה</big></span>**
 

@@ -22,7 +22,7 @@ And I will scatter to every wind all the attendants around him and all his troop
 | after them  |**<big>&#8207;[[H0310A\|אַחֲרֵי]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.cha.rei.<small><sup>[[HAcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.12.13|<< Ezekiel 12:13]]</td><td align="center" style="border:none;">[[Ezek.12|Ezekiel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.12.15|Ezekiel 12:15 >>]]</td></tr></table>
 
-[^1]: ==K==: help his  | **<big>[[H9023|ה]]</big><big>[[H5828|עֶזְרֹ]]</big> ** | ez.ro<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: help his  | **<big>[[H9023|ה]]</big><big>[[H5828|עֶזְרֹ]]</big> ** | ez.ro<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>עֶזְרֹ֛ה</big></span>**
+[^1]: help his  | **<big>[[H9023|ה]]</big><big>[[H5828|עֶזְרֹ]]</big> ** | ez.ro<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: help his  | **<big>[[H9023|ה]]</big><big>[[H5828|עֶזְרֹ]]</big> ** | ez.ro<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>עֶזְרֹ֛ה</big></span>**
 

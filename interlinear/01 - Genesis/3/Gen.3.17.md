@@ -33,5 +33,5 @@ And to Adam He said: “Because you have listened to the voice of your wife and 
 | life your  |**<big>&#8207;[[H2416E\|חַיֶּֽי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| chai.Yei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3.16|<< Genesis 3:16]]</td><td align="center" style="border:none;">[[Gen.3|Genesis 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3.18|Genesis 3:18 >>]]</td></tr></table>
 
-[^1]: ==BH== spelled: **<span class="ashebrew"><big>כִּֽי</big></span>**
+[^1]: BH spelled: **<span class="ashebrew"><big>כִּֽי</big></span>**
 

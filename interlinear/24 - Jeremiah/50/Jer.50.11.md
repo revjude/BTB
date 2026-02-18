@@ -22,13 +22,13 @@ Because ye were glad, because ye rejoiced, O ye destroyers of mine heritage, bec
 | like \<the> mighty [horses]  |**<big>&#8207;[[H9004\|כָּ]]&#8207;&#8207;[[H0047H\|אֲבִּרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> 'a.bi.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.10|<< Jeremiah 50:10]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.12|Jeremiah 50:12 >>]]</td></tr></table>
 
-[^1]: ==K==: you are rejoicing  | **<big>[[H8055|תִשְׂמְחִי]]</big> ** | tis.me.chi<small><sup>[[HVqi2fs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>תִשְׂמְחיּ֙</big></span>**
-[^3]: ==K==: you are gloating  | **<big>[[H5937|תַעֲלְזִי]]</big> ** | ta.'al.zi<small><sup>[[HVqi2fs]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>תַֽעַלְז֔יּ</big></span>**
-[^5]: ==K==: you are skipping about  | **<big>[[H6335A|תָפוּשִׁי]]</big> ** | ta.fu.shi<small><sup>[[HVqi2fs]]</sup></small> 
-[^6]: ==L== spelled: **<span class="ashebrew"><big>תָפ֙וּשׁיּ֙</big></span>**
-[^7]: ==K==: so you may neigh  | **<big>[[H6670A|תִצְהֲלִי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> titz.ha.li<small><sup>[[Vqu2fs]]</sup></small> 
-[^8]: ==K==: so you may neigh  | **<big>[[H6670A|תִצְהֲלִי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> titz.ha.li<small><sup>[[Vqu2fs]]</sup></small> 
-[^9]: ==L== spelled: **<span class="ashebrew"><big>וְתִצְהֲל֖יּ</big></span>**
+[^1]: you are rejoicing  | **<big>[[H8055|תִשְׂמְחִי]]</big> ** | tis.me.chi<small><sup>[[HVqi2fs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>תִשְׂמְחיּ֙</big></span>**
+[^3]: you are gloating  | **<big>[[H5937|תַעֲלְזִי]]</big> ** | ta.'al.zi<small><sup>[[HVqi2fs]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>תַֽעַלְז֔יּ</big></span>**
+[^5]: you are skipping about  | **<big>[[H6335A|תָפוּשִׁי]]</big> ** | ta.fu.shi<small><sup>[[HVqi2fs]]</sup></small> | K
+[^6]: L spelled: **<span class="ashebrew"><big>תָפ֙וּשׁיּ֙</big></span>**
+[^7]: so you may neigh  | **<big>[[H6670A|תִצְהֲלִי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> titz.ha.li<small><sup>[[HVqu2fs]]</sup></small> | K
+[^8]: so you may neigh  | **<big>[[H6670A|תִצְהֲלִי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> titz.ha.li<small><sup>[[HVqu2fs]]</sup></small> | K
+[^9]: L spelled: **<span class="ashebrew"><big>וְתִצְהֲל֖יּ</big></span>**
 

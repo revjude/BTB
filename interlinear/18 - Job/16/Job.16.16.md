@@ -17,6 +17,6 @@ My face is red with weeping, and deep shadows ring my eyes;
 | deep darkness  |**<big>&#8207;[[H6757\|צַלְמָֽוֶת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tzal.Ma.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.15|<< Job 16:15]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.17|Job 16:17 >>]]</td></tr></table>
 
-[^1]: ==K==: it is reddened  | **<big>[[H2560C|חֳמַרְמְרָה]]</big> ** | cho.mar.me.rah<small><sup>[[HVpp3fs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>חֳ֭מַרְמְרֻה</big></span>**
+[^1]: it is reddened  | **<big>[[H2560C|חֳמַרְמְרָה]]</big> ** | cho.mar.me.rah<small><sup>[[HVpp3fs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>חֳ֭מַרְמְרֻה</big></span>**
 

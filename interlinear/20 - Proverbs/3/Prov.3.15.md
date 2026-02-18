@@ -18,6 +18,6 @@ She is more precious than rubies; nothing you desire compares with her.
 | with her  |**<big>&#8207;[[H9003\|בָֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Va<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.14|<< Proverbs 3:14]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.16|Proverbs 3:16 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>מִפְּנִיִ֑ים</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>מִפְּנִיִּים</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>מִפְּנִיִ֑ים</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>מִפְּנִיִּים</big></span>**
 

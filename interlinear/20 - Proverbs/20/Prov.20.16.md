@@ -18,6 +18,6 @@ Take the garment of the one who posts security for a stranger; get collateral if
 | hold in pledge it  |**<big>&#8207;[[H2254A\|חַבְלֵֽ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| chav.Le.<small><sup>[[HVqv2ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.15|<< Proverbs 20:15]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.17|Proverbs 20:17 >>]]</td></tr></table>
 
-[^1]: ==K==: foreigners  | **<big>[[H5237|נָכְרִים]]</big> ** | na.khe.rim<small><sup>[[HAampa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>נָכְרִיָּ֣ם</big></span>**
+[^1]: foreigners  | **<big>[[H5237|נָכְרִים]]</big> ** | na.khe.rim<small><sup>[[HAampa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>נָכְרִיָּ֣ם</big></span>**
 

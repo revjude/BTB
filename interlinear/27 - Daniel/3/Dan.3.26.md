@@ -38,6 +38,6 @@ Then Nebuchadnezzar approached the door of the blazing fiery furnace and called 
 | fire the  |**<big>&#8207;[[H5135\|נוּרָֽ]]&#8207;&#8207;[[H9010\|א]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| nu.Ra<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.25|<< Daniel 3:25]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.27|Daniel 3:27 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>עִלָּיאָ֖</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>עִלָּיָא</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>עִלָּיאָ֖</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>עִלָּיָא</big></span>**
 

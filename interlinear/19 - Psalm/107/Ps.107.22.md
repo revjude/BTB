@@ -16,5 +16,5 @@ Let them offer sacrifices of thanksgiving and declare His works with rejoicing.
 | with a shout of joy  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7440\|רִנָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^1] | be.<small><sup>[[HR]]</sup></small> ri.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.21|<< Psalms 107:21]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.23|Psalms 107:23 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>בְּרִנָּֽה\׃\ \׆</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>בְּרִנָּֽה\׃\ \׆</big></span>**
 

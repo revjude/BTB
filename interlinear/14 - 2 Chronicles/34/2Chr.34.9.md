@@ -37,7 +37,7 @@ So they went to Hilkiah the high priest and gave him the money that had been bro
 | Jerusalem  |**<big>&#8207;[[H3389\|יְרֽוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.Ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.8|<< 2 Chronicles 34:8]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.10|2 Chronicles 34:10 >>]]</td></tr></table>
 
-[^1]: ==K==: and [the] inhabitants of  | **<big>[[H3427|יֹשְׁבֵי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yo.she.vei<small><sup>[[HVqrmpc]]</sup></small> 
-[^2]: ==K==: and [the] inhabitants of  | **<big>[[H3427|יֹשְׁבֵי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yo.she.vei<small><sup>[[HVqrmpc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וַיָּשֻׁ֖ביּ</big></span>**
+[^1]: and [the] inhabitants of  | **<big>[[H3427|יֹשְׁבֵי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yo.she.vei<small><sup>[[HVqrmpc]]</sup></small> | K
+[^2]: and [the] inhabitants of  | **<big>[[H3427|יֹשְׁבֵי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yo.she.vei<small><sup>[[HVqrmpc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וַיָּשֻׁ֖ביּ</big></span>**
 

@@ -17,7 +17,7 @@ The prudent see danger and take cover, but the simple keep going and suffer the 
 | and they are punished  |**<big>&#8207;[[H9001\|וְֽ]]&#8207;&#8207;[[H6064\|נֶעֱנָֽשׁוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ve.<small><sup>[[Hc]]</sup></small> ne.'e.Na.shu<small><sup>[[HVNq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.2|<< Proverbs 22:2]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.4|Proverbs 22:4 >>]]</td></tr></table>
 
-[^1]: ==K==: and he hides himself  | **<big>[[H5641|יִסָּתֵר]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> yi.sa.ter<small><sup>[[HVNw3ms]]</sup></small> 
-[^2]: ==K==: and he hides himself  | **<big>[[H5641|יִסָּתֵר]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> yi.sa.ter<small><sup>[[HVNw3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְיִסְתָּ֑ר</big></span>**
+[^1]: and he hides himself  | **<big>[[H5641|יִסָּתֵר]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> yi.sa.ter<small><sup>[[HVNw3ms]]</sup></small> | K
+[^2]: and he hides himself  | **<big>[[H5641|יִסָּתֵר]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> yi.sa.ter<small><sup>[[HVNw3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְיִסְתָּ֑ר</big></span>**
 

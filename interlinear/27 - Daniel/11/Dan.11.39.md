@@ -25,6 +25,6 @@ He will attack the strongest fortresses with the help of a foreign god and will 
 | for a price  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H4242\|מְחִֽיר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> m.Chir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.38|<< Daniel 11:38]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.40|Daniel 11:40 >>]]</td></tr></table>
 
-[^1]: ==K==: he acknowledged  | **<big>[[H5234A|הִכִּיר]]</big> ** | hi.kir<small><sup>[[HVhp3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>הַכִּ֖יר</big></span>**
+[^1]: he acknowledged  | **<big>[[H5234A|הִכִּיר]]</big> ** | hi.kir<small><sup>[[HVhp3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>הַכִּ֖יר</big></span>**
 

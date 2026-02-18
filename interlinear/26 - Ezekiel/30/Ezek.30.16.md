@@ -22,6 +22,6 @@ I will set fire to Egypt, Pelusium will writhe in anguish, Thebes will be split 
 | daytime  |**<big>&#8207;[[H3119\|יוֹמָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yo.Mam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.15|<< Ezekiel 30:15]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.17|Ezekiel 30:17 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>תָּחיּל֙</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>תָּחִיל</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>תָּחיּל֙</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>תָּחִיל</big></span>**
 

@@ -40,5 +40,5 @@ You are to proclaim concerning Jehoiakim king of Judah that this is what the LOR
 | and animal  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H0929\|בְהֵמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.he.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.28|<< Jeremiah 36:28]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.30|Jeremiah 36:30 >>]]</td></tr></table>
 
-[^1]: ==BH== spelled: **<span class="ashebrew"><big>תאמַ֔ר</big></span>**
+[^1]: BH spelled: **<span class="ashebrew"><big>תאמַ֔ר</big></span>**
 

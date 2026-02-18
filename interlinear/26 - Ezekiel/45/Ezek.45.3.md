@@ -26,6 +26,6 @@ From this holy portion, you are to measure off a length of 25,000 cubits and a w
 | holy places  |**<big>&#8207;[[H6944H\|קָדָשִֽׁים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ka.da.Shim<small><sup>[[HNtmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.2|<< Ezekiel 45:2]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.4|Ezekiel 45:4 >>]]</td></tr></table>
 
-[^1]: ==K==: five  | **<big>[[H2568|חֲמֵשׁ]]</big> ** | cha.mesh<small><sup>[[HAcbsc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>חֲמִשָּׁ֤</big></span>**
+[^1]: five  | **<big>[[H2568|חֲמֵשׁ]]</big> ** | cha.mesh<small><sup>[[HAcbsc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>חֲמִשָּׁ֤</big></span>**
 

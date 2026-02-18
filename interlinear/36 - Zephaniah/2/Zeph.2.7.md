@@ -27,6 +27,6 @@ The coast will belong to the remnant of the house of Judah; there they will find
 | captivity their  |**<big>&#8207;[[H7622\|שְׁבִיתָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^1] [^2] | she.vu.ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.2.6|<< Zephaniah 2:6]]</td><td align="center" style="border:none;">[[Zeph.2|Zephaniah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.2.8|Zephaniah 2:8 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>שְׁבִותָֽם\׃</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>שְׁבוּתָם\׃</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>שְׁבִותָֽם\׃</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>שְׁבוּתָם\׃</big></span>**
 

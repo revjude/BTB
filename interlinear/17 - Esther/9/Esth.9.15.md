@@ -30,6 +30,6 @@ On the fourteenth day of the month of Adar, the Jews in Susa came together again
 | hand their  |**<big>&#8207;[[H3027G\|יָדָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.Da<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.14|<< Esther 9:14]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.16|Esther 9:16 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>הַיְּהוּדִ֣יים</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>הַיְּהוּדִיִּים</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>הַיְּהוּדִ֣יים</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>הַיְּהוּדִיִּים</big></span>**
 

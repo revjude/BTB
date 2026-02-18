@@ -31,8 +31,8 @@ You shall not bow down to them or worship them; for I, the LORD your God, am a j
 | of [those who] hate me  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H8130\|שֹׂנְאָֽ֑]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^4] | le.<small><sup>[[HR]]</sup></small> so.ne.'A<small><sup>[[HVqrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.8|<< Deuteronomy 5:8]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.10|Deuteronomy 5:10 >>]]</td></tr></table>
 
-[^1]: ==P== spelled: **<span class="ashebrew"><big>תִשְׁתַּחֲוֶ֣ה</big></span>**
-[^2]: ==P== spelled: **<span class="ashebrew"><big>לָהֶם֮</big></span>**
-[^3]: ==P== spelled: **<span class="ashebrew"><big>תָעָבְדֵם֒</big></span>**
-[^4]: ==P== spelled: **<span class="ashebrew"><big>לְשֹׂנְאָ֑/י\׃</big></span>**
+[^1]: P spelled: **<span class="ashebrew"><big>תִשְׁתַּחֲוֶ֣ה</big></span>**
+[^2]: P spelled: **<span class="ashebrew"><big>לָהֶם֮</big></span>**
+[^3]: P spelled: **<span class="ashebrew"><big>תָעָבְדֵם֒</big></span>**
+[^4]: P spelled: **<span class="ashebrew"><big>לְשֹׂנְאָ֑/י\׃</big></span>**
 

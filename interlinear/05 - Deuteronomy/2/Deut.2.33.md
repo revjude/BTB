@@ -21,7 +21,7 @@ And the LORD our God delivered him over to us, and we defeated him and his sons 
 | people his  |**<big>&#8207;[[H5971A\|עַמּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| a.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.32|<< Deuteronomy 2:32]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.34|Deuteronomy 2:34 >>]]</td></tr></table>
 
-[^1]: ==K==: son his  | **<big>[[H9023|וֹ]]</big><big>[[H1121A|בְּנ]]</big> ** | be.no<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: son his  | **<big>[[H9023|וֹ]]</big><big>[[H1121A|בְּנ]]</big> ** | be.no<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בָּנָ֖ו</big></span>**
+[^1]: son his  | **<big>[[H9023|וֹ]]</big><big>[[H1121A|בְּנ]]</big> ** | be.no<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: son his  | **<big>[[H9023|וֹ]]</big><big>[[H1121A|בְּנ]]</big> ** | be.no<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בָּנָ֖ו</big></span>**
 

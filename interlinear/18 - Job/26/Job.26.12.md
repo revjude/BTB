@@ -16,6 +16,6 @@ By His power He stirred the sea; by His understanding He shattered Rahab.
 | Rahab  |**<big>&#8207;[[H7294\|רָֽהַב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ra.hav<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.26.11|<< Job 26:11]]</td><td align="center" style="border:none;">[[Job.26|Job 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.26.13|Job 26:13 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וּ֝בִ/תְובֻנָת֗/וֹ</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וּבִ/תוּבְנָת/וֹ</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וּ֝בִ/תְובֻנָת֗/וֹ</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וּבִ/תוּבְנָת/וֹ</big></span>**
 

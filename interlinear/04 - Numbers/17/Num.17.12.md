@@ -21,5 +21,5 @@ Then the Israelites declared to Moses, “Look, we are perishing! We are lost; w
 | we will perish  |**<big>&#8207;[[H0006\|אָבָֽדְנוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^1] | 'a.Vad.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad Allepo Biblia (benchayim)">LAB(h)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.17.11|<< Numbers 17:11]]</td><td align="center" style="border:none;">[[Num.17|Numbers 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.17.13|Numbers 17:13 >>]]</td></tr></table>
 
-[^1]: ==H== spelled: **<span class="ashebrew"><big>אָבַֽדְנוּ\׃</big></span>**
+[^1]: H spelled: **<span class="ashebrew"><big>אָבַֽדְנוּ\׃</big></span>**
 

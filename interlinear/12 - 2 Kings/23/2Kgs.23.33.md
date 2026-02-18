@@ -27,7 +27,7 @@ And Pharaoh Neco imprisoned Jehoahaz at Riblah in the land of Hamath so that he 
 | gold  |**<big>&#8207;[[H2091\|זָהָֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.32|<< 2 Kings 23:32]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.34|2 Kings 23:34 >>]]</td></tr></table>
 
-[^1]: ==K==: when reigned  | **<big>[[H4427A|מְלֹךְ]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> m.lokh<small><sup>[[HVqcc]]</sup></small> 
-[^2]: ==K==: when reigned  | **<big>[[H4427A|מְלֹךְ]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> m.lokh<small><sup>[[HVqcc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בִּמְּלֹ֖ךְ</big></span>**
+[^1]: when reigned  | **<big>[[H4427A|מְלֹךְ]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> m.lokh<small><sup>[[HVqcc]]</sup></small> | K
+[^2]: when reigned  | **<big>[[H4427A|מְלֹךְ]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> m.lokh<small><sup>[[HVqcc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בִּמְּלֹ֖ךְ</big></span>**
 

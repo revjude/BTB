@@ -44,7 +44,7 @@ But if it is unpleasing in your sight to serve the LORD, then choose for yoursel
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.14|<< Joshua 24:14]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.16|Joshua 24:16 >>]]</td></tr></table>
 
-[^1]: ==K==: [were] on [the] other side of  | **<big>[[H5676H|עֵבֶר]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'e.ver<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==K==: [were] on [the] other side of  | **<big>[[H5676H|עֵבֶר]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'e.ver<small><sup>[[HNcbsc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בֵּעֵ֣בֶר</big></span>**
+[^1]: [were] on [the] other side of  | **<big>[[H5676H|עֵבֶר]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'e.ver<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: [were] on [the] other side of  | **<big>[[H5676H|עֵבֶר]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'e.ver<small><sup>[[HNcbsc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בֵּעֵ֣בֶר</big></span>**
 

@@ -26,7 +26,7 @@ Will not the land quake for this, and all its dwellers mourn? All of it will swe
 | of Egypt  |**<big>&#8207;[[H4714G\|מִצְרָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.8.7|<< Amos 8:7]]</td><td align="center" style="border:none;">[[Amos.8|Amos 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.8.9|Amos 8:9 >>]]</td></tr></table>
 
-[^1]: ==K==: and it will be watered  | **<big>[[H8248G|נִשְׁקָה]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> nish.kah<small><sup>[[HVNq3fs]]</sup></small> 
-[^2]: ==K==: and it will be watered  | **<big>[[H8248G|נִשְׁקָה]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> nish.kah<small><sup>[[HVNq3fs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְנִשְׁקְהָ֖</big></span>**
+[^1]: and it will be watered  | **<big>[[H8248G|נִשְׁקָה]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> nish.kah<small><sup>[[HVNq3fs]]</sup></small> | K
+[^2]: and it will be watered  | **<big>[[H8248G|נִשְׁקָה]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> nish.kah<small><sup>[[HVNq3fs]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְנִשְׁקְהָ֖</big></span>**
 

@@ -17,5 +17,5 @@ For He does not willingly afflict or grieve the sons of men.
 | a man  |**<big>&#8207;[[H0376G\|אִֽישׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.32|<< Lamentations 3:32]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.34|Lamentations 3:34 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>בְּנֵי\־</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>בְּנֵי\־</big></span>**
 

@@ -27,7 +27,7 @@ At the head of every street you built your lofty shrines and degraded your beaut
 | prostitution\<s> your  [^2]|**<big>&#8207;[[H8457\|תַּזְנוּתָֽיִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | taz.nu.te<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.24|<< Ezekiel 16:24]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.26|Ezekiel 16:26 >>]]</td></tr></table>
 
-[^1]: ==K==: prostitution your  | **<big>[[H9016|׃]]</big><big>[[H9022|ךְ]]</big><big>[[H8457|תַּזְנֻתֵ]]</big> ** | taz.nu.te<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> 
-[^2]: ==K==: prostitution your  | **<big>[[H9016|׃]]</big><big>[[H9022|ךְ]]</big><big>[[H8457|תַּזְנֻתֵ]]</big> ** | taz.nu.te<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>תַּזְנּתִָֽךְ\׃</big></span>**
+[^1]: prostitution your  | **<big>[[H9016|׃]]</big><big>[[H9022|ךְ]]</big><big>[[H8457|תַּזְנֻתֵ]]</big> ** | taz.nu.te<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
+[^2]: prostitution your  | **<big>[[H9016|׃]]</big><big>[[H9022|ךְ]]</big><big>[[H8457|תַּזְנֻתֵ]]</big> ** | taz.nu.te<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>תַּזְנּתִָֽךְ\׃</big></span>**
 

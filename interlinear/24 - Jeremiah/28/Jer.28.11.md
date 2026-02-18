@@ -37,5 +37,5 @@ And in the presence of all the people Hananiah proclaimed, “This is what the L
 | to way his  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1870L\|דַרְכּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> dar.K<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.28.10|<< Jeremiah 28:10]]</td><td align="center" style="border:none;">[[Jer.28|Jeremiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.28.12|Jeremiah 28:12 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>מֵעַ֕ל\־</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>מֵעַ֕ל\־</big></span>**
 

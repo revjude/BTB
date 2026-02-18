@@ -24,8 +24,8 @@ Like sheep they are destined for Sheol. Death will be their shepherd. The uprigh
 | of him  |**<big>&#8207;[[H9005\|לֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.49.13|<< Psalms 49:13]]</td><td align="center" style="border:none;">[[Ps.49|Psalms 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.49.15|Psalms 49:15 >>]]</td></tr></table>
 
-[^1]: ==K==: and form their  | **<big>[[H9028|ם]]</big><big>[[H6736|צִירָ]]</big><big>[[H9002|וְ]]</big> ** | Ve.<small><sup>[[HC]]</sup></small> tzu.ro<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^2]: ==K==: and form their  | **<big>[[H9028|ם]]</big><big>[[H6736|צִירָ]]</big><big>[[H9002|וְ]]</big> ** | Ve.<small><sup>[[HC]]</sup></small> tzu.ro<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^3]: ==K==: and form their  | **<big>[[H9028|ם]]</big><big>[[H6736|צִירָ]]</big><big>[[H9002|וְ]]</big> ** | Ve.<small><sup>[[HC]]</sup></small> tzu.ro<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וְ֭ציּרָ/ם</big></span>**
+[^1]: and form their  | **<big>[[H9028|ם]]</big><big>[[H6736|צִירָ]]</big><big>[[H9002|וְ]]</big> ** | Ve.<small><sup>[[HC]]</sup></small> tzu.ro<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^2]: and form their  | **<big>[[H9028|ם]]</big><big>[[H6736|צִירָ]]</big><big>[[H9002|וְ]]</big> ** | Ve.<small><sup>[[HC]]</sup></small> tzu.ro<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^3]: and form their  | **<big>[[H9028|ם]]</big><big>[[H6736|צִירָ]]</big><big>[[H9002|וְ]]</big> ** | Ve.<small><sup>[[HC]]</sup></small> tzu.ro<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וְ֭ציּרָ/ם</big></span>**
 

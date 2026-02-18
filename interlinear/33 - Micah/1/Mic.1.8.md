@@ -23,6 +23,6 @@ Because of this I will lament and wail; I will walk barefoot and naked. I will h
 | an ostrich  |**<big>&#8207;[[H3284\|יַעֲנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.'a.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.7|<< Micah 1:7]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.9|Micah 1:9 >>]]</td></tr></table>
 
-[^1]: ==K==: barefoot  | **<big>[[H7758|שֵׁילָל]]</big> ** | shi.lal<small><sup>[[HAabsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>שֹׁילָ֖ל</big></span>**
+[^1]: barefoot  | **<big>[[H7758|שֵׁילָל]]</big> ** | shi.lal<small><sup>[[HAabsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>שֹׁילָ֖ל</big></span>**
 

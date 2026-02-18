@@ -36,7 +36,7 @@ the flowing water stood still. It backed up as far upstream as Adam, a city in t
 | Jericho  |**<big>&#8207;[[H3405G\|יְרִיחֽוֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.ri.Cho<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.3.15|<< Joshua 3:15]]</td><td align="center" style="border:none;">[[Josh.3|Joshua 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.3.17|Joshua 3:17 >>]]</td></tr></table>
 
-[^1]: ==K==: at \<the> Adam  | **<big>[[H0121H|אָדָם]]</big><big>[[H9003|בָ]]</big> ** | va.<small><sup>[[HRd]]</sup></small> 'a.dam<small><sup>[[HNpl]]</sup></small> 
-[^2]: ==K==: at \<the> Adam  | **<big>[[H0121H|אָדָם]]</big><big>[[H9003|בָ]]</big> ** | va.<small><sup>[[HRd]]</sup></small> 'a.dam<small><sup>[[HNpl]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בֵֽאָדָ֤ם</big></span>**
+[^1]: at \<the> Adam  | **<big>[[H0121H|אָדָם]]</big><big>[[H9003|בָ]]</big> ** | va.<small><sup>[[HRd]]</sup></small> 'a.dam<small><sup>[[HNpl]]</sup></small> | K
+[^2]: at \<the> Adam  | **<big>[[H0121H|אָדָם]]</big><big>[[H9003|בָ]]</big> ** | va.<small><sup>[[HRd]]</sup></small> 'a.dam<small><sup>[[HNpl]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בֵֽאָדָ֤ם</big></span>**
 

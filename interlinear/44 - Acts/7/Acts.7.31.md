@@ -8,24 +8,24 @@ When Moses saw it, he marveled at the sight. As he approached to look more close
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Moses |**<big>[[G3475\|Μωϋσῆς]]</big>**  [^1] |Mōusēs <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| having seen [it] |**<big>[[G1492H\|ἰδὼν]]</big>**  |idōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| was marvelling at |**<big>[[G2296\|ἐθαύμαζεν]]</big>**  [^2] |ethaumazen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| vision; |**<big>[[G3705\|ὅραμα·]]</big>**  |horama <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| When is approaching |**<big>[[G4334\|προσερχομένου]]</big>**  |proserchomenou <small><sup>[[V-PNP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he |**<big>[[G0846\|αὐτοῦ]]</big>**  |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to behold [it], |**<big>[[G2657\|κατανοῆσαι,]]</big>**  |katanoēsai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| there was |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| [the] voice |**<big>[[G5456G\|φωνὴ]]</big>**  |phōnē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of [the] Lord |**<big>[[G2962G\|κυρίου]]</big>**  |kuriou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| to |**<big>[[G4314\|πρὸς]]</big>**  |pros <small><sup>[[PREP]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
-| him: [^3] |**<big>[[G0846\|αὐτόν·]]</big>**  |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
+| \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Moses |**<big>[[G3475\|Μωϋσῆς]]</big>**  [^1] |Mōusēs <small><sup>[[N-NSM-P]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| having seen [it] |**<big>[[G1492H\|ἰδὼν]]</big>**  |idōn <small><sup>[[V-2AAP-NSM]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| was marvelling at |**<big>[[G2296\|ἐθαύμαζεν]]</big>**  [^2] |ethaumazen <small><sup>[[V-IAI-3S]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| vision; |**<big>[[G3705\|ὅραμα·]]</big>**  |horama <small><sup>[[N-ASN]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| When is approaching |**<big>[[G4334\|προσερχομένου]]</big>**  |proserchomenou <small><sup>[[V-PNP-GSM]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he |**<big>[[G0846\|αὐτοῦ]]</big>**  |autou <small><sup>[[P-GSM]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to behold [it], |**<big>[[G2657\|κατανοῆσαι,]]</big>**  |katanoēsai <small><sup>[[V-AAN]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| there was |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| [the] voice |**<big>[[G5456G\|φωνὴ]]</big>**  |phōnē <small><sup>[[N-NSF]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of [the] Lord |**<big>[[G2962G\|κυρίου]]</big>**  |kuriou <small><sup>[[N-GSM-T]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| to |**<big>[[G4314\|πρὸς]]</big>**  |pros <small><sup>[[PREP]]</sup></small>  | <abbr title="TR+Byz">K</abbr> | |
+| him: [^3] |**<big>[[G0846\|αὐτόν·]]</big>**  |auton <small><sup>[[P-ASM]]</sup></small>  | <abbr title="TR+Byz">K</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.30|<< Acts 7:30]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.32|Acts 7:32 >>]]</td></tr></table>
 
-[^1]: ==TR== spelled: **<big><span class='asgreek'>Μωσῆς</span></big>**
-[^2]: ==Tyn+SBL+WH+Treg+TR== spelled: **<big><span class='asgreek'>ἐθαύμασεν</span></big>**
+[^1]: TR spelled: **<big><span class='asgreek'>Μωσῆς</span></big>**
+[^2]: Tyn+SBL+WH+Treg+TR spelled: **<big><span class='asgreek'>ἐθαύμασεν</span></big>**
 [^3]: Extra Text:  **<big><span class='asgreek'>πρὸς</span></big>**   **<big><span class='asgreek'>αὐτόν</span></big>**·   (<i>pros auton</i>) 'to him:' is only in traditional manuscripts (TR+Byz)

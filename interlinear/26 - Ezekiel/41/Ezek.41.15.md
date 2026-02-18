@@ -28,8 +28,8 @@ Next he measured the length of the building facing the temple courtyard at the r
 | the courtyard  |**<big>&#8207;[[H9009\|הֶ]]&#8207;&#8207;[[H2691A\|חָצֵֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> cha.Tzer<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.14|<< Ezekiel 41:14]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.16|Ezekiel 41:16 >>]]</td></tr></table>
 
-[^1]: ==K==: and galleries its  | **<big>[[H9024|הָא]]</big><big>[[H0862A|אַתּוּקֵי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'a.tu.kei.<small><sup>[[HNcmpc]]</sup></small> ha'<small><sup>[[HSp3fs]]</sup></small> 
-[^2]: ==K==: and galleries its  | **<big>[[H9024|הָא]]</big><big>[[H0862A|אַתּוּקֵי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'a.tu.kei.<small><sup>[[HNcmpc]]</sup></small> ha'<small><sup>[[HSp3fs]]</sup></small> 
-[^3]: ==K==: and galleries its  | **<big>[[H9024|הָא]]</big><big>[[H0862A|אַתּוּקֵי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'a.tu.kei.<small><sup>[[HNcmpc]]</sup></small> ha'<small><sup>[[HSp3fs]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וְאַתִּוקֶ֛י/הָא</big></span>**
+[^1]: and galleries its  | **<big>[[H9024|הָא]]</big><big>[[H0862A|אַתּוּקֵי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'a.tu.kei.<small><sup>[[HNcmpc]]</sup></small> ha'<small><sup>[[HSp3fs]]</sup></small> | K
+[^2]: and galleries its  | **<big>[[H9024|הָא]]</big><big>[[H0862A|אַתּוּקֵי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'a.tu.kei.<small><sup>[[HNcmpc]]</sup></small> ha'<small><sup>[[HSp3fs]]</sup></small> | K
+[^3]: and galleries its  | **<big>[[H9024|הָא]]</big><big>[[H0862A|אַתּוּקֵי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'a.tu.kei.<small><sup>[[HNcmpc]]</sup></small> ha'<small><sup>[[HSp3fs]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וְאַתִּוקֶ֛י/הָא</big></span>**
 

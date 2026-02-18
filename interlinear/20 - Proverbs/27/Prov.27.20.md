@@ -18,8 +18,8 @@ Sheol and Abaddon are never satisfied; so the eyes of man are never satisfied.
 | they are satisfied  |**<big>&#8207;[[H7646\|תִשְׂבַּֽעְנָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tis.Ba'.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.19|<< Proverbs 27:19]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.21|Proverbs 27:21 >>]]</td></tr></table>
 
-[^1]: ==K==: and Abaddon  | **<big>[[H0011|אֲבַדֹּה]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.va.doh<small><sup>[[HNtmsc]]</sup></small> 
-[^2]: ==K==: and Abaddon  | **<big>[[H0011|אֲבַדֹּה]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.va.doh<small><sup>[[HNtmsc]]</sup></small> 
-[^3]: ==K==: and Abaddon  | **<big>[[H0011|אֲבַדֹּה]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.va.doh<small><sup>[[HNtmsc]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וַ֭אֲבַדֹּה</big></span>**
+[^1]: and Abaddon  | **<big>[[H0011|אֲבַדֹּה]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.va.doh<small><sup>[[HNtmsc]]</sup></small> | K
+[^2]: and Abaddon  | **<big>[[H0011|אֲבַדֹּה]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.va.doh<small><sup>[[HNtmsc]]</sup></small> | K
+[^3]: and Abaddon  | **<big>[[H0011|אֲבַדֹּה]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.va.doh<small><sup>[[HNtmsc]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וַ֭אֲבַדֹּה</big></span>**
 

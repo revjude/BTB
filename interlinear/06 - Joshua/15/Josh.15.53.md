@@ -14,7 +14,7 @@ Janim, Beth-tappuah, Aphekah,
 | and Aphekah  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0664\|אֲפֵֽקָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Fe.kah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.52|<< Joshua 15:52]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.54|Joshua 15:54 >>]]</td></tr></table>
 
-[^1]: ==K==: and Janim  | **<big>[[H3241|יָנִים]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ya.nim<small><sup>[[HNpl]]</sup></small> 
-[^2]: ==K==: and Janim  | **<big>[[H3241|יָנִים]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ya.nim<small><sup>[[HNpl]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְיָנ֥יּם</big></span>**
+[^1]: and Janim  | **<big>[[H3241|יָנִים]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ya.nim<small><sup>[[HNpl]]</sup></small> | K
+[^2]: and Janim  | **<big>[[H3241|יָנִים]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ya.nim<small><sup>[[HNpl]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְיָנ֥יּם</big></span>**
 

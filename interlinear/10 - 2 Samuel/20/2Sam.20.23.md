@@ -22,7 +22,7 @@ Now Joab was over the whole army of Israel; Benaiah son of Jehoiada was over the
 | the Pelethite[s]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6432\|פְּלֵתִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> pe.le.Ti<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.22|<< 2 Samuel 20:22]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.24|2 Samuel 20:24 >>]]</td></tr></table>
 
-[^1]: ==K==: the Carian[s]  | **<big>[[H3746|כְּרִי]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ke.ri<small><sup>[[HNgbsa]]</sup></small> 
-[^2]: ==K==: the Carian[s]  | **<big>[[H3746|כְּרִי]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ke.ri<small><sup>[[HNgbsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הַכְּרִֵי֖</big></span>**
+[^1]: the Carian[s]  | **<big>[[H3746|כְּרִי]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ke.ri<small><sup>[[HNgbsa]]</sup></small> | K
+[^2]: the Carian[s]  | **<big>[[H3746|כְּרִי]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ke.ri<small><sup>[[HNgbsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הַכְּרִֵי֖</big></span>**
 

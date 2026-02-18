@@ -28,5 +28,5 @@ Now because we are in the service of the palace and it is not fitting for us to 
 | to king the  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4430\|מַלְכָּֽ]]&#8207;&#8207;[[H9010\|א]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[AR]]</sup></small> mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.13|<< Ezra 4:13]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.15|Ezra 4:15 >>]]</td></tr></table>
 
-[^1]: ==AH== spelled: **<span class="asaramaic"><big>אֲֽרִֽיךְ\־</big></span>**
+[^1]: AH spelled: **<span class="asaramaic"><big>אֲֽרִֽיךְ\־</big></span>**
 

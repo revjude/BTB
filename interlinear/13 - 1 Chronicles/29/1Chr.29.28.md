@@ -21,5 +21,5 @@ He died at a ripe old age, full of years, riches, and honor, and his son Solomon
 | in place of him  |**<big>&#8207;[[H8478H\|תַּחְתָּֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^1] | tach.Ta<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad Aleppo (biblia benchayim)">LA(bh)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.27|<< 1 Chronicles 29:27]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.29|1 Chronicles 29:29 >>]]</td></tr></table>
 
-[^1]: ==BH== spelled: **<span class="ashebrew"><big>תַחְתָּֽיו\׃</big></span>**
+[^1]: BH spelled: **<span class="ashebrew"><big>תַחְתָּֽיו\׃</big></span>**
 

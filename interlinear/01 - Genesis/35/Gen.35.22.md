@@ -29,8 +29,8 @@ While Israel was living in that region, Reuben went in and slept with his father
 | ten  |**<big>&#8207;[[H6240\|עָשָֽׂר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Sar<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.21|<< Genesis 35:21]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.23|Genesis 35:23 >>]]</td></tr></table>
 
-[^1]: ==P== spelled: **<span class="ashebrew"><big>וַיִּשְׁכַּ֕ב</big></span>**
-[^2]: ==P== spelled: **<span class="ashebrew"><big>בִּלְהָ֖ה</big></span>**
-[^3]: ==P== spelled: **<span class="ashebrew"><big>אָבִ֑יו</big></span>**
-[^4]: ==P== spelled: **<span class="ashebrew"><big>יִשְׂרָאֵֽל\ \פ</big></span>**
+[^1]: P spelled: **<span class="ashebrew"><big>וַיִּשְׁכַּ֕ב</big></span>**
+[^2]: P spelled: **<span class="ashebrew"><big>בִּלְהָ֖ה</big></span>**
+[^3]: P spelled: **<span class="ashebrew"><big>אָבִ֑יו</big></span>**
+[^4]: P spelled: **<span class="ashebrew"><big>יִשְׂרָאֵֽל\ \פ</big></span>**
 

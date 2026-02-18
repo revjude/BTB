@@ -30,7 +30,7 @@ When the LORD had torn Israel away from the house of David, they made Jeroboam s
 | great  |**<big>&#8207;[[H1419A\|גְדוֹלָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ge.do.Lah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.20|<< 2 Kings 17:20]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.22|2 Kings 17:22 >>]]</td></tr></table>
 
-[^1]: ==K==: and he drove away  | **<big>[[H5077A|יַּדֵּא]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.de'<small><sup>[[HVhw3ms]]</sup></small> 
-[^2]: ==K==: and he drove away  | **<big>[[H5077A|יַּדֵּא]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.de'<small><sup>[[HVhw3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וַיַּדַּ֨א</big></span>**
+[^1]: and he drove away  | **<big>[[H5077A|יַּדֵּא]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.de'<small><sup>[[HVhw3ms]]</sup></small> | K
+[^2]: and he drove away  | **<big>[[H5077A|יַּדֵּא]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.de'<small><sup>[[HVhw3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וַיַּדַּ֨א</big></span>**
 

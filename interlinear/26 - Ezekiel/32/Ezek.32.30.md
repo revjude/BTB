@@ -33,5 +33,5 @@ All the leaders of the north and all the Sidonians are there; they went down in 
 | [the] pit  |**<big>&#8207;[[H0953A\|בֽוֹר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Vor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.29|<< Ezekiel 32:29]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.31|Ezekiel 32:31 >>]]</td></tr></table>
 
-[^1]: ==BH== spelled: **<span class="ashebrew"><big>מִגְּבֽוּרָתָ/ם֙</big></span>**
+[^1]: BH spelled: **<span class="ashebrew"><big>מִגְּבֽוּרָתָ/ם֙</big></span>**
 

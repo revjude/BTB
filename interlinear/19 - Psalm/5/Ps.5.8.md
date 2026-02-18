@@ -18,6 +18,6 @@ Lead me, O LORD, in Your righteousness because of my enemies; make straight Your
 | way your  |**<big>&#8207;[[H1870G\|דַּרְכֶּֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| dar.Ke.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.5.7|<< Psalms 5:7]]</td><td align="center" style="border:none;">[[Ps.5|Psalms 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.5.9|Psalms 5:9 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>הַוְשַׁ֖ר</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>הוֹשַׁר</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>הַוְשַׁ֖ר</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>הוֹשַׁר</big></span>**
 

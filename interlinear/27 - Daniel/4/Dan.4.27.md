@@ -29,10 +29,10 @@ Therefore, may my advice be pleasing to you, O king. Break away from your sins b
 | of prosperity your  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7963\|שְׁלֵוְתָֽ]]&#8207;&#8207;[[H9021\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| li<small><sup>[[AR]]</sup></small> sh.le.ve.Ta<small><sup>[[ANcfsc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.26|<< Daniel 4:26]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.28|Daniel 4:28 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>עֲלָ֔יךְ</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>עֲלַיִךְ</big></span>**
-[^3]: ==K==: and sins your  | **<big>[[H9021|ךְ]]</big><big>[[H2408|חֲטָיָ]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[AC]]</sup></small> cha.ta.ya<small><sup>[[ANcmpc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> 
-[^4]: ==K==: and sins your  | **<big>[[H9021|ךְ]]</big><big>[[H2408|חֲטָיָ]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[AC]]</sup></small> cha.ta.ya<small><sup>[[ANcmpc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> 
-[^5]: ==K==: and sins your  | **<big>[[H9021|ךְ]]</big><big>[[H2408|חֲטָיָ]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[AC]]</sup></small> cha.ta.ya<small><sup>[[ANcmpc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> 
-[^6]: ==L== spelled: **<span class="asaramaic"><big>וַחֲטָיָ/ךְ֙</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>עֲלָ֔יךְ</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>עֲלַיִךְ</big></span>**
+[^3]: and sins your  | **<big>[[H9021|ךְ]]</big><big>[[H2408|חֲטָיָ]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[AC]]</sup></small> cha.ta.ya<small><sup>[[ANcmpc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> | K
+[^4]: and sins your  | **<big>[[H9021|ךְ]]</big><big>[[H2408|חֲטָיָ]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[AC]]</sup></small> cha.ta.ya<small><sup>[[ANcmpc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> | K
+[^5]: and sins your  | **<big>[[H9021|ךְ]]</big><big>[[H2408|חֲטָיָ]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[AC]]</sup></small> cha.ta.ya<small><sup>[[ANcmpc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> | K
+[^6]: L spelled: **<span class="asaramaic"><big>וַחֲטָיָ/ךְ֙</big></span>**
 

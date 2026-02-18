@@ -54,10 +54,10 @@ Instead, you have exalted yourself against the Lord of heaven. The vessels from 
 | you have glorified  |**<big>&#8207;[[H1922\|הַדַּֽרְתָּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.Dar.ta<small><sup>[[AVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.22|<< Daniel 5:22]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.24|Daniel 5:24 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>קָֽדָמָ֗יךְ</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>קָדָמַיִךְ</big></span>**
-[^3]: ==L== spelled: **<span class="asaramaic"><big>וְאַ֨נְתְּה</big></span>**
-[^4]: ==K== spelled: **<span class="asaramaic"><big>וְאַנְתָּה</big></span>**
-[^5]: ==L== spelled: **<span class="asaramaic"><big>וְרַבְרְבָנָ֜י/ךְ</big></span>**
-[^6]: ==K== spelled: **<span class="asaramaic"><big>וְרַבְרְבָנַיִ/ךְ</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>קָֽדָמָ֗יךְ</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>קָדָמַיִךְ</big></span>**
+[^3]: L spelled: **<span class="asaramaic"><big>וְאַ֨נְתְּה</big></span>**
+[^4]: K spelled: **<span class="asaramaic"><big>וְאַנְתָּה</big></span>**
+[^5]: L spelled: **<span class="asaramaic"><big>וְרַבְרְבָנָ֜י/ךְ</big></span>**
+[^6]: K spelled: **<span class="asaramaic"><big>וְרַבְרְבָנַיִ/ךְ</big></span>**
 

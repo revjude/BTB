@@ -17,6 +17,6 @@ Lashes and wounds scour evil, and beatings cleanse the inmost parts.
 | [the] belly  |**<big>&#8207;[[H0990G\|בָֽטֶן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Va.ten<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.29|<< Proverbs 20:29]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.1|Proverbs 21:1 >>]]</td></tr></table>
 
-[^1]: ==K==: it cleanses away  | **<big>[[H4838|תַּמְרִיק]]</big> ** | tam.rik<small><sup>[[HVhi3fs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>תַּמְר֣יּק</big></span>**
+[^1]: it cleanses away  | **<big>[[H4838|תַּמְרִיק]]</big> ** | tam.rik<small><sup>[[HVhi3fs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>תַּמְר֣יּק</big></span>**
 

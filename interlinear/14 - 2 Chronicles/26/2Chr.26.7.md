@@ -20,6 +20,6 @@ God helped him against the Philistines, against the Arabs living in Gur-baal, an
 | and the Meunites  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4586G\|מְּעוּנִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> me.'u.Nim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.6|<< 2 Chronicles 26:6]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.8|2 Chronicles 26:8 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>הָֽעַרְבִ֛יים</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>הָעַרְבִיִּים</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>הָֽעַרְבִ֛יים</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>הָעַרְבִיִּים</big></span>**
 

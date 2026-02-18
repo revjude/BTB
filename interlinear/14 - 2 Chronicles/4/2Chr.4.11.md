@@ -29,6 +29,6 @@ Additionally, Huram made the pots, shovels, and sprinkling bowls. So Huram finis
 | \<the> God  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0430G\|אֱלֹהִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.4.10|<< 2 Chronicles 4:10]]</td><td align="center" style="border:none;">[[2Chr.4|2 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.4.12|2 Chronicles 4:12 >>]]</td></tr></table>
 
-[^1]: ==K==: Hiram  | **<big>[[H2438H|חִירָם]]</big> ** | ch.y.ram<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>חיּרָ֗ם</big></span>**
+[^1]: Hiram  | **<big>[[H2438H|חִירָם]]</big> ** | ch.y.ram<small><sup>[[HNpm]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>חיּרָ֗ם</big></span>**
 

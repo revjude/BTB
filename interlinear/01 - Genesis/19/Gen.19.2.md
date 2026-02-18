@@ -30,5 +30,5 @@ and said, “My lords, please turn aside into the house of your servant; wash yo
 | we will stay [the] night  |**<big>&#8207;[[H3885A\|נָלִֽין]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| na.Lin<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.1|<< Genesis 19:1]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.3|Genesis 19:3 >>]]</td></tr></table>
 
-[^1]: ==B== spelled: **<span class="ashebrew"><big>וַהַלַכְתֶּ֣ם</big></span>**
+[^1]: B spelled: **<span class="ashebrew"><big>וַהַלַכְתֶּ֣ם</big></span>**
 

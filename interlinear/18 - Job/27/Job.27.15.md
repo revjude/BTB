@@ -16,7 +16,7 @@ His survivors will be buried by the plague, and their widows will not weep for t
 | they will weep  |**<big>&#8207;[[H1058\|תִבְכֶּֽינָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tiv.Kei.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.14|<< Job 27:14]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.16|Job 27:16 >>]]</td></tr></table>
 
-[^1]: ==K==: survivor his  | **<big>[[H9023|וֹ]]</big><big>[[H8300|שְׂרִיד]]</big> ** | se.ri.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: survivor his  | **<big>[[H9023|וֹ]]</big><big>[[H8300|שְׂרִיד]]</big> ** | se.ri.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>שְׂ֭רִידָו</big></span>**
+[^1]: survivor his  | **<big>[[H9023|וֹ]]</big><big>[[H8300|שְׂרִיד]]</big> ** | se.ri.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: survivor his  | **<big>[[H9023|וֹ]]</big><big>[[H8300|שְׂרִיד]]</big> ** | se.ri.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>שְׂ֭רִידָו</big></span>**
 

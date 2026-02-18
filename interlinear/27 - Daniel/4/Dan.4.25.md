@@ -43,8 +43,8 @@ You will be driven away from mankind, and your dwelling will be with the beasts 
 | he will give it  |**<big>&#8207;[[H5415G\|יִתְּנִנַּֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yi.te.ni.<small><sup>[[AVqi3ms]]</sup></small> Nah<small><sup>[[ASp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.24|<< Daniel 4:24]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.26|Daniel 4:26 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>עֲלָ֑יךְ</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>עֲלַיִךְ</big></span>**
-[^3]: ==L== spelled: **<span class="asaramaic"><big>עִלָּיאָ֙</big></span>**
-[^4]: ==K== spelled: **<span class="asaramaic"><big>עִלָּיָא֙</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>עֲלָ֑יךְ</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>עֲלַיִךְ</big></span>**
+[^3]: L spelled: **<span class="asaramaic"><big>עִלָּיאָ֙</big></span>**
+[^4]: K spelled: **<span class="asaramaic"><big>עִלָּיָא֙</big></span>**
 

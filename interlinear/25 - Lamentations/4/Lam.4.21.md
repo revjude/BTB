@@ -23,6 +23,6 @@ So rejoice and be glad, O Daughter of Edom, you who dwell in the land of Uz. Yet
 | and you may strip yourself naked  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6168\|תִתְעָרִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tit.'a.Ri<small><sup>[[HVtu2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.20|<< Lamentations 4:20]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.22|Lamentations 4:22 >>]]</td></tr></table>
 
-[^1]: ==K==: [who] dwells  | **<big>[[H3427|יוֹשַׁבְתִּי]]</big> ** | yo.shav.ti<small><sup>[[HVqrfsc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יוֹשֶׁ֖בֶתי</big></span>**
+[^1]: [who] dwells  | **<big>[[H3427|יוֹשַׁבְתִּי]]</big> ** | yo.shav.ti<small><sup>[[HVqrfsc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יוֹשֶׁ֖בֶתי</big></span>**
 

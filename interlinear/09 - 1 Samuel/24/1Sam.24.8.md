@@ -31,10 +31,10 @@ After that, David got up, went out of the cave, and called out to Saul, “My lo
 | and he bowed down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7812\|יִּשְׁתָּֽחוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Ta.chu<small><sup>[[HVvw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.24.7|<< 1 Samuel 24:7]]</td><td align="center" style="border:none;">[[1Sam.24|1 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.24.9|1 Samuel 24:9 >>]]</td></tr></table>
 
-[^1]: ==K==: from  | **<big>[[H9014|־]]</big><big>[[H4480A|מִן]]</big> ** | min-<small><sup>[[HR]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>מֵֽן\־</big></span>**
-[^3]: ==K==: the cave  | **<big>[[H4631|מְּעָרָה]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> me.'a.rah<small><sup>[[HNcfsa]]</sup></small> 
-[^4]: ==K==: the cave  | **<big>[[H4631|מְּעָרָה]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> me.'a.rah<small><sup>[[HNcfsa]]</sup></small> 
-[^5]: ==K==: the cave  | **<big>[[H4631|מְּעָרָה]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> me.'a.rah<small><sup>[[HNcfsa]]</sup></small> 
-[^6]: ==L== spelled: **<span class="ashebrew"><big>הַמְּעָרָ֔ה</big></span>**
+[^1]: from  | **<big>[[H9014|־]]</big><big>[[H4480A|מִן]]</big> ** | min-<small><sup>[[HR]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>מֵֽן\־</big></span>**
+[^3]: the cave  | **<big>[[H4631|מְּעָרָה]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> me.'a.rah<small><sup>[[HNcfsa]]</sup></small> | K
+[^4]: the cave  | **<big>[[H4631|מְּעָרָה]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> me.'a.rah<small><sup>[[HNcfsa]]</sup></small> | K
+[^5]: the cave  | **<big>[[H4631|מְּעָרָה]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> me.'a.rah<small><sup>[[HNcfsa]]</sup></small> | K
+[^6]: L spelled: **<span class="ashebrew"><big>הַמְּעָרָ֔ה</big></span>**
 

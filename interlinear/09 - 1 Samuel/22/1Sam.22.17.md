@@ -43,7 +43,7 @@ Then the king ordered the guards at his side, “Turn and kill the priests of th
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.22.16|<< 1 Samuel 22:16]]</td><td align="center" style="border:none;">[[1Sam.22|1 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.22.18|1 Samuel 22:18 >>]]</td></tr></table>
 
-[^1]: ==K==: ear his  | **<big>[[H9023|וֹ]]</big><big>[[H0241I|אָזְנ]]</big> ** | 'a.ze.no<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: ear his  | **<big>[[H9023|וֹ]]</big><big>[[H0241I|אָזְנ]]</big> ** | 'a.ze.no<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>אָזְנִ֑ו</big></span>**
+[^1]: ear his  | **<big>[[H9023|וֹ]]</big><big>[[H0241I|אָזְנ]]</big> ** | 'a.ze.no<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: ear his  | **<big>[[H9023|וֹ]]</big><big>[[H0241I|אָזְנ]]</big> ** | 'a.ze.no<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>אָזְנִ֑ו</big></span>**
 

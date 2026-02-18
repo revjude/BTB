@@ -34,7 +34,7 @@ He says: “It is not enough for You to be My Servant, to raise up the tribes of
 | the earth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.5|<< Isaiah 49:5]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.7|Isaiah 49:7 >>]]</td></tr></table>
 
-[^1]: ==K==: and [the] preserved [ones] of  | **<big>[[H5336|נְצִירֵי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ne.tzi.rei<small><sup>[[HAampc]]</sup></small> 
-[^2]: ==K==: and [the] preserved [ones] of  | **<big>[[H5336|נְצִירֵי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ne.tzi.rei<small><sup>[[HAampc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וּנְציּרֵ֥י</big></span>**
+[^1]: and [the] preserved [ones] of  | **<big>[[H5336|נְצִירֵי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ne.tzi.rei<small><sup>[[HAampc]]</sup></small> | K
+[^2]: and [the] preserved [ones] of  | **<big>[[H5336|נְצִירֵי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ne.tzi.rei<small><sup>[[HAampc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וּנְציּרֵ֥י</big></span>**
 

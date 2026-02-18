@@ -22,6 +22,6 @@ The son of Jediael: Bilhan. The sons of Bilhan: Jeush, Benjamin, Ehud, Chenaanah
 | and Ahishahar  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0300\|אֲחִישָֽׁחַר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.chi.Sha.char<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.9|<< 1 Chronicles 7:9]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.11|1 Chronicles 7:11 >>]]</td></tr></table>
 
-[^1]: ==K==: Jeish  | **<big>[[H3274|יְעִישׁ]]</big> ** | ye.'ish<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יְע֡יּשׁ</big></span>**
+[^1]: Jeish  | **<big>[[H3274|יְעִישׁ]]</big> ** | ye.'ish<small><sup>[[HNpm]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יְע֡יּשׁ</big></span>**
 

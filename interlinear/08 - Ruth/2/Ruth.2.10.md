@@ -24,5 +24,5 @@ At this, she fell on her face, bowing low to the ground, and said to him, “Why
 | [am] a foreigner  |**<big>&#8207;[[H5237\|נָכְרִיָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| na.khe.ri.Yah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.2.9|<< Ruth 2:9]]</td><td align="center" style="border:none;">[[Ruth.2|Ruth 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.2.11|Ruth 2:11 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>וְאָנֹכִ֖י</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>וְאָנֹכִ֖י</big></span>**
 

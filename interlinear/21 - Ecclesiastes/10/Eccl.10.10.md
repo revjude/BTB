@@ -22,6 +22,6 @@ If the axe is dull and the blade unsharpened, more strength must be exerted, but
 | wisdom  |**<big>&#8207;[[H2451\|חָכְמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| chokh.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.9|<< Ecclesiastes 10:9]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.11|Ecclesiastes 10:11 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>הַכְשֵׁ֖יר</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>הַכְשֵׁ֖יר</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>הַכְשֵׁ֖יר</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>הַכְשֵׁ֖יר</big></span>**
 

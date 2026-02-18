@@ -17,6 +17,6 @@ She appraises a field and buys it; from her earnings she plants a vineyard.
 | a vineyard  |**<big>&#8207;[[H3754\|כָּֽרֶם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ka.rem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.15|<< Proverbs 31:15]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.17|Proverbs 31:17 >>]]</td></tr></table>
 
-[^1]: ==K==: he plants  | **<big>[[H5193|נְטַע]]</big> ** | ne.ta'<small><sup>[[HVqp3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>נָ֣טְעָ</big></span>**
+[^1]: he plants  | **<big>[[H5193|נְטַע]]</big> ** | ne.ta'<small><sup>[[HVqp3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>נָ֣טְעָ</big></span>**
 

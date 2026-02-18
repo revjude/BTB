@@ -30,6 +30,6 @@ which Nebuchadnezzar king of Babylon did not take when he carried Jeconiah son o
 | and Jerusalem  |**<big>&#8207;[[H9002\|וִ]]&#8207;&#8207;[[H3389\|ירוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.27.19|<< Jeremiah 27:19]]</td><td align="center" style="border:none;">[[Jer.27|Jeremiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.21|Jeremiah 27:21 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>יְכָונְיָ֨ה</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>יְכוֹנְיָ֨ה</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>יְכָונְיָ֨ה</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>יְכוֹנְיָ֨ה</big></span>**
 

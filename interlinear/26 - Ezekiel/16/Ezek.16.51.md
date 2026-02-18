@@ -26,9 +26,9 @@ Furthermore, Samaria did not commit half the sins you did. You have multiplied y
 | you have done  |**<big>&#8207;[[H6213H\|עָשִֽׂית]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^4] [^5] | a.si.t<small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.50|<< Ezekiel 16:50]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.52|Ezekiel 16:52 >>]]</td></tr></table>
 
-[^1]: ==K==: sister your  | **<big>[[H9022|ךְ]]</big><big>[[H0269|אֲחוֹתֵ]]</big> ** | 'a.cho.te<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> 
-[^2]: ==K==: sister your  | **<big>[[H9022|ךְ]]</big><big>[[H0269|אֲחוֹתֵ]]</big> ** | 'a.cho.te<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>אֲחוֹתִַ֔ךְ</big></span>**
-[^4]: ==L== spelled: **<span class="ashebrew"><big>עָשִֽׂיתי\׃</big></span>**
-[^5]: ==K== spelled: **<span class="ashebrew"><big>עָשִׂיתי\׃</big></span>**
+[^1]: sister your  | **<big>[[H9022|ךְ]]</big><big>[[H0269|אֲחוֹתֵ]]</big> ** | 'a.cho.te<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
+[^2]: sister your  | **<big>[[H9022|ךְ]]</big><big>[[H0269|אֲחוֹתֵ]]</big> ** | 'a.cho.te<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>אֲחוֹתִַ֔ךְ</big></span>**
+[^4]: L spelled: **<span class="ashebrew"><big>עָשִֽׂיתי\׃</big></span>**
+[^5]: K spelled: **<span class="ashebrew"><big>עָשִׂיתי\׃</big></span>**
 

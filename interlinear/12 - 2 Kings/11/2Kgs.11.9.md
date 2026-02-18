@@ -31,6 +31,6 @@ So the commanders of hundreds did everything that Jehoiada the priest had ordere
 | the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.11.8|<< 2 Kings 11:8]]</td><td align="center" style="border:none;">[[2Kgs.11|2 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11.10|2 Kings 11:10 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>הַמֵּאֹ֗יות</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>הַמֵּאיוֹת</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>הַמֵּאֹ֗יות</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>הַמֵּאיוֹת</big></span>**
 

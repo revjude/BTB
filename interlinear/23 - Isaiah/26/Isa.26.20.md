@@ -27,9 +27,9 @@ Go, my people, enter your rooms and shut your doors behind you. Hide yourselves 
 | indignation  |**<big>&#8207;[[H2195\|זָֽעַם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Za.'am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.19|<< Isaiah 26:19]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.21|Isaiah 26:21 >>]]</td></tr></table>
 
-[^1]: ==K==: doors your  | **<big>[[H9021|ךָ]]</big><big>[[H1817B|דְּלָתֶי]]</big> ** | de.la.tei.<small><sup>[[HNcbdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^2]: ==K==: doors your  | **<big>[[H9021|ךָ]]</big><big>[[H1817B|דְּלָתֶי]]</big> ** | de.la.tei.<small><sup>[[HNcbdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>דְּלָתְיךָ֖</big></span>**
-[^4]: ==L== spelled: **<span class="ashebrew"><big>יַעֲבָור\־</big></span>**
-[^5]: ==K== spelled: **<span class="ashebrew"><big>יַעֲבוֹר</big></span>**
+[^1]: doors your  | **<big>[[H9021|ךָ]]</big><big>[[H1817B|דְּלָתֶי]]</big> ** | de.la.tei.<small><sup>[[HNcbdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: doors your  | **<big>[[H9021|ךָ]]</big><big>[[H1817B|דְּלָתֶי]]</big> ** | de.la.tei.<small><sup>[[HNcbdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>דְּלָתְיךָ֖</big></span>**
+[^4]: L spelled: **<span class="ashebrew"><big>יַעֲבָור\־</big></span>**
+[^5]: K spelled: **<span class="ashebrew"><big>יַעֲבוֹר</big></span>**
 

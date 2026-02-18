@@ -22,6 +22,6 @@ I have heard that the spirit of the gods is in you, and that you have insight, i
 | in you  |**<big>&#8207;[[H9003\|בָּֽ]]&#8207;&#8207;[[H9031\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ba<small><sup>[[AR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.13|<< Daniel 5:13]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.15|Daniel 5:15 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>עֲלָ֔יךְ</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>עֲלַיִךְ</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>עֲלָ֔יךְ</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>עֲלַיִךְ</big></span>**
 

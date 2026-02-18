@@ -15,8 +15,8 @@ They will proclaim the power of Your awesome deeds, and I will declare Your grea
 | I will recount it  |**<big>&#8207;[[H5608A\|אֲסַפְּרֶֽ]]&#8207;&#8207;[[H9034\|נָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.sap.pe.Re.<small><sup>[[HVpi1cs]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.145.5|<< Psalms 145:5]]</td><td align="center" style="border:none;">[[Ps.145|Psalms 145]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.145.7|Psalms 145:7 >>]]</td></tr></table>
 
-[^1]: ==K==: and greatness\<es> your  | **<big>[[H9021|ךָ]]</big><big>[[H1420|גְדוּלֹּתֶי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ge.du.lo.tei.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^2]: ==K==: and greatness\<es> your  | **<big>[[H9021|ךָ]]</big><big>[[H1420|גְדוּלֹּתֶי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ge.du.lo.tei.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^3]: ==K==: and greatness\<es> your  | **<big>[[H9021|ךָ]]</big><big>[[H1420|גְדוּלֹּתֶי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ge.du.lo.tei.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וּגְדוּלָּתְי/ךָ֥</big></span>**
+[^1]: and greatness\<es> your  | **<big>[[H9021|ךָ]]</big><big>[[H1420|גְדוּלֹּתֶי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ge.du.lo.tei.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: and greatness\<es> your  | **<big>[[H9021|ךָ]]</big><big>[[H1420|גְדוּלֹּתֶי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ge.du.lo.tei.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^3]: and greatness\<es> your  | **<big>[[H9021|ךָ]]</big><big>[[H1420|גְדוּלֹּתֶי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ge.du.lo.tei.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וּגְדוּלָּתְי/ךָ֥</big></span>**
 

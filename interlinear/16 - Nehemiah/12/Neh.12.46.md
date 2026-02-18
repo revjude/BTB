@@ -21,6 +21,6 @@ For long ago, in the days of David and Asaph, there were directors for the singe
 | to God  |**<big>&#8207;[[H9005\|לֵֽ]]&#8207;&#8207;[[H0430G\|אלֹהִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Le.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.45|<< Nehemiah 12:45]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.47|Nehemiah 12:47 >>]]</td></tr></table>
 
-[^1]: ==K==: [the] leader of  | **<big>[[H7218H|רֹאשׁ]]</big> ** | rosh<small><sup>[[HNcmsc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>רָאשֵׁ֙</big></span>**
+[^1]: [the] leader of  | **<big>[[H7218H|רֹאשׁ]]</big> ** | rosh<small><sup>[[HNcmsc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>רָאשֵׁ֙</big></span>**
 

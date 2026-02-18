@@ -26,7 +26,7 @@ The LORD said: “Surely I will deliver you for a good purpose; surely I will in
 | the enemy  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0341\|אֹיֵֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.Yev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.10|<< Jeremiah 15:10]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.12|Jeremiah 15:12 >>]]</td></tr></table>
 
-[^1]: ==K==: I will strengthen you  | **<big>[[H9031|ךָ]]</big><big>[[H8323B|שָׁרוֹתִ]]</big> ** | sha.ro.ti.<small><sup>[[HVqp1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^2]: ==K==: I will strengthen you  | **<big>[[H9031|ךָ]]</big><big>[[H8323B|שָׁרוֹתִ]]</big> ** | sha.ro.ti.<small><sup>[[HVqp1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>שֵֽׁרִותִ֖ךָ</big></span>**
+[^1]: I will strengthen you  | **<big>[[H9031|ךָ]]</big><big>[[H8323B|שָׁרוֹתִ]]</big> ** | sha.ro.ti.<small><sup>[[HVqp1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: I will strengthen you  | **<big>[[H9031|ךָ]]</big><big>[[H8323B|שָׁרוֹתִ]]</big> ** | sha.ro.ti.<small><sup>[[HVqp1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>שֵֽׁרִותִ֖ךָ</big></span>**
 

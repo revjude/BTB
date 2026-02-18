@@ -27,5 +27,5 @@ Now a poor wise man was found in the city, and he saved the city by his wisdom. 
 | \<the> that  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1931\|הּֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^1] | ha.<small><sup>[[HTd]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.14|<< Ecclesiastes 9:14]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.16|Ecclesiastes 9:16 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>הַהֽוּא\׃</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>הַהֽוּא\׃</big></span>**
 

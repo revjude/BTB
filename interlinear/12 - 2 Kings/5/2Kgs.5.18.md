@@ -37,6 +37,6 @@ Yet may the LORD forgive your servant this one thing: When my master goes into t
 | \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.17|<< 2 Kings 5:17]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.19|2 Kings 5:19 >>]]</td></tr></table>
 
-[^1]: ==K==: please  | **<big>[[H4994|נָא]]</big> ** | na'<small><sup>[[HTj]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>נא</big></span>**
+[^1]: please  | **<big>[[H4994|נָא]]</big> ** | na'<small><sup>[[HTj]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>נא</big></span>**
 

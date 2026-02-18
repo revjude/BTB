@@ -22,7 +22,7 @@ And he spoke kindly to Jehoiachin and set his throne above the thrones of the ot
 | in Babylon  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0894\|בָבֶֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> va.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.31|<< Jeremiah 52:31]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.33|Jeremiah 52:33 >>]]</td></tr></table>
 
-[^1]: ==K==: kings  | **<big>[[H4428G|מְלָכִים]]</big> ** | me.la.khim<small><sup>[[HNcmpa]]</sup></small> 
-[^2]: ==K==: kings  | **<big>[[H4428G|מְלָכִים]]</big> ** | me.la.khim<small><sup>[[HNcmpa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>ַמְּלָכִ֛ים</big></span>**
+[^1]: kings  | **<big>[[H4428G|מְלָכִים]]</big> ** | me.la.khim<small><sup>[[HNcmpa]]</sup></small> | K
+[^2]: kings  | **<big>[[H4428G|מְלָכִים]]</big> ** | me.la.khim<small><sup>[[HNcmpa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>ַמְּלָכִ֛ים</big></span>**
 

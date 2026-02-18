@@ -15,7 +15,7 @@ Sheva was the scribe; Zadok and Abiathar were priests;
 | [were] priests  |**<big>&#8207;[[H3548\|כֹּהֲנִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ko.ha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.24|<< 2 Samuel 20:24]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.26|2 Samuel 20:26 >>]]</td></tr></table>
 
-[^1]: ==K==: and Sheya  | **<big>[[H7864|שֵׁיָא]]</big><big>[[H9002|וְ]]</big> ** | u.<small><sup>[[HC]]</sup></small> she.ya'<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==K==: and Sheya  | **<big>[[H7864|שֵׁיָא]]</big><big>[[H9002|וְ]]</big> ** | u.<small><sup>[[HC]]</sup></small> she.ya'<small><sup>[[HNpm]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וּשְׁיָ֖א</big></span>**
+[^1]: and Sheya  | **<big>[[H7864|שֵׁיָא]]</big><big>[[H9002|וְ]]</big> ** | u.<small><sup>[[HC]]</sup></small> she.ya'<small><sup>[[HNpm]]</sup></small> | K
+[^2]: and Sheya  | **<big>[[H7864|שֵׁיָא]]</big><big>[[H9002|וְ]]</big> ** | u.<small><sup>[[HC]]</sup></small> she.ya'<small><sup>[[HNpm]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וּשְׁיָ֖א</big></span>**
 

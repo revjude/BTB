@@ -32,6 +32,6 @@ Whether it is pleasant or unpleasant, we will obey the voice of the LORD our God
 | God our  |**<big>&#8207;[[H0430G\|אֱלֹהֵֽי]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.5|<< Jeremiah 42:5]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.7|Jeremiah 42:7 >>]]</td></tr></table>
 
-[^1]: ==K==: we  | **<big>[[H0580|אֲנוּ]]</big> ** | 'a.nu<small><sup>[[HPp1bp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אֲנְַ֜וּ</big></span>**
+[^1]: we  | **<big>[[H0580|אֲנוּ]]</big> ** | 'a.nu<small><sup>[[HPp1bp]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אֲנְַ֜וּ</big></span>**
 

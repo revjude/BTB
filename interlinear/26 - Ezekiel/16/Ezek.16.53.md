@@ -24,10 +24,10 @@ But I will restore Sodom and her daughters from captivity, as well as Samaria an
 | in midst of them  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8432\|תוֹכָֽ]]&#8207;&#8207;[[H9029\|הְנָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> to.Kha.<small><sup>[[HNcmsc]]</sup></small> he.nah<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.52|<< Ezekiel 16:52]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.54|Ezekiel 16:54 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>שְׁב֤יּת</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>שְׁבִית</big></span>**
-[^3]: ==L== spelled: **<span class="ashebrew"><big>שְׁב֥יּת</big></span>**
-[^4]: ==K== spelled: **<span class="ashebrew"><big>שְׁבִית</big></span>**
-[^5]: ==L== spelled: **<span class="ashebrew"><big>וּשְׁב֥יּת</big></span>**
-[^6]: ==K== spelled: **<span class="ashebrew"><big>וּשְׁבִית</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>שְׁב֤יּת</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>שְׁבִית</big></span>**
+[^3]: L spelled: **<span class="ashebrew"><big>שְׁב֥יּת</big></span>**
+[^4]: K spelled: **<span class="ashebrew"><big>שְׁבִית</big></span>**
+[^5]: L spelled: **<span class="ashebrew"><big>וּשְׁב֥יּת</big></span>**
+[^6]: K spelled: **<span class="ashebrew"><big>וּשְׁבִית</big></span>**
 

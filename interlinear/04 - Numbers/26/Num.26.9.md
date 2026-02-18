@@ -31,6 +31,6 @@ and the sons of Eliab were Nemuel, Dathan, and Abiram. It was Dathan and Abiram,
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.8|<< Numbers 26:8]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.10|Numbers 26:10 >>]]</td></tr></table>
 
-[^1]: ==K==: [those] called of  | **<big>[[H7121G|קְרוּאֵי]]</big> ** | ke.ru.'ei<small><sup>[[HVqsmpc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>קְרִואֵ֣י</big></span>**
+[^1]: [those] called of  | **<big>[[H7121G|קְרוּאֵי]]</big> ** | ke.ru.'ei<small><sup>[[HVqsmpc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>קְרִואֵ֣י</big></span>**
 

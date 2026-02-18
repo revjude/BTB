@@ -22,9 +22,9 @@ And as I listened, He said to the others, “Follow him through the city and sta
 | you show pity  |**<big>&#8207;[[H2550\|תַּחְמֹֽלוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tach.Mo.lu<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.9.4|<< Ezekiel 9:4]]</td><td align="center" style="border:none;">[[Ezek.9|Ezekiel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.9.6|Ezekiel 9:6 >>]]</td></tr></table>
 
-[^1]: ==K==: on  | **<big>[[H5921A|עַל]]</big> ** | al-<small><sup>[[HR]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>עַל\־</big></span>**
-[^3]: ==K==: eyes your  | **<big>[[H9026|כֶם]]</big><big>[[H5869A|עֵינֵי]]</big> ** | ei.nei.<small><sup>[[HNcfpc]]</sup></small> khem<small><sup>[[HSp2mp]]</sup></small> 
-[^4]: ==K==: eyes your  | **<big>[[H9026|כֶם]]</big><big>[[H5869A|עֵינֵי]]</big> ** | ei.nei.<small><sup>[[HNcfpc]]</sup></small> khem<small><sup>[[HSp2mp]]</sup></small> 
-[^5]: ==L== spelled: **<span class="ashebrew"><big>עֵינְיכֶ֖ם</big></span>**
+[^1]: on  | **<big>[[H5921A|עַל]]</big> ** | al-<small><sup>[[HR]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>עַל\־</big></span>**
+[^3]: eyes your  | **<big>[[H9026|כֶם]]</big><big>[[H5869A|עֵינֵי]]</big> ** | ei.nei.<small><sup>[[HNcfpc]]</sup></small> khem<small><sup>[[HSp2mp]]</sup></small> | K
+[^4]: eyes your  | **<big>[[H9026|כֶם]]</big><big>[[H5869A|עֵינֵי]]</big> ** | ei.nei.<small><sup>[[HNcfpc]]</sup></small> khem<small><sup>[[HSp2mp]]</sup></small> | K
+[^5]: L spelled: **<span class="ashebrew"><big>עֵינְיכֶ֖ם</big></span>**
 

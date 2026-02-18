@@ -19,6 +19,6 @@ A leader who lacks judgment is also a great oppressor, but he who hates dishones
 | days  |**<big>&#8207;[[H3117G\|יָמִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.15|<< Proverbs 28:15]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.17|Proverbs 28:17 >>]]</td></tr></table>
 
-[^1]: ==K==: [those who] hate  | **<big>[[H8130|שֹׂנְאֵי]]</big> ** | so.ne.'ei<small><sup>[[HVqrmpc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>שֹׂ֥נֵאי</big></span>**
+[^1]: [those who] hate  | **<big>[[H8130|שֹׂנְאֵי]]</big> ** | so.ne.'ei<small><sup>[[HVqrmpc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>שֹׂ֥נֵאי</big></span>**
 

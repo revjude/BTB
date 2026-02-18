@@ -24,7 +24,7 @@ Like a partridge hatching eggs it did not lay is the man who makes a fortune unj
 | a fool  |**<big>&#8207;[[H5036\|נָבָֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| na.Val<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.10|<< Jeremiah 17:10]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.12|Jeremiah 17:12 >>]]</td></tr></table>
 
-[^1]: ==K==: day his  | **<big>[[H9023|וֹ]]</big><big>[[H3117G|יֹמ]]</big> ** | yo.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: day his  | **<big>[[H9023|וֹ]]</big><big>[[H3117G|יֹמ]]</big> ** | yo.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>יָמָו֙</big></span>**
+[^1]: day his  | **<big>[[H9023|וֹ]]</big><big>[[H3117G|יֹמ]]</big> ** | yo.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: day his  | **<big>[[H9023|וֹ]]</big><big>[[H3117G|יֹמ]]</big> ** | yo.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>יָמָו֙</big></span>**
 

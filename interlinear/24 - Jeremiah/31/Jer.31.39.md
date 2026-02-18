@@ -20,6 +20,6 @@ The measuring line will once again stretch out straight to the hill of Gareb and
 | Goah towards  |**<big>&#8207;[[H1601\|גֹּעָֽתָ]]&#8207;&#8207;[[H9011\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| go.'A.ta<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.38|<< Jeremiah 31:38]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.40|Jeremiah 31:40 >>]]</td></tr></table>
 
-[^1]: ==K==: [the] line of  | **<big>[[H6961|קְוֵה]]</big> ** | ke.veh<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>קָ֤וה</big></span>**
+[^1]: [the] line of  | **<big>[[H6961|קְוֵה]]</big> ** | ke.veh<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>קָ֤וה</big></span>**
 

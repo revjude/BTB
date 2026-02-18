@@ -19,8 +19,8 @@ But it shall come to pass in the latter days, [that] I will bring again the capt
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.38|<< Jeremiah 49:38]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.1|Jeremiah 50:1 >>]]</td></tr></table>
 
-[^1]: ==K==: I will turn back  | **<big>[[H7725H|אָשׁוּב]]</big> ** | 'a.shuv<small><sup>[[HVqi1cs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אָשִׁ֛וב</big></span>**
-[^3]: ==L== spelled: **<span class="ashebrew"><big>שְׁב֥יּת</big></span>**
-[^4]: ==K== spelled: **<span class="ashebrew"><big>שְׁבִית</big></span>**
+[^1]: I will turn back  | **<big>[[H7725H|אָשׁוּב]]</big> ** | 'a.shuv<small><sup>[[HVqi1cs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אָשִׁ֛וב</big></span>**
+[^3]: L spelled: **<span class="ashebrew"><big>שְׁב֥יּת</big></span>**
+[^4]: K spelled: **<span class="ashebrew"><big>שְׁבִית</big></span>**
 

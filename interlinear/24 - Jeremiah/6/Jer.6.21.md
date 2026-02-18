@@ -28,7 +28,7 @@ Therefore this is what the LORD says: “I will lay stumbling blocks before this
 | and they will perish  [^2]|**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0006\|אָבָֽדוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**[^3] | ve.<small><sup>[[Hc]]</sup></small> 'a.Ba.du<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.20|<< Jeremiah 6:20]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.22|Jeremiah 6:22 >>]]</td></tr></table>
 
-[^1]: ==K==: they will perish  | **<big>[[H9017|פ]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H0006|יֹאבֵדוּ]]</big> ** | ye.'a.Ba.du<small><sup>[[HVqi3mp]]</sup></small> 
-[^2]: ==K==: they will perish  | **<big>[[H9017|פ]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H0006|יֹאבֵדוּ]]</big> ** | ye.'a.Ba.du<small><sup>[[HVqi3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>יְאָבָֽדוּ\׃\ \פ</big></span>**
+[^1]: they will perish  | **<big>[[H9017|פ]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H0006|יֹאבֵדוּ]]</big> ** | ye.'a.Ba.du<small><sup>[[HVqi3mp]]</sup></small> | K
+[^2]: they will perish  | **<big>[[H9017|פ]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H0006|יֹאבֵדוּ]]</big> ** | ye.'a.Ba.du<small><sup>[[HVqi3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>יְאָבָֽדוּ\׃\ \פ</big></span>**
 

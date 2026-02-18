@@ -35,6 +35,6 @@ So Hiram sent him ships captained by his servants, along with crews of experienc
 | Solomon  |**<big>&#8207;[[H8010\|שְׁלֹמֹֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8.17|<< 2 Chronicles 8:17]]</td><td align="center" style="border:none;">[[2Chr.8|2 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.1|2 Chronicles 9:1 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>אֳונִיּ֗וֹת</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>אוֹנִיּוֹת</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>אֳונִיּ֗וֹת</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>אוֹנִיּוֹת</big></span>**
 

@@ -22,5 +22,5 @@ In your marketplace they traded with you fine garments of blue, embroidered work
 | in market place your  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4819\|מַרְכֻלְתֵּֽ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> mar.khul.Te<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.23|<< Ezekiel 27:23]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.25|Ezekiel 27:25 >>]]</td></tr></table>
 
-[^1]: ==BH== spelled: **<span class="ashebrew"><big>בְמַכְלֻלִ֔ים</big></span>**
+[^1]: BH spelled: **<span class="ashebrew"><big>בְמַכְלֻלִ֔ים</big></span>**
 

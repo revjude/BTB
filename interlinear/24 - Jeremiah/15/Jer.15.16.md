@@ -26,7 +26,7 @@ Your words were found, and I ate them. Your words became my joy and my heart’s
 | hosts  |**<big>&#8207;[[H6635B\|צְבָאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.15|<< Jeremiah 15:15]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.17|Jeremiah 15:17 >>]]</td></tr></table>
 
-[^1]: ==K==: words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דְבָרֶי]]</big> ** | de.va.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^2]: ==K==: words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דְבָרֶי]]</big> ** | de.va.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>דְבָֽרְיךָ֙</big></span>**
+[^1]: words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דְבָרֶי]]</big> ** | de.va.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דְבָרֶי]]</big> ** | de.va.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>דְבָֽרְיךָ֙</big></span>**
 

@@ -18,8 +18,8 @@ He summons his nobles; they stumble as they advance. They race to its wall; the 
 | the cover  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5526D\|סֹּכֵֽךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> so.Khekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.2.4|<< Nahum 2:4]]</td><td align="center" style="border:none;">[[Nah.2|Nahum 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.2.6|Nahum 2:6 >>]]</td></tr></table>
 
-[^1]: ==K==: on journeys their  | **<big>[[H9028|ם]]</big><big>[[H1979|הֲלִכוֹתָ]]</big><big>[[H9003|בַ]]</big> ** | va.<small><sup>[[HR]]</sup></small> ha.li.kho.ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^2]: ==K==: on journeys their  | **<big>[[H9028|ם]]</big><big>[[H1979|הֲלִכוֹתָ]]</big><big>[[H9003|בַ]]</big> ** | va.<small><sup>[[HR]]</sup></small> ha.li.kho.ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^3]: ==K==: on journeys their  | **<big>[[H9028|ם]]</big><big>[[H1979|הֲלִכוֹתָ]]</big><big>[[H9003|בַ]]</big> ** | va.<small><sup>[[HR]]</sup></small> ha.li.kho.ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>בַּהֲלִֽכָותָ֑/ם</big></span>**
+[^1]: on journeys their  | **<big>[[H9028|ם]]</big><big>[[H1979|הֲלִכוֹתָ]]</big><big>[[H9003|בַ]]</big> ** | va.<small><sup>[[HR]]</sup></small> ha.li.kho.ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^2]: on journeys their  | **<big>[[H9028|ם]]</big><big>[[H1979|הֲלִכוֹתָ]]</big><big>[[H9003|בַ]]</big> ** | va.<small><sup>[[HR]]</sup></small> ha.li.kho.ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^3]: on journeys their  | **<big>[[H9028|ם]]</big><big>[[H1979|הֲלִכוֹתָ]]</big><big>[[H9003|בַ]]</big> ** | va.<small><sup>[[HR]]</sup></small> ha.li.kho.ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>בַּהֲלִֽכָותָ֑/ם</big></span>**
 

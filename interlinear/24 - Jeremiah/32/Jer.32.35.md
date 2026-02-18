@@ -38,6 +38,6 @@ They have built the high places of Baal in the Valley of Ben-hinnom to make thei
 | Judah  |**<big>&#8207;[[H3063G\|יְהוּדָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.34|<< Jeremiah 32:34]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.36|Jeremiah 32:36 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>הַחֲטִ֥י</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>הַחֲטִי</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>הַחֲטִ֥י</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>הַחֲטִי</big></span>**
 

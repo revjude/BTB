@@ -18,6 +18,6 @@ Like charcoal for embers and wood for fire, so is a quarrelsome man for kindling
 | strife  |**<big>&#8207;[[H7379\|רִֽיב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Riv<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.20|<< Proverbs 26:20]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.22|Proverbs 26:22 >>]]</td></tr></table>
 
-[^1]: ==K==: contentions  | **<big>[[H4066|מְדוֹנִים]]</big> ** | mi.do.nim<small><sup>[[HNcmpa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>מִ֝דְוָנִ֗ים</big></span>**
+[^1]: contentions  | **<big>[[H4066|מְדוֹנִים]]</big> ** | mi.do.nim<small><sup>[[HNcmpa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>מִ֝דְוָנִ֗ים</big></span>**
 

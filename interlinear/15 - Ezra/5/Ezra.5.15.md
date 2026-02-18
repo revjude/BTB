@@ -26,6 +26,6 @@ and instructed, ‘Take these articles, put them in the temple in Jerusalem, and
 | place its  |**<big>&#8207;[[H0870\|אַתְרֵֽ]]&#8207;&#8207;[[H9024\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'at.Re<small><sup>[[ANcbsc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.14|<< Ezra 5:14]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.16|Ezra 5:16 >>]]</td></tr></table>
 
-[^1]: ==K==: these  | **<big>[[H0429|אֵלֶּה]]</big> ** | 'e.leh<small><sup>[[ATm]]</sup></small> 
-[^2]: ==L== spelled: **<span class="asaramaic"><big>אֵ֚לה</big></span>**
+[^1]: these  | **<big>[[H0429|אֵלֶּה]]</big> ** | 'e.leh<small><sup>[[ATm]]</sup></small> | K
+[^2]: L spelled: **<span class="asaramaic"><big>אֵ֚לה</big></span>**
 

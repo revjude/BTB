@@ -34,6 +34,6 @@ The king’s servants have also gone to congratulate our lord King David, saying
 | the bed  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4904\|מִּשְׁכָּֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mish.Kav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.46|<< 1 Kings 1:46]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.48|1 Kings 1:48 >>]]</td></tr></table>
 
-[^1]: ==K==: God your  | **<big>[[H9021|ךָ]]</big><big>[[H0430G|אֱלֹהֶי]]</big> ** | 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אֱלֹהִ֜יך</big></span>**
+[^1]: God your  | **<big>[[H9021|ךָ]]</big><big>[[H0430G|אֱלֹהֶי]]</big> ** | 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אֱלֹהִ֜יך</big></span>**
 

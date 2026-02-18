@@ -17,6 +17,6 @@ Such knowledge is too wonderful for me, too lofty for me to attain.
 | to it  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| La<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.5|<< Psalms 139:5]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.7|Psalms 139:7 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>פְּלִ֣אָֽיה</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>פִּלְאִיָּה</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>פְּלִ֣אָֽיה</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>פִּלְאִיָּה</big></span>**
 

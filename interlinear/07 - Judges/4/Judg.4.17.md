@@ -29,5 +29,5 @@ Meanwhile, Sisera had fled on foot to the tent of Jael, the wife of Heber the Ke
 | the Kenite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7017\|קֵּינִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> kei.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.16|<< Judges 4:16]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.18|Judges 4:18 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>אֵ֖שֶׁת</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>אֵ֖שֶׁת</big></span>**
 

@@ -28,5 +28,5 @@ The earth produced vegetation: seed-bearing plants according to their kinds and 
 | [it was] good  |**<big>&#8207;[[H2895\|טֽוֹב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Tov<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.1.11|<< Genesis 1:11]]</td><td align="center" style="border:none;">[[Gen.1|Genesis 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.1.13|Genesis 1:13 >>]]</td></tr></table>
 
-[^1]: ==B== spelled: **<span class="ashebrew"><big>עֹֽשֶׂה</big></span>**
+[^1]: B spelled: **<span class="ashebrew"><big>עֹֽשֶׂה</big></span>**
 

@@ -22,8 +22,8 @@ They swirl about, whirling at His direction, accomplishing all that He commands 
 | [the] earth towards  |**<big>&#8207;[[H0776G\|אָֽרְצָ]]&#8207;&#8207;[[H9011\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'A.re.tza<small><sup>[[HNcfsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.11|<< Job 37:11]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.13|Job 37:13 >>]]</td></tr></table>
 
-[^1]: ==K==: by guidance his  | **<big>[[H9023|וֹ]]</big><big>[[H8458|תַחְבּוּלָת]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> tach.bu.la.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: by guidance his  | **<big>[[H9023|וֹ]]</big><big>[[H8458|תַחְבּוּלָת]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> tach.bu.la.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: by guidance his  | **<big>[[H9023|וֹ]]</big><big>[[H8458|תַחְבּוּלָת]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> tach.bu.la.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>בְּתַחְבּוּלֹתָ֣/ו</big></span>**
+[^1]: by guidance his  | **<big>[[H9023|וֹ]]</big><big>[[H8458|תַחְבּוּלָת]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> tach.bu.la.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: by guidance his  | **<big>[[H9023|וֹ]]</big><big>[[H8458|תַחְבּוּלָת]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> tach.bu.la.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: by guidance his  | **<big>[[H9023|וֹ]]</big><big>[[H8458|תַחְבּוּלָת]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> tach.bu.la.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>בְּתַחְבּוּלֹתָ֣/ו</big></span>**
 

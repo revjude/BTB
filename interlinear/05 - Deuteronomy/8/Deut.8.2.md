@@ -33,7 +33,7 @@ Remember that these forty years the LORD your God led you all the way in the wil
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8.1|<< Deuteronomy 8:1]]</td><td align="center" style="border:none;">[[Deut.8|Deuteronomy 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.8.3|Deuteronomy 8:3 >>]]</td></tr></table>
 
-[^1]: ==K==: commandment his  | **<big>[[H9023|וֹ]]</big><big>[[H4687|מִצְוֹת]]</big> ** | mitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: commandment his  | **<big>[[H9023|וֹ]]</big><big>[[H4687|מִצְוֹת]]</big> ** | mitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>מִצְוֹתָ֖ו</big></span>**
+[^1]: commandment his  | **<big>[[H9023|וֹ]]</big><big>[[H4687|מִצְוֹת]]</big> ** | mitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: commandment his  | **<big>[[H9023|וֹ]]</big><big>[[H4687|מִצְוֹת]]</big> ** | mitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>מִצְוֹתָ֖ו</big></span>**
 

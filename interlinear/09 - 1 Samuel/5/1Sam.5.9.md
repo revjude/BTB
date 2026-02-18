@@ -31,6 +31,6 @@ But after they had moved the ark to Gath, the LORD’s hand was also against tha
 | tumors  [^1]|**<big>&#8207;[[H2914\|טְחֹרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^2] | o.fa.lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.5.8|<< 1 Samuel 5:8]]</td><td align="center" style="border:none;">[[1Sam.5|1 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.5.10|1 Samuel 5:10 >>]]</td></tr></table>
 
-[^1]: ==K==: tumors  | **<big>[[H9016|׃]]</big><big>[[H6076B|עֳפָלִים]]</big> ** | o.fa.lim<small><sup>[[HNcmpa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>עְפֹלִֽים\׃</big></span>**
+[^1]: tumors  | **<big>[[H9016|׃]]</big><big>[[H6076B|עֳפָלִים]]</big> ** | o.fa.lim<small><sup>[[HNcmpa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>עְפֹלִֽים\׃</big></span>**
 

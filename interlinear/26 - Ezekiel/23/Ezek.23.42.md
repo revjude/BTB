@@ -29,6 +29,6 @@ accompanied by the sound of a carefree crowd. Drunkards were brought in from the
 | heads their  |**<big>&#8207;[[H7218A\|רָאשֵׁי]]&#8207;&#8207;[[H9029\|הֶֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ra.shei.<small><sup>[[HNcmpc]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.41|<< Ezekiel 23:41]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.43|Ezekiel 23:43 >>]]</td></tr></table>
 
-[^1]: ==K==: drunkards  | **<big>[[H5433B|סוֹבָאִים]]</big> ** | soa.'im<small><sup>[[HVqrmpa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>סָובָאִ֖ים</big></span>**
+[^1]: drunkards  | **<big>[[H5433B|סוֹבָאִים]]</big> ** | soa.'im<small><sup>[[HVqrmpa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>סָובָאִ֖ים</big></span>**
 

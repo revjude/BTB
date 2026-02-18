@@ -26,6 +26,6 @@ For this is what the LORD has told me: “I will quietly look on from My dwellin
 | harvest  |**<big>&#8207;[[H7105A\|קָצִֽיר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ka.Tzir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.18.3|<< Isaiah 18:3]]</td><td align="center" style="border:none;">[[Isa.18|Isaiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.18.5|Isaiah 18:5 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>אֶשְׁקֳוטָ֖ה</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>אֶשְׁקוֹטָה</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>אֶשְׁקֳוטָ֖ה</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>אֶשְׁקוֹטָה</big></span>**
 

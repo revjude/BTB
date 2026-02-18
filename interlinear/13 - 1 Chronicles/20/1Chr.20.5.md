@@ -28,6 +28,6 @@ Once again there was a battle with the Philistines, and Elhanan son of Jair kill
 | weavers  |**<big>&#8207;[[H0707\|אֹרְגִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'o.re.Gim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.20.4|<< 1 Chronicles 20:4]]</td><td align="center" style="border:none;">[[1Chr.20|1 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.20.6|1 Chronicles 20:6 >>]]</td></tr></table>
 
-[^1]: ==K==: Jaur  | **<big>[[H3265|יָעוּר]]</big> ** | ya.'ur<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יָעִ֗ור</big></span>**
+[^1]: Jaur  | **<big>[[H3265|יָעוּר]]</big> ** | ya.'ur<small><sup>[[HNpm]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יָעִ֗ור</big></span>**
 

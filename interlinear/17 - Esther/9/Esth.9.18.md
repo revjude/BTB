@@ -29,6 +29,6 @@ The Jews in Susa, however, had assembled on the thirteenth and the fourteenth da
 | and joy  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8057\|שִׂמְחָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sim.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.17|<< Esther 9:17]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.19|Esther 9:19 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וְהַ/יְּהוּדִ֣יים</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וְהַ/יְּהוּדִיִּים</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וְהַ/יְּהוּדִ֣יים</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וְהַ/יְּהוּדִיִּים</big></span>**
 

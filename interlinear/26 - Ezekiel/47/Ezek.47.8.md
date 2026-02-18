@@ -28,6 +28,6 @@ And he said to me, “This water flows out to the eastern region and goes down i
 | the waters  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4325G\|מָּֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.47.7|<< Ezekiel 47:7]]</td><td align="center" style="border:none;">[[Ezek.47|Ezekiel 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47.9|Ezekiel 47:9 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וְנִרְפּ֥אוּ</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וְנִרְפְּאוּ</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וְנִרְפּ֥אוּ</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וְנִרְפְּאוּ</big></span>**
 

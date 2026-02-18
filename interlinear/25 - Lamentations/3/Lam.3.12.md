@@ -15,5 +15,5 @@ He bent His bow and set me as the target for His arrow.
 | for \<the> arrow  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H2671\|חֵֽץ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Chetz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.11|<< Lamentations 3:11]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.13|Lamentations 3:13 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>קַשְׁתּוֹ֙</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>קַשְׁתּוֹ֙</big></span>**
 

@@ -31,7 +31,7 @@ But for now I will send for many fishermen, declares the LORD, and they will cat
 | the rocks  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5553H\|סְּלָעִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> se.la.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.15|<< Jeremiah 16:15]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.17|Jeremiah 16:17 >>]]</td></tr></table>
 
-[^1]: ==K==: for fishermen  | **<big>[[H1728|דַוָּגִים]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> da.va.gim<small><sup>[[HNcmpa]]</sup></small> 
-[^2]: ==K==: for fishermen  | **<big>[[H1728|דַוָּגִים]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> da.va.gim<small><sup>[[HNcmpa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>לְדַוָּגִ֥ים</big></span>**
+[^1]: for fishermen  | **<big>[[H1728|דַוָּגִים]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> da.va.gim<small><sup>[[HNcmpa]]</sup></small> | K
+[^2]: for fishermen  | **<big>[[H1728|דַוָּגִים]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> da.va.gim<small><sup>[[HNcmpa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>לְדַוָּגִ֥ים</big></span>**
 

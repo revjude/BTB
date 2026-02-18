@@ -15,7 +15,7 @@ The sons of Helah were Zereth, Zohar, Ethnan,
 | and Ethnan  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0869\|אֶתְנָֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'et.Nan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.6|<< 1 Chronicles 4:6]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.8|1 Chronicles 4:8 >>]]</td></tr></table>
 
-[^1]: ==K==: Izhar  | **<big>[[H3328|יִצְחָר]]</big> ** | yitz.char<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==K==: Izhar  | **<big>[[H3328|יִצְחָר]]</big> ** | yitz.char<small><sup>[[HNpm]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>יְצֹ֖חַר</big></span>**
+[^1]: Izhar  | **<big>[[H3328|יִצְחָר]]</big> ** | yitz.char<small><sup>[[HNpm]]</sup></small> | K
+[^2]: Izhar  | **<big>[[H3328|יִצְחָר]]</big> ** | yitz.char<small><sup>[[HNpm]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>יְצֹ֖חַר</big></span>**
 

@@ -27,7 +27,7 @@ I will make their widows more numerous than the sand of the sea. I will bring a 
 | and sudden terror  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H0928\|בֶהָלֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.ha.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.7|<< Jeremiah 15:7]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.9|Jeremiah 15:9 >>]]</td></tr></table>
 
-[^1]: ==K==: widow its  | **<big>[[H9023|וֹ]]</big><big>[[H0490|אַלְמְנֹת]]</big> ** | 'al.me.no.Ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: widow its  | **<big>[[H9023|וֹ]]</big><big>[[H0490|אַלְמְנֹת]]</big> ** | 'al.me.no.Ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>אַלְמְנֹתָו֙</big></span>**
+[^1]: widow its  | **<big>[[H9023|וֹ]]</big><big>[[H0490|אַלְמְנֹת]]</big> ** | 'al.me.no.Ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: widow its  | **<big>[[H9023|וֹ]]</big><big>[[H0490|אַלְמְנֹת]]</big> ** | 'al.me.no.Ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>אַלְמְנֹתָו֙</big></span>**
 

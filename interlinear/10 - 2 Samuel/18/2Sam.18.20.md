@@ -31,8 +31,8 @@ But Joab replied, “You are not the man to take good news today. You may do it 
 | he has died  |**<big>&#8207;[[H4191\|מֵֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Met<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.19|<< 2 Samuel 18:19]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.21|2 Samuel 18:21 >>]]</td></tr></table>
 
-[^1]: ==K==: \<on>  | **<big>[[H5921B|עַל]]</big> ** | al-<small><sup>[[HR]]</sup></small> 
-[^2]: ==K==: \<on>  | **<big>[[H5921B|עַל]]</big> ** | al-<small><sup>[[HR]]</sup></small> 
-[^3]: ==K==: \<on>  | **<big>[[H5921B|עַל]]</big> ** | al-<small><sup>[[HR]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>עַלֵ֥</big></span>**
+[^1]: \<on>  | **<big>[[H5921B|עַל]]</big> ** | al-<small><sup>[[HR]]</sup></small> | K
+[^2]: \<on>  | **<big>[[H5921B|עַל]]</big> ** | al-<small><sup>[[HR]]</sup></small> | K
+[^3]: \<on>  | **<big>[[H5921B|עַל]]</big> ** | al-<small><sup>[[HR]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>עַלֵ֥</big></span>**
 

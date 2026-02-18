@@ -34,7 +34,7 @@ If, however, you listen carefully to Me, says the LORD, and bring no load throug
 | work  |**<big>&#8207;[[H4399\|מְלָאכָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.la.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.23|<< Jeremiah 17:23]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.25|Jeremiah 17:25 >>]]</td></tr></table>
 
-[^1]: ==K==: on it  | **<big>[[H9034|ה]]</big><big>[[H9003|בֹּ]]</big> ** | bo<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> 
-[^2]: ==K==: on it  | **<big>[[H9034|ה]]</big><big>[[H9003|בֹּ]]</big> ** | bo<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בֹּ֖ה</big></span>**
+[^1]: on it  | **<big>[[H9034|ה]]</big><big>[[H9003|בֹּ]]</big> ** | bo<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | K
+[^2]: on it  | **<big>[[H9034|ה]]</big><big>[[H9003|בֹּ]]</big> ** | bo<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בֹּ֖ה</big></span>**
 

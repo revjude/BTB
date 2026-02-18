@@ -18,7 +18,7 @@ Let him not deceive himself with trust in emptiness, for emptiness will be his r
 | recompense his  |**<big>&#8207;[[H8545\|תְמוּרָתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| te.mu.ra.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.30|<< Job 15:30]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.32|Job 15:32 >>]]</td></tr></table>
 
-[^1]: ==K==: in \<the> worthlessness  | **<big>[[H7723H|שּׁוֹ]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HRd]]</sup></small> shov<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==K==: in \<the> worthlessness  | **<big>[[H7723H|שּׁוֹ]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HRd]]</sup></small> shov<small><sup>[[HNcbsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בַּשָּׁ֣ו</big></span>**
+[^1]: in \<the> worthlessness  | **<big>[[H7723H|שּׁוֹ]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HRd]]</sup></small> shov<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: in \<the> worthlessness  | **<big>[[H7723H|שּׁוֹ]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HRd]]</sup></small> shov<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בַּשָּׁ֣ו</big></span>**
 

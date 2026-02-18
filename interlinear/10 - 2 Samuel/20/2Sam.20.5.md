@@ -20,7 +20,7 @@ So Amasa went to summon Judah, but he took longer than the time allotted him.
 | he had appointed for him  |**<big>&#8207;[[H3259\|יְעָדֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.'a.D<small><sup>[[HVqp3ms]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.4|<< 2 Samuel 20:4]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.6|2 Samuel 20:6 >>]]</td></tr></table>
 
-[^1]: ==K==: and he delayed  | **<big>[[H3186|יֵּיחַר]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yi.cher<small><sup>[[HVqw3ms]]</sup></small> 
-[^2]: ==K==: and he delayed  | **<big>[[H3186|יֵּיחַר]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yi.cher<small><sup>[[HVqw3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וַיֹּ֕יחֶר</big></span>**
+[^1]: and he delayed  | **<big>[[H3186|יֵּיחַר]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yi.cher<small><sup>[[HVqw3ms]]</sup></small> | K
+[^2]: and he delayed  | **<big>[[H3186|יֵּיחַר]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yi.cher<small><sup>[[HVqw3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וַיֹּ֕יחֶר</big></span>**
 

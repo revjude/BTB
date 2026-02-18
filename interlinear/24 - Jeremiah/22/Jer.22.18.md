@@ -34,7 +34,7 @@ Therefore this is what the LORD says concerning Jehoiakim son of Josiah king of 
 | splendor his  [^2]|**<big>&#8207;[[H1935\|הֹדֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | ho.D<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.17|<< Jeremiah 22:17]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.19|Jeremiah 22:19 >>]]</td></tr></table>
 
-[^1]: ==K==: splendor his  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H1935|הֹדֹֽ]]</big> ** | ho.Do<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: splendor his  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H1935|הֹדֹֽ]]</big> ** | ho.Do<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הֹדֹֽה\׃</big></span>**
+[^1]: splendor his  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H1935|הֹדֹֽ]]</big> ** | ho.Do<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: splendor his  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H1935|הֹדֹֽ]]</big> ** | ho.Do<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הֹדֹֽה\׃</big></span>**
 

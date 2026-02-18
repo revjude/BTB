@@ -22,6 +22,6 @@ When Judah turned and discovered that the battle was both before and behind them
 | on trumpets  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2689\|חֲצֹצְרֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> cha.tzo.tze.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.13.13|<< 2 Chronicles 13:13]]</td><td align="center" style="border:none;">[[2Chr.13|2 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.13.15|2 Chronicles 13:15 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>מַחְצְצִ֖רים</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>מַחֲצֹצְרִים</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>מַחְצְצִ֖רים</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>מַחֲצֹצְרִים</big></span>**
 

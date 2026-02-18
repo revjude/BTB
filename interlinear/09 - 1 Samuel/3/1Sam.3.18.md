@@ -25,8 +25,8 @@ So Samuel told him everything and did not hide a thing from him. “He is the LO
 | let him do  |**<big>&#8207;[[H6213A\|יַעֲשֶֽׂה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ya.'a.Seh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.3.17|<< 1 Samuel 3:17]]</td><td align="center" style="border:none;">[[1Sam.3|1 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.3.19|1 Samuel 3:19 >>]]</td></tr></table>
 
-[^1]: ==K==: in eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869I|עֵינ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'ei.Na<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: in eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869I|עֵינ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'ei.Na<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: in eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869I|עֵינ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'ei.Na<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>בְּעֵינָ֖/ו</big></span>**
+[^1]: in eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869I|עֵינ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'ei.Na<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: in eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869I|עֵינ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'ei.Na<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: in eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869I|עֵינ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'ei.Na<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>בְּעֵינָ֖/ו</big></span>**
 

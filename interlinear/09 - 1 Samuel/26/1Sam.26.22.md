@@ -20,6 +20,6 @@ And David answered and said, Behold the king’s spear! and let one of the young
 | and let him take it  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3947G\|יִקָּחֶֽ]]&#8207;&#8207;[[H9034\|הָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yi.ka.Che.<small><sup>[[HVqu3ms]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.21|<< 1 Samuel 26:21]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.23|1 Samuel 26:23 >>]]</td></tr></table>
 
-[^1]: ==K==: the spear of  | **<big>[[H2595|חֲנִית]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> cha.nit<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>החֲנִ֣ית</big></span>**
+[^1]: the spear of  | **<big>[[H2595|חֲנִית]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> cha.nit<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>החֲנִ֣ית</big></span>**
 

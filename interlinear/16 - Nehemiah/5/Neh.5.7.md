@@ -29,6 +29,6 @@ and after serious thought I rebuked the nobles and officials, saying, “You are
 | great  |**<big>&#8207;[[H1419A\|גְדוֹלָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ge.do.Lah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.5.6|<< Nehemiah 5:6]]</td><td align="center" style="border:none;">[[Neh.5|Nehemiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.5.8|Nehemiah 5:8 >>]]</td></tr></table>
 
-[^1]: ==K==: [are] lending  | **<big>[[H5378|נֹשִׁ֑אים]]</big> ** | no.Shim<small><sup>[[HVqrmpa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>נֹשִׁ֑אים</big></span>**
+[^1]: [are] lending  | **<big>[[H5378|נֹשִׁ֑אים]]</big> ** | no.Shim<small><sup>[[HVqrmpa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>נֹשִׁ֑אים</big></span>**
 

@@ -20,7 +20,7 @@ Now Jeremiah was free to come and go among the people, for they had not yet put 
 | \<the> imprisonment  [^2]|**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3628\|כְּלֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | ha.<small><sup>[[HTd]]</sup></small> ke.li'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.37.3|<< Jeremiah 37:3]]</td><td align="center" style="border:none;">[[Jer.37|Jeremiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.37.5|Jeremiah 37:5 >>]]</td></tr></table>
 
-[^1]: ==K==: \<the> imprisonment  | **<big>[[H9016|׃]]</big><big>[[H3628|כְּלִיא]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ke.li'<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==K==: \<the> imprisonment  | **<big>[[H9016|׃]]</big><big>[[H3628|כְּלִיא]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ke.li'<small><sup>[[HNcbsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הַכְּלֽיּא\׃</big></span>**
+[^1]: \<the> imprisonment  | **<big>[[H9016|׃]]</big><big>[[H3628|כְּלִיא]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ke.li'<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: \<the> imprisonment  | **<big>[[H9016|׃]]</big><big>[[H3628|כְּלִיא]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ke.li'<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הַכְּלֽיּא\׃</big></span>**
 

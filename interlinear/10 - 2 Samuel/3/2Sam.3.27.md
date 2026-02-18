@@ -29,5 +29,5 @@ When Abner returned to Hebron, Joab pulled him aside into the gateway, as if to 
 | brother his  |**<big>&#8207;[[H0251G\|אָחִֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Chi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.26|<< 2 Samuel 3:26]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.28|2 Samuel 3:28 >>]]</td></tr></table>
 
-[^1]: ==BH== spelled: **<span class="ashebrew"><big>לְדַּבֵּ֥ר</big></span>**
+[^1]: BH spelled: **<span class="ashebrew"><big>לְדַּבֵּ֥ר</big></span>**
 

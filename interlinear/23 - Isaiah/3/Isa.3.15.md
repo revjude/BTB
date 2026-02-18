@@ -20,9 +20,9 @@ Why do you crush My people and grind the faces of the poor?” declares the Lord
 | of hosts  |**<big>&#8207;[[H6635B\|צְבָאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.14|<< Isaiah 3:14]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.16|Isaiah 3:16 >>]]</td></tr></table>
 
-[^1]: ==K==: what [is] to you?  | **<big>[[H9046|כֶם]]</big><big>[[H9005|לָּ]]</big><big>[[H4100|מַ]]</big> ** | ma.<small><sup>[[HPi]]</sup></small> la.<small><sup>[[HR]]</sup></small> khem<small><sup>[[HSp2mp]]</sup></small> 
-[^2]: ==K==: what [is] to you?  | **<big>[[H9046|כֶם]]</big><big>[[H9005|לָּ]]</big><big>[[H4100|מַ]]</big> ** | ma.<small><sup>[[HPi]]</sup></small> la.<small><sup>[[HR]]</sup></small> khem<small><sup>[[HSp2mp]]</sup></small> 
-[^3]: ==K==: what [is] to you?  | **<big>[[H9046|כֶם]]</big><big>[[H9005|לָּ]]</big><big>[[H4100|מַ]]</big> ** | ma.<small><sup>[[HPi]]</sup></small> la.<small><sup>[[HR]]</sup></small> khem<small><sup>[[HSp2mp]]</sup></small> 
-[^4]: ==K==: what [is] to you?  | **<big>[[H9046|כֶם]]</big><big>[[H9005|לָּ]]</big><big>[[H4100|מַ]]</big> ** | ma.<small><sup>[[HPi]]</sup></small> la.<small><sup>[[HR]]</sup></small> khem<small><sup>[[HSp2mp]]</sup></small> 
-[^5]: ==L== spelled: **<span class="ashebrew"><big>מַלָּ/כֶם֙</big></span>**
+[^1]: what [is] to you?  | **<big>[[H9046|כֶם]]</big><big>[[H9005|לָּ]]</big><big>[[H4100|מַ]]</big> ** | ma.<small><sup>[[HPi]]</sup></small> la.<small><sup>[[HR]]</sup></small> khem<small><sup>[[HSp2mp]]</sup></small> | K
+[^2]: what [is] to you?  | **<big>[[H9046|כֶם]]</big><big>[[H9005|לָּ]]</big><big>[[H4100|מַ]]</big> ** | ma.<small><sup>[[HPi]]</sup></small> la.<small><sup>[[HR]]</sup></small> khem<small><sup>[[HSp2mp]]</sup></small> | K
+[^3]: what [is] to you?  | **<big>[[H9046|כֶם]]</big><big>[[H9005|לָּ]]</big><big>[[H4100|מַ]]</big> ** | ma.<small><sup>[[HPi]]</sup></small> la.<small><sup>[[HR]]</sup></small> khem<small><sup>[[HSp2mp]]</sup></small> | K
+[^4]: what [is] to you?  | **<big>[[H9046|כֶם]]</big><big>[[H9005|לָּ]]</big><big>[[H4100|מַ]]</big> ** | ma.<small><sup>[[HPi]]</sup></small> la.<small><sup>[[HR]]</sup></small> khem<small><sup>[[HSp2mp]]</sup></small> | K
+[^5]: L spelled: **<span class="ashebrew"><big>מַלָּ/כֶם֙</big></span>**
 

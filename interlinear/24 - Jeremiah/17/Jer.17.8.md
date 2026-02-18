@@ -35,6 +35,6 @@ He is like a tree planted by the waters that sends out its roots toward the stre
 | fruit  |**<big>&#8207;[[H6529\|פֶּֽרִי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Pe.ri<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.7|<< Jeremiah 17:7]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.9|Jeremiah 17:9 >>]]</td></tr></table>
 
-[^1]: ==K==: he will fear  | **<big>[[H3372G|יִרָא]]</big> ** | yi.ra'<small><sup>[[HVqi3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יִרְאֶ֙</big></span>**
+[^1]: he will fear  | **<big>[[H3372G|יִרָא]]</big> ** | yi.ra'<small><sup>[[HVqi3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יִרְאֶ֙</big></span>**
 

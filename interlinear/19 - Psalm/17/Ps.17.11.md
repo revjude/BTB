@@ -17,7 +17,7 @@ They have tracked us down, and now surround us; their eyes are set to cast us to
 | on the ground  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0776H\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.17.10|<< Psalms 17:10]]</td><td align="center" style="border:none;">[[Ps.17|Psalms 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.17.12|Psalms 17:12 >>]]</td></tr></table>
 
-[^1]: ==K==: they have surrounded me  | **<big>[[H9030|נִי]]</big><big>[[H5437H|סְבָבוּ]]</big> ** | se.va.vu.<small><sup>[[HVqp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> 
-[^2]: ==K==: they have surrounded me  | **<big>[[H9030|נִי]]</big><big>[[H5437H|סְבָבוּ]]</big> ** | se.va.vu.<small><sup>[[HVqp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>סְבָב֑וּניּ</big></span>**
+[^1]: they have surrounded me  | **<big>[[H9030|נִי]]</big><big>[[H5437H|סְבָבוּ]]</big> ** | se.va.vu.<small><sup>[[HVqp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | K
+[^2]: they have surrounded me  | **<big>[[H9030|נִי]]</big><big>[[H5437H|סְבָבוּ]]</big> ** | se.va.vu.<small><sup>[[HVqp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>סְבָב֑וּניּ</big></span>**
 

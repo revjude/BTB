@@ -37,6 +37,6 @@ and will have these measurements: 4,500 cubits on the north side, 4,500 cubits o
 | thousand [cubits]  |**<big>&#8207;[[H0505G\|אֲלָפִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.la.Fim<small><sup>[[HAcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.15|<< Ezekiel 48:15]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.17|Ezekiel 48:17 >>]]</td></tr></table>
 
-[^1]: ==K==: five  | **<big>[[H2568|חֲמֵשׁ]]</big> ** | cha.mesh<small><sup>[[HAcbsc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>חמש</big></span>**
+[^1]: five  | **<big>[[H2568|חֲמֵשׁ]]</big> ** | cha.mesh<small><sup>[[HAcbsc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>חמש</big></span>**
 

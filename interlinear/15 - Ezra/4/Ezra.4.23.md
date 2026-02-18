@@ -33,6 +33,6 @@ When the text of the letter from King Artaxerxes was read to Rehum, Shimshai the
 | and power  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2429\|חָֽיִל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> Cha.yil<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.22|<< Ezra 4:22]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.24|Ezra 4:24 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>אַרְתַּחְשַׁ֣שְׂתְּא</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>אַרְתַּחְשַׁשְׂתָּא</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>אַרְתַּחְשַׁ֣שְׂתְּא</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>אַרְתַּחְשַׁשְׂתָּא</big></span>**
 

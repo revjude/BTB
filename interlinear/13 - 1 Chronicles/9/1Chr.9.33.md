@@ -22,6 +22,6 @@ Those who were musicians, the heads of Levite families, stayed in the temple cha
 | in the work  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4399\|מְּלָאכָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> me.la.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.32|<< 1 Chronicles 9:32]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.34|1 Chronicles 9:34 >>]]</td></tr></table>
 
-[^1]: ==K==: set free  | **<big>[[H6359|פְּטִירִים]]</big> ** | pe.ti.rim<small><sup>[[HNcmpa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>פְּטיּרִ֑ים</big></span>**
+[^1]: set free  | **<big>[[H6359|פְּטִירִים]]</big> ** | pe.ti.rim<small><sup>[[HNcmpa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>פְּטיּרִ֑ים</big></span>**
 

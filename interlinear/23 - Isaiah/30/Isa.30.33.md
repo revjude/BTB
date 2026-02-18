@@ -34,6 +34,6 @@ For Topheth has long been prepared; it has been made ready for the king. Its fun
 | \<in> \<the> it  |**<big>&#8207;[[H9003\|בָּֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Ba<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.32|<< Isaiah 30:32]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.31.1|Isaiah 31:1 >>]]</td></tr></table>
 
-[^1]: ==K==: it  | **<big>[[H1931|הוּא]]</big> ** | hu'<small><sup>[[HPp3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>הִ֛וא</big></span>**
+[^1]: it  | **<big>[[H1931|הוּא]]</big> ** | hu'<small><sup>[[HPp3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>הִ֛וא</big></span>**
 

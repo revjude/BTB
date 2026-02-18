@@ -17,5 +17,5 @@ to those in Hormah, Bor-ashan, and Athach;
 | [were] in Athach  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H6269\|עֲתָֽךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^1] | ba.<small><sup>[[HR]]</sup></small> 'a.Takh<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad Aleppo (biblia benchayim)">LA(bh)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30.29|<< 1 Samuel 30:29]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.31|1 Samuel 30:31 >>]]</td></tr></table>
 
-[^1]: ==BH== spelled: **<span class="ashebrew"><big>בַעֲתָֽךְ\׃</big></span>**
+[^1]: BH spelled: **<span class="ashebrew"><big>בַעֲתָֽךְ\׃</big></span>**
 

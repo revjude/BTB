@@ -37,6 +37,6 @@ And as Gideon arrived, a man was telling his friend about a dream. “Behold, I 
 | the tent  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0168G\|אֹֽהֶל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'O.hel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.12|<< Judges 7:12]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.14|Judges 7:14 >>]]</td></tr></table>
 
-[^1]: ==K==: a round loaf of  | **<big>[[H6742|צְלוֹל]]</big> ** | tze.lol<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>צְלִ֜ול</big></span>**
+[^1]: a round loaf of  | **<big>[[H6742|צְלוֹל]]</big> ** | tze.lol<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>צְלִ֜ול</big></span>**
 

@@ -17,8 +17,8 @@ And the LORD asked him, “What is that in your hand?” “A staff,” he repli
 | a staff  |**<big>&#8207;[[H4294G\|מַטֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ma.Teh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.1|<< Exodus 4:1]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.3|Exodus 4:3 >>]]</td></tr></table>
 
-[^1]: ==K==: what  [is] this?  | **<big>[[H2088|זֶּה]]</big><big></big><big>[[H4100|מַ]]</big> ** | ma.<small><sup>[[HPi]]</sup></small>  zeh<small><sup>[[HTm]]</sup></small> 
-[^2]: ==K==: what  [is] this?  | **<big>[[H2088|זֶּה]]</big><big></big><big>[[H4100|מַ]]</big> ** | ma.<small><sup>[[HPi]]</sup></small>  zeh<small><sup>[[HTm]]</sup></small> 
-[^3]: ==K==: what  [is] this?  | **<big>[[H2088|זֶּה]]</big><big></big><big>[[H4100|מַ]]</big> ** | ma.<small><sup>[[HPi]]</sup></small>  zeh<small><sup>[[HTm]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>מַ/זֶּ֣ה</big></span>**
+[^1]: what  [is] this?  | **<big>[[H2088|זֶּה]]</big><big></big><big>[[H4100|מַ]]</big> ** | ma.<small><sup>[[HPi]]</sup></small>  zeh<small><sup>[[HTm]]</sup></small> | K
+[^2]: what  [is] this?  | **<big>[[H2088|זֶּה]]</big><big></big><big>[[H4100|מַ]]</big> ** | ma.<small><sup>[[HPi]]</sup></small>  zeh<small><sup>[[HTm]]</sup></small> | K
+[^3]: what  [is] this?  | **<big>[[H2088|זֶּה]]</big><big></big><big>[[H4100|מַ]]</big> ** | ma.<small><sup>[[HPi]]</sup></small>  zeh<small><sup>[[HTm]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>מַ/זֶּ֣ה</big></span>**
 

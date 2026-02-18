@@ -20,6 +20,6 @@ For behold, the LORD comes forth from His dwelling place; He will come down and 
 | [the] earth  |**<big>&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.2|<< Micah 1:2]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.4|Micah 1:4 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>בָּ֥מֳותֵי</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>בָּמוֹתֵי</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>בָּ֥מֳותֵי</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>בָּמוֹתֵי</big></span>**
 

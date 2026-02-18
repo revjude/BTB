@@ -24,7 +24,7 @@ Therefore it towered higher than all the trees of the field. Its branches multip
 | when sent out it  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7971G\|שַׁלְּחֽ]]&#8207;&#8207;[[H9043\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> sha.le.Ch<small><sup>[[HVpcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31.4|<< Ezekiel 31:4]]</td><td align="center" style="border:none;">[[Ezek.31|Ezekiel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.31.6|Ezekiel 31:6 >>]]</td></tr></table>
 
-[^1]: ==K==: branch its  | **<big>[[H9023|וֹ]]</big><big>[[H6288A|פֹארָת]]</big> ** | fo.ro.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: branch its  | **<big>[[H9023|וֹ]]</big><big>[[H6288A|פֹארָת]]</big> ** | fo.ro.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>פֹארֹתָ֛ו</big></span>**
+[^1]: branch its  | **<big>[[H9023|וֹ]]</big><big>[[H6288A|פֹארָת]]</big> ** | fo.ro.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: branch its  | **<big>[[H9023|וֹ]]</big><big>[[H6288A|פֹארָת]]</big> ** | fo.ro.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>פֹארֹתָ֛ו</big></span>**
 

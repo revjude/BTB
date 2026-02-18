@@ -17,6 +17,6 @@ The sons of Beriah: Heber, as well as Malchiel, who was the father of Birzaith.
 | Birzaith  [^1]|**<big>&#8207;[[H1269\|בִרְזָֽיִת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^2] | vir.zot<small><sup>[[HNpm]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.30|<< 1 Chronicles 7:30]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.32|1 Chronicles 7:32 >>]]</td></tr></table>
 
-[^1]: ==K==: Birzoth  | **<big>[[H9016|׃]]</big><big>[[H1269|בִרְזוֹת]]</big> ** | vir.zot<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>בִרְזָֽוִת\׃</big></span>**
+[^1]: Birzoth  | **<big>[[H9016|׃]]</big><big>[[H1269|בִרְזוֹת]]</big> ** | vir.zot<small><sup>[[HNpm]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>בִרְזָֽוִת\׃</big></span>**
 

@@ -40,10 +40,10 @@ But there are some Jews you have appointed to manage the province of Babylon—S
 | [they are] paying homage  |**<big>&#8207;[[H5457\|סָגְדִֽין]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| sa.ge.Din<small><sup>[[AVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.11|<< Daniel 3:11]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.13|Daniel 3:13 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>עֲלָ֤יךְ</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>עֲלַיִךְ</big></span>**
-[^3]: ==K==: to gods your  | **<big>[[H9021|ךְ]]</big><big>[[H0426|אלָהַיִ]]</big><big>[[H9005|לֵ]]</big> ** | le.<small><sup>[[AR]]</sup></small> la.ha.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> 
-[^4]: ==K==: to gods your  | **<big>[[H9021|ךְ]]</big><big>[[H0426|אלָהַיִ]]</big><big>[[H9005|לֵ]]</big> ** | le.<small><sup>[[AR]]</sup></small> la.ha.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> 
-[^5]: ==K==: to gods your  | **<big>[[H9021|ךְ]]</big><big>[[H0426|אלָהַיִ]]</big><big>[[H9005|לֵ]]</big> ** | le.<small><sup>[[AR]]</sup></small> la.ha.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> 
-[^6]: ==L== spelled: **<span class="ashebrew"><big>לֵֽאלָהָי/ךְ֙</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>עֲלָ֤יךְ</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>עֲלַיִךְ</big></span>**
+[^3]: to gods your  | **<big>[[H9021|ךְ]]</big><big>[[H0426|אלָהַיִ]]</big><big>[[H9005|לֵ]]</big> ** | le.<small><sup>[[AR]]</sup></small> la.ha.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | K
+[^4]: to gods your  | **<big>[[H9021|ךְ]]</big><big>[[H0426|אלָהַיִ]]</big><big>[[H9005|לֵ]]</big> ** | le.<small><sup>[[AR]]</sup></small> la.ha.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | K
+[^5]: to gods your  | **<big>[[H9021|ךְ]]</big><big>[[H0426|אלָהַיִ]]</big><big>[[H9005|לֵ]]</big> ** | le.<small><sup>[[AR]]</sup></small> la.ha.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | K
+[^6]: L spelled: **<span class="ashebrew"><big>לֵֽאלָהָי/ךְ֙</big></span>**
 

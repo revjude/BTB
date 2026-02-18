@@ -13,6 +13,6 @@ To the chief Musician, to Jeduthun, A Psalm of Asaph.
 | a psalm  |**<big>&#8207;[[H4210\|מִזְמֽוֹר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| miz.Mor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.76.12|<< Psalms 76:12]]</td><td align="center" style="border:none;">[[Ps.77|Psalms 77]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.77.1|Psalms 77:1 >>]]</td></tr></table>
 
-[^1]: ==K==: Jedithun  | **<big>[[H3038G|יְדִיתוּן]]</big> ** | ye.du.Tun<small><sup>[[HNcmpa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יְדיּת֗וּן</big></span>**
+[^1]: Jedithun  | **<big>[[H3038G|יְדִיתוּן]]</big> ** | ye.du.Tun<small><sup>[[HNcmpa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יְדיּת֗וּן</big></span>**
 

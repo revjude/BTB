@@ -17,6 +17,6 @@ Their infants will be dashed to pieces before their eyes, their houses will be l
 | they will be lain with  [^1]|**<big>&#8207;[[H7901I\|תִּשָּׁכַֽבְנָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^2] | ti.sha.khab.nah<small><sup>[[HVNi3fp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.15|<< Isaiah 13:15]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.17|Isaiah 13:17 >>]]</td></tr></table>
 
-[^1]: ==K==: they will be raped  | **<big>[[H9016|׃]]</big><big>[[H7693|תִּשָּׁגַלְנָה]]</big> ** | ti.sha.gal.nah<small><sup>[[HVNi3fp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>תִּשָּׁגַֽלְנָה\׃</big></span>**
+[^1]: they will be raped  | **<big>[[H9016|׃]]</big><big>[[H7693|תִּשָּׁגַלְנָה]]</big> ** | ti.sha.gal.nah<small><sup>[[HVNi3fp]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>תִּשָּׁגַֽלְנָה\׃</big></span>**
 

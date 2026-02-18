@@ -35,6 +35,6 @@ and Jeroboam said to his wife, “Now get up, disguise yourself so they will not
 | \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.1|<< 1 Kings 14:1]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.3|1 Kings 14:3 >>]]</td></tr></table>
 
-[^1]: ==K==: you  | **<big>[[H0859B|אַתִּי]]</big> ** | 'a.ti<small><sup>[[HPp2fs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אַ֖תְּי</big></span>**
+[^1]: you  | **<big>[[H0859B|אַתִּי]]</big> ** | 'a.ti<small><sup>[[HPp2fs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אַ֖תְּי</big></span>**
 

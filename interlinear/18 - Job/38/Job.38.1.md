@@ -17,8 +17,8 @@ Then the LORD answered Job out of the whirlwind and said:
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמַֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Mar<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.24|<< Job 37:24]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.2|Job 38:2 >>]]</td></tr></table>
 
-[^1]: ==K==: from  | **<big>[[H4480A|מִנ]]</big> ** | min<small><sup>[[HR]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>מִ֥ן\׀</big></span>**
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הַסְּעָרָ֗ה</big></span>**
-[^4]: ==K== spelled: **<span class="ashebrew"><big>הַסְּעָרָה</big></span>**
+[^1]: from  | **<big>[[H4480A|מִנ]]</big> ** | min<small><sup>[[HR]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>מִ֥ן\׀</big></span>**
+[^3]: L spelled: **<span class="ashebrew"><big>הַסְּעָרָ֗ה</big></span>**
+[^4]: K spelled: **<span class="ashebrew"><big>הַסְּעָרָה</big></span>**
 

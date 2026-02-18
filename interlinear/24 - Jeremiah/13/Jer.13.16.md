@@ -28,7 +28,7 @@ Give glory to the LORD your God before He brings darkness, before your feet stum
 | into thick darkness  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6205\|עֲרָפֶֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.ra.Fel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.13.15|<< Jeremiah 13:15]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.13.17|Jeremiah 13:17 >>]]</td></tr></table>
 
-[^1]: ==K==: he will make [it]  | **<big>[[H7896G|יָשִׁית]]</big> ** | ya.shit<small><sup>[[HVqi3ms]]</sup></small> 
-[^2]: ==K==: he will make [it]  | **<big>[[H7896G|יָשִׁית]]</big> ** | ya.shit<small><sup>[[HVqi3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>יְשִׁ֖ית</big></span>**
+[^1]: he will make [it]  | **<big>[[H7896G|יָשִׁית]]</big> ** | ya.shit<small><sup>[[HVqi3ms]]</sup></small> | K
+[^2]: he will make [it]  | **<big>[[H7896G|יָשִׁית]]</big> ** | ya.shit<small><sup>[[HVqi3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>יְשִׁ֖ית</big></span>**
 

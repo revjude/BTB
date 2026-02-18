@@ -26,7 +26,7 @@ Then he restored the altar of the LORD and sacrificed peace offerings and thank 
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.33.15|<< 2 Chronicles 33:15]]</td><td align="center" style="border:none;">[[2Chr.33|2 Chronicles 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.33.17|2 Chronicles 33:17 >>]]</td></tr></table>
 
-[^1]: ==K==: and he prepared  | **<big>[[H3559I|יָּכֶן]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.khen<small><sup>[[HVhw3ms]]</sup></small> 
-[^2]: ==K==: and he prepared  | **<big>[[H3559I|יָּכֶן]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.khen<small><sup>[[HVhw3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וַיִּ֙כֶן֙</big></span>**
+[^1]: and he prepared  | **<big>[[H3559I|יָּכֶן]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.khen<small><sup>[[HVhw3ms]]</sup></small> | K
+[^2]: and he prepared  | **<big>[[H3559I|יָּכֶן]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.khen<small><sup>[[HVhw3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וַיִּ֙כֶן֙</big></span>**
 

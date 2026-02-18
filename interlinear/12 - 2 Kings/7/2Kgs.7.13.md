@@ -38,6 +38,6 @@ But one of his servants replied, “Please, have scouts take five of the horses 
 | and we may see  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7200G\|נִרְאֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> nir.'Eh<small><sup>[[HVqu1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.7.12|<< 2 Kings 7:12]]</td><td align="center" style="border:none;">[[2Kgs.7|2 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.7.14|2 Kings 7:14 >>]]</td></tr></table>
 
-[^1]: ==K==: the multitude of  | **<big>[[H1995A|הָמוֹן]]</big><big>[[H9009|הֶ]]</big> ** | he.<small><sup>[[HTd]]</sup></small> ha.mon<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>הֲהמ֤וֹן</big></span>**
+[^1]: the multitude of  | **<big>[[H1995A|הָמוֹן]]</big><big>[[H9009|הֶ]]</big> ** | he.<small><sup>[[HTd]]</sup></small> ha.mon<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>הֲהמ֤וֹן</big></span>**
 

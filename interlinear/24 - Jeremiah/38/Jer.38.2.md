@@ -29,7 +29,7 @@ Thus saith the LORD, He that remaineth in this city shall die by the sword, by t
 | and he will live  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H2421\|חָֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Chai<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.1|<< Jeremiah 38:1]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.3|Jeremiah 38:3 >>]]</td></tr></table>
 
-[^1]: ==K==: he will live  | **<big>[[H2421|יִחְיֶה]]</big> ** | yich.yeh<small><sup>[[HVqi3ms]]</sup></small> 
-[^2]: ==K==: he will live  | **<big>[[H2421|יִחְיֶה]]</big> ** | yich.yeh<small><sup>[[HVqi3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>יְחָיָ֔ה</big></span>**
+[^1]: he will live  | **<big>[[H2421|יִחְיֶה]]</big> ** | yich.yeh<small><sup>[[HVqi3ms]]</sup></small> | K
+[^2]: he will live  | **<big>[[H2421|יִחְיֶה]]</big> ** | yich.yeh<small><sup>[[HVqi3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>יְחָיָ֔ה</big></span>**
 

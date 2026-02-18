@@ -34,6 +34,6 @@ When I saw among the spoils a beautiful cloak from Shinar, two hundred shekels o
 | [is] under it  |**<big>&#8207;[[H8478G\|תַּחְתֶּֽי]]&#8207;&#8207;[[H9034\|הָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tach.Tei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.20|<< Joshua 7:20]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.22|Joshua 7:22 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וָאֵ֣רֶאה</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וָאֶרְאֶה</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וָאֵ֣רֶאה</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וָאֶרְאֶה</big></span>**
 

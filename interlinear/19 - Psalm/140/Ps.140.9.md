@@ -15,7 +15,7 @@ May the heads of those who surround me be covered in the trouble their lips have
 | may it cover them  [^2]|**<big>&#8207;[[H3680\|יְכַסֵּֽ]]&#8207;&#8207;[[H9038\|מוֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | ye.kha.su.<small><sup>[[HVpi3ms]]</sup></small> mov<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.140.8|<< Psalms 140:8]]</td><td align="center" style="border:none;">[[Ps.140|Psalms 140]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.140.10|Psalms 140:10 >>]]</td></tr></table>
 
-[^1]: ==K==: may they cover them  | **<big>[[H9016|׃]]</big><big>[[H9038|מוֹ]]</big><big>[[H3680|יְכַסּוּ]]</big> ** | ye.kha.su.<small><sup>[[HVpi3mp]]</sup></small> mov<small><sup>[[HSp3mp]]</sup></small> 
-[^2]: ==K==: may they cover them  | **<big>[[H9016|׃]]</big><big>[[H9038|מוֹ]]</big><big>[[H3680|יְכַסּוּ]]</big> ** | ye.kha.su.<small><sup>[[HVpi3mp]]</sup></small> mov<small><sup>[[HSp3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>יְכַסֵּֽומוֹ\׃</big></span>**
+[^1]: may they cover them  | **<big>[[H9016|׃]]</big><big>[[H9038|מוֹ]]</big><big>[[H3680|יְכַסּוּ]]</big> ** | ye.kha.su.<small><sup>[[HVpi3mp]]</sup></small> mov<small><sup>[[HSp3mp]]</sup></small> | K
+[^2]: may they cover them  | **<big>[[H9016|׃]]</big><big>[[H9038|מוֹ]]</big><big>[[H3680|יְכַסּוּ]]</big> ** | ye.kha.su.<small><sup>[[HVpi3mp]]</sup></small> mov<small><sup>[[HSp3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>יְכַסֵּֽומוֹ\׃</big></span>**
 

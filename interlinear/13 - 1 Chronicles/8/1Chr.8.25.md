@@ -14,7 +14,7 @@ Iphdeiah, and Penuel were the sons of Shashak.
 | Shashak  |**<big>&#8207;[[H8349\|שָׁשָֽׁק]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sha.Shak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8.24|<< 1 Chronicles 8:24]]</td><td align="center" style="border:none;">[[1Chr.8|1 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8.26|1 Chronicles 8:26 >>]]</td></tr></table>
 
-[^1]: ==K==: and Peniel  | **<big>[[H6439I|פְנִיאֵל]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> fe.ni.'el<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==K==: and Peniel  | **<big>[[H6439I|פְנִיאֵל]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> fe.ni.'el<small><sup>[[HNpm]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וּפְניּאֵ֖ל</big></span>**
+[^1]: and Peniel  | **<big>[[H6439I|פְנִיאֵל]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> fe.ni.'el<small><sup>[[HNpm]]</sup></small> | K
+[^2]: and Peniel  | **<big>[[H6439I|פְנִיאֵל]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> fe.ni.'el<small><sup>[[HNpm]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וּפְניּאֵ֖ל</big></span>**
 

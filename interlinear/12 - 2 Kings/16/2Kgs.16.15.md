@@ -52,7 +52,7 @@ Then King Ahaz commanded Uriah the priest, “Offer on the great altar the morni
 | to consult  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1239\|בַקֵּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> va.Ker<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.16.14|<< 2 Kings 16:14]]</td><td align="center" style="border:none;">[[2Kgs.16|2 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.16.16|2 Kings 16:16 >>]]</td></tr></table>
 
-[^1]: ==K==: and he commanded him  | **<big>[[H9033|הוּ]]</big><big>[[H6680|יְצַוֵּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> y.tza.ve.<small><sup>[[HVpw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: and he commanded him  | **<big>[[H9033|הוּ]]</big><big>[[H6680|יְצַוֵּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> y.tza.ve.<small><sup>[[HVpw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וַיְצַוֶּ֣/הו</big></span>**
+[^1]: and he commanded him  | **<big>[[H9033|הוּ]]</big><big>[[H6680|יְצַוֵּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> y.tza.ve.<small><sup>[[HVpw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: and he commanded him  | **<big>[[H9033|הוּ]]</big><big>[[H6680|יְצַוֵּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> y.tza.ve.<small><sup>[[HVpw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וַיְצַוֶּ֣/הו</big></span>**
 

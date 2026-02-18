@@ -19,7 +19,7 @@ His radiance was like the sunlight; rays flashed from His hand, where His power 
 | strength his  [^2]|**<big>&#8207;[[H5797\|עֻזּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | 'u.Z<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.3|<< Habakkuk 3:3]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.5|Habakkuk 3:5 >>]]</td></tr></table>
 
-[^1]: ==K==: strength his  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H5797|עֻזֹּֽ]]</big> ** | 'u.Zo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: strength his  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H5797|עֻזֹּֽ]]</big> ** | 'u.Zo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>עֻזֹּֽה\׃</big></span>**
+[^1]: strength his  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H5797|עֻזֹּֽ]]</big> ** | 'u.Zo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: strength his  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H5797|עֻזֹּֽ]]</big> ** | 'u.Zo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>עֻזֹּֽה\׃</big></span>**
 

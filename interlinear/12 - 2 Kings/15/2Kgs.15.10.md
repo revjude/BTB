@@ -21,5 +21,5 @@ Then Shallum son of Jabesh conspired against Zechariah, struck him down and kill
 | in place of him  |**<big>&#8207;[[H8478H\|תַּחְתָּֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tach.Ta<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.9|<< 2 Kings 15:9]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.11|2 Kings 15:11 >>]]</td></tr></table>
 
-[^1]: ==H== spelled: **<span class="ashebrew"><big>קָֽבָלְ</big></span>**
+[^1]: H spelled: **<span class="ashebrew"><big>קָֽבָלְ</big></span>**
 

@@ -17,8 +17,8 @@ But as for me, my feet had almost stumbled; my steps had nearly slipped.
 | steps my  |**<big>&#8207;[[H0838A\|אֲשֻׁרָֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.shu.Ra<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.1|<< Psalms 73:1]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.3|Psalms 73:3 >>]]</td></tr></table>
 
-[^1]: ==K==: [was] bent down  | **<big>[[H5186|נָטוּי]]</big> ** | na.Ta.yu<small><sup>[[HVqsmsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>נָטָ֣וֻי</big></span>**
-[^3]: ==K==: it had been poured out  | **<big>[[H8210J|שֻׁפְּכָה]]</big> ** | shu.pe.Khu<small><sup>[[HVPp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>שֻׁפְּכֻ֥ה</big></span>**
+[^1]: [was] bent down  | **<big>[[H5186|נָטוּי]]</big> ** | na.Ta.yu<small><sup>[[HVqsmsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>נָטָ֣וֻי</big></span>**
+[^3]: it had been poured out  | **<big>[[H8210J|שֻׁפְּכָה]]</big> ** | shu.pe.Khu<small><sup>[[HVPp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>שֻׁפְּכֻ֥ה</big></span>**
 

@@ -30,6 +30,6 @@ Then David fled from Naioth in Ramah. He came to Jonathan and asked, “What hav
 | life my  |**<big>&#8207;[[H5315H\|נַפְשִֽׁ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.19.24|<< 1 Samuel 19:24]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.2|1 Samuel 20:2 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>מִנָּו֖וֹת</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>מִנֹּוִות</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>מִנָּו֖וֹת</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>מִנֹּוִות</big></span>**
 

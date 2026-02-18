@@ -27,5 +27,5 @@ Sometimes the cloud remained only from evening until morning, and when it lifted
 | and they set out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5265\|נָסָֽעוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Sa.'u<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.9.20|<< Numbers 9:20]]</td><td align="center" style="border:none;">[[Num.9|Numbers 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.9.22|Numbers 9:22 >>]]</td></tr></table>
 
-[^1]: ==BH== spelled: **<span class="ashebrew"><big>אֲשֶׁ֨ר</big></span>**
+[^1]: BH spelled: **<span class="ashebrew"><big>אֲשֶׁ֨ר</big></span>**
 

@@ -19,9 +19,9 @@ So she went and did according to the word of Elijah, and there was food every da
 | days  |**<big>&#8207;[[H3117G\|יָמִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.17.14|<< 1 Kings 17:14]]</td><td align="center" style="border:none;">[[1Kgs.17|1 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.17.16|1 Kings 17:16 >>]]</td></tr></table>
 
-[^1]: ==K==: he  | **<big>[[H9014|־]]</big><big>[[H1931|הוּא]]</big> ** | hu'-<small><sup>[[HPp3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>הִֽוא\־</big></span>**
-[^3]: ==K==: and she  | **<big>[[H1931|הִיא]]</big><big>[[H9002|וָ]]</big> ** | va.<small><sup>[[HC]]</sup></small> hi'<small><sup>[[HPp3ms]]</sup></small> 
-[^4]: ==K==: and she  | **<big>[[H1931|הִיא]]</big><big>[[H9002|וָ]]</big> ** | va.<small><sup>[[HC]]</sup></small> hi'<small><sup>[[HPp3ms]]</sup></small> 
-[^5]: ==L== spelled: **<span class="ashebrew"><big>וָה֛יּא</big></span>**
+[^1]: he  | **<big>[[H9014|־]]</big><big>[[H1931|הוּא]]</big> ** | hu'-<small><sup>[[HPp3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>הִֽוא\־</big></span>**
+[^3]: and she  | **<big>[[H1931|הִיא]]</big><big>[[H9002|וָ]]</big> ** | va.<small><sup>[[HC]]</sup></small> hi'<small><sup>[[HPp3ms]]</sup></small> | K
+[^4]: and she  | **<big>[[H1931|הִיא]]</big><big>[[H9002|וָ]]</big> ** | va.<small><sup>[[HC]]</sup></small> hi'<small><sup>[[HPp3ms]]</sup></small> | K
+[^5]: L spelled: **<span class="ashebrew"><big>וָה֛יּא</big></span>**
 

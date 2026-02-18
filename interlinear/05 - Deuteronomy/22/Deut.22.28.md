@@ -22,6 +22,6 @@ If a man encounters a virgin who is not pledged in marriage, and he seizes her a
 | and they will be found  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H4672\|נִמְצָֽאוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nim.Tza.'u<small><sup>[[HVNq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.27|<< Deuteronomy 22:27]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.29|Deuteronomy 22:29 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>נַעֲרָ֤</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>נַעַר</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>נַעֲרָ֤</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>נַעַר</big></span>**
 

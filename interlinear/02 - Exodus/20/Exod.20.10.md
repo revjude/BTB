@@ -28,16 +28,16 @@ but the seventh day is a Sabbath to the LORD your God, on which you must not do 
 | [is] in gates your  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8179G\|שְׁעָרֶֽ֔י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^12] | bi<small><sup>[[HR]]</sup></small> sh.'a.Rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.9|<< Exodus 20:9]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20.11|Exodus 20:11 >>]]</td></tr></table>
 
-[^1]: ==P== spelled: **<span class="ashebrew"><big>הַשְּׁבִיעִ֜י</big></span>**
-[^2]: ==P== spelled: **<span class="ashebrew"><big>שַׁבָּ֣ת\׀</big></span>**
-[^3]: ==P== spelled: **<span class="ashebrew"><big>אֱלֹהֶ֗יךָ</big></span>**
-[^4]: ==P== spelled: **<span class="ashebrew"><big>תַעֲשֶׂ֣ה</big></span>**
-[^5]: ==P== spelled: **<span class="ashebrew"><big>מְלָאכָ֡ה</big></span>**
-[^6]: ==P== spelled: **<span class="ashebrew"><big>וּ֠בִתֶּ/ךָ</big></span>**
-[^7]: ==P== spelled: **<span class="ashebrew"><big>עַבְדְּךָ֨</big></span>**
-[^8]: ==P== spelled: **<span class="ashebrew"><big>וַאֲמָֽתְ/ךָ֜</big></span>**
-[^9]: ==P== spelled: **<span class="ashebrew"><big>וּבְהֶמְתֶּ֗/ךָ</big></span>**
-[^10]: ==P== spelled: **<span class="ashebrew"><big>וְגֵרְ/ךָ֙</big></span>**
-[^11]: ==P== spelled: **<span class="ashebrew"><big>אֲשֶׁ֣ר</big></span>**
-[^12]: ==P== spelled: **<span class="ashebrew"><big>בִּשְׁעָרֶ֔י/ךָ\׃</big></span>**
+[^1]: P spelled: **<span class="ashebrew"><big>הַשְּׁבִיעִ֜י</big></span>**
+[^2]: P spelled: **<span class="ashebrew"><big>שַׁבָּ֣ת\׀</big></span>**
+[^3]: P spelled: **<span class="ashebrew"><big>אֱלֹהֶ֗יךָ</big></span>**
+[^4]: P spelled: **<span class="ashebrew"><big>תַעֲשֶׂ֣ה</big></span>**
+[^5]: P spelled: **<span class="ashebrew"><big>מְלָאכָ֡ה</big></span>**
+[^6]: P spelled: **<span class="ashebrew"><big>וּ֠בִתֶּ/ךָ</big></span>**
+[^7]: P spelled: **<span class="ashebrew"><big>עַבְדְּךָ֨</big></span>**
+[^8]: P spelled: **<span class="ashebrew"><big>וַאֲמָֽתְ/ךָ֜</big></span>**
+[^9]: P spelled: **<span class="ashebrew"><big>וּבְהֶמְתֶּ֗/ךָ</big></span>**
+[^10]: P spelled: **<span class="ashebrew"><big>וְגֵרְ/ךָ֙</big></span>**
+[^11]: P spelled: **<span class="ashebrew"><big>אֲשֶׁ֣ר</big></span>**
+[^12]: P spelled: **<span class="ashebrew"><big>בִּשְׁעָרֶ֔י/ךָ\׃</big></span>**
 

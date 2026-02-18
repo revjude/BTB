@@ -26,6 +26,6 @@ then you will delight yourself in the LORD, and I will make you ride on the heig
 | it has spoken  |**<big>&#8207;[[H1696G\|דִּבֵּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| di.Ber<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.58.13|<< Isaiah 58:13]]</td><td align="center" style="border:none;">[[Isa.58|Isaiah 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.1|Isaiah 59:1 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>בָּ֣מֳותֵי</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>בָּמוֹתֵי</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>בָּ֣מֳותֵי</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>בָּמוֹתֵי</big></span>**
 

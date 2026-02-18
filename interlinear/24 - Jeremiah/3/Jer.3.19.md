@@ -30,8 +30,8 @@ Then I said, ‘How I long to make you My sons and give you a desirable land, th
 | you will turn away  [^3]|**<big>&#8207;[[H7725I\|תָשֽׁוּבִי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^4] | ta.shu.vu<small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.18|<< Jeremiah 3:18]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.20|Jeremiah 3:20 >>]]</td></tr></table>
 
-[^1]: ==K==: you will call  | **<big>[[H7121H|תִּקְרְאוּ]]</big> ** | tik.re.'u-<small><sup>[[HVqi2mp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>תִּקְרְאִו\־</big></span>**
-[^3]: ==K==: you will turn away  | **<big>[[H9016|׃]]</big><big>[[H7725I|תָשׁוּבוּ]]</big> ** | ta.shu.vu<small><sup>[[HVqi2mp]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>תָשֽׁוּבִו\׃</big></span>**
+[^1]: you will call  | **<big>[[H7121H|תִּקְרְאוּ]]</big> ** | tik.re.'u-<small><sup>[[HVqi2mp]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>תִּקְרְאִו\־</big></span>**
+[^3]: you will turn away  | **<big>[[H9016|׃]]</big><big>[[H7725I|תָשׁוּבוּ]]</big> ** | ta.shu.vu<small><sup>[[HVqi2mp]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>תָשֽׁוּבִו\׃</big></span>**
 

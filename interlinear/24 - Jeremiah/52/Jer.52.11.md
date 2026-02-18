@@ -26,6 +26,6 @@ Then he put out Zedekiah’s eyes, bound him with bronze shackles, and took him 
 | death his  |**<big>&#8207;[[H4194\|מוֹתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mo.T<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.10|<< Jeremiah 52:10]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.12|Jeremiah 52:12 >>]]</td></tr></table>
 
-[^1]: ==K==: in [the] house of  | **<big>[[H1004B|בֵית]]</big><big>[[H9003|בְ]]</big> ** | ve.<small><sup>[[HR]]</sup></small> veit-<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>בבֵֽית\־</big></span>**
+[^1]: in [the] house of  | **<big>[[H1004B|בֵית]]</big><big>[[H9003|בְ]]</big> ** | ve.<small><sup>[[HR]]</sup></small> veit-<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>בבֵֽית\־</big></span>**
 

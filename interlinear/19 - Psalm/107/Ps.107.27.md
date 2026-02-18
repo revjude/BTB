@@ -16,5 +16,5 @@ They reeled and staggered like drunkards, and all their skill was useless.
 | it was confused  |**<big>&#8207;[[H1104\|תִּתְבַּלָּֽע]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^1] | tit.ba.La'<small><sup>[[HVti3fs]]</sup></small> | <abbr title="Leningrad Biblia (allepo benchayim)">LB(ah)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.26|<< Psalms 107:26]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.28|Psalms 107:28 >>]]</td></tr></table>
 
-[^1]: ==AH== spelled: **<span class="ashebrew"><big>תִּתְבַּלָּֽע\׃\ \׆</big></span>**
+[^1]: AH spelled: **<span class="ashebrew"><big>תִּתְבַּלָּֽע\׃\ \׆</big></span>**
 

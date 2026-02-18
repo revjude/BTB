@@ -14,7 +14,7 @@ of Iddo, Zechariah; of Ginnethon, Meshullam;
 | Meshullam  |**<big>&#8207;[[H4918Y\|מְשֻׁלָּֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.shu.Lam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.15|<< Nehemiah 12:15]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.17|Nehemiah 12:17 >>]]</td></tr></table>
 
-[^1]: ==K==: of Adaia  | **<big>[[H5718O|עֲדָיָא]]</big><big>[[H9005|לַ]]</big> ** | la.<small><sup>[[HR]]</sup></small> 'a.da.ya'<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==K==: of Adaia  | **<big>[[H5718O|עֲדָיָא]]</big><big>[[H9005|לַ]]</big> ** | la.<small><sup>[[HR]]</sup></small> 'a.da.ya'<small><sup>[[HNpm]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>לְעִדֹּ֥יא</big></span>**
+[^1]: of Adaia  | **<big>[[H5718O|עֲדָיָא]]</big><big>[[H9005|לַ]]</big> ** | la.<small><sup>[[HR]]</sup></small> 'a.da.ya'<small><sup>[[HNpm]]</sup></small> | K
+[^2]: of Adaia  | **<big>[[H5718O|עֲדָיָא]]</big><big>[[H9005|לַ]]</big> ** | la.<small><sup>[[HR]]</sup></small> 'a.da.ya'<small><sup>[[HNpm]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>לְעִדֹּ֥יא</big></span>**
 

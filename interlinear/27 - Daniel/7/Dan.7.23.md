@@ -28,6 +28,6 @@ This is what he said: ‘The fourth beast is a fourth kingdom that will appear o
 | and it will shatter it  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1855\|תַדְּקִנַּֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> tad.de.ki.Na<small><sup>[[AVhu3fs]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.22|<< Daniel 7:22]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.24|Daniel 7:24 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>רְבִיעָיאָ֙</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>רְבִיעָיָא</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>רְבִיעָיאָ֙</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>רְבִיעָיָא</big></span>**
 

@@ -33,7 +33,7 @@ the Jews bound themselves to establish the custom that they and their descendant
 | and year  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8141\|שָׁנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.26|<< Esther 9:26]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.28|Esther 9:28 >>]]</td></tr></table>
 
-[^1]: ==K==: and he accepted  | **<big>[[H6901|קִבֵּל]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ki.bel<small><sup>[[HVpq3ms]]</sup></small> 
-[^2]: ==K==: and he accepted  | **<big>[[H6901|קִבֵּל]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ki.bel<small><sup>[[HVpq3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְקִבְּלֻ֣</big></span>**
+[^1]: and he accepted  | **<big>[[H6901|קִבֵּל]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ki.bel<small><sup>[[HVpq3ms]]</sup></small> | K
+[^2]: and he accepted  | **<big>[[H6901|קִבֵּל]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ki.bel<small><sup>[[HVpq3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְקִבְּלֻ֣</big></span>**
 

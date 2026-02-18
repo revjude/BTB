@@ -39,6 +39,6 @@ I hereby decree that in every part of my kingdom, men are to tremble in fear bef
 | end the  |**<big>&#8207;[[H5491\|סוֹפָֽ]]&#8207;&#8207;[[H9010\|א]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| so.Fa<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.25|<< Daniel 6:25]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.27|Daniel 6:27 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>זָאְעִין֙</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>זָאֲעִין</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>זָאְעִין֙</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>זָאֲעִין</big></span>**
 

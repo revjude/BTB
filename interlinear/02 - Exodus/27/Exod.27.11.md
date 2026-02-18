@@ -26,8 +26,8 @@ Likewise there are to be curtains on the north side, a hundred cubits long, with
 | [will be] silver  |**<big>&#8207;[[H3701G\|כָּֽסֶף]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ka.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27.10|<< Exodus 27:10]]</td><td align="center" style="border:none;">[[Exod.27|Exodus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.27.12|Exodus 27:12 >>]]</td></tr></table>
 
-[^1]: ==K==: and pillar its  | **<big>[[H9023|וּ]]</big><big>[[H5982G|עַמְדּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'am.d<small><sup>[[HNcmsc]]</sup></small> u<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: and pillar its  | **<big>[[H9023|וּ]]</big><big>[[H5982G|עַמְדּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'am.d<small><sup>[[HNcmsc]]</sup></small> u<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: and pillar its  | **<big>[[H9023|וּ]]</big><big>[[H5982G|עַמְדּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'am.d<small><sup>[[HNcmsc]]</sup></small> u<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וְעַמֻּדָ֣/ו</big></span>**
+[^1]: and pillar its  | **<big>[[H9023|וּ]]</big><big>[[H5982G|עַמְדּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'am.d<small><sup>[[HNcmsc]]</sup></small> u<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: and pillar its  | **<big>[[H9023|וּ]]</big><big>[[H5982G|עַמְדּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'am.d<small><sup>[[HNcmsc]]</sup></small> u<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: and pillar its  | **<big>[[H9023|וּ]]</big><big>[[H5982G|עַמְדּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'am.d<small><sup>[[HNcmsc]]</sup></small> u<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וְעַמֻּדָ֣/ו</big></span>**
 

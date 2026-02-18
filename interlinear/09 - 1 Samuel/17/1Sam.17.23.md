@@ -28,7 +28,7 @@ And as he was speaking with them, suddenly the champion named Goliath, the Phili
 | David  |**<big>&#8207;[[H1732\|דָּוִֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.22|<< 1 Samuel 17:22]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.24|1 Samuel 17:24 >>]]</td></tr></table>
 
-[^1]: ==K==: from [the] army of  | **<big>[[H4630|מַּעֲרוֹת]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> ma.'a.rot<small><sup>[[HNcfpc]]</sup></small> 
-[^2]: ==K==: from [the] army of  | **<big>[[H4630|מַּעֲרוֹת]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> ma.'a.rot<small><sup>[[HNcfpc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>מִמַּעֲרְוֹ֣ת</big></span>**
+[^1]: from [the] army of  | **<big>[[H4630|מַּעֲרוֹת]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> ma.'a.rot<small><sup>[[HNcfpc]]</sup></small> | K
+[^2]: from [the] army of  | **<big>[[H4630|מַּעֲרוֹת]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> ma.'a.rot<small><sup>[[HNcfpc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>מִמַּעֲרְוֹ֣ת</big></span>**
 

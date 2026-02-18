@@ -26,6 +26,6 @@ When Joab saw the battle lines before him and behind him, he selected some of th
 | Aram  |**<big>&#8207;[[H0758I\|אֲרָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Ram<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.10.8|<< 2 Samuel 10:8]]</td><td align="center" style="border:none;">[[2Sam.10|2 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.10.10|2 Samuel 10:10 >>]]</td></tr></table>
 
-[^1]: ==K==: in Israel  | **<big>[[H3478|יִשְׂרָאֵל]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> yis.ra.'el<small><sup>[[HNpl]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>ביִשְׂרָאֵ֔ל</big></span>**
+[^1]: in Israel  | **<big>[[H3478|יִשְׂרָאֵל]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> yis.ra.'el<small><sup>[[HNpl]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>ביִשְׂרָאֵ֔ל</big></span>**
 

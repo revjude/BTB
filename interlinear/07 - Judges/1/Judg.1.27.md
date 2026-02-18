@@ -42,6 +42,6 @@ At that time Manasseh failed to drive out the inhabitants of Beth-shean, Taanach
 | \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2063\|זֹּֽאת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1.26|<< Judges 1:26]]</td><td align="center" style="border:none;">[[Judg.1|Judges 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1.28|Judges 1:28 >>]]</td></tr></table>
 
-[^1]: ==K==: [the] inhabitant[s] of  | **<big>[[H3427|יֹשֵׁב]]</big> ** | yo.shev<small><sup>[[HVqrmsc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יֹשְׁבֵ֨</big></span>**
+[^1]: [the] inhabitant[s] of  | **<big>[[H3427|יֹשֵׁב]]</big> ** | yo.shev<small><sup>[[HVqrmsc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יֹשְׁבֵ֨</big></span>**
 

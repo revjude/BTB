@@ -28,7 +28,7 @@ Furthermore, all the leaders of the priests and the people multiplied their unfa
 | in Jerusalem  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3389\|ירוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36.13|<< 2 Chronicles 36:13]]</td><td align="center" style="border:none;">[[2Chr.36|2 Chronicles 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36.15|2 Chronicles 36:15 >>]]</td></tr></table>
 
-[^1]: ==K==: to act unfaithfully  | **<big>[[H9014|־]]</big><big>[[H4603|מְעוֹל]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> m.'ol-<small><sup>[[HVqcc]]</sup></small> 
-[^2]: ==K==: to act unfaithfully  | **<big>[[H9014|־]]</big><big>[[H4603|מְעוֹל]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> m.'ol-<small><sup>[[HVqcc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>לִמְעָול\־</big></span>**
+[^1]: to act unfaithfully  | **<big>[[H9014|־]]</big><big>[[H4603|מְעוֹל]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> m.'ol-<small><sup>[[HVqcc]]</sup></small> | K
+[^2]: to act unfaithfully  | **<big>[[H9014|־]]</big><big>[[H4603|מְעוֹל]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> m.'ol-<small><sup>[[HVqcc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>לִמְעָול\־</big></span>**
 

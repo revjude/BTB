@@ -25,7 +25,7 @@ Then they brought the tabernacle to Moses: the tent with all its furnishings, it
 | and bases its  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0134\|אֲדָנָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.da.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.32|<< Exodus 39:32]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.34|Exodus 39:34 >>]]</td></tr></table>
 
-[^1]: ==K==: bar its  | **<big>[[H9023|וֹ]]</big><big>[[H1280|בְּרִיח]]</big> ** | be.ri.cho<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: bar its  | **<big>[[H9023|וֹ]]</big><big>[[H1280|בְּרִיח]]</big> ** | be.ri.cho<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בְּרִיחָ֖ו</big></span>**
+[^1]: bar its  | **<big>[[H9023|וֹ]]</big><big>[[H1280|בְּרִיח]]</big> ** | be.ri.cho<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: bar its  | **<big>[[H9023|וֹ]]</big><big>[[H1280|בְּרִיח]]</big> ** | be.ri.cho<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בְּרִיחָ֖ו</big></span>**
 

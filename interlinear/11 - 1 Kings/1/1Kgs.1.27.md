@@ -28,7 +28,7 @@ Has my lord the king let this happen without informing your servant who should s
 | after him  |**<big>&#8207;[[H0310A\|אַחֲרָֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.cha.Ra<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.26|<< 1 Kings 1:26]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.28|1 Kings 1:28 >>]]</td></tr></table>
 
-[^1]: ==K==: servants your  | **<big>[[H9021|ךָ]]</big><big>[[H5650|עַבְדֶּי]]</big> ** | av.dei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^2]: ==K==: servants your  | **<big>[[H9021|ךָ]]</big><big>[[H5650|עַבְדֶּי]]</big> ** | av.dei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>עַבְדְּיךָ֔</big></span>**
+[^1]: servants your  | **<big>[[H9021|ךָ]]</big><big>[[H5650|עַבְדֶּי]]</big> ** | av.dei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: servants your  | **<big>[[H9021|ךָ]]</big><big>[[H5650|עַבְדֶּי]]</big> ** | av.dei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>עַבְדְּיךָ֔</big></span>**
 

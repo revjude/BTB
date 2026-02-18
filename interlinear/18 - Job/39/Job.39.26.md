@@ -16,7 +16,7 @@ Does the hawk take flight by your understanding and spread his wings toward the 
 | to [the] south  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H8486\|תֵימָֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> tei.Man<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.25|<< Job 39:25]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.27|Job 39:27 >>]]</td></tr></table>
 
-[^1]: ==K==: wing its  | **<big>[[H9023|וֹ]]</big><big>[[H3671|כְּנָפ]]</big> ** | ke.na.fo<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: wing its  | **<big>[[H9023|וֹ]]</big><big>[[H3671|כְּנָפ]]</big> ** | ke.na.fo<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>כְּנָפָ֣ו</big></span>**
+[^1]: wing its  | **<big>[[H9023|וֹ]]</big><big>[[H3671|כְּנָפ]]</big> ** | ke.na.fo<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: wing its  | **<big>[[H9023|וֹ]]</big><big>[[H3671|כְּנָפ]]</big> ** | ke.na.fo<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>כְּנָפָ֣ו</big></span>**
 

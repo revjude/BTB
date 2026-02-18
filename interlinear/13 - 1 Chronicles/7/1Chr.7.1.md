@@ -17,6 +17,6 @@ The sons of Issachar: Tola, Puah, Jashub, and Shimron—four in all.
 | four  |**<big>&#8207;[[H0702\|אַרְבָּעָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'ar.ba.'Ah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.81|<< 1 Chronicles 6:81]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.2|1 Chronicles 7:2 >>]]</td></tr></table>
 
-[^1]: ==K==: Jashib  | **<big>[[H3437H|יָשִׁיב]]</big> ** | ya.shiv<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יָשׁ֥יּב</big></span>**
+[^1]: Jashib  | **<big>[[H3437H|יָשִׁיב]]</big> ** | ya.shiv<small><sup>[[HNpm]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יָשׁ֥יּב</big></span>**
 

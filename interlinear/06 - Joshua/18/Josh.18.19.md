@@ -32,9 +32,9 @@ The border continued to the northern slope of Beth-hoglah and came out at the no
 | [the] south  |**<big>&#8207;[[H5045H\|נֶֽגֶב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ne.gev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.18|<< Joshua 18:18]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.20|Joshua 18:20 >>]]</td></tr></table>
 
-[^1]: ==K==: and it is  | **<big>[[H1961|הָיָה]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> 
-[^2]: ==K==: and it is  | **<big>[[H1961|הָיָה]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְהָיֻ֣ה\׀</big></span>**
-[^4]: ==K==: extremities of its  | **<big>[[H9023|ו]]</big><big>[[H8444|תֹּצְאוֹתָי]]</big> ** | to.tze.'o.ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^5]: ==L== spelled: **<span class="ashebrew"><big>תֹּצְא֣וֹתיו</big></span>**
+[^1]: and it is  | **<big>[[H1961|הָיָה]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> | K
+[^2]: and it is  | **<big>[[H1961|הָיָה]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְהָיֻ֣ה\׀</big></span>**
+[^4]: extremities of its  | **<big>[[H9023|ו]]</big><big>[[H8444|תֹּצְאוֹתָי]]</big> ** | to.tze.'o.ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^5]: L spelled: **<span class="ashebrew"><big>תֹּצְא֣וֹתיו</big></span>**
 

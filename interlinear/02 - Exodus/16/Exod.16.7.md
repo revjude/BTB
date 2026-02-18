@@ -25,6 +25,6 @@ and in the morning you will see the LORD’s glory, because He has heard your gr
 | on us  |**<big>&#8207;[[H5921A\|עָלֵֽי]]&#8207;&#8207;[[H9035\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Lei.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.6|<< Exodus 16:6]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.8|Exodus 16:8 >>]]</td></tr></table>
 
-[^1]: ==K==: you will grumble  | **<big>[[H3885B|תִלּוֹנוּ]]</big> ** | ta.lo.nu<small><sup>[[HVqi2mp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>תַלִּ֖ונוּ</big></span>**
+[^1]: you will grumble  | **<big>[[H3885B|תִלּוֹנוּ]]</big> ** | ta.lo.nu<small><sup>[[HVqi2mp]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>תַלִּ֖ונוּ</big></span>**
 

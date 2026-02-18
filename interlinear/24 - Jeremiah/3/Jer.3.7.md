@@ -24,6 +24,6 @@ I thought that after she had done all these things, she would return to Me. But 
 | Judah  |**<big>&#8207;[[H3063G\|יְהוּדָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.6|<< Jeremiah 3:6]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.8|Jeremiah 3:8 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וַתֵּ֛רֶאה</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וַתֵּרֶאה</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וַתֵּ֛רֶאה</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וַתֵּרֶאה</big></span>**
 

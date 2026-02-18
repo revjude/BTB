@@ -12,20 +12,20 @@ Neither shall we commit sexual immorality even as some of them committed sexual 
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| Neither |**<big>[[G3366\|μηδὲ]]</big>**  |mēde <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| shall we commit sexual immorality |**<big>[[G4203\|πορνεύωμεν]]</big>**  |porneuōmen <small><sup>[[V-PAS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| even as |**<big>[[G2531\|καθώς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| some |**<big>[[G5100\|τινες]]</big>**  |tines <small><sup>[[X-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of them |**<big>[[G0846\|αὐτῶν]]</big>**  |autōn <small><sup>[[P-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| committed sexual immorality, |**<big>[[G4203\|ἐπόρνευσαν,]]</big>**  |eporneusan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| fell |**<big>[[G4098\|ἔπεσαν]]</big>**  [^1] |epesan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |**<big>[[G1722\|ἕν]]</big>**  |hen <small><sup>[[PREP]]</sup></small> | <abbr title="TR">k</abbr> | |
-| one |**<big>[[G1520\|μιᾷ]]</big>**  |mia <small><sup>[[A-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| day |**<big>[[G2250\|ἡμέρᾳ]]</big>**  |hēmera <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| twenty |**<big>[[G1501\|εἴκοσι]]</big>**  |eikosi <small><sup>[[A-NUI]]</sup></small> | <abbr title="NA28+NA27+Tyn»1+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| three |**<big>[[G5140\|τρεῖς]]</big>**  |treis <small><sup>[[A-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| thousand. |**<big>[[G5505\|χιλιάδες.]]</big>**  |chiliades <small><sup>[[N-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Neither |**<big>[[G3366\|μηδὲ]]</big>**  |mēde <small><sup>[[CONJ-N]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| shall we commit sexual immorality |**<big>[[G4203\|πορνεύωμεν]]</big>**  |porneuōmen <small><sup>[[V-PAS-1P]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| even as |**<big>[[G2531\|καθώς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| some |**<big>[[G5100\|τινες]]</big>**  |tines <small><sup>[[X-NPM]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of them |**<big>[[G0846\|αὐτῶν]]</big>**  |autōn <small><sup>[[P-GPM]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| committed sexual immorality, |**<big>[[G4203\|ἐπόρνευσαν,]]</big>**  |eporneusan <small><sup>[[V-AAI-3P]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| fell |**<big>[[G4098\|ἔπεσαν]]</big>**  [^1] |epesan <small><sup>[[V-2AAI-3P]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |**<big>[[G1722\|ἕν]]</big>**  |hen <small><sup>[[PREP]]</sup></small>  | <abbr title="TR">k</abbr> | |
+| one |**<big>[[G1520\|μιᾷ]]</big>**  |mia <small><sup>[[A-DSF]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| day |**<big>[[G2250\|ἡμέρᾳ]]</big>**  |hēmera <small><sup>[[N-DSF]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| twenty |**<big>[[G1501\|εἴκοσι]]</big>**  |eikosi <small><sup>[[A-NUI]]</sup></small>  | <abbr title="NA28+NA27+Tyn»1+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| three |**<big>[[G5140\|τρεῖς]]</big>**  |treis <small><sup>[[A-NPF]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| thousand. |**<big>[[G5505\|χιλιάδες.]]</big>**  |chiliades <small><sup>[[N-NPF]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.7|<< 1 Corinthians 10:7]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.9|1 Corinthians 10:9 >>]]</td></tr></table>
 
-[^1]: ==TR== spelled: **<big><span class='asgreek'>ἔπεσον</span></big>**
+[^1]: TR spelled: **<big><span class='asgreek'>ἔπεσον</span></big>**

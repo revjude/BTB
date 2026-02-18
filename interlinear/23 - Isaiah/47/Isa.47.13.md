@@ -25,6 +25,6 @@ You are wearied by your many counselors; let them come forward now and save you�
 | on you  |**<big>&#8207;[[H5921A\|עָלָֽיִ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.La.yi<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.47.12|<< Isaiah 47:12]]</td><td align="center" style="border:none;">[[Isa.47|Isaiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.14|Isaiah 47:14 >>]]</td></tr></table>
 
-[^1]: ==K==: they have divided  | **<big>[[H1895|הָבְרוּ]]</big> ** | ha.ve.ru<small><sup>[[HVqp3cp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>הֹבְרֵ֣ו</big></span>**
+[^1]: they have divided  | **<big>[[H1895|הָבְרוּ]]</big> ** | ha.ve.ru<small><sup>[[HVqp3cp]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>הֹבְרֵ֣ו</big></span>**
 

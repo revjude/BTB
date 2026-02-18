@@ -25,7 +25,7 @@ Israel’s watchmen are blind, they are all oblivious; they are all mute dogs, t
 | \<of> to slumber  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H5123\|נֽוּם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Num<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.56.9|<< Isaiah 56:9]]</td><td align="center" style="border:none;">[[Isa.56|Isaiah 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.56.11|Isaiah 56:11 >>]]</td></tr></table>
 
-[^1]: ==K==: they have watched  | **<big>[[H6822|צָפוּ]]</big> ** | tza.fu<small><sup>[[HVqp3cp]]</sup></small> 
-[^2]: ==K==: they have watched  | **<big>[[H6822|צָפוּ]]</big> ** | tza.fu<small><sup>[[HVqp3cp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>צֹפָ֞ו</big></span>**
+[^1]: they have watched  | **<big>[[H6822|צָפוּ]]</big> ** | tza.fu<small><sup>[[HVqp3cp]]</sup></small> | K
+[^2]: they have watched  | **<big>[[H6822|צָפוּ]]</big> ** | tza.fu<small><sup>[[HVqp3cp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>צֹפָ֞ו</big></span>**
 

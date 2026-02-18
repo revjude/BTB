@@ -28,7 +28,7 @@ Additionally, David and the commanders of the army set apart some of the sons of
 | for service their  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5656H\|עֲבֹדָתָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.vo.da.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.24.31|<< 1 Chronicles 24:31]]</td><td align="center" style="border:none;">[[1Chr.25|1 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.25.2|1 Chronicles 25:2 >>]]</td></tr></table>
 
-[^1]: ==K==: the prophets  | **<big>[[H5030|נְּבִיאִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ne.bi.'im<small><sup>[[HNcmpa]]</sup></small> 
-[^2]: ==K==: the prophets  | **<big>[[H5030|נְּבִיאִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ne.bi.'im<small><sup>[[HNcmpa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הַֽנִּבְּיאִ֛ים</big></span>**
+[^1]: the prophets  | **<big>[[H5030|נְּבִיאִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ne.bi.'im<small><sup>[[HNcmpa]]</sup></small> | K
+[^2]: the prophets  | **<big>[[H5030|נְּבִיאִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ne.bi.'im<small><sup>[[HNcmpa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הַֽנִּבְּיאִ֛ים</big></span>**
 

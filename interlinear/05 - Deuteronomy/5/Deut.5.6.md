@@ -19,6 +19,6 @@ I [am] the LORD thy God, which brought thee out of the land of Egypt, from the h
 | slaves  |**<big>&#8207;[[H5650\|עֲבָדִֽ֑ים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^2] | 'a.va.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.5|<< Deuteronomy 5:5]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.7|Deuteronomy 5:7 >>]]</td></tr></table>
 
-[^1]: ==P== spelled: **<span class="ashebrew"><big>מִבֵּ֣ית</big></span>**
-[^2]: ==P== spelled: **<span class="ashebrew"><big>עֲבָדִ֑ים\׃</big></span>**
+[^1]: P spelled: **<span class="ashebrew"><big>מִבֵּ֣ית</big></span>**
+[^2]: P spelled: **<span class="ashebrew"><big>עֲבָדִ֑ים\׃</big></span>**
 

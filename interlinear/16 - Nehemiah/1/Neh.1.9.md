@@ -32,6 +32,6 @@ but if you return to Me and keep and practice My commandments, then even if your
 | there  |**<big>&#8207;[[H8033G\|שָֽׁם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.1.8|<< Nehemiah 1:8]]</td><td align="center" style="border:none;">[[Neh.1|Nehemiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.1.10|Nehemiah 1:10 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וַהֲבִֽואֹתִי/ם֙</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וַהֲבוֹאֹתִי/ם</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וַהֲבִֽואֹתִי/ם֙</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וַהֲבוֹאֹתִי/ם</big></span>**
 

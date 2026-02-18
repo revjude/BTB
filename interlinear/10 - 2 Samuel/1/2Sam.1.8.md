@@ -18,7 +18,7 @@ And he said unto me, Who [art] thou? And I answered him, I [am] an Amalekite.
 | I  |**<big>&#8207;[[H0595\|אָנֹֽכִי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.No.khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.1.7|<< 2 Samuel 1:7]]</td><td align="center" style="border:none;">[[2Sam.1|2 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.1.9|2 Samuel 1:9 >>]]</td></tr></table>
 
-[^1]: ==K==: and he said  | **<big>[[H0559|יֹּאמֶר]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.mer<small><sup>[[HVqw3ms]]</sup></small> 
-[^2]: ==K==: and he said  | **<big>[[H0559|יֹּאמֶר]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.mer<small><sup>[[HVqw3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וָיאֹמַ֣ר</big></span>**
+[^1]: and he said  | **<big>[[H0559|יֹּאמֶר]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.mer<small><sup>[[HVqw3ms]]</sup></small> | K
+[^2]: and he said  | **<big>[[H0559|יֹּאמֶר]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.mer<small><sup>[[HVqw3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וָיאֹמַ֣ר</big></span>**
 

@@ -17,6 +17,6 @@ Such is the generation of those who seek Him, who seek Your face, O God of Jacob
 | Selah  |**<big>&#8207;[[H5542\|סֶֽלָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Se.lah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.24.5|<< Psalms 24:5]]</td><td align="center" style="border:none;">[[Ps.24|Psalms 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.24.7|Psalms 24:7 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>דֹּרְשָׁ֑ו</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>דֹּרְשׁוֹ</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>דֹּרְשָׁ֑ו</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>דֹּרְשׁוֹ</big></span>**
 

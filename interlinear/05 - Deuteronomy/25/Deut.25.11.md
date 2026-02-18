@@ -28,5 +28,5 @@ If two men are fighting, and the wife of one comes to rescue her husband from th
 | on genitals his  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H4016\|מְבֻשָֽׁי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> m.vu.Sha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.25.10|<< Deuteronomy 25:10]]</td><td align="center" style="border:none;">[[Deut.25|Deuteronomy 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.25.12|Deuteronomy 25:12 >>]]</td></tr></table>
 
-[^1]: ==H== spelled: **<span class="ashebrew"><big>אִישָּׁ֖הּ</big></span>**
+[^1]: H spelled: **<span class="ashebrew"><big>אִישָּׁ֖הּ</big></span>**
 

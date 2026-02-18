@@ -20,7 +20,7 @@ Each Israelite took his position around the camp, and the entire Midianite army 
 | and they fled  [^2]|**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5127\|יָּנֽוּסוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | va<small><sup>[[Hc]]</sup></small> i.ya.ni.su<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.20|<< Judges 7:20]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.22|Judges 7:22 >>]]</td></tr></table>
 
-[^1]: ==K==: and they put [them] to flight  | **<big>[[H9016|׃]]</big><big>[[H5127|יָּנִיסוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.ni.su<small><sup>[[HVqw3mp]]</sup></small> 
-[^2]: ==K==: and they put [them] to flight  | **<big>[[H9016|׃]]</big><big>[[H5127|יָּנִיסוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.ni.su<small><sup>[[HVqw3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וַיָּנֽיּסוּ\׃</big></span>**
+[^1]: and they put [them] to flight  | **<big>[[H9016|׃]]</big><big>[[H5127|יָּנִיסוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.ni.su<small><sup>[[HVqw3mp]]</sup></small> | K
+[^2]: and they put [them] to flight  | **<big>[[H9016|׃]]</big><big>[[H5127|יָּנִיסוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.ni.su<small><sup>[[HVqw3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וַיָּנֽיּסוּ\׃</big></span>**
 

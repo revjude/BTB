@@ -22,6 +22,6 @@ A man of knowledge restrains his words, and a man of understanding maintains a c
 | understanding  |**<big>&#8207;[[H8394\|תְּבוּנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| te.vu.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.26|<< Proverbs 17:26]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.28|Proverbs 17:28 >>]]</td></tr></table>
 
-[^1]: ==K==: and [a person] cool  | **<big>[[H7119|קַר]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> kar-<small><sup>[[HAabsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>וְקַר\־</big></span>**
+[^1]: and [a person] cool  | **<big>[[H7119|קַר]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> kar-<small><sup>[[HAabsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>וְקַר\־</big></span>**
 

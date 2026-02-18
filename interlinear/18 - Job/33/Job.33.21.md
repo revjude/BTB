@@ -17,7 +17,7 @@ His flesh wastes away from sight, and his hidden bones protrude.
 | they were seen  |**<big>&#8207;[[H7200G\|רֻאּֽוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ru'.'U<small><sup>[[HVPp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.20|<< Job 33:20]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.22|Job 33:22 >>]]</td></tr></table>
 
-[^1]: ==K==: and [the] bareness  | **<big>[[H8205|שְׁפִי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> she.fi<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==K==: and [the] bareness  | **<big>[[H8205|שְׁפִי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> she.fi<small><sup>[[HNcbsc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְשֻׁפּ֥יּ</big></span>**
+[^1]: and [the] bareness  | **<big>[[H8205|שְׁפִי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> she.fi<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: and [the] bareness  | **<big>[[H8205|שְׁפִי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> she.fi<small><sup>[[HNcbsc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְשֻׁפּ֥יּ</big></span>**
 

@@ -31,6 +31,6 @@ And Elisha said unto her, What shall I do for thee? tell me, what hast thou in t
 | oil  |**<big>&#8207;[[H8081\|שָֽׁמֶן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Sha.men<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.1|<< 2 Kings 4:1]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.3|2 Kings 4:3 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>לָ֖כְי</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>לְכִי</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>לָ֖כְי</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>לְכִי</big></span>**
 

@@ -17,5 +17,5 @@ By me princes rule, and all nobles who govern justly.
 | righteousness  [^1]|**<big>&#8207;[[H6664G\|צֶֽדֶק]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Tze.dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad (BenChayim)">L(H)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.15|<< Proverbs 8:15]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.17|Proverbs 8:17 >>]]</td></tr></table>
 
-[^1]: ==H==: [the] earth  | **<big>[[H9016|׃]]</big><big>[[H0776G|אָֽרֶץ]]</big> ** | Tze.dek<small><sup>[[HNcfsa]]</sup></small> 
+[^1]: [the] earth  | **<big>[[H9016|׃]]</big><big>[[H0776G|אָֽרֶץ]]</big> ** | Tze.dek<small><sup>[[HNcfsa]]</sup></small> | H
 

@@ -29,5 +29,5 @@ And God said to him, “Though your name is Jacob, you will no longer be called 
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.9|<< Genesis 35:9]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.11|Genesis 35:11 >>]]</td></tr></table>
 
-[^1]: ==A== spelled: **<span class="ashebrew"><big>שִׁמְךָ֨</big></span>**
+[^1]: A spelled: **<span class="ashebrew"><big>שִׁמְךָ֨</big></span>**
 

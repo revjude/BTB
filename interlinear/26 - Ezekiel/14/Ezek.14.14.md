@@ -25,6 +25,6 @@ then even if these three men—Noah, Daniel, and Job—were in it, their righteo
 | Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.13|<< Ezekiel 14:13]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.15|Ezekiel 14:15 >>]]</td></tr></table>
 
-[^1]: ==K==: Daniel  | **<big>[[H1840G|דָּנִאֵל]]</big> ** | da.ni.'el<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>דָּנִאֵ֣ל</big></span>**
+[^1]: Daniel  | **<big>[[H1840G|דָּנִאֵל]]</big> ** | da.ni.'el<small><sup>[[HNpm]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>דָּנִאֵ֣ל</big></span>**
 

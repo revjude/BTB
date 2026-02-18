@@ -18,6 +18,6 @@ Have you not just called to Me, ‘My Father, You are my friend from youth.
 | you  |**<big>&#8207;[[H0859A\|אָֽתָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'A.tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.3|<< Jeremiah 3:3]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.5|Jeremiah 3:5 >>]]</td></tr></table>
 
-[^1]: ==K==: have I called  | **<big>[[H7121G|קָרָאתִי]]</big> ** | ka.ra.ti<small><sup>[[HVqp1cs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>קָרָ֥אתי</big></span>**
+[^1]: have I called  | **<big>[[H7121G|קָרָאתִי]]</big> ** | ka.ra.ti<small><sup>[[HVqp1cs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>קָרָ֥אתי</big></span>**
 

@@ -22,8 +22,8 @@ And he said, Wherefore wilt thou go to him to day? [it is] neither new moon, nor
 | peace  |**<big>&#8207;[[H7965I\|שָׁלֽוֹם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.22|<< 2 Kings 4:22]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.24|2 Kings 4:24 >>]]</td></tr></table>
 
-[^1]: ==K==: [are] you  | **<big>[[H0859B|אַתִּי]]</big> ** | 'a.ti<small><sup>[[HPp2fs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אַ֣תְּי</big></span>**
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הֹלֶ֤כֶתי</big></span>**
-[^4]: ==K== spelled: **<span class="ashebrew"><big>הֹלַכְתִּי</big></span>**
+[^1]: [are] you  | **<big>[[H0859B|אַתִּי]]</big> ** | 'a.ti<small><sup>[[HPp2fs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אַ֣תְּי</big></span>**
+[^3]: L spelled: **<span class="ashebrew"><big>הֹלֶ֤כֶתי</big></span>**
+[^4]: K spelled: **<span class="ashebrew"><big>הֹלַכְתִּי</big></span>**
 

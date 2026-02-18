@@ -19,8 +19,8 @@ I [am] the LORD thy God, which have brought thee out of the land of Egypt, out o
 | slaves  |**<big>&#8207;[[H5650\|עֲבָדִיֽ֑ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^4] | 'a.va.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad (biblia + alt.puncuation)">L(b+p)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.1|<< Exodus 20:1]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20.3|Exodus 20:3 >>]]</td></tr></table>
 
-[^1]: ==P== spelled: **<span class="ashebrew"><big>אָֽנֹכִי֙</big></span>**
-[^2]: ==P== spelled: **<span class="ashebrew"><big>אֱלֹהֶ֔יךָ</big></span>**
-[^3]: ==P== spelled: **<span class="ashebrew"><big>מִבֵּ֣ית</big></span>**
-[^4]: ==B== spelled: **<span class="ashebrew"><big>עֲבָדִ֑ים\׃</big></span>**
+[^1]: P spelled: **<span class="ashebrew"><big>אָֽנֹכִי֙</big></span>**
+[^2]: P spelled: **<span class="ashebrew"><big>אֱלֹהֶ֔יךָ</big></span>**
+[^3]: P spelled: **<span class="ashebrew"><big>מִבֵּ֣ית</big></span>**
+[^4]: B spelled: **<span class="ashebrew"><big>עֲבָדִ֑ים\׃</big></span>**
 

@@ -24,7 +24,7 @@ So I stationed men behind the lowest sections of the wall, at the vulnerable are
 | and bows their  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7198\|קַשְּׁתֹתֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ka.she.to.tei.<small><sup>[[HNcfpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.12|<< Nehemiah 4:12]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.14|Nehemiah 4:14 >>]]</td></tr></table>
 
-[^1]: ==K==: in the open places  | **<big>[[H6708|צְּחִחִיִּים]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HRd]]</sup></small> tze.chi.chi.yim<small><sup>[[HNcmpa]]</sup></small> 
-[^2]: ==K==: in the open places  | **<big>[[H6708|צְּחִחִיִּים]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HRd]]</sup></small> tze.chi.chi.yim<small><sup>[[HNcmpa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בַּצְּחִחִ֑יים</big></span>**
+[^1]: in the open places  | **<big>[[H6708|צְּחִחִיִּים]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HRd]]</sup></small> tze.chi.chi.yim<small><sup>[[HNcmpa]]</sup></small> | K
+[^2]: in the open places  | **<big>[[H6708|צְּחִחִיִּים]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HRd]]</sup></small> tze.chi.chi.yim<small><sup>[[HNcmpa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בַּצְּחִחִ֑יים</big></span>**
 

@@ -17,6 +17,6 @@ I will forever preserve My loving devotion for him, and My covenant with him wil
 | to him  |**<big>&#8207;[[H9005\|לֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.27|<< Psalms 89:27]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.29|Psalms 89:29 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>אֶשְׁמָור\־</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>אֶשְׁמוֹר</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>אֶשְׁמָור\־</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>אֶשְׁמוֹר</big></span>**
 

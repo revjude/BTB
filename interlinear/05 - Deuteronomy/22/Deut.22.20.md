@@ -19,6 +19,6 @@ If, however, this accusation is true, and no proof of the young woman’s virgin
 | for the young woman  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H5291\|נַּעֲרָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^1] [^2] | la.<small><sup>[[HRd]]</sup></small> na.'ar<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.19|<< Deuteronomy 22:19]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.21|Deuteronomy 22:21 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>לַֽנַּעֲרָֽ\׃</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>לַנַּעַר\׃</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>לַֽנַּעֲרָֽ\׃</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>לַנַּעַר\׃</big></span>**
 

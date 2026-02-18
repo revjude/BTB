@@ -37,6 +37,6 @@ Then in the seventh year, Jehoiada sent for the commanders of hundreds, the Cari
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּֽלֶךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.11.3|<< 2 Kings 11:3]]</td><td align="center" style="border:none;">[[2Kgs.11|2 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11.5|2 Kings 11:5 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>הַמֵּאֹ֗יות</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>הַמֵּאיוֹת</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>הַמֵּאֹ֗יות</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>הַמֵּאיוֹת</big></span>**
 

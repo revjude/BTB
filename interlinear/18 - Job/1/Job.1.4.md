@@ -24,6 +24,6 @@ Job’s sons would take turns holding feasts in their homes, and they would invi
 | with them  |**<big>&#8207;[[H5973A\|עִמָּ]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'i.ma.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.1.3|<< Job 1:3]]</td><td align="center" style="border:none;">[[Job.1|Job 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.1.5|Job 1:5 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>אַחְיֹֽתֵיהֶ֔ם</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>אַחְיֹתֵיהֶם</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>אַחְיֹֽתֵיהֶ֔ם</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>אַחְיֹתֵיהֶם</big></span>**
 

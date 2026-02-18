@@ -27,8 +27,8 @@ The king replied to the astrologers, “My word is final: If you do not tell me 
 | they will be made  |**<big>&#8207;[[H7761H\|יִתְּשָׂמֽוּן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yi.te.sa.Mun<small><sup>[[AVui3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.4|<< Daniel 2:4]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.6|Daniel 2:6 >>]]</td></tr></table>
 
-[^1]: ==K==: to Chaldeans the  | **<big>[[H9010|א]]</big><big>[[H3779|כַשְׂדָּיֵ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[AR]]</sup></small> khas.da.ye<small><sup>[[HNgmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> 
-[^2]: ==K==: to Chaldeans the  | **<big>[[H9010|א]]</big><big>[[H3779|כַשְׂדָּיֵ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[AR]]</sup></small> khas.da.ye<small><sup>[[HNgmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> 
-[^3]: ==K==: to Chaldeans the  | **<big>[[H9010|א]]</big><big>[[H3779|כַשְׂדָּיֵ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[AR]]</sup></small> khas.da.ye<small><sup>[[HNgmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>לְכַשְׂדָּי/אֵ֔</big></span>**
+[^1]: to Chaldeans the  | **<big>[[H9010|א]]</big><big>[[H3779|כַשְׂדָּיֵ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[AR]]</sup></small> khas.da.ye<small><sup>[[HNgmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | K
+[^2]: to Chaldeans the  | **<big>[[H9010|א]]</big><big>[[H3779|כַשְׂדָּיֵ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[AR]]</sup></small> khas.da.ye<small><sup>[[HNgmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | K
+[^3]: to Chaldeans the  | **<big>[[H9010|א]]</big><big>[[H3779|כַשְׂדָּיֵ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[AR]]</sup></small> khas.da.ye<small><sup>[[HNgmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>לְכַשְׂדָּי/אֵ֔</big></span>**
 

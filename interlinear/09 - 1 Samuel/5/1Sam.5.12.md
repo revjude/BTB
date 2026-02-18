@@ -20,7 +20,7 @@ Those who did not die were afflicted with tumors, and the outcry of the city wen
 | the heavens  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8064\|שָּׁמָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.5.11|<< 1 Samuel 5:11]]</td><td align="center" style="border:none;">[[1Sam.5|1 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.1|1 Samuel 6:1 >>]]</td></tr></table>
 
-[^1]: ==K==: with the tumors  | **<big>[[H6076B|עֳפָלִים]]</big><big>[[H9003|בָּ]]</big> ** | bo.<small><sup>[[HRd]]</sup></small> 'o.fa.Lim<small><sup>[[HNcmpa]]</sup></small> 
-[^2]: ==K==: with the tumors  | **<big>[[H6076B|עֳפָלִים]]</big><big>[[H9003|בָּ]]</big> ** | bo.<small><sup>[[HRd]]</sup></small> 'o.fa.Lim<small><sup>[[HNcmpa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בַּעְפֹלִ֑ים</big></span>**
+[^1]: with the tumors  | **<big>[[H6076B|עֳפָלִים]]</big><big>[[H9003|בָּ]]</big> ** | bo.<small><sup>[[HRd]]</sup></small> 'o.fa.Lim<small><sup>[[HNcmpa]]</sup></small> | K
+[^2]: with the tumors  | **<big>[[H6076B|עֳפָלִים]]</big><big>[[H9003|בָּ]]</big> ** | bo.<small><sup>[[HRd]]</sup></small> 'o.fa.Lim<small><sup>[[HNcmpa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בַּעְפֹלִ֑ים</big></span>**
 

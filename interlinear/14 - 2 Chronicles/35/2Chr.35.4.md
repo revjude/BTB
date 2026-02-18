@@ -21,7 +21,7 @@ Prepare yourselves by families in your divisions, according to the instructions 
 | son his  |**<big>&#8207;[[H1121A\|בְנֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.3|<< 2 Chronicles 35:3]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.5|2 Chronicles 35:5 >>]]</td></tr></table>
 
-[^1]: ==K==: and be prepared  | **<big>[[H3559A|הִכּוֹנוּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> hi.ko.nu<small><sup>[[HVNv2mp]]</sup></small> 
-[^2]: ==K==: and be prepared  | **<big>[[H3559A|הִכּוֹנוּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> hi.ko.nu<small><sup>[[HVNv2mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְהָכִ֥ונוּ</big></span>**
+[^1]: and be prepared  | **<big>[[H3559A|הִכּוֹנוּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> hi.ko.nu<small><sup>[[HVNv2mp]]</sup></small> | K
+[^2]: and be prepared  | **<big>[[H3559A|הִכּוֹנוּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> hi.ko.nu<small><sup>[[HVNv2mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְהָכִ֥ונוּ</big></span>**
 

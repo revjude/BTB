@@ -22,10 +22,10 @@ He ties his donkey to the vine, his colt to the choicest branch. He washes his g
 | robe his  [^5]|**<big>&#8207;[[H5497\|סוּתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^6] | su.t<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.10|<< Genesis 49:10]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.12|Genesis 49:12 >>]]</td></tr></table>
 
-[^1]: ==K==: donkey his  | **<big>[[H9023|ה]]</big><big>[[H5895|עִירֹ]]</big> ** | i.ro<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: donkey his  | **<big>[[H9023|ה]]</big><big>[[H5895|עִירֹ]]</big> ** | i.ro<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>עִירֹ֔ה</big></span>**
-[^4]: ==K==: robe his  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H5497|סוּתֹ]]</big> ** | su.to<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^5]: ==K==: robe his  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H5497|סוּתֹ]]</big> ** | su.to<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^6]: ==L== spelled: **<span class="ashebrew"><big>סוּתֹֽה\׃</big></span>**
+[^1]: donkey his  | **<big>[[H9023|ה]]</big><big>[[H5895|עִירֹ]]</big> ** | i.ro<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: donkey his  | **<big>[[H9023|ה]]</big><big>[[H5895|עִירֹ]]</big> ** | i.ro<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>עִירֹ֔ה</big></span>**
+[^4]: robe his  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H5497|סוּתֹ]]</big> ** | su.to<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^5]: robe his  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H5497|סוּתֹ]]</big> ** | su.to<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^6]: L spelled: **<span class="ashebrew"><big>סוּתֹֽה\׃</big></span>**
 

@@ -21,8 +21,8 @@ He mocks the mockers, but gives grace to the humble.
 | favor  |**<big>&#8207;[[H2580\|חֵֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Chen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.33|<< Proverbs 3:33]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.35|Proverbs 3:35 >>]]</td></tr></table>
 
-[^1]: ==K==: and to afflicted [peoples]  | **<big>[[H6041|עֲנִיִּים]]</big><big>[[H9005|לַ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HR]]</sup></small> 'a.ni.yim<small><sup>[[HAampa]]</sup></small> 
-[^2]: ==K==: and to afflicted [peoples]  | **<big>[[H6041|עֲנִיִּים]]</big><big>[[H9005|לַ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HR]]</sup></small> 'a.ni.yim<small><sup>[[HAampa]]</sup></small> 
-[^3]: ==K==: and to afflicted [peoples]  | **<big>[[H6041|עֲנִיִּים]]</big><big>[[H9005|לַ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HR]]</sup></small> 'a.ni.yim<small><sup>[[HAampa]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וְ֝לַ/עֲנָיִ֗ים</big></span>**
+[^1]: and to afflicted [peoples]  | **<big>[[H6041|עֲנִיִּים]]</big><big>[[H9005|לַ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HR]]</sup></small> 'a.ni.yim<small><sup>[[HAampa]]</sup></small> | K
+[^2]: and to afflicted [peoples]  | **<big>[[H6041|עֲנִיִּים]]</big><big>[[H9005|לַ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HR]]</sup></small> 'a.ni.yim<small><sup>[[HAampa]]</sup></small> | K
+[^3]: and to afflicted [peoples]  | **<big>[[H6041|עֲנִיִּים]]</big><big>[[H9005|לַ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HR]]</sup></small> 'a.ni.yim<small><sup>[[HAampa]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וְ֝לַ/עֲנָיִ֗ים</big></span>**
 

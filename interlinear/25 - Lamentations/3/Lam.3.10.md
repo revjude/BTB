@@ -16,6 +16,6 @@ He is a bear lying in wait, a lion hiding in ambush.
 | in hiding places  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4565\|מִסְתָּרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> mis.ta.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.9|<< Lamentations 3:9]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.11|Lamentations 3:11 >>]]</td></tr></table>
 
-[^1]: ==K==: a lion  | **<big>[[H0738B|אַרְיֵה]]</big> ** | 'ar.yeh<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אֲרִ֖יה</big></span>**
+[^1]: a lion  | **<big>[[H0738B|אַרְיֵה]]</big> ** | 'ar.yeh<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אֲרִ֖יה</big></span>**
 

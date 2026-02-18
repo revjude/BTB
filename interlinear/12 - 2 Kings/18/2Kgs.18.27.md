@@ -36,12 +36,12 @@ But the Rabshakeh replied, “Has my master sent me to speak these words only to
 | with you  |**<big>&#8207;[[H5973A\|עִמָּ]]&#8207;&#8207;[[H9036\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'i.ma.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.26|<< 2 Kings 18:26]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.28|2 Kings 18:28 >>]]</td></tr></table>
 
-[^1]: ==K==: own dung\<s> their  | **<big>[[H9028|הֶם]]</big><big>[[H2716|חֲרֵי]]</big> ** | cha.rei.<small><sup>[[HNcmpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> 
-[^2]: ==K==: own dung\<s> their  | **<big>[[H9028|הֶם]]</big><big>[[H2716|חֲרֵי]]</big> ** | cha.rei.<small><sup>[[HNcmpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>חֹרָיהָ֗ם</big></span>**
-[^4]: ==K==: own urine\<s> their  | **<big>[[H9028|הֶם]]</big><big>[[H7890|שֵׁינֵי]]</big> ** | shei.nei.<small><sup>[[HNcbdc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> 
-[^5]: ==K==: own urine\<s> their  | **<big>[[H9028|הֶם]]</big><big>[[H7890|שֵׁינֵי]]</big> ** | shei.nei.<small><sup>[[HNcbdc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> 
-[^6]: ==K==: own urine\<s> their  | **<big>[[H9028|הֶם]]</big><big>[[H7890|שֵׁינֵי]]</big> ** | shei.nei.<small><sup>[[HNcbdc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> 
-[^7]: ==K==: own urine\<s> their  | **<big>[[H9028|הֶם]]</big><big>[[H7890|שֵׁינֵי]]</big> ** | shei.nei.<small><sup>[[HNcbdc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> 
-[^8]: ==L== spelled: **<span class="ashebrew"><big>שֵֽׁיַנְיֵהֶ֖ם</big></span>**
+[^1]: own dung\<s> their  | **<big>[[H9028|הֶם]]</big><big>[[H2716|חֲרֵי]]</big> ** | cha.rei.<small><sup>[[HNcmpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^2]: own dung\<s> their  | **<big>[[H9028|הֶם]]</big><big>[[H2716|חֲרֵי]]</big> ** | cha.rei.<small><sup>[[HNcmpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>חֹרָיהָ֗ם</big></span>**
+[^4]: own urine\<s> their  | **<big>[[H9028|הֶם]]</big><big>[[H7890|שֵׁינֵי]]</big> ** | shei.nei.<small><sup>[[HNcbdc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^5]: own urine\<s> their  | **<big>[[H9028|הֶם]]</big><big>[[H7890|שֵׁינֵי]]</big> ** | shei.nei.<small><sup>[[HNcbdc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^6]: own urine\<s> their  | **<big>[[H9028|הֶם]]</big><big>[[H7890|שֵׁינֵי]]</big> ** | shei.nei.<small><sup>[[HNcbdc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^7]: own urine\<s> their  | **<big>[[H9028|הֶם]]</big><big>[[H7890|שֵׁינֵי]]</big> ** | shei.nei.<small><sup>[[HNcbdc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^8]: L spelled: **<span class="ashebrew"><big>שֵֽׁיַנְיֵהֶ֖ם</big></span>**
 

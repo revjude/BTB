@@ -21,6 +21,6 @@ If there is a virgin pledged in marriage to a man, and another man encounters he
 | with her  |**<big>&#8207;[[H5973A\|עִמָּֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'i.Ma<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.22|<< Deuteronomy 22:22]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.24|Deuteronomy 22:24 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>נַעֲרָ֣</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>נַעַר</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>נַעֲרָ֣</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>נַעַר</big></span>**
 

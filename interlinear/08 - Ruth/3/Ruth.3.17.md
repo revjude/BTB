@@ -23,9 +23,9 @@ And she said, “He gave me these six measures of barley, for he said, ‘Do not
 | mother-in-law your  |**<big>&#8207;[[H2545\|חֲמוֹתֵֽ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| cha.mo.Te<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.3.16|<< Ruth 3:16]]</td><td align="center" style="border:none;">[[Ruth.3|Ruth 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.3.18|Ruth 3:18 >>]]</td></tr></table>
 
-[^1]: ==K==: he said  | **<big>[[H0559|אָמַ֣ר]]</big> ** | 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> 
-[^2]: ==K==: he said  | **<big>[[H0559|אָמַ֣ר]]</big> ** | 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> 
-[^3]: ==K==: he said  | **<big>[[H0559|אָמַ֣ר]]</big> ** | 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> 
-[^4]: ==K==: he said  | **<big>[[H0559|אָמַ֣ר]]</big> ** | 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> 
-[^5]: ==L== spelled: **<span class="ashebrew"><big>אָמַ֣רֵַ֔</big></span>**
+[^1]: he said  | **<big>[[H0559|אָמַ֣ר]]</big> ** | 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | K
+[^2]: he said  | **<big>[[H0559|אָמַ֣ר]]</big> ** | 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | K
+[^3]: he said  | **<big>[[H0559|אָמַ֣ר]]</big> ** | 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | K
+[^4]: he said  | **<big>[[H0559|אָמַ֣ר]]</big> ** | 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | K
+[^5]: L spelled: **<span class="ashebrew"><big>אָמַ֣רֵַ֔</big></span>**
 

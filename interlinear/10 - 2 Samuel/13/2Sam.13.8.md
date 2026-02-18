@@ -26,6 +26,6 @@ So Tamar went to the house of her brother Amnon, who was lying down. She took so
 | the cakes  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3834\|לְּבִבֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> le.vi.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.7|<< 2 Samuel 13:7]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.9|2 Samuel 13:9 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וַתָּ֙לָושׁ֙</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וַתָּלוֹשׁ</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וַתָּ֙לָושׁ֙</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וַתָּלוֹשׁ</big></span>**
 

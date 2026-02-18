@@ -35,6 +35,6 @@ Was that day the first time I inquired of God for him? Far be it from me! Let no
 | great  |**<big>&#8207;[[H1419A\|גָדֽוֹל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.22.14|<< 1 Samuel 22:14]]</td><td align="center" style="border:none;">[[1Sam.22|1 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.22.16|1 Samuel 22:16 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>לִשְׁאָול\־</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>לְשָׁאוֹל</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>לִשְׁאָול\־</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>לְשָׁאוֹל</big></span>**
 

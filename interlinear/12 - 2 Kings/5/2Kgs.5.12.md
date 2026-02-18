@@ -26,6 +26,6 @@ Are not the Abanah and Pharpar, the rivers of Damascus, better than all the wate
 | in a rage  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2534\|חֵמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> che.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.11|<< 2 Kings 5:11]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.13|2 Kings 5:13 >>]]</td></tr></table>
 
-[^1]: ==K==: [are] Abana  | **<big>[[H0071|אֲבָנָה]]</big> ** | 'a.va.nah<small><sup>[[HNpl]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אֲבָנָ֨ה</big></span>**
+[^1]: [are] Abana  | **<big>[[H0071|אֲבָנָה]]</big> ** | 'a.va.nah<small><sup>[[HNpl]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אֲבָנָ֨ה</big></span>**
 

@@ -15,7 +15,7 @@ Surely my soul remembers and is humbled within me.
 | self my  |**<big>&#8207;[[H5315G\|נַפְשִֽׁ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.19|<< Lamentations 3:19]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.21|Lamentations 3:21 >>]]</td></tr></table>
 
-[^1]: ==K==: so it may melts away  | **<big>[[H7743|תָשִׁיחַ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ta.shi.ach<small><sup>[[HVqu3fs]]</sup></small> 
-[^2]: ==K==: so it may melts away  | **<big>[[H7743|תָשִׁיחַ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ta.shi.ach<small><sup>[[HVqu3fs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְתָשֹׁ֥יחַ</big></span>**
+[^1]: so it may melts away  | **<big>[[H7743|תָשִׁיחַ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ta.shi.ach<small><sup>[[HVqu3fs]]</sup></small> | K
+[^2]: so it may melts away  | **<big>[[H7743|תָשִׁיחַ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ta.shi.ach<small><sup>[[HVqu3fs]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְתָשֹׁ֥יחַ</big></span>**
 

@@ -24,8 +24,8 @@ along with its grain offering of two-tenths of an ephah of fine flour mixed with
 | \<the> hin  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1969\|הִֽין]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Hin<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.12|<< Leviticus 23:12]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.14|Leviticus 23:14 >>]]</td></tr></table>
 
-[^1]: ==K==: and drink offering its  | **<big>[[H9023|ה]]</big><big>[[H5262|נִסְכֹּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> nis.Ko<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: and drink offering its  | **<big>[[H9023|ה]]</big><big>[[H5262|נִסְכֹּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> nis.Ko<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: and drink offering its  | **<big>[[H9023|ה]]</big><big>[[H5262|נִסְכֹּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> nis.Ko<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וְנִסְכֹּ֥/ה</big></span>**
+[^1]: and drink offering its  | **<big>[[H9023|ה]]</big><big>[[H5262|נִסְכֹּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> nis.Ko<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: and drink offering its  | **<big>[[H9023|ה]]</big><big>[[H5262|נִסְכֹּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> nis.Ko<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: and drink offering its  | **<big>[[H9023|ה]]</big><big>[[H5262|נִסְכֹּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> nis.Ko<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וְנִסְכֹּ֥/ה</big></span>**
 

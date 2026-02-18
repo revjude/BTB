@@ -33,6 +33,6 @@ Raise a war cry against her on every side! She has thrown up her hands in surren
 | to \<the> it  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| La<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.14|<< Jeremiah 50:14]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.16|Jeremiah 50:16 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>אָשְׁוֹיתֶ֔יהָ</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>אַשְׁוִיֹּתֶיהָ</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>אָשְׁוֹיתֶ֔יהָ</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>אַשְׁוִיֹּתֶיהָ</big></span>**
 

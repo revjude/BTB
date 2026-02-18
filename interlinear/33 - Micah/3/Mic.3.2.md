@@ -20,6 +20,6 @@ You hate good and love evil. You tear the skin from my people and strip the fles
 | bones their  |**<big>&#8207;[[H6106G\|עַצְמוֹתָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| atz.mo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.3.1|<< Micah 3:1]]</td><td align="center" style="border:none;">[[Mic.3|Micah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.3.3|Micah 3:3 >>]]</td></tr></table>
 
-[^1]: ==K==: evil  | **<big>[[H7451B|רָעָה]]</big> ** | ra.'ah<small><sup>[[HAafsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>רָ֑עה</big></span>**
+[^1]: evil  | **<big>[[H7451B|רָעָה]]</big> ** | ra.'ah<small><sup>[[HAafsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>רָ֑עה</big></span>**
 

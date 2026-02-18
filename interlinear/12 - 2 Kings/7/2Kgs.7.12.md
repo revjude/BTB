@@ -43,7 +43,7 @@ So the king got up in the night and said to his servants, “Let me tell you wha
 | we will go  |**<big>&#8207;[[H0935G\|נָבֹֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| na.Vo'<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.7.11|<< 2 Kings 7:11]]</td><td align="center" style="border:none;">[[2Kgs.7|2 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.7.13|2 Kings 7:13 >>]]</td></tr></table>
 
-[^1]: ==K==: in the open country  | **<big>[[H7704G|שָּׂדֶה]]</big><big>[[H9009|הַ]]</big><big>[[H9003|בְ]]</big> ** | ve.<small><sup>[[HR]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> sa.deh<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==K==: in the open country  | **<big>[[H7704G|שָּׂדֶה]]</big><big>[[H9009|הַ]]</big><big>[[H9003|בְ]]</big> ** | ve.<small><sup>[[HR]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> sa.deh<small><sup>[[HNcbsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בַה/שָּׂדֶה֙</big></span>**
+[^1]: in the open country  | **<big>[[H7704G|שָּׂדֶה]]</big><big>[[H9009|הַ]]</big><big>[[H9003|בְ]]</big> ** | ve.<small><sup>[[HR]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> sa.deh<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: in the open country  | **<big>[[H7704G|שָּׂדֶה]]</big><big>[[H9009|הַ]]</big><big>[[H9003|בְ]]</big> ** | ve.<small><sup>[[HR]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> sa.deh<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בַה/שָּׂדֶה֙</big></span>**
 

@@ -29,10 +29,10 @@ One day, while he was worshiping in the temple of his god Nisroch, his sons Adra
 | in place of him  |**<big>&#8207;[[H8478H\|תַּחְתָּֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tach.Ta<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.36|<< 2 Kings 19:36]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.20.1|2 Kings 20:1 >>]]</td></tr></table>
 
-[^1]: ==K==: and Sharezer  | **<big>[[H8272G|שַׂרְאֶ֤צֶר]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> sar.'E.tzer<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==K==: and Sharezer  | **<big>[[H8272G|שַׂרְאֶ֤צֶר]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> sar.'E.tzer<small><sup>[[HNpm]]</sup></small> 
-[^3]: ==K==: and Sharezer  | **<big>[[H8272G|שַׂרְאֶ֤צֶר]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> sar.'E.tzer<small><sup>[[HNpm]]</sup></small> 
-[^4]: ==K==: and Sharezer  | **<big>[[H8272G|שַׂרְאֶ֤צֶר]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> sar.'E.tzer<small><sup>[[HNpm]]</sup></small> 
-[^5]: ==K==: and Sharezer  | **<big>[[H8272G|שַׂרְאֶ֤צֶר]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> sar.'E.tzer<small><sup>[[HNpm]]</sup></small> 
-[^6]: ==L== spelled: **<span class="ashebrew"><big>וְשַׂרְאֶ֤צֶרָָ֙</big></span>**
+[^1]: and Sharezer  | **<big>[[H8272G|שַׂרְאֶ֤צֶר]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> sar.'E.tzer<small><sup>[[HNpm]]</sup></small> | K
+[^2]: and Sharezer  | **<big>[[H8272G|שַׂרְאֶ֤צֶר]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> sar.'E.tzer<small><sup>[[HNpm]]</sup></small> | K
+[^3]: and Sharezer  | **<big>[[H8272G|שַׂרְאֶ֤צֶר]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> sar.'E.tzer<small><sup>[[HNpm]]</sup></small> | K
+[^4]: and Sharezer  | **<big>[[H8272G|שַׂרְאֶ֤צֶר]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> sar.'E.tzer<small><sup>[[HNpm]]</sup></small> | K
+[^5]: and Sharezer  | **<big>[[H8272G|שַׂרְאֶ֤צֶר]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> sar.'E.tzer<small><sup>[[HNpm]]</sup></small> | K
+[^6]: L spelled: **<span class="ashebrew"><big>וְשַׂרְאֶ֤צֶרָָ֙</big></span>**
 

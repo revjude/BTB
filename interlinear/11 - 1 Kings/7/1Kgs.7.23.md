@@ -30,7 +30,7 @@ He also made the Sea of cast metal. It was circular in shape, measuring ten cubi
 | all around  |**<big>&#8207;[[H5439G\|סָבִֽיב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sa.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.22|<< 1 Kings 7:22]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.24|1 Kings 7:24 >>]]</td></tr></table>
 
-[^1]: ==K==: and a measuring-line  | **<big>[[H6961|קְוֵה]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ke.veh<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==K==: and a measuring-line  | **<big>[[H6961|קְוֵה]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ke.veh<small><sup>[[HNcbsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְקָו֙ה</big></span>**
+[^1]: and a measuring-line  | **<big>[[H6961|קְוֵה]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ke.veh<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: and a measuring-line  | **<big>[[H6961|קְוֵה]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ke.veh<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְקָו֙ה</big></span>**
 

@@ -27,5 +27,5 @@ Then I will raise up for Myself a faithful priest. He will do whatever is in My 
 | the days  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117K\|יָּמִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.34|<< 1 Samuel 2:34]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.36|1 Samuel 2:36 >>]]</td></tr></table>
 
-[^1]: ==B== spelled: **<span class="ashebrew"><big>וְהתְהַלֵּ֥ךְ</big></span>**
+[^1]: B spelled: **<span class="ashebrew"><big>וְהתְהַלֵּ֥ךְ</big></span>**
 

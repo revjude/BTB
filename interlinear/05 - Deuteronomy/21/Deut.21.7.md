@@ -21,6 +21,6 @@ and they shall declare, “Our hands did not shed this blood, nor did our eyes s
 | they saw  |**<big>&#8207;[[H7200G\|רָאֽוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ra.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.6|<< Deuteronomy 21:6]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.8|Deuteronomy 21:8 >>]]</td></tr></table>
 
-[^1]: ==K==: it shed  | **<big>[[H8210H|שָׁפְכָה]]</big> ** | sha.fe.khah<small><sup>[[HVqp3fs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>שָֽׁפְכֻה֙</big></span>**
+[^1]: it shed  | **<big>[[H8210H|שָׁפְכָה]]</big> ** | sha.fe.khah<small><sup>[[HVqp3fs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>שָֽׁפְכֻה֙</big></span>**
 

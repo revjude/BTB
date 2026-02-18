@@ -30,6 +30,6 @@ So He brought up against them the king of the Chaldeans, who put their young men
 | in hand his  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027H\|יָדֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ya.D<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36.16|<< 2 Chronicles 36:16]]</td><td align="center" style="border:none;">[[2Chr.36|2 Chronicles 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36.18|2 Chronicles 36:18 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>כַּשְׂדִּ֗יים</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>כַּשְׂדִּיִּים</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>כַּשְׂדִּ֗יים</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>כַּשְׂדִּיִּים</big></span>**
 

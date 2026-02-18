@@ -21,7 +21,7 @@ And now, O God of Israel, please confirm what You promised to Your servant, my f
 | father my  |**<big>&#8207;[[H0001G\|אָבִֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.V<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.25|<< 1 Kings 8:25]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.27|1 Kings 8:27 >>]]</td></tr></table>
 
-[^1]: ==K==: words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דְּבָרֶי]]</big> ** | de.va.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^2]: ==K==: words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דְּבָרֶי]]</big> ** | de.va.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>דְּבָ֣רְיךָ֔</big></span>**
+[^1]: words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דְּבָרֶי]]</big> ** | de.va.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דְּבָרֶי]]</big> ** | de.va.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>דְּבָ֣רְיךָ֔</big></span>**
 

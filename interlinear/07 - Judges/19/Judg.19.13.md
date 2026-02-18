@@ -20,7 +20,7 @@ He continued, “Come, let us try to reach one of these towns to spend the night
 | in \<the> Ramah  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H7414G\|רָמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> ra.Mah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.12|<< Judges 19:12]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.14|Judges 19:14 >>]]</td></tr></table>
 
-[^1]: ==K==: come  | **<big>[[H1980N|לֵךְ]]</big> ** | le.Kha<small><sup>[[HVqv2ms]]</sup></small> 
-[^2]: ==K==: come  | **<big>[[H1980N|לֵךְ]]</big> ** | le.Kha<small><sup>[[HVqv2ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>לְךָ֥</big></span>**
+[^1]: come  | **<big>[[H1980N|לֵךְ]]</big> ** | le.Kha<small><sup>[[HVqv2ms]]</sup></small> | K
+[^2]: come  | **<big>[[H1980N|לֵךְ]]</big> ** | le.Kha<small><sup>[[HVqv2ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>לְךָ֥</big></span>**
 

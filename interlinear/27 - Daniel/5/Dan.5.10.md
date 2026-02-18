@@ -30,6 +30,6 @@ Hearing the outcry of the king and his nobles, the queen entered the banquet hal
 | they be changed  |**<big>&#8207;[[H8133\|יִשְׁתַּנּֽוֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yish.ta.No<small><sup>[[AVPj3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.9|<< Daniel 5:9]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.11|Daniel 5:11 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>עַלַּ֑לת</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>עַלֲלַת</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>עַלַּ֑לת</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>עַלֲלַת</big></span>**
 

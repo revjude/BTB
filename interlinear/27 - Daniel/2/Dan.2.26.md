@@ -24,6 +24,6 @@ The king responded to Daniel, whose name was Belteshazzar, “Are you able to te
 | and interpretation its  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6591\|פִשְׁרֵֽ]]&#8207;&#8207;[[H9023\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> fish.Re<small><sup>[[ANcbsc]]</sup></small> h<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.25|<< Daniel 2:25]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.27|Daniel 2:27 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>הַֽאִיתָ֣י/ךְ</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>הַאִיתַיִ/ךְ</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>הַֽאִיתָ֣י/ךְ</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>הַאִיתַיִ/ךְ</big></span>**
 

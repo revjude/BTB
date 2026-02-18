@@ -27,7 +27,7 @@ And this will be a sign to you, O Hezekiah: This year you will eat what grows on
 | fruit their  |**<big>&#8207;[[H6529\|פִרְיָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| fir.Ya<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.29|<< Isaiah 37:29]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.31|Isaiah 37:31 >>]]</td></tr></table>
 
-[^1]: ==K==: and eat  | **<big>[[H0398|אֱכוֹל]]</big><big>[[H9002|וֶ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'a.khol<small><sup>[[HVqv2ms]]</sup></small> 
-[^2]: ==K==: and eat  | **<big>[[H0398|אֱכוֹל]]</big><big>[[H9002|וֶ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'a.khol<small><sup>[[HVqv2ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְאִכְולֻ֥</big></span>**
+[^1]: and eat  | **<big>[[H0398|אֱכוֹל]]</big><big>[[H9002|וֶ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'a.khol<small><sup>[[HVqv2ms]]</sup></small> | K
+[^2]: and eat  | **<big>[[H0398|אֱכוֹל]]</big><big>[[H9002|וֶ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'a.khol<small><sup>[[HVqv2ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְאִכְולֻ֥</big></span>**
 

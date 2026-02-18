@@ -20,6 +20,6 @@ Great salvation He brings to His king. He shows loving devotion to His anointed,
 | perpetuity  |**<big>&#8207;[[H5769G\|עוֹלָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.50|<< 2 Samuel 22:50]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.1|2 Samuel 23:1 >>]]</td></tr></table>
 
-[^1]: ==K==: [one who] makes great  | **<big>[[H1431|מַגְדִּיל]]</big> ** | mig.dil<small><sup>[[HVhrmsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>מִגְדֹּ֖יל</big></span>**
+[^1]: [one who] makes great  | **<big>[[H1431|מַגְדִּיל]]</big> ** | mig.dil<small><sup>[[HVhrmsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>מִגְדֹּ֖יל</big></span>**
 

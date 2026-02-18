@@ -32,8 +32,8 @@ So the king ordered Doeg, “You turn and strike down the priests!” And Doeg t
 | linen  |**<big>&#8207;[[H0906\|בָּֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Bad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.22.17|<< 1 Samuel 22:17]]</td><td align="center" style="border:none;">[[1Sam.22|1 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.22.19|1 Samuel 22:19 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>לְדוֹיֵ֔ג</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>לְדוֹיֵג</big></span>**
-[^3]: ==L== spelled: **<span class="ashebrew"><big>דּוֹיֵ֣ג</big></span>**
-[^4]: ==K== spelled: **<span class="ashebrew"><big>דּוֹיֵג</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>לְדוֹיֵ֔ג</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>לְדוֹיֵג</big></span>**
+[^3]: L spelled: **<span class="ashebrew"><big>דּוֹיֵ֣ג</big></span>**
+[^4]: K spelled: **<span class="ashebrew"><big>דּוֹיֵג</big></span>**
 

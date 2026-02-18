@@ -27,7 +27,7 @@ because they have forsaken Me and burned incense to other gods, that they might 
 | it will be quenched  |**<big>&#8207;[[H3518\|תִכְבֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tikh.Beh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.24|<< 2 Chronicles 34:24]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.26|2 Chronicles 34:26 >>]]</td></tr></table>
 
-[^1]: ==K==: and they have made smoke  | **<big>[[H6999H|יַּקְטִירוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yak.ti.ru<small><sup>[[HVhw3mp]]</sup></small> 
-[^2]: ==K==: and they have made smoke  | **<big>[[H6999H|יַּקְטִירוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yak.ti.ru<small><sup>[[HVhw3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וַֽיְקַטְּירוּ֙</big></span>**
+[^1]: and they have made smoke  | **<big>[[H6999H|יַּקְטִירוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yak.ti.ru<small><sup>[[HVhw3mp]]</sup></small> | K
+[^2]: and they have made smoke  | **<big>[[H6999H|יַּקְטִירוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yak.ti.ru<small><sup>[[HVhw3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וַֽיְקַטְּירוּ֙</big></span>**
 

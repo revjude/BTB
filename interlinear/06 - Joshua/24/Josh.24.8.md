@@ -28,7 +28,7 @@ Later, I brought you to the land of the Amorites who lived beyond the Jordan. Th
 | from before you  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6440G\|פְּנֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> pe.nei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.7|<< Joshua 24:7]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.9|Joshua 24:9 >>]]</td></tr></table>
 
-[^1]: ==K==: and I brought !  | **<big>[[H9012|ה]]</big><big>[[H0935P|אָבִאָ]]</big><big>[[H9001|וָ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> 'a.vi.'a<small><sup>[[HVhw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> 
-[^2]: ==K==: and I brought !  | **<big>[[H9012|ה]]</big><big>[[H0935P|אָבִאָ]]</big><big>[[H9001|וָ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> 'a.vi.'a<small><sup>[[HVhw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וָאָבִ֣א/ה</big></span>**
+[^1]: and I brought !  | **<big>[[H9012|ה]]</big><big>[[H0935P|אָבִאָ]]</big><big>[[H9001|וָ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> 'a.vi.'a<small><sup>[[HVhw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | K
+[^2]: and I brought !  | **<big>[[H9012|ה]]</big><big>[[H0935P|אָבִאָ]]</big><big>[[H9001|וָ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> 'a.vi.'a<small><sup>[[HVhw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וָאָבִ֣א/ה</big></span>**
 

@@ -16,7 +16,7 @@ He declares His word to Jacob, His statutes and judgments to Israel.
 | to Israel  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.147.18|<< Psalms 147:18]]</td><td align="center" style="border:none;">[[Ps.147|Psalms 147]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.147.20|Psalms 147:20 >>]]</td></tr></table>
 
-[^1]: ==K==: word his  | **<big>[[H9023|וֹ]]</big><big>[[H1697G|דְּבָר]]</big> ** | de.va.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: word his  | **<big>[[H9023|וֹ]]</big><big>[[H1697G|דְּבָר]]</big> ** | de.va.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>דְּבָרָ֣ו</big></span>**
+[^1]: word his  | **<big>[[H9023|וֹ]]</big><big>[[H1697G|דְּבָר]]</big> ** | de.va.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: word his  | **<big>[[H9023|וֹ]]</big><big>[[H1697G|דְּבָר]]</big> ** | de.va.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>דְּבָרָ֣ו</big></span>**
 

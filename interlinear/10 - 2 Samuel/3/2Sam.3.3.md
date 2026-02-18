@@ -24,6 +24,6 @@ his second was Chileab, by Abigail the widow of Nabal of Carmel; his third was A
 | Geshur  |**<big>&#8207;[[H1650\|גְּשֽׁוּר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ge.Shur<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.2|<< 2 Samuel 3:2]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.4|2 Samuel 3:4 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>לַאֲבִיגִַ֕ל</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>לַאֲבִיגֵל</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>לַאֲבִיגִַ֕ל</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>לַאֲבִיגֵל</big></span>**
 

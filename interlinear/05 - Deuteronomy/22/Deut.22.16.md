@@ -22,6 +22,6 @@ and say to the elders, “I gave my daughter in marriage to this man, but he has
 | and he hated her  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8130\|יִּשְׂנָאֶֽ]]&#8207;&#8207;[[H9034\|הָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yis.na.'E.<small><sup>[[HVqw3ms]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.15|<< Deuteronomy 22:15]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.17|Deuteronomy 22:17 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>הַֽנַּעֲרָ֖</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>הַנַּעַר</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>הַֽנַּעֲרָ֖</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>הַנַּעַר</big></span>**
 

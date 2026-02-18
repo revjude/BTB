@@ -23,6 +23,6 @@ These are the words of Nehemiah son of Hacaliah: In the month of Chislev, in the
 | the citadel  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1002\|בִּירָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> bi.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.44|<< Ezra 10:44]]</td><td align="center" style="border:none;">[[Neh.1|Nehemiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.1.2|Nehemiah 1:2 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>כִּסְלֵו֙</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>כִּסְלֵו</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>כִּסְלֵו֙</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>כִּסְלֵו</big></span>**
 

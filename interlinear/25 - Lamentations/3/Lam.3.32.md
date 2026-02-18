@@ -16,7 +16,7 @@ Even if He causes grief, He will show compassion according to His abundant lovin
 | covenant loyalti\<es> his  [^2]|**<big>&#8207;[[H2617A\|חֲסָדָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | chas.do<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.31|<< Lamentations 3:31]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.33|Lamentations 3:33 >>]]</td></tr></table>
 
-[^1]: ==K==: covenant loyalty his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H2617A|חַסְדּ]]</big> ** | chas.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: covenant loyalty his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H2617A|חַסְדּ]]</big> ** | chas.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>חֲסָדָֽו\׃</big></span>**
+[^1]: covenant loyalty his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H2617A|חַסְדּ]]</big> ** | chas.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: covenant loyalty his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H2617A|חַסְדּ]]</big> ** | chas.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>חֲסָדָֽו\׃</big></span>**
 

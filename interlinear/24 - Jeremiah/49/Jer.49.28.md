@@ -29,6 +29,6 @@ Concerning Kedar and the kingdoms of Hazor, which Nebuchadnezzar king of Babylon
 | [the] east  |**<big>&#8207;[[H6924G\|קֶֽדֶם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ke.dem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.27|<< Jeremiah 49:27]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.29|Jeremiah 49:29 >>]]</td></tr></table>
 
-[^1]: ==K==: Nebuchadnezzar  | **<big>[[H5020|נְבוּכַדְרֶאצּוֹר]]</big> ** | ne.vu.khad.re.tzor<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>נְבֽוּכַדְרֶאצַּו֣ר</big></span>**
+[^1]: Nebuchadnezzar  | **<big>[[H5020|נְבוּכַדְרֶאצּוֹר]]</big> ** | ne.vu.khad.re.tzor<small><sup>[[HNpm]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>נְבֽוּכַדְרֶאצַּו֣ר</big></span>**
 

@@ -29,6 +29,6 @@ After Job had prayed for his friends, the LORD restored his prosperity and doubl
 | to double  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4932H\|מִשְׁנֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mish.Neh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.42.9|<< Job 42:9]]</td><td align="center" style="border:none;">[[Job.42|Job 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42.11|Job 42:11 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>שְׁב֣יּת</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>שְׁבִית</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>שְׁב֣יּת</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>שְׁבִית</big></span>**
 

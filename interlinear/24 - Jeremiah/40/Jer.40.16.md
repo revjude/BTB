@@ -29,6 +29,6 @@ But Gedaliah son of Ahikam said to Johanan son of Kareah, “Do not do such a th
 | Ishmael  |**<big>&#8207;[[H3458H\|יִשְׁמָעֵֽאל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yish.ma.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.40.15|<< Jeremiah 40:15]]</td><td align="center" style="border:none;">[[Jer.40|Jeremiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.1|Jeremiah 41:1 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>תַּעֲשֵׂ֖</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>תַּעַשׂ</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>תַּעֲשֵׂ֖</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>תַּעַשׂ</big></span>**
 

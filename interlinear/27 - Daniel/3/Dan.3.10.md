@@ -33,10 +33,10 @@ You, O king, have issued a decree that everyone who hears the sound of the horn,
 | \<the> gold  |**<big>&#8207;[[H1722\|דַּהֲבָֽ]]&#8207;&#8207;[[H9010\|א]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| da.ha.Va<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.9|<< Daniel 3:9]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.11|Daniel 3:11 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>אַ֣נְתְּה</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>אַנְתָּה</big></span>**
-[^3]: ==L== spelled: **<span class="asaramaic"><big>קַיתְרֹ֨ס</big></span>**
-[^4]: ==K== spelled: **<span class="asaramaic"><big>קִיתָרֹס</big></span>**
-[^5]: ==L== spelled: **<span class="asaramaic"><big>וְסיּפֹּ֣נְיָ֔ה</big></span>**
-[^6]: ==K== spelled: **<span class="asaramaic"><big>וְסִיפֹּנְיָה</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>אַ֣נְתְּה</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>אַנְתָּה</big></span>**
+[^3]: L spelled: **<span class="asaramaic"><big>קַיתְרֹ֨ס</big></span>**
+[^4]: K spelled: **<span class="asaramaic"><big>קִיתָרֹס</big></span>**
+[^5]: L spelled: **<span class="asaramaic"><big>וְסיּפֹּ֣נְיָ֔ה</big></span>**
+[^6]: K spelled: **<span class="asaramaic"><big>וְסִיפֹּנְיָה</big></span>**
 

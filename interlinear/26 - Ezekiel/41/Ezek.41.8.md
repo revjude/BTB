@@ -22,6 +22,6 @@ I saw that the temple had a raised base all around it, forming the foundation of
 | a joint  |**<big>&#8207;[[H0679\|אַצִּֽילָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Tzi.lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.7|<< Ezekiel 41:7]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.9|Ezekiel 41:9 >>]]</td></tr></table>
 
-[^1]: ==K==: [the] foundations of  | **<big>[[H4328|מְיֻסְּדוֹת]]</big> ** | me.yu.se.dot<small><sup>[[HNcfpc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>מיּסְד֤וֹת</big></span>**
+[^1]: [the] foundations of  | **<big>[[H4328|מְיֻסְּדוֹת]]</big> ** | me.yu.se.dot<small><sup>[[HNcfpc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>מיּסְד֤וֹת</big></span>**
 

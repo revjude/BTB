@@ -29,8 +29,8 @@ Do nothing to the young woman, because she has committed no sin worthy of death.
 | \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.25|<< Deuteronomy 22:25]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.27|Deuteronomy 22:27 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וְלַֽ/נַּעֲרָ֙</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וְלַ/נַּעַר</big></span>**
-[^3]: ==L== spelled: **<span class="ashebrew"><big>לַֽנַּעֲרָ֖</big></span>**
-[^4]: ==K== spelled: **<span class="ashebrew"><big>לַנַּעַר</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וְלַֽ/נַּעֲרָ֙</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וְלַ/נַּעַר</big></span>**
+[^3]: L spelled: **<span class="ashebrew"><big>לַֽנַּעֲרָ֖</big></span>**
+[^4]: K spelled: **<span class="ashebrew"><big>לַנַּעַר</big></span>**
 

@@ -17,7 +17,7 @@ For now you are of no help; you see terror, and you are afraid.
 | and you were afraid  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3372G\|תִּירָֽאוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Ra.'u<small><sup>[[HVqw2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.20|<< Job 6:20]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.22|Job 6:22 >>]]</td></tr></table>
 
-[^1]: ==K==: not  | **<big>[[H3808|לֹא]]</big> ** | lo'<small><sup>[[HTn]]</sup></small> 
-[^2]: ==K==: not  | **<big>[[H3808|לֹא]]</big> ** | lo'<small><sup>[[HTn]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>לֹ֑א</big></span>**
+[^1]: not  | **<big>[[H3808|לֹא]]</big> ** | lo'<small><sup>[[HTn]]</sup></small> | K
+[^2]: not  | **<big>[[H3808|לֹא]]</big> ** | lo'<small><sup>[[HTn]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>לֹ֑א</big></span>**
 

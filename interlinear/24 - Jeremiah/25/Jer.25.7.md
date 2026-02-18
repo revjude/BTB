@@ -21,7 +21,7 @@ Yet ye have not hearkened unto me, saith the LORD; that ye might provoke me to a
 | of you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.6|<< Jeremiah 25:6]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.8|Jeremiah 25:8 >>]]</td></tr></table>
 
-[^1]: ==K==: they have provoked to anger me  | **<big>[[H9030|נִי]]</big><big>[[H3707|הִכְעִסוּ]]</big> ** | hikh.'i.su.<small><sup>[[HVhp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> 
-[^2]: ==K==: they have provoked to anger me  | **<big>[[H9030|נִי]]</big><big>[[H3707|הִכְעִסוּ]]</big> ** | hikh.'i.su.<small><sup>[[HVhp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הַכְעִסֵו֛נִי</big></span>**
+[^1]: they have provoked to anger me  | **<big>[[H9030|נִי]]</big><big>[[H3707|הִכְעִסוּ]]</big> ** | hikh.'i.su.<small><sup>[[HVhp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | K
+[^2]: they have provoked to anger me  | **<big>[[H9030|נִי]]</big><big>[[H3707|הִכְעִסוּ]]</big> ** | hikh.'i.su.<small><sup>[[HVhp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הַכְעִסֵו֛נִי</big></span>**
 

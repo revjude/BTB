@@ -17,5 +17,5 @@ For the upright will inhabit the land, and the blameless will remain in it;
 | in it  |**<big>&#8207;[[H9003\|בָֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Va<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.2.20|<< Proverbs 2:20]]</td><td align="center" style="border:none;">[[Prov.2|Proverbs 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.2.22|Proverbs 2:22 >>]]</td></tr></table>
 
-[^1]: ==BAH== spelled: **<span class="ashebrew"><big>יִשְׁכְּנוּ\־</big></span>**
+[^1]: BAH spelled: **<span class="ashebrew"><big>יִשְׁכְּנוּ\־</big></span>**
 

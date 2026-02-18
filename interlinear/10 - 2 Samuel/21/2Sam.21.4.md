@@ -32,7 +32,7 @@ The Gibeonites said to him, “We need no silver or gold from Saul or his house,
 | for \<the> you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.3|<< 2 Samuel 21:3]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.5|2 Samuel 21:5 >>]]</td></tr></table>
 
-[^1]: ==K==: to me  | **<big>[[H9030|י]]</big><big>[[H9005|לִ]]</big> ** | l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> 
-[^2]: ==K==: to me  | **<big>[[H9030|י]]</big><big>[[H9005|לִ]]</big> ** | l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>לָ֜יּ</big></span>**
+[^1]: to me  | **<big>[[H9030|י]]</big><big>[[H9005|לִ]]</big> ** | l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^2]: to me  | **<big>[[H9030|י]]</big><big>[[H9005|לִ]]</big> ** | l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>לָ֜יּ</big></span>**
 

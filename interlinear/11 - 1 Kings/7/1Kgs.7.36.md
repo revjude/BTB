@@ -23,7 +23,7 @@ He engraved cherubim, lions, and palm trees on the surfaces of the supports and 
 | [were] all around  |**<big>&#8207;[[H5439G\|סָבִֽיב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sa.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.35|<< 1 Kings 7:35]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.37|1 Kings 7:37 >>]]</td></tr></table>
 
-[^1]: ==K==: \<and> rims its  | **<big>[[H9024|הָ]]</big><big>[[H4526|מִסְגְּרֹתֶי]]</big><big>[[H9002|וּ]]</big> ** | va.<small><sup>[[HC]]</sup></small> mis.ge.ro.tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> 
-[^2]: ==K==: \<and> rims its  | **<big>[[H9024|הָ]]</big><big>[[H4526|מִסְגְּרֹתֶי]]</big><big>[[H9002|וּ]]</big> ** | va.<small><sup>[[HC]]</sup></small> mis.ge.ro.tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>ומִסְגְּרֹתֶ֔י/הָ</big></span>**
+[^1]: \<and> rims its  | **<big>[[H9024|הָ]]</big><big>[[H4526|מִסְגְּרֹתֶי]]</big><big>[[H9002|וּ]]</big> ** | va.<small><sup>[[HC]]</sup></small> mis.ge.ro.tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | K
+[^2]: \<and> rims its  | **<big>[[H9024|הָ]]</big><big>[[H4526|מִסְגְּרֹתֶי]]</big><big>[[H9002|וּ]]</big> ** | va.<small><sup>[[HC]]</sup></small> mis.ge.ro.tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>ומִסְגְּרֹתֶ֔י/הָ</big></span>**
 

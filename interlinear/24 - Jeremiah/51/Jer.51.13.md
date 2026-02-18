@@ -24,6 +24,6 @@ You who dwell by many waters, rich in treasures, your end has come; the thread o
 | cutting off your  |**<big>&#8207;[[H1215\|בִּצְעֵֽ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| bitz.'E<small><sup>[[HVqcc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.12|<< Jeremiah 51:12]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.14|Jeremiah 51:14 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>שֹׁכַנְתְּי֙</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>שֹׁכַנְתִּי</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>שֹׁכַנְתְּי֙</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>שֹׁכַנְתִּי</big></span>**
 

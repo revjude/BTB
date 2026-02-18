@@ -21,5 +21,5 @@ You drink wine by the bowlful and anoint yourselves with the finest oils, but yo
 | Joseph  |**<big>&#8207;[[H3130G\|יוֹסֵֽף]]&#8207; </big>**[^1] | yo.Sef<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.6.5|<< Amos 6:5]]</td><td align="center" style="border:none;">[[Amos.6|Amos 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.6.7|Amos 6:7 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>יוֹסֵֽף\׃</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>יוֹסֵֽף\׃</big></span>**
 

@@ -32,7 +32,7 @@ O house of David, this is what the LORD says: ‘Administer justice every mornin
 | deeds your  [^2]|**<big>&#8207;[[H4611\|מַעַלְלֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | ma.'a.lei.<small><sup>[[HNcmpc]]</sup></small> khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.21.11|<< Jeremiah 21:11]]</td><td align="center" style="border:none;">[[Jer.21|Jeremiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.21.13|Jeremiah 21:13 >>]]</td></tr></table>
 
-[^1]: ==K==: deeds their  | **<big>[[H9016|׃]]</big><big>[[H9028|הֶם]]</big><big>[[H4611|מַעַלְלֵי]]</big> ** | ma.'a.lei.<small><sup>[[HNcmpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> 
-[^2]: ==K==: deeds their  | **<big>[[H9016|׃]]</big><big>[[H9028|הֶם]]</big><big>[[H4611|מַעַלְלֵי]]</big> ** | ma.'a.lei.<small><sup>[[HNcmpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>מַעַלְלֵיהֶֽם\׃</big></span>**
+[^1]: deeds their  | **<big>[[H9016|׃]]</big><big>[[H9028|הֶם]]</big><big>[[H4611|מַעַלְלֵי]]</big> ** | ma.'a.lei.<small><sup>[[HNcmpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^2]: deeds their  | **<big>[[H9016|׃]]</big><big>[[H9028|הֶם]]</big><big>[[H4611|מַעַלְלֵי]]</big> ** | ma.'a.lei.<small><sup>[[HNcmpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>מַעַלְלֵיהֶֽם\׃</big></span>**
 

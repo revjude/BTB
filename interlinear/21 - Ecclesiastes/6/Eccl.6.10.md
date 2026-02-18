@@ -25,7 +25,7 @@ Whatever exists was named long ago, and it is known what man is; but he cannot c
 | more than him  |**<big>&#8207;[[H4480A\|מִמֶּֽ]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.Me.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.6.9|<< Ecclesiastes 6:9]]</td><td align="center" style="border:none;">[[Eccl.6|Ecclesiastes 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.6.11|Ecclesiastes 6:11 >>]]</td></tr></table>
 
-[^1]: ==K==: [one] who to make mighty  | **<big>[[H8630|הַתְקִיף]]</big><big>[[H9007|שֶׁ]]</big> ** | she.<small><sup>[[HTr]]</sup></small> hat.kif<small><sup>[[HVhaa]]</sup></small> 
-[^2]: ==K==: [one] who to make mighty  | **<big>[[H8630|הַתְקִיף]]</big><big>[[H9007|שֶׁ]]</big> ** | she.<small><sup>[[HTr]]</sup></small> hat.kif<small><sup>[[HVhaa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>שֶׁהתַּקִּ֖יף</big></span>**
+[^1]: [one] who to make mighty  | **<big>[[H8630|הַתְקִיף]]</big><big>[[H9007|שֶׁ]]</big> ** | she.<small><sup>[[HTr]]</sup></small> hat.kif<small><sup>[[HVhaa]]</sup></small> | K
+[^2]: [one] who to make mighty  | **<big>[[H8630|הַתְקִיף]]</big><big>[[H9007|שֶׁ]]</big> ** | she.<small><sup>[[HTr]]</sup></small> hat.kif<small><sup>[[HVhaa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>שֶׁהתַּקִּ֖יף</big></span>**
 

@@ -20,7 +20,7 @@ And the two men turned away and went toward Sodom, but Abraham remained standing
 | Yahweh  [^3]|**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad (Scribal Traditions)">L(S)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.21|<< Genesis 18:21]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.23|Genesis 18:23 >>]]</td></tr></table>
 
-[^1]: ==S==: and Yahweh  | **<big>[[H9016|׃]]</big><big>[[H3068G|הוָה]]</big><big>[[H9002|יְ]]</big> ** | Yah.weh<small><sup>[[HC]]</sup></small> 
-[^2]: ==S==: and Yahweh  | **<big>[[H9016|׃]]</big><big>[[H3068G|הוָה]]</big><big>[[H9002|יְ]]</big> ** | Yah.weh<small><sup>[[HC]]</sup></small> 
-[^3]: ==S==: Abraham  | **<big>[[H0085|אַבְרָהָם]]</big> ** | 'Av.ra.Ham<small><sup>[[HC]]</sup></small> 
+[^1]: and Yahweh  | **<big>[[H9016|׃]]</big><big>[[H3068G|הוָה]]</big><big>[[H9002|יְ]]</big> ** | Yah.weh<small><sup>[[HC]]</sup></small> | S
+[^2]: and Yahweh  | **<big>[[H9016|׃]]</big><big>[[H3068G|הוָה]]</big><big>[[H9002|יְ]]</big> ** | Yah.weh<small><sup>[[HC]]</sup></small> | S
+[^3]: Abraham  | **<big>[[H0085|אַבְרָהָם]]</big> ** | 'Av.ra.Ham<small><sup>[[HC]]</sup></small> | S
 

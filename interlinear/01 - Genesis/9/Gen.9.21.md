@@ -17,7 +17,7 @@ But when he drank some of its wine, he became drunk and uncovered himself inside
 | tent his  [^2]|**<big>&#8207;[[H0168G\|אָהֳלֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | 'o.ho.L<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.20|<< Genesis 9:20]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.22|Genesis 9:22 >>]]</td></tr></table>
 
-[^1]: ==K==: tent his  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H0168G|אָהֳלֹ]]</big> ** | 'o.ho.Lo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: tent his  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H0168G|אָהֳלֹ]]</big> ** | 'o.ho.Lo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>אָהֳלֹֽה\׃</big></span>**
+[^1]: tent his  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H0168G|אָהֳלֹ]]</big> ** | 'o.ho.Lo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: tent his  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H0168G|אָהֳלֹ]]</big> ** | 'o.ho.Lo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>אָהֳלֹֽה\׃</big></span>**
 

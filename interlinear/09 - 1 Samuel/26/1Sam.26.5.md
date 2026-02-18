@@ -38,7 +38,7 @@ Then David set out and went to the place where Saul had camped. He saw the place
 | around him  [^2]|**<big>&#8207;[[H5439G\|סְבִיבֹתָֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | se.vi.vo.to<small><sup>[[HNcbpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.4|<< 1 Samuel 26:4]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.6|1 Samuel 26:6 >>]]</td></tr></table>
 
-[^1]: ==K==: around him  | **<big>[[H9016|׃]]</big><big>[[H9033|וֹ]]</big><big>[[H5439G|סְבִיבֹת]]</big> ** | se.vi.vo.to<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[Sp3bs]]</sup></small> 
-[^2]: ==K==: around him  | **<big>[[H9016|׃]]</big><big>[[H9033|וֹ]]</big><big>[[H5439G|סְבִיבֹת]]</big> ** | se.vi.vo.to<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[Sp3bs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>סְבִיבֹתָֽו\׃</big></span>**
+[^1]: around him  | **<big>[[H9016|׃]]</big><big>[[H9033|וֹ]]</big><big>[[H5439G|סְבִיבֹת]]</big> ** | se.vi.vo.to<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> | K
+[^2]: around him  | **<big>[[H9016|׃]]</big><big>[[H9033|וֹ]]</big><big>[[H5439G|סְבִיבֹת]]</big> ** | se.vi.vo.to<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>סְבִיבֹתָֽו\׃</big></span>**
 

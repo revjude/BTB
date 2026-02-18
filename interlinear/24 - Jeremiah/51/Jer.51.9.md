@@ -31,6 +31,6 @@ We would have healed Babylon, but she is not healed: forsake her, and let us go 
 | [the] clouds  |**<big>&#8207;[[H7834\|שְׁחָקִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| she.cha.Kim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.8|<< Jeremiah 51:8]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.10|Jeremiah 51:10 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>רִפִּ֣אנוּ</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>רִפִּאנוּ</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>רִפִּ֣אנוּ</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>רִפִּאנוּ</big></span>**
 

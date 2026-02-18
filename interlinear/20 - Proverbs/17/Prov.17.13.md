@@ -22,6 +22,6 @@ If anyone returns evil for good, evil will never leave his house.
 | from house his  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1004B\|בֵּיתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> bei.T<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.12|<< Proverbs 17:12]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.14|Proverbs 17:14 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>תָמ֥יּשׁ</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>תָמִישׁ</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>תָמ֥יּשׁ</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>תָמִישׁ</big></span>**
 

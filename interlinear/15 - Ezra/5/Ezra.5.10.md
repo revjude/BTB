@@ -21,5 +21,5 @@ We also asked for their names, so that we could write down the names of their le
 | [are] at heads their  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H7217\|רָאשֵׁי]]&#8207;&#8207;[[H9028\|הֹֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[AR]]</sup></small> ra.shei.Ho<small><sup>[[ANcmpc]]</sup></small> m<small><sup>[[ASp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.9|<< Ezra 5:9]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.11|Ezra 5:11 >>]]</td></tr></table>
 
-[^1]: ==BH== spelled: **<span class="ashebrew"><big>לְהֹ֖ם</big></span>**
+[^1]: BH spelled: **<span class="ashebrew"><big>לְהֹ֖ם</big></span>**
 

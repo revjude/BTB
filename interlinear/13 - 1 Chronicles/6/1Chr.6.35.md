@@ -18,6 +18,6 @@ the son of Zuph, the son of Elkanah, the son of Mahath, the son of Amasai,
 | Amasai  |**<big>&#8207;[[H6022G\|עֲמָשָֽׂי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.ma.Sai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.34|<< 1 Chronicles 6:34]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.36|1 Chronicles 6:36 >>]]</td></tr></table>
 
-[^1]: ==K==: Ziph  | **<big>[[H6689G|צִיף]]</big> ** | tzif<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>ציּף֙</big></span>**
+[^1]: Ziph  | **<big>[[H6689G|צִיף]]</big> ** | tzif<small><sup>[[HNpm]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>ציּף֙</big></span>**
 

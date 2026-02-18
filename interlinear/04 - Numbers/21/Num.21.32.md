@@ -22,7 +22,7 @@ After Moses had sent spies to Jazer, Israel captured its villages and drove out 
 | [was] there  |**<big>&#8207;[[H8033G\|שָֽׁם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.31|<< Numbers 21:31]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.33|Numbers 21:33 >>]]</td></tr></table>
 
-[^1]: ==K==: and it possessed  | **<big>[[H3423H|יִּירַשׁ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yi.resh<small><sup>[[HVqw3ms]]</sup></small> 
-[^2]: ==K==: and it possessed  | **<big>[[H3423H|יִּירַשׁ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yi.resh<small><sup>[[HVqw3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וַיֹּ֖ירֶשׁ</big></span>**
+[^1]: and it possessed  | **<big>[[H3423H|יִּירַשׁ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yi.resh<small><sup>[[HVqw3ms]]</sup></small> | K
+[^2]: and it possessed  | **<big>[[H3423H|יִּירַשׁ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yi.resh<small><sup>[[HVqw3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וַיֹּ֖ירֶשׁ</big></span>**
 

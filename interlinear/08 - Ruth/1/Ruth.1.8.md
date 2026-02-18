@@ -28,6 +28,6 @@ Then Naomi said to her two daughters-in-law, “Go back, each of you to your mot
 | and with me  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5973A\|עִמָּדִֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'i.ma.D<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.7|<< Ruth 1:7]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.9|Ruth 1:9 >>]]</td></tr></table>
 
-[^1]: ==K==: he will deal  | **<big>[[H6213A|יַעֲשֶׂה]]</big> ** | ya.'a.seh<small><sup>[[HVqi3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יַ֣עַשׂה</big></span>**
+[^1]: he will deal  | **<big>[[H6213A|יַעֲשֶׂה]]</big> ** | ya.'a.seh<small><sup>[[HVqi3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יַ֣עַשׂה</big></span>**
 

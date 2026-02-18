@@ -33,6 +33,6 @@ At that time, saith the LORD, they shall bring out the bones of the kings of Jud
 | from graves their  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6913\|קִּבְרֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> kiv.rei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.34|<< Jeremiah 7:34]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.2|Jeremiah 8:2 >>]]</td></tr></table>
 
-[^1]: ==K==: and people will bring out  | **<big>[[H3318H|יֹצִיאוּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yo.tzi.'u<small><sup>[[HVhu3mp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>וֹיצִ֣יאוּ</big></span>**
+[^1]: and people will bring out  | **<big>[[H3318H|יֹצִיאוּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yo.tzi.'u<small><sup>[[HVhu3mp]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>וֹיצִ֣יאוּ</big></span>**
 

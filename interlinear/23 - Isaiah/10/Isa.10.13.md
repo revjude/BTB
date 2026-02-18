@@ -26,8 +26,8 @@ For he says: ‘By the strength of my hand I have done this, and by my wisdom, f
 | inhabitants  |**<big>&#8207;[[H3427\|יוֹשְׁבִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yo.she.Vim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.12|<< Isaiah 10:12]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.14|Isaiah 10:14 >>]]</td></tr></table>
 
-[^1]: ==K==: and treasures their  | **<big>[[H9028|הֶם]]</big><big>[[H6264|עֲתִידֹתֵי]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.ti.do.tei.<small><sup>[[HNcfpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> 
-[^2]: ==K==: and treasures their  | **<big>[[H9028|הֶם]]</big><big>[[H6264|עֲתִידֹתֵי]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.ti.do.tei.<small><sup>[[HNcfpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> 
-[^3]: ==K==: and treasures their  | **<big>[[H9028|הֶם]]</big><big>[[H6264|עֲתִידֹתֵי]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.ti.do.tei.<small><sup>[[HNcfpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וַעֲתיּדֹֽתֵי/הֶם֙</big></span>**
+[^1]: and treasures their  | **<big>[[H9028|הֶם]]</big><big>[[H6264|עֲתִידֹתֵי]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.ti.do.tei.<small><sup>[[HNcfpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^2]: and treasures their  | **<big>[[H9028|הֶם]]</big><big>[[H6264|עֲתִידֹתֵי]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.ti.do.tei.<small><sup>[[HNcfpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^3]: and treasures their  | **<big>[[H9028|הֶם]]</big><big>[[H6264|עֲתִידֹתֵי]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.ti.do.tei.<small><sup>[[HNcfpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וַעֲתיּדֹֽתֵי/הֶם֙</big></span>**
 

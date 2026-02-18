@@ -24,6 +24,6 @@ And the servants also of Huram, and the servants of Solomon, which brought gold 
 | precious  |**<big>&#8207;[[H3368\|יְקָרָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.ka.Rah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.9|<< 2 Chronicles 9:9]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.11|2 Chronicles 9:11 >>]]</td></tr></table>
 
-[^1]: ==K==: Hiram  | **<big>[[H2438G|חִירָם]]</big> ** | chi.ram<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>חיּרָם֙</big></span>**
+[^1]: Hiram  | **<big>[[H2438G|חִירָם]]</big> ** | chi.ram<small><sup>[[HNpm]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>חיּרָם֙</big></span>**
 

@@ -27,6 +27,6 @@ Just as the LORD was with my lord the king, so may He be with Solomon and make h
 | David  |**<big>&#8207;[[H1732\|דָּוִֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.36|<< 1 Kings 1:36]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.38|1 Kings 1:38 >>]]</td></tr></table>
 
-[^1]: ==K==: may he be  | **<big>[[H1961|יְהִי]]</big> ** | ye.hi<small><sup>[[HVqj3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יִֽהְיֶ֣</big></span>**
+[^1]: may he be  | **<big>[[H1961|יְהִי]]</big> ** | ye.hi<small><sup>[[HVqj3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יִֽהְיֶ֣</big></span>**
 

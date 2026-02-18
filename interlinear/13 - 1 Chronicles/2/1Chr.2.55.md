@@ -24,6 +24,6 @@ and the clans of the scribes who lived at Jabez—the Tirathites, Shimeathites, 
 | Rechab  |**<big>&#8207;[[H7394H\|רֵכָֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| re.Khav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.54|<< 1 Chronicles 2:54]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3.1|1 Chronicles 3:1 >>]]</td></tr></table>
 
-[^1]: ==K==: [who] they dwelt  | **<big>[[H3427|יָשְׁבוּ]]</big> ** | yo.she.vu<small><sup>[[HVqp3cp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יֹשְׁבֵ֣ו</big></span>**
+[^1]: [who] they dwelt  | **<big>[[H3427|יָשְׁבוּ]]</big> ** | yo.she.vu<small><sup>[[HVqp3cp]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יֹשְׁבֵ֣ו</big></span>**
 

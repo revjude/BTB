@@ -22,6 +22,6 @@ Let his mind be changed from that of a man, and let him be given the mind of a b
 | over it  |**<big>&#8207;[[H5922\|עֲלֽוֹ]]&#8207;&#8207;[[H9033\|הִי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| a.Lo.<small><sup>[[AR]]</sup></small> hi<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.15|<< Daniel 4:15]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.17|Daniel 4:17 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>אֲנָושָׁ֣א</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>אֱנוֹשָׁא</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>אֲנָושָׁ֣א</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>אֱנוֹשָׁא</big></span>**
 

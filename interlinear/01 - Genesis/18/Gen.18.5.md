@@ -28,5 +28,5 @@ And I will bring a bit of bread so that you may refresh yourselves. This is why 
 | you have said  |**<big>&#8207;[[H1696G\|דִּבַּֽרְתָּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| di.Bar.ta<small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.4|<< Genesis 18:4]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.6|Genesis 18:6 >>]]</td></tr></table>
 
-[^1]: ==S==: and after  | **<big>[[H0310A|אַחַ֣ר]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'a.Char<small><sup>[[HAcmsa]]</sup></small> 
+[^1]: and after  | **<big>[[H0310A|אַחַ֣ר]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'a.Char<small><sup>[[HAcmsa]]</sup></small> | S
 

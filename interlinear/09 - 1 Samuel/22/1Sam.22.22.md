@@ -30,6 +30,6 @@ Then David said to Abiathar, “I knew that Doeg the Edomite was there that day,
 | father your  |**<big>&#8207;[[H0001G\|אָבִֽי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Vi.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.22.21|<< 1 Samuel 22:21]]</td><td align="center" style="border:none;">[[1Sam.22|1 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.22.23|1 Samuel 22:23 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>דּוֹיֵ֣ג</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>דּוֹיֵג</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>דּוֹיֵ֣ג</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>דּוֹיֵג</big></span>**
 

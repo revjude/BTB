@@ -29,10 +29,10 @@ That night David and Abishai came to the troops, and Saul was lying there asleep
 | around him  [^5]|**<big>&#8207;[[H5439G\|סְבִיבֹתָֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**[^6] | se.vi.vo.to<small><sup>[[HNcbpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.6|<< 1 Samuel 26:6]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.8|1 Samuel 26:8 >>]]</td></tr></table>
 
-[^1]: ==K==: [the] place of head his  | **<big>[[H9023|וֹ]]</big><big>[[H4763|מְרַאֲשֹׁת]]</big> ** | me.ra.'a.sho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: [the] place of head his  | **<big>[[H9023|וֹ]]</big><big>[[H4763|מְרַאֲשֹׁת]]</big> ** | me.ra.'a.sho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>מְרַאֲשֹׁתָ֑ו</big></span>**
-[^4]: ==K==: around him  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H9033|וֹ]]</big><big>[[H5439G|סְבִיבֹת]]</big> ** | se.vi.vo.to<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[Sp3bs]]</sup></small> 
-[^5]: ==K==: around him  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H9033|וֹ]]</big><big>[[H5439G|סְבִיבֹת]]</big> ** | se.vi.vo.to<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[Sp3bs]]</sup></small> 
-[^6]: ==L== spelled: **<span class="ashebrew"><big>סְבִיבֹתָֽו\׃\ \ס</big></span>**
+[^1]: [the] place of head his  | **<big>[[H9023|וֹ]]</big><big>[[H4763|מְרַאֲשֹׁת]]</big> ** | me.ra.'a.sho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: [the] place of head his  | **<big>[[H9023|וֹ]]</big><big>[[H4763|מְרַאֲשֹׁת]]</big> ** | me.ra.'a.sho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>מְרַאֲשֹׁתָ֑ו</big></span>**
+[^4]: around him  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H9033|וֹ]]</big><big>[[H5439G|סְבִיבֹת]]</big> ** | se.vi.vo.to<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> | K
+[^5]: around him  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H9033|וֹ]]</big><big>[[H5439G|סְבִיבֹת]]</big> ** | se.vi.vo.to<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> | K
+[^6]: L spelled: **<span class="ashebrew"><big>סְבִיבֹתָֽו\׃\ \ס</big></span>**
 

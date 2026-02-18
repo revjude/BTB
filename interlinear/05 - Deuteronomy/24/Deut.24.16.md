@@ -23,5 +23,5 @@ Fathers shall not be put to death for their children, nor children for their fat
 | they will be put to death  |**<big>&#8207;[[H4191\|יוּמָֽתוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yu.Ma.tu<small><sup>[[HVHi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.24.15|<< Deuteronomy 24:15]]</td><td align="center" style="border:none;">[[Deut.24|Deuteronomy 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.24.17|Deuteronomy 24:17 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>אִ֥ישׁ</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>אִ֥ישׁ</big></span>**
 

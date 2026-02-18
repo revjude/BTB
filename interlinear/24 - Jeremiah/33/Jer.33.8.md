@@ -25,7 +25,7 @@ And I will cleanse them from all the iniquity they have committed against Me, an
 | against \<the> me  |**<big>&#8207;[[H9003\|בִֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| V<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.7|<< Jeremiah 33:7]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.9|Jeremiah 33:9 >>]]</td></tr></table>
 
-[^1]: ==K==: \<to> all  | **<big>[[H3605|כוֹל]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> khol-<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==K==: \<to> all  | **<big>[[H3605|כוֹל]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> khol-<small><sup>[[HNcbsc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>לְכָול\־</big></span>**
+[^1]: \<to> all  | **<big>[[H3605|כוֹל]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> khol-<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: \<to> all  | **<big>[[H3605|כוֹל]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> khol-<small><sup>[[HNcbsc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>לְכָול\־</big></span>**
 

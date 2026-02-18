@@ -18,6 +18,6 @@ For the choirmaster. Of David. In the LORD I take refuge. How then can you say t
 | a bird  |**<big>&#8207;[[H6833\|צִפּֽוֹר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tzi.Por<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.11.0|<< Psalms 11:0]]</td><td align="center" style="border:none;">[[Ps.11|Psalms 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.11.2|Psalms 11:2 >>]]</td></tr></table>
 
-[^1]: ==K==: take flight  | **<big>[[H5110|נוּדוּ]]</big> ** | nu.du<small><sup>[[HVqv2mp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>נ֝֗וּדִו</big></span>**
+[^1]: take flight  | **<big>[[H5110|נוּדוּ]]</big> ** | nu.du<small><sup>[[HVqv2mp]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>נ֝֗וּדִו</big></span>**
 

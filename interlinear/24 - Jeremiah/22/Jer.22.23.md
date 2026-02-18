@@ -21,8 +21,8 @@ O inhabitant of Lebanon, nestled in the cedars, how you will groan when pangs of
 | like \<the> [woman] giving birth  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H3205\|יֹּלֵדָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ka<small><sup>[[HRd]]</sup></small> i.yo.le.Dah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.22|<< Jeremiah 22:22]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.24|Jeremiah 22:24 >>]]</td></tr></table>
 
-[^1]: ==K==: O [you who] dwell  | **<big>[[H3427|יֹשַׁבְתִּי]]</big> ** | yo.shav.ti<small><sup>[[HVqrfsc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יֹשַׁבְתְּי֙</big></span>**
-[^3]: ==L== spelled: **<span class="ashebrew"><big>מְקֻנַּ֖נְתְּי</big></span>**
-[^4]: ==K== spelled: **<span class="ashebrew"><big>מְקֻנַּנְתִּי</big></span>**
+[^1]: O [you who] dwell  | **<big>[[H3427|יֹשַׁבְתִּי]]</big> ** | yo.shav.ti<small><sup>[[HVqrfsc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יֹשַׁבְתְּי֙</big></span>**
+[^3]: L spelled: **<span class="ashebrew"><big>מְקֻנַּ֖נְתְּי</big></span>**
+[^4]: K spelled: **<span class="ashebrew"><big>מְקֻנַּנְתִּי</big></span>**
 

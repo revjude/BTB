@@ -29,7 +29,7 @@ These are the ones who crossed the Jordan in the first month when it was overflo
 | and to the west  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H4628\|מַּעֲרָֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> La.<small><sup>[[HRd]]</sup></small> ma.'a.Rav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.14|<< 1 Chronicles 12:14]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.16|1 Chronicles 12:16 >>]]</td></tr></table>
 
-[^1]: ==K==: banks its  | **<big>[[H9023|ו]]</big><big>[[H1428|גִּדיֹתָי]]</big> ** | gi.d.yo.ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: banks its  | **<big>[[H9023|ו]]</big><big>[[H1428|גִּדיֹתָי]]</big> ** | gi.d.yo.ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>גְּדֹיתָ֑יו</big></span>**
+[^1]: banks its  | **<big>[[H9023|ו]]</big><big>[[H1428|גִּדיֹתָי]]</big> ** | gi.d.yo.ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: banks its  | **<big>[[H9023|ו]]</big><big>[[H1428|גִּדיֹתָי]]</big> ** | gi.d.yo.ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>גְּדֹיתָ֑יו</big></span>**
 

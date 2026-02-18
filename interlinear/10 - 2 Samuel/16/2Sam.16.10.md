@@ -31,8 +31,8 @@ But the king replied, “What have I to do with you, O sons of Zeruiah? If he cu
 | thus  |**<big>&#8207;[[H3651C\|כֵּֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.9|<< 2 Samuel 16:9]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.11|2 Samuel 16:11 >>]]</td></tr></table>
 
-[^1]: ==K==: that  | **<big>[[H3588A|כִּי]]</big> ** | ki<small><sup>[[HTc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>כֹּ֣י</big></span>**
-[^3]: ==K==: and for  | **<big>[[H3588A|כִי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> khi<small><sup>[[HTc]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וכִּ֤י</big></span>**
+[^1]: that  | **<big>[[H3588A|כִּי]]</big> ** | ki<small><sup>[[HTc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>כֹּ֣י</big></span>**
+[^3]: and for  | **<big>[[H3588A|כִי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> khi<small><sup>[[HTc]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וכִּ֤י</big></span>**
 

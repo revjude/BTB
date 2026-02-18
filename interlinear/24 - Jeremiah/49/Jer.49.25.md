@@ -17,6 +17,6 @@ How is the city of praise not forsaken, the town that brings Me joy?
 | joy my  |**<big>&#8207;[[H4885\|מְשׂוֹשִֽׂ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.so.S<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.24|<< Jeremiah 49:24]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.26|Jeremiah 49:26 >>]]</td></tr></table>
 
-[^1]: ==K==: praise  | **<big>[[H8416|תְּהִלָּה]]</big> ** | te.hi.lah<small><sup>[[HNcfsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>תְּהִלָּ֑ה</big></span>**
+[^1]: praise  | **<big>[[H8416|תְּהִלָּה]]</big> ** | te.hi.lah<small><sup>[[HNcfsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>תְּהִלָּ֑ה</big></span>**
 

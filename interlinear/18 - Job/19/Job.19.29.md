@@ -21,6 +21,6 @@ then you should fear the sword yourselves, because wrath brings punishment by th
 | that a judgment  |**<big>&#8207;[[H9007\|שַׁ]]&#8207;&#8207;[[H1779\|דּֽוּן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**[^1] [^2] | sha.<small><sup>[[HTr]]</sup></small> din<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.28|<< Job 19:28]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.1|Job 20:1 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>שַׁדּֽיּן\׃\ \ס</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>שַׁדִּין\׃\ \ס</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>שַׁדּֽיּן\׃\ \ס</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>שַׁדִּין\׃\ \ס</big></span>**
 

@@ -25,6 +25,6 @@ How shall I pardon thee for this? thy children have forsaken me, and sworn by [t
 | they cut themselves  |**<big>&#8207;[[H1413\|יִתְגֹּדָֽדוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yit.go.Da.du<small><sup>[[HVti3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.6|<< Jeremiah 5:6]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.8|Jeremiah 5:8 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>אֶֽסְלַֽוח\־</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>אֶסְלוֹחַ</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>אֶֽסְלַֽוח\־</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>אֶסְלוֹחַ</big></span>**
 

@@ -22,8 +22,8 @@ Then the astrologers answered the king in Aramaic, “O king, may you live forev
 | we will declare  |**<big>&#8207;[[H2324\|נְחַוֵּֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ne.cha.Ve'<small><sup>[[AVpi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.3|<< Daniel 2:3]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.5|Daniel 2:5 >>]]</td></tr></table>
 
-[^1]: ==K==: to servants your  | **<big>[[H9021|ךְ]]</big><big>[[H5649|עַבְדַּיִ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[AR]]</sup></small> 'av.da.yi<small><sup>[[ANcmpc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> 
-[^2]: ==K==: to servants your  | **<big>[[H9021|ךְ]]</big><big>[[H5649|עַבְדַּיִ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[AR]]</sup></small> 'av.da.yi<small><sup>[[ANcmpc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> 
-[^3]: ==K==: to servants your  | **<big>[[H9021|ךְ]]</big><big>[[H5649|עַבְדַּיִ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[AR]]</sup></small> 'av.da.yi<small><sup>[[ANcmpc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="asaramaic"><big>לְעַבְדָ֖י/ךְ</big></span>**
+[^1]: to servants your  | **<big>[[H9021|ךְ]]</big><big>[[H5649|עַבְדַּיִ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[AR]]</sup></small> 'av.da.yi<small><sup>[[ANcmpc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> | K
+[^2]: to servants your  | **<big>[[H9021|ךְ]]</big><big>[[H5649|עַבְדַּיִ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[AR]]</sup></small> 'av.da.yi<small><sup>[[ANcmpc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> | K
+[^3]: to servants your  | **<big>[[H9021|ךְ]]</big><big>[[H5649|עַבְדַּיִ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[AR]]</sup></small> 'av.da.yi<small><sup>[[ANcmpc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> | K
+[^4]: L spelled: **<span class="asaramaic"><big>לְעַבְדָ֖י/ךְ</big></span>**
 

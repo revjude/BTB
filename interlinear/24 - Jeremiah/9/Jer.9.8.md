@@ -23,6 +23,6 @@ Their tongues are deadly arrows; they speak deception. With his mouth a man spea
 | ambush his  |**<big>&#8207;[[H0696\|אָרְבּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.re.B<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.7|<< Jeremiah 9:7]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9.9|Jeremiah 9:9 >>]]</td></tr></table>
 
-[^1]: ==K==: slaughtering  | **<big>[[H7819A|שׁוֹחֵט]]</big> ** | sho.chet<small><sup>[[HVqrmsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>שָׁוחֻ֛ט</big></span>**
+[^1]: slaughtering  | **<big>[[H7819A|שׁוֹחֵט]]</big> ** | sho.chet<small><sup>[[HVqrmsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>שָׁוחֻ֛ט</big></span>**
 

@@ -18,6 +18,6 @@ Those who repay my good with evil attack me for pursuing the good.
 | good  |**<big>&#8207;[[H2896A\|טֽוֹב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.38.19|<< Psalms 38:19]]</td><td align="center" style="border:none;">[[Ps.38|Psalms 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.38.21|Psalms 38:21 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>רָֽדְופִי\־</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>רְדוֹפִי</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>רָֽדְופִי\־</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>רְדוֹפִי</big></span>**
 

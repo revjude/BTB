@@ -23,5 +23,5 @@ What has been will be again, and what has been done will be done again; there is
 | the sun  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8121\|שָּֽׁמֶשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Sha.mesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.1.8|<< Ecclesiastes 1:8]]</td><td align="center" style="border:none;">[[Eccl.1|Ecclesiastes 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.1.10|Ecclesiastes 1:10 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>שֶּׁנַּֽעֲשָׂ֔ה</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>שֶּׁנַּֽעֲשָׂ֔ה</big></span>**
 

@@ -17,7 +17,7 @@ Be not far from me, O God. Hurry, O my God, to help me.
 | make haste !  [^2]|**<big>&#8207;[[H2363A\|חֽוּשָׁ]]&#8207;&#8207;[[H9012\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | Chu.sha<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.71.11|<< Psalms 71:11]]</td><td align="center" style="border:none;">[[Ps.71|Psalms 71]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.13|Psalms 71:13 >>]]</td></tr></table>
 
-[^1]: ==K==: make haste !  | **<big>[[H9016|׃]]</big><big>[[H9012|ה]]</big><big>[[H2439|חִישָׁ]]</big> ** | Chu.sha<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> 
-[^2]: ==K==: make haste !  | **<big>[[H9016|׃]]</big><big>[[H9012|ה]]</big><big>[[H2439|חִישָׁ]]</big> ** | Chu.sha<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>חֽיּשָׁה\׃</big></span>**
+[^1]: make haste !  | **<big>[[H9016|׃]]</big><big>[[H9012|ה]]</big><big>[[H2439|חִישָׁ]]</big> ** | Chu.sha<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | K
+[^2]: make haste !  | **<big>[[H9016|׃]]</big><big>[[H9012|ה]]</big><big>[[H2439|חִישָׁ]]</big> ** | Chu.sha<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>חֽיּשָׁה\׃</big></span>**
 

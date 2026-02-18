@@ -23,9 +23,9 @@ Then the man clothed in linen with the writing kit at his side reported back, �
 | you commanded me  |**<big>&#8207;[[H6680\|צִוִּיתָֽ]]&#8207;&#8207;[[H9030\|נִי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tzi.vi.Ta.<small><sup>[[HVpp2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.9.10|<< Ezekiel 9:10]]</td><td align="center" style="border:none;">[[Ezek.9|Ezekiel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.1|Ezekiel 10:1 >>]]</td></tr></table>
 
-[^1]: ==K==: just as  | **<big>[[H0834D|אֲשֶׁר]]</big><big>[[H9004|כַ]]</big> ** | kha.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> 
-[^2]: ==K==: just as  | **<big>[[H0834D|אֲשֶׁר]]</big><big>[[H9004|כַ]]</big> ** | kha.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> 
-[^3]: ==K==: just as  | **<big>[[H0834D|אֲשֶׁר]]</big><big>[[H9004|כַ]]</big> ** | kha.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> 
-[^4]: ==K==: just as  | **<big>[[H0834D|אֲשֶׁר]]</big><big>[[H9004|כַ]]</big> ** | kha.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> 
-[^5]: ==L== spelled: **<span class="ashebrew"><big>כְֹּ֖אֲשֶׁ֥ר</big></span>**
+[^1]: just as  | **<big>[[H0834D|אֲשֶׁר]]</big><big>[[H9004|כַ]]</big> ** | kha.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | K
+[^2]: just as  | **<big>[[H0834D|אֲשֶׁר]]</big><big>[[H9004|כַ]]</big> ** | kha.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | K
+[^3]: just as  | **<big>[[H0834D|אֲשֶׁר]]</big><big>[[H9004|כַ]]</big> ** | kha.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | K
+[^4]: just as  | **<big>[[H0834D|אֲשֶׁר]]</big><big>[[H9004|כַ]]</big> ** | kha.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | K
+[^5]: L spelled: **<span class="ashebrew"><big>כְֹּ֖אֲשֶׁ֥ר</big></span>**
 

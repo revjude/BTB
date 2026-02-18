@@ -16,6 +16,6 @@ When I tried to understand all this, it was troublesome in my sight
 | in view my  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H5869I\|עֵינָֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> 'ei.Na<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.15|<< Psalms 73:15]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.17|Psalms 73:17 >>]]</td></tr></table>
 
-[^1]: ==K==: it  | **<big>[[H1931|הִיא]]</big> ** | Hu'<small><sup>[[HPp3fs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>ה֣יּא</big></span>**
+[^1]: it  | **<big>[[H1931|הִיא]]</big> ** | Hu'<small><sup>[[HPp3fs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>ה֣יּא</big></span>**
 

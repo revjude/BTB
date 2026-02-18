@@ -19,6 +19,6 @@ A man of great anger must pay the penalty; if you rescue him, you will have to d
 | you will repeat  |**<big>&#8207;[[H3254G\|תּוֹסִֽף]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| to.Sif<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.18|<< Proverbs 19:18]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.20|Proverbs 19:20 >>]]</td></tr></table>
 
-[^1]: ==K==: a lot of  | **<big>[[H1632|גֹּרַל]]</big> ** | go.ral-<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>גְּֽרָל\־</big></span>**
+[^1]: a lot of  | **<big>[[H1632|גֹּרַל]]</big> ** | go.ral-<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>גְּֽרָל\־</big></span>**
 

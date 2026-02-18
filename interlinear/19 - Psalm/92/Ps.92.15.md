@@ -18,6 +18,6 @@ to proclaim, “The LORD is upright; He is my Rock, and in Him there is no unrig
 | [is] in him  |**<big>&#8207;[[H9003\|בּֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| b<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.92.14|<< Psalms 92:14]]</td><td align="center" style="border:none;">[[Ps.92|Psalms 92]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.93.1|Psalms 93:1 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>עְַלָ֥תָה</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>עֹלָתָה</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>עְַלָ֥תָה</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>עֹלָתָה</big></span>**
 

@@ -30,11 +30,11 @@ So I went out at night through the Valley Gate toward the Well of the Serpent an
 | by \<the> fire  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H0784\|אֵֽשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.2.12|<< Nehemiah 2:12]]</td><td align="center" style="border:none;">[[Neh.2|Nehemiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.2.14|Nehemiah 2:14 >>]]</td></tr></table>
 
-[^1]: ==B==: \<the> [had been] broken down  | **<big>[[H6555|מפְּרוּצִ֔ים]]</big><big>[[H9009|הֵ֣]]</big> ** | he<small><sup>[[HTd]]</sup></small> m.fe.ru.tzim<small><sup>[[HPp3mp]]</sup></small> 
-[^2]: ==K==: \<the> [had been] broken down  | **<big>[[H6555|מְפֹרוָצִים]]</big><big>[[H9009|הַ]]</big> ** | ha<small><sup>[[HTd]]</sup></small> me.for.va.tzim<small><sup>[[HPp3mp]]</sup></small> 
-[^3]: ==B==: \<the> [had been] broken down  | **<big>[[H6555|מפְּרוּצִ֔ים]]</big><big>[[H9009|הֵ֣]]</big> ** | he<small><sup>[[HTd]]</sup></small> m.fe.ru.tzim<small><sup>[[HPp3mp]]</sup></small> 
-[^4]: ==K==: \<the> [had been] broken down  | **<big>[[H6555|מְפֹרוָצִים]]</big><big>[[H9009|הַ]]</big> ** | ha<small><sup>[[HTd]]</sup></small> me.for.va.tzim<small><sup>[[HPp3mp]]</sup></small> 
-[^5]: ==B==: \<the> [had been] broken down  | **<big>[[H6555|מפְּרוּצִ֔ים]]</big><big>[[H9009|הֵ֣]]</big> ** | he<small><sup>[[HTd]]</sup></small> m.fe.ru.tzim<small><sup>[[HPp3mp]]</sup></small> 
-[^6]: ==K==: \<the> [had been] broken down  | **<big>[[H6555|מְפֹרוָצִים]]</big><big>[[H9009|הַ]]</big> ** | ha<small><sup>[[HTd]]</sup></small> me.for.va.tzim<small><sup>[[HPp3mp]]</sup></small> 
-[^7]: ==L== spelled: **<span class="ashebrew"><big>הֵ֣מ\׀/פְּרוּצִ֔ים</big></span>**
+[^1]: \<the> [had been] broken down  | **<big>[[H6555|מפְּרוּצִ֔ים]]</big><big>[[H9009|הֵ֣]]</big> ** | he<small><sup>[[HTd]]</sup></small> m.fe.ru.tzim<small><sup>[[HPp3mp]]</sup></small> | B
+[^2]: \<the> [had been] broken down  | **<big>[[H6555|מְפֹרוָצִים]]</big><big>[[H9009|הַ]]</big> ** | ha<small><sup>[[HTd]]</sup></small> me.for.va.tzim<small><sup>[[HPp3mp]]</sup></small> | K
+[^3]: \<the> [had been] broken down  | **<big>[[H6555|מפְּרוּצִ֔ים]]</big><big>[[H9009|הֵ֣]]</big> ** | he<small><sup>[[HTd]]</sup></small> m.fe.ru.tzim<small><sup>[[HPp3mp]]</sup></small> | B
+[^4]: \<the> [had been] broken down  | **<big>[[H6555|מְפֹרוָצִים]]</big><big>[[H9009|הַ]]</big> ** | ha<small><sup>[[HTd]]</sup></small> me.for.va.tzim<small><sup>[[HPp3mp]]</sup></small> | K
+[^5]: \<the> [had been] broken down  | **<big>[[H6555|מפְּרוּצִ֔ים]]</big><big>[[H9009|הֵ֣]]</big> ** | he<small><sup>[[HTd]]</sup></small> m.fe.ru.tzim<small><sup>[[HPp3mp]]</sup></small> | B
+[^6]: \<the> [had been] broken down  | **<big>[[H6555|מְפֹרוָצִים]]</big><big>[[H9009|הַ]]</big> ** | ha<small><sup>[[HTd]]</sup></small> me.for.va.tzim<small><sup>[[HPp3mp]]</sup></small> | K
+[^7]: L spelled: **<span class="ashebrew"><big>הֵ֣מ\׀/פְּרוּצִ֔ים</big></span>**
 

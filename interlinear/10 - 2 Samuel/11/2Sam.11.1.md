@@ -36,7 +36,7 @@ In the spring, at the time when kings march out to war, David sent out Joab and 
 | in Jerusalem  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3389\|ירוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.10.19|<< 2 Samuel 10:19]]</td><td align="center" style="border:none;">[[2Sam.11|2 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.11.2|2 Samuel 11:2 >>]]</td></tr></table>
 
-[^1]: ==C==: \<the> kings  | **<big>[[H4428G|מְּלָכִ֗ים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> me.la.Khim<small><sup>[[HNcmpa]]</sup></small> 
-[^2]: ==C==: \<the> kings  | **<big>[[H4428G|מְּלָכִ֗ים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> me.la.Khim<small><sup>[[HNcmpa]]</sup></small> 
-[^3]: ==A== spelled: **<span class="ashebrew"><big>הַמַּלָאכִ֗ים</big></span>**
+[^1]: \<the> kings  | **<big>[[H4428G|מְּלָכִ֗ים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> me.la.Khim<small><sup>[[HNcmpa]]</sup></small> | C
+[^2]: \<the> kings  | **<big>[[H4428G|מְּלָכִ֗ים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> me.la.Khim<small><sup>[[HNcmpa]]</sup></small> | C
+[^3]: A spelled: **<span class="ashebrew"><big>הַמַּלָאכִ֗ים</big></span>**
 

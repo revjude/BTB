@@ -28,7 +28,7 @@ On the capitals of both pillars, just above the rounded projection next to the n
 | \<the> second  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8145\|שֵּׁנִֽית]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.Nit<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.19|<< 1 Kings 7:19]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.21|1 Kings 7:21 >>]]</td></tr></table>
 
-[^1]: ==K==: a network  | **<big>[[H7639|שְׂבָכָה]]</big> ** | se.va.khah<small><sup>[[HNcfsa]]</sup></small> 
-[^2]: ==K==: a network  | **<big>[[H7639|שְׂבָכָה]]</big> ** | se.va.khah<small><sup>[[HNcfsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>ַשְּׂבָכָ֑ה</big></span>**
+[^1]: a network  | **<big>[[H7639|שְׂבָכָה]]</big> ** | se.va.khah<small><sup>[[HNcfsa]]</sup></small> | K
+[^2]: a network  | **<big>[[H7639|שְׂבָכָה]]</big> ** | se.va.khah<small><sup>[[HNcfsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>ַשְּׂבָכָ֑ה</big></span>**
 

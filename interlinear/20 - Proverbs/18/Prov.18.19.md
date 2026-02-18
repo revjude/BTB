@@ -17,7 +17,7 @@ An offended brother is harder to win than a fortified city, and disputes are lik
 | a fortress  |**<big>&#8207;[[H0759H\|אַרְמֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'ar.Mon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.18|<< Proverbs 18:18]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.20|Proverbs 18:20 >>]]</td></tr></table>
 
-[^1]: ==K==: and contentions  | **<big>[[H4066|מְדוֹנִים]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> me.do.nim<small><sup>[[HNcmpa]]</sup></small> 
-[^2]: ==K==: and contentions  | **<big>[[H4066|מְדוֹנִים]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> me.do.nim<small><sup>[[HNcmpa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וּ֝מִדְוָנִ֗ים</big></span>**
+[^1]: and contentions  | **<big>[[H4066|מְדוֹנִים]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> me.do.nim<small><sup>[[HNcmpa]]</sup></small> | K
+[^2]: and contentions  | **<big>[[H4066|מְדוֹנִים]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> me.do.nim<small><sup>[[HNcmpa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וּ֝מִדְוָנִ֗ים</big></span>**
 

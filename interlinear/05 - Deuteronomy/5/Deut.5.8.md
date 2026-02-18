@@ -26,18 +26,18 @@ You shall not make for yourself an idol in the form of anything in the heavens a
 | to the earth  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0776G\|אָֽ֗רֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^14] | la.<small><sup>[[HRd]]</sup></small> 'A.Retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.7|<< Deuteronomy 5:7]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.9|Deuteronomy 5:9 >>]]</td></tr></table>
 
-[^1]: ==P== spelled: **<span class="ashebrew"><big>לֹ֣א</big></span>**
-[^2]: ==P== spelled: **<span class="ashebrew"><big>תַעֲשֶׂה\־</big></span>**
-[^3]: ==P== spelled: **<span class="ashebrew"><big>לְךָ֣</big></span>**
-[^4]: ==P== spelled: **<span class="ashebrew"><big>פֶ֣סֶל\׀</big></span>**
-[^5]: ==P== spelled: **<span class="ashebrew"><big>תְּמוּנָ֡ה</big></span>**
-[^6]: ==P== spelled: **<span class="ashebrew"><big>אֲשֶׁ֣ר</big></span>**
-[^7]: ==P== spelled: **<span class="ashebrew"><big>בַּשָּׁמַ֣יִם\׀</big></span>**
-[^8]: ==P== spelled: **<span class="ashebrew"><big>מִמַּ֡עַל</big></span>**
-[^9]: ==P== spelled: **<span class="ashebrew"><big>וַאֲשֶׁר֩</big></span>**
-[^10]: ==P== spelled: **<span class="ashebrew"><big>בָּאָ֨רֶץ</big></span>**
-[^11]: ==P== spelled: **<span class="ashebrew"><big>מִתָּ֜חַת</big></span>**
-[^12]: ==P== spelled: **<span class="ashebrew"><big>בַּמַּ֣יִם\׀</big></span>**
-[^13]: ==P== spelled: **<span class="ashebrew"><big>מִתַּ֣חַת</big></span>**
-[^14]: ==P== spelled: **<span class="ashebrew"><big>לָאָ֗רֶץ\׃</big></span>**
+[^1]: P spelled: **<span class="ashebrew"><big>לֹ֣א</big></span>**
+[^2]: P spelled: **<span class="ashebrew"><big>תַעֲשֶׂה\־</big></span>**
+[^3]: P spelled: **<span class="ashebrew"><big>לְךָ֣</big></span>**
+[^4]: P spelled: **<span class="ashebrew"><big>פֶ֣סֶל\׀</big></span>**
+[^5]: P spelled: **<span class="ashebrew"><big>תְּמוּנָ֡ה</big></span>**
+[^6]: P spelled: **<span class="ashebrew"><big>אֲשֶׁ֣ר</big></span>**
+[^7]: P spelled: **<span class="ashebrew"><big>בַּשָּׁמַ֣יִם\׀</big></span>**
+[^8]: P spelled: **<span class="ashebrew"><big>מִמַּ֡עַל</big></span>**
+[^9]: P spelled: **<span class="ashebrew"><big>וַאֲשֶׁר֩</big></span>**
+[^10]: P spelled: **<span class="ashebrew"><big>בָּאָ֨רֶץ</big></span>**
+[^11]: P spelled: **<span class="ashebrew"><big>מִתָּ֜חַת</big></span>**
+[^12]: P spelled: **<span class="ashebrew"><big>בַּמַּ֣יִם\׀</big></span>**
+[^13]: P spelled: **<span class="ashebrew"><big>מִתַּ֣חַת</big></span>**
+[^14]: P spelled: **<span class="ashebrew"><big>לָאָ֗רֶץ\׃</big></span>**
 

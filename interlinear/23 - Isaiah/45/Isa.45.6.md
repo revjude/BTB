@@ -22,5 +22,5 @@ so that all may know, from where the sun rises to where it sets, that there is n
 | [is] yet  |**<big>&#8207;[[H5750\|עֽוֹד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.5|<< Isaiah 45:5]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.7|Isaiah 45:7 >>]]</td></tr></table>
 
-[^1]: ==B== spelled: **<span class="ashebrew"><big>וּמִ/מַּ֣עֲרָבָ֔/הּ</big></span>**
+[^1]: B spelled: **<span class="ashebrew"><big>וּמִ/מַּ֣עֲרָבָ֔/הּ</big></span>**
 

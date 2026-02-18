@@ -37,9 +37,9 @@ I also wanted to know about the ten horns on its head and the other horn that ca
 | companion its  |**<big>&#8207;[[H2273\|חַבְרָתַֽ]]&#8207;&#8207;[[H9024\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| chav.ra.Ta<small><sup>[[ANcfpc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.19|<< Daniel 7:19]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.21|Daniel 7:21 >>]]</td></tr></table>
 
-[^1]: ==K==: and they fell  | **<big>[[H5308|נְפַלוּ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> ne.fa.lu<small><sup>[[AVqp3mp]]</sup></small> 
-[^2]: ==K==: and they fell  | **<big>[[H5308|נְפַלוּ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> ne.fa.lu<small><sup>[[AVqp3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="asaramaic"><big>וּנְפַ֥לָו</big></span>**
-[^4]: ==L== spelled: **<span class="asaramaic"><big>קֳדָמַ֖יהּ</big></span>**
-[^5]: ==K== spelled: **<span class="asaramaic"><big>קֳדָמַיַּהּ</big></span>**
+[^1]: and they fell  | **<big>[[H5308|נְפַלוּ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> ne.fa.lu<small><sup>[[AVqp3mp]]</sup></small> | K
+[^2]: and they fell  | **<big>[[H5308|נְפַלוּ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> ne.fa.lu<small><sup>[[AVqp3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="asaramaic"><big>וּנְפַ֥לָו</big></span>**
+[^4]: L spelled: **<span class="asaramaic"><big>קֳדָמַ֖יהּ</big></span>**
+[^5]: K spelled: **<span class="asaramaic"><big>קֳדָמַיַּהּ</big></span>**
 

@@ -15,8 +15,8 @@ The LORD is good to those who wait for Him, to the soul who seeks Him.
 | [who] it will seek him  |**<big>&#8207;[[H1875\|תִּדְרְשֶֽׁ]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tid.re.She.<small><sup>[[HVqi3fs]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.24|<< Lamentations 3:24]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.26|Lamentations 3:26 >>]]</td></tr></table>
 
-[^1]: ==K==: to [him who] wait for him  | **<big>[[H9033|וֹ]]</big><big>[[H6960A|קוָ֔]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> ko.Va<small><sup>[[HVqrmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: to [him who] wait for him  | **<big>[[H9033|וֹ]]</big><big>[[H6960A|קוָ֔]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> ko.Va<small><sup>[[HVqrmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: to [him who] wait for him  | **<big>[[H9033|וֹ]]</big><big>[[H6960A|קוָ֔]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> ko.Va<small><sup>[[HVqrmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>לְקוָֹ֔/ו</big></span>**
+[^1]: to [him who] wait for him  | **<big>[[H9033|וֹ]]</big><big>[[H6960A|קוָ֔]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> ko.Va<small><sup>[[HVqrmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: to [him who] wait for him  | **<big>[[H9033|וֹ]]</big><big>[[H6960A|קוָ֔]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> ko.Va<small><sup>[[HVqrmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: to [him who] wait for him  | **<big>[[H9033|וֹ]]</big><big>[[H6960A|קוָ֔]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> ko.Va<small><sup>[[HVqrmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>לְקוָֹ֔/ו</big></span>**
 

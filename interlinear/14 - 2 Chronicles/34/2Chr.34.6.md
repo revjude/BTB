@@ -19,10 +19,10 @@ Josiah did the same in the cities of Manasseh, Ephraim, and Simeon, as far as Na
 | all around  |**<big>&#8207;[[H5439G\|סָבִֽיב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sa.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.5|<< 2 Chronicles 34:5]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.7|2 Chronicles 34:7 >>]]</td></tr></table>
 
-[^1]: ==K==: in [the] hill country of  | **<big>[[H2022G|הַר]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> har<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>בְּהַרְ</big></span>**
-[^3]: ==K==: houses their  | **<big>[[H9028|הֶם]]</big><big>[[H1004B|בָּתֵּי]]</big> ** | ba.tei.<small><sup>[[HNcmpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> 
-[^4]: ==K==: houses their  | **<big>[[H9028|הֶם]]</big><big>[[H1004B|בָּתֵּי]]</big> ** | ba.tei.<small><sup>[[HNcmpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> 
-[^5]: ==K==: houses their  | **<big>[[H9028|הֶם]]</big><big>[[H1004B|בָּתֵּי]]</big> ** | ba.tei.<small><sup>[[HNcmpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> 
-[^6]: ==L== spelled: **<span class="ashebrew"><big>בֹתֵיהֶ֖ם</big></span>**
+[^1]: in [the] hill country of  | **<big>[[H2022G|הַר]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> har<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>בְּהַרְ</big></span>**
+[^3]: houses their  | **<big>[[H9028|הֶם]]</big><big>[[H1004B|בָּתֵּי]]</big> ** | ba.tei.<small><sup>[[HNcmpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^4]: houses their  | **<big>[[H9028|הֶם]]</big><big>[[H1004B|בָּתֵּי]]</big> ** | ba.tei.<small><sup>[[HNcmpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^5]: houses their  | **<big>[[H9028|הֶם]]</big><big>[[H1004B|בָּתֵּי]]</big> ** | ba.tei.<small><sup>[[HNcmpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^6]: L spelled: **<span class="ashebrew"><big>בֹתֵיהֶ֖ם</big></span>**
 

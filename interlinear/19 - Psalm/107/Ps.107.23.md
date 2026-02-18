@@ -17,5 +17,5 @@ Others went out to sea in ships, conducting trade on the mighty waters.
 | many  |**<big>&#8207;[[H7227A\|רַבִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^1] | ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.22|<< Psalms 107:22]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.24|Psalms 107:24 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>רַבִּֽים\׃\ \׆</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>רַבִּֽים\׃\ \׆</big></span>**
 

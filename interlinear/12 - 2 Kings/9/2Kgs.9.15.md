@@ -38,6 +38,6 @@ but King Joram had returned to Jezreel to recover from the wounds he had suffere
 | in Jezreel  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3157H\|יִזְרְעֶֽאל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> yiz.re.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.14|<< 2 Kings 9:14]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.16|2 Kings 9:16 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>לְַגִּ֥יד</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>לַגִּיד</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>לְַגִּ֥יד</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>לַגִּיד</big></span>**
 

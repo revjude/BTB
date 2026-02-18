@@ -16,7 +16,7 @@ They bruised his feet with shackles and placed his neck in irons,
 | neck his  |**<big>&#8207;[[H5315N\|נַפְשֽׁ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.17|<< Psalms 105:17]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.19|Psalms 105:19 >>]]</td></tr></table>
 
-[^1]: ==K==: feet his  | **<big>[[H9023|ו]]</big><big>[[H7272|רַגְלָי]]</big> ** | rag.L<small><sup>[[HNcbdc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: feet his  | **<big>[[H9023|ו]]</big><big>[[H7272|רַגְלָי]]</big> ** | rag.L<small><sup>[[HNcbdc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>רַגְלֹ֑יו</big></span>**
+[^1]: feet his  | **<big>[[H9023|ו]]</big><big>[[H7272|רַגְלָי]]</big> ** | rag.L<small><sup>[[HNcbdc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: feet his  | **<big>[[H9023|ו]]</big><big>[[H7272|רַגְלָי]]</big> ** | rag.L<small><sup>[[HNcbdc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>רַגְלֹ֑יו</big></span>**
 

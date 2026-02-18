@@ -18,7 +18,7 @@ Chephar-ammoni, Ophni, and Geba—twelve cities, along with their villages.
 | and villages their  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2691B\|חַצְרֵי]]&#8207;&#8207;[[H9029\|הֶֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> chatz.rei.<small><sup>[[HNcmpc]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.23|<< Joshua 18:23]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.25|Joshua 18:25 >>]]</td></tr></table>
 
-[^1]: ==K==: \<the> Ammoni  | **<big>[[H3726|עַמֹּנִי]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'a.mo.ni<small><sup>[[HNpl]]</sup></small> 
-[^2]: ==K==: \<the> Ammoni  | **<big>[[H3726|עַמֹּנִי]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'a.mo.ni<small><sup>[[HNpl]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הָֽעַמֹּנָ֛י</big></span>**
+[^1]: \<the> Ammoni  | **<big>[[H3726|עַמֹּנִי]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'a.mo.ni<small><sup>[[HNpl]]</sup></small> | K
+[^2]: \<the> Ammoni  | **<big>[[H3726|עַמֹּנִי]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'a.mo.ni<small><sup>[[HNpl]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הָֽעַמֹּנָ֛י</big></span>**
 

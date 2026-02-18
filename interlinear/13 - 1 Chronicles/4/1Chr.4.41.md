@@ -36,7 +36,7 @@ These who were noted by name came in the days of Hezekiah king of Judah. They at
 | [was] there  |**<big>&#8207;[[H8033G\|שָֽׁם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.40|<< 1 Chronicles 4:40]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.42|1 Chronicles 4:42 >>]]</td></tr></table>
 
-[^1]: ==K==: the Meinites  | **<big>[[H4586G|מְּעִינִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> me.'i.nim<small><sup>[[HNpl]]</sup></small> 
-[^2]: ==K==: the Meinites  | **<big>[[H4586G|מְּעִינִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> me.'i.nim<small><sup>[[HNpl]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הַמְּעיּנִ֨ים</big></span>**
+[^1]: the Meinites  | **<big>[[H4586G|מְּעִינִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> me.'i.nim<small><sup>[[HNpl]]</sup></small> | K
+[^2]: the Meinites  | **<big>[[H4586G|מְּעִינִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> me.'i.nim<small><sup>[[HNpl]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הַמְּעיּנִ֨ים</big></span>**
 

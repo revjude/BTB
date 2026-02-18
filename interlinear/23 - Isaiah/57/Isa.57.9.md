@@ -22,5 +22,5 @@ You went to Molech with oil and multiplied your perfumes. You have sent your env
 | Sheol  |**<big>&#8207;[[H7585\|שְׁאֽוֹל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| she.'ol<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.8|<< Isaiah 57:8]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.10|Isaiah 57:10 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>צִרַ֙יִךְ֙</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>צִרַ֙יִךְ֙</big></span>**
 

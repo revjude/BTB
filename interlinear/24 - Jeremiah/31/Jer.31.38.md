@@ -21,8 +21,8 @@ Behold, the days come, saith the LORD, that the city shall be built to the LORD 
 | the corner  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6438G\|פִּנָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> pi.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.37|<< Jeremiah 31:37]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.39|Jeremiah 31:39 >>]]</td></tr></table>
 
-[^1]: ==K==: days  | **<big>[[H3117G|יָמִ֥ים]]</big> ** | ya.Mim<small><sup>[[HNcmpa]]</sup></small> 
-[^2]: ==K==: days  | **<big>[[H3117G|יָמִ֥ים]]</big> ** | ya.Mim<small><sup>[[HNcmpa]]</sup></small> 
-[^3]: ==K==: days  | **<big>[[H3117G|יָמִ֥ים]]</big> ** | ya.Mim<small><sup>[[HNcmpa]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>יָמִ֥יםִָּ֖</big></span>**
+[^1]: days  | **<big>[[H3117G|יָמִ֥ים]]</big> ** | ya.Mim<small><sup>[[HNcmpa]]</sup></small> | K
+[^2]: days  | **<big>[[H3117G|יָמִ֥ים]]</big> ** | ya.Mim<small><sup>[[HNcmpa]]</sup></small> | K
+[^3]: days  | **<big>[[H3117G|יָמִ֥ים]]</big> ** | ya.Mim<small><sup>[[HNcmpa]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>יָמִ֥יםִָּ֖</big></span>**
 

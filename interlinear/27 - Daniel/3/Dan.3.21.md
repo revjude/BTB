@@ -23,6 +23,6 @@ So they were tied up, wearing robes, trousers, turbans, and other clothes, and t
 | \<the> burning  |**<big>&#8207;[[H3345\|יָקִֽדְתָּֽ]]&#8207;&#8207;[[H9010\|א]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.Kid.Ta<small><sup>[[AVqrfsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.20|<< Daniel 3:20]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.22|Daniel 3:22 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>פַּטְּישֵׁיה֔וֹן</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>פַּטִּישֵׁיהוֹן</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>פַּטְּישֵׁיה֔וֹן</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>פַּטִּישֵׁיהוֹן</big></span>**
 

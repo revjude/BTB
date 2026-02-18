@@ -21,8 +21,8 @@ For a remnant will go forth from Jerusalem, and survivors from Mount Zion. The z
 | this  |**<big>&#8207;[[H2063\|זֹּֽאת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.30|<< 2 Kings 19:30]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.32|2 Kings 19:32 >>]]</td></tr></table>
 
-[^1]: ==K==: Yahweh  | **<big>[[H3068G|יְהוָ֥ה]]</big> ** | Yah.weh<small><sup>[[HNpt]]</sup></small> 
-[^2]: ==K==: Yahweh  | **<big>[[H3068G|יְהוָ֥ה]]</big> ** | Yah.weh<small><sup>[[HNpt]]</sup></small> 
-[^3]: ==K==: Yahweh  | **<big>[[H3068G|יְהוָ֥ה]]</big> ** | Yah.weh<small><sup>[[HNpt]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>יְהוָ֥הֳ֖</big></span>**
+[^1]: Yahweh  | **<big>[[H3068G|יְהוָ֥ה]]</big> ** | Yah.weh<small><sup>[[HNpt]]</sup></small> | K
+[^2]: Yahweh  | **<big>[[H3068G|יְהוָ֥ה]]</big> ** | Yah.weh<small><sup>[[HNpt]]</sup></small> | K
+[^3]: Yahweh  | **<big>[[H3068G|יְהוָ֥ה]]</big> ** | Yah.weh<small><sup>[[HNpt]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>יְהוָ֥הֳ֖</big></span>**
 

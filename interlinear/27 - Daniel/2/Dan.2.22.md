@@ -20,6 +20,6 @@ He reveals the deep and hidden things; He knows what lies in darkness, and light
 | [is] dwelling  |**<big>&#8207;[[H8271\|שְׁרֵֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| she.Re'<small><sup>[[AVQrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.21|<< Daniel 2:21]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.23|Daniel 2:23 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>וּנְהֹירָ֖/א</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>וּנְהִירָ/א</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>וּנְהֹירָ֖/א</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>וּנְהִירָ/א</big></span>**
 

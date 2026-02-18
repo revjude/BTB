@@ -23,6 +23,6 @@ Go up to Gilead for balm, O Virgin Daughter of Egypt! In vain you try many remed
 | for \<the> you  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| La<small><sup>[[HRd]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.10|<< Jeremiah 46:10]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.12|Jeremiah 46:12 >>]]</td></tr></table>
 
-[^1]: ==K==: I have multiplied  | **<big>[[H7235A|הִרְבֵּיתִי]]</big> ** | hir.bei.ti<small><sup>[[HVhp1cs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>הִרְבֵּ֣יתי</big></span>**
+[^1]: I have multiplied  | **<big>[[H7235A|הִרְבֵּיתִי]]</big> ** | hir.bei.ti<small><sup>[[HVhp1cs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>הִרְבֵּ֣יתי</big></span>**
 

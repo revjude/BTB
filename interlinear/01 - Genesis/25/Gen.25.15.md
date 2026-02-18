@@ -15,5 +15,5 @@ Hadad, Tema, Jetur, Naphish, and Kedemah.
 | and Kedemah  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H6929\|קֵֽדְמָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Ke.de.mah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.14|<< Genesis 25:14]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.16|Genesis 25:16 >>]]</td></tr></table>
 
-[^1]: ==BH==: Hadar  | **<big>[[H2316|חֲדַ֣ר]]</big> ** | cha.Dar<small><sup>[[HNpm]]</sup></small> 
+[^1]: Hadar  | **<big>[[H2316|חֲדַ֣ר]]</big> ** | cha.Dar<small><sup>[[HNpm]]</sup></small> | BH
 

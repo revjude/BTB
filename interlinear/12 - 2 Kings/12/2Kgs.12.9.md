@@ -38,7 +38,7 @@ Then Jehoiada the priest took a chest, bored a hole in its lid, and set it besid
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.12.8|<< 2 Kings 12:8]]</td><td align="center" style="border:none;">[[2Kgs.12|2 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.12.10|2 Kings 12:10 >>]]</td></tr></table>
 
-[^1]: ==K==: at the right [side]  | **<big>[[H3225G|יָּמִין]]</big><big>[[H9003|בַּ]]</big> ** | ba<small><sup>[[HRd]]</sup></small> i.ya.min<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==K==: at the right [side]  | **<big>[[H3225G|יָּמִין]]</big><big>[[H9003|בַּ]]</big> ** | ba<small><sup>[[HRd]]</sup></small> i.ya.min<small><sup>[[HNcbsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בִיָּמִ֗ין</big></span>**
+[^1]: at the right [side]  | **<big>[[H3225G|יָּמִין]]</big><big>[[H9003|בַּ]]</big> ** | ba<small><sup>[[HRd]]</sup></small> i.ya.min<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: at the right [side]  | **<big>[[H3225G|יָּמִין]]</big><big>[[H9003|בַּ]]</big> ** | ba<small><sup>[[HRd]]</sup></small> i.ya.min<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בִיָּמִ֗ין</big></span>**
 

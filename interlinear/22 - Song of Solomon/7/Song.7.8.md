@@ -23,5 +23,5 @@ I said, “I will climb the palm tree; I will take hold of its fruit.” May you
 | like \<the> apples  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H8598\|תַּפּוּחִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> ta.pu.Chim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.7.7|<< Song of Solomon 7:7]]</td><td align="center" style="border:none;">[[Song.7|Song of Solomon 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.7.9|Song of Solomon 7:9 >>]]</td></tr></table>
 
-[^1]: ==B== spelled: **<span class="ashebrew"><big>וְרֵ֥יַח</big></span>**
+[^1]: B spelled: **<span class="ashebrew"><big>וְרֵ֥יַח</big></span>**
 

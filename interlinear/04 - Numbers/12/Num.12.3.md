@@ -20,6 +20,6 @@ Now Moses was a very humble man, more so than any man on the face of the earth.
 | the ground  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0127I\|אֲדָמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.da.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.12.2|<< Numbers 12:2]]</td><td align="center" style="border:none;">[[Num.12|Numbers 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.12.4|Numbers 12:4 >>]]</td></tr></table>
 
-[^1]: ==K==: [was] humble  | **<big>[[H6035|עָנָו]]</big> ** | a.nav<small><sup>[[HAabsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>עָנָ֣ו</big></span>**
+[^1]: [was] humble  | **<big>[[H6035|עָנָו]]</big> ** | a.nav<small><sup>[[HAabsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>עָנָ֣ו</big></span>**
 

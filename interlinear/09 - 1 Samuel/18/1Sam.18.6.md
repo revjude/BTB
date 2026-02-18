@@ -30,6 +30,6 @@ As the troops were returning home after David had killed the Philistine, the wom
 | and with three-stringed instruments  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H7991B\|שָׁלִשִֽׁים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> sha.li.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.18.5|<< 1 Samuel 18:5]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.7|1 Samuel 18:7 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>לָשִׁ֣ור</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>לָשׁוּר</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>לָשִׁ֣ור</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>לָשׁוּר</big></span>**
 

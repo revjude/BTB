@@ -23,6 +23,6 @@ The weapons of the scoundrel are destructive; he hatches plots to destroy the po
 | justice  |**<big>&#8207;[[H4941H\|מִשְׁפָּֽט]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.6|<< Isaiah 32:6]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.8|Isaiah 32:8 >>]]</td></tr></table>
 
-[^1]: ==K==: humble [people]  | **<big>[[H6035|עֲנָוִים]]</big> ** | a.na.vim<small><sup>[[HAampa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>עֲנִוִּים֙</big></span>**
+[^1]: humble [people]  | **<big>[[H6035|עֲנָוִים]]</big> ** | a.na.vim<small><sup>[[HAampa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>עֲנִוִּים֙</big></span>**
 

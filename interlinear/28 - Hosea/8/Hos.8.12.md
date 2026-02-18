@@ -17,8 +17,8 @@ Though I wrote for them the great things of My law, they regarded them as someth
 | they are regarded  |**<big>&#8207;[[H2803H\|נֶחְשָֽׁבוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| nech.Sha.vu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.8.11|<< Hosea 8:11]]</td><td align="center" style="border:none;">[[Hos.8|Hosea 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.8.13|Hosea 8:13 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>אֶ֨כְתָּוב\־</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>אֶכְתּוֹב</big></span>**
-[^3]: ==K==: ten thousand of  | **<big>[[H7239|רִבּוֹ]]</big> ** | ri.bov<small><sup>[[HNcbsc]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>רֻבֵּ֖ו</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>אֶ֨כְתָּוב\־</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>אֶכְתּוֹב</big></span>**
+[^3]: ten thousand of  | **<big>[[H7239|רִבּוֹ]]</big> ** | ri.bov<small><sup>[[HNcbsc]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>רֻבֵּ֖ו</big></span>**
 

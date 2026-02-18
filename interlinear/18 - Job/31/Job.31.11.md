@@ -16,8 +16,8 @@ For that would be a heinous crime, an iniquity to be judged.
 | judges  |**<big>&#8207;[[H6414\|פְּלִילִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| pe.li.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.10|<< Job 31:10]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.12|Job 31:12 >>]]</td></tr></table>
 
-[^1]: ==K==: that  | **<big>[[H1931|הוּא]]</big> ** | hu'<small><sup>[[HPp3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>הִ֥וא</big></span>**
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְ֝ה֗יּא</big></span>**
-[^4]: ==K== spelled: **<span class="ashebrew"><big>וְהִיא</big></span>**
+[^1]: that  | **<big>[[H1931|הוּא]]</big> ** | hu'<small><sup>[[HPp3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>הִ֥וא</big></span>**
+[^3]: L spelled: **<span class="ashebrew"><big>וְ֝ה֗יּא</big></span>**
+[^4]: K spelled: **<span class="ashebrew"><big>וְהִיא</big></span>**
 

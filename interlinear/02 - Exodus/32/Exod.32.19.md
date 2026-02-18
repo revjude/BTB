@@ -34,8 +34,8 @@ As Moses approached the camp and saw the calf and the dancing, he burned with an
 | the mountain  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H2022G\|הָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Har<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.32.18|<< Exodus 32:18]]</td><td align="center" style="border:none;">[[Exod.32|Exodus 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.32.20|Exodus 32:20 >>]]</td></tr></table>
 
-[^1]: ==K==: from hand his  | **<big>[[H9023|וֹ]]</big><big>[[H3027G|יָּד]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: from hand his  | **<big>[[H9023|וֹ]]</big><big>[[H3027G|יָּד]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: from hand his  | **<big>[[H9023|וֹ]]</big><big>[[H3027G|יָּד]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>מִיָּדָ/ו֙</big></span>**
+[^1]: from hand his  | **<big>[[H9023|וֹ]]</big><big>[[H3027G|יָּד]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: from hand his  | **<big>[[H9023|וֹ]]</big><big>[[H3027G|יָּד]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: from hand his  | **<big>[[H9023|וֹ]]</big><big>[[H3027G|יָּד]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>מִיָּדָ/ו֙</big></span>**
 

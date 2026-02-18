@@ -28,6 +28,6 @@ When our enemies heard that we were aware of their scheme and that God had frust
 | work his  |**<big>&#8207;[[H4399\|מְלַאכְתּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.lakh.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.14|<< Nehemiah 4:14]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.16|Nehemiah 4:16 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וַנָּ֤שָׁוב</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וַנָּשׁוּב</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וַנָּ֤שָׁוב</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וַנָּשׁוּב</big></span>**
 

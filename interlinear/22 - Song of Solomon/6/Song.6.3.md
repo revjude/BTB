@@ -16,5 +16,5 @@ I belong to my beloved and he belongs to me; he pastures his flock among the lil
 | among the lilies  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H7799\|שׁוֹשַׁנִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**[^1] | ba.<small><sup>[[HRd]]</sup></small> sho.sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.6.2|<< Song of Solomon 6:2]]</td><td align="center" style="border:none;">[[Song.6|Song of Solomon 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.6.4|Song of Solomon 6:4 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>בַּשּׁוֹשַׁנִּֽים\׃\ \ס</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>בַּשּׁוֹשַׁנִּֽים\׃\ \ס</big></span>**
 

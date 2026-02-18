@@ -20,7 +20,7 @@ Then the people of the land set out to discourage the people of Judah and make t
 | to build  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1129\|בְנֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> v.Not<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.3|<< Ezra 4:3]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.5|Ezra 4:5 >>]]</td></tr></table>
 
-[^1]: ==K==: and [were] troubling  | **<big>[[H1089|מְבַלַהִים]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> me.va.la.him<small><sup>[[HVprmpa]]</sup></small> 
-[^2]: ==K==: and [were] troubling  | **<big>[[H1089|מְבַלַהִים]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> me.va.la.him<small><sup>[[HVprmpa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וּֽמְבַלֲהִ֥ים</big></span>**
+[^1]: and [were] troubling  | **<big>[[H1089|מְבַלַהִים]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> me.va.la.him<small><sup>[[HVprmpa]]</sup></small> | K
+[^2]: and [were] troubling  | **<big>[[H1089|מְבַלַהִים]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> me.va.la.him<small><sup>[[HVprmpa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וּֽמְבַלֲהִ֥ים</big></span>**
 

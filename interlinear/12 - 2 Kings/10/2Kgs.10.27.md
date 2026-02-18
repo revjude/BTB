@@ -22,7 +22,7 @@ They also demolished the sacred pillar of Baal. Then they tore down the temple o
 | this day  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117L\|יּֽוֹם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.26|<< 2 Kings 10:26]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.28|2 Kings 10:28 >>]]</td></tr></table>
 
-[^1]: ==K==: \<into> latrines  | **<big>[[H4280|מַחֲרָאוֹת]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> ma.cha.ra.'ot<small><sup>[[HNcfpa]]</sup></small> 
-[^2]: ==K==: \<into> latrines  | **<big>[[H4280|מַחֲרָאוֹת]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> ma.cha.ra.'ot<small><sup>[[HNcfpa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>לְמֹֽחָרא֖וֹת</big></span>**
+[^1]: \<into> latrines  | **<big>[[H4280|מַחֲרָאוֹת]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> ma.cha.ra.'ot<small><sup>[[HNcfpa]]</sup></small> | K
+[^2]: \<into> latrines  | **<big>[[H4280|מַחֲרָאוֹת]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> ma.cha.ra.'ot<small><sup>[[HNcfpa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>לְמֹֽחָרא֖וֹת</big></span>**
 

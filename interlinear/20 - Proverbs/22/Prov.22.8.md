@@ -21,6 +21,6 @@ He who sows injustice will reap disaster, and the rod of his fury will be destro
 | it will end  |**<big>&#8207;[[H3615J\|יִכְלֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yikh.Leh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.7|<< Proverbs 22:7]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.9|Proverbs 22:9 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>יִקְצָור\־</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>יִקְצוֹר</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>יִקְצָור\־</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>יִקְצוֹר</big></span>**
 

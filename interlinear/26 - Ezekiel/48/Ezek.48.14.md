@@ -22,6 +22,6 @@ They must not sell or exchange any of it, and they must not transfer this best p
 | to Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.13|<< Ezekiel 48:13]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.15|Ezekiel 48:15 >>]]</td></tr></table>
 
-[^1]: ==K==: it will pass over|  | **<big>[[H5674A|יַעֲבוּר]]</big> ** | ya.'a.vur<small><sup>[[HVqi3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יַעֲבִ֖ור</big></span>**
+[^1]: it will pass over|  | **<big>[[H5674A|יַעֲבוּר]]</big> ** | ya.'a.vur<small><sup>[[HVqi3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יַעֲבִ֖ור</big></span>**
 

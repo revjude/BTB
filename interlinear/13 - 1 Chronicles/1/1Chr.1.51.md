@@ -21,6 +21,6 @@ Then Hadad died. Now the chiefs of Edom were Timna, Alvah, Jetheth,
 | Jetheth  |**<big>&#8207;[[H3509\|יְתֵֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.Tet<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.50|<< 1 Chronicles 1:50]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.52|1 Chronicles 1:52 >>]]</td></tr></table>
 
-[^1]: ==K==: Aliah  | **<big>[[H5933|עַלְיָה]]</big> ** | al.yah<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>עַֽלְיָ֖ה</big></span>**
+[^1]: Aliah  | **<big>[[H5933|עַלְיָה]]</big> ** | al.yah<small><sup>[[HNpm]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>עַֽלְיָ֖ה</big></span>**
 

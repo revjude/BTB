@@ -24,7 +24,7 @@ For this is what the Lord GOD says: I will deal with you according to your deeds
 | a covenant  |**<big>&#8207;[[H1285\|בְּרִֽית]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.Rit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.58|<< Ezekiel 16:58]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.60|Ezekiel 16:60 >>]]</td></tr></table>
 
-[^1]: ==K==: and you will do  | **<big>[[H6213A|עָשִׂית]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> 'a.sit<small><sup>[[HVqq2fs]]</sup></small> 
-[^2]: ==K==: and you will do  | **<big>[[H6213A|עָשִׂית]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> 'a.sit<small><sup>[[HVqq2fs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְעָשִׂ֥יתִ</big></span>**
+[^1]: and you will do  | **<big>[[H6213A|עָשִׂית]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> 'a.sit<small><sup>[[HVqq2fs]]</sup></small> | K
+[^2]: and you will do  | **<big>[[H6213A|עָשִׂית]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> 'a.sit<small><sup>[[HVqq2fs]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְעָשִׂ֥יתִ</big></span>**
 

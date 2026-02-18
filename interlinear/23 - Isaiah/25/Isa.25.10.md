@@ -23,6 +23,6 @@ For the hand of the LORD will rest on this mountain. But Moab will be trampled i
 | a dung hill  |**<big>&#8207;[[H4087\|מַדְמֵנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mad.me.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.25.9|<< Isaiah 25:9]]</td><td align="center" style="border:none;">[[Isa.25|Isaiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.25.11|Isaiah 25:11 >>]]</td></tr></table>
 
-[^1]: ==K==: in [the] water  | **<big>[[H4325G|מֵי]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> mei<small><sup>[[HNcmpc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>בְּמֹ֥י</big></span>**
+[^1]: in [the] water  | **<big>[[H4325G|מֵי]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> mei<small><sup>[[HNcmpc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>בְּמֹ֥י</big></span>**
 

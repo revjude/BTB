@@ -23,6 +23,6 @@ For dogs surround me; a band of evil men encircles me; they have pierced my hand
 | and feet my  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7272\|רַגְלָֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> rag.La<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.22.15|<< Psalms 22:15]]</td><td align="center" style="border:none;">[[Ps.22|Psalms 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.22.17|Psalms 22:17 >>]]</td></tr></table>
 
-[^1]: ==D==: they dug  | **<big>[[H3738A|כָּ֝אֲרוּ]]</big> ** | ka.'a.Ru<small><sup>[[HVqp3cp]]</sup></small> 
-[^2]: ==D==: they dug  | **<big>[[H3738A|כָּ֝אֲרוּ]]</big> ** | ka.'a.Ru<small><sup>[[HVqp3cp]]</sup></small> 
+[^1]: they dug  | **<big>[[H3738A|כָּ֝אֲרוּ]]</big> ** | ka.'a.Ru<small><sup>[[HVqp3cp]]</sup></small> | D
+[^2]: they dug  | **<big>[[H3738A|כָּ֝אֲרוּ]]</big> ** | ka.'a.Ru<small><sup>[[HVqp3cp]]</sup></small> | D
 

@@ -18,7 +18,7 @@ A discerning heart seeks knowledge, but the mouth of a fool feeds on folly.
 | foolishness  |**<big>&#8207;[[H0200\|אִוֶּֽלֶת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'i.Ve.let<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.13|<< Proverbs 15:13]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.15|Proverbs 15:15 >>]]</td></tr></table>
 
-[^1]: ==K==: and [the] face of  | **<big>[[H6440H|פְנֵי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> fe.nei<small><sup>[[HNcmpc]]</sup></small> 
-[^2]: ==K==: and [the] face of  | **<big>[[H6440H|פְנֵי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> fe.nei<small><sup>[[HNcmpc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וּפִ֥ני</big></span>**
+[^1]: and [the] face of  | **<big>[[H6440H|פְנֵי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> fe.nei<small><sup>[[HNcmpc]]</sup></small> | K
+[^2]: and [the] face of  | **<big>[[H6440H|פְנֵי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> fe.nei<small><sup>[[HNcmpc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וּפִ֥ני</big></span>**
 

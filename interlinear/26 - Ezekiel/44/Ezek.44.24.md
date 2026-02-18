@@ -27,10 +27,10 @@ In any dispute, they shall officiate as judges and judge according to My ordinan
 | they will sanctify  |**<big>&#8207;[[H6942G\|יְקַדֵּֽשׁוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.ka.De.shu<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.23|<< Ezekiel 44:23]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.25|Ezekiel 44:25 >>]]</td></tr></table>
 
-[^1]: ==K==: to judge  | **<big>[[H8199|שְׁפֹּט]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> sh.pot<small><sup>[[HVqcc]]</sup></small> 
-[^2]: ==K==: to judge  | **<big>[[H8199|שְׁפֹּט]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> sh.pot<small><sup>[[HVqcc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>לְִשְׁפָּ֔ט</big></span>**
-[^4]: ==K==: and they will judge it  | **<big>[[H9033|הוּ]]</big><big>[[H8199|שָׁפְטֻ]]</big><big>[[H9001|וְ]]</big> ** | u.<small><sup>[[Hc]]</sup></small> sha.fe.tu.<small><sup>[[HVqq3cp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> 
-[^5]: ==K==: and they will judge it  | **<big>[[H9033|הוּ]]</big><big>[[H8199|שָׁפְטֻ]]</big><big>[[H9001|וְ]]</big> ** | u.<small><sup>[[Hc]]</sup></small> sha.fe.tu.<small><sup>[[HVqq3cp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> 
-[^6]: ==L== spelled: **<span class="ashebrew"><big>וִשְׁפְּטֻ֑/הוּ</big></span>**
+[^1]: to judge  | **<big>[[H8199|שְׁפֹּט]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> sh.pot<small><sup>[[HVqcc]]</sup></small> | K
+[^2]: to judge  | **<big>[[H8199|שְׁפֹּט]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> sh.pot<small><sup>[[HVqcc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>לְִשְׁפָּ֔ט</big></span>**
+[^4]: and they will judge it  | **<big>[[H9033|הוּ]]</big><big>[[H8199|שָׁפְטֻ]]</big><big>[[H9001|וְ]]</big> ** | u.<small><sup>[[Hc]]</sup></small> sha.fe.tu.<small><sup>[[HVqq3cp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | K
+[^5]: and they will judge it  | **<big>[[H9033|הוּ]]</big><big>[[H8199|שָׁפְטֻ]]</big><big>[[H9001|וְ]]</big> ** | u.<small><sup>[[Hc]]</sup></small> sha.fe.tu.<small><sup>[[HVqq3cp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | K
+[^6]: L spelled: **<span class="ashebrew"><big>וִשְׁפְּטֻ֑/הוּ</big></span>**
 

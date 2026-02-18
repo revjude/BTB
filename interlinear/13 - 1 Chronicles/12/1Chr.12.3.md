@@ -23,7 +23,7 @@ Ahiezer their chief and Joash, who were the sons of Shemaah the Gibeathite; Jezi
 | the Anathothite  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H6069\|עֲנְּתֹתִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.ne.to.Ti<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.2|<< 1 Chronicles 12:2]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.4|1 Chronicles 12:4 >>]]</td></tr></table>
 
-[^1]: ==K==: and Jezuel  | **<big>[[H3149|יזוּאֵל]]</big><big>[[H9002|וִ]]</big> ** | vi.<small><sup>[[HC]]</sup></small> zu.'el<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==K==: and Jezuel  | **<big>[[H3149|יזוּאֵל]]</big><big>[[H9002|וִ]]</big> ** | vi.<small><sup>[[HC]]</sup></small> zu.'el<small><sup>[[HNpm]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וִיזִואֵ֥ל</big></span>**
+[^1]: and Jezuel  | **<big>[[H3149|יזוּאֵל]]</big><big>[[H9002|וִ]]</big> ** | vi.<small><sup>[[HC]]</sup></small> zu.'el<small><sup>[[HNpm]]</sup></small> | K
+[^2]: and Jezuel  | **<big>[[H3149|יזוּאֵל]]</big><big>[[H9002|וִ]]</big> ** | vi.<small><sup>[[HC]]</sup></small> zu.'el<small><sup>[[HNpm]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וִיזִואֵ֥ל</big></span>**
 

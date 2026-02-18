@@ -24,7 +24,7 @@ The border reached Tabor, Shahazumah, and Beth-shemesh, and ended at the Jordan.
 | and villages their  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2691B\|חַצְרֵי]]&#8207;&#8207;[[H9029\|הֶֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> chatz.rei.<small><sup>[[HNcmpc]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.21|<< Joshua 19:21]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.23|Joshua 19:23 >>]]</td></tr></table>
 
-[^1]: ==K==: and to Shahzum  | **<big>[[H7831|שַׁחֲצוּמָה]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> sha.cha.tzu.mah<small><sup>[[HNpl]]</sup></small> 
-[^2]: ==K==: and to Shahzum  | **<big>[[H7831|שַׁחֲצוּמָה]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> sha.cha.tzu.mah<small><sup>[[HNpl]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְשַׁחֲצִ֙ומָה֙</big></span>**
+[^1]: and to Shahzum  | **<big>[[H7831|שַׁחֲצוּמָה]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> sha.cha.tzu.mah<small><sup>[[HNpl]]</sup></small> | K
+[^2]: and to Shahzum  | **<big>[[H7831|שַׁחֲצוּמָה]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> sha.cha.tzu.mah<small><sup>[[HNpl]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְשַׁחֲצִ֙ומָה֙</big></span>**
 

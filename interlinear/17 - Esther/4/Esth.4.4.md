@@ -29,6 +29,6 @@ When Esther’s maidens and eunuchs came and told her about Mordecai, the queen 
 | he accepted [them]  |**<big>&#8207;[[H6901\|קִבֵּֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ki.Bel<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.4.3|<< Esther 4:3]]</td><td align="center" style="border:none;">[[Esth.4|Esther 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.4.5|Esther 4:5 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וַ֠תָּבוֹאינָה</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וַתָּבוֹאינָה</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וַ֠תָּבוֹאינָה</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וַתָּבוֹאינָה</big></span>**
 

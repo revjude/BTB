@@ -19,7 +19,7 @@ Like a fluttering sparrow or darting swallow, an undeserved curse does not come 
 | it will come  |**<big>&#8207;[[H0935G\|תָבֹֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ta.Vo'<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.1|<< Proverbs 26:1]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.3|Proverbs 26:3 >>]]</td></tr></table>
 
-[^1]: ==K==: not  | **<big>[[H3808|לֹא]]</big> ** | lo'<small><sup>[[HTn]]</sup></small> 
-[^2]: ==K==: not  | **<big>[[H3808|לֹא]]</big> ** | lo'<small><sup>[[HTn]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>לֹ֣א</big></span>**
+[^1]: not  | **<big>[[H3808|לֹא]]</big> ** | lo'<small><sup>[[HTn]]</sup></small> | K
+[^2]: not  | **<big>[[H3808|לֹא]]</big> ** | lo'<small><sup>[[HTn]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>לֹ֣א</big></span>**
 

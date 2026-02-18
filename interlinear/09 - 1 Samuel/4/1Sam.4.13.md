@@ -33,6 +33,6 @@ When he arrived, there was Eli, sitting on his chair beside the road and watchin
 | the city  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5892B\|עִֽיר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.4.12|<< 1 Samuel 4:12]]</td><td align="center" style="border:none;">[[1Sam.4|1 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.4.14|1 Samuel 4:14 >>]]</td></tr></table>
 
-[^1]: ==K==: [the] side of  | **<big>[[H3197|יַךְ]]</big> ** | yakh<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יַ֥ך</big></span>**
+[^1]: [the] side of  | **<big>[[H3197|יַךְ]]</big> ** | yakh<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יַ֥ך</big></span>**
 

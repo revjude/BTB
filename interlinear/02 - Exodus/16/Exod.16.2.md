@@ -20,7 +20,7 @@ And there in the desert the whole congregation of Israel grumbled against Moses 
 | in the wilderness  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4057B\|מִּדְבָּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> mid.Bar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.1|<< Exodus 16:1]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.3|Exodus 16:3 >>]]</td></tr></table>
 
-[^1]: ==K==: and they caused to grumble  | **<big>[[H3885B|יַּלִּינוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yi.li.nu<small><sup>[[HVhw3mp]]</sup></small> 
-[^2]: ==K==: and they caused to grumble  | **<big>[[H3885B|יַּלִּינוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yi.li.nu<small><sup>[[HVhw3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וַיִּלֹּ֜ינוּ</big></span>**
+[^1]: and they caused to grumble  | **<big>[[H3885B|יַּלִּינוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yi.li.nu<small><sup>[[HVhw3mp]]</sup></small> | K
+[^2]: and they caused to grumble  | **<big>[[H3885B|יַּלִּינוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yi.li.nu<small><sup>[[HVhw3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וַיִּלֹּ֜ינוּ</big></span>**
 

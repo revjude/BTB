@@ -19,8 +19,8 @@ Do not tell your neighbor, “Come back tomorrow and I will provide”—when yo
 | with you  |**<big>&#8207;[[H0854\|אִתָּֽ]]&#8207;&#8207;[[H9031\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'i.Ta<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.27|<< Proverbs 3:27]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.29|Proverbs 3:29 >>]]</td></tr></table>
 
-[^1]: ==K==: to neighbors your  | **<big>[[H9021|ךָ]]</big><big>[[H7453|רֵעֶי]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> re.'ei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^2]: ==K==: to neighbors your  | **<big>[[H9021|ךָ]]</big><big>[[H7453|רֵעֶי]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> re.'ei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^3]: ==K==: to neighbors your  | **<big>[[H9021|ךָ]]</big><big>[[H7453|רֵעֶי]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> re.'ei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>לְרֵֽעֲי/ךָ֨\׀</big></span>**
+[^1]: to neighbors your  | **<big>[[H9021|ךָ]]</big><big>[[H7453|רֵעֶי]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> re.'ei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: to neighbors your  | **<big>[[H9021|ךָ]]</big><big>[[H7453|רֵעֶי]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> re.'ei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^3]: to neighbors your  | **<big>[[H9021|ךָ]]</big><big>[[H7453|רֵעֶי]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> re.'ei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>לְרֵֽעֲי/ךָ֨\׀</big></span>**
 

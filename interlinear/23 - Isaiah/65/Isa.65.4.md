@@ -20,7 +20,7 @@ sitting among the graves, spending nights in secret places, eating the meat of p
 | [is] vessels their  |**<big>&#8207;[[H3627\|כְּלֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ke.lei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.3|<< Isaiah 65:3]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.5|Isaiah 65:5 >>]]</td></tr></table>
 
-[^1]: ==K==: and a fragment of  | **<big>[[H6564|פְרַק]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> fe.rak<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==K==: and a fragment of  | **<big>[[H6564|פְרַק]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> fe.rak<small><sup>[[HNcbsc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וּפְרַ֥ק</big></span>**
+[^1]: and a fragment of  | **<big>[[H6564|פְרַק]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> fe.rak<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: and a fragment of  | **<big>[[H6564|פְרַק]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> fe.rak<small><sup>[[HNcbsc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וּפְרַ֥ק</big></span>**
 

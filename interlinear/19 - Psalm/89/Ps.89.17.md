@@ -17,6 +17,6 @@ For You are the glory of their strength, and by Your favor our horn is exalted.
 | horn our  |**<big>&#8207;[[H7161A\|קַרְנֵֽ]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| kar.Ne.<small><sup>[[HNcfsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.16|<< Psalms 89:16]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.18|Psalms 89:18 >>]]</td></tr></table>
 
-[^1]: ==K==: you exalt  | **<big>[[H7311A|תָּרִים]]</big> ** | ta.Rum<small><sup>[[HVhi2ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>תָּר֥יּם</big></span>**
+[^1]: you exalt  | **<big>[[H7311A|תָּרִים]]</big> ** | ta.Rum<small><sup>[[HVhi2ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>תָּר֥יּם</big></span>**
 

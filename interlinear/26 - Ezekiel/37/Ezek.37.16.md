@@ -35,10 +35,10 @@ Moreover, thou son of man, take thee one stick, and write upon it, For Judah, an
 | associates its  [^5]|**<big>&#8207;[[H2270\|חֲבֵרָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^6] | cha.ve.ro<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.15|<< Ezekiel 37:15]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.17|Ezekiel 37:17 >>]]</td></tr></table>
 
-[^1]: ==K==: associate its  | **<big>[[H9023|וֹ]]</big><big>[[H2270|חֲבֵר]]</big> ** | cha.ve.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: associate its  | **<big>[[H9023|וֹ]]</big><big>[[H2270|חֲבֵר]]</big> ** | cha.ve.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>חֲבֵרָ֑ו</big></span>**
-[^4]: ==K==: associate its  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H2270|חֲבֵר]]</big> ** | cha.ve.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^5]: ==K==: associate its  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H2270|חֲבֵר]]</big> ** | cha.ve.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^6]: ==L== spelled: **<span class="ashebrew"><big>חֲבֵרָֽו\׃</big></span>**
+[^1]: associate its  | **<big>[[H9023|וֹ]]</big><big>[[H2270|חֲבֵר]]</big> ** | cha.ve.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: associate its  | **<big>[[H9023|וֹ]]</big><big>[[H2270|חֲבֵר]]</big> ** | cha.ve.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>חֲבֵרָ֑ו</big></span>**
+[^4]: associate its  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H2270|חֲבֵר]]</big> ** | cha.ve.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^5]: associate its  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H2270|חֲבֵר]]</big> ** | cha.ve.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^6]: L spelled: **<span class="ashebrew"><big>חֲבֵרָֽו\׃</big></span>**
 

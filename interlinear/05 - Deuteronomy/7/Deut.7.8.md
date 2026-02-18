@@ -32,5 +32,5 @@ But because the LORD loved you and kept the oath He swore to your fathers, He br
 | Egypt  |**<big>&#8207;[[H4714G\|מִצְרָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.7|<< Deuteronomy 7:7]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.9|Deuteronomy 7:9 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>וּמִ/שָּׁמְר֤/וֹ</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>וּמִ/שָּׁמְר֤/וֹ</big></span>**
 

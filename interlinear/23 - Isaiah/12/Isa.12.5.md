@@ -19,6 +19,6 @@ Sing to the LORD, for He has done glorious things. Let this be known in all the 
 | the earth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.12.4|<< Isaiah 12:4]]</td><td align="center" style="border:none;">[[Isa.12|Isaiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.12.6|Isaiah 12:6 >>]]</td></tr></table>
 
-[^1]: ==K==: [is] known  | **<big>[[H3045|מְיֻדַּעַת]]</big> ** | me.yu.da.'at<small><sup>[[HVPsfsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>מיּדַ֥עַת</big></span>**
+[^1]: [is] known  | **<big>[[H3045|מְיֻדַּעַת]]</big> ** | me.yu.da.'at<small><sup>[[HVPsfsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>מיּדַ֥עַת</big></span>**
 

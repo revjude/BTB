@@ -34,7 +34,7 @@ But when the angel stretched out his hand to destroy Jerusalem, the LORD relente
 | the Jebusite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2983G\|יְבֻסִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> y.vu.Si<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.24.15|<< 2 Samuel 24:15]]</td><td align="center" style="border:none;">[[2Sam.24|2 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.24.17|2 Samuel 24:17 >>]]</td></tr></table>
 
-[^1]: ==K==: \<the> Ornah  | **<big>[[H0728|אוֹרְנָה]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'Or.nah<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==K==: \<the> Ornah  | **<big>[[H0728|אוֹרְנָה]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'Or.nah<small><sup>[[HNpm]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הָאֲוַ֥רְנָה</big></span>**
+[^1]: \<the> Ornah  | **<big>[[H0728|אוֹרְנָה]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'Or.nah<small><sup>[[HNpm]]</sup></small> | K
+[^2]: \<the> Ornah  | **<big>[[H0728|אוֹרְנָה]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'Or.nah<small><sup>[[HNpm]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הָאֲוַ֥רְנָה</big></span>**
 

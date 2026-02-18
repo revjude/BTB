@@ -26,7 +26,7 @@ He builds His upper rooms in the heavens and founds His vault upon the earth. He
 | name his  |**<big>&#8207;[[H8034\|שְׁמֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| she.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.9.5|<< Amos 9:5]]</td><td align="center" style="border:none;">[[Amos.9|Amos 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.9.7|Amos 9:7 >>]]</td></tr></table>
 
-[^1]: ==K==: stair his  | **<big>[[H9023|וֹ]]</big><big>[[H4609B|מַעֲלוֹת]]</big> ** | ma.'a.lo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: stair his  | **<big>[[H9023|וֹ]]</big><big>[[H4609B|מַעֲלוֹת]]</big> ** | ma.'a.lo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>מַעֲלוֹתָ֔ו</big></span>**
+[^1]: stair his  | **<big>[[H9023|וֹ]]</big><big>[[H4609B|מַעֲלוֹת]]</big> ** | ma.'a.lo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: stair his  | **<big>[[H9023|וֹ]]</big><big>[[H4609B|מַעֲלוֹת]]</big> ** | ma.'a.lo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>מַעֲלוֹתָ֔ו</big></span>**
 

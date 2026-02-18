@@ -34,7 +34,7 @@ Then the Spirit came upon Amasai, the chief of the Thirty, and he said: “We ar
 | the marauding band  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1416\|גְּדֽוּד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ge.Dud<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.17|<< 1 Chronicles 12:17]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.19|1 Chronicles 12:19 >>]]</td></tr></table>
 
-[^1]: ==K==: the thirty  | **<big>[[H7970|שְּׁלוֹשִׁים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> she.lo.shim<small><sup>[[HNcmpa]]</sup></small> 
-[^2]: ==K==: the thirty  | **<big>[[H7970|שְּׁלוֹשִׁים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> she.lo.shim<small><sup>[[HNcmpa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הַשָּׁלִושִׁים֒</big></span>**
+[^1]: the thirty  | **<big>[[H7970|שְּׁלוֹשִׁים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> she.lo.shim<small><sup>[[HNcmpa]]</sup></small> | K
+[^2]: the thirty  | **<big>[[H7970|שְּׁלוֹשִׁים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> she.lo.shim<small><sup>[[HNcmpa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הַשָּׁלִושִׁים֒</big></span>**
 

@@ -22,5 +22,5 @@ Your fathers went down to Egypt, seventy in all, and now the LORD your God has m
 | for multitude  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H7230\|רֹֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Ro<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.21|<< Deuteronomy 10:21]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.1|Deuteronomy 11:1 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>מִצְרָ֑יְמָה</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>מִצְרָ֑יְמָה</big></span>**
 

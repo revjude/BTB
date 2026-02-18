@@ -30,6 +30,6 @@ saying: “Naked I came from my mother’s womb, and naked I will return. The LO
 | blessed  |**<big>&#8207;[[H1288\|מְבֹרָֽךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.vo.Rakh<small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.1.20|<< Job 1:20]]</td><td align="center" style="border:none;">[[Job.1|Job 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.1.22|Job 1:22 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>יָצָ֜תִי</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>יָצָתִי</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>יָצָ֜תִי</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>יָצָתִי</big></span>**
 

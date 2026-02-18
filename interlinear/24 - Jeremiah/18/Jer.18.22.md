@@ -25,6 +25,6 @@ Let a cry be heard from their houses when You suddenly bring raiders against the
 | for feet my  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7272\|רַגְלָֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> rag.La<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.21|<< Jeremiah 18:21]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.23|Jeremiah 18:23 >>]]</td></tr></table>
 
-[^1]: ==K==: a pit  | **<big>[[H7882|שִׁיחָה]]</big> ** | shi.chah<small><sup>[[HNcfsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>שׁיּחָה֙</big></span>**
+[^1]: a pit  | **<big>[[H7882|שִׁיחָה]]</big> ** | shi.chah<small><sup>[[HNcfsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>שׁיּחָה֙</big></span>**
 

@@ -26,9 +26,9 @@ Later, the prophets Haggai and Zechariah son of Iddo prophesied to the Jews in J
 | [who was] over them  |**<big>&#8207;[[H5922\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| a.lei.<small><sup>[[AR]]</sup></small> Hon<small><sup>[[ASp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.24|<< Ezra 4:24]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.2|Ezra 5:2 >>]]</td></tr></table>
 
-[^1]: ==K==: prophet the  | **<big>[[H9024|ה]]</big><big>[[H5029|נְבִיאָ]]</big> ** | ne.vi.'a<small><sup>[[ANcbsd]]</sup></small> h<small><sup>[[ATa]]</sup></small> 
-[^2]: ==K==: prophet the  | **<big>[[H9024|ה]]</big><big>[[H5029|נְבִיאָ]]</big> ** | ne.vi.'a<small><sup>[[ANcbsd]]</sup></small> h<small><sup>[[ATa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="asaramaic"><big>נְבִיָּ֗אה</big></span>**
-[^4]: ==L== spelled: **<span class="asaramaic"><big>נְבִיַּאיָּ֔א</big></span>**
-[^5]: ==K== spelled: **<span class="asaramaic"><big>נְבִיאַיָּא</big></span>**
+[^1]: prophet the  | **<big>[[H9024|ה]]</big><big>[[H5029|נְבִיאָ]]</big> ** | ne.vi.'a<small><sup>[[ANcbsd]]</sup></small> h<small><sup>[[ATa]]</sup></small> | K
+[^2]: prophet the  | **<big>[[H9024|ה]]</big><big>[[H5029|נְבִיאָ]]</big> ** | ne.vi.'a<small><sup>[[ANcbsd]]</sup></small> h<small><sup>[[ATa]]</sup></small> | K
+[^3]: L spelled: **<span class="asaramaic"><big>נְבִיָּ֗אה</big></span>**
+[^4]: L spelled: **<span class="asaramaic"><big>נְבִיַּאיָּ֔א</big></span>**
+[^5]: K spelled: **<span class="asaramaic"><big>נְבִיאַיָּא</big></span>**
 

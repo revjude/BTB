@@ -27,8 +27,8 @@ and crossed at the ford to carry over the king’s household and to do what was 
 | in the Jordan  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3383\|יַּרְדֵּֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.yar.Den<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.17|<< 2 Samuel 19:17]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.19|2 Samuel 19:19 >>]]</td></tr></table>
 
-[^1]: ==K==: in eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869I|עֵינ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'ay.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: in eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869I|עֵינ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'ay.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: in eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869I|עֵינ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'ay.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>בְּעֵינָ֑/ו</big></span>**
+[^1]: in eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869I|עֵינ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'ay.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: in eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869I|עֵינ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'ay.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: in eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869I|עֵינ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'ay.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>בְּעֵינָ֑/ו</big></span>**
 

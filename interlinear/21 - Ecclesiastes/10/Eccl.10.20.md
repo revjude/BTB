@@ -30,6 +30,6 @@ Do not curse the king even in your thoughts, or curse the rich even in your bedr
 | [the] matter  |**<big>&#8207;[[H1697I\|דָּבָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.19|<< Ecclesiastes 10:19]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.11.1|Ecclesiastes 11:1 >>]]</td></tr></table>
 
-[^1]: ==K==: of the wings  | **<big>[[H3671|כְּנָפַיִם]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ke.na.fa.yim<small><sup>[[HNcbda]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>הכְּנָפַ֖יִם</big></span>**
+[^1]: of the wings  | **<big>[[H3671|כְּנָפַיִם]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ke.na.fa.yim<small><sup>[[HNcbda]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>הכְּנָפַ֖יִם</big></span>**
 

@@ -37,11 +37,11 @@ And just as you saw that the feet and toes were made partly of fired clay and pa
 | clay the  |**<big>&#8207;[[H2917\|טִינָֽ]]&#8207;&#8207;[[H9010\|א]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ti.Na<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.40|<< Daniel 2:40]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.42|Daniel 2:42 >>]]</td></tr></table>
 
-[^1]: ==K==: some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big> ** | mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> 
-[^2]: ==K==: some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big> ** | mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="asaramaic"><big>מִנְּהֵ֞ון</big></span>**
-[^4]: ==K==: and some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> 
-[^5]: ==K==: and some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> 
-[^6]: ==K==: and some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> 
-[^7]: ==L== spelled: **<span class="asaramaic"><big>וּמִנְּ/הֵ֣ון</big></span>**
+[^1]: some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big> ** | mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
+[^2]: some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big> ** | mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="asaramaic"><big>מִנְּהֵ֞ון</big></span>**
+[^4]: and some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
+[^5]: and some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
+[^6]: and some of them  | **<big>[[H9038|הוֹן]]</big><big>[[H4481|מִנְּ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> mi.ne.<small><sup>[[AR]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
+[^7]: L spelled: **<span class="asaramaic"><big>וּמִנְּ/הֵ֣ון</big></span>**
 

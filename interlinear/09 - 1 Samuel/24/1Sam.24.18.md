@@ -25,7 +25,7 @@ And you have declared this day how you have treated me well, for when the LORD d
 | you killed me  |**<big>&#8207;[[H2026\|הֲרַגְתָּֽ]]&#8207;&#8207;[[H9030\|נִי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.rag.Ta.<small><sup>[[HVqp2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.24.17|<< 1 Samuel 24:17]]</td><td align="center" style="border:none;">[[1Sam.24|1 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.24.19|1 Samuel 24:19 >>]]</td></tr></table>
 
-[^1]: ==K==: and you  | **<big>[[H0859C|אַתְּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'at<small><sup>[[HPp2fs]]</sup></small> 
-[^2]: ==K==: and you  | **<big>[[H0859C|אַתְּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'at<small><sup>[[HPp2fs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְאַתָּ֙</big></span>**
+[^1]: and you  | **<big>[[H0859C|אַתְּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'at<small><sup>[[HPp2fs]]</sup></small> | K
+[^2]: and you  | **<big>[[H0859C|אַתְּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'at<small><sup>[[HPp2fs]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְאַתָּ֙</big></span>**
 

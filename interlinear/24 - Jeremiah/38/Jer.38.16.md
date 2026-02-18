@@ -37,6 +37,6 @@ But King Zedekiah swore secretly to Jeremiah, “As surely as the LORD lives, wh
 | life your  |**<big>&#8207;[[H5315H\|נַפְשֶֽׁ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| naf.She.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.15|<< Jeremiah 38:15]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.17|Jeremiah 38:17 >>]]</td></tr></table>
 
-[^1]: ==K==: \<obj.>  | **<big>[[H0853|אֵת]]</big> ** | 'et<small><sup>[[HTo]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>את</big></span>**
+[^1]: \<obj.>  | **<big>[[H0853|אֵת]]</big> ** | 'et<small><sup>[[HTo]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>את</big></span>**
 

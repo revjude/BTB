@@ -13,6 +13,6 @@ Hariph, Anathoth, Nebai,
 | Nebai  [^1]|**<big>&#8207;[[H5109\|נֵיבָֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^2] | noai<small><sup>[[HNpm]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.10.18|<< Nehemiah 10:18]]</td><td align="center" style="border:none;">[[Neh.10|Nehemiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.10.20|Nehemiah 10:20 >>]]</td></tr></table>
 
-[^1]: ==K==: Nobai  | **<big>[[H9016|׃]]</big><big>[[H5109|נוֹבָי]]</big> ** | noai<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>נֵובָֽי\׃</big></span>**
+[^1]: Nobai  | **<big>[[H9016|׃]]</big><big>[[H5109|נוֹבָי]]</big> ** | noai<small><sup>[[HNpm]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>נֵובָֽי\׃</big></span>**
 

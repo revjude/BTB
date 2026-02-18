@@ -27,6 +27,6 @@ Take him, and look well to him, and do him no harm; but do unto him even as he s
 | with him  |**<big>&#8207;[[H5973A\|עִמּֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| i.M<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.39.11|<< Jeremiah 39:11]]</td><td align="center" style="border:none;">[[Jer.39|Jeremiah 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.39.13|Jeremiah 39:13 >>]]</td></tr></table>
 
-[^1]: ==K==: except  | **<big>[[H0518B|אִם]]</big> ** | 'im<small><sup>[[HTc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אם</big></span>**
+[^1]: except  | **<big>[[H0518B|אִם]]</big> ** | 'im<small><sup>[[HTc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אם</big></span>**
 

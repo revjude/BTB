@@ -34,10 +34,10 @@ This decision is the decree of the watchers, the verdict declared by the holy on
 | over it  |**<big>&#8207;[[H5922\|עֲלַֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^5] [^6] | a.lai.ya<small><sup>[[AR]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.16|<< Daniel 4:16]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.18|Daniel 4:18 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>עִלָּיאָ֜</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>עִלָּיָא</big></span>**
-[^3]: ==L== spelled: **<span class="asaramaic"><big>אֲנָושָׁ֗א</big></span>**
-[^4]: ==K== spelled: **<span class="asaramaic"><big>אֱנוֹשָׁא</big></span>**
-[^5]: ==L== spelled: **<span class="asaramaic"><big>עֲלַֽיהּ\׃</big></span>**
-[^6]: ==K== spelled: **<span class="asaramaic"><big>עֲלַיַּהּ\׃</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>עִלָּיאָ֜</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>עִלָּיָא</big></span>**
+[^3]: L spelled: **<span class="asaramaic"><big>אֲנָושָׁ֗א</big></span>**
+[^4]: K spelled: **<span class="asaramaic"><big>אֱנוֹשָׁא</big></span>**
+[^5]: L spelled: **<span class="asaramaic"><big>עֲלַֽיהּ\׃</big></span>**
+[^6]: K spelled: **<span class="asaramaic"><big>עֲלַיַּהּ\׃</big></span>**
 

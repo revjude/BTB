@@ -26,7 +26,7 @@ They set up the altar on its foundation and sacrificed burnt offerings on it to 
 | and of the evening  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H6153\|עָֽרֶב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HRd]]</sup></small> 'A.rev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.3.2|<< Ezra 3:2]]</td><td align="center" style="border:none;">[[Ezra.3|Ezra 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.3.4|Ezra 3:4 >>]]</td></tr></table>
 
-[^1]: ==K==: and he offered up  | **<big>[[H5927I|יַּעַל]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.'al<small><sup>[[HVhw3ms]]</sup></small> 
-[^2]: ==K==: and he offered up  | **<big>[[H5927I|יַּעַל]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.'al<small><sup>[[HVhw3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וַיַּעֲלֻ֨</big></span>**
+[^1]: and he offered up  | **<big>[[H5927I|יַּעַל]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.'al<small><sup>[[HVhw3ms]]</sup></small> | K
+[^2]: and he offered up  | **<big>[[H5927I|יַּעַל]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.'al<small><sup>[[HVhw3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וַיַּעֲלֻ֨</big></span>**
 

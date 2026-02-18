@@ -17,10 +17,10 @@ You shall have no other gods before Me.
 | face my  |**<big>&#8207;[[H6440G\|פָּנָֽ֗]]&#8207;&#8207;[[H9020\|יַ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^6] | pa.Na.<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.6|<< Deuteronomy 5:6]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.8|Deuteronomy 5:8 >>]]</td></tr></table>
 
-[^1]: ==P== spelled: **<span class="ashebrew"><big>לֹ֣א</big></span>**
-[^2]: ==P== spelled: **<span class="ashebrew"><big>יִהְיֶה\־</big></span>**
-[^3]: ==P== spelled: **<span class="ashebrew"><big>לְךָ֩</big></span>**
-[^4]: ==P== spelled: **<span class="ashebrew"><big>אֱלֹהִ֨ים</big></span>**
-[^5]: ==P== spelled: **<span class="ashebrew"><big>אֲחֵרִ֜ים</big></span>**
-[^6]: ==P== spelled: **<span class="ashebrew"><big>פָּנָ֗יַ\׃</big></span>**
+[^1]: P spelled: **<span class="ashebrew"><big>לֹ֣א</big></span>**
+[^2]: P spelled: **<span class="ashebrew"><big>יִהְיֶה\־</big></span>**
+[^3]: P spelled: **<span class="ashebrew"><big>לְךָ֩</big></span>**
+[^4]: P spelled: **<span class="ashebrew"><big>אֱלֹהִ֨ים</big></span>**
+[^5]: P spelled: **<span class="ashebrew"><big>אֲחֵרִ֜ים</big></span>**
+[^6]: P spelled: **<span class="ashebrew"><big>פָּנָ֗יַ\׃</big></span>**
 

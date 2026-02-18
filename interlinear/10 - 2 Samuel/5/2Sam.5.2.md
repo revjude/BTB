@@ -42,11 +42,11 @@ Even in times past, while Saul was king over us, you were the one who led Israel
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.5.1|<< 2 Samuel 5:1]]</td><td align="center" style="border:none;">[[2Sam.5|2 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.5.3|2 Samuel 5:3 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>הָיִ֛יתָהַ</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>הָיִיתָה</big></span>**
-[^3]: ==K==: leading out  | **<big>[[H3318H|מוֹצִיא]]</big> ** | mo.tzi'<small><sup>[[HVhrmsa]]</sup></small> 
-[^4]: ==K==: leading out  | **<big>[[H3318H|מוֹצִיא]]</big> ** | mo.tzi'<small><sup>[[HVhrmsa]]</sup></small> 
-[^5]: ==L== spelled: **<span class="ashebrew"><big>מּוֹצִ֥יא</big></span>**
-[^6]: ==L== spelled: **<span class="ashebrew"><big>וְהַ/מֵּבִ֖י</big></span>**
-[^7]: ==K== spelled: **<span class="ashebrew"><big>וְהַ/מֵּבִי</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>הָיִ֛יתָהַ</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>הָיִיתָה</big></span>**
+[^3]: leading out  | **<big>[[H3318H|מוֹצִיא]]</big> ** | mo.tzi'<small><sup>[[HVhrmsa]]</sup></small> | K
+[^4]: leading out  | **<big>[[H3318H|מוֹצִיא]]</big> ** | mo.tzi'<small><sup>[[HVhrmsa]]</sup></small> | K
+[^5]: L spelled: **<span class="ashebrew"><big>מּוֹצִ֥יא</big></span>**
+[^6]: L spelled: **<span class="ashebrew"><big>וְהַ/מֵּבִ֖י</big></span>**
+[^7]: K spelled: **<span class="ashebrew"><big>וְהַ/מֵּבִי</big></span>**
 

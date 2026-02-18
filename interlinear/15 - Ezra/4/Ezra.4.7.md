@@ -28,9 +28,9 @@ And in the days of Artaxerxes king of Persia, Bishlam, Mithredath, Tabeel, and t
 | Aramaic  |**<big>&#8207;[[H0762\|אֲרָמִֽית]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'a.ra.Mit<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.6|<< Ezra 4:6]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.8|Ezra 4:8 >>]]</td></tr></table>
 
-[^1]: ==K==: colleague his  | **<big>[[H9023|וֹ]]</big><big>[[H3674|כְּנָוֹת]]</big> ** | ke.na.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: colleague his  | **<big>[[H9023|וֹ]]</big><big>[[H3674|כְּנָוֹת]]</big> ** | ke.na.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>כְּנָוֹתָ֔ו</big></span>**
-[^4]: ==L== spelled: **<span class="ashebrew"><big>אַרְתַּחְשַׁ֖שְׂתְּא</big></span>**
-[^5]: ==K== spelled: **<span class="ashebrew"><big>אַרְתַּחְשַׁשְׂתָּא</big></span>**
+[^1]: colleague his  | **<big>[[H9023|וֹ]]</big><big>[[H3674|כְּנָוֹת]]</big> ** | ke.na.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: colleague his  | **<big>[[H9023|וֹ]]</big><big>[[H3674|כְּנָוֹת]]</big> ** | ke.na.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>כְּנָוֹתָ֔ו</big></span>**
+[^4]: L spelled: **<span class="ashebrew"><big>אַרְתַּחְשַׁ֖שְׂתְּא</big></span>**
+[^5]: K spelled: **<span class="ashebrew"><big>אַרְתַּחְשַׁשְׂתָּא</big></span>**
 

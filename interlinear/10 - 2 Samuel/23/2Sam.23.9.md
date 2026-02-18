@@ -28,11 +28,11 @@ Next in command was Eleazar son of Dodo the Ahohite. As one of the three mighty 
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.8|<< 2 Samuel 23:8]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.10|2 Samuel 23:10 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וְאַחֲרָ֛/ו</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וְאַחֲר/וֹ</big></span>**
-[^3]: ==K==: Dodi  | **<big>[[H1734H|דֹּדִי]]</big> ** | do.di<small><sup>[[HNpm]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>דֹּדֹ֖י</big></span>**
-[^5]: ==K==: warriors  | **<big>[[H1368|גִבֹּרִים]]</big> ** | gi.bo.rim<small><sup>[[HNcmpa]]</sup></small> 
-[^6]: ==K==: warriors  | **<big>[[H1368|גִבֹּרִים]]</big> ** | gi.bo.rim<small><sup>[[HNcmpa]]</sup></small> 
-[^7]: ==L== spelled: **<span class="ashebrew"><big>ַגִּבֹּרִ֜ים</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וְאַחֲרָ֛/ו</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וְאַחֲר/וֹ</big></span>**
+[^3]: Dodi  | **<big>[[H1734H|דֹּדִי]]</big> ** | do.di<small><sup>[[HNpm]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>דֹּדֹ֖י</big></span>**
+[^5]: warriors  | **<big>[[H1368|גִבֹּרִים]]</big> ** | gi.bo.rim<small><sup>[[HNcmpa]]</sup></small> | K
+[^6]: warriors  | **<big>[[H1368|גִבֹּרִים]]</big> ** | gi.bo.rim<small><sup>[[HNcmpa]]</sup></small> | K
+[^7]: L spelled: **<span class="ashebrew"><big>ַגִּבֹּרִ֜ים</big></span>**
 

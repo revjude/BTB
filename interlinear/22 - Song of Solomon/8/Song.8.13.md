@@ -16,5 +16,5 @@ You who dwell in the gardens, my companions are listening for your voice. Let me
 | cause to hear [it] me  |**<big>&#8207;[[H8085G\|הַשְׁמִיעִֽי]]&#8207;&#8207;[[H9030\|נִי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| hash.mi.'I.<small><sup>[[HVhv2fs]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.8.12|<< Song of Solomon 8:12]]</td><td align="center" style="border:none;">[[Song.8|Song of Solomon 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.8.14|Song of Solomon 8:14 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>הַיּוֹשֶׁ֣בֶת</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>הַיּוֹשֶׁ֣בֶת</big></span>**
 

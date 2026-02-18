@@ -17,7 +17,7 @@ His tail sways like a cedar; the sinews of his thighs are tightly knit.
 | they are intertwined  |**<big>&#8207;[[H8276\|יְשֹׂרָֽגוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.so.Ra.gu<small><sup>[[HVPi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.16|<< Job 40:16]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.18|Job 40:18 >>]]</td></tr></table>
 
-[^1]: ==K==: thigh its  | **<big>[[H9023|וֹ]]</big><big>[[H6344|פַחֲד]]</big> ** | fa.cha.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: thigh its  | **<big>[[H9023|וֹ]]</big><big>[[H6344|פַחֲד]]</big> ** | fa.cha.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>פַחֲדָ֣ו</big></span>**
+[^1]: thigh its  | **<big>[[H9023|וֹ]]</big><big>[[H6344|פַחֲד]]</big> ** | fa.cha.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: thigh its  | **<big>[[H9023|וֹ]]</big><big>[[H6344|פַחֲד]]</big> ** | fa.cha.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>פַחֲדָ֣ו</big></span>**
 

@@ -33,10 +33,10 @@ Seventy weeks are decreed for your people and your holy city to stop their trans
 | holy places  |**<big>&#8207;[[H6944G\|קָֽדָשִֽׁים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ka.da.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.23|<< Daniel 9:23]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.25|Daniel 9:25 >>]]</td></tr></table>
 
-[^1]: ==K==: and to seal up  | **<big>[[H2856|חְתֹּם]]</big><big>[[H9005|לַ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> la<small><sup>[[HR]]</sup></small> ch.tom<small><sup>[[HVqcc]]</sup></small> 
-[^2]: ==K==: and to seal up  | **<big>[[H2856|חְתֹּם]]</big><big>[[H9005|לַ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> la<small><sup>[[HR]]</sup></small> ch.tom<small><sup>[[HVqcc]]</sup></small> 
-[^3]: ==K==: and to seal up  | **<big>[[H2856|חְתֹּם]]</big><big>[[H9005|לַ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> la<small><sup>[[HR]]</sup></small> ch.tom<small><sup>[[HVqcc]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וּלְ/חָתֵ֤ם</big></span>**
-[^5]: ==K==: sins  | **<big>[[H2403B|חַטָּאוֹת]]</big> ** | cha.ta.'ot<small><sup>[[HNcfpa]]</sup></small> 
-[^6]: ==L== spelled: **<span class="ashebrew"><big>חַטָּאות֙</big></span>**
+[^1]: and to seal up  | **<big>[[H2856|חְתֹּם]]</big><big>[[H9005|לַ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> la<small><sup>[[HR]]</sup></small> ch.tom<small><sup>[[HVqcc]]</sup></small> | K
+[^2]: and to seal up  | **<big>[[H2856|חְתֹּם]]</big><big>[[H9005|לַ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> la<small><sup>[[HR]]</sup></small> ch.tom<small><sup>[[HVqcc]]</sup></small> | K
+[^3]: and to seal up  | **<big>[[H2856|חְתֹּם]]</big><big>[[H9005|לַ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> la<small><sup>[[HR]]</sup></small> ch.tom<small><sup>[[HVqcc]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וּלְ/חָתֵ֤ם</big></span>**
+[^5]: sins  | **<big>[[H2403B|חַטָּאוֹת]]</big> ** | cha.ta.'ot<small><sup>[[HNcfpa]]</sup></small> | K
+[^6]: L spelled: **<span class="ashebrew"><big>חַטָּאות֙</big></span>**
 

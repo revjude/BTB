@@ -31,7 +31,7 @@ And David was greatly distressed because the people spoke of stoning him, becaus
 | God his  |**<big>&#8207;[[H0430G\|אֱלֹהָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'e.lo.Ha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30.5|<< 1 Samuel 30:5]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.7|1 Samuel 30:7 >>]]</td></tr></table>
 
-[^1]: ==K==: son his  | **<big>[[H9023|וֹ]]</big><big>[[H1121A|בְּנ]]</big> ** | be.no<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: son his  | **<big>[[H9023|וֹ]]</big><big>[[H1121A|בְּנ]]</big> ** | be.no<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בָּנָ֣ו</big></span>**
+[^1]: son his  | **<big>[[H9023|וֹ]]</big><big>[[H1121A|בְּנ]]</big> ** | be.no<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: son his  | **<big>[[H9023|וֹ]]</big><big>[[H1121A|בְּנ]]</big> ** | be.no<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בָּנָ֣ו</big></span>**
 

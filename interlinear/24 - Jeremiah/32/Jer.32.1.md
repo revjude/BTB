@@ -28,7 +28,7 @@ This is the word that came to Jeremiah from the LORD in the tenth year of Zedeki
 | of Nebuchadnezzar  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H5019\|נְבֽוּכַדְרֶאצַּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> n.Vu.khad.re.Tzar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.40|<< Jeremiah 31:40]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.2|Jeremiah 32:2 >>]]</td></tr></table>
 
-[^1]: ==K==: in the year  | **<big>[[H8141|שְׁנַת]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HRd]]</sup></small> sh.nat<small><sup>[[HNcfsc]]</sup></small> 
-[^2]: ==K==: in the year  | **<big>[[H8141|שְׁנַת]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HRd]]</sup></small> sh.nat<small><sup>[[HNcfsc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בַּשָּׁנָת֙</big></span>**
+[^1]: in the year  | **<big>[[H8141|שְׁנַת]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HRd]]</sup></small> sh.nat<small><sup>[[HNcfsc]]</sup></small> | K
+[^2]: in the year  | **<big>[[H8141|שְׁנַת]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HRd]]</sup></small> sh.nat<small><sup>[[HNcfsc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בַּשָּׁנָת֙</big></span>**
 

@@ -21,6 +21,6 @@ Shake off your dust! Rise up and sit on your throne, O Jerusalem. Remove the cha
 | Zion  |**<big>&#8207;[[H6726\|צִיּֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.52.1|<< Isaiah 52:1]]</td><td align="center" style="border:none;">[[Isa.52|Isaiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.52.3|Isaiah 52:3 >>]]</td></tr></table>
 
-[^1]: ==K==: loosen for yourselves  | **<big>[[H6605A|הִתְפַּתְּחוּ]]</big> ** | hit.pa.te.chu<small><sup>[[HVtv2mp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>הִֽתְפַּתְּחִו֙</big></span>**
+[^1]: loosen for yourselves  | **<big>[[H6605A|הִתְפַּתְּחוּ]]</big> ** | hit.pa.te.chu<small><sup>[[HVtv2mp]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>הִֽתְפַּתְּחִו֙</big></span>**
 

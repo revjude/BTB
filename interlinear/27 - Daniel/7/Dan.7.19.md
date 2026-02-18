@@ -34,10 +34,10 @@ Then I wanted to know the true meaning of the fourth beast, which was different 
 | [it was] trampling  |**<big>&#8207;[[H7512\|רָֽפְסָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ra.fe.Sah<small><sup>[[AVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.18|<< Daniel 7:18]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.20|Daniel 7:20 >>]]</td></tr></table>
 
-[^1]: ==K==: all of them  | **<big>[[H9028|הוֹן]]</big><big>[[H3606|כָּלְּ]]</big> ** | ka.le.<small><sup>[[ANcbsc]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> 
-[^2]: ==K==: all of them  | **<big>[[H9028|הוֹן]]</big><big>[[H3606|כָּלְּ]]</big> ** | ka.le.<small><sup>[[ANcbsc]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="asaramaic"><big>כָּלְּהֵ֑ון</big></span>**
-[^4]: ==K==: teeth its  | **<big>[[H9024|הּ]]</big><big>[[H8128|שִׁנַּיַּ]]</big> ** | shi.nai.ya<small><sup>[[ANcfpc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> 
-[^5]: ==K==: teeth its  | **<big>[[H9024|הּ]]</big><big>[[H8128|שִׁנַּיַּ]]</big> ** | shi.nai.ya<small><sup>[[ANcfpc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> 
-[^6]: ==L== spelled: **<span class="asaramaic"><big>שִׁנַּ֤יהּ</big></span>**
+[^1]: all of them  | **<big>[[H9028|הוֹן]]</big><big>[[H3606|כָּלְּ]]</big> ** | ka.le.<small><sup>[[ANcbsc]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
+[^2]: all of them  | **<big>[[H9028|הוֹן]]</big><big>[[H3606|כָּלְּ]]</big> ** | ka.le.<small><sup>[[ANcbsc]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="asaramaic"><big>כָּלְּהֵ֑ון</big></span>**
+[^4]: teeth its  | **<big>[[H9024|הּ]]</big><big>[[H8128|שִׁנַּיַּ]]</big> ** | shi.nai.ya<small><sup>[[ANcfpc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | K
+[^5]: teeth its  | **<big>[[H9024|הּ]]</big><big>[[H8128|שִׁנַּיַּ]]</big> ** | shi.nai.ya<small><sup>[[ANcfpc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | K
+[^6]: L spelled: **<span class="asaramaic"><big>שִׁנַּ֤יהּ</big></span>**
 

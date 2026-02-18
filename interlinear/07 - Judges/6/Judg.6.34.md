@@ -20,5 +20,5 @@ So the Spirit of the LORD came upon Gideon, who blew the ram’s horn and rallie
 | after him  |**<big>&#8207;[[H0310A\|אַחֲרָֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.cha.Ra<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.33|<< Judges 6:33]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.35|Judges 6:35 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>וַיִּזָּעֵ֥ק</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>וַיִּזָּעֵ֥ק</big></span>**
 

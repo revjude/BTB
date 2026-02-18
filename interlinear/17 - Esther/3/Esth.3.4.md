@@ -30,8 +30,8 @@ Day after day they warned him, but he would not comply. So they reported it to H
 | [was] a Jew  |**<big>&#8207;[[H3064\|יְהוּדִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.hu.Di<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.3.3|<< Esther 3:3]]</td><td align="center" style="border:none;">[[Esth.3|Esther 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.3.5|Esther 3:5 >>]]</td></tr></table>
 
-[^1]: ==K==: when spoke they  | **<big>[[H9048|ם]]</big><big>[[H0559|אָמְרָ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'a.me.ra<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^2]: ==K==: when spoke they  | **<big>[[H9048|ם]]</big><big>[[H0559|אָמְרָ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'a.me.ra<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^3]: ==K==: when spoke they  | **<big>[[H9048|ם]]</big><big>[[H0559|אָמְרָ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'a.me.ra<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>בְּאָמְרָ֤/ם</big></span>**
+[^1]: when spoke they  | **<big>[[H9048|ם]]</big><big>[[H0559|אָמְרָ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'a.me.ra<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^2]: when spoke they  | **<big>[[H9048|ם]]</big><big>[[H0559|אָמְרָ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'a.me.ra<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^3]: when spoke they  | **<big>[[H9048|ם]]</big><big>[[H0559|אָמְרָ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'a.me.ra<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>בְּאָמְרָ֤/ם</big></span>**
 

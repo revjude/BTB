@@ -21,6 +21,6 @@ Their roaring is like that of a lion; they roar like young lions. They growl and
 | [is] a deliverer  |**<big>&#8207;[[H5337\|מַצִּֽיל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ma.Tzil<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.28|<< Isaiah 5:28]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.30|Isaiah 5:30 >>]]</td></tr></table>
 
-[^1]: ==K==: and it will roar  | **<big>[[H7580|שָׁאַג]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> sha.'ag<small><sup>[[HVqq3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>וִשְׁאַ֨ג</big></span>**
+[^1]: and it will roar  | **<big>[[H7580|שָׁאַג]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> sha.'ag<small><sup>[[HVqq3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>וִשְׁאַ֨ג</big></span>**
 

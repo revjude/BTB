@@ -27,8 +27,8 @@ As soon as you hear the sound of marching in the tops of the balsam trees, move 
 | [the] Philistines  |**<big>&#8207;[[H6430G\|פְלִשְׁתִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| fe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.5.23|<< 2 Samuel 5:23]]</td><td align="center" style="border:none;">[[2Sam.5|2 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.5.25|2 Samuel 5:25 >>]]</td></tr></table>
 
-[^1]: ==K==: when hearing you  | **<big>[[H9041|ךָ]]</big><big>[[H8085G|שָׁמְעֲ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> sha.me.'a.<small><sup>[[HVqcc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^2]: ==K==: when hearing you  | **<big>[[H9041|ךָ]]</big><big>[[H8085G|שָׁמְעֲ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> sha.me.'a.<small><sup>[[HVqcc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^3]: ==K==: when hearing you  | **<big>[[H9041|ךָ]]</big><big>[[H8085G|שָׁמְעֲ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> sha.me.'a.<small><sup>[[HVqcc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>בְּֽשָׁמְעֲ/ךָ֞</big></span>**
+[^1]: when hearing you  | **<big>[[H9041|ךָ]]</big><big>[[H8085G|שָׁמְעֲ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> sha.me.'a.<small><sup>[[HVqcc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: when hearing you  | **<big>[[H9041|ךָ]]</big><big>[[H8085G|שָׁמְעֲ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> sha.me.'a.<small><sup>[[HVqcc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^3]: when hearing you  | **<big>[[H9041|ךָ]]</big><big>[[H8085G|שָׁמְעֲ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> sha.me.'a.<small><sup>[[HVqcc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>בְּֽשָׁמְעֲ/ךָ֞</big></span>**
 

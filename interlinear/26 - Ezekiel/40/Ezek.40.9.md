@@ -22,8 +22,8 @@ it was eight cubits deep, and its jambs were two cubits thick. And the portico o
 | [was] from the inside  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1004O\|בָּֽיִת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.8|<< Ezekiel 40:8]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.10|Ezekiel 40:10 >>]]</td></tr></table>
 
-[^1]: ==K==: and pillar its  | **<big>[[H9023|וֹ]]</big><big>[[H0352B|אֵיל]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: and pillar its  | **<big>[[H9023|וֹ]]</big><big>[[H0352B|אֵיל]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: and pillar its  | **<big>[[H9023|וֹ]]</big><big>[[H0352B|אֵיל]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וְאֵילָ֖/ו</big></span>**
+[^1]: and pillar its  | **<big>[[H9023|וֹ]]</big><big>[[H0352B|אֵיל]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: and pillar its  | **<big>[[H9023|וֹ]]</big><big>[[H0352B|אֵיל]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: and pillar its  | **<big>[[H9023|וֹ]]</big><big>[[H0352B|אֵיל]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וְאֵילָ֖/ו</big></span>**
 

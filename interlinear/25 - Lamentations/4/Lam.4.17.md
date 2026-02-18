@@ -22,7 +22,7 @@ All the while our eyes were failing as we looked in vain for help. We watched fr
 | it will save  |**<big>&#8207;[[H3467\|יוֹשִֽׁעַ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yo.Shi.a'<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.16|<< Lamentations 4:16]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.18|Lamentations 4:18 >>]]</td></tr></table>
 
-[^1]: ==K==: yet they  | **<big>[[H9049|ינָה]]</big><big>[[H5750|עוֹדֵ]]</big> ** | o.de<small><sup>[[HAcbsa]]</sup></small> i.nah<small><sup>[[HSp3fp]]</sup></small> 
-[^2]: ==K==: yet they  | **<big>[[H9049|ינָה]]</big><big>[[H5750|עוֹדֵ]]</big> ** | o.de<small><sup>[[HAcbsa]]</sup></small> i.nah<small><sup>[[HSp3fp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>עוֹדֵ֙ינֻה֙</big></span>**
+[^1]: yet they  | **<big>[[H9049|ינָה]]</big><big>[[H5750|עוֹדֵ]]</big> ** | o.de<small><sup>[[HAcbsa]]</sup></small> i.nah<small><sup>[[HSp3fp]]</sup></small> | K
+[^2]: yet they  | **<big>[[H9049|ינָה]]</big><big>[[H5750|עוֹדֵ]]</big> ** | o.de<small><sup>[[HAcbsa]]</sup></small> i.nah<small><sup>[[HSp3fp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>עוֹדֵ֙ינֻה֙</big></span>**
 

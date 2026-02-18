@@ -32,5 +32,5 @@ his brother’s widow shall go up to him in the presence of the elders, remove h
 | brother his  |**<big>&#8207;[[H0251G\|אָחִֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**[^1] | 'a.Chi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.25.8|<< Deuteronomy 25:8]]</td><td align="center" style="border:none;">[[Deut.25|Deuteronomy 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.25.10|Deuteronomy 25:10 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>אָחִֽיו\׃</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>אָחִֽיו\׃</big></span>**
 

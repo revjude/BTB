@@ -31,8 +31,8 @@ Then Samuel took a suckling lamb and offered it as a whole burnt offering to the
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.7.8|<< 1 Samuel 7:8]]</td><td align="center" style="border:none;">[[1Sam.7|1 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.7.10|1 Samuel 7:10 >>]]</td></tr></table>
 
-[^1]: ==K==: and he offered up  | **<big>[[H5927I|יַּעֲלֶה]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.'a.leh<small><sup>[[HVqw3ms]]</sup></small> 
-[^2]: ==K==: and he offered up  | **<big>[[H5927I|יַּעֲלֶה]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.'a.leh<small><sup>[[HVqw3ms]]</sup></small> 
-[^3]: ==K==: and he offered up  | **<big>[[H5927I|יַּעֲלֶה]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.'a.leh<small><sup>[[HVqw3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וַיַּעֲלֵ֧הֻ</big></span>**
+[^1]: and he offered up  | **<big>[[H5927I|יַּעֲלֶה]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.'a.leh<small><sup>[[HVqw3ms]]</sup></small> | K
+[^2]: and he offered up  | **<big>[[H5927I|יַּעֲלֶה]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.'a.leh<small><sup>[[HVqw3ms]]</sup></small> | K
+[^3]: and he offered up  | **<big>[[H5927I|יַּעֲלֶה]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.'a.leh<small><sup>[[HVqw3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וַיַּעֲלֵ֧הֻ</big></span>**
 

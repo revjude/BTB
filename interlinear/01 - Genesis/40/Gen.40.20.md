@@ -32,5 +32,5 @@ On the third day, which was Pharaoh’s birthday, he held a feast for all his of
 | servants his  |**<big>&#8207;[[H5650\|עֲבָדָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.va.Da<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.19|<< Genesis 40:19]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.21|Genesis 40:21 >>]]</td></tr></table>
 
-[^1]: ==B== spelled: **<span class="ashebrew"><big>י֤וֹם</big></span>**
+[^1]: B spelled: **<span class="ashebrew"><big>י֤וֹם</big></span>**
 

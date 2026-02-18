@@ -17,8 +17,8 @@ For He wounds, but He also binds; He strikes, but His hands also heal.
 | they heal  |**<big>&#8207;[[H7495\|תִּרְפֶּֽינָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tir.Pei.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.17|<< Job 5:17]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.19|Job 5:19 >>]]</td></tr></table>
 
-[^1]: ==K==: and hand his  | **<big>[[H9023|וֹ]]</big><big>[[H3027G|יָד]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: and hand his  | **<big>[[H9023|וֹ]]</big><big>[[H3027G|יָד]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: and hand his  | **<big>[[H9023|וֹ]]</big><big>[[H3027G|יָד]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וְיָדָ֥/ו</big></span>**
+[^1]: and hand his  | **<big>[[H9023|וֹ]]</big><big>[[H3027G|יָד]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: and hand his  | **<big>[[H9023|וֹ]]</big><big>[[H3027G|יָד]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: and hand his  | **<big>[[H9023|וֹ]]</big><big>[[H3027G|יָד]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ya.do<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וְיָדָ֥/ו</big></span>**
 

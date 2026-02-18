@@ -25,7 +25,7 @@ one cherub on one end and one on the other, all made from one piece of gold.
 | ends its  [^2]|**<big>&#8207;[[H7098\|קְצוֹתָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | kitz.vo.to<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.7|<< Exodus 37:7]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.9|Exodus 37:9 >>]]</td></tr></table>
 
-[^1]: ==K==: end its  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H7117|קִצְווֹת]]</big> ** | kitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: end its  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H7117|קִצְווֹת]]</big> ** | kitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>קְצוֹותָֽו\׃</big></span>**
+[^1]: end its  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H7117|קִצְווֹת]]</big> ** | kitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: end its  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H7117|קִצְווֹת]]</big> ** | kitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>קְצוֹותָֽו\׃</big></span>**
 

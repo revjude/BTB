@@ -37,6 +37,6 @@ They refused to listen and failed to remember the wonders You performed among th
 | you abandoned them  |**<big>&#8207;[[H5800A\|עֲזַבְתָּֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.zav.Ta<small><sup>[[HVqp2ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.16|<< Nehemiah 9:16]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.18|Nehemiah 9:18 >>]]</td></tr></table>
 
-[^1]: ==K==: and covenant loyalty  | **<big>[[H2617A|חֶסֶד]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> che.sed<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>וחֶ֖סֶד</big></span>**
+[^1]: and covenant loyalty  | **<big>[[H2617A|חֶסֶד]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> che.sed<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>וחֶ֖סֶד</big></span>**
 

@@ -20,9 +20,9 @@ The bellows blow fiercely, blasting away the lead with fire. The refining procee
 | they have been separated  |**<big>&#8207;[[H5423\|נִתָּֽקוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ni.Ta.ku<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.28|<< Jeremiah 6:28]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.30|Jeremiah 6:30 >>]]</td></tr></table>
 
-[^1]: ==K==: from fire their  | **<big>[[H9028|ם]]</big><big>[[H0800|אִשְׁתַּ]]</big><big>[[H9006|מֵ]]</big> ** | me.<small><sup>[[HR]]</sup></small> 'ish.ta<small><sup>[[HNcbsa]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^2]: ==K==: from fire their  | **<big>[[H9028|ם]]</big><big>[[H0800|אִשְׁתַּ]]</big><big>[[H9006|מֵ]]</big> ** | me.<small><sup>[[HR]]</sup></small> 'ish.ta<small><sup>[[HNcbsa]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^3]: ==K==: from fire their  | **<big>[[H9028|ם]]</big><big>[[H0800|אִשְׁתַּ]]</big><big>[[H9006|מֵ]]</big> ** | me.<small><sup>[[HR]]</sup></small> 'ish.ta<small><sup>[[HNcbsa]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^4]: ==K==: from fire their  | **<big>[[H9028|ם]]</big><big>[[H0800|אִשְׁתַּ]]</big><big>[[H9006|מֵ]]</big> ** | me.<small><sup>[[HR]]</sup></small> 'ish.ta<small><sup>[[HNcbsa]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^5]: ==L== spelled: **<span class="ashebrew"><big>מֵאֵ֖שׁתַּ֣/ם</big></span>**
+[^1]: from fire their  | **<big>[[H9028|ם]]</big><big>[[H0800|אִשְׁתַּ]]</big><big>[[H9006|מֵ]]</big> ** | me.<small><sup>[[HR]]</sup></small> 'ish.ta<small><sup>[[HNcbsa]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^2]: from fire their  | **<big>[[H9028|ם]]</big><big>[[H0800|אִשְׁתַּ]]</big><big>[[H9006|מֵ]]</big> ** | me.<small><sup>[[HR]]</sup></small> 'ish.ta<small><sup>[[HNcbsa]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^3]: from fire their  | **<big>[[H9028|ם]]</big><big>[[H0800|אִשְׁתַּ]]</big><big>[[H9006|מֵ]]</big> ** | me.<small><sup>[[HR]]</sup></small> 'ish.ta<small><sup>[[HNcbsa]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^4]: from fire their  | **<big>[[H9028|ם]]</big><big>[[H0800|אִשְׁתַּ]]</big><big>[[H9006|מֵ]]</big> ** | me.<small><sup>[[HR]]</sup></small> 'ish.ta<small><sup>[[HNcbsa]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^5]: L spelled: **<span class="ashebrew"><big>מֵאֵ֖שׁתַּ֣/ם</big></span>**
 

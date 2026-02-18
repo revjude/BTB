@@ -37,8 +37,8 @@ And he said unto him, God forbid; thou shalt not die: behold, my father will do 
 | [is] this  |**<big>&#8207;[[H2063\|זֹֽאת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.1|<< 1 Samuel 20:1]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.3|1 Samuel 20:3 >>]]</td></tr></table>
 
-[^1]: ==K==: to him  | **<big>[[H9014|־]]</big><big>[[H9033|וֹ]]</big><big>[[H9005|ל]]</big> ** | lo<small><sup>[[HRd]]</sup></small> v-<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>לֽוֹ\־</big></span>**
-[^3]: ==K==: he has done  | **<big>[[H6213A|עָשָׂה]]</big> ** | 'a.sah<small><sup>[[HVqp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>ַעֲשֶׂ֨ה</big></span>**
+[^1]: to him  | **<big>[[H9014|־]]</big><big>[[H9033|וֹ]]</big><big>[[H9005|ל]]</big> ** | lo<small><sup>[[HRd]]</sup></small> v-<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>לֽוֹ\־</big></span>**
+[^3]: he has done  | **<big>[[H6213A|עָשָׂה]]</big> ** | 'a.sah<small><sup>[[HVqp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>ַעֲשֶׂ֨ה</big></span>**
 

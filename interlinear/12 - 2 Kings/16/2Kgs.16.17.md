@@ -33,6 +33,6 @@ King Ahaz also cut off the frames of the movable stands and removed the bronze b
 | stone\<s>  |**<big>&#8207;[[H0068G\|אֲבָנִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.va.Nim<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.16.16|<< 2 Kings 16:16]]</td><td align="center" style="border:none;">[[2Kgs.16|2 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.16.18|2 Kings 16:18 >>]]</td></tr></table>
 
-[^1]: ==K==: and \<obj.>  | **<big>[[H0853|אֶת]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>ואֶת\־</big></span>**
+[^1]: and \<obj.>  | **<big>[[H0853|אֶת]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>ואֶת\־</big></span>**
 

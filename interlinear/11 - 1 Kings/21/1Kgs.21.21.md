@@ -23,6 +23,6 @@ This is what the LORD says: ‘I will bring calamity on you and consume your des
 | in Israel  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.20|<< 1 Kings 21:20]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.22|1 Kings 21:22 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>מֵבִ֤י</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>מֵבִי</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>מֵבִ֤י</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>מֵבִי</big></span>**
 

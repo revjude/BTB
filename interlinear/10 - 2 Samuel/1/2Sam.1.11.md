@@ -19,8 +19,8 @@ Then David took hold of his own clothes and tore them, and all the men who were 
 | [were] with him  |**<big>&#8207;[[H0854\|אִתּֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'i.T<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.1.10|<< 2 Samuel 1:10]]</td><td align="center" style="border:none;">[[2Sam.1|2 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.1.12|2 Samuel 1:12 >>]]</td></tr></table>
 
-[^1]: ==K==: on garment his  | **<big>[[H9023|וֹ]]</big><big>[[H0899B|בְגָד]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> v.ga.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: on garment his  | **<big>[[H9023|וֹ]]</big><big>[[H0899B|בְגָד]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> v.ga.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: on garment his  | **<big>[[H9023|וֹ]]</big><big>[[H0899B|בְגָד]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> v.ga.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>בִּבְגָדָ֖/ו</big></span>**
+[^1]: on garment his  | **<big>[[H9023|וֹ]]</big><big>[[H0899B|בְגָד]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> v.ga.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: on garment his  | **<big>[[H9023|וֹ]]</big><big>[[H0899B|בְגָד]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> v.ga.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: on garment his  | **<big>[[H9023|וֹ]]</big><big>[[H0899B|בְגָד]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> v.ga.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>בִּבְגָדָ֖/ו</big></span>**
 

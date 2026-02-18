@@ -21,8 +21,8 @@ until the Spirit is poured out upon us from on high. Then the desert will be an 
 | it will be considered  |**<big>&#8207;[[H2803J\|יֵחָשֵֽׁב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.cha.Shev<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.14|<< Isaiah 32:14]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.16|Isaiah 32:16 >>]]</td></tr></table>
 
-[^1]: ==K==: and an orchard  | **<big>[[H3759|כַרְמֶל]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> khar.mel<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==K==: and an orchard  | **<big>[[H3759|כַרְמֶל]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> khar.mel<small><sup>[[HNcbsa]]</sup></small> 
-[^3]: ==K==: and an orchard  | **<big>[[H3759|כַרְמֶל]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> khar.mel<small><sup>[[HNcbsa]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וְַכַּרְמֶ֖ל</big></span>**
+[^1]: and an orchard  | **<big>[[H3759|כַרְמֶל]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> khar.mel<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: and an orchard  | **<big>[[H3759|כַרְמֶל]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> khar.mel<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: and an orchard  | **<big>[[H3759|כַרְמֶל]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> khar.mel<small><sup>[[HNcbsa]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וְַכַּרְמֶ֖ל</big></span>**
 

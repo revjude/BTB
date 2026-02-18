@@ -16,7 +16,7 @@ We have become fatherless orphans; our mothers are widows.
 | [are] like widows  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H0490\|אַלְמָנֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> 'al.ma.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.5.2|<< Lamentations 5:2]]</td><td align="center" style="border:none;">[[Lam.5|Lamentations 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.5.4|Lamentations 5:4 >>]]</td></tr></table>
 
-[^1]: ==K==: there not  | **<big>[[H0369|אֵין]]</big> ** | 'ein<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==K==: there not  | **<big>[[H0369|אֵין]]</big> ** | 'ein<small><sup>[[HNcbsc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>ְאֵ֣ין</big></span>**
+[^1]: there not  | **<big>[[H0369|אֵין]]</big> ** | 'ein<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: there not  | **<big>[[H0369|אֵין]]</big> ** | 'ein<small><sup>[[HNcbsc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>ְאֵ֣ין</big></span>**
 

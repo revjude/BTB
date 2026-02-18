@@ -36,7 +36,7 @@ So all the people of the land went to the temple of Baal and tore it down. They 
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.11.17|<< 2 Kings 11:17]]</td><td align="center" style="border:none;">[[2Kgs.11|2 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11.19|2 Kings 11:19 >>]]</td></tr></table>
 
-[^1]: ==K==: altar its  | **<big>[[H9023|וֹ]]</big><big>[[H4196|מִזְבְּחֹת]]</big> ** | miz.be.cho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: altar its  | **<big>[[H9023|וֹ]]</big><big>[[H4196|מִזְבְּחֹת]]</big> ** | miz.be.cho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>מִזְבְּחֹתָ֤ו</big></span>**
+[^1]: altar its  | **<big>[[H9023|וֹ]]</big><big>[[H4196|מִזְבְּחֹת]]</big> ** | miz.be.cho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: altar its  | **<big>[[H9023|וֹ]]</big><big>[[H4196|מִזְבְּחֹת]]</big> ** | miz.be.cho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>מִזְבְּחֹתָ֤ו</big></span>**
 

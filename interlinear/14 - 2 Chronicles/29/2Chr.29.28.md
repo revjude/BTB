@@ -21,6 +21,6 @@ The whole assembly was worshiping, the singers were singing, and the trumpeters 
 | the burnt offering  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5930A\|עֹלָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.27|<< 2 Chronicles 29:27]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.29|2 Chronicles 29:29 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>מַחְצְצרִ֑ים</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>מַחֲצֹצְרִים</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>מַחְצְצרִ֑ים</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>מַחֲצֹצְרִים</big></span>**
 

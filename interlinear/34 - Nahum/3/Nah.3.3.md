@@ -25,7 +25,7 @@ Charging horseman, flashing sword, shining spear; heaps of slain, mounds of corp
 | over bodi[es] their  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H1472\|גְוִיָּתָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> g.vi.ya.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.2|<< Nahum 3:2]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.3.4|Nahum 3:4 >>]]</td></tr></table>
 
-[^1]: ==K==: people will stumble  | **<big>[[H3782|יִכְשְׁלוּ]]</big> ** | yikh.she.lu<small><sup>[[HVqi3mp]]</sup></small> 
-[^2]: ==K==: people will stumble  | **<big>[[H3782|יִכְשְׁלוּ]]</big> ** | yikh.she.lu<small><sup>[[HVqi3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>יְכָשְׁל֖וּ</big></span>**
+[^1]: people will stumble  | **<big>[[H3782|יִכְשְׁלוּ]]</big> ** | yikh.she.lu<small><sup>[[HVqi3mp]]</sup></small> | K
+[^2]: people will stumble  | **<big>[[H3782|יִכְשְׁלוּ]]</big> ** | yikh.she.lu<small><sup>[[HVqi3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>יְכָשְׁל֖וּ</big></span>**
 

@@ -24,8 +24,8 @@ Because you trust in your works and treasures, you too will be captured, and Che
 | together  |**<big>&#8207;[[H3162B\|יַחְדָּֽיו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] [^4] | ya.chad<small><sup>[[HD]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.6|<< Jeremiah 48:6]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.8|Jeremiah 48:8 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>כְמֹישׁ֙</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>כְמִישׁ</big></span>**
-[^3]: ==L== spelled: **<span class="ashebrew"><big>יַחְדָּֽ\׃</big></span>**
-[^4]: ==K== spelled: **<span class="ashebrew"><big>יַחַד\׃</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>כְמֹישׁ֙</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>כְמִישׁ</big></span>**
+[^3]: L spelled: **<span class="ashebrew"><big>יַחְדָּֽ\׃</big></span>**
+[^4]: K spelled: **<span class="ashebrew"><big>יַחַד\׃</big></span>**
 

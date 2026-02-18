@@ -16,6 +16,6 @@ He who despises his neighbor sins, but blessed is he who shows kindness to the p
 | how blessed [is] he  |**<big>&#8207;[[H0835\|אַשְׁרָֽי]]&#8207;&#8207;[[H9043\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'ash.Ra<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.20|<< Proverbs 14:20]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.22|Proverbs 14:22 >>]]</td></tr></table>
 
-[^1]: ==K==: poor [people]  | **<big>[[H6041|עֲנָיִים]]</big> ** | a.na.yim<small><sup>[[HAampa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>עֲנָיִ֣ים</big></span>**
+[^1]: poor [people]  | **<big>[[H6041|עֲנָיִים]]</big> ** | a.na.yim<small><sup>[[HAampa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>עֲנָיִ֣ים</big></span>**
 

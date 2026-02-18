@@ -26,6 +26,6 @@ Next to him, Baruch son of Zabbai diligently repaired another section, from the 
 | \<the> great  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1419A\|גָּדֽוֹל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.19|<< Nehemiah 3:19]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.21|Nehemiah 3:21 >>]]</td></tr></table>
 
-[^1]: ==K==: Zabbai  | **<big>[[H2079H|זַבַּי]]</big> ** | za.bai<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>זַבַּ֖י</big></span>**
+[^1]: Zabbai  | **<big>[[H2079H|זַבַּי]]</big> ** | za.bai<small><sup>[[HNpm]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>זַבַּ֖י</big></span>**
 

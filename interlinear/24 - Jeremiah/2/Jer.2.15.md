@@ -22,6 +22,6 @@ The young lions have roared at him; they have sounded their voices. They have la
 | inhabitant  |**<big>&#8207;[[H3427\|יֹשֵֽׁב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yo.Shev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.14|<< Jeremiah 2:14]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.16|Jeremiah 2:16 >>]]</td></tr></table>
 
-[^1]: ==K==: it is burnt  | **<big>[[H3341|נִצְּתָה]]</big> ** | ni.tze.tah<small><sup>[[HVNp3fs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>נִצְּתֻ֖ה</big></span>**
+[^1]: it is burnt  | **<big>[[H3341|נִצְּתָה]]</big> ** | ni.tze.tah<small><sup>[[HVNp3fs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>נִצְּתֻ֖ה</big></span>**
 

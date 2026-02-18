@@ -32,8 +32,8 @@ In Ahab’s days, Hiel the Bethelite rebuilt Jericho. At the cost of Abiram his 
 | Nun  |**<big>&#8207;[[H5126\|נֽוּן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Nun<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.33|<< 1 Kings 16:33]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.17.1|1 Kings 17:1 >>]]</td></tr></table>
 
-[^1]: ==K==: and by Segib  | **<big>[[H7687G|שְׂגִיב]]</big><big>[[H9003|בִ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> vi<small><sup>[[HR]]</sup></small> s.giv<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==K==: and by Segib  | **<big>[[H7687G|שְׂגִיב]]</big><big>[[H9003|בִ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> vi<small><sup>[[HR]]</sup></small> s.giv<small><sup>[[HNpm]]</sup></small> 
-[^3]: ==K==: and by Segib  | **<big>[[H7687G|שְׂגִיב]]</big><big>[[H9003|בִ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> vi<small><sup>[[HR]]</sup></small> s.giv<small><sup>[[HNpm]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וּבִ/שְׂג֤יּב</big></span>**
+[^1]: and by Segib  | **<big>[[H7687G|שְׂגִיב]]</big><big>[[H9003|בִ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> vi<small><sup>[[HR]]</sup></small> s.giv<small><sup>[[HNpm]]</sup></small> | K
+[^2]: and by Segib  | **<big>[[H7687G|שְׂגִיב]]</big><big>[[H9003|בִ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> vi<small><sup>[[HR]]</sup></small> s.giv<small><sup>[[HNpm]]</sup></small> | K
+[^3]: and by Segib  | **<big>[[H7687G|שְׂגִיב]]</big><big>[[H9003|בִ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> vi<small><sup>[[HR]]</sup></small> s.giv<small><sup>[[HNpm]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וּבִ/שְׂג֤יּב</big></span>**
 

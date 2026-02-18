@@ -28,7 +28,7 @@ On the day you stood aloof while strangers carried off his wealth and foreigners
 | from them  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.10|<< Obadiah 1:10]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.12|Obadiah 1:12 >>]]</td></tr></table>
 
-[^1]: ==K==: gate his  | **<big>[[H9023|וֹ]]</big><big>[[H8179G|שַׁעֲר]]</big> ** | sha.'a.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: gate his  | **<big>[[H9023|וֹ]]</big><big>[[H8179G|שַׁעֲר]]</big> ** | sha.'a.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>שְׁעָרָ֗ו</big></span>**
+[^1]: gate his  | **<big>[[H9023|וֹ]]</big><big>[[H8179G|שַׁעֲר]]</big> ** | sha.'a.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: gate his  | **<big>[[H9023|וֹ]]</big><big>[[H8179G|שַׁעֲר]]</big> ** | sha.'a.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>שְׁעָרָ֗ו</big></span>**
 

@@ -36,6 +36,6 @@ If you do not tell me the dream, there is only one decree for you. You have cons
 | you will declare to me  |**<big>&#8207;[[H2324\|תְּהַחֲוֻנַּֽ]]&#8207;&#8207;[[H9030\|נִי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| te.ha.cha.vu.Na.<small><sup>[[AVhi2mp]]</sup></small> ni<small><sup>[[ASp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.8|<< Daniel 2:8]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.10|Daniel 2:10 >>]]</td></tr></table>
 
-[^1]: ==K==: you have decided  | **<big>[[H2164|הַזְמִנְתּוּן]]</big> ** | haz.min.tun<small><sup>[[AVpp2mp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="asaramaic"><big>הִזְְמִנְתּוּן֙</big></span>**
+[^1]: you have decided  | **<big>[[H2164|הַזְמִנְתּוּן]]</big> ** | haz.min.tun<small><sup>[[AVpp2mp]]</sup></small> | K
+[^2]: L spelled: **<span class="asaramaic"><big>הִזְְמִנְתּוּן֙</big></span>**
 

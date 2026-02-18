@@ -21,6 +21,6 @@ So the king of Israel called one of his officials and said, “Bring Micaiah son
 | Imlah  |**<big>&#8207;[[H3229\|יִמְלָֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yim.La'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.7|<< 2 Chronicles 18:7]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.9|2 Chronicles 18:9 >>]]</td></tr></table>
 
-[^1]: ==K==: Micahu  | **<big>[[H4319|מִיכָהוּ]]</big> ** | mi.kha.hu<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>מִיכָ֥הְוּ</big></span>**
+[^1]: Micahu  | **<big>[[H4319|מִיכָהוּ]]</big> ** | mi.kha.hu<small><sup>[[HNpm]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>מִיכָ֥הְוּ</big></span>**
 

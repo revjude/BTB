@@ -22,11 +22,11 @@ Even jackals offer their breasts to nurse their young, but the daughter of my pe
 | in the wilderness  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4057B\|מִּדְבָּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> mid.Bar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.2|<< Lamentations 4:2]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.4|Lamentations 4:4 >>]]</td></tr></table>
 
-[^1]: ==K==: serpents  | **<big>[[H8577M|תַּנִּין]]</big> ** | ta.nin<small><sup>[[HNcmpa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>תַּנִּין֙</big></span>**
-[^3]: ==K==: for  | **<big>[[H3588A|כִּי]]</big> ** | ki<small><sup>[[HTc]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>כַּיְ</big></span>**
-[^5]: ==K==: springs  | **<big>[[H5869M|עֵנִים]]</big> ** | e.nim<small><sup>[[HNcfpa]]</sup></small> 
-[^6]: ==K==: springs  | **<big>[[H5869M|עֵנִים]]</big> ** | e.nim<small><sup>[[HNcfpa]]</sup></small> 
-[^7]: ==L== spelled: **<span class="ashebrew"><big>עֵנִ֖ים</big></span>**
+[^1]: serpents  | **<big>[[H8577M|תַּנִּין]]</big> ** | ta.nin<small><sup>[[HNcmpa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>תַּנִּין֙</big></span>**
+[^3]: for  | **<big>[[H3588A|כִּי]]</big> ** | ki<small><sup>[[HTc]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>כַּיְ</big></span>**
+[^5]: springs  | **<big>[[H5869M|עֵנִים]]</big> ** | e.nim<small><sup>[[HNcfpa]]</sup></small> | K
+[^6]: springs  | **<big>[[H5869M|עֵנִים]]</big> ** | e.nim<small><sup>[[HNcfpa]]</sup></small> | K
+[^7]: L spelled: **<span class="ashebrew"><big>עֵנִ֖ים</big></span>**
 

@@ -23,7 +23,7 @@ The fig tree ripens its figs; the blossoming vines spread their fragrance. Arise
 | \<for> yourself  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| La<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.2.12|<< Song of Solomon 2:12]]</td><td align="center" style="border:none;">[[Song.2|Song of Solomon 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.2.14|Song of Solomon 2:14 >>]]</td></tr></table>
 
-[^1]: ==K==: come  | **<big>[[H1980G|לְכִי]]</big> ** | le.khi<small><sup>[[HVqv2fs]]</sup></small> 
-[^2]: ==K==: come  | **<big>[[H1980G|לְכִי]]</big> ** | le.khi<small><sup>[[HVqv2fs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>לָ֛כְי</big></span>**
+[^1]: come  | **<big>[[H1980G|לְכִי]]</big> ** | le.khi<small><sup>[[HVqv2fs]]</sup></small> | K
+[^2]: come  | **<big>[[H1980G|לְכִי]]</big> ** | le.khi<small><sup>[[HVqv2fs]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>לָ֛כְי</big></span>**
 

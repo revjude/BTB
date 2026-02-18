@@ -17,6 +17,6 @@ I will remember the works of the LORD; yes, I will remember Your wonders of old.
 | wonder[s] your  |**<big>&#8207;[[H6382\|פִּלְאֶֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| pil.'E.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.77.10|<< Psalms 77:10]]</td><td align="center" style="border:none;">[[Ps.77|Psalms 77]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.77.12|Psalms 77:12 >>]]</td></tr></table>
 
-[^1]: ==K==: I will bring to remembrance  | **<big>[[H2142|אַזְכִּיר]]</big> ** | 'ez.Kor<small><sup>[[HVhi1cs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אֶזְכֹּ֥יר</big></span>**
+[^1]: I will bring to remembrance  | **<big>[[H2142|אַזְכִּיר]]</big> ** | 'ez.Kor<small><sup>[[HVhi1cs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אֶזְכֹּ֥יר</big></span>**
 

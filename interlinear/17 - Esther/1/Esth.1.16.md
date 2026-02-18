@@ -34,6 +34,6 @@ And in the presence of the king and his princes, Memucan replied, “Queen Vasht
 | Ahasuerus  |**<big>&#8207;[[H0325\|אֲחַשְׁוֵרֽוֹשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.chash.ve.Ro.osh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.1.15|<< Esther 1:15]]</td><td align="center" style="border:none;">[[Esth.1|Esther 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.1.17|Esther 1:17 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>מְומּכָ֗ן</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>מוּמְכָן</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>מְומּכָ֗ן</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>מוּמְכָן</big></span>**
 

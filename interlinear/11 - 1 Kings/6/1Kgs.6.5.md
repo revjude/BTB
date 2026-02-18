@@ -25,6 +25,6 @@ Against the walls of the temple and the inner sanctuary, Solomon built a chamber
 | all around  |**<big>&#8207;[[H5439G\|סָבִֽיב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sa.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.4|<< 1 Kings 6:4]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.6|1 Kings 6:6 >>]]</td></tr></table>
 
-[^1]: ==K==: a bed  | **<big>[[H3326B|יָצוֹעַ]]</big> ** | ya.tzo.a'<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יָצִ֙ועַ֙</big></span>**
+[^1]: a bed  | **<big>[[H3326B|יָצוֹעַ]]</big> ** | ya.tzo.a'<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יָצִ֙ועַ֙</big></span>**
 

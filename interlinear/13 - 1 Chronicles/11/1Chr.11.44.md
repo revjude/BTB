@@ -17,7 +17,7 @@ Uzzia the Ashterathite, Shama and Jeiel the sons of Hotham the Aroerite,
 | the Aroerite  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H6200\|עֲרֹעֵרִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.ro.'e.Ri<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.43|<< 1 Chronicles 11:43]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.45|1 Chronicles 11:45 >>]]</td></tr></table>
 
-[^1]: ==K==: and Jeuel  | **<big>[[H3273H|יעוּאֵל]]</big><big>[[H9002|וִ]]</big> ** | vi.<small><sup>[[HC]]</sup></small> 'u.'el<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==K==: and Jeuel  | **<big>[[H3273H|יעוּאֵל]]</big><big>[[H9002|וִ]]</big> ** | vi.<small><sup>[[HC]]</sup></small> 'u.'el<small><sup>[[HNpm]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וִֽיעִואֵ֔ל</big></span>**
+[^1]: and Jeuel  | **<big>[[H3273H|יעוּאֵל]]</big><big>[[H9002|וִ]]</big> ** | vi.<small><sup>[[HC]]</sup></small> 'u.'el<small><sup>[[HNpm]]</sup></small> | K
+[^2]: and Jeuel  | **<big>[[H3273H|יעוּאֵל]]</big><big>[[H9002|וִ]]</big> ** | vi.<small><sup>[[HC]]</sup></small> 'u.'el<small><sup>[[HNpm]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וִֽיעִואֵ֔ל</big></span>**
 

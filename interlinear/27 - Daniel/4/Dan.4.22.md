@@ -23,6 +23,6 @@ you, O king, are that tree! For you have become great and strong; your greatness
 | earth the  |**<big>&#8207;[[H0772I\|אַרְעָֽ]]&#8207;&#8207;[[H9010\|א]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'ar.'A<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.21|<< Daniel 4:21]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.23|Daniel 4:23 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>אַנְתְּה\־</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>אַנְתָּה</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>אַנְתְּה\־</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>אַנְתָּה</big></span>**
 

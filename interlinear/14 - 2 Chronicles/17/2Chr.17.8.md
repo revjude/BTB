@@ -27,7 +27,7 @@ accompanied by certain Levites—Shemaiah, Nethaniah, Zebadiah, Asahel, Shemiram
 | the priests  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֲנִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.ha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.17.7|<< 2 Chronicles 17:7]]</td><td align="center" style="border:none;">[[2Chr.17|2 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.17.9|2 Chronicles 17:9 >>]]</td></tr></table>
 
-[^1]: ==K==: and Shemirimoth  | **<big>[[H8070H|שְׁמִרִימוֹת]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> she.mi.ri.mot<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==K==: and Shemirimoth  | **<big>[[H8070H|שְׁמִרִימוֹת]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> she.mi.ri.mot<small><sup>[[HNpm]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וּשְׁמִֽרָימ֡וֹת</big></span>**
+[^1]: and Shemirimoth  | **<big>[[H8070H|שְׁמִרִימוֹת]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> she.mi.ri.mot<small><sup>[[HNpm]]</sup></small> | K
+[^2]: and Shemirimoth  | **<big>[[H8070H|שְׁמִרִימוֹת]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> she.mi.ri.mot<small><sup>[[HNpm]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וּשְׁמִֽרָימ֡וֹת</big></span>**
 

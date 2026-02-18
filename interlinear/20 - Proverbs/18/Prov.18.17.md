@@ -16,7 +16,7 @@ The first to state his case seems right until another comes and cross-examines h
 | and he will examine him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2713\|חֲקָרֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> cha.ka.R<small><sup>[[HVqq3ms]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.16|<< Proverbs 18:16]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.18|Proverbs 18:18 >>]]</td></tr></table>
 
-[^1]: ==K==: he will come  | **<big>[[H0935G|יָבֹא]]</big> ** | ya.vo'-<small><sup>[[HVqi3ms]]</sup></small> 
-[^2]: ==K==: he will come  | **<big>[[H0935G|יָבֹא]]</big> ** | ya.vo'-<small><sup>[[HVqi3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>יּבָֽא\־</big></span>**
+[^1]: he will come  | **<big>[[H0935G|יָבֹא]]</big> ** | ya.vo'-<small><sup>[[HVqi3ms]]</sup></small> | K
+[^2]: he will come  | **<big>[[H0935G|יָבֹא]]</big> ** | ya.vo'-<small><sup>[[HVqi3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>יּבָֽא\־</big></span>**
 

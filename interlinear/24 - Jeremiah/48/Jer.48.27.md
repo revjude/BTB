@@ -24,6 +24,6 @@ Was not Israel your object of ridicule? Was he ever found among thieves? For whe
 | you shook yourself  |**<big>&#8207;[[H5110\|תִּתְנוֹדָֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tit.no.Dad<small><sup>[[HVti2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.26|<< Jeremiah 48:26]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.28|Jeremiah 48:28 >>]]</td></tr></table>
 
-[^1]: ==K==: was it found  | **<big>[[H4672|נִמְצָאָה]]</big> ** | nim.tza.'ah<small><sup>[[HVNp3fs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>נִמְצָ֑אה</big></span>**
+[^1]: was it found  | **<big>[[H4672|נִמְצָאָה]]</big> ** | nim.tza.'ah<small><sup>[[HVNp3fs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>נִמְצָ֑אה</big></span>**
 

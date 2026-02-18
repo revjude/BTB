@@ -38,5 +38,5 @@ Boaz replied, “I have been made fully aware of all you have done for your moth
 | three days ago  |**<big>&#8207;[[H8032\|שִׁלְשֽׁוֹם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| shil.Shom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.2.10|<< Ruth 2:10]]</td><td align="center" style="border:none;">[[Ruth.2|Ruth 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.2.12|Ruth 2:12 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>אָבִ֣יךְ</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>אָבִ֣יךְ</big></span>**
 

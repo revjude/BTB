@@ -15,7 +15,7 @@ Bakbukiah and Unni, their associates, stood across from them in the services.
 | to duties  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4931\|מִשְׁמָרֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mish.ma.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.8|<< Nehemiah 12:8]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.10|Nehemiah 12:10 >>]]</td></tr></table>
 
-[^1]: ==K==: and Unno  | **<big>[[H6042H|עֻנּוֹ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'u.nov<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==K==: and Unno  | **<big>[[H6042H|עֻנּוֹ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'u.nov<small><sup>[[HNpm]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְעֻנִּ֧ו</big></span>**
+[^1]: and Unno  | **<big>[[H6042H|עֻנּוֹ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'u.nov<small><sup>[[HNpm]]</sup></small> | K
+[^2]: and Unno  | **<big>[[H6042H|עֻנּוֹ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'u.nov<small><sup>[[HNpm]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְעֻנִּ֧ו</big></span>**
 

@@ -29,7 +29,7 @@ then the man who lay with her must pay the young woman’s father fifty shekels 
 | days his  |**<big>&#8207;[[H3117G\|יָמָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ya.Ma<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.28|<< Deuteronomy 22:28]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.30|Deuteronomy 22:30 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>הַֽנַּעֲרָ֖</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>הַנַּעַר</big></span>**
-[^3]: ==ABH== spelled: **<span class="ashebrew"><big>שַׁלְּחָ֖הּ</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>הַֽנַּעֲרָ֖</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>הַנַּעַר</big></span>**
+[^3]: ABH spelled: **<span class="ashebrew"><big>שַׁלְּחָ֖הּ</big></span>**
 

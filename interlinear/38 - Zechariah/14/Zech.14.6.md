@@ -18,7 +18,7 @@ On that day there will be no light, no cold or frost.
 | and frost  [^2]|**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7087B\|קִפָּאֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | ve.<small><sup>[[HC]]</sup></small> yik.pe.'un<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.14.5|<< Zechariah 14:5]]</td><td align="center" style="border:none;">[[Zech.14|Zechariah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.14.7|Zechariah 14:7 >>]]</td></tr></table>
 
-[^1]: ==K==: they will contract !  | **<big>[[H9016|׃]]</big><big>[[H9013|ן]]</big><big>[[H7087B|יִקְפְּאוּ]]</big> ** | yik.pe.'u<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> 
-[^2]: ==K==: they will contract !  | **<big>[[H9016|׃]]</big><big>[[H9013|ן]]</big><big>[[H7087B|יִקְפְּאוּ]]</big> ** | yik.pe.'u<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>יְקִפָּאֽוֹן\׃</big></span>**
+[^1]: they will contract !  | **<big>[[H9016|׃]]</big><big>[[H9013|ן]]</big><big>[[H7087B|יִקְפְּאוּ]]</big> ** | yik.pe.'u<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | K
+[^2]: they will contract !  | **<big>[[H9016|׃]]</big><big>[[H9013|ן]]</big><big>[[H7087B|יִקְפְּאוּ]]</big> ** | yik.pe.'u<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>יְקִפָּאֽוֹן\׃</big></span>**
 

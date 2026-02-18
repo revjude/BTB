@@ -21,7 +21,7 @@ Then all your people will be righteous; they will possess the land forever; they
 | to glorify myself  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6286A\|הִתְפָּאֵֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> hit.pa.'Er<small><sup>[[HVtcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.20|<< Isaiah 60:20]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.22|Isaiah 60:22 >>]]</td></tr></table>
 
-[^1]: ==K==: planting his  | **<big>[[H9023|וֹ]]</big><big>[[H4302|מַטָּע]]</big> ** | ma.ta.'o<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: planting his  | **<big>[[H9023|וֹ]]</big><big>[[H4302|מַטָּע]]</big> ** | ma.ta.'o<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>מַטָּעַ֛ו</big></span>**
+[^1]: planting his  | **<big>[[H9023|וֹ]]</big><big>[[H4302|מַטָּע]]</big> ** | ma.ta.'o<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: planting his  | **<big>[[H9023|וֹ]]</big><big>[[H4302|מַטָּע]]</big> ** | ma.ta.'o<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>מַטָּעַ֛ו</big></span>**
 

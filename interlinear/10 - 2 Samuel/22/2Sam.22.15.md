@@ -15,7 +15,7 @@ He shot His arrows and scattered the foes; He hurled lightning and routed them.
 | and he routed [them]  [^2]|**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2000\|יָּהֹֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | va<small><sup>[[Hc]]</sup></small> i.ye.hu.mem<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.14|<< 2 Samuel 22:14]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.16|2 Samuel 22:16 >>]]</td></tr></table>
 
-[^1]: ==K==: and he routed them  | **<big>[[H9016|׃]]</big><big>[[H9038|ם]]</big><big>[[H2000|יְהֻמֵּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ye.hu.me<small><sup>[[HVqw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^2]: ==K==: and he routed them  | **<big>[[H9016|׃]]</big><big>[[H9038|ם]]</big><big>[[H2000|יְהֻמֵּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ye.hu.me<small><sup>[[HVqw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וַיָּהֹֽמ/ם\׃</big></span>**
+[^1]: and he routed them  | **<big>[[H9016|׃]]</big><big>[[H9038|ם]]</big><big>[[H2000|יְהֻמֵּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ye.hu.me<small><sup>[[HVqw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^2]: and he routed them  | **<big>[[H9016|׃]]</big><big>[[H9038|ם]]</big><big>[[H2000|יְהֻמֵּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ye.hu.me<small><sup>[[HVqw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וַיָּהֹֽמ/ם\׃</big></span>**
 

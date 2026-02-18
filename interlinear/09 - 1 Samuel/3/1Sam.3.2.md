@@ -22,8 +22,8 @@ And at that time Eli, whose eyesight had grown so dim that he could not see, was
 | to see  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7200G\|רְאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> r.'ot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.3.1|<< 1 Samuel 3:1]]</td><td align="center" style="border:none;">[[1Sam.3|1 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.3.3|1 Samuel 3:3 >>]]</td></tr></table>
 
-[^1]: ==K==: and eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869H|עֵינ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.no<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: and eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869H|עֵינ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.no<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: and eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869H|עֵינ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.no<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וְעֵינָ/ו֙</big></span>**
+[^1]: and eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869H|עֵינ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.no<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: and eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869H|עֵינ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.no<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: and eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869H|עֵינ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.no<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וְעֵינָ/ו֙</big></span>**
 

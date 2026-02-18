@@ -22,5 +22,5 @@ And the LORD God planted a garden in Eden, in the east, where He placed the man 
 | he had formed  |**<big>&#8207;[[H3335G\|יָצָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.Tzar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.7|<< Genesis 2:7]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.9|Genesis 2:9 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>בְּעֵ֖דֶן</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>בְּעֵ֖דֶן</big></span>**
 

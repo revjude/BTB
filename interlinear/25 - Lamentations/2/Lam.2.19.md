@@ -32,7 +32,7 @@ Arise, cry out in the night from the first watch of the night. Pour out your hea
 | [the] streets  |**<big>&#8207;[[H2351\|חוּצֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| chu.Tzot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.18|<< Lamentations 2:18]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.20|Lamentations 2:20 >>]]</td></tr></table>
 
-[^1]: ==K==: in the night  | **<big>[[H3915|לַּיִל]]</big><big>[[H9003|בַ]]</big> ** | va.<small><sup>[[HRd]]</sup></small> la.yil<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==K==: in the night  | **<big>[[H3915|לַּיִל]]</big><big>[[H9003|בַ]]</big> ** | va.<small><sup>[[HRd]]</sup></small> la.yil<small><sup>[[HNcbsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בַלַּ֗יְלָ</big></span>**
+[^1]: in the night  | **<big>[[H3915|לַּיִל]]</big><big>[[H9003|בַ]]</big> ** | va.<small><sup>[[HRd]]</sup></small> la.yil<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: in the night  | **<big>[[H3915|לַּיִל]]</big><big>[[H9003|בַ]]</big> ** | va.<small><sup>[[HRd]]</sup></small> la.yil<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בַלַּ֗יְלָ</big></span>**
 

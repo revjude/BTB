@@ -29,8 +29,8 @@ Now David and his men went up and raided the Geshurites, the Girzites, and the A
 | Egypt  |**<big>&#8207;[[H4714G\|מִצְרָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.27.7|<< 1 Samuel 27:7]]</td><td align="center" style="border:none;">[[1Sam.27|1 Samuel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.27.9|1 Samuel 27:9 >>]]</td></tr></table>
 
-[^1]: ==K==: and the Girzite[s]  | **<big>[[H1511|גִּרְזִי]]</big><big>[[H9009|הַ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> gir.zi<small><sup>[[HNgbsa]]</sup></small> 
-[^2]: ==K==: and the Girzite[s]  | **<big>[[H1511|גִּרְזִי]]</big><big>[[H9009|הַ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> gir.zi<small><sup>[[HNgbsa]]</sup></small> 
-[^3]: ==K==: and the Girzite[s]  | **<big>[[H1511|גִּרְזִי]]</big><big>[[H9009|הַ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> gir.zi<small><sup>[[HNgbsa]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וְהַ/גִּרְזִ֖י</big></span>**
+[^1]: and the Girzite[s]  | **<big>[[H1511|גִּרְזִי]]</big><big>[[H9009|הַ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> gir.zi<small><sup>[[HNgbsa]]</sup></small> | K
+[^2]: and the Girzite[s]  | **<big>[[H1511|גִּרְזִי]]</big><big>[[H9009|הַ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> gir.zi<small><sup>[[HNgbsa]]</sup></small> | K
+[^3]: and the Girzite[s]  | **<big>[[H1511|גִּרְזִי]]</big><big>[[H9009|הַ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> gir.zi<small><sup>[[HNgbsa]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וְהַ/גִּרְזִ֖י</big></span>**
 

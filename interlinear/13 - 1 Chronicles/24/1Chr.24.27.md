@@ -17,5 +17,5 @@ The descendants of Merari from Jaaziah: Beno, Shoham, Zaccur, and Ibri.
 | and Ibri  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5681\|עִבְרִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'iv.Ri<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.24.26|<< 1 Chronicles 24:26]]</td><td align="center" style="border:none;">[[1Chr.24|1 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.28|1 Chronicles 24:28 >>]]</td></tr></table>
 
-[^1]: ==F==: son his  | **<big>[[H9023|וֹ]]</big><big>[[H1121A|בְנ֔]]</big> ** | ve.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
+[^1]: son his  | **<big>[[H9023|וֹ]]</big><big>[[H1121A|בְנ֔]]</big> ** | ve.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | F
 

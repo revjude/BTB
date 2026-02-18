@@ -33,7 +33,7 @@ For the dedication of the house of God they offered a hundred bulls, two hundred
 | Israel  |**<big>&#8207;[[H3479\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[ANpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.16|<< Ezra 6:16]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.18|Ezra 6:18 >>]]</td></tr></table>
 
-[^1]: ==K==: for a sin offering  | **<big>[[H2409|חַטָּיָא]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[AR]]</sup></small> cha.ta.ya'<small><sup>[[ANcfsa]]</sup></small> 
-[^2]: ==K==: for a sin offering  | **<big>[[H2409|חַטָּיָא]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[AR]]</sup></small> cha.ta.ya'<small><sup>[[ANcfsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="asaramaic"><big>לְחַטָּיאָ֤</big></span>**
+[^1]: for a sin offering  | **<big>[[H2409|חַטָּיָא]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[AR]]</sup></small> cha.ta.ya'<small><sup>[[ANcfsa]]</sup></small> | K
+[^2]: for a sin offering  | **<big>[[H2409|חַטָּיָא]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[AR]]</sup></small> cha.ta.ya'<small><sup>[[ANcfsa]]</sup></small> | K
+[^3]: L spelled: **<span class="asaramaic"><big>לְחַטָּיאָ֤</big></span>**
 

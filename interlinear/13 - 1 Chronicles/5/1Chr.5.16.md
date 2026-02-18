@@ -19,5 +19,5 @@ They lived in Gilead, in Bashan and its towns, and throughout the pasturelands o
 | extremities their  |**<big>&#8207;[[H8444\|תּוֹצְאוֹתָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^1] | totz.'o.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad Aleppo (biblia benchayim)">LA(bh)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.15|<< 1 Chronicles 5:15]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.17|1 Chronicles 5:17 >>]]</td></tr></table>
 
-[^1]: ==BH== spelled: **<span class="ashebrew"><big>תוֹצְאוֹתָֽם\׃</big></span>**
+[^1]: BH spelled: **<span class="ashebrew"><big>תוֹצְאוֹתָֽם\׃</big></span>**
 

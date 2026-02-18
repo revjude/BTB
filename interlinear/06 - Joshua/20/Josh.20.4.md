@@ -35,6 +35,6 @@ When someone flees to one of these cities, stands at the entrance of the city ga
 | with them  |**<big>&#8207;[[H5973A\|עִמָּֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'i.Ma<small><sup>[[HRd]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.20.3|<< Joshua 20:3]]</td><td align="center" style="border:none;">[[Josh.20|Joshua 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.20.5|Joshua 20:5 >>]]</td></tr></table>
 
-[^1]: ==BH== spelled: **<span class="ashebrew"><big>זִקְנֵ֥י</big></span>**
-[^2]: ==BH== spelled: **<span class="ashebrew"><big>הָעִֽיר\־</big></span>**
+[^1]: BH spelled: **<span class="ashebrew"><big>זִקְנֵ֥י</big></span>**
+[^2]: BH spelled: **<span class="ashebrew"><big>הָעִֽיר\־</big></span>**
 

@@ -27,6 +27,6 @@ The LORD also says: “Because the daughters of Zion are haughty—walking with 
 | they tinkle with anklets  |**<big>&#8207;[[H5913\|תְּעַכַּֽסְנָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| te.'a.Kas.nah<small><sup>[[HVpi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.15|<< Isaiah 3:15]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.17|Isaiah 3:17 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>נְטוּ֣וֹת</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>נְטוּוֹת</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>נְטוּ֣וֹת</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>נְטוּוֹת</big></span>**
 

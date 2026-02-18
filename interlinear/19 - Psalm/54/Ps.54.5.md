@@ -15,6 +15,6 @@ He will reward my enemies with evil. In Your faithfulness, destroy them.
 | destroy them  |**<big>&#8207;[[H6789\|הַצְמִיתֵֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| hatz.mi.Te<small><sup>[[HVhv2ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.54.4|<< Psalms 54:4]]</td><td align="center" style="border:none;">[[Ps.54|Psalms 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.54.6|Psalms 54:6 >>]]</td></tr></table>
 
-[^1]: ==K==: may it return  | **<big>[[H7725G|יָשׁוֹב]]</big> ** | ya.Shov<small><sup>[[HVqi3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יָשִׁ֣וב</big></span>**
+[^1]: may it return  | **<big>[[H7725G|יָשׁוֹב]]</big> ** | ya.Shov<small><sup>[[HVqi3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יָשִׁ֣וב</big></span>**
 

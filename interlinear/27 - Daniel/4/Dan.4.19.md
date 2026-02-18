@@ -36,12 +36,12 @@ For a time, Daniel, who was also known as Belteshazzar, was perplexed, and his t
 | [be] for adversaries your  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6146\|עָרָֽ]]&#8207;&#8207;[[H9021\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^7] [^8] | le.<small><sup>[[AR]]</sup></small> 'a.ra.yi<small><sup>[[ANcmpc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.18|<< Daniel 4:18]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.20|Daniel 4:20 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>מָרִ֕אי</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>מָרְאִי</big></span>**
-[^3]: ==K==: [be] for enemies your  | **<big>[[H9031|ךְ]]</big><big>[[H8131|שָׂנְאַיִ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[AR]]</sup></small> sa.ne.'a.yi<small><sup>[[AVqrmpc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> 
-[^4]: ==K==: [be] for enemies your  | **<big>[[H9031|ךְ]]</big><big>[[H8131|שָׂנְאַיִ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[AR]]</sup></small> sa.ne.'a.yi<small><sup>[[AVqrmpc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> 
-[^5]: ==K==: [be] for enemies your  | **<big>[[H9031|ךְ]]</big><big>[[H8131|שָׂנְאַיִ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[AR]]</sup></small> sa.ne.'a.yi<small><sup>[[AVqrmpc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> 
-[^6]: ==L== spelled: **<span class="asaramaic"><big>לְשָֽׂנְאָ֖י/ךְ</big></span>**
-[^7]: ==L== spelled: **<span class="asaramaic"><big>לְעָרָֽי/ךְ\׃</big></span>**
-[^8]: ==K== spelled: **<span class="asaramaic"><big>לְעָרַיִ/ךְ\׃</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>מָרִ֕אי</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>מָרְאִי</big></span>**
+[^3]: [be] for enemies your  | **<big>[[H9031|ךְ]]</big><big>[[H8131|שָׂנְאַיִ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[AR]]</sup></small> sa.ne.'a.yi<small><sup>[[AVqrmpc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> | K
+[^4]: [be] for enemies your  | **<big>[[H9031|ךְ]]</big><big>[[H8131|שָׂנְאַיִ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[AR]]</sup></small> sa.ne.'a.yi<small><sup>[[AVqrmpc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> | K
+[^5]: [be] for enemies your  | **<big>[[H9031|ךְ]]</big><big>[[H8131|שָׂנְאַיִ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[AR]]</sup></small> sa.ne.'a.yi<small><sup>[[AVqrmpc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> | K
+[^6]: L spelled: **<span class="asaramaic"><big>לְשָֽׂנְאָ֖י/ךְ</big></span>**
+[^7]: L spelled: **<span class="asaramaic"><big>לְעָרָֽי/ךְ\׃</big></span>**
+[^8]: K spelled: **<span class="asaramaic"><big>לְעָרַיִ/ךְ\׃</big></span>**
 

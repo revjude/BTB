@@ -30,6 +30,6 @@ Then Zerubbabel son of Shealtiel and Jeshua son of Jozadak rose up and began to 
 | \<obj.> them  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9038\|הֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[AR]]</sup></small> Hon<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.1|<< Ezra 5:1]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.3|Ezra 5:3 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>נְבִיַּאיָּ֥א</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>נְבִיאַיָּא</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>נְבִיַּאיָּ֥א</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>נְבִיאַיָּא</big></span>**
 

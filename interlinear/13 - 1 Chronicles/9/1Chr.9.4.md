@@ -23,8 +23,8 @@ Uthai son of Ammihud, the son of Omri, the son of Imri, the son of Bani, a desce
 | Judah  |**<big>&#8207;[[H3063G\|יְהוּדָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.3|<< 1 Chronicles 9:3]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.5|1 Chronicles 9:5 >>]]</td></tr></table>
 
-[^1]: ==K==: Benjamin  | **<big>[[H9014|־]]</big><big>[[H1144G|בִּנְיָמִן]]</big> ** | ba.ni.min-<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==K==: Benjamin  | **<big>[[H9014|־]]</big><big>[[H1144G|בִּנְיָמִן]]</big> ** | ba.ni.min-<small><sup>[[HNpm]]</sup></small> 
-[^3]: ==K==: Benjamin  | **<big>[[H9014|־]]</big><big>[[H1144G|בִּנְיָמִן]]</big> ** | ba.ni.min-<small><sup>[[HNpm]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>בִּנְיָמִן\־</big></span>**
+[^1]: Benjamin  | **<big>[[H9014|־]]</big><big>[[H1144G|בִּנְיָמִן]]</big> ** | ba.ni.min-<small><sup>[[HNpm]]</sup></small> | K
+[^2]: Benjamin  | **<big>[[H9014|־]]</big><big>[[H1144G|בִּנְיָמִן]]</big> ** | ba.ni.min-<small><sup>[[HNpm]]</sup></small> | K
+[^3]: Benjamin  | **<big>[[H9014|־]]</big><big>[[H1144G|בִּנְיָמִן]]</big> ** | ba.ni.min-<small><sup>[[HNpm]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>בִּנְיָמִן\־</big></span>**
 

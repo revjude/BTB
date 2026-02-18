@@ -20,6 +20,6 @@ By fruitful speech a man is filled with good things, and the work of his hands r
 | to him  |**<big>&#8207;[[H9005\|לֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.13|<< Proverbs 12:13]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.15|Proverbs 12:15 >>]]</td></tr></table>
 
-[^1]: ==K==: it will return  | **<big>[[H7725G|יָשׁוּב]]</big> ** | ya.shuv<small><sup>[[HVqi3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יָשִׁ֥וב</big></span>**
+[^1]: it will return  | **<big>[[H7725G|יָשׁוּב]]</big> ** | ya.shuv<small><sup>[[HVqi3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יָשִׁ֥וב</big></span>**
 

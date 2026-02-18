@@ -19,14 +19,14 @@ And below these chambers was the entrance on the east side as one enters them fr
 | \<the> outer  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2435\|חִצֹנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> chi.tzo.Nah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.8|<< Ezekiel 42:8]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.10|Ezekiel 42:10 >>]]</td></tr></table>
 
-[^1]: ==K==: and [was] from under it  | **<big>[[H9034|ה]]</big><big>[[H8478G|תַּחֲתָ]]</big><big>[[H9006|מִ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> ta.cha.ta<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> 
-[^2]: ==K==: and [was] from under it  | **<big>[[H9034|ה]]</big><big>[[H8478G|תַּחֲתָ]]</big><big>[[H9006|מִ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> ta.cha.ta<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> 
-[^3]: ==K==: and [was] from under it  | **<big>[[H9034|ה]]</big><big>[[H8478G|תַּחֲתָ]]</big><big>[[H9006|מִ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> ta.cha.ta<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וּמִ/תַּ֖חַת/ה</big></span>**
-[^5]: ==K==: rooms  | **<big>[[H3957|לְּשָׁכוֹת]]</big> ** | le.sha.khot<small><sup>[[HNcfpa]]</sup></small> 
-[^6]: ==K==: rooms  | **<big>[[H3957|לְּשָׁכוֹת]]</big> ** | le.sha.khot<small><sup>[[HNcfpa]]</sup></small> 
-[^7]: ==L== spelled: **<span class="ashebrew"><big>ַלְּשָׁכ֣וֹת</big></span>**
-[^8]: ==K==: the entrance  | **<big>[[H3996|מָּבוֹא]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ma.Vo'<small><sup>[[HNcbsa]]</sup></small> 
-[^9]: ==K==: the entrance  | **<big>[[H3996|מָּבוֹא]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ma.Vo'<small><sup>[[HNcbsa]]</sup></small> 
-[^10]: ==L== spelled: **<span class="ashebrew"><big>הַמֵּבִוא֙</big></span>**
+[^1]: and [was] from under it  | **<big>[[H9034|ה]]</big><big>[[H8478G|תַּחֲתָ]]</big><big>[[H9006|מִ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> ta.cha.ta<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | K
+[^2]: and [was] from under it  | **<big>[[H9034|ה]]</big><big>[[H8478G|תַּחֲתָ]]</big><big>[[H9006|מִ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> ta.cha.ta<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | K
+[^3]: and [was] from under it  | **<big>[[H9034|ה]]</big><big>[[H8478G|תַּחֲתָ]]</big><big>[[H9006|מִ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> ta.cha.ta<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וּמִ/תַּ֖חַת/ה</big></span>**
+[^5]: rooms  | **<big>[[H3957|לְּשָׁכוֹת]]</big> ** | le.sha.khot<small><sup>[[HNcfpa]]</sup></small> | K
+[^6]: rooms  | **<big>[[H3957|לְּשָׁכוֹת]]</big> ** | le.sha.khot<small><sup>[[HNcfpa]]</sup></small> | K
+[^7]: L spelled: **<span class="ashebrew"><big>ַלְּשָׁכ֣וֹת</big></span>**
+[^8]: the entrance  | **<big>[[H3996|מָּבוֹא]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ma.Vo'<small><sup>[[HNcbsa]]</sup></small> | K
+[^9]: the entrance  | **<big>[[H3996|מָּבוֹא]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ma.Vo'<small><sup>[[HNcbsa]]</sup></small> | K
+[^10]: L spelled: **<span class="ashebrew"><big>הַמֵּבִוא֙</big></span>**
 

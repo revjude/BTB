@@ -16,7 +16,7 @@ My God of loving devotion will come to meet me; God will let me stare down my fo
 | on enemies my  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H8324\|שֹׁרְרָֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> sho.re.Ra<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.59.9|<< Psalms 59:9]]</td><td align="center" style="border:none;">[[Ps.59|Psalms 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.11|Psalms 59:11 >>]]</td></tr></table>
 
-[^1]: ==K==: covenant loyalty his  | **<big>[[H9023|וֹ]]</big><big>[[H2617A|חַסְדּ]]</big> ** | chas.D<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: covenant loyalty his  | **<big>[[H9023|וֹ]]</big><big>[[H2617A|חַסְדּ]]</big> ** | chas.D<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>חַסְדִּ֣ו</big></span>**
+[^1]: covenant loyalty his  | **<big>[[H9023|וֹ]]</big><big>[[H2617A|חַסְדּ]]</big> ** | chas.D<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: covenant loyalty his  | **<big>[[H9023|וֹ]]</big><big>[[H2617A|חַסְדּ]]</big> ** | chas.D<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>חַסְדִּ֣ו</big></span>**
 

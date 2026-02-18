@@ -31,6 +31,6 @@ I will bring the four winds against Elam from the four corners of the heavens, a
 | Elam  [^1]|**<big>&#8207;[[H5867A\|עֵילָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^2] | o.lam<small><sup>[[HNpl]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.35|<< Jeremiah 49:35]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.37|Jeremiah 49:37 >>]]</td></tr></table>
 
-[^1]: ==K==: perpetuity  | **<big>[[H9016|׃]]</big><big>[[H5769G|עוֹלָם]]</big> ** | o.lam<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>עֵולָֽם\׃</big></span>**
+[^1]: perpetuity  | **<big>[[H9016|׃]]</big><big>[[H5769G|עוֹלָם]]</big> ** | o.lam<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>עֵולָֽם\׃</big></span>**
 

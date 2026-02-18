@@ -18,8 +18,8 @@ At the sight of them, she lusted for them and sent messengers to them in Chaldea
 | Chaldea towards  |**<big>&#8207;[[H3778\|כַּשְׂדִּֽימָ]]&#8207;&#8207;[[H9011\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| kas.Di.ma<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.15|<< Ezekiel 23:15]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.17|Ezekiel 23:17 >>]]</td></tr></table>
 
-[^1]: ==K==: and she lusted  | **<big>[[H5689|תַּעְגַּב]]</big><big>[[H9001|וַ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> ta'.gav<small><sup>[[HVqw3fs]]</sup></small> 
-[^2]: ==K==: and she lusted  | **<big>[[H5689|תַּעְגַּב]]</big><big>[[H9001|וַ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> ta'.gav<small><sup>[[HVqw3fs]]</sup></small> 
-[^3]: ==K==: and she lusted  | **<big>[[H5689|תַּעְגַּב]]</big><big>[[H9001|וַ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> ta'.gav<small><sup>[[HVqw3fs]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וַתַּעְגְּבָ֥</big></span>**
+[^1]: and she lusted  | **<big>[[H5689|תַּעְגַּב]]</big><big>[[H9001|וַ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> ta'.gav<small><sup>[[HVqw3fs]]</sup></small> | K
+[^2]: and she lusted  | **<big>[[H5689|תַּעְגַּב]]</big><big>[[H9001|וַ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> ta'.gav<small><sup>[[HVqw3fs]]</sup></small> | K
+[^3]: and she lusted  | **<big>[[H5689|תַּעְגַּב]]</big><big>[[H9001|וַ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> ta'.gav<small><sup>[[HVqw3fs]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וַתַּעְגְּבָ֥</big></span>**
 

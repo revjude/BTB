@@ -25,6 +25,6 @@ And Rehoboam married Mahalath, who was the daughter of David’s son Jerimoth an
 | Jesse  |**<big>&#8207;[[H3448\|יִשָֽׁי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yi.Shai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.11.17|<< 2 Chronicles 11:17]]</td><td align="center" style="border:none;">[[2Chr.11|2 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.11.19|2 Chronicles 11:19 >>]]</td></tr></table>
 
-[^1]: ==K==: [the] son of  | **<big>[[H1121A|בֶּן]]</big> ** | ben<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>בַּן\־</big></span>**
+[^1]: [the] son of  | **<big>[[H1121A|בֶּן]]</big> ** | ben<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>בַּן\־</big></span>**
 

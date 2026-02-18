@@ -21,8 +21,8 @@ In those days I also saw Jews who had married women from Ashdod, Ammon, and Moab
 | Moabite  |**<big>&#8207;[[H4125\|מוֹאֲבִיּֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mo.'a.vi.Yot<small><sup>[[HNgfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.22|<< Nehemiah 13:22]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.24|Nehemiah 13:24 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>אַשְׁדֳּודִיּ֔וֹת</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>אַשְׁדּוֹדִיּוֹת</big></span>**
-[^3]: ==L== spelled: **<span class="ashebrew"><big>עַמֳּונִיּ֖וֹת</big></span>**
-[^4]: ==K== spelled: **<span class="ashebrew"><big>עַמּוֹנִיּוֹת</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>אַשְׁדֳּודִיּ֔וֹת</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>אַשְׁדּוֹדִיּוֹת</big></span>**
+[^3]: L spelled: **<span class="ashebrew"><big>עַמֳּונִיּ֖וֹת</big></span>**
+[^4]: K spelled: **<span class="ashebrew"><big>עַמּוֹנִיּוֹת</big></span>**
 

@@ -23,7 +23,7 @@ For on the ascent to Luhith they weep bitterly as they go, and on the descent to
 | people will hear  |**<big>&#8207;[[H8085G\|שָׁמֵֽעוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sha.Me.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.4|<< Jeremiah 48:4]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.6|Jeremiah 48:6 >>]]</td></tr></table>
 
-[^1]: ==K==: \<the> Luhoth  | **<big>[[H3872|לֻּחוֹת]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> lu.chot<small><sup>[[HNpl]]</sup></small> 
-[^2]: ==K==: \<the> Luhoth  | **<big>[[H3872|לֻּחוֹת]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> lu.chot<small><sup>[[HNpl]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הַלֻּחִ֔ות</big></span>**
+[^1]: \<the> Luhoth  | **<big>[[H3872|לֻּחוֹת]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> lu.chot<small><sup>[[HNpl]]</sup></small> | K
+[^2]: \<the> Luhoth  | **<big>[[H3872|לֻּחוֹת]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> lu.chot<small><sup>[[HNpl]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הַלֻּחִ֔ות</big></span>**
 

@@ -21,9 +21,9 @@ Lift up your eyes and see those coming from the north. Where is the flock entrus
 | beauty your  |**<big>&#8207;[[H8597\|תִּפְאַרְתֵּֽ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tif.'ar.Te<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.13.19|<< Jeremiah 13:19]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.13.21|Jeremiah 13:21 >>]]</td></tr></table>
 
-[^1]: ==K==: lift up  | **<big>[[H5375M|שְׂאִי]]</big> ** | se.'i<small><sup>[[HVqv2fs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>שְׂא֤יּ</big></span>**
-[^3]: ==K==: and see  | **<big>[[H7200G|רְאִי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> re.'i<small><sup>[[HVqv2fs]]</sup></small> 
-[^4]: ==K==: and see  | **<big>[[H7200G|רְאִי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> re.'i<small><sup>[[HVqv2fs]]</sup></small> 
-[^5]: ==L== spelled: **<span class="ashebrew"><big>וּרְא֔יּ</big></span>**
+[^1]: lift up  | **<big>[[H5375M|שְׂאִי]]</big> ** | se.'i<small><sup>[[HVqv2fs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>שְׂא֤יּ</big></span>**
+[^3]: and see  | **<big>[[H7200G|רְאִי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> re.'i<small><sup>[[HVqv2fs]]</sup></small> | K
+[^4]: and see  | **<big>[[H7200G|רְאִי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> re.'i<small><sup>[[HVqv2fs]]</sup></small> | K
+[^5]: L spelled: **<span class="ashebrew"><big>וּרְא֔יּ</big></span>**
 

@@ -33,10 +33,10 @@ Through your servants you have taunted the Lord, and you have said: “With my m
 | plantation its  |**<big>&#8207;[[H3759\|כַּרְמִלּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| kar.mi.L<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.22|<< 2 Kings 19:22]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.24|2 Kings 19:24 >>]]</td></tr></table>
 
-[^1]: ==K==: with [the] chariotry of  | **<big>[[H7393G|רֶכֶב]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> re.khev<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==K==: with [the] chariotry of  | **<big>[[H7393G|רֶכֶב]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> re.khev<small><sup>[[HNcbsc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בְּרֹ֥כב</big></span>**
-[^4]: ==K==: end its  | **<big>[[H9023|ה]]</big><big>[[H7093|קִצֹּ֔]]</big> ** | ki.Tzo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^5]: ==K==: end its  | **<big>[[H9023|ה]]</big><big>[[H7093|קִצֹּ֔]]</big> ** | ki.Tzo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^6]: ==L== spelled: **<span class="ashebrew"><big>קִצֹּ֔ה</big></span>**
+[^1]: with [the] chariotry of  | **<big>[[H7393G|רֶכֶב]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> re.khev<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: with [the] chariotry of  | **<big>[[H7393G|רֶכֶב]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> re.khev<small><sup>[[HNcbsc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בְּרֹ֥כב</big></span>**
+[^4]: end its  | **<big>[[H9023|ה]]</big><big>[[H7093|קִצֹּ֔]]</big> ** | ki.Tzo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^5]: end its  | **<big>[[H9023|ה]]</big><big>[[H7093|קִצֹּ֔]]</big> ** | ki.Tzo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^6]: L spelled: **<span class="ashebrew"><big>קִצֹּ֔ה</big></span>**
 

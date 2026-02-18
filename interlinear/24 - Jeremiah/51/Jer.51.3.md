@@ -25,6 +25,6 @@ Do not let the archer bend his bow or put on his armor. Do not spare her young m
 | army its  |**<big>&#8207;[[H6635A\|צְבָאָֽ]]&#8207;&#8207;[[H9024\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tze.va.'A<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.2|<< Jeremiah 51:2]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.4|Jeremiah 51:4 >>]]</td></tr></table>
 
-[^1]: ==K==: he bend  | **<big>[[H1869|יִדְרֹךְ]]</big> ** | yid.rokh<small><sup>[[HVqi3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>ידרך</big></span>**
+[^1]: he bend  | **<big>[[H1869|יִדְרֹךְ]]</big> ** | yid.rokh<small><sup>[[HVqi3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>ידרך</big></span>**
 

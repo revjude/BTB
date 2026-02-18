@@ -26,6 +26,6 @@ Uzziah was sixteen years old when he became king, and he reigned in Jerusalem fi
 | Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.2|<< 2 Chronicles 26:2]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.4|2 Chronicles 26:4 >>]]</td></tr></table>
 
-[^1]: ==K==: [was] Jechiliah  | **<big>[[H3203|יְכִילְיָה]]</big> ** | ye.khi.le.yah<small><sup>[[HNpf]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יְכָילְיָ֖ה</big></span>**
+[^1]: [was] Jechiliah  | **<big>[[H3203|יְכִילְיָה]]</big> ** | ye.khi.le.yah<small><sup>[[HNpf]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יְכָילְיָ֖ה</big></span>**
 

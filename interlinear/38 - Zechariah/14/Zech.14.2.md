@@ -37,6 +37,6 @@ For I will gather all the nations for battle against Jerusalem, and the city wil
 | the city  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5892B\|עִֽיר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.14.1|<< Zechariah 14:1]]</td><td align="center" style="border:none;">[[Zech.14|Zechariah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.14.3|Zechariah 14:3 >>]]</td></tr></table>
 
-[^1]: ==K==: they will be raped  | **<big>[[H7693|תִּשָּׁגַלְנָה]]</big> ** | ti.sha.gal.nah<small><sup>[[HVNi3fp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>תִּשָּׁגַ֑לְנָה</big></span>**
+[^1]: they will be raped  | **<big>[[H7693|תִּשָּׁגַלְנָה]]</big> ** | ti.sha.gal.nah<small><sup>[[HVNi3fp]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>תִּשָּׁגַ֑לְנָה</big></span>**
 

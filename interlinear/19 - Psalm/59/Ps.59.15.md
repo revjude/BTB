@@ -17,7 +17,7 @@ They scavenge for food, and growl if they are not satisfied.
 | and they passed [the] night  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3885B\|יָּלִֽינוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Li.nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.59.14|<< Psalms 59:14]]</td><td align="center" style="border:none;">[[Ps.59|Psalms 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.16|Psalms 59:16 >>]]</td></tr></table>
 
-[^1]: ==K==: they wander about !  | **<big>[[H9013|ן]]</big><big>[[H5128|יְנוּעוּ]]</big> ** | ye.ni.'U<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> 
-[^2]: ==K==: they wander about !  | **<big>[[H9013|ן]]</big><big>[[H5128|יְנוּעוּ]]</big> ** | ye.ni.'U<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>יְנִוע֣וּן</big></span>**
+[^1]: they wander about !  | **<big>[[H9013|ן]]</big><big>[[H5128|יְנוּעוּ]]</big> ** | ye.ni.'U<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | K
+[^2]: they wander about !  | **<big>[[H9013|ן]]</big><big>[[H5128|יְנוּעוּ]]</big> ** | ye.ni.'U<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>יְנִוע֣וּן</big></span>**
 

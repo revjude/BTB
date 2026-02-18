@@ -16,6 +16,6 @@ An inheritance gained quickly will not be blessed in the end.
 | it will be blessed  |**<big>&#8207;[[H1288\|תְבֹרָֽךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| te.vo.Rakh<small><sup>[[HVPi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.20|<< Proverbs 20:20]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.22|Proverbs 20:22 >>]]</td></tr></table>
 
-[^1]: ==K==: greedily gained  | **<big>[[H0973B|מְבֻחֶלֶת]]</big> ** | me.vu.che.let<small><sup>[[HVPsfsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>מְבֹחֶ֣לֶת</big></span>**
+[^1]: greedily gained  | **<big>[[H0973B|מְבֻחֶלֶת]]</big> ** | me.vu.che.let<small><sup>[[HVPsfsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>מְבֹחֶ֣לֶת</big></span>**
 

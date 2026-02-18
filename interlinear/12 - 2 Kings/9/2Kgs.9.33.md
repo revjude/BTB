@@ -24,7 +24,7 @@ And he said, Throw her down. So they threw her down: and [some] of her blood was
 | and he trampled her  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H7429\|יִּרְמְסֶֽ]]&#8207;&#8207;[[H9034\|נָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.yir.me.Se.<small><sup>[[HVqw3ms]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.32|<< 2 Kings 9:32]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.34|2 Kings 9:34 >>]]</td></tr></table>
 
-[^1]: ==K==: let fall him  | **<big>[[H9033|הוּ]]</big><big>[[H8058|שִׁמְטֻ]]</big> ** | shim.tu.<small><sup>[[HVqv2mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: let fall him  | **<big>[[H9033|הוּ]]</big><big>[[H8058|שִׁמְטֻ]]</big> ** | shim.tu.<small><sup>[[HVqv2mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>שִׁמְטֻ֖הָו</big></span>**
+[^1]: let fall him  | **<big>[[H9033|הוּ]]</big><big>[[H8058|שִׁמְטֻ]]</big> ** | shim.tu.<small><sup>[[HVqv2mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: let fall him  | **<big>[[H9033|הוּ]]</big><big>[[H8058|שִׁמְטֻ]]</big> ** | shim.tu.<small><sup>[[HVqv2mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>שִׁמְטֻ֖הָו</big></span>**
 

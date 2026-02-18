@@ -24,9 +24,9 @@ Then the archers shot at your servants from the wall, and some of the king’s s
 | he has died  |**<big>&#8207;[[H4191\|מֵֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Met<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.11.23|<< 2 Samuel 11:23]]</td><td align="center" style="border:none;">[[2Sam.11|2 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.11.25|2 Samuel 11:25 >>]]</td></tr></table>
 
-[^1]: ==K==: and they feared  | **<big>[[H3372G|יֹּרְאוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.re.'u<small><sup>[[HVhw3mp]]</sup></small> 
-[^2]: ==K==: and they feared  | **<big>[[H3372G|יֹּרְאוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.re.'u<small><sup>[[HVhw3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וַיֹּרא֨וּ</big></span>**
-[^4]: ==L== spelled: **<span class="ashebrew"><big>הַמּוֹרִ֤אים</big></span>**
-[^5]: ==K== spelled: **<span class="ashebrew"><big>הַמּוֹרְאִים</big></span>**
+[^1]: and they feared  | **<big>[[H3372G|יֹּרְאוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.re.'u<small><sup>[[HVhw3mp]]</sup></small> | K
+[^2]: and they feared  | **<big>[[H3372G|יֹּרְאוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.re.'u<small><sup>[[HVhw3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וַיֹּרא֨וּ</big></span>**
+[^4]: L spelled: **<span class="ashebrew"><big>הַמּוֹרִ֤אים</big></span>**
+[^5]: K spelled: **<span class="ashebrew"><big>הַמּוֹרְאִים</big></span>**
 

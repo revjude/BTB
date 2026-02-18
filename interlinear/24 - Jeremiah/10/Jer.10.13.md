@@ -25,7 +25,7 @@ When He thunders, the waters in the heavens roar; He causes the clouds to rise f
 | from storehouses his  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0214\|אֹצְרֹתָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'o.tze.ro.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.12|<< Jeremiah 10:12]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.14|Jeremiah 10:14 >>]]</td></tr></table>
 
-[^1]: ==K==: [the] earth  | **<big>[[H0776G|אֶרֶץ]]</big> ** | 'e.retz<small><sup>[[HNcfsa]]</sup></small> 
-[^2]: ==K==: [the] earth  | **<big>[[H0776G|אֶרֶץ]]</big> ** | 'e.retz<small><sup>[[HNcfsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>ָאָ֑רֶץ</big></span>**
+[^1]: [the] earth  | **<big>[[H0776G|אֶרֶץ]]</big> ** | 'e.retz<small><sup>[[HNcfsa]]</sup></small> | K
+[^2]: [the] earth  | **<big>[[H0776G|אֶרֶץ]]</big> ** | 'e.retz<small><sup>[[HNcfsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>ָאָ֑רֶץ</big></span>**
 

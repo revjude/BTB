@@ -39,7 +39,7 @@ I thought I should inform you that you may buy it back in the presence of those 
 | I will redeem  |**<big>&#8207;[[H1350A\|אֶגְאָֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'eg.'Al<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.3|<< Ruth 4:3]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.5|Ruth 4:5 >>]]</td></tr></table>
 
-[^1]: ==K==: so I may know  | **<big>[[H3045|אֵדַע]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'e.da'<small><sup>[[HVqu1cs]]</sup></small> 
-[^2]: ==K==: so I may know  | **<big>[[H3045|אֵדַע]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'e.da'<small><sup>[[HVqu1cs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְאֵֽדְעָ֙</big></span>**
+[^1]: so I may know  | **<big>[[H3045|אֵדַע]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'e.da'<small><sup>[[HVqu1cs]]</sup></small> | K
+[^2]: so I may know  | **<big>[[H3045|אֵדַע]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'e.da'<small><sup>[[HVqu1cs]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְאֵֽדְעָ֙</big></span>**
 

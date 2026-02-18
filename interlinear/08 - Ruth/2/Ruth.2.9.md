@@ -30,5 +30,5 @@ Let your eyes be on the field they are harvesting, and follow along after these 
 | the young men  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5288\|נְּעָרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ne.'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.2.8|<< Ruth 2:8]]</td><td align="center" style="border:none;">[[Ruth.2|Ruth 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.2.10|Ruth 2:10 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>וְהָלַ֣כְתְּ</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>וְהָלַ֣כְתְּ</big></span>**
 

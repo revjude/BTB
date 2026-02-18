@@ -21,7 +21,7 @@ Then Manoah said to the angel of the LORD, “What is your name, so that we may 
 | and we will honor you  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3513G\|כִבַּדְנֽוּ]]&#8207;&#8207;[[H9031\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> khi.bad.Nu.<small><sup>[[HVpq1cp]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.16|<< Judges 13:16]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.18|Judges 13:18 >>]]</td></tr></table>
 
-[^1]: ==K==: words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דִבְרֶי]]</big> ** | div.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^2]: ==K==: words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דִבְרֶי]]</big> ** | div.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>דְבָרְיךָ֖</big></span>**
+[^1]: words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דִבְרֶי]]</big> ** | div.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דִבְרֶי]]</big> ** | div.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>דְבָרְיךָ֖</big></span>**
 

@@ -36,6 +36,6 @@ she shall be brought to the door of her father’s house, and there the men of h
 | from midst your  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7130G\|קִּרְבֶּֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> kir.Be.<small><sup>[[HNcmsc]]</sup></small> cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.20|<< Deuteronomy 22:20]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.22|Deuteronomy 22:22 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>הַֽנַּעֲרָ֜</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>הַנַּעַר</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>הַֽנַּעֲרָ֜</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>הַנַּעַר</big></span>**
 

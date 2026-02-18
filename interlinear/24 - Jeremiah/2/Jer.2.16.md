@@ -16,6 +16,6 @@ The men of Memphis and Tahpanhes have shaved the crown of your head.
 | scalp  |**<big>&#8207;[[H6936\|קָדְקֹֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ka.de.Kod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.15|<< Jeremiah 2:15]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.17|Jeremiah 2:17 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וְתַחְפַּנְֵ֑ס</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וְתַחְפְּנֵס</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וְתַחְפַּנְֵ֑ס</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וְתַחְפְּנֵס</big></span>**
 

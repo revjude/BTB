@@ -34,5 +34,5 @@ And Elkanah her husband said unto her, Do what seemeth thee good; tarry until th
 | \<obj.> him  |**<big>&#8207;[[H0853\|אֹתֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.22|<< 1 Samuel 1:22]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.24|1 Samuel 1:24 >>]]</td></tr></table>
 
-[^1]: ==B== spelled: **<span class="ashebrew"><big>גָמְלָ֖הּ</big></span>**
+[^1]: B spelled: **<span class="ashebrew"><big>גָמְלָ֖הּ</big></span>**
 

@@ -30,8 +30,8 @@ Hand over the wicked men of Gibeah so we can put them to death and purge Israel 
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.12|<< Judges 20:12]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.14|Judges 20:14 >>]]</td></tr></table>
 
-[^1]: ==K==: they were willing  | **<big>[[H0014|אָבוּ֙]]</big> ** | 'a.Vu<small><sup>[[HVqp3cp]]</sup></small> 
-[^2]: ==K==: they were willing  | **<big>[[H0014|אָבוּ֙]]</big> ** | 'a.Vu<small><sup>[[HVqp3cp]]</sup></small> 
-[^3]: ==K==: they were willing  | **<big>[[H0014|אָבוּ֙]]</big> ** | 'a.Vu<small><sup>[[HVqp3cp]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>אָבוְֵּ֣֙</big></span>**
+[^1]: they were willing  | **<big>[[H0014|אָבוּ֙]]</big> ** | 'a.Vu<small><sup>[[HVqp3cp]]</sup></small> | K
+[^2]: they were willing  | **<big>[[H0014|אָבוּ֙]]</big> ** | 'a.Vu<small><sup>[[HVqp3cp]]</sup></small> | K
+[^3]: they were willing  | **<big>[[H0014|אָבוּ֙]]</big> ** | 'a.Vu<small><sup>[[HVqp3cp]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>אָבוְֵּ֣֙</big></span>**
 

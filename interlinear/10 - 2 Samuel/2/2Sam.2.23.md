@@ -36,7 +36,7 @@ But Asahel refused to turn away. So Abner thrust the butt of his spear into his 
 | and they stood still  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5975G\|יַּעֲמֹֽדוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.ya.'a.Mo.du<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.22|<< 2 Samuel 2:22]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.24|2 Samuel 2:24 >>]]</td></tr></table>
 
-[^1]: ==K==: in place his  | **<big>[[H9033|וֹ]]</big><big>[[H8478I|תַּחַת]]</big> ** | ta.cha.to<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: in place his  | **<big>[[H9033|וֹ]]</big><big>[[H8478I|תַּחַת]]</big> ** | ta.cha.to<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>תַּחְתָּ֑ו</big></span>**
+[^1]: in place his  | **<big>[[H9033|וֹ]]</big><big>[[H8478I|תַּחַת]]</big> ** | ta.cha.to<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: in place his  | **<big>[[H9033|וֹ]]</big><big>[[H8478I|תַּחַת]]</big> ** | ta.cha.to<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>תַּחְתָּ֑ו</big></span>**
 

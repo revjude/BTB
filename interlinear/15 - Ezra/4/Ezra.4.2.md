@@ -35,8 +35,8 @@ they approached Zerubbabel and the heads of the families, saying, “Let us buil
 | here  |**<big>&#8207;[[H6311\|פֹּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Poh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.1|<< Ezra 4:1]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.3|Ezra 4:3 >>]]</td></tr></table>
 
-[^1]: ==K==: and not  | **<big>[[H3808|לֹא]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> lo'<small><sup>[[HTn]]</sup></small> 
-[^2]: ==K==: and not  | **<big>[[H3808|לֹא]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> lo'<small><sup>[[HTn]]</sup></small> 
-[^3]: ==K==: and not  | **<big>[[H3808|לֹא]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> lo'<small><sup>[[HTn]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וְלֹ֣א\׀</big></span>**
+[^1]: and not  | **<big>[[H3808|לֹא]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> lo'<small><sup>[[HTn]]</sup></small> | K
+[^2]: and not  | **<big>[[H3808|לֹא]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> lo'<small><sup>[[HTn]]</sup></small> | K
+[^3]: and not  | **<big>[[H3808|לֹא]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> lo'<small><sup>[[HTn]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וְלֹ֣א\׀</big></span>**
 

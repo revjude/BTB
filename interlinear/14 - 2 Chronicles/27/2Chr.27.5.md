@@ -42,5 +42,5 @@ Jotham waged war against the king of the Ammonites and defeated them, and that y
 | and \<the> third  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7992\|שְּׁלִשִֽׁית]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> she.li.Shit<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.27.4|<< 2 Chronicles 27:4]]</td><td align="center" style="border:none;">[[2Chr.27|2 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.27.6|2 Chronicles 27:6 >>]]</td></tr></table>
 
-[^1]: ==A== spelled: **<span class="ashebrew"><big>עַמּ֔וֹן</big></span>**
+[^1]: A spelled: **<span class="ashebrew"><big>עַמּ֔וֹן</big></span>**
 

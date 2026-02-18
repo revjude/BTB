@@ -17,8 +17,8 @@ And Judah was routed before Israel, and every man fled to his home.
 | to tents his  [^3]|**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0168H\|אֹהָלָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^4] | le.<small><sup>[[HR]]</sup></small> 'o.ho.lo<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14.11|<< 2 Kings 14:11]]</td><td align="center" style="border:none;">[[2Kgs.14|2 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14.13|2 Kings 14:13 >>]]</td></tr></table>
 
-[^1]: ==K==: to tent his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H0168H|אָהֳל]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> 'o.ho.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: to tent his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H0168H|אָהֳל]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> 'o.ho.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: to tent his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H0168H|אָהֳל]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> 'o.ho.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>לְאֹהָלָֽ/ו\׃</big></span>**
+[^1]: to tent his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H0168H|אָהֳל]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> 'o.ho.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: to tent his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H0168H|אָהֳל]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> 'o.ho.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: to tent his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H0168H|אָהֳל]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> 'o.ho.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>לְאֹהָלָֽ/ו\׃</big></span>**
 

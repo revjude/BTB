@@ -38,7 +38,7 @@ But Jehosheba daughter of King Joram, the sister of Ahaziah, took Joash son of A
 | he was put to death  |**<big>&#8207;[[H4191\|הוּמָֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| hu.Mat<small><sup>[[HVHp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.11.1|<< 2 Kings 11:1]]</td><td align="center" style="border:none;">[[2Kgs.11|2 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11.3|2 Kings 11:3 >>]]</td></tr></table>
 
-[^1]: ==K==: who were to be put to death  | **<big>[[H4191|מָּמוֹתְתִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ma.mo.tim<small><sup>[[VOrmpa]]</sup></small> 
-[^2]: ==K==: who were to be put to death  | **<big>[[H4191|מָּמוֹתְתִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ma.mo.tim<small><sup>[[VOrmpa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הַמֻּ֣מָותִ֔תים</big></span>**
+[^1]: who were to be put to death  | **<big>[[H4191|מָּמוֹתְתִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ma.mo.tim<small><sup>[[HVOrmpa]]</sup></small> | K
+[^2]: who were to be put to death  | **<big>[[H4191|מָּמוֹתְתִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ma.mo.tim<small><sup>[[HVOrmpa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הַמֻּ֣מָותִ֔תים</big></span>**
 

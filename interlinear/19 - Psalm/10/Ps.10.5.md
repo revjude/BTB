@@ -21,6 +21,6 @@ He is secure in his ways at all times; Your lofty judgments are far from him; he
 | at them  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.10.4|<< Psalms 10:4]]</td><td align="center" style="border:none;">[[Ps.10|Psalms 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.10.6|Psalms 10:6 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>דְרָכָ֨ו\׀</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>דַרְכּוֹ</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>דְרָכָ֨ו\׀</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>דַרְכּוֹ</big></span>**
 

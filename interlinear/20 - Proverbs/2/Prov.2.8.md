@@ -16,7 +16,7 @@ to guard the paths of justice and protect the way of His saints.
 | he will preserve  |**<big>&#8207;[[H8104H\|יִשְׁמֹֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yish.Mor<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.2.7|<< Proverbs 2:7]]</td><td align="center" style="border:none;">[[Prov.2|Proverbs 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.2.9|Proverbs 2:9 >>]]</td></tr></table>
 
-[^1]: ==K==: faithful [person] his  | **<big>[[H9023|וֹ]]</big><big>[[H2623|חֲסִיד]]</big> ** | cha.si.do<small><sup>[[HAamsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: faithful [person] his  | **<big>[[H9023|וֹ]]</big><big>[[H2623|חֲסִיד]]</big> ** | cha.si.do<small><sup>[[HAamsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>חֲסִידָ֣ו</big></span>**
+[^1]: faithful [person] his  | **<big>[[H9023|וֹ]]</big><big>[[H2623|חֲסִיד]]</big> ** | cha.si.do<small><sup>[[HAamsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: faithful [person] his  | **<big>[[H9023|וֹ]]</big><big>[[H2623|חֲסִיד]]</big> ** | cha.si.do<small><sup>[[HAamsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>חֲסִידָ֣ו</big></span>**
 

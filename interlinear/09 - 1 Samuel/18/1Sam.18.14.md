@@ -17,7 +17,7 @@ and he continued to prosper in all his ways, because the LORD was with him.
 | [was] with him  |**<big>&#8207;[[H5973A\|עִמּֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| i.M<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.18.13|<< 1 Samuel 18:13]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.15|1 Samuel 18:15 >>]]</td></tr></table>
 
-[^1]: ==K==: way his  | **<big>[[H9023|וֹ]]</big><big>[[H1870G|דַּרְכּ]]</big> ** | da.re.Kha<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[Sp3bs]]</sup></small> 
-[^2]: ==K==: way his  | **<big>[[H9023|וֹ]]</big><big>[[H1870G|דַּרְכּ]]</big> ** | da.re.Kha<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[Sp3bs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>דְּרָכָ֖ו</big></span>**
+[^1]: way his  | **<big>[[H9023|וֹ]]</big><big>[[H1870G|דַּרְכּ]]</big> ** | da.re.Kha<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> | K
+[^2]: way his  | **<big>[[H9023|וֹ]]</big><big>[[H1870G|דַּרְכּ]]</big> ** | da.re.Kha<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>דְּרָכָ֖ו</big></span>**
 

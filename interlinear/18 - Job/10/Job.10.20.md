@@ -18,10 +18,10 @@ Are my days not few? Withdraw from me, that I may have a little comfort,
 | a little  |**<big>&#8207;[[H4592\|מְּעָֽט]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.'At<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.10.19|<< Job 10:19]]</td><td align="center" style="border:none;">[[Job.10|Job 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.10.21|Job 10:21 >>]]</td></tr></table>
 
-[^1]: ==K==: may it cease  | **<big>[[H2308|יֶחְדָּל]]</big> ** | yech.dal<small><sup>[[HVqv2ms]]</sup></small> 
-[^2]: ==K==: may it cease  | **<big>[[H2308|יֶחְדָּל]]</big> ** | yech.dal<small><sup>[[HVqv2ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>יַחֲדָ֑ל</big></span>**
-[^4]: ==K==: may he put  | **<big>[[H7896H|יָשִׁית]]</big> ** | ya.shit<small><sup>[[HVqi3ms]]</sup></small> 
-[^5]: ==K==: may he put  | **<big>[[H7896H|יָשִׁית]]</big> ** | ya.shit<small><sup>[[HVqi3ms]]</sup></small> 
-[^6]: ==L== spelled: **<span class="ashebrew"><big>יְשִׁ֥ית</big></span>**
+[^1]: may it cease  | **<big>[[H2308|יֶחְדָּל]]</big> ** | yech.dal<small><sup>[[HVqv2ms]]</sup></small> | K
+[^2]: may it cease  | **<big>[[H2308|יֶחְדָּל]]</big> ** | yech.dal<small><sup>[[HVqv2ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>יַחֲדָ֑ל</big></span>**
+[^4]: may he put  | **<big>[[H7896H|יָשִׁית]]</big> ** | ya.shit<small><sup>[[HVqi3ms]]</sup></small> | K
+[^5]: may he put  | **<big>[[H7896H|יָשִׁית]]</big> ** | ya.shit<small><sup>[[HVqi3ms]]</sup></small> | K
+[^6]: L spelled: **<span class="ashebrew"><big>יְשִׁ֥ית</big></span>**
 

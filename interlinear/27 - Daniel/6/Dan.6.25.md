@@ -24,6 +24,6 @@ Then King Darius wrote to the people of every nation and language throughout the
 | may it increase  |**<big>&#8207;[[H7680\|יִשְׂגֵּֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yis.Ge'<small><sup>[[AVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.24|<< Daniel 6:24]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.26|Daniel 6:26 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>דָאְרִ֥ין</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>דָאֲרִין</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>דָאְרִ֥ין</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>דָאֲרִין</big></span>**
 

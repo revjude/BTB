@@ -16,7 +16,7 @@ Praise Him, all His angels; praise Him, all His heavenly hosts.
 | hosts his  [^2]|**<big>&#8207;[[H6635A\|צְבָאָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | tze.va.'o<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.148.1|<< Psalms 148:1]]</td><td align="center" style="border:none;">[[Ps.148|Psalms 148]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.148.3|Psalms 148:3 >>]]</td></tr></table>
 
-[^1]: ==K==: host his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H6635A|צְבָא]]</big> ** | tze.va.'o<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: host his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H6635A|צְבָא]]</big> ** | tze.va.'o<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>צְבָאָֽו\׃</big></span>**
+[^1]: host his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H6635A|צְבָא]]</big> ** | tze.va.'o<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: host his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H6635A|צְבָא]]</big> ** | tze.va.'o<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>צְבָאָֽו\׃</big></span>**
 

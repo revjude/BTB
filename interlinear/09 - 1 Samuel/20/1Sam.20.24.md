@@ -20,6 +20,6 @@ So David hid in the field, and when the New Moon had come, the king sat down to 
 | to eat  |**<big>&#8207;[[H9005\|לֶ]]&#8207;&#8207;[[H0398\|אֱכֽוֹל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'e.Khol<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.23|<< 1 Samuel 20:23]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.25|1 Samuel 20:25 >>]]</td></tr></table>
 
-[^1]: ==K==: at  | **<big>[[H5921A|עַל]]</big> ** | al-<small><sup>[[HR]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>עֶל\־</big></span>**
+[^1]: at  | **<big>[[H5921A|עַל]]</big> ** | al-<small><sup>[[HR]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>עֶל\־</big></span>**
 

@@ -27,5 +27,5 @@ Barzillai was quite old, eighty years of age, and since he was a very wealthy ma
 | very  |**<big>&#8207;[[H3966\|מְאֹֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.31|<< 2 Samuel 19:31]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.33|2 Samuel 19:33 >>]]</td></tr></table>
 
-[^1]: ==BH== spelled: **<span class="ashebrew"><big>בְשִׁיבָת֣/וֹ</big></span>**
+[^1]: BH spelled: **<span class="ashebrew"><big>בְשִׁיבָת֣/וֹ</big></span>**
 

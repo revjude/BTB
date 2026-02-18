@@ -35,6 +35,6 @@ But keep a distance of about two thousand cubits between yourselves and the ark.
 | three days ago  |**<big>&#8207;[[H8032\|שִׁלְשֽׁוֹם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| shil.Shom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.3.3|<< Joshua 3:3]]</td><td align="center" style="border:none;">[[Josh.3|Joshua 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.3.5|Joshua 3:5 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וּבֵינָ֔/ו</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וּבֵינ/וֹ</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וּבֵינָ֔/ו</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וּבֵינ/וֹ</big></span>**
 

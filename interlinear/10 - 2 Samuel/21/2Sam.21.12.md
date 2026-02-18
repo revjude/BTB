@@ -40,12 +40,12 @@ he went and took the bones of Saul and his son Jonathan from the men of Jabesh-g
 | on \<the> Gilboa  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1533G\|גִּלְבֹּֽעַ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> gil.Bo.a'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.11|<< 2 Samuel 21:11]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.13|2 Samuel 21:13 >>]]</td></tr></table>
 
-[^1]: ==K==: they had hung up them  | **<big>[[H9038|ם]]</big><big>[[H8518|תָּלוּ]]</big> ** | te.lu<small><sup>[[HVqp3cp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^2]: ==K==: they had hung up them  | **<big>[[H9038|ם]]</big><big>[[H8518|תָּלוּ]]</big> ** | te.lu<small><sup>[[HVqp3cp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>תְּלָוּ֥ם</big></span>**
-[^4]: ==K==: there  | **<big>[[H8033G|שָׁם]]</big> ** | sham<small><sup>[[HD]]</sup></small> 
-[^5]: ==K==: there  | **<big>[[H8033G|שָׁם]]</big> ** | sham<small><sup>[[HD]]</sup></small> 
-[^6]: ==L== spelled: **<span class="ashebrew"><big>שָׁ֙םָּ֙</big></span>**
-[^7]: ==K==: the Philistines  | **<big>[[H6430G|פְּלִשְׁתִּים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> pe.lish.tim<small><sup>[[HNgmpa]]</sup></small> 
-[^8]: ==L== spelled: **<span class="ashebrew"><big>הפְּלִשְׁתִּ֔ים</big></span>**
+[^1]: they had hung up them  | **<big>[[H9038|ם]]</big><big>[[H8518|תָּלוּ]]</big> ** | te.lu<small><sup>[[HVqp3cp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^2]: they had hung up them  | **<big>[[H9038|ם]]</big><big>[[H8518|תָּלוּ]]</big> ** | te.lu<small><sup>[[HVqp3cp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>תְּלָוּ֥ם</big></span>**
+[^4]: there  | **<big>[[H8033G|שָׁם]]</big> ** | sham<small><sup>[[HD]]</sup></small> | K
+[^5]: there  | **<big>[[H8033G|שָׁם]]</big> ** | sham<small><sup>[[HD]]</sup></small> | K
+[^6]: L spelled: **<span class="ashebrew"><big>שָׁ֙םָּ֙</big></span>**
+[^7]: the Philistines  | **<big>[[H6430G|פְּלִשְׁתִּים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> pe.lish.tim<small><sup>[[HNgmpa]]</sup></small> | K
+[^8]: L spelled: **<span class="ashebrew"><big>הפְּלִשְׁתִּ֔ים</big></span>**
 

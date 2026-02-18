@@ -15,7 +15,7 @@ I love those who love me, and those who seek me early shall find me.
 | they find me  |**<big>&#8207;[[H4672\|יִמְצָאֻֽ]]&#8207;&#8207;[[H9030\|נְנִי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yim.tza.'U.<small><sup>[[HVqi3mp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.16|<< Proverbs 8:16]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.18|Proverbs 8:18 >>]]</td></tr></table>
 
-[^1]: ==K==: [those who] love her  | **<big>[[H9034|הָ]]</big><big>[[H0157G|אֹהֲבֶי]]</big> ** | 'o.ha.vei.<small><sup>[[HVqrmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> 
-[^2]: ==K==: [those who] love her  | **<big>[[H9034|הָ]]</big><big>[[H0157G|אֹהֲבֶי]]</big> ** | 'o.ha.vei.<small><sup>[[HVqrmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>אֹהֲבַ֣יה</big></span>**
+[^1]: [those who] love her  | **<big>[[H9034|הָ]]</big><big>[[H0157G|אֹהֲבֶי]]</big> ** | 'o.ha.vei.<small><sup>[[HVqrmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | K
+[^2]: [those who] love her  | **<big>[[H9034|הָ]]</big><big>[[H0157G|אֹהֲבֶי]]</big> ** | 'o.ha.vei.<small><sup>[[HVqrmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>אֹהֲבַ֣יה</big></span>**
 

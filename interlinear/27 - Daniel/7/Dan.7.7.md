@@ -47,10 +47,10 @@ After this, as I watched in my vision in the night, suddenly a fourth beast appe
 | [were] to it  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| La<small><sup>[[AR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.6|<< Daniel 7:6]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.8|Daniel 7:8 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>רְֽבִיעָיָ֡ה</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>רְבִיעָיָה</big></span>**
-[^3]: ==K==: with feet its  | **<big>[[H9024|הּ]]</big><big>[[H7271|רַגְלַיַּ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[AR]]</sup></small> rag.lai.ya<small><sup>[[ANcmpc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> 
-[^4]: ==K==: with feet its  | **<big>[[H9024|הּ]]</big><big>[[H7271|רַגְלַיַּ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[AR]]</sup></small> rag.lai.ya<small><sup>[[ANcmpc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> 
-[^5]: ==K==: with feet its  | **<big>[[H9024|הּ]]</big><big>[[H7271|רַגְלַיַּ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[AR]]</sup></small> rag.lai.ya<small><sup>[[ANcmpc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> 
-[^6]: ==L== spelled: **<span class="asaramaic"><big>בְּרַגְלַ֣י/הּ</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>רְֽבִיעָיָ֡ה</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>רְבִיעָיָה</big></span>**
+[^3]: with feet its  | **<big>[[H9024|הּ]]</big><big>[[H7271|רַגְלַיַּ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[AR]]</sup></small> rag.lai.ya<small><sup>[[ANcmpc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | K
+[^4]: with feet its  | **<big>[[H9024|הּ]]</big><big>[[H7271|רַגְלַיַּ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[AR]]</sup></small> rag.lai.ya<small><sup>[[ANcmpc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | K
+[^5]: with feet its  | **<big>[[H9024|הּ]]</big><big>[[H7271|רַגְלַיַּ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[AR]]</sup></small> rag.lai.ya<small><sup>[[ANcmpc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | K
+[^6]: L spelled: **<span class="asaramaic"><big>בְּרַגְלַ֣י/הּ</big></span>**
 

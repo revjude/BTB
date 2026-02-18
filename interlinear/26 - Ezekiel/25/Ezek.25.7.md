@@ -30,7 +30,7 @@ therefore I will indeed stretch out My hand against you and give you as plunder 
 | [am] Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.25.6|<< Ezekiel 25:6]]</td><td align="center" style="border:none;">[[Ezek.25|Ezekiel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.25.8|Ezekiel 25:8 >>]]</td></tr></table>
 
-[^1]: ==K==: as spoil  | **<big>[[H0897|בַג]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> vag<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==K==: as spoil  | **<big>[[H0897|בַג]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> vag<small><sup>[[HNcbsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>לְבַג֙</big></span>**
+[^1]: as spoil  | **<big>[[H0897|בַג]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> vag<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: as spoil  | **<big>[[H0897|בַג]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> vag<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>לְבַג֙</big></span>**
 

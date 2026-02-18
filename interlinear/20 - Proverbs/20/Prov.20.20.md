@@ -21,7 +21,7 @@ Whoever curses his father or mother, his lamp will be extinguished in deepest da
 | darkness  |**<big>&#8207;[[H2822\|חֹֽשֶׁךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Cho.shekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.19|<< Proverbs 20:19]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.21|Proverbs 20:21 >>]]</td></tr></table>
 
-[^1]: ==K==: in [the] middle of  | **<big>[[H0380|אִישׁוֹן]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'i.shon<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==K==: in [the] middle of  | **<big>[[H0380|אִישׁוֹן]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'i.shon<small><sup>[[HNcbsc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בֶּאֱישׁ֥וּן</big></span>**
+[^1]: in [the] middle of  | **<big>[[H0380|אִישׁוֹן]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'i.shon<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: in [the] middle of  | **<big>[[H0380|אִישׁוֹן]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'i.shon<small><sup>[[HNcbsc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בֶּאֱישׁ֥וּן</big></span>**
 

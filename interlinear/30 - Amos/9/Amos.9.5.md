@@ -26,5 +26,5 @@ The Lord GOD of Hosts, He who touches the earth and it melts, and all its dwelle
 | of Egypt  |**<big>&#8207;[[H4714G\|מִצְרָֽיִם]]&#8207; </big>**[^1] | mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.9.4|<< Amos 9:4]]</td><td align="center" style="border:none;">[[Amos.9|Amos 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.9.6|Amos 9:6 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>מִצְרָֽיִם\׃</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>מִצְרָֽיִם\׃</big></span>**
 

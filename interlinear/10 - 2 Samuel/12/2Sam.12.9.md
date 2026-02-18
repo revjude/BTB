@@ -33,8 +33,8 @@ Why then have you despised the command of the LORD by doing evil in His sight? Y
 | Ammon  |**<big>&#8207;[[H5983\|עַמּֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| a.Mon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.12.8|<< 2 Samuel 12:8]]</td><td align="center" style="border:none;">[[2Sam.12|2 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.12.10|2 Samuel 12:10 >>]]</td></tr></table>
 
-[^1]: ==K==: in eyes his  | **<big>[[H9023|וֹ]]</big><big>[[H5869H|עֵינ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'ei.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: in eyes his  | **<big>[[H9023|וֹ]]</big><big>[[H5869H|עֵינ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'ei.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: in eyes his  | **<big>[[H9023|וֹ]]</big><big>[[H5869H|עֵינ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'ei.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>בְּעֵינַ/ו֒</big></span>**
+[^1]: in eyes his  | **<big>[[H9023|וֹ]]</big><big>[[H5869H|עֵינ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'ei.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: in eyes his  | **<big>[[H9023|וֹ]]</big><big>[[H5869H|עֵינ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'ei.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: in eyes his  | **<big>[[H9023|וֹ]]</big><big>[[H5869H|עֵינ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'ei.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>בְּעֵינַ/ו֒</big></span>**
 

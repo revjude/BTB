@@ -24,6 +24,6 @@ Flee from the midst of Babylon; depart from the land of the Chaldeans; be like t
 | [the] flock  |**<big>&#8207;[[H6629G\|צֹֽאן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Tzon<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.7|<< Jeremiah 50:7]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.9|Jeremiah 50:9 >>]]</td></tr></table>
 
-[^1]: ==K==: they went forth  | **<big>[[H3318G|יָצְאוּ]]</big> ** | ya.tze.'u<small><sup>[[HVqp3cp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יצֵ֑אוּ</big></span>**
+[^1]: they went forth  | **<big>[[H3318G|יָצְאוּ]]</big> ** | ya.tze.'u<small><sup>[[HVqp3cp]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יצֵ֑אוּ</big></span>**
 

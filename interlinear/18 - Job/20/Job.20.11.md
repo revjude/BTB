@@ -17,7 +17,7 @@ The youthful vigor that fills his bones will lie down with him in the dust.
 | it will lie down  |**<big>&#8207;[[H7901G\|תִּשְׁכָּֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tish.Kav<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.10|<< Job 20:10]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.12|Job 20:12 >>]]</td></tr></table>
 
-[^1]: ==K==: youthful vigor his  | **<big>[[H9023|וֹ]]</big><big>[[H5934|עֲלוּמ]]</big> ** | a.lu.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: youthful vigor his  | **<big>[[H9023|וֹ]]</big><big>[[H5934|עֲלוּמ]]</big> ** | a.lu.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>עֲלוּמָ֑ו</big></span>**
+[^1]: youthful vigor his  | **<big>[[H9023|וֹ]]</big><big>[[H5934|עֲלוּמ]]</big> ** | a.lu.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: youthful vigor his  | **<big>[[H9023|וֹ]]</big><big>[[H5934|עֲלוּמ]]</big> ** | a.lu.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>עֲלוּמָ֑ו</big></span>**
 

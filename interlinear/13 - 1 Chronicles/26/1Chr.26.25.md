@@ -22,7 +22,7 @@ His relatives through Eliezer included Rehabiah his son, Jeshaiah his son, Joram
 | son his  |**<big>&#8207;[[H1121A\|בְּנֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.24|<< 1 Chronicles 26:24]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.26|1 Chronicles 26:26 >>]]</td></tr></table>
 
-[^1]: ==K==: and Shelomoth  | **<big>[[H8013H|שְׁלֹמוֹת]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> she.lo.mot<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==K==: and Shelomoth  | **<big>[[H8013H|שְׁלֹמוֹת]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> she.lo.mot<small><sup>[[HNpm]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וּשְׁלֹמִ֥ות</big></span>**
+[^1]: and Shelomoth  | **<big>[[H8013H|שְׁלֹמוֹת]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> she.lo.mot<small><sup>[[HNpm]]</sup></small> | K
+[^2]: and Shelomoth  | **<big>[[H8013H|שְׁלֹמוֹת]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> she.lo.mot<small><sup>[[HNpm]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וּשְׁלֹמִ֥ות</big></span>**
 

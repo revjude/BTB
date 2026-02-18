@@ -28,7 +28,7 @@ David answered Gad, “I am deeply distressed. Please, let us fall into the hand
 | I fall  |**<big>&#8207;[[H5307G\|אֶפֹּֽלָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.Po.lah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.24.13|<< 2 Samuel 24:13]]</td><td align="center" style="border:none;">[[2Sam.24|2 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.24.15|2 Samuel 24:15 >>]]</td></tr></table>
 
-[^1]: ==K==: compassion his  | **<big>[[H9023|וֹ]]</big><big>[[H7356B|רַחֲמ]]</big> ** | ra.cha.m<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: compassion his  | **<big>[[H9023|וֹ]]</big><big>[[H7356B|רַחֲמ]]</big> ** | ra.cha.m<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>רַֽחֲמָ֔ו</big></span>**
+[^1]: compassion his  | **<big>[[H9023|וֹ]]</big><big>[[H7356B|רַחֲמ]]</big> ** | ra.cha.m<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: compassion his  | **<big>[[H9023|וֹ]]</big><big>[[H7356B|רַחֲמ]]</big> ** | ra.cha.m<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>רַֽחֲמָ֔ו</big></span>**
 

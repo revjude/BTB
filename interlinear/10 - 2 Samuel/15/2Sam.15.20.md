@@ -29,7 +29,7 @@ In fact, you arrived only yesterday; should I make you wander around with us tod
 | and truth  |**<big>&#8207;[[H9002\|וֶ]]&#8207;&#8207;[[H0571G\|אֱמֶֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.Met<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.19|<< 2 Samuel 15:19]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.21|2 Samuel 15:21 >>]]</td></tr></table>
 
-[^1]: ==K==: will I wander? you  | **<big>[[H9031|ךָ]]</big><big>[[H5128|אֲנוֹעֲ]]</big> ** | 'a.no.'a.<small><sup>[[HVqi1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^2]: ==K==: will I wander? you  | **<big>[[H9031|ךָ]]</big><big>[[H5128|אֲנוֹעֲ]]</big> ** | 'a.no.'a.<small><sup>[[HVqi1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>אֲנִֽועֲךָ֤</big></span>**
+[^1]: will I wander? you  | **<big>[[H9031|ךָ]]</big><big>[[H5128|אֲנוֹעֲ]]</big> ** | 'a.no.'a.<small><sup>[[HVqi1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: will I wander? you  | **<big>[[H9031|ךָ]]</big><big>[[H5128|אֲנוֹעֲ]]</big> ** | 'a.no.'a.<small><sup>[[HVqi1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>אֲנִֽועֲךָ֤</big></span>**
 

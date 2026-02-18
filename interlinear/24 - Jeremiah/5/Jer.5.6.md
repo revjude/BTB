@@ -31,6 +31,6 @@ Therefore a lion from the forest will strike them down, a wolf from the desert w
 | apostasies their  |**<big>&#8207;[[H4878\|מְשׁוּבוֹתֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^1] [^2] | me.shu.vo.tei.<small><sup>[[HNcfpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.5|<< Jeremiah 5:5]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.7|Jeremiah 5:7 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>מְשֻׁבוֹתֵיהֶֽם\׃</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>מְשֻׁבוֹתֵיהֶם\׃</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>מְשֻׁבוֹתֵיהֶֽם\׃</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>מְשֻׁבוֹתֵיהֶם\׃</big></span>**
 

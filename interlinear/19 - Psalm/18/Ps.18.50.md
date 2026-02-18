@@ -20,6 +20,6 @@ Great salvation He brings to His king. He shows loving devotion to His anointed,
 | perpetuity  |**<big>&#8207;[[H5769G\|עוֹלָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.49|<< Psalms 18:49]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.19.0|Psalms 19:0 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>מַגְדִּל֮</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>מַגְדִּל</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>מַגְדִּל֮</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>מַגְדִּל</big></span>**
 

@@ -33,7 +33,7 @@ As you saw the iron mixed with clay, so the peoples will mix with one another bu
 | \<the> clay  |**<big>&#8207;[[H2635\|חַסְפָּֽ]]&#8207;&#8207;[[H9010\|א]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| chas.Pa<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.42|<< Daniel 2:42]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.44|Daniel 2:44 >>]]</td></tr></table>
 
-[^1]: ==K==: that  | **<big>[[H1768|דִי]]</big> ** | di<small><sup>[[AC]]</sup></small> 
-[^2]: ==K==: that  | **<big>[[H1768|דִי]]</big> ** | di<small><sup>[[AC]]</sup></small> 
-[^3]: ==L== spelled: **<span class="asaramaic"><big>ְדִ֣י</big></span>**
+[^1]: that  | **<big>[[H1768|דִי]]</big> ** | di<small><sup>[[AC]]</sup></small> | K
+[^2]: that  | **<big>[[H1768|דִי]]</big> ** | di<small><sup>[[AC]]</sup></small> | K
+[^3]: L spelled: **<span class="asaramaic"><big>ְדִ֣י</big></span>**
 

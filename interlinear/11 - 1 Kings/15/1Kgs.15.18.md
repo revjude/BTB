@@ -42,7 +42,7 @@ So Asa withdrew all the silver and gold that remained in the treasuries of the h
 | \<to> saying  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0559\|אמֹֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.17|<< 1 Kings 15:17]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.19|1 Kings 15:19 >>]]</td></tr></table>
 
-[^1]: ==K==: a king  | **<big>[[H4428G|מֶלֶךְ]]</big> ** | Me.lekh<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==K==: a king  | **<big>[[H4428G|מֶלֶךְ]]</big> ** | Me.lekh<small><sup>[[HNcbsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>ַמֶּ֔לֶךְ</big></span>**
+[^1]: a king  | **<big>[[H4428G|מֶלֶךְ]]</big> ** | Me.lekh<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: a king  | **<big>[[H4428G|מֶלֶךְ]]</big> ** | Me.lekh<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>ַמֶּ֔לֶךְ</big></span>**
 

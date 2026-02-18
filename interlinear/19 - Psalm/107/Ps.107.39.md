@@ -15,5 +15,5 @@ When they are decreased and humbled by oppression, evil, and sorrow,
 | and sorrow  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3015\|יָגֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^1] | ve.<small><sup>[[HC]]</sup></small> ya.Gon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.38|<< Psalms 107:38]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.40|Psalms 107:40 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>וְיָגֽוֹן\׃\ \׆</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>וְיָגֽוֹן\׃\ \׆</big></span>**
 

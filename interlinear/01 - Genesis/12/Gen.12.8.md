@@ -30,7 +30,7 @@ From there Abram moved on to the hill country east of Bethel and pitched his ten
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.12.7|<< Genesis 12:7]]</td><td align="center" style="border:none;">[[Gen.12|Genesis 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.9|Genesis 12:9 >>]]</td></tr></table>
 
-[^1]: ==K==: tent his  | **<big>[[H9023|ה]]</big><big>[[H0168G|אָהֳלֹ]]</big> ** | 'o.ho.Lo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: tent his  | **<big>[[H9023|ה]]</big><big>[[H0168G|אָהֳלֹ]]</big> ** | 'o.ho.Lo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>אָהֳלֹ֑ה</big></span>**
+[^1]: tent his  | **<big>[[H9023|ה]]</big><big>[[H0168G|אָהֳלֹ]]</big> ** | 'o.ho.Lo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: tent his  | **<big>[[H9023|ה]]</big><big>[[H0168G|אָהֳלֹ]]</big> ** | 'o.ho.Lo<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>אָהֳלֹ֑ה</big></span>**
 

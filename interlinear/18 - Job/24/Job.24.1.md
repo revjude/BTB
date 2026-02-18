@@ -19,8 +19,8 @@ Why, seeing times are not hidden from the Almighty, do they that know him not se
 | days his  |**<big>&#8207;[[H3117G\|יָמָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.Ma<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.23.17|<< Job 23:17]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.2|Job 24:2 >>]]</td></tr></table>
 
-[^1]: ==K==: and [one who] knows him  | **<big>[[H9033|וֹ]]</big><big>[[H3045|יֹדְע]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yo.de.'o<small><sup>[[HVqrmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: and [one who] knows him  | **<big>[[H9033|וֹ]]</big><big>[[H3045|יֹדְע]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yo.de.'o<small><sup>[[HVqrmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: and [one who] knows him  | **<big>[[H9033|וֹ]]</big><big>[[H3045|יֹדְע]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yo.de.'o<small><sup>[[HVqrmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וְ֝יֹדְעָ֗/ו</big></span>**
+[^1]: and [one who] knows him  | **<big>[[H9033|וֹ]]</big><big>[[H3045|יֹדְע]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yo.de.'o<small><sup>[[HVqrmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: and [one who] knows him  | **<big>[[H9033|וֹ]]</big><big>[[H3045|יֹדְע]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yo.de.'o<small><sup>[[HVqrmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: and [one who] knows him  | **<big>[[H9033|וֹ]]</big><big>[[H3045|יֹדְע]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yo.de.'o<small><sup>[[HVqrmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וְ֝יֹדְעָ֗/ו</big></span>**
 

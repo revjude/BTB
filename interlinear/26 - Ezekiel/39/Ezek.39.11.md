@@ -38,7 +38,7 @@ And on that day I will give Gog a burial place in Israel, the Valley of the Trav
 | Gog  |**<big>&#8207;[[H1996\|גּֽוֹג]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Gog<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.10|<< Ezekiel 39:10]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.12|Ezekiel 39:12 >>]]</td></tr></table>
 
-[^1]: ==K==: multitude his  | **<big>[[H9023|ה]]</big><big>[[H1995A|הֲמוֹנֹ֔]]</big> ** | ha.mo.No<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: multitude his  | **<big>[[H9023|ה]]</big><big>[[H1995A|הֲמוֹנֹ֔]]</big> ** | ha.mo.No<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הֲמוֹנֹ֔ה</big></span>**
+[^1]: multitude his  | **<big>[[H9023|ה]]</big><big>[[H1995A|הֲמוֹנֹ֔]]</big> ** | ha.mo.No<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: multitude his  | **<big>[[H9023|ה]]</big><big>[[H1995A|הֲמוֹנֹ֔]]</big> ** | ha.mo.No<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הֲמוֹנֹ֔ה</big></span>**
 

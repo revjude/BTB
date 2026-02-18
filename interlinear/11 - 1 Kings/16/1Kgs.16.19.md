@@ -27,7 +27,7 @@ because of the sins he had committed, doing evil in the sight of the LORD and fo
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.18|<< 1 Kings 16:18]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.20|1 Kings 16:20 >>]]</td></tr></table>
 
-[^1]: ==K==: sin his  | **<big>[[H9023|וֹ]]</big><big>[[H2403B|חַטָּאת]]</big> ** | cha.ta.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: sin his  | **<big>[[H9023|וֹ]]</big><big>[[H2403B|חַטָּאת]]</big> ** | cha.ta.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>חַטֹּאתָו֙</big></span>**
+[^1]: sin his  | **<big>[[H9023|וֹ]]</big><big>[[H2403B|חַטָּאת]]</big> ** | cha.ta.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: sin his  | **<big>[[H9023|וֹ]]</big><big>[[H2403B|חַטָּאת]]</big> ** | cha.ta.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>חַטֹּאתָו֙</big></span>**
 

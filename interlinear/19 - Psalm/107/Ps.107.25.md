@@ -16,5 +16,5 @@ For He spoke and raised a tempest that lifted the waves of the sea.
 | waves its  |**<big>&#8207;[[H1530H\|גַּלָּֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^1] | ga.La<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.24|<< Psalms 107:24]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.26|Psalms 107:26 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>גַּלָּֽיו\׃\ \׆</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>גַּלָּֽיו\׃\ \׆</big></span>**
 

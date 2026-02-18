@@ -16,6 +16,6 @@ That very night Belshazzar king of the Chaldeans was slain,
 | Chaldeans the  |**<big>&#8207;[[H3779\|כַשְׂדָּאָֽ]]&#8207;&#8207;[[H9010\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**[^1] [^2] | khas.da.ya<small><sup>[[ANgmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.29|<< Daniel 5:29]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.31|Daniel 5:31 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>כַשְׂדָּיאָֽ\׃\ \פ</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>כַשְׂדָּיָא\׃\ \פ</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>כַשְׂדָּיאָֽ\׃\ \פ</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>כַשְׂדָּיָא\׃\ \פ</big></span>**
 

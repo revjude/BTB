@@ -30,5 +30,5 @@ Then the remnant of Jacob will be among the nations, in the midst of many people
 | [is] a deliverer  |**<big>&#8207;[[H5337\|מַצִּֽיל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ma.Tzil<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.5.7|<< Micah 5:7]]</td><td align="center" style="border:none;">[[Mic.5|Micah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.5.9|Micah 5:9 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>בְּעֶדְרֵי\־</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>בְּעֶדְרֵי\־</big></span>**
 

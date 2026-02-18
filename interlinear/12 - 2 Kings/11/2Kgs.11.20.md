@@ -22,7 +22,7 @@ and all the people of the land rejoiced. And the city was quiet, because Athalia
 | the king  [^2]|**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּֽלֶךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**[^3] | ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.11.19|<< 2 Kings 11:19]]</td><td align="center" style="border:none;">[[2Kgs.11|2 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11.21|2 Kings 11:21 >>]]</td></tr></table>
 
-[^1]: ==K==: a king  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H4428G|מֶלֶךְ]]</big> ** | Me.lekh<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==K==: a king  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H4428G|מֶלֶךְ]]</big> ** | Me.lekh<small><sup>[[HNcbsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>ַמֶּֽלֶךְ\׃\ \ס</big></span>**
+[^1]: a king  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H4428G|מֶלֶךְ]]</big> ** | Me.lekh<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: a king  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H4428G|מֶלֶךְ]]</big> ** | Me.lekh<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>ַמֶּֽלֶךְ\׃\ \ס</big></span>**
 

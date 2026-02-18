@@ -20,6 +20,6 @@ Will He be angry forever? Will He be indignant to the end?’ This you have spok
 | and you were able  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3201\|תּוּכָֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tu.Khal<small><sup>[[HVqw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.4|<< Jeremiah 3:4]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.6|Jeremiah 3:6 >>]]</td></tr></table>
 
-[^1]: ==K==: I spoke  | **<big>[[H1696G|דִבַּרְתִּי]]</big> ** | di.bar.ti<small><sup>[[HVpp1cs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>דִבַּ֛רְתְּי</big></span>**
+[^1]: I spoke  | **<big>[[H1696G|דִבַּרְתִּי]]</big> ** | di.bar.ti<small><sup>[[HVpp1cs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>דִבַּ֛רְתְּי</big></span>**
 

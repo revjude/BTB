@@ -15,6 +15,6 @@ Wash me clean of my iniquity and cleanse me from my sin.
 | cleanse me  |**<big>&#8207;[[H2891\|טַהֲרֵֽ]]&#8207;&#8207;[[H9030\|נִי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ta.ha.Re.<small><sup>[[HVpv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.51.1|<< Psalms 51:1]]</td><td align="center" style="border:none;">[[Ps.51|Psalms 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.51.3|Psalms 51:3 >>]]</td></tr></table>
 
-[^1]: ==K==: greatly  | **<big>[[H7235A|הַרְבֵּה]]</big> ** | He.rev<small><sup>[[HVhaa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>הֶ֭רֶבה</big></span>**
+[^1]: greatly  | **<big>[[H7235A|הַרְבֵּה]]</big> ** | He.rev<small><sup>[[HVhaa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>הֶ֭רֶבה</big></span>**
 

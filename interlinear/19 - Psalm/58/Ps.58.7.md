@@ -19,7 +19,7 @@ May they vanish like water that runs off; when they draw the bow, may their arro
 | let them be cut off  |**<big>&#8207;[[H4135B\|יִתְמֹלָֽלוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yit.mo.La.lu<small><sup>[[HVti3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.58.6|<< Psalms 58:6]]</td><td align="center" style="border:none;">[[Ps.58|Psalms 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.58.8|Psalms 58:8 >>]]</td></tr></table>
 
-[^1]: ==K==: arrow his  | **<big>[[H9023|וֹ]]</big><big>[[H2671|חִצּ]]</big> ** | chi.Tza<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: arrow his  | **<big>[[H9023|וֹ]]</big><big>[[H2671|חִצּ]]</big> ** | chi.Tza<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>חִ֝צָּ֗ו</big></span>**
+[^1]: arrow his  | **<big>[[H9023|וֹ]]</big><big>[[H2671|חִצּ]]</big> ** | chi.Tza<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: arrow his  | **<big>[[H9023|וֹ]]</big><big>[[H2671|חִצּ]]</big> ** | chi.Tza<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>חִ֝צָּ֗ו</big></span>**
 

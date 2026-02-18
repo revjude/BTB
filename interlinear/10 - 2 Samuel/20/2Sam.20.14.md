@@ -23,7 +23,7 @@ Sheba passed through all the tribes of Israel to Abel-beth-maacah and through th
 | after him  |**<big>&#8207;[[H0310A\|אַחֲרָֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.cha.Ra<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.13|<< 2 Samuel 20:13]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.15|2 Samuel 20:15 >>]]</td></tr></table>
 
-[^1]: ==K==: and they were lightly esteemed  | **<big>[[H7034|יִּקָּלְהוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yik.le.hu<small><sup>[[HVNw3mp]]</sup></small> 
-[^2]: ==K==: and they were lightly esteemed  | **<big>[[H7034|יִּקָּלְהוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yik.le.hu<small><sup>[[HVNw3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וַיִּקָּ֣לֲה֔וּ</big></span>**
+[^1]: and they were lightly esteemed  | **<big>[[H7034|יִּקָּלְהוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yik.le.hu<small><sup>[[HVNw3mp]]</sup></small> | K
+[^2]: and they were lightly esteemed  | **<big>[[H7034|יִּקָּלְהוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yik.le.hu<small><sup>[[HVNw3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וַיִּקָּ֣לֲה֔וּ</big></span>**
 

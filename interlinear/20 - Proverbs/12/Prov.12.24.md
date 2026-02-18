@@ -16,5 +16,5 @@ The hand of the diligent will rule, but laziness ends in forced labor.
 | \<into> forced labor  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H4522\|מַֽס]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Mas<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.23|<< Proverbs 12:23]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.25|Proverbs 12:25 >>]]</td></tr></table>
 
-[^1]: ==BAH== spelled: **<span class="ashebrew"><big>וּ֝רְמִיָּ֗ה</big></span>**
+[^1]: BAH spelled: **<span class="ashebrew"><big>וּ֝רְמִיָּ֗ה</big></span>**
 

@@ -24,6 +24,6 @@ Behold, I have created the craftsman who fans the coals into flame and forges a 
 | to ruin  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2254B\|חַבֵּֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> cha.Bel<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.15|<< Isaiah 54:15]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.17|Isaiah 54:17 >>]]</td></tr></table>
 
-[^1]: ==K==: here!  | **<big>[[H2005|הֵן]]</big> ** | hen<small><sup>[[HTj]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>הִןֵּ֤</big></span>**
+[^1]: here!  | **<big>[[H2005|הֵן]]</big> ** | hen<small><sup>[[HTj]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>הִןֵּ֤</big></span>**
 

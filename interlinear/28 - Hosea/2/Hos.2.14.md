@@ -19,5 +19,5 @@ Therefore, behold, I will allure her, and bring her into the wilderness, and spe
 | heart her  |**<big>&#8207;[[H3820A\|לִבָּֽ]]&#8207;&#8207;[[H9024\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| li.Ba<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.13|<< Hosea 2:13]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.15|Hosea 2:15 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>עַל\־</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>עַל\־</big></span>**
 

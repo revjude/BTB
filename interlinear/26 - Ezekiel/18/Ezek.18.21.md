@@ -28,8 +28,8 @@ But if the wicked man turns from all the sins he has committed, keeps all My sta
 | he will die  |**<big>&#8207;[[H4191\|יָמֽוּת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.Mut<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.20|<< Ezekiel 18:20]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.22|Ezekiel 18:22 >>]]</td></tr></table>
 
-[^1]: ==K==: sin his  | **<big>[[H9023|וֹ]]</big><big>[[H2403B|חַטָּאת]]</big> ** | cha.ta.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: sin his  | **<big>[[H9023|וֹ]]</big><big>[[H2403B|חַטָּאת]]</big> ** | cha.ta.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>חַטֹּאתָו֙</big></span>**
-[^4]: ==H== spelled: **<span class="ashebrew"><big>חֻקוֹתַ֔י</big></span>**
+[^1]: sin his  | **<big>[[H9023|וֹ]]</big><big>[[H2403B|חַטָּאת]]</big> ** | cha.ta.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: sin his  | **<big>[[H9023|וֹ]]</big><big>[[H2403B|חַטָּאת]]</big> ** | cha.ta.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>חַטֹּאתָו֙</big></span>**
+[^4]: H spelled: **<span class="ashebrew"><big>חֻקוֹתַ֔י</big></span>**
 

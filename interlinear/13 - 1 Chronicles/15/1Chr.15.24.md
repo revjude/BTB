@@ -28,6 +28,6 @@ Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah, and Eliezer—the pr
 | for the ark  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0727\|אָרֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'a.Ron<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.23|<< 1 Chronicles 15:23]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.25|1 Chronicles 15:25 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>מַחְצְצרִים֙</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>מַחֲצֹצְרִים</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>מַחְצְצרִים֙</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>מַחֲצֹצְרִים</big></span>**
 

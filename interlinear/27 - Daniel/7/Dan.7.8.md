@@ -39,11 +39,11 @@ While I was contemplating the horns, suddenly another horn, a little one, came u
 | great [things]  |**<big>&#8207;[[H7260\|רַבְרְבָֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| rav.re.Van<small><sup>[[AAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.7|<< Daniel 7:7]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.9|Daniel 7:9 >>]]</td></tr></table>
 
-[^1]: ==K==: between them  | **<big>[[H9038|הוֹן]]</big><big>[[H0997|בֵּינֵי]]</big> ** | bei.nei.<small><sup>[[ANcmpc]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> 
-[^2]: ==K==: between them  | **<big>[[H9038|הוֹן]]</big><big>[[H0997|בֵּינֵי]]</big> ** | bei.nei.<small><sup>[[ANcmpc]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="asaramaic"><big>בֵּֽינֵיהֵ֔ון</big></span>**
-[^4]: ==K==: they were uprooted  | **<big>[[H6132|אֶתְעֲקַרוּ]]</big> ** | 'et.'a.ka.ru<small><sup>[[AVip3mp]]</sup></small> 
-[^5]: ==L== spelled: **<span class="asaramaic"><big>אֶתְעֲקַ֖רָו</big></span>**
-[^6]: ==L== spelled: **<span class="asaramaic"><big>קֳדָמַ֑יהּ</big></span>**
-[^7]: ==K== spelled: **<span class="asaramaic"><big>קֳדָמַיַּהּ</big></span>**
+[^1]: between them  | **<big>[[H9038|הוֹן]]</big><big>[[H0997|בֵּינֵי]]</big> ** | bei.nei.<small><sup>[[ANcmpc]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
+[^2]: between them  | **<big>[[H9038|הוֹן]]</big><big>[[H0997|בֵּינֵי]]</big> ** | bei.nei.<small><sup>[[ANcmpc]]</sup></small> hon<small><sup>[[ASp3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="asaramaic"><big>בֵּֽינֵיהֵ֔ון</big></span>**
+[^4]: they were uprooted  | **<big>[[H6132|אֶתְעֲקַרוּ]]</big> ** | 'et.'a.ka.ru<small><sup>[[AVip3mp]]</sup></small> | K
+[^5]: L spelled: **<span class="asaramaic"><big>אֶתְעֲקַ֖רָו</big></span>**
+[^6]: L spelled: **<span class="asaramaic"><big>קֳדָמַ֑יהּ</big></span>**
+[^7]: K spelled: **<span class="asaramaic"><big>קֳדָמַיַּהּ</big></span>**
 

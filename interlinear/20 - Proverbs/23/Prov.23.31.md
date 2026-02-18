@@ -25,7 +25,7 @@ Do not gaze at wine while it is red, when it sparkles in the cup and goes down s
 | with smoothness\<es>  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4339\|מֵישָׁרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> mei.sha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.30|<< Proverbs 23:30]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.32|Proverbs 23:32 >>]]</td></tr></table>
 
-[^1]: ==K==: in the bag  | **<big>[[H3599|כִּיס]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HRd]]</sup></small> kis<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==K==: in the bag  | **<big>[[H3599|כִּיס]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HRd]]</sup></small> kis<small><sup>[[HNcbsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בַּכֹּ֣יס</big></span>**
+[^1]: in the bag  | **<big>[[H3599|כִּיס]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HRd]]</sup></small> kis<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: in the bag  | **<big>[[H3599|כִּיס]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HRd]]</sup></small> kis<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בַּכֹּ֣יס</big></span>**
 

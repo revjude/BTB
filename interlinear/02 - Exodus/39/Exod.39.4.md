@@ -18,7 +18,7 @@ They made shoulder pieces for the ephod, which were attached at two of its corne
 | it was joined  |**<big>&#8207;[[H2266\|חֻבָּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| chu.Bar<small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.3|<< Exodus 39:3]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.5|Exodus 39:5 >>]]</td></tr></table>
 
-[^1]: ==K==: end its  | **<big>[[H9023|וֹ]]</big><big>[[H7117|קִצְווֹת]]</big> ** | kitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: end its  | **<big>[[H9023|וֹ]]</big><big>[[H7117|קִצְווֹת]]</big> ** | kitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>קְצוֹותָֽו</big></span>**
+[^1]: end its  | **<big>[[H9023|וֹ]]</big><big>[[H7117|קִצְווֹת]]</big> ** | kitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: end its  | **<big>[[H9023|וֹ]]</big><big>[[H7117|קִצְווֹת]]</big> ** | kitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>קְצוֹותָֽו</big></span>**
 

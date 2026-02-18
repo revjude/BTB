@@ -25,8 +25,8 @@ from such men, O LORD, by Your hand—from men of the world whose portion is in 
 | to children their  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5768\|עוֹלְלֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'o.lei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.17.13|<< Psalms 17:13]]</td><td align="center" style="border:none;">[[Ps.17|Psalms 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.17.15|Psalms 17:15 >>]]</td></tr></table>
 
-[^1]: ==K==: and treasure your  | **<big>[[H9021|ךָ]]</big><big>[[H6840|צְפִינְ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> tze.fi.ne.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^2]: ==K==: and treasure your  | **<big>[[H9021|ךָ]]</big><big>[[H6840|צְפִינְ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> tze.fi.ne.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^3]: ==K==: and treasure your  | **<big>[[H9021|ךָ]]</big><big>[[H6840|צְפִינְ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> tze.fi.ne.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וּֽצְפיּנְ/ךָ֮</big></span>**
+[^1]: and treasure your  | **<big>[[H9021|ךָ]]</big><big>[[H6840|צְפִינְ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> tze.fi.ne.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: and treasure your  | **<big>[[H9021|ךָ]]</big><big>[[H6840|צְפִינְ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> tze.fi.ne.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^3]: and treasure your  | **<big>[[H9021|ךָ]]</big><big>[[H6840|צְפִינְ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> tze.fi.ne.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וּֽצְפיּנְ/ךָ֮</big></span>**
 

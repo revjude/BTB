@@ -35,6 +35,6 @@ young men without blemish, handsome, gifted in all wisdom, knowledgeable, quick 
 | [the] Chaldeans  |**<big>&#8207;[[H3778\|כַּשְׂדִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| kas.Dim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.1.3|<< Daniel 1:3]]</td><td align="center" style="border:none;">[[Dan.1|Daniel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.5|Daniel 1:5 >>]]</td></tr></table>
 
-[^1]: ==K==: blemish  | **<big>[[H3971A|מְאוּם]]</big> ** | me.'um<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>מֻאום֩</big></span>**
+[^1]: blemish  | **<big>[[H3971A|מְאוּם]]</big> ** | me.'um<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>מֻאום֩</big></span>**
 

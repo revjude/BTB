@@ -29,7 +29,7 @@ Then Elisha got on the bed and lay on the boy, mouth to mouth, eye to eye, and h
 | the child  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3206\|יָּֽלֶד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Ya.led<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.33|<< 2 Kings 4:33]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.35|2 Kings 4:35 >>]]</td></tr></table>
 
-[^1]: ==K==: palm his  | **<big>[[H9023|וֹ]]</big><big>[[H3709G|כַּפּ]]</big> ** | ka.po<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: palm his  | **<big>[[H9023|וֹ]]</big><big>[[H3709G|כַּפּ]]</big> ** | ka.po<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>כַּפָּ֔ו</big></span>**
+[^1]: palm his  | **<big>[[H9023|וֹ]]</big><big>[[H3709G|כַּפּ]]</big> ** | ka.po<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: palm his  | **<big>[[H9023|וֹ]]</big><big>[[H3709G|כַּפּ]]</big> ** | ka.po<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>כַּפָּ֔ו</big></span>**
 

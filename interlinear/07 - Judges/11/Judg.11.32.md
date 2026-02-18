@@ -20,5 +20,5 @@ So Jephthah crossed over to the Ammonites to fight against them, and the LORD de
 | in hand his  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027H\|יָדֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ya.D<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.31|<< Judges 11:31]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.33|Judges 11:33 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>וַיִּתְּנֵ֥/ם</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>וַיִּתְּנֵ֥/ם</big></span>**
 

@@ -31,7 +31,7 @@ Make images of your tumors and of the rats that are ravaging the land. Give glor
 | land your  |**<big>&#8207;[[H0776G\|אַרְצְ]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'ar.tze.<small><sup>[[HNcfsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.4|<< 1 Samuel 6:4]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.6|1 Samuel 6:6 >>]]</td></tr></table>
 
-[^1]: ==K==: tumors your  | **<big>[[H9026|כֶם]]</big><big>[[H6076B|עָפְלֵי]]</big> ** | a.fe.lei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> 
-[^2]: ==K==: tumors your  | **<big>[[H9026|כֶם]]</big><big>[[H6076B|עָפְלֵי]]</big> ** | a.fe.lei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>עְפֹלֵיכֶ֜ם</big></span>**
+[^1]: tumors your  | **<big>[[H9026|כֶם]]</big><big>[[H6076B|עָפְלֵי]]</big> ** | a.fe.lei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | K
+[^2]: tumors your  | **<big>[[H9026|כֶם]]</big><big>[[H6076B|עָפְלֵי]]</big> ** | a.fe.lei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>עְפֹלֵיכֶ֜ם</big></span>**
 

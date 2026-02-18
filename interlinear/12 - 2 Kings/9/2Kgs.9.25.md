@@ -36,7 +36,7 @@ And Jehu said to Bidkar his officer, “Pick him up and throw him into the field
 | \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.24|<< 2 Kings 9:24]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.26|2 Kings 9:26 >>]]</td></tr></table>
 
-[^1]: ==K==: three  | **<big>[[H7969|שְׁלֹשָׁה]]</big> ** | she.lo.shah<small><sup>[[HNcfsa]]</sup></small> 
-[^2]: ==K==: three  | **<big>[[H7969|שְׁלֹשָׁה]]</big> ** | she.lo.shah<small><sup>[[HNcfsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>שָֽׁלִשֹׁ֔ה</big></span>**
+[^1]: three  | **<big>[[H7969|שְׁלֹשָׁה]]</big> ** | she.lo.shah<small><sup>[[HNcfsa]]</sup></small> | K
+[^2]: three  | **<big>[[H7969|שְׁלֹשָׁה]]</big> ** | she.lo.shah<small><sup>[[HNcfsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>שָֽׁלִשֹׁ֔ה</big></span>**
 

@@ -26,6 +26,6 @@ Each pillar was eighteen cubits tall and twelve cubits in circumference; each wa
 | hollow  |**<big>&#8207;[[H5014\|נָבֽוּב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| na.Vuv<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.20|<< Jeremiah 52:20]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.22|Jeremiah 52:22 >>]]</td></tr></table>
 
-[^1]: ==K==: height  | **<big>[[H6967|קוֹמָה]]</big> ** | ko.mah<small><sup>[[HNcfsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>קוֹמַה֙</big></span>**
+[^1]: height  | **<big>[[H6967|קוֹמָה]]</big> ** | ko.mah<small><sup>[[HNcfsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>קוֹמַה֙</big></span>**
 

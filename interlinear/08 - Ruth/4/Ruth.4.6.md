@@ -29,6 +29,6 @@ The kinsman-redeemer replied, “I cannot redeem it myself, or I would jeopardiz
 | to redeem [it]  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1350A\|גְאֹֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> g.'Ol<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.5|<< Ruth 4:5]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.7|Ruth 4:7 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>לִגְאָול\־</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>לִגְאוֹל</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>לִגְאָול\־</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>לִגְאוֹל</big></span>**
 

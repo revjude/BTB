@@ -19,7 +19,7 @@ Reconsider; do not be unjust. Reconsider, for my righteousness is at stake.
 | [is] in it  |**<big>&#8207;[[H9003\|בָֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Va<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.28|<< Job 6:28]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.30|Job 6:30 >>]]</td></tr></table>
 
-[^1]: ==K==: and turn back  | **<big>[[H7725I|שֻׁבִי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> shu.vi<small><sup>[[HVqv2fs]]</sup></small> 
-[^2]: ==K==: and turn back  | **<big>[[H7725I|שֻׁבִי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> shu.vi<small><sup>[[HVqv2fs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְשֻׁ֥ביּ</big></span>**
+[^1]: and turn back  | **<big>[[H7725I|שֻׁבִי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> shu.vi<small><sup>[[HVqv2fs]]</sup></small> | K
+[^2]: and turn back  | **<big>[[H7725I|שֻׁבִי]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> shu.vi<small><sup>[[HVqv2fs]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְשֻׁ֥ביּ</big></span>**
 

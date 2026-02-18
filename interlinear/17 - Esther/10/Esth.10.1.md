@@ -18,6 +18,6 @@ Now King Xerxes imposed tribute throughout the land, even to its farthest shores
 | the sea  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3220G\|יָּֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.32|<< Esther 9:32]]</td><td align="center" style="border:none;">[[Esth.10|Esther 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.10.2|Esther 10:2 >>]]</td></tr></table>
 
-[^1]: ==K==: Ahaserus  | **<big>[[H0325|אֲחָשֵׁרֹשׁ]]</big> ** | 'a.cha.she.rosh<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אֲחַשְֵׁרֹ֧שׁ\׀</big></span>**
+[^1]: Ahaserus  | **<big>[[H0325|אֲחָשֵׁרֹשׁ]]</big> ** | 'a.cha.she.rosh<small><sup>[[HNpm]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אֲחַשְֵׁרֹ֧שׁ\׀</big></span>**
 

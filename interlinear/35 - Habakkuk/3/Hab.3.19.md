@@ -21,5 +21,5 @@ GOD the Lord is my strength; He makes my feet like those of a deer; He makes me 
 | with stringed instruments my  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H5058\|נְגִינוֹתָֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> n.gi.no.Ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.18|<< Habakkuk 3:18]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.1.1|Zephaniah 1:1 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>יְהוִ֤ה</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>יְהוִ֤ה</big></span>**
 

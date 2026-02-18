@@ -22,9 +22,9 @@ When you glance at wealth, it disappears, for it makes wings for itself and flie
 | the heavens  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8064\|שָּׁמָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.4|<< Proverbs 23:4]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.6|Proverbs 23:6 >>]]</td></tr></table>
 
-[^1]: ==K==: ¿ do you fly  | **<big>[[H5774A|תָעוּף]]</big><big>[[H9008|הֲ]]</big> ** | ha.<small><sup>[[HTi]]</sup></small> ta.'uf<small><sup>[[HVqi2ms]]</sup></small> 
-[^2]: ==K==: ¿ do you fly  | **<big>[[H5774A|תָעוּף]]</big><big>[[H9008|הֲ]]</big> ** | ha.<small><sup>[[HTi]]</sup></small> ta.'uf<small><sup>[[HVqi2ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הֲתָ֤עִוף</big></span>**
-[^4]: ==K==: and it flies away  | **<big>[[H5774A|עָיֵף]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> 'a.yef<small><sup>[[HVqq3ms]]</sup></small> 
-[^5]: ==L== spelled: **<span class="ashebrew"><big>וָע֥יּף</big></span>**
+[^1]: ¿ do you fly  | **<big>[[H5774A|תָעוּף]]</big><big>[[H9008|הֲ]]</big> ** | ha.<small><sup>[[HTi]]</sup></small> ta.'uf<small><sup>[[HVqi2ms]]</sup></small> | K
+[^2]: ¿ do you fly  | **<big>[[H5774A|תָעוּף]]</big><big>[[H9008|הֲ]]</big> ** | ha.<small><sup>[[HTi]]</sup></small> ta.'uf<small><sup>[[HVqi2ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הֲתָ֤עִוף</big></span>**
+[^4]: and it flies away  | **<big>[[H5774A|עָיֵף]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> 'a.yef<small><sup>[[HVqq3ms]]</sup></small> | K
+[^5]: L spelled: **<span class="ashebrew"><big>וָע֥יּף</big></span>**
 

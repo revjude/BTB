@@ -21,8 +21,8 @@ Do not go out to the fields; do not walk the road. For the enemy has a sword; te
 | [is] from round about  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H5439H\|סָּבִֽיב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> sa.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.24|<< Jeremiah 6:24]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.26|Jeremiah 6:26 >>]]</td></tr></table>
 
-[^1]: ==K==: you go out  | **<big>[[H3318G|תֵּצְאִי]]</big> ** | te.tze.'i<small><sup>[[HVqj2fs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>תֵּֽצְאיּ֙</big></span>**
-[^3]: ==K==: you walk  | **<big>[[H1980I|תֵּלֵכִי]]</big> ** | te.le.khi<small><sup>[[HVqj2fs]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>תֵּלֵ֑כיּ</big></span>**
+[^1]: you go out  | **<big>[[H3318G|תֵּצְאִי]]</big> ** | te.tze.'i<small><sup>[[HVqj2fs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>תֵּֽצְאיּ֙</big></span>**
+[^3]: you walk  | **<big>[[H1980I|תֵּלֵכִי]]</big> ** | te.le.khi<small><sup>[[HVqj2fs]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>תֵּלֵ֑כיּ</big></span>**
 

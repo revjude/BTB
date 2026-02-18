@@ -35,6 +35,6 @@ So Saul disguised himself by putting on different clothes, and he set out with t
 | to you  |**<big>&#8207;[[H0413\|אֵלָֽיִ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.La.yi<small><sup>[[HRd]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.28.7|<< 1 Samuel 28:7]]</td><td align="center" style="border:none;">[[1Sam.28|1 Samuel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.28.9|1 Samuel 28:9 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>קָֽסֳומִי\־</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>קָסוֹמִי</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>קָֽסֳומִי\־</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>קָסוֹמִי</big></span>**
 

@@ -36,7 +36,7 @@ Joab fell facedown in homage and blessed the king. “Today,” said Joab, “yo
 | servant your  [^2]|**<big>&#8207;[[H5650\|עַבְדֶּֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | av.de<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.21|<< 2 Samuel 14:21]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.23|2 Samuel 14:23 >>]]</td></tr></table>
 
-[^1]: ==K==: servant his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H5650|עַבְדּ]]</big> ** | av.d<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: servant his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H5650|עַבְדּ]]</big> ** | av.d<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>עַבְדֶּֽוָ\׃</big></span>**
+[^1]: servant his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H5650|עַבְדּ]]</big> ** | av.d<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: servant his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H5650|עַבְדּ]]</big> ** | av.d<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>עַבְדֶּֽוָ\׃</big></span>**
 

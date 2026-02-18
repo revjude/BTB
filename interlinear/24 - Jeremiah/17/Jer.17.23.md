@@ -24,6 +24,6 @@ Yet they would not listen or incline their ear, but they stiffened their necks a
 | correction  |**<big>&#8207;[[H4148H\|מוּסָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mu.Sar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.22|<< Jeremiah 17:22]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.24|Jeremiah 17:24 >>]]</td></tr></table>
 
-[^1]: ==K==: listening  | **<big>[[H8085G|שׁוֹמֵעַ]]</big> ** | sho.me.a'<small><sup>[[HVqrmsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>שְׁומֹ֔עַ</big></span>**
+[^1]: listening  | **<big>[[H8085G|שׁוֹמֵעַ]]</big> ** | sho.me.a'<small><sup>[[HVqrmsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>שְׁומֹ֔עַ</big></span>**
 

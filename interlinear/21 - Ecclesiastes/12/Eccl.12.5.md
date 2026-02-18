@@ -30,5 +30,5 @@ when men fear the heights and dangers of the road, when the almond tree blossoms
 | the mourners  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5594\|סֹּפְדִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> so.fe.Dim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.12.4|<< Ecclesiastes 12:4]]</td><td align="center" style="border:none;">[[Eccl.12|Ecclesiastes 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.12.6|Ecclesiastes 12:6 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>בַשּׁ֖וּק</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>בַשּׁ֖וּק</big></span>**
 

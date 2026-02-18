@@ -26,7 +26,7 @@ the tabernacle with its tent and covering, its clasps and frames, its crossbars,
 | bases its  |**<big>&#8207;[[H0134\|אֲדָנָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.da.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.10|<< Exodus 35:10]]</td><td align="center" style="border:none;">[[Exod.35|Exodus 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.12|Exodus 35:12 >>]]</td></tr></table>
 
-[^1]: ==K==: bar its  | **<big>[[H9023|וֹ]]</big><big>[[H1280|בְּרִיח]]</big> ** | be.ri.Cha<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: bar its  | **<big>[[H9023|וֹ]]</big><big>[[H1280|בְּרִיח]]</big> ** | be.ri.Cha<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בְּרִיחָ֕ו</big></span>**
+[^1]: bar its  | **<big>[[H9023|וֹ]]</big><big>[[H1280|בְּרִיח]]</big> ** | be.ri.Cha<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: bar its  | **<big>[[H9023|וֹ]]</big><big>[[H1280|בְּרִיח]]</big> ** | be.ri.Cha<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בְּרִיחָ֕ו</big></span>**
 

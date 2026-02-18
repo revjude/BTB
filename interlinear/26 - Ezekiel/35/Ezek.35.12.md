@@ -28,6 +28,6 @@ Then you will know that I, the LORD, have heard every contemptuous word you utte
 | for devouring  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0402\|אָכְלָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'okh.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.35.11|<< Ezekiel 35:11]]</td><td align="center" style="border:none;">[[Ezek.35|Ezekiel 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.35.13|Ezekiel 35:13 >>]]</td></tr></table>
 
-[^1]: ==K==: it has been desolated  | **<big>[[H8074G|שָׁמֵמָה]]</big> ** | sha.Me.mah<small><sup>[[HVqp3fs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>שָׁמֵ֑מֻה</big></span>**
+[^1]: it has been desolated  | **<big>[[H8074G|שָׁמֵמָה]]</big> ** | sha.Me.mah<small><sup>[[HVqp3fs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>שָׁמֵ֑מֻה</big></span>**
 

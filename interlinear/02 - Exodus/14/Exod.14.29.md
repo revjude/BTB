@@ -21,5 +21,5 @@ But the Israelites had walked through the sea on dry ground, with walls of water
 | and from left their  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8040G\|שְּׂמֹאלָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**[^1] | u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> se.mo.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad Biblia (allepo benchayim)">LB(ah)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14.28|<< Exodus 14:28]]</td><td align="center" style="border:none;">[[Exod.14|Exodus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14.30|Exodus 14:30 >>]]</td></tr></table>
 
-[^1]: ==AH== spelled: **<span class="ashebrew"><big>וּמִ/שְּׂמֹאלָֽ/ם\׃</big></span>**
+[^1]: AH spelled: **<span class="ashebrew"><big>וּמִ/שְּׂמֹאלָֽ/ם\׃</big></span>**
 

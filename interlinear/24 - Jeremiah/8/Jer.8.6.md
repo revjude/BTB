@@ -29,8 +29,8 @@ I have listened and heard; they do not speak what is right. No one repents of hi
 | in the battle  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4421\|מִּלְחָמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.5|<< Jeremiah 8:5]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.7|Jeremiah 8:7 >>]]</td></tr></table>
 
-[^1]: ==K==: in own courses their  | **<big>[[H9028|ם]]</big><big>[[H4794|מְרֻצוֹתָ]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> m.ru.tzo.ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^2]: ==K==: in own courses their  | **<big>[[H9028|ם]]</big><big>[[H4794|מְרֻצוֹתָ]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> m.ru.tzo.ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^3]: ==K==: in own courses their  | **<big>[[H9028|ם]]</big><big>[[H4794|מְרֻצוֹתָ]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> m.ru.tzo.ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>בִּמְרֻ֣צָותָ֔/ם</big></span>**
+[^1]: in own courses their  | **<big>[[H9028|ם]]</big><big>[[H4794|מְרֻצוֹתָ]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> m.ru.tzo.ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^2]: in own courses their  | **<big>[[H9028|ם]]</big><big>[[H4794|מְרֻצוֹתָ]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> m.ru.tzo.ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^3]: in own courses their  | **<big>[[H9028|ם]]</big><big>[[H4794|מְרֻצוֹתָ]]</big><big>[[H9003|בִּ]]</big> ** | bi<small><sup>[[HR]]</sup></small> m.ru.tzo.ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>בִּמְרֻ֣צָותָ֔/ם</big></span>**
 

@@ -16,10 +16,10 @@ The sons of Shemer: Ahi, Rohgah, Hubbah, and Aram.
 | and Aram  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0758J\|אֲרָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Ram<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.33|<< 1 Chronicles 7:33]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.35|1 Chronicles 7:35 >>]]</td></tr></table>
 
-[^1]: ==K==: and Rohagah  | **<big>[[H7303|רוֹהֲגָה]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ro.ha.gah<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==K==: and Rohagah  | **<big>[[H7303|רוֹהֲגָה]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ro.ha.gah<small><sup>[[HNpm]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְרָוהְגָּ֖ה</big></span>**
-[^4]: ==K==: Jachbah  | **<big>[[H3160|יַחְבָּה]]</big> ** | yach.bah<small><sup>[[HNpm]]</sup></small> 
-[^5]: ==K==: Jachbah  | **<big>[[H3160|יַחְבָּה]]</big> ** | yach.bah<small><sup>[[HNpm]]</sup></small> 
-[^6]: ==L== spelled: **<span class="ashebrew"><big>יְחֻבָּ֥ה</big></span>**
+[^1]: and Rohagah  | **<big>[[H7303|רוֹהֲגָה]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ro.ha.gah<small><sup>[[HNpm]]</sup></small> | K
+[^2]: and Rohagah  | **<big>[[H7303|רוֹהֲגָה]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ro.ha.gah<small><sup>[[HNpm]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְרָוהְגָּ֖ה</big></span>**
+[^4]: Jachbah  | **<big>[[H3160|יַחְבָּה]]</big> ** | yach.bah<small><sup>[[HNpm]]</sup></small> | K
+[^5]: Jachbah  | **<big>[[H3160|יַחְבָּה]]</big> ** | yach.bah<small><sup>[[HNpm]]</sup></small> | K
+[^6]: L spelled: **<span class="ashebrew"><big>יְחֻבָּ֥ה</big></span>**
 

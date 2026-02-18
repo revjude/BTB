@@ -33,6 +33,6 @@ Otherwise, as surely as the LORD, the God of Israel, lives, who has restrained m
 | on a wall  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7023\|קִֽיר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Kir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.33|<< 1 Samuel 25:33]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.35|1 Samuel 25:35 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וַתָּבֹאת֙י</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וַתָּבֹאתִי</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וַתָּבֹאת֙י</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וַתָּבֹאתִי</big></span>**
 

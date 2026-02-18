@@ -35,6 +35,6 @@ For you have deceived yourselves by sending me to the LORD your God, saying, ‘
 | and we will do [it]  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213A\|עָשִֽׂינוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Si.nu<small><sup>[[HVqq1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.19|<< Jeremiah 42:19]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.21|Jeremiah 42:21 >>]]</td></tr></table>
 
-[^1]: ==K==: I caused to err them  | **<big>[[H9038|ם]]</big><big>[[H8582|הִתְעֵתֶי]]</big> ** | hit.'e.tei<small><sup>[[HVhp1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>הִתְעֵתֶים֮</big></span>**
+[^1]: I caused to err them  | **<big>[[H9038|ם]]</big><big>[[H8582|הִתְעֵתֶי]]</big> ** | hit.'e.tei<small><sup>[[HVhp1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>הִתְעֵתֶים֮</big></span>**
 

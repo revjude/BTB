@@ -20,5 +20,5 @@ Your pomp has been brought down to Sheol, along with the music of your harps. Ma
 | [are] worm[s]  |**<big>&#8207;[[H8438B\|תּוֹלֵעָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| to.le.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.10|<< Isaiah 14:10]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.12|Isaiah 14:12 >>]]</td></tr></table>
 
-[^1]: ==BH== spelled: **<span class="ashebrew"><big>גְאוֹנֶ֖ךָ</big></span>**
+[^1]: BH spelled: **<span class="ashebrew"><big>גְאוֹנֶ֖ךָ</big></span>**
 

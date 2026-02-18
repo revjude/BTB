@@ -27,6 +27,6 @@ Then Jezebel wrote letters in Ahab’s name, sealed them with his seal, and sent
 | Naboth  |**<big>&#8207;[[H5022\|נָבֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| na.Vot<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.7|<< 1 Kings 21:7]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.9|1 Kings 21:9 >>]]</td></tr></table>
 
-[^1]: ==K==: the letters  | **<big>[[H5612A|סְפָרִים]]</big><big>[[H9009|הַ]]</big> ** | ha<small><sup>[[HTd]]</sup></small> s.fa.rim<small><sup>[[HNcmpa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>הסְפָרִ֗ים</big></span>**
+[^1]: the letters  | **<big>[[H5612A|סְפָרִים]]</big><big>[[H9009|הַ]]</big> ** | ha<small><sup>[[HTd]]</sup></small> s.fa.rim<small><sup>[[HNcmpa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>הסְפָרִ֗ים</big></span>**
 

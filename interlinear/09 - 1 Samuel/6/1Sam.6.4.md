@@ -31,6 +31,6 @@ Then said they, What [shall be] the trespass offering which we shall return to h
 | and to rulers your  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5633A\|סַרְנֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> sar.nei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.3|<< 1 Samuel 6:3]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.5|1 Samuel 6:5 >>]]</td></tr></table>
 
-[^1]: ==K==: tumors of  | **<big>[[H6076B|עָפְלֵי]]</big> ** | a.fe.Lei<small><sup>[[HNcmpc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>עְפֹלֵ֣י</big></span>**
+[^1]: tumors of  | **<big>[[H6076B|עָפְלֵי]]</big> ** | a.fe.Lei<small><sup>[[HNcmpc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>עְפֹלֵ֣י</big></span>**
 

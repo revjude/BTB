@@ -38,6 +38,6 @@ Yet he did not put the sons of the murderers to death, but acted according to wh
 | he will be put to death  [^1]|**<big>&#8207;[[H4191\|יוּמָֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^2] | ya.mut<small><sup>[[HVHi3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14.5|<< 2 Kings 14:5]]</td><td align="center" style="border:none;">[[2Kgs.14|2 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14.7|2 Kings 14:7 >>]]</td></tr></table>
 
-[^1]: ==K==: he will die  | **<big>[[H9016|׃]]</big><big>[[H4191|יָמוּת]]</big> ** | ya.mut<small><sup>[[HVqi3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יֻמָֽות\׃</big></span>**
+[^1]: he will die  | **<big>[[H9016|׃]]</big><big>[[H4191|יָמוּת]]</big> ** | ya.mut<small><sup>[[HVqi3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יֻמָֽות\׃</big></span>**
 

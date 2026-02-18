@@ -27,7 +27,7 @@ Therefore this is what the LORD says: ‘I will return to Jerusalem with mercy, 
 | Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.1.15|<< Zechariah 1:15]]</td><td align="center" style="border:none;">[[Zech.1|Zechariah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.1.17|Zechariah 1:17 >>]]</td></tr></table>
 
-[^1]: ==K==: and a measuring-line  | **<big>[[H6961|קָוָה]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ka.vah<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==K==: and a measuring-line  | **<big>[[H6961|קָוָה]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ka.vah<small><sup>[[HNcbsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְקָ֥וה</big></span>**
+[^1]: and a measuring-line  | **<big>[[H6961|קָוָה]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ka.vah<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: and a measuring-line  | **<big>[[H6961|קָוָה]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ka.vah<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְקָ֥וה</big></span>**
 

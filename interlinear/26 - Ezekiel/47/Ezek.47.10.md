@@ -30,6 +30,6 @@ Fishermen will stand by the shore; from En-gedi to En-eglaim they will spread th
 | very  |**<big>&#8207;[[H3966\|מְאֹֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.47.9|<< Ezekiel 47:9]]</td><td align="center" style="border:none;">[[Ezek.47|Ezekiel 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47.11|Ezekiel 47:11 >>]]</td></tr></table>
 
-[^1]: ==K==: they will stand  | **<big>[[H5975G|יַעַמְדוּ]]</big> ** | ya.'am.du<small><sup>[[HVqi3mp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יעָמְד֨וּ</big></span>**
+[^1]: they will stand  | **<big>[[H5975G|יַעַמְדוּ]]</big> ** | ya.'am.du<small><sup>[[HVqi3mp]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יעָמְד֨וּ</big></span>**
 

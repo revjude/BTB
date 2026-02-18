@@ -18,6 +18,6 @@ With deceit in his heart he devises evil; he continually sows discord.
 | he sends out  |**<big>&#8207;[[H7971G\|יְשַׁלֵּֽחַ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.sha.Le.ach<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.13|<< Proverbs 6:13]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.15|Proverbs 6:15 >>]]</td></tr></table>
 
-[^1]: ==K==: contentions  | **<big>[[H4090|מְדָנִים]]</big> ** | me.da.nim<small><sup>[[HNcmpa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>מִדֳנִ֥ים</big></span>**
+[^1]: contentions  | **<big>[[H4090|מְדָנִים]]</big> ** | me.da.nim<small><sup>[[HNcmpa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>מִדֳנִ֥ים</big></span>**
 

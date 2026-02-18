@@ -26,6 +26,6 @@ But I will put hooks in your jaws and cause the fish of your streams to cling to
 | it will cling  |**<big>&#8207;[[H1692\|תִּדְבָּֽק]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tid.Bak<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.29.3|<< Ezekiel 29:3]]</td><td align="center" style="border:none;">[[Ezek.29|Ezekiel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29.5|Ezekiel 29:5 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>חַחִיים֙</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>חַחִיִּים</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>חַחִיים֙</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>חַחִיִּים</big></span>**
 

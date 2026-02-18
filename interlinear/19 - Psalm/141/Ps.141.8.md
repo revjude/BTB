@@ -20,5 +20,5 @@ But my eyes are fixed on You, O GOD the Lord. In You I seek refuge; do not leave
 | life my  |**<big>&#8207;[[H5315I\|נַפְשִֽׁ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.141.7|<< Psalms 141:7]]</td><td align="center" style="border:none;">[[Ps.141|Psalms 141]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.141.9|Psalms 141:9 >>]]</td></tr></table>
 
-[^1]: ==AH== spelled: **<span class="ashebrew"><big>יְהוִ֣ה</big></span>**
+[^1]: AH spelled: **<span class="ashebrew"><big>יְהוִ֣ה</big></span>**
 

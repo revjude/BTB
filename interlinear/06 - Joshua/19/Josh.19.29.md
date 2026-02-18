@@ -25,7 +25,7 @@ The border then turned back toward Ramah as far as the fortified city of Tyre, t
 | Aczib towards  |**<big>&#8207;[[H0392H\|אַכְזִֽיבָ]]&#8207;&#8207;[[H9011\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'akh.Zi.va<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.28|<< Joshua 19:28]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.30|Joshua 19:30 >>]]</td></tr></table>
 
-[^1]: ==K==: and they are  | **<big>[[H1961|יִהְיוּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yih.yu<small><sup>[[HVqu3mp]]</sup></small> 
-[^2]: ==K==: and they are  | **<big>[[H1961|יִהְיוּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yih.yu<small><sup>[[HVqu3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְיהָי֧וּ</big></span>**
+[^1]: and they are  | **<big>[[H1961|יִהְיוּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yih.yu<small><sup>[[HVqu3mp]]</sup></small> | K
+[^2]: and they are  | **<big>[[H1961|יִהְיוּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yih.yu<small><sup>[[HVqu3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְיהָי֧וּ</big></span>**
 

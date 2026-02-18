@@ -27,6 +27,6 @@ As you, O king, were watching, a great statue appeared. A great and dazzling sta
 | [was] terrible  |**<big>&#8207;[[H1763\|דְּחִֽיל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| de.Chil<small><sup>[[AVQrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.30|<< Daniel 2:30]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.32|Daniel 2:32 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>אַ֣נְתְּה</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>אַנְתָּה</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>אַ֣נְתְּה</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>אַנְתָּה</big></span>**
 

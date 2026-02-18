@@ -13,42 +13,42 @@ And he cried out in a mighty voice loud saying: Fallen Fallen is Babylon the gre
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
-| And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| he cried out |**<big>[[G2896\|ἔκραξεν]]</big>**  |ekraxen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NKO</abbr> | |
-| a mighty [^1] |**<big>[[G2478\|ἰσχυρᾷ]]</big>**  |ischura <small><sup>[[A-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
-| voice |**<big>[[G5456G\|φωνῇ]]</big>**  |phōnēa <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| loud [^2] |**<big>[[G3173\|μεγάλη]]</big>**  |megalē <small><sup>[[A-DSF]]</sup></small> | <abbr title="TR">K</abbr> | |
-| saying: |**<big>[[G3004G\|λέγων·]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Fallen |**<big>[[G4098\|ἔπεσεν]]</big>**  |epesen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| Fallen is |**<big>[[G4098\|ἔπεσεν]]</big>**  |epesen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+TR">NKO</abbr> | |
-| Babylon |**<big>[[G0897\|Βαβυλὼν]]</big>**  |Babulōn <small><sup>[[N-NSF-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| great |**<big>[[G3173\|μεγάλη]]</big>**  |megalē <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| she has become |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| a habitation |**<big>[[G2732\|κατοικητήριον]]</big>**  |katoikētērion <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of demons [^3] |**<big>[[G1140\|δαιμονίων]]</big>**  |daimoniōn <small><sup>[[N-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
-| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| a prison |**<big>[[G5438G\|φυλακὴ]]</big>**  |phulakē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of every |**<big>[[G3956\|παντὸς]]</big>**  |pantos <small><sup>[[A-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| spirit |**<big>[[G4151G\|πνεύματος]]</big>**  |pneumatos <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| unclean |**<big>[[G0169\|ἀκαθάρτου]]</big>**  |akathartou <small><sup>[[A-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| a prison |**<big>[[G5438G\|φυλακὴ]]</big>**  |phulakē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| of every |**<big>[[G3956\|παντὸς]]</big>**  |pantos <small><sup>[[A-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| bird |**<big>[[G3732\|ὀρνέου]]</big>**  |orneou <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| unclean |**<big>[[G0169\|ἀκαθάρτου]]</big>**  |akathartou <small><sup>[[A-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL">NO</abbr> | |
-| a prison |**<big>[[G5438G\|φυλακὴ]]</big>**  |phulakē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+SBL">NO</abbr> | |
-| of every |**<big>[[G3956\|παντὸς]]</big>**  |pantos <small><sup>[[A-GSN]]</sup></small> | <abbr title="NA28+NA27+SBL">NO</abbr> | |
-| creature |**<big>[[G2342\|θηρίου]]</big>**  |thēriou <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+SBL">NO</abbr> | |
-| unclean [^4] |**<big>[[G0169\|ἀκαθάρτου]]</big>**  |akathartou <small><sup>[[A-GSN]]</sup></small> | <abbr title="NA28+NA27+SBL">NO</abbr> | |
-| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
-| hated, |**<big>[[G3404\|μεμισημένου,]]</big>**  |memisēmenou <small><sup>[[V-RPP-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| he cried out |**<big>[[G2896\|ἔκραξεν]]</big>**  |ekraxen <small><sup>[[V-AAI-3S]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NKO</abbr> | |
+| a mighty [^1] |**<big>[[G2478\|ἰσχυρᾷ]]</big>**  |ischura <small><sup>[[A-DSF]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
+| voice |**<big>[[G5456G\|φωνῇ]]</big>**  |phōnēa <small><sup>[[N-DSF]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| loud [^2] |**<big>[[G3173\|μεγάλη]]</big>**  |megalē <small><sup>[[A-DSF]]</sup></small>  | <abbr title="TR">K</abbr> | |
+| saying: |**<big>[[G3004G\|λέγων·]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Fallen |**<big>[[G4098\|ἔπεσεν]]</big>**  |epesen <small><sup>[[V-2AAI-3S]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| Fallen is |**<big>[[G4098\|ἔπεσεν]]</big>**  |epesen <small><sup>[[V-2AAI-3S]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+TR">NKO</abbr> | |
+| Babylon |**<big>[[G0897\|Βαβυλὼν]]</big>**  |Babulōn <small><sup>[[N-NSF-L]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| great |**<big>[[G3173\|μεγάλη]]</big>**  |megalē <small><sup>[[A-NSF]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| she has become |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| a habitation |**<big>[[G2732\|κατοικητήριον]]</big>**  |katoikētērion <small><sup>[[N-NSN]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of demons [^3] |**<big>[[G1140\|δαιμονίων]]</big>**  |daimoniōn <small><sup>[[N-GPN]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| a prison |**<big>[[G5438G\|φυλακὴ]]</big>**  |phulakē <small><sup>[[N-NSF]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of every |**<big>[[G3956\|παντὸς]]</big>**  |pantos <small><sup>[[A-GSN]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| spirit |**<big>[[G4151G\|πνεύματος]]</big>**  |pneumatos <small><sup>[[N-GSN]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| unclean |**<big>[[G0169\|ἀκαθάρτου]]</big>**  |akathartou <small><sup>[[A-GSN]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| a prison |**<big>[[G5438G\|φυλακὴ]]</big>**  |phulakē <small><sup>[[N-NSF]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| of every |**<big>[[G3956\|παντὸς]]</big>**  |pantos <small><sup>[[A-GSN]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| bird |**<big>[[G3732\|ὀρνέου]]</big>**  |orneou <small><sup>[[N-GSN]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| unclean |**<big>[[G0169\|ἀκαθάρτου]]</big>**  |akathartou <small><sup>[[A-GSN]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small>  | <abbr title="NA28+NA27+SBL">NO</abbr> | |
+| a prison |**<big>[[G5438G\|φυλακὴ]]</big>**  |phulakē <small><sup>[[N-NSF]]</sup></small>  | <abbr title="NA28+NA27+SBL">NO</abbr> | |
+| of every |**<big>[[G3956\|παντὸς]]</big>**  |pantos <small><sup>[[A-GSN]]</sup></small>  | <abbr title="NA28+NA27+SBL">NO</abbr> | |
+| creature |**<big>[[G2342\|θηρίου]]</big>**  |thēriou <small><sup>[[N-GSN]]</sup></small>  | <abbr title="NA28+NA27+SBL">NO</abbr> | |
+| unclean [^4] |**<big>[[G0169\|ἀκαθάρτου]]</big>**  |akathartou <small><sup>[[A-GSN]]</sup></small>  | <abbr title="NA28+NA27+SBL">NO</abbr> | |
+| and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
+| hated, |**<big>[[G3404\|μεμισημένου,]]</big>**  |memisēmenou <small><sup>[[V-RPP-GSN]]</sup></small>  | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 [[TAGNT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.1|<< Revelation 18:1]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.3|Revelation 18:3 >>]]</td></tr></table>
 
-[^1]: ==TR==: strength | **<big>[[G2479|ἰσχύϊ]]</big>** | ischui<small><sup>[[N-DSF]]</sup></small>
+[^1]: strength | **<big>[[G2479\|ἰσχύϊ]]</big>** | ischui <sup><small>[[N-DSF]]</small></sup> | TR
 [^2]: Extra Text:  **<big><span class='asgreek'>μεγάλη</span></big>**  (<i>megalē</i>) 'loud' is only in traditional manuscripts (TR)
-[^3]: ==TR+Byz==: of demons | **<big>[[G1142|δαιμόνων]]</big>** | daimonōn<small><sup>[[N-GPM]]</sup></small>
+[^3]: of demons | **<big>[[G1142\|δαιμόνων]]</big>** | daimonōn <sup><small>[[N-GPM]]</small></sup> | TR+Byz
 [^4]: Extra Text (27-30):  **<big><span class='asgreek'>καὶ</span></big>**   **<big><span class='asgreek'>φυλακὴ</span></big>**    **<big><span class='asgreek'>παντὸς</span></big>**    **<big><span class='asgreek'>θηρίου</span></big>**    **<big><span class='asgreek'>ἀκαθάρτου</span></big>**   (<i>kai phulakē pantos thēriou akathartou</i>) 'and a prison of every creature unclean' is only in older manuscripts (NA28+NA27+SBL)

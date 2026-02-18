@@ -40,7 +40,7 @@ The LORD said to me: “Son of man, pay attention; look carefully with your eyes
 | the sanctuary  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4720\|מִּקְדָּֽשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mik.Dash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.4|<< Ezekiel 44:4]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.6|Ezekiel 44:6 >>]]</td></tr></table>
 
-[^1]: ==K==: law its  | **<big>[[H9023|וֹ]]</big><big>[[H8451|תּוֹרֹת]]</big> ** | to.ro.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: law its  | **<big>[[H9023|וֹ]]</big><big>[[H8451|תּוֹרֹת]]</big> ** | to.ro.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>תּֽוֹרֹתָ֑ו</big></span>**
+[^1]: law its  | **<big>[[H9023|וֹ]]</big><big>[[H8451|תּוֹרֹת]]</big> ** | to.ro.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: law its  | **<big>[[H9023|וֹ]]</big><big>[[H8451|תּוֹרֹת]]</big> ** | to.ro.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>תּֽוֹרֹתָ֑ו</big></span>**
 

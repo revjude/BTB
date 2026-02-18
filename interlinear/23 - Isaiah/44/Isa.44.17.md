@@ -24,6 +24,6 @@ From the rest he makes a god, his graven image. He bows down to it and worships;
 | you  |**<big>&#8207;[[H0859A\|אָֽתָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'A.tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.16|<< Isaiah 44:16]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.18|Isaiah 44:18 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>יִסְגָּוד\־</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>יִסְגּוֹד</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>יִסְגָּוד\־</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>יִסְגּוֹד</big></span>**
 

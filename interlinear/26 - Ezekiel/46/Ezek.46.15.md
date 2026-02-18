@@ -21,6 +21,6 @@ Thus they shall provide the lamb, the grain offering, and the oil every morning 
 | continuity  |**<big>&#8207;[[H8548\|תָּמִֽיד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ta.Mid<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.14|<< Ezekiel 46:14]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.16|Ezekiel 46:16 >>]]</td></tr></table>
 
-[^1]: ==K==: and they will offer  | **<big>[[H6213I|עָשׂוּ]]</big><big>[[H9001|וְ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> 'a.su<small><sup>[[HVqq3cp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>וַעֲשׂ֨וּ</big></span>**
+[^1]: and they will offer  | **<big>[[H6213I|עָשׂוּ]]</big><big>[[H9001|וְ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> 'a.su<small><sup>[[HVqq3cp]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>וַעֲשׂ֨וּ</big></span>**
 

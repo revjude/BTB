@@ -31,6 +31,6 @@ So King Xerxes said to Esther the Queen and Mordecai the Jew, “Behold, I have 
 | on the Jews  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3064\|יְּהוּדִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^1] [^2] | ba<small><sup>[[HRd]]</sup></small> i.ye.hu.di.yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.8.6|<< Esther 8:6]]</td><td align="center" style="border:none;">[[Esth.8|Esther 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.8.8|Esther 8:8 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>בַּיְּהוּדִֽיים\׃</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>בַּיְּהוּדִיִּים\׃</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>בַּיְּהוּדִֽיים\׃</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>בַּיְּהוּדִיִּים\׃</big></span>**
 

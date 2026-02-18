@@ -28,7 +28,7 @@ Who gave Jacob up for spoil, and Israel to the plunderers? Was it not the LORD, 
 | to law his  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8451\|תוֹרָתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> to.ra.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.23|<< Isaiah 42:23]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.25|Isaiah 42:25 >>]]</td></tr></table>
 
-[^1]: ==K==: to spoil  | **<big>[[H4882|מְשׁוֹסֶה]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> m.sho.seh<small><sup>[[HNcfsa]]</sup></small> 
-[^2]: ==K==: to spoil  | **<big>[[H4882|מְשׁוֹסֶה]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> m.sho.seh<small><sup>[[HNcfsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>לִמְשִׁוסָּ֧ה</big></span>**
+[^1]: to spoil  | **<big>[[H4882|מְשׁוֹסֶה]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> m.sho.seh<small><sup>[[HNcfsa]]</sup></small> | K
+[^2]: to spoil  | **<big>[[H4882|מְשׁוֹסֶה]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> m.sho.seh<small><sup>[[HNcfsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>לִמְשִׁוסָּ֧ה</big></span>**
 

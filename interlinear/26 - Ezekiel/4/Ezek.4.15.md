@@ -25,6 +25,6 @@ Then he said unto me, Lo, I have given thee cow’s dung for man’s dung, and t
 | on them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.lei.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.4.14|<< Ezekiel 4:14]]</td><td align="center" style="border:none;">[[Ezek.4|Ezekiel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.4.16|Ezekiel 4:16 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>צְפִועֵ֣י</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>צְפוּעֵי</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>צְפִועֵ֣י</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>צְפוּעֵי</big></span>**
 

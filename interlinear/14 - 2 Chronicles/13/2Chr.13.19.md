@@ -29,6 +29,6 @@ Abijah pursued Jeroboam and captured some cities from him: Bethel, Jeshanah, and
 | and daughters its  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1323H\|בְנֹתֶֽי]]&#8207;&#8207;[[H9024\|הָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.no.Tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.13.18|<< 2 Chronicles 13:18]]</td><td align="center" style="border:none;">[[2Chr.13|2 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.13.20|2 Chronicles 13:20 >>]]</td></tr></table>
 
-[^1]: ==K==: Ephron  | **<big>[[H6085I|עֶפְרוֹן]]</big> ** | ef.ron<small><sup>[[HNpl]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>עֶפְרַ֖וִן</big></span>**
+[^1]: Ephron  | **<big>[[H6085I|עֶפְרוֹן]]</big> ** | ef.ron<small><sup>[[HNpl]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>עֶפְרַ֖וִן</big></span>**
 

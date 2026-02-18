@@ -39,6 +39,6 @@ And they said unto him, Behold now, there be with thy servants fifty strong men;
 | you must send  |**<big>&#8207;[[H7971G\|תִשְׁלָֽחוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tish.La.chu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.2.15|<< 2 Kings 2:15]]</td><td align="center" style="border:none;">[[2Kgs.2|2 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.2.17|2 Kings 2:17 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>הַגֵּיאָ֑וֹת</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>הַגְּיָאוֹת</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>הַגֵּיאָ֑וֹת</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>הַגְּיָאוֹת</big></span>**
 

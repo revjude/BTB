@@ -18,8 +18,8 @@ Your path led through the sea, Your way through the mighty waters, but Your foot
 | they were known  |**<big>&#8207;[[H3045\|נֹדָֽעוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| no.Da.'u<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.77.18|<< Psalms 77:18]]</td><td align="center" style="border:none;">[[Ps.77|Psalms 77]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.77.20|Psalms 77:20 >>]]</td></tr></table>
 
-[^1]: ==K==: and paths your  | **<big>[[H9021|ךָ]]</big><big>[[H7635|שְׁבִילֶי]]</big><big>[[H9002|וּ]]</big> ** | U.<small><sup>[[HC]]</sup></small> she.vi.le.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^2]: ==K==: and paths your  | **<big>[[H9021|ךָ]]</big><big>[[H7635|שְׁבִילֶי]]</big><big>[[H9002|וּ]]</big> ** | U.<small><sup>[[HC]]</sup></small> she.vi.le.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^3]: ==K==: and paths your  | **<big>[[H9021|ךָ]]</big><big>[[H7635|שְׁבִילֶי]]</big><big>[[H9002|וּ]]</big> ** | U.<small><sup>[[HC]]</sup></small> she.vi.le.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וּֽ֭שְׁבִֽילְי/ךָ</big></span>**
+[^1]: and paths your  | **<big>[[H9021|ךָ]]</big><big>[[H7635|שְׁבִילֶי]]</big><big>[[H9002|וּ]]</big> ** | U.<small><sup>[[HC]]</sup></small> she.vi.le.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: and paths your  | **<big>[[H9021|ךָ]]</big><big>[[H7635|שְׁבִילֶי]]</big><big>[[H9002|וּ]]</big> ** | U.<small><sup>[[HC]]</sup></small> she.vi.le.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^3]: and paths your  | **<big>[[H9021|ךָ]]</big><big>[[H7635|שְׁבִילֶי]]</big><big>[[H9002|וּ]]</big> ** | U.<small><sup>[[HC]]</sup></small> she.vi.le.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וּֽ֭שְׁבִֽילְי/ךָ</big></span>**
 

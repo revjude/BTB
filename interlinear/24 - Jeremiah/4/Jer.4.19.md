@@ -27,8 +27,8 @@ My anguish, my anguish! I writhe in pain! Oh, the pain in my chest! My heart pou
 | battle  |**<big>&#8207;[[H4421\|מִלְחָמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.18|<< Jeremiah 4:18]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.20|Jeremiah 4:20 >>]]</td></tr></table>
 
-[^1]: ==K==: I am writhing  | **<big>[[H2342K|אָחוּלָה]]</big> ** | 'a.chu.lah<small><sup>[[HVqc1cs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אֹחִ֜ולָה</big></span>**
-[^3]: ==K==: I have heard  | **<big>[[H8085G|שָׁמַעְתִּי]]</big> ** | sha.ma'.ti<small><sup>[[HVqp1cs]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>שָׁמַ֣עַתְּי</big></span>**
+[^1]: I am writhing  | **<big>[[H2342K|אָחוּלָה]]</big> ** | 'a.chu.lah<small><sup>[[HVqc1cs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אֹחִ֜ולָה</big></span>**
+[^3]: I have heard  | **<big>[[H8085G|שָׁמַעְתִּי]]</big> ** | sha.ma'.ti<small><sup>[[HVqp1cs]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>שָׁמַ֣עַתְּי</big></span>**
 

@@ -21,6 +21,6 @@ He rules forever by His power; His eyes watch the nations. Do not let the rebell
 | Selah  |**<big>&#8207;[[H5542\|סֶֽלָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Se.lah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.6|<< Psalms 66:6]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.8|Psalms 66:8 >>]]</td></tr></table>
 
-[^1]: ==K==: they exalt  | **<big>[[H7311A|יָרִימוּ]]</big> ** | ya.Ru.mu<small><sup>[[HVhi3mp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יָר֖יּמוּ</big></span>**
+[^1]: they exalt  | **<big>[[H7311A|יָרִימוּ]]</big> ** | ya.Ru.mu<small><sup>[[HVhi3mp]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יָר֖יּמוּ</big></span>**
 

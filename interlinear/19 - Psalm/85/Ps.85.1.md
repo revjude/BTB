@@ -16,6 +16,6 @@ For the choirmaster. A Psalm of the sons of Korah. You showed favor to Your land
 | Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.85.0|<< Psalms 85:0]]</td><td align="center" style="border:none;">[[Ps.85|Psalms 85]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.85.2|Psalms 85:2 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>שְׁבִ֣ות</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>שְׁבוּת</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>שְׁבִ֣ות</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>שְׁבוּת</big></span>**
 

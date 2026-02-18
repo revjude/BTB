@@ -29,7 +29,7 @@ But the LORD forbid that I should extend my hand against the LORD’s anointed. 
 | for \<the> ourselves  |**<big>&#8207;[[H9005\|לָּֽ]]&#8207;&#8207;[[H9035\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| La.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.10|<< 1 Samuel 26:10]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.12|1 Samuel 26:12 >>]]</td></tr></table>
 
-[^1]: ==K==: [is the] place of head his  | **<big>[[H9023|וֹ]]</big><big>[[H4763|מְרַאֲשֹׁת]]</big> ** | me.ra.'a.sho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: [is the] place of head his  | **<big>[[H9023|וֹ]]</big><big>[[H4763|מְרַאֲשֹׁת]]</big> ** | me.ra.'a.sho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>מְרַאֲשֹׁתָ֛ו</big></span>**
+[^1]: [is the] place of head his  | **<big>[[H9023|וֹ]]</big><big>[[H4763|מְרַאֲשֹׁת]]</big> ** | me.ra.'a.sho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: [is the] place of head his  | **<big>[[H9023|וֹ]]</big><big>[[H4763|מְרַאֲשֹׁת]]</big> ** | me.ra.'a.sho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>מְרַאֲשֹׁתָ֛ו</big></span>**
 

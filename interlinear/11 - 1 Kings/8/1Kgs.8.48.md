@@ -35,6 +35,6 @@ and when they return to You with all their heart and soul in the land of the ene
 | for name your  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8034\|שְׁמֶֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> sh.Me.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.47|<< 1 Kings 8:47]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.49|1 Kings 8:49 >>]]</td></tr></table>
 
-[^1]: ==K==: you have built  | **<big>[[H1129|בָּנִיתָ]]</big> ** | ba.ni.ta<small><sup>[[HVqp2ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>בָּנִ֥יתִ</big></span>**
+[^1]: you have built  | **<big>[[H1129|בָּנִיתָ]]</big> ** | ba.ni.ta<small><sup>[[HVqp2ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>בָּנִ֥יתִ</big></span>**
 

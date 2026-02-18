@@ -28,12 +28,12 @@ And he delivered them into the hands of the Gibeonites, and they hanged them on 
 | barley\<s>  |**<big>&#8207;[[H8184\|שְׂעֹרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| se.'o.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.8|<< 2 Samuel 21:8]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.10|2 Samuel 21:10 >>]]</td></tr></table>
 
-[^1]: ==K==: sevenfold  | **<big>[[H7659|שִׁבְעָתַיִם]]</big> ** | shi.va'.ta.yim<small><sup>[[HAcfda]]</sup></small> 
-[^2]: ==K==: sevenfold  | **<big>[[H7659|שִׁבְעָתַיִם]]</big> ** | shi.va'.ta.yim<small><sup>[[HAcfda]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>שְׁבַעְתָּ֖ים</big></span>**
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וְהֵ֨םָּ</big></span>**
-[^5]: ==K== spelled: **<span class="ashebrew"><big>וְהֵם</big></span>**
-[^6]: ==K==: [the] beginning of  | **<big>[[H8462|תְּחִלַּת]]</big> ** | te.chi.lat<small><sup>[[HNcfsc]]</sup></small> 
-[^7]: ==K==: [the] beginning of  | **<big>[[H8462|תְּחִלַּת]]</big> ** | te.chi.lat<small><sup>[[HNcfsc]]</sup></small> 
-[^8]: ==L== spelled: **<span class="ashebrew"><big>ִתְחִלַּ֖ת</big></span>**
+[^1]: sevenfold  | **<big>[[H7659|שִׁבְעָתַיִם]]</big> ** | shi.va'.ta.yim<small><sup>[[HAcfda]]</sup></small> | K
+[^2]: sevenfold  | **<big>[[H7659|שִׁבְעָתַיִם]]</big> ** | shi.va'.ta.yim<small><sup>[[HAcfda]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>שְׁבַעְתָּ֖ים</big></span>**
+[^4]: L spelled: **<span class="ashebrew"><big>וְהֵ֨םָּ</big></span>**
+[^5]: K spelled: **<span class="ashebrew"><big>וְהֵם</big></span>**
+[^6]: [the] beginning of  | **<big>[[H8462|תְּחִלַּת]]</big> ** | te.chi.lat<small><sup>[[HNcfsc]]</sup></small> | K
+[^7]: [the] beginning of  | **<big>[[H8462|תְּחִלַּת]]</big> ** | te.chi.lat<small><sup>[[HNcfsc]]</sup></small> | K
+[^8]: L spelled: **<span class="ashebrew"><big>ִתְחִלַּ֖ת</big></span>**
 

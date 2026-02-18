@@ -31,6 +31,6 @@ For of old time I have broken thy yoke, [and] burst thy bands; and thou saidst, 
 | a prostitute  |**<big>&#8207;[[H2181\|זֹנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| zo.Nah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.19|<< Jeremiah 2:19]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.21|Jeremiah 2:21 >>]]</td></tr></table>
 
-[^1]: ==K==: I will serve  | **<big>[[H5647H|אֶעֱבֹד]]</big> ** | 'e.'e.vod<small><sup>[[HVqi1cs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אֶעֱבֹ֑ד</big></span>**
+[^1]: I will serve  | **<big>[[H5647H|אֶעֱבֹד]]</big> ** | 'e.'e.vod<small><sup>[[HVqi1cs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אֶעֱבֹ֑ד</big></span>**
 

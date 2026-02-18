@@ -26,6 +26,6 @@ Now Hiram king of Tyre sent envoys to David, along with cedar logs, stonemasons,
 | a house  |**<big>&#8207;[[H1004B\|בָּֽיִת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.13.14|<< 1 Chronicles 13:14]]</td><td align="center" style="border:none;">[[1Chr.14|1 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.14.2|1 Chronicles 14:2 >>]]</td></tr></table>
 
-[^1]: ==K==: Hiram  | **<big>[[H2438G|חִירָם]]</big> ** | chi.ram<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>חיּרָ֨ם</big></span>**
+[^1]: Hiram  | **<big>[[H2438G|חִירָם]]</big> ** | chi.ram<small><sup>[[HNpm]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>חיּרָ֨ם</big></span>**
 

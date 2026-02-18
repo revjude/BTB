@@ -30,5 +30,5 @@ So Sarai said to Abram, “Look now, the LORD has prevented me from bearing chil
 | Sarai  |**<big>&#8207;[[H8297\|שָׂרָֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sa.Rai<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.16.1|<< Genesis 16:1]]</td><td align="center" style="border:none;">[[Gen.16|Genesis 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.16.3|Genesis 16:3 >>]]</td></tr></table>
 
-[^1]: ==A== spelled: **<span class="ashebrew"><big>מִמֶּ֑נָּה</big></span>**
+[^1]: A spelled: **<span class="ashebrew"><big>מִמֶּ֑נָּה</big></span>**
 

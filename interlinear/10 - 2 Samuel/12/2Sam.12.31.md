@@ -35,7 +35,7 @@ David brought out the people who were there and put them to work with saws, iron
 | Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.12.30|<< 2 Samuel 12:30]]</td><td align="center" style="border:none;">[[2Sam.12|2 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.1|2 Samuel 13:1 >>]]</td></tr></table>
 
-[^1]: ==K==: in the brick mold[s]  | **<big>[[H4404|מַּלְכֶּן]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HRd]]</sup></small> mal.ken<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==K==: in the brick mold[s]  | **<big>[[H4404|מַּלְכֶּן]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HRd]]</sup></small> mal.ken<small><sup>[[HNcbsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בַּמַּלְכֵּ֔ן</big></span>**
+[^1]: in the brick mold[s]  | **<big>[[H4404|מַּלְכֶּן]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HRd]]</sup></small> mal.ken<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: in the brick mold[s]  | **<big>[[H4404|מַּלְכֶּן]]</big><big>[[H9003|בַּ]]</big> ** | ba.<small><sup>[[HRd]]</sup></small> mal.ken<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בַּמַּלְכֵּ֔ן</big></span>**
 

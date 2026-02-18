@@ -26,7 +26,7 @@ Know therefore that the LORD your God is God, the faithful God who keeps His cov
 | generation[s]  |**<big>&#8207;[[H1755\|דּֽוֹר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Dor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.8|<< Deuteronomy 7:8]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.10|Deuteronomy 7:10 >>]]</td></tr></table>
 
-[^1]: ==K==: commandment his  | **<big>[[H9023|וֹ]]</big><big>[[H4687|מִצְוֹת]]</big> ** | mitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: commandment his  | **<big>[[H9023|וֹ]]</big><big>[[H4687|מִצְוֹת]]</big> ** | mitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>מִצְוֹתָ֖ו</big></span>**
+[^1]: commandment his  | **<big>[[H9023|וֹ]]</big><big>[[H4687|מִצְוֹת]]</big> ** | mitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: commandment his  | **<big>[[H9023|וֹ]]</big><big>[[H4687|מִצְוֹת]]</big> ** | mitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>מִצְוֹתָ֖ו</big></span>**
 

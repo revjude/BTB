@@ -35,6 +35,6 @@ On that day he said, “Whoever attacks the Jebusites must use the water shaft t
 | the house  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1004B\|בָּֽיִת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.5.7|<< 2 Samuel 5:7]]</td><td align="center" style="border:none;">[[2Sam.5|2 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.5.9|2 Samuel 5:9 >>]]</td></tr></table>
 
-[^1]: ==K==: [who] they hate  | **<big>[[H8130|שָׂנְאוּ]]</big> ** | se.nov<small><sup>[[HVqp3cp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>שְׂנֻאֵ֖ו</big></span>**
+[^1]: [who] they hate  | **<big>[[H8130|שָׂנְאוּ]]</big> ** | se.nov<small><sup>[[HVqp3cp]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>שְׂנֻאֵ֖ו</big></span>**
 

@@ -21,6 +21,6 @@ When good things increase, so do those who consume them; what then is the profit
 | eyes his  |**<big>&#8207;[[H5869A\|עֵינָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'ei.Na<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5.10|<< Ecclesiastes 5:10]]</td><td align="center" style="border:none;">[[Eccl.5|Ecclesiastes 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5.12|Ecclesiastes 5:12 >>]]</td></tr></table>
 
-[^1]: ==K==: [the] appearance of  | **<big>[[H7207|רְאִיַּת]]</big> ** | re.'i.yat<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>רְא֥יּת</big></span>**
+[^1]: [the] appearance of  | **<big>[[H7207|רְאִיַּת]]</big> ** | re.'i.yat<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>רְא֥יּת</big></span>**
 

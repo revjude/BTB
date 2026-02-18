@@ -26,7 +26,7 @@ Only the prince himself may sit inside the gateway to eat in the presence of the
 | he will go out  |**<big>&#8207;[[H3318G\|יֵצֵֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.Tze'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.2|<< Ezekiel 44:2]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.4|Ezekiel 44:4 >>]]</td></tr></table>
 
-[^1]: ==K==: to eat  | **<big>[[H9014|־]]</big><big>[[H0398|אֱכוֹל]]</big><big>[[H9005|לֶ]]</big> ** | le.<small><sup>[[HR]]</sup></small> 'e.khol-<small><sup>[[HVqcc]]</sup></small> 
-[^2]: ==K==: to eat  | **<big>[[H9014|־]]</big><big>[[H0398|אֱכוֹל]]</big><big>[[H9005|לֶ]]</big> ** | le.<small><sup>[[HR]]</sup></small> 'e.khol-<small><sup>[[HVqcc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>לֶאֱכָול\־</big></span>**
+[^1]: to eat  | **<big>[[H9014|־]]</big><big>[[H0398|אֱכוֹל]]</big><big>[[H9005|לֶ]]</big> ** | le.<small><sup>[[HR]]</sup></small> 'e.khol-<small><sup>[[HVqcc]]</sup></small> | K
+[^2]: to eat  | **<big>[[H9014|־]]</big><big>[[H0398|אֱכוֹל]]</big><big>[[H9005|לֶ]]</big> ** | le.<small><sup>[[HR]]</sup></small> 'e.khol-<small><sup>[[HVqcc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>לֶאֱכָול\־</big></span>**
 

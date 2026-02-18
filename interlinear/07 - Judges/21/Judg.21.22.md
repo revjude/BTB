@@ -35,6 +35,6 @@ When their fathers or brothers come to us to complain, we will tell them, ‘Do 
 | you will be guilty  |**<big>&#8207;[[H0816\|תֶּאְשָֽׁמוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| te'.Sha.mu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.21|<< Judges 21:21]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.23|Judges 21:23 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>לָרִ֣וב\׀</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>לָרוֹב</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>לָרִ֣וב\׀</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>לָרוֹב</big></span>**
 

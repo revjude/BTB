@@ -25,6 +25,6 @@ everyone will be put to shame because of a people useless to them. They bring ne
 | for reproach  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2781\|חֶרְפָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> cher.Pah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.4|<< Isaiah 30:4]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.6|Isaiah 30:6 >>]]</td></tr></table>
 
-[^1]: ==K==: he will be odious  | **<big>[[H0887|הִבְאִישׁ]]</big> ** | hiv.'ish<small><sup>[[HVhp3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>הֹבִ֔אִישׁ</big></span>**
+[^1]: he will be odious  | **<big>[[H0887|הִבְאִישׁ]]</big> ** | hiv.'ish<small><sup>[[HVhp3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>הֹבִ֔אִישׁ</big></span>**
 

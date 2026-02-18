@@ -21,5 +21,5 @@ In that day, declares the LORD, will I not destroy the wise men of Edom and the 
 | Esau  |**<big>&#8207;[[H6215I\|עֵשָֽׂו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.Sav<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.7|<< Obadiah 1:7]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.9|Obadiah 1:9 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>נְאֻם\־</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>נְאֻם\־</big></span>**
 

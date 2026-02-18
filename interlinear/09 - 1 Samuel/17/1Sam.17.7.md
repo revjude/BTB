@@ -24,7 +24,7 @@ The shaft of his spear was like a weaver’s beam, and its iron point weighed si
 | \<to> before him  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6440G\|פָנָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> fa.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.6|<< 1 Samuel 17:6]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.8|1 Samuel 17:8 >>]]</td></tr></table>
 
-[^1]: ==K==: and [the] arrow of  | **<big>[[H2671|חָץ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> chatz<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==K==: and [the] arrow of  | **<big>[[H2671|חָץ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> chatz<small><sup>[[HNcbsc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְחֵ֣ץ</big></span>**
+[^1]: and [the] arrow of  | **<big>[[H2671|חָץ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> chatz<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: and [the] arrow of  | **<big>[[H2671|חָץ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> chatz<small><sup>[[HNcbsc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְחֵ֣ץ</big></span>**
 

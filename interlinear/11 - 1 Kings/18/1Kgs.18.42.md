@@ -25,7 +25,7 @@ So Ahab went up to eat and drink. But Elijah climbed to the summit of Carmel, be
 | knees his  [^2]|**<big>&#8207;[[H1290\|בִּרְכָּֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | be.ra.kho<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.41|<< 1 Kings 18:41]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.43|1 Kings 18:43 >>]]</td></tr></table>
 
-[^1]: ==K==: knee his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H1290|בְּרָכ]]</big> ** | be.ra.kho<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: knee his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H1290|בְּרָכ]]</big> ** | be.ra.kho<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בִּרְכָּֽו\׃</big></span>**
+[^1]: knee his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H1290|בְּרָכ]]</big> ** | be.ra.kho<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: knee his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H1290|בְּרָכ]]</big> ** | be.ra.kho<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בִּרְכָּֽו\׃</big></span>**
 

@@ -28,6 +28,6 @@ Lift up thine eyes unto the high places, and see where thou hast not been lien w
 | and by wickedness your  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H7451C\|רָעָתֵֽ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> ra.'a.Te<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.1|<< Jeremiah 3:1]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.3|Jeremiah 3:3 >>]]</td></tr></table>
 
-[^1]: ==K==: have you been ravished  | **<big>[[H7693|שֻׁגַּלְתְּ]]</big> ** | shu.galt<small><sup>[[HVqp2fs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>שֻׁגַּ֔לְתְּ</big></span>**
+[^1]: have you been ravished  | **<big>[[H7693|שֻׁגַּלְתְּ]]</big> ** | shu.galt<small><sup>[[HVqp2fs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>שֻׁגַּ֔לְתְּ</big></span>**
 

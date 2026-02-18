@@ -18,8 +18,8 @@ O LORD, You pulled me up from Sheol; You spared me from descending into the Pit.
 | [the] pit  |**<big>&#8207;[[H0953A\|בֽוֹר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| vor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.30.2|<< Psalms 30:2]]</td><td align="center" style="border:none;">[[Ps.30|Psalms 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.30.4|Psalms 30:4 >>]]</td></tr></table>
 
-[^1]: ==K==: from [those who] go down  | **<big>[[H3381|יּוֹרְדֵי]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> yor.dei-<small><sup>[[HVqrmpc]]</sup></small> 
-[^2]: ==K==: from [those who] go down  | **<big>[[H3381|יּוֹרְדֵי]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> yor.dei-<small><sup>[[HVqrmpc]]</sup></small> 
-[^3]: ==K==: from [those who] go down  | **<big>[[H3381|יּוֹרְדֵי]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> yor.dei-<small><sup>[[HVqrmpc]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>מִיָּֽורְדִי\־</big></span>**
+[^1]: from [those who] go down  | **<big>[[H3381|יּוֹרְדֵי]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> yor.dei-<small><sup>[[HVqrmpc]]</sup></small> | K
+[^2]: from [those who] go down  | **<big>[[H3381|יּוֹרְדֵי]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> yor.dei-<small><sup>[[HVqrmpc]]</sup></small> | K
+[^3]: from [those who] go down  | **<big>[[H3381|יּוֹרְדֵי]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> yor.dei-<small><sup>[[HVqrmpc]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>מִיָּֽורְדִי\־</big></span>**
 

@@ -27,6 +27,6 @@ Remember Him before the silver cord is snapped and the golden bowl is crushed, b
 | the well  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H0953A\|בּֽוֹר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Bor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.12.5|<< Ecclesiastes 12:5]]</td><td align="center" style="border:none;">[[Eccl.12|Ecclesiastes 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.12.7|Ecclesiastes 12:7 >>]]</td></tr></table>
 
-[^1]: ==K==: it will be distant  | **<big>[[H7368|יִרְחַק]]</big> ** | yi.r.chak<small><sup>[[HVqi3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יֵרָחֵק֙</big></span>**
+[^1]: it will be distant  | **<big>[[H7368|יִרְחַק]]</big> ** | yi.r.chak<small><sup>[[HVqi3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יֵרָחֵק֙</big></span>**
 

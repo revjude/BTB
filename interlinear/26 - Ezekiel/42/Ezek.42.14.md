@@ -34,7 +34,7 @@ Once the priests have entered the holy area, they must not go out into the outer
 | [is] for the people  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H5971A\|עָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.13|<< Ezekiel 42:13]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.15|Ezekiel 42:15 >>]]</td></tr></table>
 
-[^1]: ==K==: they will put on  | **<big>[[H3847|יִלְבְּשׁוּ]]</big> ** | yil.be.shu<small><sup>[[HVqi3mp]]</sup></small> 
-[^2]: ==K==: they will put on  | **<big>[[H3847|יִלְבְּשׁוּ]]</big> ** | yil.be.shu<small><sup>[[HVqi3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>ילבשו</big></span>**
+[^1]: they will put on  | **<big>[[H3847|יִלְבְּשׁוּ]]</big> ** | yil.be.shu<small><sup>[[HVqi3mp]]</sup></small> | K
+[^2]: they will put on  | **<big>[[H3847|יִלְבְּשׁוּ]]</big> ** | yil.be.shu<small><sup>[[HVqi3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>ילבשו</big></span>**
 

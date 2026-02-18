@@ -18,6 +18,6 @@ So he brought him to his house and fed his donkeys. And they washed their feet a
 | and they drank  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8354\|יִּשְׁתּֽוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Tu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.20|<< Judges 19:20]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.22|Judges 19:22 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וַיָּ֖בָול</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וַיִּבּוֹל</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וַיָּ֖בָול</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וַיִּבּוֹל</big></span>**
 

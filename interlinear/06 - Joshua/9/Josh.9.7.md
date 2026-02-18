@@ -23,9 +23,9 @@ But the men of Israel said to the Hivites, “Perhaps you dwell near us. How can
 | a covenant  |**<big>&#8207;[[H1285\|בְרִֽית]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.Rit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.6|<< Joshua 9:6]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.8|Joshua 9:8 >>]]</td></tr></table>
 
-[^1]: ==K==: and they said  | **<big>[[H0559|יֹּאמְרוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.me.ru<small><sup>[[HVqw3mp]]</sup></small> 
-[^2]: ==K==: and they said  | **<big>[[H0559|יֹּאמְרוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.me.ru<small><sup>[[HVqw3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וַיֹּ֥אמֶרו</big></span>**
-[^4]: ==L== spelled: **<span class="ashebrew"><big>אֶֽכְרָות\־</big></span>**
-[^5]: ==K== spelled: **<span class="ashebrew"><big>אֶכְרוֹת</big></span>**
+[^1]: and they said  | **<big>[[H0559|יֹּאמְרוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.me.ru<small><sup>[[HVqw3mp]]</sup></small> | K
+[^2]: and they said  | **<big>[[H0559|יֹּאמְרוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.me.ru<small><sup>[[HVqw3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וַיֹּ֥אמֶרו</big></span>**
+[^4]: L spelled: **<span class="ashebrew"><big>אֶֽכְרָות\־</big></span>**
+[^5]: K spelled: **<span class="ashebrew"><big>אֶכְרוֹת</big></span>**
 

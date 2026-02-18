@@ -28,6 +28,6 @@ Then the king of Sodom, the king of Gomorrah, the king of Admah, the king of Zeb
 | \<the> Siddim  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7708\|שִּׂדִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> si.Dim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.14.7|<< Genesis 14:7]]</td><td align="center" style="border:none;">[[Gen.14|Genesis 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.14.9|Genesis 14:9 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>צְבֹייִ֔ם</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>צְבֹיִים</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>צְבֹייִ֔ם</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>צְבֹיִים</big></span>**
 

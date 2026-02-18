@@ -23,7 +23,7 @@ and if it does evil in My sight and does not listen to My voice, then I will rel
 | \<obj.> it  |**<big>&#8207;[[H0853\|אוֹתֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.9|<< Jeremiah 18:9]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.11|Jeremiah 18:11 >>]]</td></tr></table>
 
-[^1]: ==K==: the evil  | **<big>[[H7451I|רָעָה]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ra.'ah<small><sup>[[HNcfsa]]</sup></small> 
-[^2]: ==K==: the evil  | **<big>[[H7451I|רָעָה]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ra.'ah<small><sup>[[HNcfsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הָרַע֙ה</big></span>**
+[^1]: the evil  | **<big>[[H7451I|רָעָה]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ra.'ah<small><sup>[[HNcfsa]]</sup></small> | K
+[^2]: the evil  | **<big>[[H7451I|רָעָה]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ra.'ah<small><sup>[[HNcfsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הָרַע֙ה</big></span>**
 

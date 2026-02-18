@@ -32,6 +32,6 @@ You are to say: ‘O mountains of Israel, hear the word of the Lord GOD! This is
 | high places your  |**<big>&#8207;[[H1116\|בָּמֽוֹתֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.Mo.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.6.2|<< Ezekiel 6:2]]</td><td align="center" style="border:none;">[[Ezek.6|Ezekiel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.6.4|Ezekiel 6:4 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וְלַ/גֵּאָיֹ֗ת</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וְלַ/גֵּאָיֹת</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וְלַ/גֵּאָיֹ֗ת</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וְלַ/גֵּאָיֹת</big></span>**
 

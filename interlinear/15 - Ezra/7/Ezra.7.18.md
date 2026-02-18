@@ -23,9 +23,9 @@ You and your brothers may do whatever seems best with the rest of the silver and
 | you will do  |**<big>&#8207;[[H5648\|תַּעַבְדֽוּן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ta.'av.Dun<small><sup>[[AVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.17|<< Ezra 7:17]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.19|Ezra 7:19 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>עֲלָ֨יךְ</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>עֲלַיִךְ</big></span>**
-[^3]: ==L== spelled: **<span class="asaramaic"><big>אֶחָ֜יךְ</big></span>**
-[^4]: ==K== spelled: **<span class="asaramaic"><big>אֶחַיִךְ</big></span>**
-[^5]: ==AB== spelled: **<span class="asaramaic"><big>יֵיטַ֗ב</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>עֲלָ֨יךְ</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>עֲלַיִךְ</big></span>**
+[^3]: L spelled: **<span class="asaramaic"><big>אֶחָ֜יךְ</big></span>**
+[^4]: K spelled: **<span class="asaramaic"><big>אֶחַיִךְ</big></span>**
+[^5]: AB spelled: **<span class="asaramaic"><big>יֵיטַ֗ב</big></span>**
 

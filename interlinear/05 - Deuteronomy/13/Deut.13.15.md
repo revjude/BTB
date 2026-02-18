@@ -28,7 +28,7 @@ you must surely put the inhabitants of that city to the sword. Devote to destruc
 | [the] sword  |**<big>&#8207;[[H2719\|חָֽרֶב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Cha.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.13.14|<< Deuteronomy 13:14]]</td><td align="center" style="border:none;">[[Deut.13|Deuteronomy 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.13.16|Deuteronomy 13:16 >>]]</td></tr></table>
 
-[^1]: ==K==: \<the> that  | **<big>[[H1931|הוּא]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> hu'<small><sup>[[HPp3ms]]</sup></small> 
-[^2]: ==K==: \<the> that  | **<big>[[H1931|הוּא]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> hu'<small><sup>[[HPp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הַהִ֖וא</big></span>**
+[^1]: \<the> that  | **<big>[[H1931|הוּא]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> hu'<small><sup>[[HPp3ms]]</sup></small> | K
+[^2]: \<the> that  | **<big>[[H1931|הוּא]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> hu'<small><sup>[[HPp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הַהִ֖וא</big></span>**
 

@@ -32,6 +32,6 @@ This is what the Levite clans of the Gershonites were given: From the half-tribe
 | two  |**<big>&#8207;[[H8147\|שְׁתָּֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| she.Ta.yim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.26|<< Joshua 21:26]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.28|Joshua 21:28 >>]]</td></tr></table>
 
-[^1]: ==K==: Galon  | **<big>[[H1474|גָּלוֹן]]</big> ** | ga.lon<small><sup>[[HNpl]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>גֹּלָ֤ון</big></span>**
+[^1]: Galon  | **<big>[[H1474|גָּלוֹן]]</big> ** | ga.lon<small><sup>[[HNpl]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>גֹּלָ֤ון</big></span>**
 

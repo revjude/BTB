@@ -25,20 +25,20 @@ Its windows, portico, and palm trees had the same measurements as those of the g
 | [were] \<to> before them  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.21|<< Ezekiel 40:21]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.23|Ezekiel 40:23 >>]]</td></tr></table>
 
-[^1]: ==K==: and window its  | **<big>[[H9023|וֹ]]</big><big>[[H2474|חַלּוֹנ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> cha.lo.no<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: and window its  | **<big>[[H9023|וֹ]]</big><big>[[H2474|חַלּוֹנ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> cha.lo.no<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: and window its  | **<big>[[H9023|וֹ]]</big><big>[[H2474|חַלּוֹנ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> cha.lo.no<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וְחַלּוֹנָ֤/ו</big></span>**
-[^5]: ==K==: and porch its  | **<big>[[H9023|וֹ]]</big><big>[[H0361|אֵלַמּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'e.la.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^6]: ==K==: and porch its  | **<big>[[H9023|וֹ]]</big><big>[[H0361|אֵלַמּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'e.la.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^7]: ==K==: and porch its  | **<big>[[H9023|וֹ]]</big><big>[[H0361|אֵלַמּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'e.la.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^8]: ==L== spelled: **<span class="ashebrew"><big>וְאֵֽלַמָּ/ו֙</big></span>**
-[^9]: ==K==: and palm tree its  | **<big>[[H9023|וֹ]]</big><big>[[H8561|תִמֹר]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ti.mo.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^10]: ==K==: and palm tree its  | **<big>[[H9023|וֹ]]</big><big>[[H8561|תִמֹר]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ti.mo.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^11]: ==K==: and palm tree its  | **<big>[[H9023|וֹ]]</big><big>[[H8561|תִמֹר]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ti.mo.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^12]: ==L== spelled: **<span class="ashebrew"><big>וְתִ֣מֹרָ֔/ו</big></span>**
-[^13]: ==K==: and porch its  | **<big>[[H9023|וֹ]]</big><big>[[H0361|אֵילַמּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.la.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^14]: ==K==: and porch its  | **<big>[[H9023|וֹ]]</big><big>[[H0361|אֵילַמּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.la.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^15]: ==K==: and porch its  | **<big>[[H9023|וֹ]]</big><big>[[H0361|אֵילַמּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.la.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^16]: ==L== spelled: **<span class="ashebrew"><big>וְאֵֽילַמָּ֖/ו</big></span>**
+[^1]: and window its  | **<big>[[H9023|וֹ]]</big><big>[[H2474|חַלּוֹנ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> cha.lo.no<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: and window its  | **<big>[[H9023|וֹ]]</big><big>[[H2474|חַלּוֹנ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> cha.lo.no<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: and window its  | **<big>[[H9023|וֹ]]</big><big>[[H2474|חַלּוֹנ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> cha.lo.no<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וְחַלּוֹנָ֤/ו</big></span>**
+[^5]: and porch its  | **<big>[[H9023|וֹ]]</big><big>[[H0361|אֵלַמּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'e.la.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^6]: and porch its  | **<big>[[H9023|וֹ]]</big><big>[[H0361|אֵלַמּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'e.la.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^7]: and porch its  | **<big>[[H9023|וֹ]]</big><big>[[H0361|אֵלַמּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'e.la.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^8]: L spelled: **<span class="ashebrew"><big>וְאֵֽלַמָּ/ו֙</big></span>**
+[^9]: and palm tree its  | **<big>[[H9023|וֹ]]</big><big>[[H8561|תִמֹר]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ti.mo.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^10]: and palm tree its  | **<big>[[H9023|וֹ]]</big><big>[[H8561|תִמֹר]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ti.mo.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^11]: and palm tree its  | **<big>[[H9023|וֹ]]</big><big>[[H8561|תִמֹר]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ti.mo.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^12]: L spelled: **<span class="ashebrew"><big>וְתִ֣מֹרָ֔/ו</big></span>**
+[^13]: and porch its  | **<big>[[H9023|וֹ]]</big><big>[[H0361|אֵילַמּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.la.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^14]: and porch its  | **<big>[[H9023|וֹ]]</big><big>[[H0361|אֵילַמּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.la.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^15]: and porch its  | **<big>[[H9023|וֹ]]</big><big>[[H0361|אֵילַמּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.la.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^16]: L spelled: **<span class="ashebrew"><big>וְאֵֽילַמָּ֖/ו</big></span>**
 

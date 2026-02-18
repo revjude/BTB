@@ -29,9 +29,9 @@ These are the names of David’s mighty men: Josheb-basshebeth the Tahchemonite 
 | one  [^4]|**<big>&#8207;[[H0259\|אֶחָֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**[^5] | 'e.chad<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.7|<< 2 Samuel 23:7]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.9|2 Samuel 23:9 >>]]</td></tr></table>
 
-[^1]: ==K==: \<the> spear his  | **<big>[[H9023|וֹ]]</big><big>[[H6112H|עֶצְנ]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'etz.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: \<the> spear his  | **<big>[[H9023|וֹ]]</big><big>[[H6112H|עֶצְנ]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'etz.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הָֽעֶצְנִ֔/ו</big></span>**
-[^4]: ==K==: one  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H0259|אֶחָד]]</big> ** | 'e.chad<small><sup>[[HNcbsa]]</sup></small> 
-[^5]: ==L== spelled: **<span class="ashebrew"><big>אֶחָֽד\׃\ \ס</big></span>**
+[^1]: \<the> spear his  | **<big>[[H9023|וֹ]]</big><big>[[H6112H|עֶצְנ]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'etz.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: \<the> spear his  | **<big>[[H9023|וֹ]]</big><big>[[H6112H|עֶצְנ]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'etz.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הָֽעֶצְנִ֔/ו</big></span>**
+[^4]: one  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H0259|אֶחָד]]</big> ** | 'e.chad<small><sup>[[HNcbsa]]</sup></small> | K
+[^5]: L spelled: **<span class="ashebrew"><big>אֶחָֽד\׃\ \ס</big></span>**
 

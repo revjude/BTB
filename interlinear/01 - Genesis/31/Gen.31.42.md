@@ -32,5 +32,5 @@ If the God of my father, the God of Abraham and the Fear of Isaac, had not been 
 | last night  |**<big>&#8207;[[H0570\|אָֽמֶשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'A.mesh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.41|<< Genesis 31:41]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.43|Genesis 31:43 >>]]</td></tr></table>
 
-[^1]: ==AH== spelled: **<span class="ashebrew"><big>יְגִ֧יעַ</big></span>**
+[^1]: AH spelled: **<span class="ashebrew"><big>יְגִ֧יעַ</big></span>**
 

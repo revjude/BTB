@@ -25,6 +25,6 @@ So David inquired of God, “Should I go up against the Philistines? Will You de
 | in hand your  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027H\|יָדֶֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ya.De.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.14.9|<< 1 Chronicles 14:9]]</td><td align="center" style="border:none;">[[1Chr.14|1 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.14.11|1 Chronicles 14:11 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>פְּלִשְׁתִּ֔יים</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>פְּלִשְׁתִּיִּים</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>פְּלִשְׁתִּ֔יים</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>פְּלִשְׁתִּיִּים</big></span>**
 

@@ -24,6 +24,6 @@ Take counsel, execute judgment; make thy shadow as the night in the midst of the
 | you expose  |**<big>&#8207;[[H1540H\|תְּגַלִּֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| te.ga.Li<small><sup>[[HVpj2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16.2|<< Isaiah 16:2]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.4|Isaiah 16:4 >>]]</td></tr></table>
 
-[^1]: ==K==: bring  | **<big>[[H0935P|הָבִיאוּ]]</big> ** | ha.vi.'u<small><sup>[[HVhv2mp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>הָבִ֤יאִו</big></span>**
+[^1]: bring  | **<big>[[H0935P|הָבִיאוּ]]</big> ** | ha.vi.'u<small><sup>[[HVhv2mp]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>הָבִ֤יאִו</big></span>**
 

@@ -31,7 +31,7 @@ Now to the [one] half of the tribe of Manasseh Moses had given [possession] in B
 | and he blessed them  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1288\|יְבָרֲכֵֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.va.ra.Khe<small><sup>[[HVpw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.6|<< Joshua 22:6]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.8|Joshua 22:8 >>]]</td></tr></table>
 
-[^1]: ==K==: from [the] other side of  | **<big>[[H5676G|עֵבֶר]]</big><big>[[H9006|מֵ]]</big> ** | me.<small><sup>[[HR]]</sup></small> 'e.ver<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==K==: from [the] other side of  | **<big>[[H5676G|עֵבֶר]]</big><big>[[H9006|מֵ]]</big> ** | me.<small><sup>[[HR]]</sup></small> 'e.ver<small><sup>[[HNcbsc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>מְעֵ֥בֶר</big></span>**
+[^1]: from [the] other side of  | **<big>[[H5676G|עֵבֶר]]</big><big>[[H9006|מֵ]]</big> ** | me.<small><sup>[[HR]]</sup></small> 'e.ver<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: from [the] other side of  | **<big>[[H5676G|עֵבֶר]]</big><big>[[H9006|מֵ]]</big> ** | me.<small><sup>[[HR]]</sup></small> 'e.ver<small><sup>[[HNcbsc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>מְעֵ֥בֶר</big></span>**
 

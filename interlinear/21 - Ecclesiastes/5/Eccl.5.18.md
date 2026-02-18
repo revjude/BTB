@@ -36,6 +36,6 @@ Here is what I have seen to be good and fitting: to eat and drink, and to find s
 | [is] portion his  |**<big>&#8207;[[H2506A\|חֶלְקֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| chel.K<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5.17|<< Ecclesiastes 5:17]]</td><td align="center" style="border:none;">[[Eccl.5|Ecclesiastes 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5.19|Ecclesiastes 5:19 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>חַיָּ֛ו</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>חַיָּו</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>חַיָּ֛ו</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>חַיָּו</big></span>**
 

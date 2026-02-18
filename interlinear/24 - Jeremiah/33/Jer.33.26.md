@@ -29,6 +29,6 @@ then I would also reject the descendants of Jacob and of My servant David, so as
 | and I will have compassion on them  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7355\|רִחַמְתִּֽי]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ri.cham.Ti<small><sup>[[HVpq1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.25|<< Jeremiah 33:25]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34.1|Jeremiah 34:1 >>]]</td></tr></table>
 
-[^1]: ==K==: I will turn back  | **<big>[[H7725H|אָשׁוּב]]</big> ** | 'a.shuv<small><sup>[[HVqi1cs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אָשִׁ֥וב</big></span>**
+[^1]: I will turn back  | **<big>[[H7725H|אָשׁוּב]]</big> ** | 'a.shuv<small><sup>[[HVqi1cs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אָשִׁ֥וב</big></span>**
 

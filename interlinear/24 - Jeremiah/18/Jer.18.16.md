@@ -21,6 +21,6 @@ They have made their land a desolation, a perpetual object of scorn; all who pas
 | with head his  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7218A\|רֹאשֽׁ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ro.Sh<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.15|<< Jeremiah 18:15]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.17|Jeremiah 18:17 >>]]</td></tr></table>
 
-[^1]: ==K==: a hissing of  | **<big>[[H8322|שְׁרוּקַת]]</big> ** | she.ru.kat<small><sup>[[HNcfpc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>שְׁרִוקֹ֣ת</big></span>**
+[^1]: a hissing of  | **<big>[[H8322|שְׁרוּקַת]]</big> ** | she.ru.kat<small><sup>[[HNcfpc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>שְׁרִוקֹ֣ת</big></span>**
 

@@ -28,8 +28,8 @@ Then David and his men went to Keilah, fought against the Philistines, and carri
 | Keilah  |**<big>&#8207;[[H7084\|קְעִילָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ke.'i.Lah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.4|<< 1 Samuel 23:4]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.6|1 Samuel 23:6 >>]]</td></tr></table>
 
-[^1]: ==K==: and man his  | **<big>[[H9023|וֹ]]</big><big>[[H0582|אֲנָשׁ]]</big><big>[[H9002|וְ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'in.sho<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: and man his  | **<big>[[H9023|וֹ]]</big><big>[[H0582|אֲנָשׁ]]</big><big>[[H9002|וְ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'in.sho<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: and man his  | **<big>[[H9023|וֹ]]</big><big>[[H0582|אֲנָשׁ]]</big><big>[[H9002|וְ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'in.sho<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וַאֲנָשָׁ֨/ו</big></span>**
+[^1]: and man his  | **<big>[[H9023|וֹ]]</big><big>[[H0582|אֲנָשׁ]]</big><big>[[H9002|וְ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'in.sho<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: and man his  | **<big>[[H9023|וֹ]]</big><big>[[H0582|אֲנָשׁ]]</big><big>[[H9002|וְ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'in.sho<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: and man his  | **<big>[[H9023|וֹ]]</big><big>[[H0582|אֲנָשׁ]]</big><big>[[H9002|וְ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'in.sho<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וַאֲנָשָׁ֨/ו</big></span>**
 

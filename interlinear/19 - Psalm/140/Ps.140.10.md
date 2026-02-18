@@ -18,6 +18,6 @@ May burning coals fall on them; may they be thrown into the fire, into the miry 
 | they will arise  |**<big>&#8207;[[H6965B\|יָקֽוּמוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.Ku.mu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.140.9|<< Psalms 140:9]]</td><td align="center" style="border:none;">[[Ps.140|Psalms 140]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.140.11|Psalms 140:11 >>]]</td></tr></table>
 
-[^1]: ==K==: may people drop  | **<big>[[H4131|יָמִיטוּ]]</big> ** | ya.mi.tu<small><sup>[[HVhi3mp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יִמֹּ֥יטוּ</big></span>**
+[^1]: may people drop  | **<big>[[H4131|יָמִיטוּ]]</big> ** | ya.mi.tu<small><sup>[[HVhi3mp]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יִמֹּ֥יטוּ</big></span>**
 

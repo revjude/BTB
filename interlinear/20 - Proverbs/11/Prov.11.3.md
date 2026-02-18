@@ -16,7 +16,7 @@ The integrity of the upright guides them, but the perversity of the faithless de
 | it destroys them  [^2]|**<big>&#8207;[[H7703\|יְשָׁדֵּֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | ye.sha.de<small><sup>[[HVqi3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.2|<< Proverbs 11:2]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.4|Proverbs 11:4 >>]]</td></tr></table>
 
-[^1]: ==K==: \<and> [is] destruction their  | **<big>[[H9016|׃]]</big><big>[[H9028|ם]]</big><big>[[H7703|שַׁדָּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> sha.da<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^2]: ==K==: \<and> [is] destruction their  | **<big>[[H9016|׃]]</big><big>[[H9028|ם]]</big><big>[[H7703|שַׁדָּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> sha.da<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְשָׁדֵּֽ/ם\׃</big></span>**
+[^1]: \<and> [is] destruction their  | **<big>[[H9016|׃]]</big><big>[[H9028|ם]]</big><big>[[H7703|שַׁדָּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> sha.da<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^2]: \<and> [is] destruction their  | **<big>[[H9016|׃]]</big><big>[[H9028|ם]]</big><big>[[H7703|שַׁדָּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> sha.da<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְשָׁדֵּֽ/ם\׃</big></span>**
 

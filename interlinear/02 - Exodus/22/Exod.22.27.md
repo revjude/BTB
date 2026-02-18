@@ -27,6 +27,6 @@ because his cloak is the only covering he has for his body. What else will he sl
 | I  |**<big>&#8207;[[H0589\|אָֽנִי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'A.ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.26|<< Exodus 22:26]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.28|Exodus 22:28 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>כְסוּתֹה֙</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>כְּסוּתָהּ</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>כְסוּתֹה֙</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>כְּסוּתָהּ</big></span>**
 

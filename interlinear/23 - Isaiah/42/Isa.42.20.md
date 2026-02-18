@@ -18,6 +18,6 @@ Though seeing many things, you do not keep watch. Though your ears are open, you
 | he listens  |**<big>&#8207;[[H8085G\|יִשְׁמָֽע]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yish.Ma'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.19|<< Isaiah 42:19]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.21|Isaiah 42:21 >>]]</td></tr></table>
 
-[^1]: ==K==: you have caused to see  | **<big>[[H7200G|רָאִיתָ]]</big> ** | ra.'i.ta<small><sup>[[HVhaa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>רָאֹ֥ית</big></span>**
+[^1]: you have caused to see  | **<big>[[H7200G|רָאִיתָ]]</big> ** | ra.'i.ta<small><sup>[[HVhaa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>רָאֹ֥ית</big></span>**
 

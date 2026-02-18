@@ -17,7 +17,7 @@ Why do You withdraw Your strong right hand? Stretch it out to destroy them!
 | destroy  |**<big>&#8207;[[H3615H\|כַלֵּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| kha.Leh<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.10|<< Psalms 74:10]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.12|Psalms 74:12 >>]]</td></tr></table>
 
-[^1]: ==K==: decree your  | **<big>[[H9021|ךָ]]</big><big>[[H2706G|חוֹקְ]]</big> ** | chei.ke.<small><sup>[[HNcbsc]]</sup></small> Cha<small><sup>[[HSp2ms]]</sup></small> 
-[^2]: ==K==: decree your  | **<big>[[H9021|ךָ]]</big><big>[[H2706G|חוֹקְ]]</big> ** | chei.ke.<small><sup>[[HNcbsc]]</sup></small> Cha<small><sup>[[HSp2ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>חֵֽוקְךָ֣</big></span>**
+[^1]: decree your  | **<big>[[H9021|ךָ]]</big><big>[[H2706G|חוֹקְ]]</big> ** | chei.ke.<small><sup>[[HNcbsc]]</sup></small> Cha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: decree your  | **<big>[[H9021|ךָ]]</big><big>[[H2706G|חוֹקְ]]</big> ** | chei.ke.<small><sup>[[HNcbsc]]</sup></small> Cha<small><sup>[[HSp2ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>חֵֽוקְךָ֣</big></span>**
 

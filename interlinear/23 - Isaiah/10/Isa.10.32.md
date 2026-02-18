@@ -21,6 +21,6 @@ Yet today they will halt at Nob, shaking a fist at the mount of Daughter Zion, a
 | Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.31|<< Isaiah 10:31]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.33|Isaiah 10:33 >>]]</td></tr></table>
 
-[^1]: ==K==: [the] house of  | **<big>[[H1004B|בֵּית]]</big> ** | beit-<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>בַּית\־</big></span>**
+[^1]: [the] house of  | **<big>[[H1004B|בֵּית]]</big> ** | beit-<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>בַּית\־</big></span>**
 

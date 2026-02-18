@@ -21,8 +21,8 @@ But his sons did not walk in his ways; they turned aside toward dishonest gain, 
 | justice  |**<big>&#8207;[[H4941H\|מִשְׁפָּֽט]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.2|<< 1 Samuel 8:2]]</td><td align="center" style="border:none;">[[1Sam.8|1 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.8.4|1 Samuel 8:4 >>]]</td></tr></table>
 
-[^1]: ==K==: in way his  | **<big>[[H9023|וֹ]]</big><big>[[H1870G|דַרְכּ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> dar.kho<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[Sp3bs]]</sup></small> 
-[^2]: ==K==: in way his  | **<big>[[H9023|וֹ]]</big><big>[[H1870G|דַרְכּ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> dar.kho<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[Sp3bs]]</sup></small> 
-[^3]: ==K==: in way his  | **<big>[[H9023|וֹ]]</big><big>[[H1870G|דַרְכּ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> dar.kho<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[Sp3bs]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>בִּדְרָכָ֔/ו</big></span>**
+[^1]: in way his  | **<big>[[H9023|וֹ]]</big><big>[[H1870G|דַרְכּ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> dar.kho<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> | K
+[^2]: in way his  | **<big>[[H9023|וֹ]]</big><big>[[H1870G|דַרְכּ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> dar.kho<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> | K
+[^3]: in way his  | **<big>[[H9023|וֹ]]</big><big>[[H1870G|דַרְכּ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> dar.kho<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>בִּדְרָכָ֔/ו</big></span>**
 

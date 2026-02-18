@@ -27,7 +27,7 @@ Son of man, the house of Israel is to me become dross: all they [are] brass, and
 | they have become  |**<big>&#8207;[[H1961\|הָיֽוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.17|<< Ezekiel 22:17]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.19|Ezekiel 22:19 >>]]</td></tr></table>
 
-[^1]: ==K==: \<into> dross  | **<big>[[H5509|סוּג]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> sug<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==K==: \<into> dross  | **<big>[[H5509|סוּג]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> sug<small><sup>[[HNcbsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>לְסִ֑וג</big></span>**
+[^1]: \<into> dross  | **<big>[[H5509|סוּג]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> sug<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: \<into> dross  | **<big>[[H5509|סוּג]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> sug<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>לְסִ֑וג</big></span>**
 

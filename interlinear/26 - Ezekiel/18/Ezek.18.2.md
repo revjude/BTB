@@ -27,5 +27,5 @@ What mean ye, that ye use this proverb concerning the land of Israel, saying, Th
 | they are blunt  |**<big>&#8207;[[H6949\|תִּקְהֶֽינָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^1] | tik.Hei.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad Aleppo (biblia benchayim)">LA(bh)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.1|<< Ezekiel 18:1]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.3|Ezekiel 18:3 >>]]</td></tr></table>
 
-[^1]: ==BH== spelled: **<span class="ashebrew"><big>תִקְהֶֽינָה\׃</big></span>**
+[^1]: BH spelled: **<span class="ashebrew"><big>תִקְהֶֽינָה\׃</big></span>**
 

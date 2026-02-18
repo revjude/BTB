@@ -37,7 +37,7 @@ Meanwhile, Absalom had fled. When the young man standing watch looked up, he saw
 | the mountain  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H2022G\|הָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Har<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.33|<< 2 Samuel 13:33]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.35|2 Samuel 13:35 >>]]</td></tr></table>
 
-[^1]: ==K==: eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869A|עֵינ]]</big> ** | ei.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869A|עֵינ]]</big> ** | ei.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>עֵינָ֔ו</big></span>**
+[^1]: eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869A|עֵינ]]</big> ** | ei.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: eye his  | **<big>[[H9023|וֹ]]</big><big>[[H5869A|עֵינ]]</big> ** | ei.n<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>עֵינָ֔ו</big></span>**
 

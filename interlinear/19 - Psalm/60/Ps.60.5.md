@@ -16,8 +16,8 @@ Respond and save us with Your right hand, that Your beloved may be delivered.
 | and answer me  [^3]|**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6030B\|עֲנֵֽ]]&#8207;&#8207;[[H9030\|נִי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^4] | va.<small><sup>[[HC]]</sup></small> 'a.ne.<small><sup>[[HVqv2ms]]</sup></small> nu<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.60.4|<< Psalms 60:4]]</td><td align="center" style="border:none;">[[Ps.60|Psalms 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.60.6|Psalms 60:6 >>]]</td></tr></table>
 
-[^1]: ==K==: and answer us  | **<big>[[H9016|׃]]</big><big>[[H9035|נוּ]]</big><big>[[H6030B|עֲנֵ]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.ne.<small><sup>[[HVqv2ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> 
-[^2]: ==K==: and answer us  | **<big>[[H9016|׃]]</big><big>[[H9035|נוּ]]</big><big>[[H6030B|עֲנֵ]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.ne.<small><sup>[[HVqv2ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> 
-[^3]: ==K==: and answer us  | **<big>[[H9016|׃]]</big><big>[[H9035|נוּ]]</big><big>[[H6030B|עֲנֵ]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.ne.<small><sup>[[HVqv2ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וַעֲנֵֽ/נִו\׃</big></span>**
+[^1]: and answer us  | **<big>[[H9016|׃]]</big><big>[[H9035|נוּ]]</big><big>[[H6030B|עֲנֵ]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.ne.<small><sup>[[HVqv2ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | K
+[^2]: and answer us  | **<big>[[H9016|׃]]</big><big>[[H9035|נוּ]]</big><big>[[H6030B|עֲנֵ]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.ne.<small><sup>[[HVqv2ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | K
+[^3]: and answer us  | **<big>[[H9016|׃]]</big><big>[[H9035|נוּ]]</big><big>[[H6030B|עֲנֵ]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.ne.<small><sup>[[HVqv2ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וַעֲנֵֽ/נִו\׃</big></span>**
 

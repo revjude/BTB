@@ -38,8 +38,8 @@ When Delilah realized that he had revealed to her all that was in his heart, she
 | in hand their  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027G\|יָדָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ya.Da<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.17|<< Judges 16:17]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.19|Judges 16:19 >>]]</td></tr></table>
 
-[^1]: ==BH== spelled: **<span class="ashebrew"><big>דְּלִילָ֗ה</big></span>**
-[^2]: ==K==: to her  | **<big>[[H9034|הּ]]</big><big>[[H9005|לָ]]</big> ** | la<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> 
-[^3]: ==K==: to her  | **<big>[[H9034|הּ]]</big><big>[[H9005|לָ]]</big> ** | la<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>לִ֖ה</big></span>**
+[^1]: BH spelled: **<span class="ashebrew"><big>דְּלִילָ֗ה</big></span>**
+[^2]: to her  | **<big>[[H9034|הּ]]</big><big>[[H9005|לָ]]</big> ** | la<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | K
+[^3]: to her  | **<big>[[H9034|הּ]]</big><big>[[H9005|לָ]]</big> ** | la<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>לִ֖ה</big></span>**
 

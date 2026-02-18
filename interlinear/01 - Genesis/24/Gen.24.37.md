@@ -23,5 +23,5 @@ My master made me swear an oath and said, ‘You shall not take a wife for my so
 | in land its  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0776G\|אַרְצֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ar.Tz<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.36|<< Genesis 24:36]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.38|Genesis 24:38 >>]]</td></tr></table>
 
-[^1]: ==BH== spelled: **<span class="ashebrew"><big>תִּקַּ֤ח</big></span>**
+[^1]: BH spelled: **<span class="ashebrew"><big>תִּקַּ֤ח</big></span>**
 

@@ -33,6 +33,6 @@ At that moment the fingers of a human hand appeared and wrote on the plaster of 
 | [was] writing  |**<big>&#8207;[[H3790\|כָתְבָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| kha.te.Vah<small><sup>[[AVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.4|<< Daniel 5:4]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.6|Daniel 5:6 >>]]</td></tr></table>
 
-[^1]: ==K==: they went forth  | **<big>[[H5312|נְפַקוּ]]</big> ** | ne.fa.ku<small><sup>[[AVqp3mp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="asaramaic"><big>נְפַ֙קָו֙</big></span>**
+[^1]: they went forth  | **<big>[[H5312|נְפַקוּ]]</big> ** | ne.fa.ku<small><sup>[[AVqp3mp]]</sup></small> | K
+[^2]: L spelled: **<span class="asaramaic"><big>נְפַ֙קָו֙</big></span>**
 

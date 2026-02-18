@@ -17,8 +17,8 @@ His young ones feast on blood; and where the slain are, there he is.”
 | it  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.29|<< Job 39:29]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.1|Job 40:1 >>]]</td></tr></table>
 
-[^1]: ==K==: and young one its  | **<big>[[H9023|וֹ]]</big><big>[[H0667|אֶפְרֹח]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ef.ro.cho<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: and young one its  | **<big>[[H9023|וֹ]]</big><big>[[H0667|אֶפְרֹח]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ef.ro.cho<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: and young one its  | **<big>[[H9023|וֹ]]</big><big>[[H0667|אֶפְרֹח]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ef.ro.cho<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>וְאֶפְרֹחָ֥/ו</big></span>**
+[^1]: and young one its  | **<big>[[H9023|וֹ]]</big><big>[[H0667|אֶפְרֹח]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ef.ro.cho<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: and young one its  | **<big>[[H9023|וֹ]]</big><big>[[H0667|אֶפְרֹח]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ef.ro.cho<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: and young one its  | **<big>[[H9023|וֹ]]</big><big>[[H0667|אֶפְרֹח]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ef.ro.cho<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>וְאֶפְרֹחָ֥/ו</big></span>**
 

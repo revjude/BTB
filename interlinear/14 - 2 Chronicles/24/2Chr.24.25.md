@@ -35,6 +35,6 @@ And when the Arameans had withdrawn, they left Joash severely wounded. His own s
 | the kings  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מְּלָכִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> me.la.Khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.24|<< 2 Chronicles 24:24]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.24.26|2 Chronicles 24:26 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>בְּמַחֲלֻיִ֣ים</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>בְּמַחֲלִיִּים</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>בְּמַחֲלֻיִ֣ים</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>בְּמַחֲלִיִּים</big></span>**
 

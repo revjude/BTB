@@ -18,7 +18,7 @@ I will chasten them when I please; nations will be gathered against them to put 
 | iniquities their  [^2]|**<big>&#8207;[[H5771H\|עוֹנֹתָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | ei.no.ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.9|<< Hosea 10:9]]</td><td align="center" style="border:none;">[[Hos.10|Hosea 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.10.11|Hosea 10:11 >>]]</td></tr></table>
 
-[^1]: ==K==: eyes their  | **<big>[[H9016|׃]]</big><big>[[H9028|ם]]</big><big>[[H5869K|עֵינֹתָ]]</big> ** | ei.no.ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^2]: ==K==: eyes their  | **<big>[[H9016|׃]]</big><big>[[H9028|ם]]</big><big>[[H5869K|עֵינֹתָ]]</big> ** | ei.no.ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>עֹינֹתָֽם\׃</big></span>**
+[^1]: eyes their  | **<big>[[H9016|׃]]</big><big>[[H9028|ם]]</big><big>[[H5869K|עֵינֹתָ]]</big> ** | ei.no.ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^2]: eyes their  | **<big>[[H9016|׃]]</big><big>[[H9028|ם]]</big><big>[[H5869K|עֵינֹתָ]]</big> ** | ei.no.ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>עֹינֹתָֽם\׃</big></span>**
 

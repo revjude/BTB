@@ -40,7 +40,7 @@ you are to tell them that this is what the Lord GOD says: ‘I will take the sti
 | in hand my  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027G\|יָדִֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ya.D<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.18|<< Ezekiel 37:18]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.20|Ezekiel 37:20 >>]]</td></tr></table>
 
-[^1]: ==K==: associate its  | **<big>[[H9023|וֹ]]</big><big>[[H2270|חֲבֵר]]</big> ** | chev.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: associate its  | **<big>[[H9023|וֹ]]</big><big>[[H2270|חֲבֵר]]</big> ** | chev.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>חֲבֵרָ֑ו</big></span>**
+[^1]: associate its  | **<big>[[H9023|וֹ]]</big><big>[[H2270|חֲבֵר]]</big> ** | chev.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: associate its  | **<big>[[H9023|וֹ]]</big><big>[[H2270|חֲבֵר]]</big> ** | chev.ro<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>חֲבֵרָ֑ו</big></span>**
 

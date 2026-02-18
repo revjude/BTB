@@ -25,6 +25,6 @@ let seven of his male descendants be delivered to us so that we may hang them be
 | I will give [them]  |**<big>&#8207;[[H5414G\|אֶתֵּֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'e.Ten<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.5|<< 2 Samuel 21:5]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.7|2 Samuel 21:7 >>]]</td></tr></table>
 
-[^1]: ==K==: let it be given  | **<big>[[H5414G|יְנָתָן]]</big> ** | ye.na.ton-<small><sup>[[HVNi3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יֻנתַּן\־</big></span>**
+[^1]: let it be given  | **<big>[[H5414G|יְנָתָן]]</big> ** | ye.na.ton-<small><sup>[[HVNi3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יֻנתַּן\־</big></span>**
 

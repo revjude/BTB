@@ -22,7 +22,7 @@ Who provides food for the raven when its young cry out to God as they wander abo
 | food  |**<big>&#8207;[[H0400\|אֹֽכֶל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'O.khel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.40|<< Job 38:40]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.1|Job 39:1 >>]]</td></tr></table>
 
-[^1]: ==K==: young one its  | **<big>[[H9023|וֹ]]</big><big>[[H3206|יְלָד]]</big> ** | ye.la.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: young one its  | **<big>[[H9023|וֹ]]</big><big>[[H3206|יְלָד]]</big> ** | ye.la.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>יְ֭לָדָו</big></span>**
+[^1]: young one its  | **<big>[[H9023|וֹ]]</big><big>[[H3206|יְלָד]]</big> ** | ye.la.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: young one its  | **<big>[[H9023|וֹ]]</big><big>[[H3206|יְלָד]]</big> ** | ye.la.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>יְ֭לָדָו</big></span>**
 

@@ -37,7 +37,7 @@ Of the increase of His government and peace there will be no end. He will reign 
 | this  |**<big>&#8207;[[H2063\|זֹּֽאת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9.6|<< Isaiah 9:6]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.8|Isaiah 9:8 >>]]</td></tr></table>
 
-[^1]: ==K==: to [the] increase of  | **<big>[[H4766|םַרְבֵּה]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> mar.beh<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==K==: to [the] increase of  | **<big>[[H4766|םַרְבֵּה]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> mar.beh<small><sup>[[HNcbsc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>לְמַרְבֵּ֨ה</big></span>**
+[^1]: to [the] increase of  | **<big>[[H4766|םַרְבֵּה]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> mar.beh<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: to [the] increase of  | **<big>[[H4766|םַרְבֵּה]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> mar.beh<small><sup>[[HNcbsc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>לְמַרְבֵּ֨ה</big></span>**
 

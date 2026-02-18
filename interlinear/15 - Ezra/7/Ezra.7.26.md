@@ -34,6 +34,6 @@ If anyone does not keep the law of your God and the law of the king, let a stric
 | and to imprisonment\<s>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לֶ]]&#8207;&#8207;[[H0613\|אֱסוּרִֽין]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> le.<small><sup>[[AR]]</sup></small> 'e.su.Rin<small><sup>[[ANcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.25|<< Ezra 7:25]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.27|Ezra 7:27 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>לִשְׁרֹשִׁ֔ו</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>לִשְׁרֹשׁוּ</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>לִשְׁרֹשִׁ֔ו</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>לִשְׁרֹשׁוּ</big></span>**
 

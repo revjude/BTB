@@ -22,6 +22,6 @@ But Oholibah carried her prostitution even further. She saw the men portrayed on
 | with \<the> vermilion  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H8350\|שָּׁשַֽׁר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> sha.Shar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.13|<< Ezekiel 23:13]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.15|Ezekiel 23:15 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>כַשְׂדִּ֔יים</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>כַשְׂדִּיִּים</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>כַשְׂדִּ֔יים</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>כַשְׂדִּיִּים</big></span>**
 

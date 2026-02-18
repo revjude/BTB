@@ -18,7 +18,7 @@ For all His ordinances are before me; I have not disregarded His statutes.
 | from it  |**<big>&#8207;[[H4480A\|מִמֶּֽ]]&#8207;&#8207;[[H9034\|נָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.Me.<small><sup>[[HRd]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.22|<< 2 Samuel 22:22]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.24|2 Samuel 22:24 >>]]</td></tr></table>
 
-[^1]: ==K==: judgment his  | **<big>[[H9023|וֹ]]</big><big>[[H4941G|מִשְׁפָּט]]</big> ** | mish.po.t<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: judgment his  | **<big>[[H9023|וֹ]]</big><big>[[H4941G|מִשְׁפָּט]]</big> ** | mish.po.t<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>מִשְׁפָּטָ֖ו</big></span>**
+[^1]: judgment his  | **<big>[[H9023|וֹ]]</big><big>[[H4941G|מִשְׁפָּט]]</big> ** | mish.po.t<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: judgment his  | **<big>[[H9023|וֹ]]</big><big>[[H4941G|מִשְׁפָּט]]</big> ** | mish.po.t<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>מִשְׁפָּטָ֖ו</big></span>**
 

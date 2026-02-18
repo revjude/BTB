@@ -29,7 +29,7 @@ and the pots, shovels, and sprinkling bowls. All the articles that Huram made fo
 | polished  |**<big>&#8207;[[H4803\|מְמֹרָֽט]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.mo.Rat<small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.44|<< 1 Kings 7:44]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.46|1 Kings 7:46 >>]]</td></tr></table>
 
-[^1]: ==K==: the tent  | **<big>[[H0168G|אֹהֶל]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'o.hel<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==K==: the tent  | **<big>[[H0168G|אֹהֶל]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'o.hel<small><sup>[[HNcbsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>הָאֵ֔הֶל</big></span>**
+[^1]: the tent  | **<big>[[H0168G|אֹהֶל]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'o.hel<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: the tent  | **<big>[[H0168G|אֹהֶל]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'o.hel<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>הָאֵ֔הֶל</big></span>**
 

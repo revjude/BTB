@@ -28,7 +28,7 @@ the food at his table, the seating of his servants, the service and attire of hi
 | breath  |**<big>&#8207;[[H7307H\|רֽוּחַ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.4|<< 1 Kings 10:4]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.6|1 Kings 10:6 >>]]</td></tr></table>
 
-[^1]: ==K==: servant his  | **<big>[[H9033|וֹ]]</big><big>[[H8334|מְשָׁרְת]]</big> ** | me.sha.re.to<small><sup>[[HVprmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: servant his  | **<big>[[H9033|וֹ]]</big><big>[[H8334|מְשָׁרְת]]</big> ** | me.sha.re.to<small><sup>[[HVprmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>מְשָׁרְתָ֜ו</big></span>**
+[^1]: servant his  | **<big>[[H9033|וֹ]]</big><big>[[H8334|מְשָׁרְת]]</big> ** | me.sha.re.to<small><sup>[[HVprmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: servant his  | **<big>[[H9033|וֹ]]</big><big>[[H8334|מְשָׁרְת]]</big> ** | me.sha.re.to<small><sup>[[HVprmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>מְשָׁרְתָ֜ו</big></span>**
 

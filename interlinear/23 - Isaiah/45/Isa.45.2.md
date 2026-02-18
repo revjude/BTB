@@ -21,6 +21,6 @@ I will go before thee, and make the crooked places straight: I will break in pie
 | I will cut through  |**<big>&#8207;[[H1438\|אֲגַדֵּֽעַ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.ga.De.a'<small><sup>[[HVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.1|<< Isaiah 45:1]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.3|Isaiah 45:3 >>]]</td></tr></table>
 
-[^1]: ==K==: I will make smooth  | **<big>[[H3474|אוֹשִׁר]]</big> ** | 'o.shir<small><sup>[[HVhi1cs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אֲוַשֵּׁ֑ר</big></span>**
+[^1]: I will make smooth  | **<big>[[H3474|אוֹשִׁר]]</big> ** | 'o.shir<small><sup>[[HVhi1cs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אֲוַשֵּׁ֑ר</big></span>**
 

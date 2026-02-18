@@ -26,11 +26,11 @@ She went and told the man of God, and he said, “Go, sell the oil, and pay your
 | by the remainder  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3498\|נּוֹתָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> no.Tar<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.6|<< 2 Kings 4:6]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.8|2 Kings 4:8 >>]]</td></tr></table>
 
-[^1]: ==K==: debt your  | **<big>[[H9022|כִי]]</big><big>[[H5386|נִשְׁיֵ]]</big> ** | nish.ye.<small><sup>[[HNcbsc]]</sup></small> khi<small><sup>[[HSp2fs]]</sup></small> 
-[^2]: ==K==: debt your  | **<big>[[H9022|כִי]]</big><big>[[H5386|נִשְׁיֵ]]</big> ** | nish.ye.<small><sup>[[HNcbsc]]</sup></small> khi<small><sup>[[HSp2fs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>נִשְׁיֵ֑כְי</big></span>**
-[^4]: ==K==: children your  | **<big>[[H9022|כִי]]</big><big>[[H1121A|בְּנֵי]]</big> ** | be.nei.<small><sup>[[HNcmpc]]</sup></small> khi<small><sup>[[HSp2fs]]</sup></small> 
-[^5]: ==K==: children your  | **<big>[[H9022|כִי]]</big><big>[[H1121A|בְּנֵי]]</big> ** | be.nei.<small><sup>[[HNcmpc]]</sup></small> khi<small><sup>[[HSp2fs]]</sup></small> 
-[^6]: ==K==: children your  | **<big>[[H9022|כִי]]</big><big>[[H1121A|בְּנֵי]]</big> ** | be.nei.<small><sup>[[HNcmpc]]</sup></small> khi<small><sup>[[HSp2fs]]</sup></small> 
-[^7]: ==L== spelled: **<span class="ashebrew"><big>ֻבָנַ֔יִכְי</big></span>**
+[^1]: debt your  | **<big>[[H9022|כִי]]</big><big>[[H5386|נִשְׁיֵ]]</big> ** | nish.ye.<small><sup>[[HNcbsc]]</sup></small> khi<small><sup>[[HSp2fs]]</sup></small> | K
+[^2]: debt your  | **<big>[[H9022|כִי]]</big><big>[[H5386|נִשְׁיֵ]]</big> ** | nish.ye.<small><sup>[[HNcbsc]]</sup></small> khi<small><sup>[[HSp2fs]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>נִשְׁיֵ֑כְי</big></span>**
+[^4]: children your  | **<big>[[H9022|כִי]]</big><big>[[H1121A|בְּנֵי]]</big> ** | be.nei.<small><sup>[[HNcmpc]]</sup></small> khi<small><sup>[[HSp2fs]]</sup></small> | K
+[^5]: children your  | **<big>[[H9022|כִי]]</big><big>[[H1121A|בְּנֵי]]</big> ** | be.nei.<small><sup>[[HNcmpc]]</sup></small> khi<small><sup>[[HSp2fs]]</sup></small> | K
+[^6]: children your  | **<big>[[H9022|כִי]]</big><big>[[H1121A|בְּנֵי]]</big> ** | be.nei.<small><sup>[[HNcmpc]]</sup></small> khi<small><sup>[[HSp2fs]]</sup></small> | K
+[^7]: L spelled: **<span class="ashebrew"><big>ֻבָנַ֔יִכְי</big></span>**
 

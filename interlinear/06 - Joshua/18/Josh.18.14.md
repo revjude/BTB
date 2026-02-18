@@ -38,7 +38,7 @@ On the west side the border curved southward from the hill facing Beth-horon on 
 | [the] west  |**<big>&#8207;[[H3220H\|יָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.13|<< Joshua 18:13]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.15|Joshua 18:15 >>]]</td></tr></table>
 
-[^1]: ==K==: and it is  | **<big>[[H1961|הָיָה]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> 
-[^2]: ==K==: and it is  | **<big>[[H1961|הָיָה]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְהָיֻ֣ה</big></span>**
+[^1]: and it is  | **<big>[[H1961|הָיָה]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> | K
+[^2]: and it is  | **<big>[[H1961|הָיָה]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְהָיֻ֣ה</big></span>**
 

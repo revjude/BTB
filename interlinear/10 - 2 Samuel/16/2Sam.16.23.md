@@ -28,8 +28,8 @@ Now in those days the advice of Ahithophel was like the consultation of the word
 | to Absalom  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0053\|אַבְשָׁלֹֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'av.sha.Lom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.22|<< 2 Samuel 16:22]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.1|2 Samuel 17:1 >>]]</td></tr></table>
 
-[^1]: ==K==: he enquires  | **<big>[[H7592|יִשְׁאַל]]</big> ** | yish.'al-Ish<small><sup>[[HVqi3ms]]</sup></small> 
-[^2]: ==K==: he enquires  | **<big>[[H7592|יִשְׁאַל]]</big> ** | yish.'al-Ish<small><sup>[[HVqi3ms]]</sup></small> 
-[^3]: ==K==: he enquires  | **<big>[[H7592|יִשְׁאַל]]</big> ** | yish.'al-Ish<small><sup>[[HVqi3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>יִשְׁאַלִ֖\־</big></span>**
+[^1]: he enquires  | **<big>[[H7592|יִשְׁאַל]]</big> ** | yish.'al-Ish<small><sup>[[HVqi3ms]]</sup></small> | K
+[^2]: he enquires  | **<big>[[H7592|יִשְׁאַל]]</big> ** | yish.'al-Ish<small><sup>[[HVqi3ms]]</sup></small> | K
+[^3]: he enquires  | **<big>[[H7592|יִשְׁאַל]]</big> ** | yish.'al-Ish<small><sup>[[HVqi3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>יִשְׁאַלִ֖\־</big></span>**
 

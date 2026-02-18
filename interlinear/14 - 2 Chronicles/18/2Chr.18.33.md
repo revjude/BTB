@@ -31,7 +31,7 @@ However, a certain man drew his bow without taking special aim, and he struck th
 | I have been wounded  |**<big>&#8207;[[H2470H\|הָחֳלֵֽיתִי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ho.cho.Lei.ti<small><sup>[[HVHp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.32|<< 2 Chronicles 18:32]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.34|2 Chronicles 18:34 >>]]</td></tr></table>
 
-[^1]: ==K==: hands your  | **<big>[[H9021|ךָ]]</big><big>[[H3027I|יָדֶי]]</big> ** | ya.dei.<small><sup>[[HNcbdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^2]: ==K==: hands your  | **<big>[[H9021|ךָ]]</big><big>[[H3027I|יָדֶי]]</big> ** | ya.dei.<small><sup>[[HNcbdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>יָדְיךָ֛</big></span>**
+[^1]: hands your  | **<big>[[H9021|ךָ]]</big><big>[[H3027I|יָדֶי]]</big> ** | ya.dei.<small><sup>[[HNcbdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: hands your  | **<big>[[H9021|ךָ]]</big><big>[[H3027I|יָדֶי]]</big> ** | ya.dei.<small><sup>[[HNcbdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>יָדְיךָ֛</big></span>**
 

@@ -45,8 +45,8 @@ The remaining area on both sides of the holy portion and of the property of the 
 | in [the] middle of it  [^3]|**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8432\|תוֹכֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^4] | be.<small><sup>[[HR]]</sup></small> to.kh<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.20|<< Ezekiel 48:20]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.22|Ezekiel 48:22 >>]]</td></tr></table>
 
-[^1]: ==K==: in [the] middle of it  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H8432|תוֹכֹ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> to.kho<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: in [the] middle of it  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H8432|תוֹכֹ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> to.kho<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: in [the] middle of it  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H8432|תוֹכֹ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> to.kho<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>בְּתוֹכֹֽ/ה\׃</big></span>**
+[^1]: in [the] middle of it  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H8432|תוֹכֹ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> to.kho<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: in [the] middle of it  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H8432|תוֹכֹ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> to.kho<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: in [the] middle of it  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H8432|תוֹכֹ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> to.kho<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>בְּתוֹכֹֽ/ה\׃</big></span>**
 

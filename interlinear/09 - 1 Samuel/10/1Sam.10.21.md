@@ -29,8 +29,8 @@ Then he had the tribe of Benjamin come forward by its clans, and the clan of Mat
 | he was found  |**<big>&#8207;[[H4672\|נִמְצָֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| nim.Tza'<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.10.20|<< 1 Samuel 10:20]]</td><td align="center" style="border:none;">[[1Sam.10|1 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.10.22|1 Samuel 10:22 >>]]</td></tr></table>
 
-[^1]: ==K==: to family its  | **<big>[[H9023|וֹ]]</big><big>[[H4940|מִשְׁפַּחְתּ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> mish.pe.cho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: to family its  | **<big>[[H9023|וֹ]]</big><big>[[H4940|מִשְׁפַּחְתּ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> mish.pe.cho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: to family its  | **<big>[[H9023|וֹ]]</big><big>[[H4940|מִשְׁפַּחְתּ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> mish.pe.cho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>לְמִשְׁפְּחֹתָ֔/ו</big></span>**
+[^1]: to family its  | **<big>[[H9023|וֹ]]</big><big>[[H4940|מִשְׁפַּחְתּ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> mish.pe.cho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: to family its  | **<big>[[H9023|וֹ]]</big><big>[[H4940|מִשְׁפַּחְתּ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> mish.pe.cho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: to family its  | **<big>[[H9023|וֹ]]</big><big>[[H4940|מִשְׁפַּחְתּ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> mish.pe.cho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>לְמִשְׁפְּחֹתָ֔/ו</big></span>**
 

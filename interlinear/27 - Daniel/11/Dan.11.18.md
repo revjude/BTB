@@ -23,7 +23,7 @@ Then he will turn his face to the coastlands and capture many of them. But a com
 | to him  |**<big>&#8207;[[H9005\|לֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.17|<< Daniel 11:17]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.19|Daniel 11:19 >>]]</td></tr></table>
 
-[^1]: ==K==: and he will turn  | **<big>[[H7725L|יָשֵׁב]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ya.shev<small><sup>[[HVhj3ms]]</sup></small> 
-[^2]: ==K==: and he will turn  | **<big>[[H7725L|יָשֵׁב]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ya.shev<small><sup>[[HVhj3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְיָשֵׁ֧ב\׀</big></span>**
+[^1]: and he will turn  | **<big>[[H7725L|יָשֵׁב]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ya.shev<small><sup>[[HVhj3ms]]</sup></small> | K
+[^2]: and he will turn  | **<big>[[H7725L|יָשֵׁב]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ya.shev<small><sup>[[HVhj3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְיָשֵׁ֧ב\׀</big></span>**
 

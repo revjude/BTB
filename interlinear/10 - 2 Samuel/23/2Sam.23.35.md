@@ -14,6 +14,6 @@ Hezro the Carmelite, Paarai the Arbite,
 | the Arbite  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0701\|אַרְבִּֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'ar.Bi<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.34|<< 2 Samuel 23:34]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.36|2 Samuel 23:36 >>]]</td></tr></table>
 
-[^1]: ==K==: Hezro  | **<big>[[H2695|חֶצְרוֹ]]</big> ** | chetz.ro<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>חֶצְרַו֙</big></span>**
+[^1]: Hezro  | **<big>[[H2695|חֶצְרוֹ]]</big> ** | chetz.ro<small><sup>[[HNpm]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>חֶצְרַו֙</big></span>**
 

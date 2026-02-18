@@ -22,6 +22,6 @@ And some of your descendants, your own flesh and blood, will be taken away to be
 | Babylon  |**<big>&#8207;[[H0894\|בָּבֶֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.20.17|<< 2 Kings 20:17]]</td><td align="center" style="border:none;">[[2Kgs.20|2 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.20.19|2 Kings 20:19 >>]]</td></tr></table>
 
-[^1]: ==K==: someone will take away  | **<big>[[H3947G|יִקָּח]]</big> ** | yi.kach<small><sup>[[HVqi3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יִקָּ֑חֻ</big></span>**
+[^1]: someone will take away  | **<big>[[H3947G|יִקָּח]]</big> ** | yi.kach<small><sup>[[HVqi3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יִקָּ֑חֻ</big></span>**
 

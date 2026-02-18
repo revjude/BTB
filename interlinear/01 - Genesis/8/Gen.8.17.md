@@ -31,6 +31,6 @@ Bring out all the living creatures that are with you—birds, livestock, and eve
 | the earth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.16|<< Genesis 8:16]]</td><td align="center" style="border:none;">[[Gen.8|Genesis 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.8.18|Genesis 8:18 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>הַוְצֵ֣א</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>הוֹצֵא</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>הַוְצֵ֣א</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>הוֹצֵא</big></span>**
 

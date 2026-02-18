@@ -23,6 +23,6 @@ He made him ride on the heights of the land and fed him the produce of the field
 | rock  |**<big>&#8207;[[H6697H\|צֽוּר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Tzur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.12|<< Deuteronomy 32:12]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.14|Deuteronomy 32:14 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>בָּ֣מֳותֵי</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>בָּמוֹתֵי</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>בָּ֣מֳותֵי</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>בָּמוֹתֵי</big></span>**
 

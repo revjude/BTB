@@ -28,8 +28,8 @@ So Saul went to Naioth in Ramah. But the Spirit of God came upon even Saul, and 
 | in \<the> Ramah  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H7414J\|רָמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> ra.Mah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.19.22|<< 1 Samuel 19:22]]</td><td align="center" style="border:none;">[[1Sam.19|1 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19.24|1 Samuel 19:24 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>נָוֹ֖ית</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>נֹוִית</big></span>**
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בְּנָוֹ֥ית</big></span>**
-[^4]: ==K== spelled: **<span class="ashebrew"><big>בְּנֹוִית</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>נָוֹ֖ית</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>נֹוִית</big></span>**
+[^3]: L spelled: **<span class="ashebrew"><big>בְּנָוֹ֥ית</big></span>**
+[^4]: K spelled: **<span class="ashebrew"><big>בְּנֹוִית</big></span>**
 

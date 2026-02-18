@@ -33,7 +33,7 @@ But You, O LORD, know all their deadly plots against me. Do not wipe out their g
 | with \<the> them  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.22|<< Jeremiah 18:22]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.19.1|Jeremiah 19:1 >>]]</td></tr></table>
 
-[^1]: ==K==: and they will be  | **<big>[[H1961|הָיוּ]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yu<small><sup>[[HVqq3cp]]</sup></small> 
-[^2]: ==K==: and they will be  | **<big>[[H1961|הָיוּ]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yu<small><sup>[[HVqq3cp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְִהְי֤וּ</big></span>**
+[^1]: and they will be  | **<big>[[H1961|הָיוּ]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yu<small><sup>[[HVqq3cp]]</sup></small> | K
+[^2]: and they will be  | **<big>[[H1961|הָיוּ]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yu<small><sup>[[HVqq3cp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְִהְי֤וּ</big></span>**
 

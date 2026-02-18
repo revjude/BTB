@@ -19,5 +19,5 @@ Meanwhile all the men of Judah, with their wives and children and little ones, w
 | and children their  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.12|<< 2 Chronicles 20:12]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.14|2 Chronicles 20:14 >>]]</td></tr></table>
 
-[^1]: ==H== spelled: **<span class="ashebrew"><big>וְכֹ֨ל\־</big></span>**
+[^1]: H spelled: **<span class="ashebrew"><big>וְכֹ֨ל\־</big></span>**
 

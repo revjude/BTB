@@ -23,6 +23,6 @@ And they faithfully brought in the contributions, tithes, and dedicated gifts. C
 | [was] second in command  |**<big>&#8207;[[H4932H\|מִשְׁנֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mish.Neh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.31.11|<< 2 Chronicles 31:11]]</td><td align="center" style="border:none;">[[2Chr.31|2 Chronicles 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.31.13|2 Chronicles 31:13 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>כָּֽונַנְיָ֣הוּ</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>כּוֹנַנְיָהוּ</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>כָּֽונַנְיָ֣הוּ</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>כּוֹנַנְיָהוּ</big></span>**
 

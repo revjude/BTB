@@ -28,6 +28,6 @@ They have not said in their hearts, ‘Let us fear the LORD our God, who gives t
 | for \<the> us  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9035\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| La.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.23|<< Jeremiah 5:23]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.25|Jeremiah 5:25 >>]]</td></tr></table>
 
-[^1]: ==K==: and autumn rain  | **<big>[[H3138|יֹרֶה]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yo.reh<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>וֹירֶ֥ה</big></span>**
+[^1]: and autumn rain  | **<big>[[H3138|יֹרֶה]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yo.reh<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>וֹירֶ֥ה</big></span>**
 

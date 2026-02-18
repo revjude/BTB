@@ -15,6 +15,7 @@ All the words from different Greek editions, reflecting all the translations of 
 
 
 ###### Word Type Abbreviations and Editions
+**Word Type Abbreviations:**
 - **N / "Ancient"** = Greek in Nesté-Aland, translated by most Bibles.
 - **K / "Traditional"** = Greek of the KJV or "Textus Receptus" based on Scrivener 1894.
 - **O / "Others"** = any different Greek in major editions or used by translations.
@@ -22,7 +23,7 @@ All the words from different Greek editions, reflecting all the translations of 
 
 **Editions**:
 - **Byz** = Byzantine based on RP 2005;  
-- **NA27** = Nestle-Aland 27th ed; NA28 2012 \(not the same as ECM Acts - see eg Act.1.10 ἐσθῆτι in ECM\); 
+- **NA27** = Nestle-Aland 27th ed; NA28 2012 \(not the same as ECM Acts - see eg [[Acts.1.10]] <span class="asgreek">ἐσθῆτι</span> in ECM\); 
 - **TR** = Scrivener’s 1894; SBL= Holmes 2010; 
 - **Treg** = Tregelles 1879+Jongkind 2009; 
 - **WH** = Westcott+Hort 1881;

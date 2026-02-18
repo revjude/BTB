@@ -19,6 +19,6 @@ and when he taunted Israel, Jonathan the son of David’s brother Shimei killed 
 | David  |**<big>&#8207;[[H1732\|דָוִֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.20|<< 2 Samuel 21:20]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.22|2 Samuel 21:22 >>]]</td></tr></table>
 
-[^1]: ==K==: Shimei  | **<big>[[H8096Y|שִׁמְעִי]]</big> ** | shim.'i<small><sup>[[HNpm]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>שִׁמְעָ֖י</big></span>**
+[^1]: Shimei  | **<big>[[H8096Y|שִׁמְעִי]]</big> ** | shim.'i<small><sup>[[HNpm]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>שִׁמְעָ֖י</big></span>**
 

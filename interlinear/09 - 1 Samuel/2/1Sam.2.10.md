@@ -26,9 +26,9 @@ Those who oppose the LORD will be shattered. He will thunder from heaven against
 | anointed his  |**<big>&#8207;[[H4899\|מְשִׁיחֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| me.shi.Ch<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.9|<< 1 Samuel 2:9]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.11|1 Samuel 2:11 >>]]</td></tr></table>
 
-[^1]: ==K==: [the one who] contends against him  | **<big>[[H9033|וֹ]]</big><big>[[H7378|מְרִיב]]</big> ** | me.ri.vo<small><sup>[[HVhrmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: [the one who] contends against him  | **<big>[[H9033|וֹ]]</big><big>[[H7378|מְרִיב]]</big> ** | me.ri.vo<small><sup>[[HVhrmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>מְרִיבָ֗ו</big></span>**
-[^4]: ==L== spelled: **<span class="ashebrew"><big>עָלָו֙</big></span>**
-[^5]: ==K== spelled: **<span class="ashebrew"><big>עָלוֹ</big></span>**
+[^1]: [the one who] contends against him  | **<big>[[H9033|וֹ]]</big><big>[[H7378|מְרִיב]]</big> ** | me.ri.vo<small><sup>[[HVhrmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: [the one who] contends against him  | **<big>[[H9033|וֹ]]</big><big>[[H7378|מְרִיב]]</big> ** | me.ri.vo<small><sup>[[HVhrmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>מְרִיבָ֗ו</big></span>**
+[^4]: L spelled: **<span class="ashebrew"><big>עָלָו֙</big></span>**
+[^5]: K spelled: **<span class="ashebrew"><big>עָלוֹ</big></span>**
 

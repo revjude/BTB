@@ -23,6 +23,6 @@ Ephraim is struck down; their root is withered; they cannot bear fruit. Even if 
 | [masc] womb their  |**<big>&#8207;[[H0990H\|בִטְנָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| vit.Na<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.15|<< Hosea 9:15]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.17|Hosea 9:17 >>]]</td></tr></table>
 
-[^1]: ==K==: without  | **<big>[[H1097|בְלִי]]</big> ** | ve.li-<small><sup>[[HTn]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>בַֽלי\־</big></span>**
+[^1]: without  | **<big>[[H1097|בְלִי]]</big> ** | ve.li-<small><sup>[[HTn]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>בַֽלי\־</big></span>**
 

@@ -29,7 +29,7 @@ If I tell the righteous man that he will surely live, but he then trusts in his 
 | he will die  |**<big>&#8207;[[H4191\|יָמֽוּת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ya.Mut<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.12|<< Ezekiel 33:12]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.14|Ezekiel 33:14 >>]]</td></tr></table>
 
-[^1]: ==K==: righteousness his  | **<big>[[H9023|וֹ]]</big><big>[[H6666|צִדְקָת]]</big> ** | tzid.ka.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: righteousness his  | **<big>[[H9023|וֹ]]</big><big>[[H6666|צִדְקָת]]</big> ** | tzid.ka.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>צִדְקֹתָו֙</big></span>**
+[^1]: righteousness his  | **<big>[[H9023|וֹ]]</big><big>[[H6666|צִדְקָת]]</big> ** | tzid.ka.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: righteousness his  | **<big>[[H9023|וֹ]]</big><big>[[H6666|צִדְקָת]]</big> ** | tzid.ka.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>צִדְקֹתָו֙</big></span>**
 

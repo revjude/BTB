@@ -16,9 +16,9 @@ And she said unto her, All that thou sayest unto me I will do.
 | I will do  |**<big>&#8207;[[H6213A\|אֶֽעֱשֶֽׂה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'E.'e.Seh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.3.4|<< Ruth 3:4]]</td><td align="center" style="border:none;">[[Ruth.3|Ruth 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.3.6|Ruth 3:6 >>]]</td></tr></table>
 
-[^1]: ==K==: you are saying  | **<big>[[H0559|תֹּאמְרִ֥י]]</big> ** | tom.Ri<small><sup>[[HVqi2fs]]</sup></small> 
-[^2]: ==K==: you are saying  | **<big>[[H0559|תֹּאמְרִ֥י]]</big> ** | tom.Ri<small><sup>[[HVqi2fs]]</sup></small> 
-[^3]: ==K==: you are saying  | **<big>[[H0559|תֹּאמְרִ֥י]]</big> ** | tom.Ri<small><sup>[[HVqi2fs]]</sup></small> 
-[^4]: ==K==: you are saying  | **<big>[[H0559|תֹּאמְרִ֥י]]</big> ** | tom.Ri<small><sup>[[HVqi2fs]]</sup></small> 
-[^5]: ==L== spelled: **<span class="ashebrew"><big>תֹּאמְרִ֥יֵַ֖</big></span>**
+[^1]: you are saying  | **<big>[[H0559|תֹּאמְרִ֥י]]</big> ** | tom.Ri<small><sup>[[HVqi2fs]]</sup></small> | K
+[^2]: you are saying  | **<big>[[H0559|תֹּאמְרִ֥י]]</big> ** | tom.Ri<small><sup>[[HVqi2fs]]</sup></small> | K
+[^3]: you are saying  | **<big>[[H0559|תֹּאמְרִ֥י]]</big> ** | tom.Ri<small><sup>[[HVqi2fs]]</sup></small> | K
+[^4]: you are saying  | **<big>[[H0559|תֹּאמְרִ֥י]]</big> ** | tom.Ri<small><sup>[[HVqi2fs]]</sup></small> | K
+[^5]: L spelled: **<span class="ashebrew"><big>תֹּאמְרִ֥יֵַ֖</big></span>**
 

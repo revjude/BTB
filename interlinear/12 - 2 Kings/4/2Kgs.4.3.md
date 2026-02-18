@@ -24,6 +24,6 @@ Then he said, Go, borrow thee vessels abroad of all thy neighbours, [even] empty
 | you make few  |**<big>&#8207;[[H4591\|תַּמְעִֽיטִי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| tam.'I.ti<small><sup>[[HVhi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.2|<< 2 Kings 4:2]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.4|2 Kings 4:4 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>שְׁכֵנָ֑כִי</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>שִׁכְנָכֵי</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>שְׁכֵנָ֑כִי</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>שִׁכְנָכֵי</big></span>**
 

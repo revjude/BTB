@@ -25,6 +25,6 @@ And no blacksmith could be found in all the land of Israel, because the Philisti
 | a spear  |**<big>&#8207;[[H2595\|חֲנִֽית]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| cha.Nit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.18|<< 1 Samuel 13:18]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.20|1 Samuel 13:20 >>]]</td></tr></table>
 
-[^1]: ==K==: he said  | **<big>[[H0559|אָמַר]]</big> ** | 'a.mar<small><sup>[[HVqp3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אָמְרֻ֣</big></span>**
+[^1]: he said  | **<big>[[H0559|אָמַר]]</big> ** | 'a.mar<small><sup>[[HVqp3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אָמְרֻ֣</big></span>**
 

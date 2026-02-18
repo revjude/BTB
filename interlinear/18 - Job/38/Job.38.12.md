@@ -16,9 +16,9 @@ In your days, have you commanded the morning or assigned the dawn its place,
 | place its  |**<big>&#8207;[[H4725\|מְקֹמֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.ko.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.11|<< Job 38:11]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.13|Job 38:13 >>]]</td></tr></table>
 
-[^1]: ==K==: have you caused to know ?  | **<big>[[H9008|ה]]</big><big>[[H3045|יִדַּעְתָּ]]</big> ** | yi.da'.ta<small><sup>[[HTi]]</sup></small> h<small><sup>[[HVpp2ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יִדַּ֖עְתָּהַ</big></span>**
-[^3]: ==K==: dawn  | **<big>[[H7837|שַׁחַר]]</big> ** | sha.char<small><sup>[[HNcbsa]]</sup></small> 
-[^4]: ==K==: dawn  | **<big>[[H7837|שַׁחַר]]</big> ** | sha.char<small><sup>[[HNcbsa]]</sup></small> 
-[^5]: ==L== spelled: **<span class="ashebrew"><big>שַּׁ֣חַר</big></span>**
+[^1]: have you caused to know ?  | **<big>[[H9008|ה]]</big><big>[[H3045|יִדַּעְתָּ]]</big> ** | yi.da'.ta<small><sup>[[HTi]]</sup></small> h<small><sup>[[HVpp2ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יִדַּ֖עְתָּהַ</big></span>**
+[^3]: dawn  | **<big>[[H7837|שַׁחַר]]</big> ** | sha.char<small><sup>[[HNcbsa]]</sup></small> | K
+[^4]: dawn  | **<big>[[H7837|שַׁחַר]]</big> ** | sha.char<small><sup>[[HNcbsa]]</sup></small> | K
+[^5]: L spelled: **<span class="ashebrew"><big>שַּׁ֣חַר</big></span>**
 

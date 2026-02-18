@@ -26,7 +26,7 @@ Do not forsake your friend or your father’s friend, and do not go to your brot
 | far away  |**<big>&#8207;[[H7350\|רָחֽוֹק]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ra.Chok<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.9|<< Proverbs 27:9]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.11|Proverbs 27:11 >>]]</td></tr></table>
 
-[^1]: ==K==: and [the] friend of  | **<big>[[H7463|רֵעֶה]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> re.'eh<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==K==: and [the] friend of  | **<big>[[H7463|רֵעֶה]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> re.'eh<small><sup>[[HNcbsc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>וְרֵ֪עַה</big></span>**
+[^1]: and [the] friend of  | **<big>[[H7463|רֵעֶה]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> re.'eh<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: and [the] friend of  | **<big>[[H7463|רֵעֶה]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> re.'eh<small><sup>[[HNcbsc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>וְרֵ֪עַה</big></span>**
 

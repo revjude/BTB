@@ -32,7 +32,7 @@ So the Jewish elders built and prospered through the prophesying of Haggai the p
 | Persia  |**<big>&#8207;[[H6540\|פָּרָֽס]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| pa.Ras<small><sup>[[ANpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.13|<< Ezra 6:13]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.15|Ezra 6:15 >>]]</td></tr></table>
 
-[^1]: ==K==: prophet the  | **<big>[[H9024|ה]]</big><big>[[H5029|נְבִיאָ]]</big> ** | ne.vi.'a<small><sup>[[ANcbsd]]</sup></small> h<small><sup>[[ATa]]</sup></small> 
-[^2]: ==K==: prophet the  | **<big>[[H9024|ה]]</big><big>[[H5029|נְבִיאָ]]</big> ** | ne.vi.'a<small><sup>[[ANcbsd]]</sup></small> h<small><sup>[[ATa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="asaramaic"><big>נְבִיָּ֔אה</big></span>**
+[^1]: prophet the  | **<big>[[H9024|ה]]</big><big>[[H5029|נְבִיאָ]]</big> ** | ne.vi.'a<small><sup>[[ANcbsd]]</sup></small> h<small><sup>[[ATa]]</sup></small> | K
+[^2]: prophet the  | **<big>[[H9024|ה]]</big><big>[[H5029|נְבִיאָ]]</big> ** | ne.vi.'a<small><sup>[[ANcbsd]]</sup></small> h<small><sup>[[ATa]]</sup></small> | K
+[^3]: L spelled: **<span class="asaramaic"><big>נְבִיָּ֔אה</big></span>**
 

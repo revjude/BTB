@@ -20,6 +20,6 @@ Mizraim was the father of the Ludites, the Anamites, the Lehabites, the Naphtuhi
 | [the] Naphtuhites  |**<big>&#8207;[[H5320\|נַפְתֻּחִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| naf.tu.Chim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.10|<< 1 Chronicles 1:10]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.12|1 Chronicles 1:12 >>]]</td></tr></table>
 
-[^1]: ==K==: [the] Ludiites  | **<big>[[H3866G|לוּדִיִּים]]</big> ** | lu.di.yim<small><sup>[[HNpl]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>לוּדִ֧יים</big></span>**
+[^1]: [the] Ludiites  | **<big>[[H3866G|לוּדִיִּים]]</big> ** | lu.di.yim<small><sup>[[HNpl]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>לוּדִ֧יים</big></span>**
 

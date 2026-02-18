@@ -27,7 +27,7 @@ If a man grazes his livestock in a field or vineyard and allows them to stray so
 | he will make compensation  |**<big>&#8207;[[H7999A\|יְשַׁלֵּֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.sha.Lem<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.4|<< Exodus 22:4]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.6|Exodus 22:6 >>]]</td></tr></table>
 
-[^1]: ==K==: cattle his  | **<big>[[H9023|ה]]</big><big>[[H1165|בְּעִירֹ]]</big> ** | be.'i.ra<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: cattle his  | **<big>[[H9023|ה]]</big><big>[[H1165|בְּעִירֹ]]</big> ** | be.'i.ra<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בְּעִירֹ֔ה</big></span>**
+[^1]: cattle his  | **<big>[[H9023|ה]]</big><big>[[H1165|בְּעִירֹ]]</big> ** | be.'i.ra<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: cattle his  | **<big>[[H9023|ה]]</big><big>[[H1165|בְּעִירֹ]]</big> ** | be.'i.ra<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בְּעִירֹ֔ה</big></span>**
 

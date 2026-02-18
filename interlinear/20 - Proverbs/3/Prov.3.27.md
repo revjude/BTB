@@ -18,7 +18,7 @@ Do not withhold good from the deserving when it is within your power to act.
 | to do [it]  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6213A\|עֲשֽׂוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.Sot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.26|<< Proverbs 3:26]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.28|Proverbs 3:28 >>]]</td></tr></table>
 
-[^1]: ==K==: hands your  | **<big>[[H9021|ךָ]]</big><big>[[H3027H|יָדֶי]]</big> ** | ya.dei.<small><sup>[[HNcbdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^2]: ==K==: hands your  | **<big>[[H9021|ךָ]]</big><big>[[H3027H|יָדֶי]]</big> ** | ya.dei.<small><sup>[[HNcbdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>יָדְיךָ֣</big></span>**
+[^1]: hands your  | **<big>[[H9021|ךָ]]</big><big>[[H3027H|יָדֶי]]</big> ** | ya.dei.<small><sup>[[HNcbdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: hands your  | **<big>[[H9021|ךָ]]</big><big>[[H3027H|יָדֶי]]</big> ** | ya.dei.<small><sup>[[HNcbdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>יָדְיךָ֣</big></span>**
 

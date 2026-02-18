@@ -33,6 +33,6 @@ And the entire vision will be to you like the words sealed in a scroll. If it is
 | it  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.10|<< Isaiah 29:10]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.12|Isaiah 29:12 >>]]</td></tr></table>
 
-[^1]: ==K==: the scroll  | **<big>[[H5612H|סֵּפֶר]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> se.fer<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>הסֵ֛פֶר</big></span>**
+[^1]: the scroll  | **<big>[[H5612H|סֵּפֶר]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> se.fer<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>הסֵ֛פֶר</big></span>**
 

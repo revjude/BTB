@@ -24,5 +24,5 @@ Both hands are skilled at evil; the prince and the judge demand a bribe. When th
 | and they weave it  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5686\|יְעַבְּתֽוּ]]&#8207;&#8207;[[H9034\|הָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> y.'a.be.Tu.<small><sup>[[HVpw3mp]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.2|<< Micah 7:2]]</td><td align="center" style="border:none;">[[Mic.7|Micah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7.4|Micah 7:4 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>בַּשִּׁלּ֑וּם</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>בַּשִּׁלּ֑וּם</big></span>**
 

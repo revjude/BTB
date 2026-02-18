@@ -33,11 +33,11 @@ And now what have I here? declares the LORD. For My people have been taken witho
 | [is] reviled  |**<big>&#8207;[[H5006\|מִנֹּאָֽץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.no.'Atz<small><sup>[[HVtrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.52.4|<< Isaiah 52:4]]</td><td align="center" style="border:none;">[[Isa.52|Isaiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.52.6|Isaiah 52:6 >>]]</td></tr></table>
 
-[^1]: ==K==: who?  | **<big>[[H9014|־]]</big><big>[[H4310|מִי]]</big> ** | mi-<small><sup>[[HPi]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>מַי\־</big></span>**
-[^3]: ==L== spelled: **<span class="ashebrew"><big>לִּי\־</big></span>**
-[^4]: ==K== spelled: **<span class="ashebrew"><big>לִי</big></span>**
-[^5]: ==K==: ruler its  | **<big>[[H9033|וֹ]]</big><big>[[H4910|מֹשְׁל]]</big> ** | mo.she.lo<small><sup>[[HVqrmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^6]: ==K==: ruler its  | **<big>[[H9033|וֹ]]</big><big>[[H4910|מֹשְׁל]]</big> ** | mo.she.lo<small><sup>[[HVqrmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^7]: ==L== spelled: **<span class="ashebrew"><big>מֹשְׁלוֹ</big></span>**
+[^1]: who?  | **<big>[[H9014|־]]</big><big>[[H4310|מִי]]</big> ** | mi-<small><sup>[[HPi]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>מַי\־</big></span>**
+[^3]: L spelled: **<span class="ashebrew"><big>לִּי\־</big></span>**
+[^4]: K spelled: **<span class="ashebrew"><big>לִי</big></span>**
+[^5]: ruler its  | **<big>[[H9033|וֹ]]</big><big>[[H4910|מֹשְׁל]]</big> ** | mo.she.lo<small><sup>[[HVqrmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^6]: ruler its  | **<big>[[H9033|וֹ]]</big><big>[[H4910|מֹשְׁל]]</big> ** | mo.she.lo<small><sup>[[HVqrmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^7]: L spelled: **<span class="ashebrew"><big>מֹשְׁלוֹ</big></span>**
 

@@ -33,7 +33,7 @@ The LORD has paid you back for all the blood of the house of Saul, in whose plac
 | you  |**<big>&#8207;[[H0859A\|אָֽתָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'A.tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.7|<< 2 Samuel 16:7]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.9|2 Samuel 16:9 >>]]</td></tr></table>
 
-[^1]: ==K==: in place of him  | **<big>[[H9033|וֹ]]</big><big>[[H8478H|תַּחְתּ]]</big> ** | tach.t<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: in place of him  | **<big>[[H9033|וֹ]]</big><big>[[H8478H|תַּחְתּ]]</big> ** | tach.t<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>תַּחְתָּ֔ו</big></span>**
+[^1]: in place of him  | **<big>[[H9033|וֹ]]</big><big>[[H8478H|תַּחְתּ]]</big> ** | tach.t<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: in place of him  | **<big>[[H9033|וֹ]]</big><big>[[H8478H|תַּחְתּ]]</big> ** | tach.t<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>תַּחְתָּ֔ו</big></span>**
 

@@ -20,6 +20,6 @@ And when Saul learned that David had fled to Gath, he no longer searched for him
 | to seek him  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1245\|בַקְשֽׁ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> vak.Sh<small><sup>[[HVpcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.27.3|<< 1 Samuel 27:3]]</td><td align="center" style="border:none;">[[1Sam.27|1 Samuel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.27.5|1 Samuel 27:5 >>]]</td></tr></table>
 
-[^1]: ==K==: repeating  | **<big>[[H3254G|יוֹסַף]]</big> ** | yo.saf<small><sup>[[HVqrmsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יָוסַ֥ף</big></span>**
+[^1]: repeating  | **<big>[[H3254G|יוֹסַף]]</big> ** | yo.saf<small><sup>[[HVqrmsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יָוסַ֥ף</big></span>**
 

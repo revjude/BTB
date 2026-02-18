@@ -26,5 +26,5 @@ The LORD will establish you as His holy people, just as He has sworn to you, if 
 | in ways his  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H1870G\|דְרָכָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> d.ra.Kha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.8|<< Deuteronomy 28:8]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.10|Deuteronomy 28:10 >>]]</td></tr></table>
 
-[^1]: ==AH== spelled: **<span class="ashebrew"><big>יְקִֽימְךָ֨</big></span>**
+[^1]: AH spelled: **<span class="ashebrew"><big>יְקִֽימְךָ֨</big></span>**
 

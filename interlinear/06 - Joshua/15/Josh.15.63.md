@@ -28,6 +28,6 @@ But the descendants of Judah could not drive out the Jebusites living in Jerusal
 | \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.62|<< Joshua 15:62]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.16.1|Joshua 16:1 >>]]</td></tr></table>
 
-[^1]: ==K==: they are able  | **<big>[[H3201|יוּכְלוּ]]</big> ** | yu.khe.lu<small><sup>[[HVqi3mp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יָוכְל֥וּ</big></span>**
+[^1]: they are able  | **<big>[[H3201|יוּכְלוּ]]</big> ** | yu.khe.lu<small><sup>[[HVqi3mp]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יָוכְל֥וּ</big></span>**
 

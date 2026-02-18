@@ -26,6 +26,6 @@ Nevertheless, they did not turn away from the sins that the house of Jeroboam ha
 | in Samaria  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8111\|שֹׁמְרֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> sho.me.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.13.5|<< 2 Kings 13:5]]</td><td align="center" style="border:none;">[[2Kgs.13|2 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.13.7|2 Kings 13:7 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>הֶחֱטִ֥י</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>הֶחֱטִי</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>הֶחֱטִ֥י</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>הֶחֱטִי</big></span>**
 

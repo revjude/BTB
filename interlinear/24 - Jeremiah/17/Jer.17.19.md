@@ -30,7 +30,7 @@ This is what the LORD said to me: “Go and stand at the gate of the people, thr
 | Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.18|<< Jeremiah 17:18]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.20|Jeremiah 17:20 >>]]</td></tr></table>
 
-[^1]: ==K==: a people  | **<big>[[H5971H|עָם]]</big> ** | am<small><sup>[[HNcbsa]]</sup></small> 
-[^2]: ==K==: a people  | **<big>[[H5971H|עָם]]</big> ** | am<small><sup>[[HNcbsa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>ָעָ֔ם</big></span>**
+[^1]: a people  | **<big>[[H5971H|עָם]]</big> ** | am<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: a people  | **<big>[[H5971H|עָם]]</big> ** | am<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>ָעָ֔ם</big></span>**
 

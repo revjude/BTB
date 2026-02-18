@@ -16,5 +16,5 @@ Let them give thanks to the LORD for His loving devotion and His wonders to the 
 | humankind  |**<big>&#8207;[[H0120G\|אָדָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^1] | 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad Aleppo BenChayim (biblia)">LAH(b)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.20|<< Psalms 107:20]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.22|Psalms 107:22 >>]]</td></tr></table>
 
-[^1]: ==B== spelled: **<span class="ashebrew"><big>אָדָֽם\׃\ \׆</big></span>**
+[^1]: B spelled: **<span class="ashebrew"><big>אָדָֽם\׃\ \׆</big></span>**
 

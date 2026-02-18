@@ -42,11 +42,11 @@ He was driven away from mankind, and his mind was like that of a beast. He lived
 | over it  [^6]|**<big>&#8207;[[H5922\|עֲלַֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^7] | a.la.ye<small><sup>[[AR]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.20|<< Daniel 5:20]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.22|Daniel 5:22 >>]]</td></tr></table>
 
-[^1]: ==K==: it was made  | **<big>[[H7739A|שְׁוִי]]</big> ** | she.vi<small><sup>[[AVQp3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="asaramaic"><big>שַׁוִּ֗יְ</big></span>**
-[^3]: ==L== spelled: **<span class="asaramaic"><big>עִלָּיאָ֙</big></span>**
-[^4]: ==K== spelled: **<span class="asaramaic"><big>עִלָּיָא</big></span>**
-[^5]: ==K==: over it  | **<big>[[H9016|׃]]</big><big>[[H9034|הּ]]</big><big>[[H5922|עֲלַיֵ]]</big> ** | a.la.ye<small><sup>[[AR]]</sup></small> h<small><sup>[[ASp3ms]]</sup></small> 
-[^6]: ==K==: over it  | **<big>[[H9016|׃]]</big><big>[[H9034|הּ]]</big><big>[[H5922|עֲלַיֵ]]</big> ** | a.la.ye<small><sup>[[AR]]</sup></small> h<small><sup>[[ASp3ms]]</sup></small> 
-[^7]: ==L== spelled: **<span class="asaramaic"><big>עֲלַֽיהּ\׃</big></span>**
+[^1]: it was made  | **<big>[[H7739A|שְׁוִי]]</big> ** | she.vi<small><sup>[[AVQp3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="asaramaic"><big>שַׁוִּ֗יְ</big></span>**
+[^3]: L spelled: **<span class="asaramaic"><big>עִלָּיאָ֙</big></span>**
+[^4]: K spelled: **<span class="asaramaic"><big>עִלָּיָא</big></span>**
+[^5]: over it  | **<big>[[H9016|׃]]</big><big>[[H9034|הּ]]</big><big>[[H5922|עֲלַיֵ]]</big> ** | a.la.ye<small><sup>[[AR]]</sup></small> h<small><sup>[[ASp3ms]]</sup></small> | K
+[^6]: over it  | **<big>[[H9016|׃]]</big><big>[[H9034|הּ]]</big><big>[[H5922|עֲלַיֵ]]</big> ** | a.la.ye<small><sup>[[AR]]</sup></small> h<small><sup>[[ASp3ms]]</sup></small> | K
+[^7]: L spelled: **<span class="asaramaic"><big>עֲלַֽיהּ\׃</big></span>**
 

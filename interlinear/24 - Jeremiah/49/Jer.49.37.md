@@ -33,5 +33,5 @@ So I will shatter Elam before their foes, before those who seek their lives. I w
 | \<obj.> them  |**<big>&#8207;[[H0853\|אוֹתָֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.36|<< Jeremiah 49:36]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.38|Jeremiah 49:38 >>]]</td></tr></table>
 
-[^1]: ==H== spelled: **<span class="ashebrew"><big>לפְנֵ֨י</big></span>**
+[^1]: H spelled: **<span class="ashebrew"><big>לפְנֵ֨י</big></span>**
 

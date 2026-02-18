@@ -26,7 +26,7 @@ The LORD is righteous, yet I rebelled against His command. Listen, all you peopl
 | in \<the> captivity  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H7628A\|שֶּֽׁבִי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> She.vi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.17|<< Lamentations 1:17]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.19|Lamentations 1:19 >>]]</td></tr></table>
 
-[^1]: ==K==: peoples  | **<big>[[H5971A|עַמִּים]]</big> ** | a.mim<small><sup>[[HNcmpa]]</sup></small> 
-[^2]: ==K==: peoples  | **<big>[[H5971A|עַמִּים]]</big> ** | a.mim<small><sup>[[HNcmpa]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>ָֽעַמִּ֗ים</big></span>**
+[^1]: peoples  | **<big>[[H5971A|עַמִּים]]</big> ** | a.mim<small><sup>[[HNcmpa]]</sup></small> | K
+[^2]: peoples  | **<big>[[H5971A|עַמִּים]]</big> ** | a.mim<small><sup>[[HNcmpa]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>ָֽעַמִּ֗ים</big></span>**
 

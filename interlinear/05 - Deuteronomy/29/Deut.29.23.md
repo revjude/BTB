@@ -34,6 +34,6 @@ All its soil will be a burning waste of sulfur and salt, unsown and unproductive
 | and in rage his  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H2534\|חֲמָתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HR]]</sup></small> cha.ma.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.22|<< Deuteronomy 29:22]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.24|Deuteronomy 29:24 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וּצְבֹייִ֔ם</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וּצְבֹיִּים</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וּצְבֹייִ֔ם</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וּצְבֹיִּים</big></span>**
 

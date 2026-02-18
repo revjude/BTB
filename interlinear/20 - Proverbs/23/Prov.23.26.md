@@ -17,6 +17,6 @@ My son, give me your heart, and let your eyes delight in my ways.
 | let them observe  [^1]|**<big>&#8207;[[H5341\|תִּצֹּֽרְנָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^2] | tir.tze.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.25|<< Proverbs 23:25]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.27|Proverbs 23:27 >>]]</td></tr></table>
 
-[^1]: ==K==: let them delight in  | **<big>[[H9016|׃]]</big><big>[[H7521|תִּרְצֶנָה]]</big> ** | tir.tze.nah<small><sup>[[HVqi3fp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>תִּרֹֽצְנָה\׃</big></span>**
+[^1]: let them delight in  | **<big>[[H9016|׃]]</big><big>[[H7521|תִּרְצֶנָה]]</big> ** | tir.tze.nah<small><sup>[[HVqi3fp]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>תִּרֹֽצְנָה\׃</big></span>**
 

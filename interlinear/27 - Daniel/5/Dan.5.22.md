@@ -22,6 +22,6 @@ But you his son, O Belshazzar, have not humbled your heart, even though you knew
 | you knew  |**<big>&#8207;[[H3046\|יְדַֽעְתָּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.Da'.ta<small><sup>[[AVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.21|<< Daniel 5:21]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.23|Daniel 5:23 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>וְאַ֤נְתְּה</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>וְאַנְתָּה</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>וְאַ֤נְתְּה</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>וְאַנְתָּה</big></span>**
 

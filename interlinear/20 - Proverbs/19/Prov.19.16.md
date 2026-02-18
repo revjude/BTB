@@ -17,6 +17,6 @@ He who keeps a commandment preserves his soul, but he who is careless in his way
 | he will die  [^1]|**<big>&#8207;[[H4191\|יָמֽוּת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^2] | yu.mat<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.15|<< Proverbs 19:15]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.17|Proverbs 19:17 >>]]</td></tr></table>
 
-[^1]: ==K==: he will be put to death  | **<big>[[H9016|׃]]</big><big>[[H4191|יוּמָת]]</big> ** | yu.mat<small><sup>[[HVHi3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יָומֻֽת\׃</big></span>**
+[^1]: he will be put to death  | **<big>[[H9016|׃]]</big><big>[[H4191|יוּמָת]]</big> ** | yu.mat<small><sup>[[HVHi3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יָומֻֽת\׃</big></span>**
 

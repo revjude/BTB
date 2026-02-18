@@ -43,6 +43,6 @@ When the people of the land come before the LORD at the appointed feasts, whoeve
 | he will go out  [^1]|**<big>&#8207;[[H3318G\|יֵצֵֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^2] | ye.tze.'u'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.8|<< Ezekiel 46:8]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.10|Ezekiel 46:10 >>]]</td></tr></table>
 
-[^1]: ==K==: they will go out  | **<big>[[H9016|׃]]</big><big>[[H3318G|יֵצְאוּ]]</big> ** | ye.tze.'u<small><sup>[[HVqi3mp]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יֵצֵֽאו\׃</big></span>**
+[^1]: they will go out  | **<big>[[H9016|׃]]</big><big>[[H3318G|יֵצְאוּ]]</big> ** | ye.tze.'u<small><sup>[[HVqi3mp]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יֵצֵֽאו\׃</big></span>**
 

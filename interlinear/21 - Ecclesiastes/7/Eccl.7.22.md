@@ -21,6 +21,6 @@ For you know in your heart that many times you yourself have cursed others.
 | others  |**<big>&#8207;[[H0312\|אֲחֵרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.21|<< Ecclesiastes 7:21]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.23|Ecclesiastes 7:23 >>]]</td></tr></table>
 
-[^1]: ==K==: you  | **<big>[[H0859C|אַתְּ]]</big> ** | 'at<small><sup>[[HPp2fs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אַתָּ֖</big></span>**
+[^1]: you  | **<big>[[H0859C|אַתְּ]]</big> ** | 'at<small><sup>[[HPp2fs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אַתָּ֖</big></span>**
 

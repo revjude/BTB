@@ -29,6 +29,6 @@ Son of man, write thee the name of the day, [even] of this same day: the king of
 | \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.1|<< Ezekiel 24:1]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.3|Ezekiel 24:3 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>כְּתָוב\־</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>כְּתוֹב</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>כְּתָוב\־</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>כְּתוֹב</big></span>**
 

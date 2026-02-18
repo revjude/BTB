@@ -20,8 +20,8 @@ And the whole assembly responded in a loud voice: “Truly we must do as you say
 | to do  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6213A\|עֲשֽׂוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.Sot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.11|<< Ezra 10:11]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.13|Ezra 10:13 >>]]</td></tr></table>
 
-[^1]: ==K==: according to words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דִבְרֶי]]</big><big>[[H9004|כְּ]]</big> ** | ke.<small><sup>[[HR]]</sup></small> div.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^2]: ==K==: according to words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דִבְרֶי]]</big><big>[[H9004|כְּ]]</big> ** | ke.<small><sup>[[HR]]</sup></small> div.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^3]: ==K==: according to words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דִבְרֶי]]</big><big>[[H9004|כְּ]]</big> ** | ke.<small><sup>[[HR]]</sup></small> div.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>כִּדְבָרְי/ךָ֥</big></span>**
+[^1]: according to words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דִבְרֶי]]</big><big>[[H9004|כְּ]]</big> ** | ke.<small><sup>[[HR]]</sup></small> div.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: according to words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דִבְרֶי]]</big><big>[[H9004|כְּ]]</big> ** | ke.<small><sup>[[HR]]</sup></small> div.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^3]: according to words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דִבְרֶי]]</big><big>[[H9004|כְּ]]</big> ** | ke.<small><sup>[[HR]]</sup></small> div.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>כִּדְבָרְי/ךָ֥</big></span>**
 

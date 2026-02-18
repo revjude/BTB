@@ -27,7 +27,7 @@ that you will spare the lives of my father and mother, my brothers and sisters, 
 | from death  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4194\|מָּֽוֶת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ma.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.12|<< Joshua 2:12]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.14|Joshua 2:14 >>]]</td></tr></table>
 
-[^1]: ==K==: sister my  | **<big>[[H9020|י]]</big><big>[[H0269|אַחוֹתַ]]</big> ** | 'a.cho.ta<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> 
-[^2]: ==K==: sister my  | **<big>[[H9020|י]]</big><big>[[H0269|אַחוֹתַ]]</big> ** | 'a.cho.ta<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>אַחְוֹתַ֔י</big></span>**
+[^1]: sister my  | **<big>[[H9020|י]]</big><big>[[H0269|אַחוֹתַ]]</big> ** | 'a.cho.ta<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^2]: sister my  | **<big>[[H9020|י]]</big><big>[[H0269|אַחוֹתַ]]</big> ** | 'a.cho.ta<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>אַחְוֹתַ֔י</big></span>**
 

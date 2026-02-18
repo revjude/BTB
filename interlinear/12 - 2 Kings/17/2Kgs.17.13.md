@@ -38,6 +38,6 @@ Yet through all His prophets and seers, the LORD warned Israel and Judah, saying
 | the prophets  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5030\|נְּבִיאִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ne.vi.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.12|<< 2 Kings 17:12]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.14|2 Kings 17:14 >>]]</td></tr></table>
 
-[^1]: ==K==: prophet his  | **<big>[[H9023|וֹ]]</big><big>[[H5030|נְבִיא]]</big> ** | ne.vi.'o<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>נְבִיאֵ֨ו</big></span>**
+[^1]: prophet his  | **<big>[[H9023|וֹ]]</big><big>[[H5030|נְבִיא]]</big> ** | ne.vi.'o<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>נְבִיאֵ֨ו</big></span>**
 

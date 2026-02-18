@@ -35,6 +35,6 @@ Each pillar was eighteen cubits tall. The bronze capital atop one pillar was thr
 | the network  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7639\|שְּׂבָכָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> se.va.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.16|<< 2 Kings 25:16]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.18|2 Kings 25:18 >>]]</td></tr></table>
 
-[^1]: ==K==: cubit[s]  | **<big>[[H0520A|אַמָּה]]</big> ** | 'a.mah<small><sup>[[HNcfsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אַמֹּה֒</big></span>**
+[^1]: cubit[s]  | **<big>[[H0520A|אַמָּה]]</big> ** | 'a.mah<small><sup>[[HNcfsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אַמֹּה֒</big></span>**
 

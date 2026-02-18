@@ -19,11 +19,11 @@ Observe the Sabbath day by keeping it holy, as the LORD your God has commanded y
 | God your  |**<big>&#8207;[[H0430G\|אֱלֹהֶֽ֗י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^7] | 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.11|<< Deuteronomy 5:11]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.13|Deuteronomy 5:13 >>]]</td></tr></table>
 
-[^1]: ==P== spelled: **<span class="ashebrew"><big>שָׁמ֣וֹר</big></span>**
-[^2]: ==P== spelled: **<span class="ashebrew"><big>יוֹם֩</big></span>**
-[^3]: ==P== spelled: **<span class="ashebrew"><big>הַשַׁבָּ֨ת</big></span>**
-[^4]: ==P== spelled: **<span class="ashebrew"><big>לְקַדְּשׁ֜/וֹ</big></span>**
-[^5]: ==P== spelled: **<span class="ashebrew"><big>צִוְּךָ֣\׀</big></span>**
-[^6]: ==P== spelled: **<span class="ashebrew"><big>יְהוָ֣ה</big></span>**
-[^7]: ==P== spelled: **<span class="ashebrew"><big>אֱלֹהֶ֗יךָ\׃</big></span>**
+[^1]: P spelled: **<span class="ashebrew"><big>שָׁמ֣וֹר</big></span>**
+[^2]: P spelled: **<span class="ashebrew"><big>יוֹם֩</big></span>**
+[^3]: P spelled: **<span class="ashebrew"><big>הַשַׁבָּ֨ת</big></span>**
+[^4]: P spelled: **<span class="ashebrew"><big>לְקַדְּשׁ֜/וֹ</big></span>**
+[^5]: P spelled: **<span class="ashebrew"><big>צִוְּךָ֣\׀</big></span>**
+[^6]: P spelled: **<span class="ashebrew"><big>יְהוָ֣ה</big></span>**
+[^7]: P spelled: **<span class="ashebrew"><big>אֱלֹהֶ֗יךָ\׃</big></span>**
 

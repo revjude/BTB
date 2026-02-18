@@ -21,5 +21,5 @@ and his associates—128 mighty men of valor. Zabdiel son of Haggedolim was thei
 | Haggedolim  [^1]|**<big>&#8207;[[H1419B\|הַגְּדוֹלִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.ge.do.Lim<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad (Formatting)">L(F)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.13|<< Nehemiah 11:13]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.15|Nehemiah 11:15 >>]]</td></tr></table>
 
-[^1]: ==F==: the great [ones]  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H1419A|גְּדוֹלִֽים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ge.do.Lim<small><sup>[[HAampa]]</sup></small> 
+[^1]: the great [ones]  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H1419A|גְּדוֹלִֽים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ge.do.Lim<small><sup>[[HAampa]]</sup></small> | F
 

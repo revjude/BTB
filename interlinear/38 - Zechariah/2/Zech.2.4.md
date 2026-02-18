@@ -25,6 +25,6 @@ and said to him, “Run and tell that young man: ‘Jerusalem will be a city wit
 | in [the] midst of it  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8432\|תוֹכָֽ]]&#8207;&#8207;[[H9024\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> to.Kha<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.2.3|<< Zechariah 2:3]]</td><td align="center" style="border:none;">[[Zech.2|Zechariah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.2.5|Zechariah 2:5 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>אֵלָ֔ו</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>אֵלוֹ</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>אֵלָ֔ו</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>אֵלוֹ</big></span>**
 

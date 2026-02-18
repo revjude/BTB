@@ -28,7 +28,7 @@ Then the man brought me through the entrance at the side of the gate into the ho
 | west -ward  |**<big>&#8207;[[H3220H\|יָֽמָּ]]&#8207;&#8207;[[H9011\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Ya.ma<small><sup>[[HNcmsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.18|<< Ezekiel 46:18]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.20|Ezekiel 46:20 >>]]</td></tr></table>
 
-[^1]: ==K==: in \<the> remotest part their  | **<big>[[H9028|ם]]</big><big>[[H3411|יַּרְכֹתִ]]</big><big>[[H9003|בַּ]]</big> ** | ba<small><sup>[[HR]]</sup></small> i.yar.kho.ti<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^2]: ==K==: in \<the> remotest part their  | **<big>[[H9028|ם]]</big><big>[[H3411|יַּרְכֹתִ]]</big><big>[[H9003|בַּ]]</big> ** | ba<small><sup>[[HR]]</sup></small> i.yar.kho.ti<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בַּיַּרְכָתִַ֖/ם</big></span>**
+[^1]: in \<the> remotest part their  | **<big>[[H9028|ם]]</big><big>[[H3411|יַּרְכֹתִ]]</big><big>[[H9003|בַּ]]</big> ** | ba<small><sup>[[HR]]</sup></small> i.yar.kho.ti<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^2]: in \<the> remotest part their  | **<big>[[H9028|ם]]</big><big>[[H3411|יַּרְכֹתִ]]</big><big>[[H9003|בַּ]]</big> ** | ba<small><sup>[[HR]]</sup></small> i.yar.kho.ti<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בַּיַּרְכָתִַ֖/ם</big></span>**
 

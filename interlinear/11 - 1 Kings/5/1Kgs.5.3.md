@@ -34,7 +34,7 @@ Thou knowest how that David my father could not build an house unto the name of 
 | feet my  [^2]|**<big>&#8207;[[H7272\|רַגְלָֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | rag.l<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.5.2|<< 1 Kings 5:2]]</td><td align="center" style="border:none;">[[1Kgs.5|1 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.5.4|1 Kings 5:4 >>]]</td></tr></table>
 
-[^1]: ==K==: foot his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H7272|רַגְל]]</big> ** | rag.lo<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: foot his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H7272|רַגְל]]</big> ** | rag.lo<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>רַגְלָֽו\׃</big></span>**
+[^1]: foot his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H7272|רַגְל]]</big> ** | rag.lo<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: foot his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H7272|רַגְל]]</big> ** | rag.lo<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>רַגְלָֽו\׃</big></span>**
 

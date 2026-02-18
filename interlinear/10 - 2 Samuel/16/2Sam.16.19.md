@@ -24,5 +24,5 @@ Furthermore, whom should I serve if not his son? As I served in your father’s 
 | \<to> before you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6440L\|פָנֶֽי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**[^1] | li.<small><sup>[[HR]]</sup></small> fa.Nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad Allepo Biblia (benchayim)">LAB(h)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.18|<< 2 Samuel 16:18]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.20|2 Samuel 16:20 >>]]</td></tr></table>
 
-[^1]: ==H== spelled: **<span class="ashebrew"><big>לִפָנֶֽי/ךָ\׃\ \פ</big></span>**
+[^1]: H spelled: **<span class="ashebrew"><big>לִפָנֶֽי/ךָ\׃\ \פ</big></span>**
 

@@ -30,6 +30,6 @@ And there was also a battle at Gath, where there was a man of great stature with
 | to the Raphah  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7497A\|רָפָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> ra.Fah<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.19|<< 2 Samuel 21:19]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.21|2 Samuel 21:21 >>]]</td></tr></table>
 
-[^1]: ==K==: measure  | **<big>[[H4060G|מָדִין]]</big> ** | ma.din<small><sup>[[HNtmsa]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>מָדֹ֗ין</big></span>**
+[^1]: measure  | **<big>[[H4060G|מָדִין]]</big> ** | ma.din<small><sup>[[HNtmsa]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>מָדֹ֗ין</big></span>**
 

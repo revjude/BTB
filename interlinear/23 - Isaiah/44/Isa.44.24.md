@@ -27,10 +27,10 @@ Thus says the LORD, your Redeemer who formed you from the womb: “I am the LORD
 | from \<the> with myself  [^5]|**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0854\|אִתִּֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^6] | ma.<small><sup>[[HRd]]</sup></small> 'i.t<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.23|<< Isaiah 44:23]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.25|Isaiah 44:25 >>]]</td></tr></table>
 
-[^1]: ==K==: who [was]?  | **<big>[[H4310|מִי]]</big> ** | mi<small><sup>[[HPi]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>מֵי</big></span>**
-[^3]: ==K==: with me  | **<big>[[H9016|׃]]</big><big>[[H9030|י]]</big><big>[[H0854|אִתִּ]]</big> ** | 'i.t<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> 
-[^4]: ==K==: with me  | **<big>[[H9016|׃]]</big><big>[[H9030|י]]</big><big>[[H0854|אִתִּ]]</big> ** | 'i.t<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> 
-[^5]: ==K==: with me  | **<big>[[H9016|׃]]</big><big>[[H9030|י]]</big><big>[[H0854|אִתִּ]]</big> ** | 'i.t<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> 
-[^6]: ==L== spelled: **<span class="ashebrew"><big>אִתִּֽי\׃</big></span>**
+[^1]: who [was]?  | **<big>[[H4310|מִי]]</big> ** | mi<small><sup>[[HPi]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>מֵי</big></span>**
+[^3]: with me  | **<big>[[H9016|׃]]</big><big>[[H9030|י]]</big><big>[[H0854|אִתִּ]]</big> ** | 'i.t<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^4]: with me  | **<big>[[H9016|׃]]</big><big>[[H9030|י]]</big><big>[[H0854|אִתִּ]]</big> ** | 'i.t<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^5]: with me  | **<big>[[H9016|׃]]</big><big>[[H9030|י]]</big><big>[[H0854|אִתִּ]]</big> ** | 'i.t<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^6]: L spelled: **<span class="ashebrew"><big>אִתִּֽי\׃</big></span>**
 

@@ -21,9 +21,9 @@ The ninth, for the ninth month, was Abiezer the Anathothite, a Benjamite. There 
 | thousand  |**<big>&#8207;[[H0505G\|אָֽלֶף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'A.lef<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.11|<< 1 Chronicles 27:11]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.13|1 Chronicles 27:13 >>]]</td></tr></table>
 
-[^1]: ==K==: of the Benjaminite[s]  | **<big>[[H1145|בֶּנְיְמִינִי]]</big><big>[[H9005|לַ]]</big> ** | la.<small><sup>[[HRd]]</sup></small> ben.ye.mi.ni<small><sup>[[HNgmsa]]</sup></small> 
-[^2]: ==K==: of the Benjaminite[s]  | **<big>[[H1145|בֶּנְיְמִינִי]]</big><big>[[H9005|לַ]]</big> ** | la.<small><sup>[[HRd]]</sup></small> ben.ye.mi.ni<small><sup>[[HNgmsa]]</sup></small> 
-[^3]: ==K==: of the Benjaminite[s]  | **<big>[[H1145|בֶּנְיְמִינִי]]</big><big>[[H9005|לַ]]</big> ** | la.<small><sup>[[HRd]]</sup></small> ben.ye.mi.ni<small><sup>[[HNgmsa]]</sup></small> 
-[^4]: ==K==: of the Benjaminite[s]  | **<big>[[H1145|בֶּנְיְמִינִי]]</big><big>[[H9005|לַ]]</big> ** | la.<small><sup>[[HRd]]</sup></small> ben.ye.mi.ni<small><sup>[[HNgmsa]]</sup></small> 
-[^5]: ==L== spelled: **<span class="ashebrew"><big>לַבֵּ֣נ\׀/יְמִינִ֑י</big></span>**
+[^1]: of the Benjaminite[s]  | **<big>[[H1145|בֶּנְיְמִינִי]]</big><big>[[H9005|לַ]]</big> ** | la.<small><sup>[[HRd]]</sup></small> ben.ye.mi.ni<small><sup>[[HNgmsa]]</sup></small> | K
+[^2]: of the Benjaminite[s]  | **<big>[[H1145|בֶּנְיְמִינִי]]</big><big>[[H9005|לַ]]</big> ** | la.<small><sup>[[HRd]]</sup></small> ben.ye.mi.ni<small><sup>[[HNgmsa]]</sup></small> | K
+[^3]: of the Benjaminite[s]  | **<big>[[H1145|בֶּנְיְמִינִי]]</big><big>[[H9005|לַ]]</big> ** | la.<small><sup>[[HRd]]</sup></small> ben.ye.mi.ni<small><sup>[[HNgmsa]]</sup></small> | K
+[^4]: of the Benjaminite[s]  | **<big>[[H1145|בֶּנְיְמִינִי]]</big><big>[[H9005|לַ]]</big> ** | la.<small><sup>[[HRd]]</sup></small> ben.ye.mi.ni<small><sup>[[HNgmsa]]</sup></small> | K
+[^5]: L spelled: **<span class="ashebrew"><big>לַבֵּ֣נ\׀/יְמִינִ֑י</big></span>**
 

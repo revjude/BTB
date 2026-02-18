@@ -27,9 +27,9 @@ All the splendor has departed from the Daughter of Zion. Her princes are like de
 | a pursuer  |**<big>&#8207;[[H7291\|רוֹדֵֽף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ro.Def<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.5|<< Lamentations 1:5]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.7|Lamentations 1:7 >>]]</td></tr></table>
 
-[^1]: ==K==: from  | **<big>[[H9014|־]]</big><big>[[H4480A|מִן]]</big> ** | min-<small><sup>[[HR]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>מִן\־</big></span>**
-[^3]: ==K==: [the] daughter of  | **<big>[[H1323G|בַּת]]</big> ** | vat-<small><sup>[[HNcfsc]]</sup></small> 
-[^4]: ==K==: [the] daughter of  | **<big>[[H1323G|בַּת]]</big> ** | vat-<small><sup>[[HNcfsc]]</sup></small> 
-[^5]: ==L== spelled: **<span class="ashebrew"><big>בַּת\־</big></span>**
+[^1]: from  | **<big>[[H9014|־]]</big><big>[[H4480A|מִן]]</big> ** | min-<small><sup>[[HR]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>מִן\־</big></span>**
+[^3]: [the] daughter of  | **<big>[[H1323G|בַּת]]</big> ** | vat-<small><sup>[[HNcfsc]]</sup></small> | K
+[^4]: [the] daughter of  | **<big>[[H1323G|בַּת]]</big> ** | vat-<small><sup>[[HNcfsc]]</sup></small> | K
+[^5]: L spelled: **<span class="ashebrew"><big>בַּת\־</big></span>**
 

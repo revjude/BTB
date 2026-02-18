@@ -23,7 +23,7 @@ Why are you discouraging the Israelites from crossing into the land that the LOR
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.6|<< Numbers 32:6]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.8|Numbers 32:8 >>]]</td></tr></table>
 
-[^1]: ==K==: do you hinder !  | **<big>[[H9013|ן]]</big><big>[[H5106|תְנוּאוּ]]</big> ** | te.nu.'u<small><sup>[[HVqi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> 
-[^2]: ==K==: do you hinder !  | **<big>[[H9013|ן]]</big><big>[[H5106|תְנוּאוּ]]</big> ** | te.nu.'u<small><sup>[[HVqi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>תְנִוא֔וּן</big></span>**
+[^1]: do you hinder !  | **<big>[[H9013|ן]]</big><big>[[H5106|תְנוּאוּ]]</big> ** | te.nu.'u<small><sup>[[HVqi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | K
+[^2]: do you hinder !  | **<big>[[H9013|ן]]</big><big>[[H5106|תְנוּאוּ]]</big> ** | te.nu.'u<small><sup>[[HVqi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>תְנִוא֔וּן</big></span>**
 

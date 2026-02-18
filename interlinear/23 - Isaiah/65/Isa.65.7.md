@@ -28,6 +28,6 @@ both for your iniquities and for those of your fathers,” says the LORD. “Bec
 | bosom their  |**<big>&#8207;[[H2436I\|חֵיקָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| chei.Ka<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.6|<< Isaiah 65:6]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.8|Isaiah 65:8 >>]]</td></tr></table>
 
-[^1]: ==K==: on  | **<big>[[H5921A|עַל]]</big> ** | al-<small><sup>[[HR]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>עֶל\־</big></span>**
+[^1]: on  | **<big>[[H5921A|עַל]]</big> ** | al-<small><sup>[[HR]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>עֶל\־</big></span>**
 

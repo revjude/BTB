@@ -42,9 +42,9 @@ Summon the archers against Babylon, all who string the bow. Encamp all around he
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.28|<< Jeremiah 50:28]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.30|Jeremiah 50:30 >>]]</td></tr></table>
 
-[^1]: ==K==: it be  | **<big>[[H1961|יְהִי]]</big> ** | ye.hi-<small><sup>[[HVqj3ms]]</sup></small> 
-[^2]: ==K==: it be  | **<big>[[H1961|יְהִי]]</big> ** | ye.hi-<small><sup>[[HVqj3ms]]</sup></small> 
-[^3]: ==K==: it be  | **<big>[[H1961|יְהִי]]</big> ** | ye.hi-<small><sup>[[HVqj3ms]]</sup></small> 
-[^4]: ==K==: it be  | **<big>[[H1961|יְהִי]]</big> ** | ye.hi-<small><sup>[[HVqj3ms]]</sup></small> 
-[^5]: ==L== spelled: **<span class="ashebrew"><big>יְהִיָ֙\־</big></span>**
+[^1]: it be  | **<big>[[H1961|יְהִי]]</big> ** | ye.hi-<small><sup>[[HVqj3ms]]</sup></small> | K
+[^2]: it be  | **<big>[[H1961|יְהִי]]</big> ** | ye.hi-<small><sup>[[HVqj3ms]]</sup></small> | K
+[^3]: it be  | **<big>[[H1961|יְהִי]]</big> ** | ye.hi-<small><sup>[[HVqj3ms]]</sup></small> | K
+[^4]: it be  | **<big>[[H1961|יְהִי]]</big> ** | ye.hi-<small><sup>[[HVqj3ms]]</sup></small> | K
+[^5]: L spelled: **<span class="ashebrew"><big>יְהִיָ֙\־</big></span>**
 

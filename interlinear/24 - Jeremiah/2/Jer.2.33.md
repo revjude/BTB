@@ -22,6 +22,6 @@ How skillfully you pursue love! Even the most immoral of women could learn from 
 | ways your  |**<big>&#8207;[[H1870G\|דְּרָכָֽיִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| de.ra.Kha.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.32|<< Jeremiah 2:32]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.34|Jeremiah 2:34 >>]]</td></tr></table>
 
-[^1]: ==K==: I have taught  | **<big>[[H3925G|לִמַּדְתִּי]]</big> ** | li.mad.ti<small><sup>[[HVpp1cs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>לִמַּ֖דְתְּי</big></span>**
+[^1]: I have taught  | **<big>[[H3925G|לִמַּדְתִּי]]</big> ** | li.mad.ti<small><sup>[[HVpp1cs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>לִמַּ֖דְתְּי</big></span>**
 

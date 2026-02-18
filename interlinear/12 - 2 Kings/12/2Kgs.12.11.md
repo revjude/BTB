@@ -28,9 +28,9 @@ Then they would put the counted money into the hands of those who supervised the
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.12.10|<< 2 Kings 12:10]]</td><td align="center" style="border:none;">[[2Kgs.12|2 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.12.12|2 Kings 12:12 >>]]</td></tr></table>
 
-[^1]: ==K==: [the] hand of  | **<big>[[H3027G|יַד]]</big> ** | yad<small><sup>[[HNcbsc]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יְדֵ֙</big></span>**
-[^3]: ==K==: who were appointed  | **<big>[[H6485J|פְּקֻדִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> pe.ku.dim<small><sup>[[HVqsmpa]]</sup></small> 
-[^4]: ==K==: who were appointed  | **<big>[[H6485J|פְּקֻדִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> pe.ku.dim<small><sup>[[HVqsmpa]]</sup></small> 
-[^5]: ==L== spelled: **<span class="ashebrew"><big>הַֻפְּקָדִ֖ים</big></span>**
+[^1]: [the] hand of  | **<big>[[H3027G|יַד]]</big> ** | yad<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יְדֵ֙</big></span>**
+[^3]: who were appointed  | **<big>[[H6485J|פְּקֻדִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> pe.ku.dim<small><sup>[[HVqsmpa]]</sup></small> | K
+[^4]: who were appointed  | **<big>[[H6485J|פְּקֻדִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> pe.ku.dim<small><sup>[[HVqsmpa]]</sup></small> | K
+[^5]: L spelled: **<span class="ashebrew"><big>הַֻפְּקָדִ֖ים</big></span>**
 

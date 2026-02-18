@@ -20,6 +20,6 @@ It magnified itself, even to the Prince of the host; it removed His daily sacrif
 | sanctuary his  |**<big>&#8207;[[H4720\|מִקְדָּשֽׁ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mik.da.Sh<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.10|<< Daniel 8:10]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.12|Daniel 8:12 >>]]</td></tr></table>
 
-[^1]: ==K==: it removed  | **<big>[[H7311A|הֵרִים]]</big> ** | he.rim<small><sup>[[HVhp3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>הֻרַ֣ים</big></span>**
+[^1]: it removed  | **<big>[[H7311A|הֵרִים]]</big> ** | he.rim<small><sup>[[HVhp3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>הֻרַ֣ים</big></span>**
 

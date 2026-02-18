@@ -18,6 +18,6 @@ So their people return to this place and drink up waters in abundance.
 | by them  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9038\|מוֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> mo<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.9|<< Psalms 73:9]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.11|Psalms 73:11 >>]]</td></tr></table>
 
-[^1]: ==K==: he brings back  | **<big>[[H7725G|יָשִׁיב]]</big> ** | ya.Shuv<small><sup>[[HVhi3ms]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>יָשׁ֣יּב</big></span>**
+[^1]: he brings back  | **<big>[[H7725G|יָשִׁיב]]</big> ** | ya.Shuv<small><sup>[[HVhi3ms]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>יָשׁ֣יּב</big></span>**
 

@@ -30,8 +30,8 @@ her husband got up and went after her to speak kindly to her and bring her back,
 | to meet him  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7122G\|קְרָאתֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> k.ra.T<small><sup>[[HVqcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.2|<< Judges 19:2]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.4|Judges 19:4 >>]]</td></tr></table>
 
-[^1]: ==K==: to bring back it  | **<big>[[H9033|וֹ]]</big><big>[[H7725H|הֲשִׁיב]]</big><big>[[H9005|לַ]]</big> ** | la.<small><sup>[[HR]]</sup></small> ha.shi.vo<small><sup>[[HVhcc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: to bring back it  | **<big>[[H9033|וֹ]]</big><big>[[H7725H|הֲשִׁיב]]</big><big>[[H9005|לַ]]</big> ** | la.<small><sup>[[HR]]</sup></small> ha.shi.vo<small><sup>[[HVhcc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==K==: to bring back it  | **<big>[[H9033|וֹ]]</big><big>[[H7725H|הֲשִׁיב]]</big><big>[[H9005|לַ]]</big> ** | la.<small><sup>[[HR]]</sup></small> ha.shi.vo<small><sup>[[HVhcc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>לַהֲשִׁיבָ֔/וּ</big></span>**
+[^1]: to bring back it  | **<big>[[H9033|וֹ]]</big><big>[[H7725H|הֲשִׁיב]]</big><big>[[H9005|לַ]]</big> ** | la.<small><sup>[[HR]]</sup></small> ha.shi.vo<small><sup>[[HVhcc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: to bring back it  | **<big>[[H9033|וֹ]]</big><big>[[H7725H|הֲשִׁיב]]</big><big>[[H9005|לַ]]</big> ** | la.<small><sup>[[HR]]</sup></small> ha.shi.vo<small><sup>[[HVhcc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: to bring back it  | **<big>[[H9033|וֹ]]</big><big>[[H7725H|הֲשִׁיב]]</big><big>[[H9005|לַ]]</big> ** | la.<small><sup>[[HR]]</sup></small> ha.shi.vo<small><sup>[[HVhcc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>לַהֲשִׁיבָ֔/וּ</big></span>**
 

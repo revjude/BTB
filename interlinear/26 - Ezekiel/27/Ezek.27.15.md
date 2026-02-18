@@ -22,6 +22,6 @@ The men of Dedan were your clients; many coastlands were your market; they paid 
 | tribute your  |**<big>&#8207;[[H0814\|אֶשְׁכָּרֵֽ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'esh.ka.Re<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.14|<< Ezekiel 27:14]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.16|Ezekiel 27:16 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וְהָובְנִ֔ים</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וְהוֹבְנִים</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וְהָובְנִ֔ים</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וְהוֹבְנִים</big></span>**
 

@@ -16,11 +16,11 @@ Our fathers sinned and are no more, but we bear their punishment.
 | we have borne  |**<big>&#8207;[[H5445\|סָבָֽלְנוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sa.Val.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.5.6|<< Lamentations 5:6]]</td><td align="center" style="border:none;">[[Lam.5|Lamentations 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.5.8|Lamentations 5:8 >>]]</td></tr></table>
 
-[^1]: ==K==: not [are] they  | **<big>[[H9048|ם]]</big><big>[[H0369|אֵינָ]]</big> ** | 'ei.na<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^2]: ==K==: not [are] they  | **<big>[[H9048|ם]]</big><big>[[H0369|אֵינָ]]</big> ** | 'ei.na<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^3]: ==K==: not [are] they  | **<big>[[H9048|ם]]</big><big>[[H0369|אֵינָ]]</big> ** | 'ei.na<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>ְאֵינָ֔ם</big></span>**
-[^5]: ==K==: we  | **<big>[[H0587|אֲנַחְנוּ]]</big> ** | 'a.nach.nu<small><sup>[[HPp1bp]]</sup></small> 
-[^6]: ==K==: we  | **<big>[[H0587|אֲנַחְנוּ]]</big> ** | 'a.nach.nu<small><sup>[[HPp1bp]]</sup></small> 
-[^7]: ==L== spelled: **<span class="ashebrew"><big>ַאֲנַ֖חְנוּ</big></span>**
+[^1]: not [are] they  | **<big>[[H9048|ם]]</big><big>[[H0369|אֵינָ]]</big> ** | 'ei.na<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^2]: not [are] they  | **<big>[[H9048|ם]]</big><big>[[H0369|אֵינָ]]</big> ** | 'ei.na<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^3]: not [are] they  | **<big>[[H9048|ם]]</big><big>[[H0369|אֵינָ]]</big> ** | 'ei.na<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>ְאֵינָ֔ם</big></span>**
+[^5]: we  | **<big>[[H0587|אֲנַחְנוּ]]</big> ** | 'a.nach.nu<small><sup>[[HPp1bp]]</sup></small> | K
+[^6]: we  | **<big>[[H0587|אֲנַחְנוּ]]</big> ** | 'a.nach.nu<small><sup>[[HPp1bp]]</sup></small> | K
+[^7]: L spelled: **<span class="ashebrew"><big>ַאֲנַ֖חְנוּ</big></span>**
 

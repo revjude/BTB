@@ -24,8 +24,8 @@ David answered, “While the child was alive, I fasted and wept, for I said, ‘
 | the child  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3206\|יָּֽלֶד]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Ya.led<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.12.21|<< 2 Samuel 12:21]]</td><td align="center" style="border:none;">[[2Sam.12|2 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.12.23|2 Samuel 12:23 >>]]</td></tr></table>
 
-[^1]: ==K==: he will show favor to me  | **<big>[[H9030|נִי]]</big><big>[[H2603A|יְחָנַּ]]</big> ** | ye.cha.na.<small><sup>[[HVqi3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> 
-[^2]: ==K==: he will show favor to me  | **<big>[[H9030|נִי]]</big><big>[[H2603A|יְחָנַּ]]</big> ** | ye.cha.na.<small><sup>[[HVqi3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> 
-[^3]: ==K==: he will show favor to me  | **<big>[[H9030|נִי]]</big><big>[[H2603A|יְחָנַּ]]</big> ** | ye.cha.na.<small><sup>[[HVqi3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> 
-[^4]: ==L== spelled: **<span class="ashebrew"><big>יְחַנַּ֥נִי</big></span>**
+[^1]: he will show favor to me  | **<big>[[H9030|נִי]]</big><big>[[H2603A|יְחָנַּ]]</big> ** | ye.cha.na.<small><sup>[[HVqi3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | K
+[^2]: he will show favor to me  | **<big>[[H9030|נִי]]</big><big>[[H2603A|יְחָנַּ]]</big> ** | ye.cha.na.<small><sup>[[HVqi3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | K
+[^3]: he will show favor to me  | **<big>[[H9030|נִי]]</big><big>[[H2603A|יְחָנַּ]]</big> ** | ye.cha.na.<small><sup>[[HVqi3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | K
+[^4]: L spelled: **<span class="ashebrew"><big>יְחַנַּ֥נִי</big></span>**
 

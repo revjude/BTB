@@ -33,6 +33,6 @@ Then said she, I pray thee, let the king remember the LORD thy God, that thou wo
 | [the] ground towards  |**<big>&#8207;[[H0776H\|אָֽרְצָ]]&#8207;&#8207;[[H9011\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'A.re.tza<small><sup>[[HNcfsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.10|<< 2 Samuel 14:10]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.12|2 Samuel 14:12 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>מֵהַרְבַּ֞ית</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>מֵהַרְבִּית</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>מֵהַרְבַּ֞ית</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>מֵהַרְבִּית</big></span>**
 

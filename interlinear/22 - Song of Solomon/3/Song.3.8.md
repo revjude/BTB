@@ -21,5 +21,5 @@ All are skilled with the sword, experienced in warfare. Each has his sword at hi
 | in the nights  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3915\|לֵּילּֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**[^1] | ba.<small><sup>[[HRd]]</sup></small> lei.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.3.7|<< Song of Solomon 3:7]]</td><td align="center" style="border:none;">[[Song.3|Song of Solomon 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.3.9|Song of Solomon 3:9 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>בַּלֵּילֽוֹת\׃\ \ס</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>בַּלֵּילֽוֹת\׃\ \ס</big></span>**
 

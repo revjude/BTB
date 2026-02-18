@@ -25,7 +25,7 @@ When Israel took hold of you with their hands, you splintered, tearing all their
 | hips  |**<big>&#8207;[[H4975\|מָתְנָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ma.te.Na.yim<small><sup>[[HNcmda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.29.6|<< Ezekiel 29:6]]</td><td align="center" style="border:none;">[[Ezek.29|Ezekiel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29.8|Ezekiel 29:8 >>]]</td></tr></table>
 
-[^1]: ==K==: by \<the> hand your  | **<big>[[H9021|ךָ]]</big><big>[[H3709G|כַּפְ]]</big><big>[[H9003|בַ]]</big> ** | va.<small><sup>[[HRd]]</sup></small> kaf.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^2]: ==K==: by \<the> hand your  | **<big>[[H9021|ךָ]]</big><big>[[H3709G|כַּפְ]]</big><big>[[H9003|בַ]]</big> ** | va.<small><sup>[[HRd]]</sup></small> kaf.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בַכַּפ֙/ך</big></span>**
+[^1]: by \<the> hand your  | **<big>[[H9021|ךָ]]</big><big>[[H3709G|כַּפְ]]</big><big>[[H9003|בַ]]</big> ** | va.<small><sup>[[HRd]]</sup></small> kaf.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: by \<the> hand your  | **<big>[[H9021|ךָ]]</big><big>[[H3709G|כַּפְ]]</big><big>[[H9003|בַ]]</big> ** | va.<small><sup>[[HRd]]</sup></small> kaf.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בַכַּפ֙/ך</big></span>**
 

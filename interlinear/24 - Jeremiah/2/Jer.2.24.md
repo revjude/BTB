@@ -26,7 +26,7 @@ a wild donkey at home in the wilderness, sniffing the wind in the heat of her de
 | they will find it  |**<big>&#8207;[[H4672\|יִמְצָאֽוּ]]&#8207;&#8207;[[H9034\|נְהָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| yim.tza.'U.ne.<small><sup>[[HVqi3mp]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.23|<< Jeremiah 2:23]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.25|Jeremiah 2:25 >>]]</td></tr></table>
 
-[^1]: ==K==: self its  | **<big>[[H9023|וֹ]]</big><big>[[H5315I|נַפְשׁ]]</big> ** | na.fo.sho<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: self its  | **<big>[[H9023|וֹ]]</big><big>[[H5315I|נַפְשׁ]]</big> ** | na.fo.sho<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>נַפְשָׁוּ֙</big></span>**
+[^1]: self its  | **<big>[[H9023|וֹ]]</big><big>[[H5315I|נַפְשׁ]]</big> ** | na.fo.sho<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: self its  | **<big>[[H9023|וֹ]]</big><big>[[H5315I|נַפְשׁ]]</big> ** | na.fo.sho<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>נַפְשָׁוּ֙</big></span>**
 

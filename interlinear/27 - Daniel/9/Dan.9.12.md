@@ -33,7 +33,7 @@ You have carried out the words spoken against us and against our rulers by bring
 | on Jerusalem  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3389\|ירוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.11|<< Daniel 9:11]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.13|Daniel 9:13 >>]]</td></tr></table>
 
-[^1]: ==K==: words his  | **<big>[[H9023|ו]]</big><big>[[H1697G|דְּבָרָי]]</big> ** | de.va.ra<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^2]: ==K==: words his  | **<big>[[H9023|ו]]</big><big>[[H1697G|דְּבָרָי]]</big> ** | de.va.ra<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>דְּבָרֹ֣יו\׀</big></span>**
+[^1]: words his  | **<big>[[H9023|ו]]</big><big>[[H1697G|דְּבָרָי]]</big> ** | de.va.ra<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: words his  | **<big>[[H9023|ו]]</big><big>[[H1697G|דְּבָרָי]]</big> ** | de.va.ra<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>דְּבָרֹ֣יו\׀</big></span>**
 

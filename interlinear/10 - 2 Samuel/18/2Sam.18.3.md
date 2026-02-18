@@ -41,7 +41,7 @@ But the people pleaded, “You must not go out! For if we have to flee, they wil
 | to help  [^2]|**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5826\|עְזֽוֹר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**[^3] | la<small><sup>[[HR]]</sup></small> '.zir<small><sup>[[HVqcc]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.2|<< 2 Samuel 18:2]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.4|2 Samuel 18:4 >>]]</td></tr></table>
 
-[^1]: ==K==: to help  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H5826|עְזִיר]]</big><big>[[H9005|לַ]]</big> ** | la<small><sup>[[HR]]</sup></small> '.zir<small><sup>[[HVhcc]]</sup></small> 
-[^2]: ==K==: to help  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H5826|עְזִיר]]</big><big>[[H9005|לַ]]</big> ** | la<small><sup>[[HR]]</sup></small> '.zir<small><sup>[[HVhcc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>לַעְזֹֽיר\׃\ \ס</big></span>**
+[^1]: to help  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H5826|עְזִיר]]</big><big>[[H9005|לַ]]</big> ** | la<small><sup>[[HR]]</sup></small> '.zir<small><sup>[[HVhcc]]</sup></small> | K
+[^2]: to help  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H5826|עְזִיר]]</big><big>[[H9005|לַ]]</big> ** | la<small><sup>[[HR]]</sup></small> '.zir<small><sup>[[HVhcc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>לַעְזֹֽיר\׃\ \ס</big></span>**
 

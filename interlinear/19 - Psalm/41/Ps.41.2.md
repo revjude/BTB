@@ -19,7 +19,7 @@ The LORD will protect and preserve him; He will bless him in the land and refuse
 | enemies his  |**<big>&#8207;[[H0341\|אֹיְבָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'o.ye.Va<small><sup>[[HVqrmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.41.1|<< Psalms 41:1]]</td><td align="center" style="border:none;">[[Ps.41|Psalms 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.41.3|Psalms 41:3 >>]]</td></tr></table>
 
-[^1]: ==K==: he will be called blessed  | **<big>[[H0833|יֶאְשֹּׁר]]</big> ** | ye.'u.Shar<small><sup>[[HVPi3ms]]</sup></small> 
-[^2]: ==K==: he will be called blessed  | **<big>[[H0833|יֶאְשֹּׁר]]</big> ** | ye.'u.Shar<small><sup>[[HVPi3ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>יְאֻשַּׁ֣ר</big></span>**
+[^1]: he will be called blessed  | **<big>[[H0833|יֶאְשֹּׁר]]</big> ** | ye.'u.Shar<small><sup>[[HVPi3ms]]</sup></small> | K
+[^2]: he will be called blessed  | **<big>[[H0833|יֶאְשֹּׁר]]</big> ** | ye.'u.Shar<small><sup>[[HVPi3ms]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>יְאֻשַּׁ֣ר</big></span>**
 

@@ -15,7 +15,7 @@ Moab will be shattered; her little ones will cry out.
 | servants its  [^2]|**<big>&#8207;[[H6810\|צְעִירֶֽי]]&#8207;&#8207;[[H9024\|הָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | tze.'o.rei.<small><sup>[[HAampc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.3|<< Jeremiah 48:3]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.5|Jeremiah 48:5 >>]]</td></tr></table>
 
-[^1]: ==K==: small [ones] its  | **<big>[[H9016|׃]]</big><big>[[H9024|הָ]]</big><big>[[H6810|צְעוֹרֶי]]</big> ** | tze.'o.rei.<small><sup>[[HAampc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> 
-[^2]: ==K==: small [ones] its  | **<big>[[H9016|׃]]</big><big>[[H9024|הָ]]</big><big>[[H6810|צְעוֹרֶי]]</big> ** | tze.'o.rei.<small><sup>[[HAampc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>צְעִורֶֽיהָ\׃</big></span>**
+[^1]: small [ones] its  | **<big>[[H9016|׃]]</big><big>[[H9024|הָ]]</big><big>[[H6810|צְעוֹרֶי]]</big> ** | tze.'o.rei.<small><sup>[[HAampc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | K
+[^2]: small [ones] its  | **<big>[[H9016|׃]]</big><big>[[H9024|הָ]]</big><big>[[H6810|צְעוֹרֶי]]</big> ** | tze.'o.rei.<small><sup>[[HAampc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>צְעִורֶֽיהָ\׃</big></span>**
 

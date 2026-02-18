@@ -31,5 +31,5 @@ He went to his father’s house in Ophrah, and on one stone murdered his seventy
 | he hid himself  |**<big>&#8207;[[H2244\|נֶחְבָּֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| nech.Ba'<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.4|<< Judges 9:4]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.6|Judges 9:6 >>]]</td></tr></table>
 
-[^1]: ==ABH== spelled: **<span class="ashebrew"><big>שִׁבְעִ֥ים</big></span>**
+[^1]: ABH spelled: **<span class="ashebrew"><big>שִׁבְעִ֥ים</big></span>**
 

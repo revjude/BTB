@@ -21,6 +21,6 @@ David longed for water and said, “Oh, that someone would get me a drink of wat
 | [is] at the gate  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H8179G\|שָּֽׁעַר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Sha.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.16|<< 1 Chronicles 11:16]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.18|1 Chronicles 11:18 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>וַיִּתְאָ֥ו</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>וַיִּתְאָו</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>וַיִּתְאָ֥ו</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>וַיִּתְאָו</big></span>**
 

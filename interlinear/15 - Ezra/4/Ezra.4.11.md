@@ -24,7 +24,7 @@ This [is] the copy of the letter that they sent unto him, [even] unto Artaxerxes
 | and now  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3706\|כְעֶֽנֶת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> khe.'E.net<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.10|<< Ezra 4:10]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.12|Ezra 4:12 >>]]</td></tr></table>
 
-[^1]: ==K==: servants your  | **<big>[[H9021|ךָ]]</big><big>[[H5649|עֲבָדֶ֣י]]</big> ** | av.da.yi<small><sup>[[ANcbsc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> 
-[^2]: ==K==: servants your  | **<big>[[H9021|ךָ]]</big><big>[[H5649|עֲבָדֶ֣י]]</big> ** | av.da.yi<small><sup>[[ANcbsc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> 
-[^3]: ==L== spelled: **<span class="asaramaic"><big>עַבְדָ֛יךְ</big></span>**
+[^1]: servants your  | **<big>[[H9021|ךָ]]</big><big>[[H5649|עֲבָדֶ֣י]]</big> ** | av.da.yi<small><sup>[[ANcbsc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> | K
+[^2]: servants your  | **<big>[[H9021|ךָ]]</big><big>[[H5649|עֲבָדֶ֣י]]</big> ** | av.da.yi<small><sup>[[ANcbsc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> | K
+[^3]: L spelled: **<span class="asaramaic"><big>עַבְדָ֛יךְ</big></span>**
 

@@ -21,7 +21,7 @@ See, I will wait at the fords of the wilderness until word comes from you to inf
 | to \<the> me  |**<big>&#8207;[[H9005\|לִֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| L<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.27|<< 2 Samuel 15:27]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.29|2 Samuel 15:29 >>]]</td></tr></table>
 
-[^1]: ==K==: at [the] fords of  | **<big>[[H5679|עַבְרוֹת]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'av.rot<small><sup>[[HNcfpc]]</sup></small> 
-[^2]: ==K==: at [the] fords of  | **<big>[[H5679|עַבְרוֹת]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'av.rot<small><sup>[[HNcfpc]]</sup></small> 
-[^3]: ==L== spelled: **<span class="ashebrew"><big>בְּעַֽבְר֖וֹת</big></span>**
+[^1]: at [the] fords of  | **<big>[[H5679|עַבְרוֹת]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'av.rot<small><sup>[[HNcfpc]]</sup></small> | K
+[^2]: at [the] fords of  | **<big>[[H5679|עַבְרוֹת]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'av.rot<small><sup>[[HNcfpc]]</sup></small> | K
+[^3]: L spelled: **<span class="ashebrew"><big>בְּעַֽבְר֖וֹת</big></span>**
 

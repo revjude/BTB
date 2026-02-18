@@ -23,6 +23,6 @@ Then the prophet quickly removed the bandage from his eyes, and the king of Isra
 | he  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.40|<< 1 Kings 20:40]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.42|1 Kings 20:42 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="ashebrew"><big>מֵעֲלֵ֖</big></span>**
-[^2]: ==K== spelled: **<span class="ashebrew"><big>מֵעַל</big></span>**
+[^1]: L spelled: **<span class="ashebrew"><big>מֵעֲלֵ֖</big></span>**
+[^2]: K spelled: **<span class="ashebrew"><big>מֵעַל</big></span>**
 

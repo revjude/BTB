@@ -26,6 +26,6 @@ And Elisha declared, “At this time next year, you will hold a son in your arms
 | to maidservant your  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8198\|שִׁפְחָתֶֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> shif.cha.Te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.15|<< 2 Kings 4:15]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.17|2 Kings 4:17 >>]]</td></tr></table>
 
-[^1]: ==K==: you  | **<big>[[H0859B|אַתִּי]]</big> ** | 'a.ti<small><sup>[[HPp2fs]]</sup></small> 
-[^2]: ==L== spelled: **<span class="ashebrew"><big>אַ֖תְּי</big></span>**
+[^1]: you  | **<big>[[H0859B|אַתִּי]]</big> ** | 'a.ti<small><sup>[[HPp2fs]]</sup></small> | K
+[^2]: L spelled: **<span class="ashebrew"><big>אַ֖תְּי</big></span>**
 

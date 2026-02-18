@@ -17,5 +17,5 @@ And the cloud of the LORD was over them by day when they set out from the camp.
 | the camp  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H4264\|מַּחֲנֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9019\|׆]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**[^1] | Ha.<small><sup>[[HTd]]</sup></small> ma.cha.Neh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad Biblia BenChayim (Allepo)">LBH(a)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.33|<< Numbers 10:33]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.35|Numbers 10:35 >>]]</td></tr></table>
 
-[^1]: ==A== spelled: **<span class="ashebrew"><big>הַֽמַּחֲנֶֽה\׃\ \ס</big></span>**
+[^1]: A spelled: **<span class="ashebrew"><big>הַֽמַּחֲנֶֽה\׃\ \ס</big></span>**
 

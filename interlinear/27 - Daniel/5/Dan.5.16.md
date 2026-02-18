@@ -36,12 +36,12 @@ But I have heard about you, that you are able to give interpretations and solve 
 | you will rule  |**<big>&#8207;[[H7981\|תִּשְׁלַֽט]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tish.Lat<small><sup>[[AVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.15|<< Daniel 5:15]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.17|Daniel 5:17 >>]]</td></tr></table>
 
-[^1]: ==L== spelled: **<span class="asaramaic"><big>עֲלָ֔יךְ</big></span>**
-[^2]: ==K== spelled: **<span class="asaramaic"><big>עֲלַיִךְ</big></span>**
-[^3]: ==L== spelled: **<span class="asaramaic"><big>תִוכֻּ֥ל</big></span>**
-[^4]: ==K== spelled: **<span class="asaramaic"><big>תוּכַל</big></span>**
-[^5]: ==L== spelled: **<span class="asaramaic"><big>תִּוכֻּ֨ל</big></span>**
-[^6]: ==K== spelled: **<span class="asaramaic"><big>תּוּכַל</big></span>**
-[^7]: ==L== spelled: **<span class="asaramaic"><big>וְהַֽמְונִכָ֤/א</big></span>**
-[^8]: ==K== spelled: **<span class="asaramaic"><big>וְהַמּוֹנְכָ/א</big></span>**
+[^1]: L spelled: **<span class="asaramaic"><big>עֲלָ֔יךְ</big></span>**
+[^2]: K spelled: **<span class="asaramaic"><big>עֲלַיִךְ</big></span>**
+[^3]: L spelled: **<span class="asaramaic"><big>תִוכֻּ֥ל</big></span>**
+[^4]: K spelled: **<span class="asaramaic"><big>תוּכַל</big></span>**
+[^5]: L spelled: **<span class="asaramaic"><big>תִּוכֻּ֨ל</big></span>**
+[^6]: K spelled: **<span class="asaramaic"><big>תּוּכַל</big></span>**
+[^7]: L spelled: **<span class="asaramaic"><big>וְהַֽמְונִכָ֤/א</big></span>**
+[^8]: K spelled: **<span class="asaramaic"><big>וְהַמּוֹנְכָ/א</big></span>**
 
